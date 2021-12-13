@@ -18,7 +18,7 @@ exported using the syllabic verse analysis tools available on Sourceforge:
 https://sourceforge.net/projects/syllabic-verse-analysis/
 
 The latest version of the processed corpus is available to download
-at http://www.ogr-corpus.org/download .
+at http://www.ogr-corpus.org/docs/download .
 
 COPYRIGHT AND ATTRIBUTION
 -------------------------
