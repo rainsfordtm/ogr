@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.SLeger_tei_q"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr.SLeger.tok.xml">
+<mark id="tei_q_0" xlink:href="#xpointer(id('tok_2066')/range-to(id('tok_2089')))"/><!-- tos consiliers ja non estrai  -->
+<mark id="tei_q_1" xlink:href="#xpointer(id('tok_2090')/range-to(id('tok_2110')))"/><!-- meu evesquet ne m lez tener  -->
+<mark id="tei_q_2" xlink:href="#xpointer(id('tok_2111')/range-to(id('tok_2131')))"/><!-- por te qui sempre vols aver  -->
+<mark id="tei_q_3" xlink:href="#xpointer(id('tok_2132')/range-to(id('tok_2155')))"/><!-- en u monstier me laisse intrer  -->
+<mark id="tei_q_4" xlink:href="#xpointer(id('tok_2156')/range-to(id('tok_2178')))"/><!-- pos ci non posc lai vol ester  -->
+<mark id="tei_q_5" xlink:href="#xpointer(id('tok_3587')/range-to(id('tok_3607')))"/><!-- hor a pordud dom deu parlier  -->
+<mark id="tei_q_6" xlink:href="#xpointer(id('tok_3608')/range-to(id('tok_3630')))"/><!-- ja non podra mais deu laudier  -->
+<mark id="tei_q_7" xlink:href="#xpointer(id('tok_4610')/range-to(id('tok_4632')))"/><!-- ciest omne tiel mult aima deus  -->
+<mark id="tei_q_8" xlink:href="#xpointer(id('tok_4633')/range-to(id('tok_4656')))"/><!-- por cui tels causa vin de ciel  -->
+</markList>
+</paula>

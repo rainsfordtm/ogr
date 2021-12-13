@@ -1,0 +1,84 @@
+file,name,value
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,text,Alexis
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,lang,fro
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,lang_other,---
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,ms_cent,12
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,ms_origin,England
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,text_cent,11
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,text_origin,Normandy
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,title_en,Life of Saint Alexis
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,title_fr,Vie de saint Alexis
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,author,anonymous
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,form,verse
+paula/tree/Alexis/ogr.Alexis.anno_feat.xml,source,ms. image
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,text,Boeci
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,lang,pro
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,lang_other,---
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,ms_cent,11..12
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,ms_origin,Burgundy
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,text_cent,11
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,text_origin,Limousin
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,title_en,Boeci fragment
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,title_fr,Fragment d'une paraphrase de Boèce
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,author,anonymous
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,ms,"Orleans, Bibliothèque municipale, 444"
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,form,verse
+paula/tree/Boeci/ogr.Boeci.anno_feat.xml,source,ms. image
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,text,Eulalie
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,lang,fro
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,lang_other,---
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,ms_cent,9
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,ms_origin,Hainaut
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,text_cent,9
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,text_origin,Hainaut
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,title_en,Sequence of Saint Eulalia
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,title_fr,Séquence de sainte Eulalie
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,author,anonymous
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,ms,"Valenciennes, Bibliothèque municipale, 150"
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,form,verse
+paula/tree/Eulalie/ogr.Eulalie.anno_feat.xml,source,ms. image
+paula/tree/Passion/ogr.Passion.anno_feat.xml,text,Passion
+paula/tree/Passion/ogr.Passion.anno_feat.xml,lang,fro
+paula/tree/Passion/ogr.Passion.anno_feat.xml,lang_other,---
+paula/tree/Passion/ogr.Passion.anno_feat.xml,ms_cent,10..11
+paula/tree/Passion/ogr.Passion.anno_feat.xml,ms_origin,Limousin [?]
+paula/tree/Passion/ogr.Passion.anno_feat.xml,text_cent,10
+paula/tree/Passion/ogr.Passion.anno_feat.xml,text_origin,Poitou
+paula/tree/Passion/ogr.Passion.anno_feat.xml,title_en,Passion of Clermont
+paula/tree/Passion/ogr.Passion.anno_feat.xml,title_fr,Passion du Christ
+paula/tree/Passion/ogr.Passion.anno_feat.xml,author,anonymous
+paula/tree/Passion/ogr.Passion.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/tree/Passion/ogr.Passion.anno_feat.xml,form,verse
+paula/tree/Passion/ogr.Passion.anno_feat.xml,source,transcription
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,text,SFoi
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,lang,pro
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,lang_other,---
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,ms_cent,11..12
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,ms_origin,Burgundy
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,text_cent,11
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,text_origin,between Narbonne and the Pyrenees
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,title_en,Song of Saint Faith
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,title_fr,Chanson de sainte Foi
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,author,anonymous
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,ms,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,form,verse
+paula/tree/SFoi/ogr.SFoi.anno_feat.xml,source,ms. image
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,text,SLeger
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,lang,fro
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,lang_other,---
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,ms_cent,10..11
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,ms_origin,Limousin [?]
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,text_cent,10
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,text_origin,Picardy|Wallonia [?]
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,title_en,Life of Saint Leger
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,title_fr,Vie de saint Léger
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,author,anonymous
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,form,verse
+paula/tree/SLeger/ogr.SLeger.anno_feat.xml,source,transcription
+paula/tree/ogr.meta_multiFeat.xml,name,"Old Gallo-Romance Corpus of Syllabic Verse (OGR-SylVer), ANNIS edition"
+paula/tree/ogr.meta_multiFeat.xml,creator,T. M. Rainsford
+paula/tree/ogr.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de
+paula/tree/ogr.meta_multiFeat.xml,website,http://www.ogr-corpus.org
+paula/tree/ogr.meta_multiFeat.xml,citation,"Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus of Syllabic Verse (OGR-SylVer), ANNIS edition, version 0.3. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>"

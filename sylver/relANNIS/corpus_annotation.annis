@@ -1,0 +1,85 @@
+4	NULL	title_fr	Chanson de sainte Foi
+4	NULL	text_cent	11
+4	NULL	lang_other	---
+4	NULL	lang	pro
+4	NULL	title_en	Song of Saint Faith
+4	NULL	ms	Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60
+4	NULL	form	verse
+4	NULL	ms_cent	11..12
+4	NULL	author	anonymous
+4	NULL	text	SFoi
+4	NULL	ms_origin	Burgundy
+4	NULL	source	ms. image
+4	NULL	text_origin	between Narbonne and the Pyrenees
+5	NULL	ms_origin	England
+5	NULL	text_cent	11
+5	NULL	author	anonymous
+5	NULL	title_fr	Vie de saint Alexis
+5	NULL	ms_cent	12
+5	NULL	ms	Hildesheim, Sankt Godehardi
+5	NULL	title_en	Life of Saint Alexis
+5	NULL	text_origin	Normandy
+5	NULL	lang_other	---
+5	NULL	text	Alexis
+5	NULL	lang	fro
+5	NULL	source	ms. image
+5	NULL	form	verse
+1	NULL	form	verse
+1	NULL	title_en	Boeci fragment
+1	NULL	ms_origin	Burgundy
+1	NULL	text_origin	Limousin
+1	NULL	ms	Orleans, Bibliothèque municipale, 444
+1	NULL	author	anonymous
+1	NULL	source	ms. image
+1	NULL	lang	pro
+1	NULL	lang_other	---
+1	NULL	title_fr	Fragment d\'une paraphrase de Boèce
+1	NULL	text_cent	11
+1	NULL	text	Boeci
+1	NULL	ms_cent	11..12
+0	NULL	source	ms. image
+0	NULL	ms_origin	Hainaut
+0	NULL	lang_other	---
+0	NULL	ms	Valenciennes, Bibliothèque municipale, 150
+0	NULL	lang	fro
+0	NULL	ms_cent	9
+0	NULL	text_cent	9
+0	NULL	text_origin	Hainaut
+0	NULL	title_en	Sequence of Saint Eulalia
+0	NULL	text	Eulalie
+0	NULL	title_fr	Séquence de sainte Eulalie
+0	NULL	form	verse
+0	NULL	author	anonymous
+3	NULL	title_fr	Passion du Christ
+3	NULL	text_cent	10
+3	NULL	title_en	Passion of Clermont
+3	NULL	text	Passion
+3	NULL	ms	Clermont-Ferrand, Bibliothèque municipale, 240
+3	NULL	ms_cent	10..11
+3	NULL	ms_origin	Limousin [?]
+3	NULL	author	anonymous
+3	NULL	text_origin	Poitou
+3	NULL	lang	fro
+3	NULL	lang_other	---
+3	NULL	form	verse
+3	NULL	source	transcription
+2	NULL	lang	fro
+2	NULL	text_cent	10
+2	NULL	ms_origin	Limousin [?]
+2	NULL	text_origin	Picardy|Wallonia [?]
+2	NULL	source	transcription
+2	NULL	author	anonymous
+2	NULL	lang_other	---
+2	NULL	ms_cent	10..11
+2	NULL	ms	Clermont-Ferrand, Bibliothèque municipale, 240
+2	NULL	form	verse
+2	NULL	title_fr	Vie de saint Léger
+2	NULL	text	SLeger
+2	NULL	title_en	Life of Saint Leger
+6	NULL	date	2021-12-07
+6	NULL	creator	T. M. Rainsford
+6	NULL	website	http://www.ogr-corpus.org
+6	NULL	name	Old Gallo-Romance Corpus of Syllabic Verse (OGR-SylVer), ANNIS edition
+6	NULL	email	thomas.rainsford@ling.uni-stuttgart.de
+6	NULL	format	SylVA-PAULA with metrical tree
+6	NULL	citation	Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus of Syllabic Verse (OGR-SylVer), ANNIS edition, version 0.3. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>

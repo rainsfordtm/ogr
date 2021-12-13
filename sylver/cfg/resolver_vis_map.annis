@@ -1,0 +1,6 @@
+ogr-sylver	NULL	NULL	node	grid	meter (grid)	hidden	100	annos:line_ref,line_met,syll_metpos,syll_lstress,seg_phoneme
+ogr-sylver	NULL	meter	node	tree	meter (tree)	hidden	101	terminal_name:seg_phoneme;terminal_ns:ogr
+ogr-sylver	NULL	NULL	node	grid	words	hidden	102	hide_tok:true;annos:line_ref,word,dipl,wd_div,lemma,lemma_dmf,pos_syn,morph
+ogr-sylver	NULL	NULL	node	grid	tei	hidden	103	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_l_n/,/tei::tei_q/,/ogr::word/
+ogr-sylver	NULL	NULL	node	html	text (norm)	hidden	104	config:ogr-norm-basic
+ogr-sylver	NULL	NULL	node	html	text (dipl)	hidden	105	config:ogr-dipl-basic

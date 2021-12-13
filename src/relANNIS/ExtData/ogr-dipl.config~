@@ -1,0 +1,6 @@
+tei_pb_n	table; style="pb"	value
+tei_pb_n	tr
+tei_cb	td; style="cb"
+tei_lb	div; style="line"
+dipl	span	value
+wd_div	span:wd_div	style="wd_div"

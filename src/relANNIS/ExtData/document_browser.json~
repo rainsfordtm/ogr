@@ -1,0 +1,39 @@
+{
+  "visualizers": [
+    {
+      "type": "htmldoc",
+      "displayName": "normalized text",
+      "mappings": "config:ogr-norm"
+    },
+    {
+      "type": "htmldoc",
+      "displayName": "diplomatic text",
+      "mappings": "config:ogr-dipl"
+    }
+  ],
+  "metaDataColumns": [
+    {
+      "namespace": "meta",
+      "name": "title_en"
+    },
+    {
+      "namespace": "meta",
+      "name": "title_fr"
+    },
+    {
+      "namespace": "meta",
+      "name": "lang"
+    },
+    {
+      "namespace": "meta",
+      "name": "form"
+    }
+  ],
+  "orderBy": [
+    {
+      "namespace": "meta",
+      "name": "text",
+      "ascending": "false"
+    }
+  ]
+}

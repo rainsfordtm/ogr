@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Passion_tei_q_tei_q"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="tei.Passion.tei_q.xml">
+<feat xlink:href="#tei_q_0" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_1" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_2" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_3" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_4" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_5" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_6" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_7" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_8" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_9" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_10" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_11" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_12" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_13" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_14" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_15" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_16" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_17" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_18" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_19" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_20" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_21" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_22" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_23" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_24" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_25" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_26" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_27" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_28" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_29" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_30" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_31" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_32" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_33" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_34" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_35" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_36" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_37" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_38" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_39" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_40" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_41" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_42" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_43" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_44" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_45" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_46" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_47" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_48" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_49" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_50" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_51" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_52" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_53" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_54" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_55" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_56" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_57" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_58" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_59" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_60" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_61" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_62" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_63" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_64" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_65" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_66" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_67" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_68" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_69" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_70" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_71" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_72" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_73" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_74" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_75" value="tei_q"/><!-- tei_q -->
+<feat xlink:href="#tei_q_76" value="tei_q"/><!-- tei_q -->
+</featList>
+</paula>

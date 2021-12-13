@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Serments_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.Serments.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_34')))"/><!-- lodhuuicus quoniam maior natu erat prior  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_35')/range-to(id('tok_67')))"/><!-- haec deinde se servaturum testatus est  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_68')/range-to(id('tok_109')))"/><!-- pro deo amur et pro christian poblo et nostro commun  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_110')/range-to(id('tok_141')))"/><!-- salvament d ist di en avant in quant deus  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_142')/range-to(id('tok_172')))"/><!-- savir et podir me dunat si salverai eo  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_173')/range-to(id('tok_200')))"/><!-- cist meon fradre karlo et in aiudha  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_201')/range-to(id('tok_232')))"/><!-- et in cadhuna cosa si cum om per dreit son  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_233')/range-to(id('tok_270')))"/><!-- fradra salvar dift in o quid il mi altresi fazet  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_271')/range-to(id('tok_292')))"/><!-- et ab ludher nul plaid nunquam  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_293')/range-to(id('tok_323')))"/><!-- prindrai qui meon vol cist meon fradre  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_324')/range-to(id('tok_355')))"/><!-- karle in damno sit quod cum lodhuuicus  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_356')/range-to(id('tok_391')))"/><!-- explesset karolus teudisca lingua sic hec  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_392')/range-to(id('tok_412')))"/><!-- eadem verba testatus est  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_413')/range-to(id('tok_450')))"/><!-- in godes minna ind in thes christanes folches  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_451')/range-to(id('tok_485')))"/><!-- ind unser bedhero gealtnissi fon thesemo  -->
+<mark id="tei_lb_15" xlink:href="#xpointer(id('tok_486')/range-to(id('tok_513')))"/><!-- dage frammordes so fram so mir got  -->
+<mark id="tei_lb_16" xlink:href="#xpointer(id('tok_514')/range-to(id('tok_550')))"/><!-- geuuizci indi mahd furgibit so haldih tesan  -->
+<mark id="tei_lb_17" xlink:href="#xpointer(id('tok_551')/range-to(id('tok_578')))"/><!-- minan bruodher soso man mit rehtu  -->
+<mark id="tei_lb_18" xlink:href="#xpointer(id('tok_579')/range-to(id('tok_614')))"/><!-- sinan bruher scal in thiu thaz er mig so sama  -->
+<mark id="tei_lb_19" xlink:href="#xpointer(id('tok_615')/range-to(id('tok_647')))"/><!-- duo indi mit luheren in nohheiniu thing  -->
+<mark id="tei_lb_20" xlink:href="#xpointer(id('tok_648')/range-to(id('tok_674')))"/><!-- ne gegango the minan uuillon imo  -->
+<mark id="tei_lb_21" xlink:href="#xpointer(id('tok_675')/range-to(id('tok_691')))"/><!-- ce scadhen uuerdhen  -->
+<mark id="tei_lb_22" xlink:href="#xpointer(id('tok_692')/range-to(id('tok_728')))"/><!-- sacramentum autem quod utrorumque populus  -->
+<mark id="tei_lb_23" xlink:href="#xpointer(id('tok_729')/range-to(id('tok_758')))"/><!-- quique propria lingua testatus est  -->
+<mark id="tei_lb_24" xlink:href="#xpointer(id('tok_759')/range-to(id('tok_790')))"/><!-- romana lingua sic se habet si lodhuuigs  -->
+<mark id="tei_lb_25" xlink:href="#xpointer(id('tok_791')/range-to(id('tok_815')))"/><!-- sagrament que son fradre karlo  -->
+<mark id="tei_lb_26" xlink:href="#xpointer(id('tok_816')/range-to(id('tok_847')))"/><!-- jurat conservat et carlus meos sendra  -->
+<mark id="tei_lb_27" xlink:href="#xpointer(id('tok_848')/range-to(id('tok_882')))"/><!-- de suo part non lo s tanit si io returnar non  -->
+<mark id="tei_lb_28" xlink:href="#xpointer(id('tok_883')/range-to(id('tok_914')))"/><!-- l int pois ne io ne neuls cui eo returnar  -->
+<mark id="tei_lb_29" xlink:href="#xpointer(id('tok_915')/range-to(id('tok_945')))"/><!-- int pois in nulla aiudha contra lodhuwig  -->
+<mark id="tei_lb_30" xlink:href="#xpointer(id('tok_946')/range-to(id('tok_973')))"/><!-- nun li iu er teudisca autem lingua  -->
+<mark id="tei_lb_31" xlink:href="#xpointer(id('tok_974')/range-to(id('tok_1007')))"/><!-- oba karl then eid then er sinemo bruodher  -->
+<mark id="tei_lb_32" xlink:href="#xpointer(id('tok_1008')/range-to(id('tok_1045')))"/><!-- ludhuuuige gesuor geleistit indi ludhuuuig  -->
+<mark id="tei_lb_33" xlink:href="#xpointer(id('tok_1046')/range-to(id('tok_1079')))"/><!-- min herro then er imo gesuor forbrihchit  -->
+<mark id="tei_lb_34" xlink:href="#xpointer(id('tok_1080')/range-to(id('tok_1106')))"/><!-- ob ih inan es iruuenden ne mag noh  -->
+<mark id="tei_lb_35" xlink:href="#xpointer(id('tok_1107')/range-to(id('tok_1143')))"/><!-- ih noh thero nohhein then ih es iruuenden mag  -->
+<mark id="tei_lb_36" xlink:href="#xpointer(id('tok_1144')/range-to(id('tok_1177')))"/><!-- uuidar karle imo ce follusti ne uuirdhit  -->
+</markList>
+</paula>

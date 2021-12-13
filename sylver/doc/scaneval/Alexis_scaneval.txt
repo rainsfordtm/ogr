@@ -1,0 +1,81 @@
+Rules applied: R1, R20
+Lines correct: 552 of 621
+Pass history:
+Tried rules R20; 485 lines correct.
+Tried rules R1; 533 lines correct.
+Tried rules R2; 470 lines correct.
+Tried rules R1, R20; 552 lines correct.
+Tried rules R1, R2; 530 lines correct.
+Tried rules R1, R20, R2; 547 lines correct.
+OPTIMIZED LINES
+37    --     dunc se purpenset de l secle an avant
+59    --     se or ne m en fui mult criem que ne t em perde
+74    --     ensur nuit s en fuit de la contrethe
+137    --     n i remest palie ne neul ornement
+148    --     ore vivrai an guise de turtrele
+150    --     co di la medre se a mei te vols tenir
+188    --     ensur nuit s en fuit de la ciptet
+201    --     se tei ploust ci ne volisse estra
+271    --     ne nuls hom ne sout les sons ahanz
+284    --     parfitement se ad a deu cumandet
+321    --     icil respondent que neuls d els ne l set
+339    --     e co m est vis que co est l ume deu
+404    --     si grant dolur or m est aparude
+430    --     ne l cunuisseie plus que unches ne l vedisse
+478    --     si grant dolur or m est aparude
+527    --     si grant ledece nus est aparude
+547    --     ensur tut ne nuls languerus
+590    --     desur terre ne l pourent mais tenir
+595    --     vait s en li pople le pere e la medra
+609    --     ensor tut e si veit deu medisme
+
+BAD LINES
+40    --     fud la pulcela nethe de halt parentet
+54    --     vint en la cambra ou ert sa muiler
+72    --     et un anel a deu li ad comandethe
+106    --     respont la medre lasse qued est devenut
+139    --     unches puis cel di ne se contint ledement
+142    --     si l at destruite cum dis l ait host depredethe
+144    --     sa grant honur a grant dol ad aturnede
+154    --     tu de tun seinur jo l frai pur mun filz
+159    --     ses enemis ne l poet anganer
+196    --     iloec arivet la nef a icel saint home
+200    --     e deus dist il bels sire reis qui tut guvernes
+202    --     s or me conuissent mi parent d icesta terre
+216    --     quar me herberges pur deu an tue maison
+238    --     n il ne lur dist n els ne l demanderent
+249    --     plus aimet deu que tut sun linage
+252    --     se lui en remaint si l rent a s povrins
+255    --     cascune feste se fait acomunier
+294    --     si depreient que la citet ne fundet
+303    --     li uns acharies li altre anories out num
+311    --     quer iloec est et iloc le trovereiz
+323    --     sedent e s bans pensis e plurus
+341    --     vint a sun filz ou il gist suz lu degret
+352    --     venent devant jetent sei an ureisuns
+355    --     ne n coneumes net uncore ne n conuissum
+359    --     de tut cest mund sumes jugedor
+363    --     dune li la cartre par tue mercit
+364    --     co nus dirrat qu enz trovrat escrit
+382    --     ad ambes mains derumpet sa blance barbe
+387    --     filz alexis quels dols m est apresentet
+388    --     malveise guarde t ai faite suz mun degret
+413    --     e d icel bien ki toen doust estra
+415    --     se deu ploust servit en dousses estra
+435    --     co est grant merveile que pietet ne t en prist
+444    --     ta lasse medre si la confortasses
+448    --     pur que m fuis ja te portai en men ventre
+451    --     ainz que tei vedisse fui mult desirruse
+457    --     aidiez mei a plaindra le duel de mun ami
+460    --     n est merveile n ai mais filie ne filz
+482    --     ja tute gent ne m en sousent turner
+484    --     si me leust si t ousse bien guardet
+512    --     cest saint cors que deus nus ad donet
+517    --     de noz aveirs feruns largas departies
+519    --     s il nus funt presse uncore an ermes delivres
+540    --     ki fait ad pechet bien s en pot recorder
+553    --     si veirs miracles lur ad deus mustret
+593    --     e si li preient que d els ait mercit
+602    --     od la pulcela dunt il se fist si estranges
+608    --     co ad que s volt nient n est a dire
+620    --     amen

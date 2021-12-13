@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Eulalie_tei_lg_n"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg_n" xml:base="tei.Eulalie.tei_lg.xml">
+<feat xlink:href="#tei_lg_0" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_1" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_2" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_3" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_4" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_5" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_6" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_7" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_8" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_9" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_10" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_11" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_12" value="--"/><!--    -->
+<feat xlink:href="#tei_lg_13" value="--"/><!--    -->
+</featList>
+</paula>

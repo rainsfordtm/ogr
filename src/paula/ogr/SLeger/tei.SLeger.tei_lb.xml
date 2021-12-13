@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.SLeger_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.SLeger.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_16')/range-to(id('tok_32')))"/><!-- lauder et a sos sancz  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_33')/range-to(id('tok_58')))"/><!-- honor porter in su amor cantomps  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_59')/range-to(id('tok_80')))"/><!-- de l sanz quae por lui augrent  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_81')/range-to(id('tok_103')))"/><!-- granz aanz et or est temps  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_104')/range-to(id('tok_128')))"/><!-- et si est biens quae nos cantumps  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_129')/range-to(id('tok_141')))"/><!-- de sant lethgier  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_142')/range-to(id('tok_165')))"/><!-- primos didrai vos de ls honors  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_166')/range-to(id('tok_186')))"/><!-- quae il awret ab duos seniors  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_187')/range-to(id('tok_209')))"/><!-- apres ditrai vos de ls aanz  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_210')/range-to(id('tok_237')))"/><!-- que li suos corps susting si granz  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_238')/range-to(id('tok_259')))"/><!-- et ewruins cil deumentiz  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_260')/range-to(id('tok_282')))"/><!-- que lui a grand torment occist  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_283')/range-to(id('tok_304')))"/><!-- quant infans fud donc a ciels  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_305')/range-to(id('tok_328')))"/><!-- temps a l rei lo duistrent soi  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_329')/range-to(id('tok_351')))"/><!-- parent qui donc regnevet a ciel  -->
+<mark id="tei_lb_15" xlink:href="#xpointer(id('tok_352')/range-to(id('tok_376')))"/><!-- di cio fud lothiers fils baldequi  -->
+<mark id="tei_lb_16" xlink:href="#xpointer(id('tok_377')/range-to(id('tok_401')))"/><!-- il le amat deu lo covit rovat que  -->
+<mark id="tei_lb_17" xlink:href="#xpointer(id('tok_402')/range-to(id('tok_416')))"/><!-- litteras apresist  -->
+<mark id="tei_lb_18" xlink:href="#xpointer(id('tok_417')/range-to(id('tok_450')))"/><!-- didun l ebisque de peitieus lui l comandat  -->
+<mark id="tei_lb_19" xlink:href="#xpointer(id('tok_451')/range-to(id('tok_474')))"/><!-- ciel reis lothiers il lo reciut  -->
+<mark id="tei_lb_20" xlink:href="#xpointer(id('tok_475')/range-to(id('tok_497')))"/><!-- tam ben en fist ab u magistre  -->
+<mark id="tei_lb_21" xlink:href="#xpointer(id('tok_498')/range-to(id('tok_521')))"/><!-- sempre l mist qui llo doist bien  -->
+<mark id="tei_lb_22" xlink:href="#xpointer(id('tok_522')/range-to(id('tok_543')))"/><!-- de ciel savier don deu servier  -->
+<mark id="tei_lb_23" xlink:href="#xpointer(id('tok_544')/range-to(id('tok_553')))"/><!-- por bona fied  -->
+<mark id="tei_lb_24" xlink:href="#xpointer(id('tok_554')/range-to(id('tok_576')))"/><!-- et cum il l aut doit de ciel art  -->
+<mark id="tei_lb_25" xlink:href="#xpointer(id('tok_577')/range-to(id('tok_599')))"/><!-- rende l qui lui lo comandat il  -->
+<mark id="tei_lb_26" xlink:href="#xpointer(id('tok_600')/range-to(id('tok_623')))"/><!-- lo reciu bien lo nonrit cio fud  -->
+<mark id="tei_lb_27" xlink:href="#xpointer(id('tok_624')/range-to(id('tok_648')))"/><!-- lonx tiemps ob se lo s ting deus  -->
+<mark id="tei_lb_28" xlink:href="#xpointer(id('tok_649')/range-to(id('tok_674')))"/><!-- l exaltat cui el servid de sanct  -->
+<mark id="tei_lb_29" xlink:href="#xpointer(id('tok_675')/range-to(id('tok_691')))"/><!-- maxenz abbas divint  -->
+<mark id="tei_lb_30" xlink:href="#xpointer(id('tok_692')/range-to(id('tok_714')))"/><!-- ne fud nuls om de l son juvent  -->
+<mark id="tei_lb_31" xlink:href="#xpointer(id('tok_715')/range-to(id('tok_741')))"/><!-- qui mieldre fust donc a ciels tiemps  -->
+<mark id="tei_lb_32" xlink:href="#xpointer(id('tok_742')/range-to(id('tok_770')))"/><!-- perfectus fud in caritet fid aut il  -->
+<mark id="tei_lb_33" xlink:href="#xpointer(id('tok_771')/range-to(id('tok_795')))"/><!-- grand et veritiet et in raizons  -->
+<mark id="tei_lb_34" xlink:href="#xpointer(id('tok_796')/range-to(id('tok_816')))"/><!-- bels oth sermons humilitiet  -->
+<mark id="tei_lb_35" xlink:href="#xpointer(id('tok_817')/range-to(id('tok_829')))"/><!-- oth per trestoz  -->
+<mark id="tei_lb_36" xlink:href="#xpointer(id('tok_830')/range-to(id('tok_853')))"/><!-- cio sempre fud et ja si er qui fai  -->
+<mark id="tei_lb_37" xlink:href="#xpointer(id('tok_854')/range-to(id('tok_878')))"/><!-- lo bien laudaz enn er et sanz  -->
+<mark id="tei_lb_38" xlink:href="#xpointer(id('tok_879')/range-to(id('tok_905')))"/><!-- letgiers sempre fud bons sempre  -->
+<mark id="tei_lb_39" xlink:href="#xpointer(id('tok_906')/range-to(id('tok_927')))"/><!-- fist bien o que el pod davant  -->
+<mark id="tei_lb_40" xlink:href="#xpointer(id('tok_928')/range-to(id('tok_949')))"/><!-- lo rei en fud laudiez cum il  -->
+<mark id="tei_lb_41" xlink:href="#xpointer(id('tok_950')/range-to(id('tok_964')))"/><!-- l audit fu li n amet  -->
+<mark id="tei_lb_42" xlink:href="#xpointer(id('tok_965')/range-to(id('tok_993')))"/><!-- a se l mandat et cio li dist a curt fust  -->
+<mark id="tei_lb_43" xlink:href="#xpointer(id('tok_994')/range-to(id('tok_1020')))"/><!-- sempre lui servist il l exaltat  -->
+<mark id="tei_lb_44" xlink:href="#xpointer(id('tok_1021')/range-to(id('tok_1046')))"/><!-- e l onorat sa gratia li perdonat  -->
+<mark id="tei_lb_45" xlink:href="#xpointer(id('tok_1047')/range-to(id('tok_1068')))"/><!-- et hunc tam bien que il en fist  -->
+<mark id="tei_lb_46" xlink:href="#xpointer(id('tok_1069')/range-to(id('tok_1089')))"/><!-- de hostedun evesque en fist  -->
+<mark id="tei_lb_47" xlink:href="#xpointer(id('tok_1090')/range-to(id('tok_1109')))"/><!-- quandius visquet ciel reis  -->
+<mark id="tei_lb_48" xlink:href="#xpointer(id('tok_1110')/range-to(id('tok_1129')))"/><!-- lothier bien honorez fud  -->
+<mark id="tei_lb_49" xlink:href="#xpointer(id('tok_1130')/range-to(id('tok_1158')))"/><!-- sancz lethgiers il se fud morz damz  -->
+<mark id="tei_lb_50" xlink:href="#xpointer(id('tok_1159')/range-to(id('tok_1182')))"/><!-- i fud granz cio controverent  -->
+<mark id="tei_lb_51" xlink:href="#xpointer(id('tok_1183')/range-to(id('tok_1202')))"/><!-- baron franc por cio que fud  -->
+<mark id="tei_lb_52" xlink:href="#xpointer(id('tok_1203')/range-to(id('tok_1221')))"/><!-- de bona fiet de chielperig  -->
+<mark id="tei_lb_53" xlink:href="#xpointer(id('tok_1222')/range-to(id('tok_1231')))"/><!-- feissent rei  -->
+<mark id="tei_lb_54" xlink:href="#xpointer(id('tok_1232')/range-to(id('tok_1255')))"/><!-- un compte i oth pres en l estrit  -->
+<mark id="tei_lb_55" xlink:href="#xpointer(id('tok_1256')/range-to(id('tok_1274')))"/><!-- ciel eps num auret evrui  -->
+<mark id="tei_lb_56" xlink:href="#xpointer(id('tok_1275')/range-to(id('tok_1294')))"/><!-- ne vol reciwre chielperin  -->
+<mark id="tei_lb_57" xlink:href="#xpointer(id('tok_1295')/range-to(id('tok_1318')))"/><!-- mais li seu fredre theoiri ne l  -->
+<mark id="tei_lb_58" xlink:href="#xpointer(id('tok_1319')/range-to(id('tok_1341')))"/><!-- condignet nuls de sos piers re  -->
+<mark id="tei_lb_59" xlink:href="#xpointer(id('tok_1342')/range-to(id('tok_1363')))"/><!-- volunt fair estre so gred  -->
+<mark id="tei_lb_60" xlink:href="#xpointer(id('tok_1364')/range-to(id('tok_1387')))"/><!-- il lo presdrent tuit a conseil  -->
+<mark id="tei_lb_61" xlink:href="#xpointer(id('tok_1388')/range-to(id('tok_1410')))"/><!-- estre so gret en fisdren rei  -->
+<mark id="tei_lb_62" xlink:href="#xpointer(id('tok_1411')/range-to(id('tok_1430')))"/><!-- et ewruins ott en gran dol  -->
+<mark id="tei_lb_63" xlink:href="#xpointer(id('tok_1431')/range-to(id('tok_1453')))"/><!-- porr o que ventre no ls en poth  -->
+<mark id="tei_lb_64" xlink:href="#xpointer(id('tok_1454')/range-to(id('tok_1478')))"/><!-- por ciel tiel duol rova s clergier  -->
+<mark id="tei_lb_65" xlink:href="#xpointer(id('tok_1479')/range-to(id('tok_1501')))"/><!-- si s en intrat in un monstier  -->
+<mark id="tei_lb_66" xlink:href="#xpointer(id('tok_1502')/range-to(id('tok_1523')))"/><!-- reis chielperics tam bien en  -->
+<mark id="tei_lb_67" xlink:href="#xpointer(id('tok_1524')/range-to(id('tok_1553')))"/><!-- fist de sanct lethgier consilier fist  -->
+<mark id="tei_lb_68" xlink:href="#xpointer(id('tok_1554')/range-to(id('tok_1576')))"/><!-- quandius a l suo consiel edrat  -->
+<mark id="tei_lb_69" xlink:href="#xpointer(id('tok_1577')/range-to(id('tok_1600')))"/><!-- incontra deu ben si garda lei  -->
+<mark id="tei_lb_70" xlink:href="#xpointer(id('tok_1601')/range-to(id('tok_1624')))"/><!-- consentit et observat et son  -->
+<mark id="tei_lb_71" xlink:href="#xpointer(id('tok_1625')/range-to(id('tok_1639')))"/><!-- regnet ben dominat  -->
+<mark id="tei_lb_72" xlink:href="#xpointer(id('tok_1640')/range-to(id('tok_1660')))"/><!-- ja fud tels om deu inimix  -->
+<mark id="tei_lb_73" xlink:href="#xpointer(id('tok_1661')/range-to(id('tok_1681')))"/><!-- qui l encusat ab chielpering  -->
+<mark id="tei_lb_74" xlink:href="#xpointer(id('tok_1682')/range-to(id('tok_1704')))"/><!-- l ira fud granz cum de seinor  -->
+<mark id="tei_lb_75" xlink:href="#xpointer(id('tok_1705')/range-to(id('tok_1734')))"/><!-- et sancz lethgiers oc s ent pavor ja lo  -->
+<mark id="tei_lb_76" xlink:href="#xpointer(id('tok_1735')/range-to(id('tok_1754')))"/><!-- sot bien il le celat a nuil  -->
+<mark id="tei_lb_77" xlink:href="#xpointer(id('tok_1755')/range-to(id('tok_1771')))"/><!-- omne no l demonstrat  -->
+<mark id="tei_lb_78" xlink:href="#xpointer(id('tok_1772')/range-to(id('tok_1785')))"/><!-- quant ciel irae tels  -->
+<mark id="tei_lb_79" xlink:href="#xpointer(id('tok_1786')/range-to(id('tok_1805')))"/><!-- esdevent paschas furent  -->
+<mark id="tei_lb_80" xlink:href="#xpointer(id('tok_1806')/range-to(id('tok_1844')))"/><!-- in eps cel di et sancz lethgiers fist son mistier  -->
+<mark id="tei_lb_81" xlink:href="#xpointer(id('tok_1845')/range-to(id('tok_1867')))"/><!-- missae cantat fist lo mul ben  -->
+<mark id="tei_lb_82" xlink:href="#xpointer(id('tok_1868')/range-to(id('tok_1887')))"/><!-- pobl en lo rei communiet  -->
+<mark id="tei_lb_83" xlink:href="#xpointer(id('tok_1888')/range-to(id('tok_1910')))"/><!-- et sens cumgiet si s en ralet  -->
+<mark id="tei_lb_84" xlink:href="#xpointer(id('tok_1911')/range-to(id('tok_1928')))"/><!-- reis chielperics cum il  -->
+<mark id="tei_lb_85" xlink:href="#xpointer(id('tok_1929')/range-to(id('tok_1947')))"/><!-- l audit presdra sos meis  -->
+<mark id="tei_lb_86" xlink:href="#xpointer(id('tok_1948')/range-to(id('tok_1969')))"/><!-- a lui s tramist cio li mandat  -->
+<mark id="tei_lb_87" xlink:href="#xpointer(id('tok_1970')/range-to(id('tok_1990')))"/><!-- que revenist sa gratia por  -->
+<mark id="tei_lb_88" xlink:href="#xpointer(id('tok_1991')/range-to(id('tok_2019')))"/><!-- tot ouist et sancz lethgiers ne s soth  -->
+<mark id="tei_lb_89" xlink:href="#xpointer(id('tok_2020')/range-to(id('tok_2038')))"/><!-- mesfait cum vit les meis  -->
+<mark id="tei_lb_90" xlink:href="#xpointer(id('tok_2039')/range-to(id('tok_2047')))"/><!-- a lui ralat  -->
+<mark id="tei_lb_91" xlink:href="#xpointer(id('tok_2048')/range-to(id('tok_2068')))"/><!-- il cio li dist et adunat tos  -->
+<mark id="tei_lb_92" xlink:href="#xpointer(id('tok_2069')/range-to(id('tok_2092')))"/><!-- consiliers ja non estrai meu  -->
+<mark id="tei_lb_93" xlink:href="#xpointer(id('tok_2093')/range-to(id('tok_2110')))"/><!-- evesquet ne m lez tener  -->
+<mark id="tei_lb_94" xlink:href="#xpointer(id('tok_2111')/range-to(id('tok_2131')))"/><!-- por te qui sempre vols aver  -->
+<mark id="tei_lb_95" xlink:href="#xpointer(id('tok_2132')/range-to(id('tok_2155')))"/><!-- en u monstier me laisse intrer  -->
+<mark id="tei_lb_96" xlink:href="#xpointer(id('tok_2156')/range-to(id('tok_2173')))"/><!-- pos ci non posc lai vol  -->
+<mark id="tei_lb_97" xlink:href="#xpointer(id('tok_2174')/range-to(id('tok_2178')))"/><!-- ester  -->
+<mark id="tei_lb_98" xlink:href="#xpointer(id('tok_2179')/range-to(id('tok_2203')))"/><!-- enviz lo fist non voluntiers  -->
+<mark id="tei_lb_99" xlink:href="#xpointer(id('tok_2204')/range-to(id('tok_2226')))"/><!-- laisse l intrar in u monstier  -->
+<mark id="tei_lb_100" xlink:href="#xpointer(id('tok_2227')/range-to(id('tok_2252')))"/><!-- cio fud lisos ut il intrat clerj  -->
+<mark id="tei_lb_101" xlink:href="#xpointer(id('tok_2253')/range-to(id('tok_2276')))"/><!-- ewrui ille trovat cil ewruins  -->
+<mark id="tei_lb_102" xlink:href="#xpointer(id('tok_2277')/range-to(id('tok_2299')))"/><!-- molt li vol miel toth per enveia  -->
+<mark id="tei_lb_103" xlink:href="#xpointer(id('tok_2300')/range-to(id('tok_2307')))"/><!-- non per el  -->
+<mark id="tei_lb_104" xlink:href="#xpointer(id('tok_2308')/range-to(id('tok_2340')))"/><!-- et sancz lethgiers fist so mistier ewrui  -->
+<mark id="tei_lb_105" xlink:href="#xpointer(id('tok_2341')/range-to(id('tok_2365')))"/><!-- prist a castier ciel ira grand  -->
+<mark id="tei_lb_106" xlink:href="#xpointer(id('tok_2366')/range-to(id('tok_2386')))"/><!-- et ciel corropt cio li preia  -->
+<mark id="tei_lb_107" xlink:href="#xpointer(id('tok_2387')/range-to(id('tok_2414')))"/><!-- laissas lo toth fus li por deu ne l fus  -->
+<mark id="tei_lb_108" xlink:href="#xpointer(id('tok_2415')/range-to(id('tok_2439')))"/><!-- por lui cio li preia paias ab lui  -->
+<mark id="tei_lb_109" xlink:href="#xpointer(id('tok_2440')/range-to(id('tok_2461')))"/><!-- et ewruins fist fincta pais  -->
+<mark id="tei_lb_110" xlink:href="#xpointer(id('tok_2462')/range-to(id('tok_2483')))"/><!-- cio l demonstrat que si paias  -->
+<mark id="tei_lb_111" xlink:href="#xpointer(id('tok_2484')/range-to(id('tok_2509')))"/><!-- quandius in ciel monstier instud  -->
+<mark id="tei_lb_112" xlink:href="#xpointer(id('tok_2510')/range-to(id('tok_2533')))"/><!-- cio l demonstrat amix li fust  -->
+<mark id="tei_lb_113" xlink:href="#xpointer(id('tok_2534')/range-to(id('tok_2555')))"/><!-- mais en avant vos cio aurez  -->
+<mark id="tei_lb_114" xlink:href="#xpointer(id('tok_2556')/range-to(id('tok_2575')))"/><!-- cum ill edrat por mala fid  -->
+<mark id="tei_lb_115" xlink:href="#xpointer(id('tok_2576')/range-to(id('tok_2601')))"/><!-- rex chielperings il se fud morz  -->
+<mark id="tei_lb_116" xlink:href="#xpointer(id('tok_2602')/range-to(id('tok_2624')))"/><!-- por lo regnet lo sowrent toit  -->
+<mark id="tei_lb_117" xlink:href="#xpointer(id('tok_2625')/range-to(id('tok_2646')))"/><!-- vindrent parent e lor amic  -->
+<mark id="tei_lb_118" xlink:href="#xpointer(id('tok_2647')/range-to(id('tok_2678')))"/><!-- li sanct lethgier li ewrui cio confortent  -->
+<mark id="tei_lb_119" xlink:href="#xpointer(id('tok_2679')/range-to(id('tok_2695')))"/><!-- ad ambes duos que s ent  -->
+<mark id="tei_lb_120" xlink:href="#xpointer(id('tok_2696')/range-to(id('tok_2712')))"/><!-- ralgent in lor honors  -->
+<mark id="tei_lb_121" xlink:href="#xpointer(id('tok_2713')/range-to(id('tok_2742')))"/><!-- et sancz lethgiers den fistdra bien quae  -->
+<mark id="tei_lb_122" xlink:href="#xpointer(id('tok_2743')/range-to(id('tok_2762')))"/><!-- s en ralat en s evesquet et  -->
+<mark id="tei_lb_123" xlink:href="#xpointer(id('tok_2763')/range-to(id('tok_2781')))"/><!-- ewruins den fisdra miel  -->
+<mark id="tei_lb_124" xlink:href="#xpointer(id('tok_2782')/range-to(id('tok_2801')))"/><!-- quae donc deveng anatemaz  -->
+<mark id="tei_lb_125" xlink:href="#xpointer(id('tok_2802')/range-to(id('tok_2819')))"/><!-- son quev que il a coronat  -->
+<mark id="tei_lb_126" xlink:href="#xpointer(id('tok_2820')/range-to(id('tok_2838')))"/><!-- toth lo laisera recimer  -->
+<mark id="tei_lb_127" xlink:href="#xpointer(id('tok_2839')/range-to(id('tok_2857')))"/><!-- dominedeu il cio laissat  -->
+<mark id="tei_lb_128" xlink:href="#xpointer(id('tok_2858')/range-to(id('tok_2877')))"/><!-- et a diable comandat quar  -->
+<mark id="tei_lb_129" xlink:href="#xpointer(id('tok_2878')/range-to(id('tok_2910')))"/><!-- donc fud miels et a lui vint il voluntiers  -->
+<mark id="tei_lb_130" xlink:href="#xpointer(id('tok_2911')/range-to(id('tok_2925')))"/><!-- semper reciut cum  -->
+<mark id="tei_lb_131" xlink:href="#xpointer(id('tok_2926')/range-to(id('tok_2945')))"/><!-- fulc en aut grand adunat  -->
+<mark id="tei_lb_132" xlink:href="#xpointer(id('tok_2946')/range-to(id('tok_2965')))"/><!-- lo regne prest a devastar  -->
+<mark id="tei_lb_133" xlink:href="#xpointer(id('tok_2966')/range-to(id('tok_2984')))"/><!-- a foc a flamma vai ardant  -->
+<mark id="tei_lb_134" xlink:href="#xpointer(id('tok_2985')/range-to(id('tok_3009')))"/><!-- et a gladies percutan por quant  -->
+<mark id="tei_lb_135" xlink:href="#xpointer(id('tok_3010')/range-to(id('tok_3031')))"/><!-- il pot tan fai de miel por deu  -->
+<mark id="tei_lb_136" xlink:href="#xpointer(id('tok_3032')/range-to(id('tok_3056')))"/><!-- ne l volt il observer ciel ne fud  -->
+<mark id="tei_lb_137" xlink:href="#xpointer(id('tok_3057')/range-to(id('tok_3076')))"/><!-- nez de medre vius qui tal  -->
+<mark id="tei_lb_138" xlink:href="#xpointer(id('tok_3077')/range-to(id('tok_3091')))"/><!-- exercite vidist  -->
+<mark id="tei_lb_139" xlink:href="#xpointer(id('tok_3092')/range-to(id('tok_3115')))"/><!-- ad ostedun a cilla ciu dom sanct  -->
+<mark id="tei_lb_140" xlink:href="#xpointer(id('tok_3116')/range-to(id('tok_3142')))"/><!-- lethgier vai asalir ne pot intrer  -->
+<mark id="tei_lb_141" xlink:href="#xpointer(id('tok_3143')/range-to(id('tok_3169')))"/><!-- en la ciutat defors l asist fist i  -->
+<mark id="tei_lb_142" xlink:href="#xpointer(id('tok_3170')/range-to(id('tok_3199')))"/><!-- gran miel et sancz lethgiers mul en fud  -->
+<mark id="tei_lb_143" xlink:href="#xpointer(id('tok_3200')/range-to(id('tok_3218')))"/><!-- trist por ciel tiel miel quae  -->
+<mark id="tei_lb_144" xlink:href="#xpointer(id('tok_3219')/range-to(id('tok_3227')))"/><!-- defors vid  -->
+<mark id="tei_lb_145" xlink:href="#xpointer(id('tok_3228')/range-to(id('tok_3250')))"/><!-- sos clerjes pres revistiz  -->
+<mark id="tei_lb_146" xlink:href="#xpointer(id('tok_3251')/range-to(id('tok_3274')))"/><!-- et ob ses croix fors s en exit  -->
+<mark id="tei_lb_147" xlink:href="#xpointer(id('tok_3275')/range-to(id('tok_3297')))"/><!-- porr o n exit vol li preier  -->
+<mark id="tei_lb_148" xlink:href="#xpointer(id('tok_3298')/range-to(id('tok_3317')))"/><!-- quae tot ciel miel laisses por  -->
+<mark id="tei_lb_149" xlink:href="#xpointer(id('tok_3318')/range-to(id('tok_3337')))"/><!-- deu ciel ewruins qual hora l  -->
+<mark id="tei_lb_150" xlink:href="#xpointer(id('tok_3338')/range-to(id('tok_3355')))"/><!-- vid penre l rovat lier  -->
+<mark id="tei_lb_151" xlink:href="#xpointer(id('tok_3356')/range-to(id('tok_3361')))"/><!-- lo fist  -->
+<mark id="tei_lb_152" xlink:href="#xpointer(id('tok_3362')/range-to(id('tok_3379')))"/><!-- hor en aurez las poenas  -->
+<mark id="tei_lb_153" xlink:href="#xpointer(id('tok_3380')/range-to(id('tok_3406')))"/><!-- granz quae il en fisdra li tiranz  -->
+<mark id="tei_lb_154" xlink:href="#xpointer(id('tok_3407')/range-to(id('tok_3428')))"/><!-- li perfides tam fud cruels  -->
+<mark id="tei_lb_155" xlink:href="#xpointer(id('tok_3429')/range-to(id('tok_3460')))"/><!-- lis ols de l cap li fai crever cum si l aut  -->
+<mark id="tei_lb_156" xlink:href="#xpointer(id('tok_3461')/range-to(id('tok_3485')))"/><!-- fait mis l en reclus ne soth nuls  -->
+<mark id="tei_lb_157" xlink:href="#xpointer(id('tok_3486')/range-to(id('tok_3500')))"/><!-- om que s devenguz  -->
+<mark id="tei_lb_158" xlink:href="#xpointer(id('tok_3501')/range-to(id('tok_3525')))"/><!-- am las lawras li fai talier hanc  -->
+<mark id="tei_lb_159" xlink:href="#xpointer(id('tok_3526')/range-to(id('tok_3542')))"/><!-- la lingua quae aut in quev  -->
+<mark id="tei_lb_160" xlink:href="#xpointer(id('tok_3543')/range-to(id('tok_3567')))"/><!-- cum si l aut toth vituperet dist  -->
+<mark id="tei_lb_161" xlink:href="#xpointer(id('tok_3568')/range-to(id('tok_3589')))"/><!-- ewruins qui tan fud miels hor a  -->
+<mark id="tei_lb_162" xlink:href="#xpointer(id('tok_3590')/range-to(id('tok_3612')))"/><!-- pordud dom deu parlier ja non  -->
+<mark id="tei_lb_163" xlink:href="#xpointer(id('tok_3613')/range-to(id('tok_3630')))"/><!-- podra mais deu laudier  -->
+<mark id="tei_lb_164" xlink:href="#xpointer(id('tok_3631')/range-to(id('tok_3654')))"/><!-- a terra joth mult fo afflicz non  -->
+<mark id="tei_lb_165" xlink:href="#xpointer(id('tok_3655')/range-to(id('tok_3684')))"/><!-- oct ob se cui en calsist super li piez  -->
+<mark id="tei_lb_166" xlink:href="#xpointer(id('tok_3685')/range-to(id('tok_3717')))"/><!-- ne pod ester qui toz los at il condemnets  -->
+<mark id="tei_lb_167" xlink:href="#xpointer(id('tok_3718')/range-to(id('tok_3732')))"/><!-- or a perdud don deu  -->
+<mark id="tei_lb_168" xlink:href="#xpointer(id('tok_3733')/range-to(id('tok_3755')))"/><!-- porlier ja non podra mais deu  -->
+<mark id="tei_lb_169" xlink:href="#xpointer(id('tok_3756')/range-to(id('tok_3761')))"/><!-- laudier  -->
+<mark id="tei_lb_170" xlink:href="#xpointer(id('tok_3762')/range-to(id('tok_3783')))"/><!-- sed il non ad lingu a parlier  -->
+<mark id="tei_lb_171" xlink:href="#xpointer(id('tok_3784')/range-to(id('tok_3808')))"/><!-- deus exaudis lis sos pensaez  -->
+<mark id="tei_lb_172" xlink:href="#xpointer(id('tok_3809')/range-to(id('tok_3829')))"/><!-- et si el non ad ols carnels  -->
+<mark id="tei_lb_173" xlink:href="#xpointer(id('tok_3830')/range-to(id('tok_3852')))"/><!-- en cor los ad etspiritiels et  -->
+<mark id="tei_lb_174" xlink:href="#xpointer(id('tok_3853')/range-to(id('tok_3874')))"/><!-- si en corps a grand torment  -->
+<mark id="tei_lb_175" xlink:href="#xpointer(id('tok_3875')/range-to(id('tok_3896')))"/><!-- l anima n awra consolament  -->
+<mark id="tei_lb_176" xlink:href="#xpointer(id('tok_3897')/range-to(id('tok_3919')))"/><!-- guenes oth num cui l comandat  -->
+<mark id="tei_lb_177" xlink:href="#xpointer(id('tok_3920')/range-to(id('tok_3941')))"/><!-- la jus en cartres l en menat  -->
+<mark id="tei_lb_178" xlink:href="#xpointer(id('tok_3942')/range-to(id('tok_3965')))"/><!-- et en fescant in ciel monstier  -->
+<mark id="tei_lb_179" xlink:href="#xpointer(id('tok_3966')/range-to(id('tok_4000')))"/><!-- illo reclusdrent sanct lethgier dominedeus  -->
+<mark id="tei_lb_180" xlink:href="#xpointer(id('tok_4001')/range-to(id('tok_4026')))"/><!-- in ciel flaiel i visitet lethgier  -->
+<mark id="tei_lb_181" xlink:href="#xpointer(id('tok_4027')/range-to(id('tok_4033')))"/><!-- son serw  -->
+<mark id="tei_lb_182" xlink:href="#xpointer(id('tok_4034')/range-to(id('tok_4056')))"/><!-- la labia li restaurat si cum  -->
+<mark id="tei_lb_183" xlink:href="#xpointer(id('tok_4057')/range-to(id('tok_4076')))"/><!-- des anz deu pres laudier  -->
+<mark id="tei_lb_184" xlink:href="#xpointer(id('tok_4077')/range-to(id('tok_4098')))"/><!-- et hanc en aut merci si grand  -->
+<mark id="tei_lb_185" xlink:href="#xpointer(id('tok_4099')/range-to(id('tok_4122')))"/><!-- porlier lo fist si cum des anz  -->
+<mark id="tei_lb_186" xlink:href="#xpointer(id('tok_4123')/range-to(id('tok_4150')))"/><!-- donc pres lethgiers a preier poble  -->
+<mark id="tei_lb_187" xlink:href="#xpointer(id('tok_4151')/range-to(id('tok_4168')))"/><!-- ben fist credre in deu  -->
+<mark id="tei_lb_188" xlink:href="#xpointer(id('tok_4169')/range-to(id('tok_4199')))"/><!-- et ewruis cum il l audit credre nne l pot  -->
+<mark id="tei_lb_189" xlink:href="#xpointer(id('tok_4200')/range-to(id('tok_4220')))"/><!-- antro que l vid cum il lo vid  -->
+<mark id="tei_lb_190" xlink:href="#xpointer(id('tok_4221')/range-to(id('tok_4243')))"/><!-- fud corroptios donc oct ab lui  -->
+<mark id="tei_lb_191" xlink:href="#xpointer(id('tok_4244')/range-to(id('tok_4270')))"/><!-- dures raizons e l corps exastra  -->
+<mark id="tei_lb_192" xlink:href="#xpointer(id('tok_4271')/range-to(id('tok_4290')))"/><!-- a l tirant peis li promest  -->
+<mark id="tei_lb_193" xlink:href="#xpointer(id('tok_4291')/range-to(id('tok_4299')))"/><!-- ad en avant  -->
+<mark id="tei_lb_194" xlink:href="#xpointer(id('tok_4300')/range-to(id('tok_4321')))"/><!-- a grand furor a gran flaiel  -->
+<mark id="tei_lb_195" xlink:href="#xpointer(id('tok_4322')/range-to(id('tok_4342')))"/><!-- si l recomanda laudebert  -->
+<mark id="tei_lb_196" xlink:href="#xpointer(id('tok_4343')/range-to(id('tok_4363')))"/><!-- cio li rova et noit et di miel  -->
+<mark id="tei_lb_197" xlink:href="#xpointer(id('tok_4364')/range-to(id('tok_4383')))"/><!-- li fesist dontre qu el viu  -->
+<mark id="tei_lb_198" xlink:href="#xpointer(id('tok_4384')/range-to(id('tok_4406')))"/><!-- ciel laudeberz fura buons om  -->
+<mark id="tei_lb_199" xlink:href="#xpointer(id('tok_4407')/range-to(id('tok_4430')))"/><!-- et sanct lethgier duis a son dom  -->
+<mark id="tei_lb_200" xlink:href="#xpointer(id('tok_4431')/range-to(id('tok_4455')))"/><!-- il li vol faire mult amet bewre  -->
+<mark id="tei_lb_201" xlink:href="#xpointer(id('tok_4456')/range-to(id('tok_4478')))"/><!-- li rova aporter garda si vid  -->
+<mark id="tei_lb_202" xlink:href="#xpointer(id('tok_4479')/range-to(id('tok_4502')))"/><!-- grand claritet de cel vindre  -->
+<mark id="tei_lb_203" xlink:href="#xpointer(id('tok_4503')/range-to(id('tok_4525')))"/><!-- fud de par deu et si cum roors  -->
+<mark id="tei_lb_204" xlink:href="#xpointer(id('tok_4526')/range-to(id('tok_4551')))"/><!-- in cel es granz et si cum flammes  -->
+<mark id="tei_lb_205" xlink:href="#xpointer(id('tok_4552')/range-to(id('tok_4562')))"/><!-- clar ardanz  -->
+<mark id="tei_lb_206" xlink:href="#xpointer(id('tok_4563')/range-to(id('tok_4585')))"/><!-- cil laudeberz qual hora l vid  -->
+<mark id="tei_lb_207" xlink:href="#xpointer(id('tok_4586')/range-to(id('tok_4613')))"/><!-- torne s a ls altres si llor dist ciest  -->
+<mark id="tei_lb_208" xlink:href="#xpointer(id('tok_4614')/range-to(id('tok_4638')))"/><!-- omne tiel mult aima deus por cui  -->
+<mark id="tei_lb_209" xlink:href="#xpointer(id('tok_4639')/range-to(id('tok_4663')))"/><!-- tels causa vin de ciel por ciels  -->
+<mark id="tei_lb_210" xlink:href="#xpointer(id('tok_4664')/range-to(id('tok_4684')))"/><!-- signes que vidrent tels deu  -->
+<mark id="tei_lb_211" xlink:href="#xpointer(id('tok_4685')/range-to(id('tok_4707')))"/><!-- presdrent mult a conlauder  -->
+<mark id="tei_lb_212" xlink:href="#xpointer(id('tok_4708')/range-to(id('tok_4726')))"/><!-- tuit li omne de ciel pais  -->
+<mark id="tei_lb_213" xlink:href="#xpointer(id('tok_4727')/range-to(id('tok_4750')))"/><!-- trestuit apresdrent a venir  -->
+<mark id="tei_lb_214" xlink:href="#xpointer(id('tok_4751')/range-to(id('tok_4784')))"/><!-- et sancz lethgiers lis prediat dominedeu  -->
+<mark id="tei_lb_215" xlink:href="#xpointer(id('tok_4785')/range-to(id('tok_4804')))"/><!-- il les lucrat rendet ciel  -->
+<mark id="tei_lb_216" xlink:href="#xpointer(id('tok_4805')/range-to(id('tok_4824')))"/><!-- fruit spiritiel quae deus  -->
+<mark id="tei_lb_217" xlink:href="#xpointer(id('tok_4825')/range-to(id('tok_4839')))"/><!-- li auret perdonat  -->
+<mark id="tei_lb_218" xlink:href="#xpointer(id('tok_4840')/range-to(id('tok_4859')))"/><!-- et ewruins cum il l audit  -->
+<mark id="tei_lb_219" xlink:href="#xpointer(id('tok_4860')/range-to(id('tok_4877')))"/><!-- credere ne l pot antro  -->
+<mark id="tei_lb_220" xlink:href="#xpointer(id('tok_4878')/range-to(id('tok_4898')))"/><!-- que l vid cil biens qu el fist  -->
+<mark id="tei_lb_221" xlink:href="#xpointer(id('tok_4899')/range-to(id('tok_4925')))"/><!-- cil li pesat occidere lo commandat  -->
+<mark id="tei_lb_222" xlink:href="#xpointer(id('tok_4926')/range-to(id('tok_4943')))"/><!-- quatr omnes i tramist  -->
+<mark id="tei_lb_223" xlink:href="#xpointer(id('tok_4944')/range-to(id('tok_4961')))"/><!-- armez que lui alessunt  -->
+<mark id="tei_lb_224" xlink:href="#xpointer(id('tok_4962')/range-to(id('tok_4968')))"/><!-- decoller  -->
+<mark id="tei_lb_225" xlink:href="#xpointer(id('tok_4969')/range-to(id('tok_4994')))"/><!-- li tres vindrent a sanct lethgier  -->
+<mark id="tei_lb_226" xlink:href="#xpointer(id('tok_4995')/range-to(id('tok_5020')))"/><!-- jus se giterent a sos pez de lor  -->
+<mark id="tei_lb_227" xlink:href="#xpointer(id('tok_5021')/range-to(id('tok_5040')))"/><!-- pechietz que aurent faiz  -->
+<mark id="tei_lb_228" xlink:href="#xpointer(id('tok_5041')/range-to(id('tok_5068')))"/><!-- il los absols et perdonet lo quarz  -->
+<mark id="tei_lb_229" xlink:href="#xpointer(id('tok_5069')/range-to(id('tok_5088')))"/><!-- uns fel nom a vadart ab un  -->
+<mark id="tei_lb_230" xlink:href="#xpointer(id('tok_5089')/range-to(id('tok_5104')))"/><!-- inspieth lo decollat  -->
+<mark id="tei_lb_231" xlink:href="#xpointer(id('tok_5105')/range-to(id('tok_5125')))"/><!-- et cum il l aud tollut lo quev  -->
+<mark id="tei_lb_232" xlink:href="#xpointer(id('tok_5126')/range-to(id('tok_5150')))"/><!-- lo corps estera sobre ls piez  -->
+<mark id="tei_lb_233" xlink:href="#xpointer(id('tok_5151')/range-to(id('tok_5173')))"/><!-- cio fud lonx dis que non cadit  -->
+<mark id="tei_lb_234" xlink:href="#xpointer(id('tok_5174')/range-to(id('tok_5195')))"/><!-- lai s aprosmat que lui firid  -->
+<mark id="tei_lb_235" xlink:href="#xpointer(id('tok_5196')/range-to(id('tok_5218')))"/><!-- entro li talia los pez de jus  -->
+<mark id="tei_lb_236" xlink:href="#xpointer(id('tok_5219')/range-to(id('tok_5240')))"/><!-- lo corps stera sempre sus  -->
+<mark id="tei_lb_237" xlink:href="#xpointer(id('tok_5241')/range-to(id('tok_5264')))"/><!-- de l corps asaz l avez audit  -->
+<mark id="tei_lb_238" xlink:href="#xpointer(id('tok_5265')/range-to(id('tok_5284')))"/><!-- et de ls flaiels que grand  -->
+<mark id="tei_lb_239" xlink:href="#xpointer(id('tok_5285')/range-to(id('tok_5303')))"/><!-- sustint l anima reciunt  -->
+<mark id="tei_lb_240" xlink:href="#xpointer(id('tok_5304')/range-to(id('tok_5322')))"/><!-- dominedeus a ls altres  -->
+<mark id="tei_lb_241" xlink:href="#xpointer(id('tok_5323')/range-to(id('tok_5346')))"/><!-- sanz en vai en cel il nos aiud  -->
+<mark id="tei_lb_242" xlink:href="#xpointer(id('tok_5347')/range-to(id('tok_5369')))"/><!-- ob ciel senior por cui sustinc  -->
+<mark id="tei_lb_243" xlink:href="#xpointer(id('tok_5370')/range-to(id('tok_5380')))"/><!-- tels passions  -->
+<mark id="tei_lb_244" xlink:href="#xpointer(id('tok_5381')/range-to(id('tok_5402')))"/><!-- finit finit ludendo dicit  -->
+</markList>
+</paula>

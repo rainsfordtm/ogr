@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Boeci_tei_q"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr.Boeci.tok.xml">
+<mark id="tei_q_0" xlink:href="#xpointer(id('tok_1978')/range-to(id('tok_2002')))"/><!-- domne pater e te m fiav eu tant  -->
+<mark id="tei_q_1" xlink:href="#xpointer(id('tok_2003')/range-to(id('tok_2028')))"/><!-- e cui marce tuit peccador estant  -->
+<mark id="tei_q_2" xlink:href="#xpointer(id('tok_2029')/range-to(id('tok_2058')))"/><!-- las mias musas qui ant perdut lor cant  -->
+<mark id="tei_q_3" xlink:href="#xpointer(id('tok_2059')/range-to(id('tok_2081')))"/><!-- de sapiencia anava eu ditan  -->
+<mark id="tei_q_4" xlink:href="#xpointer(id('tok_2082')/range-to(id('tok_2109')))"/><!-- plor tota dia faz cosdumna d efant  -->
+<mark id="tei_q_5" xlink:href="#xpointer(id('tok_2110')/range-to(id('tok_2137')))"/><!-- tuit a plorar repairen mei talant  -->
+<mark id="tei_q_6" xlink:href="#xpointer(id('tok_2138')/range-to(id('tok_2163')))"/><!-- domne pater tu qui m sols goernar  -->
+<mark id="tei_q_7" xlink:href="#xpointer(id('tok_2164')/range-to(id('tok_2187')))"/><!-- e te m soli eu a toz dias fiar  -->
+<mark id="tei_q_8" xlink:href="#xpointer(id('tok_2188')/range-to(id('tok_2216')))"/><!-- tu m fezist tant e gran riqueza star  -->
+<mark id="tei_q_9" xlink:href="#xpointer(id('tok_2217')/range-to(id('tok_2243')))"/><!-- de tota roma l emperi aig a mandar  -->
+<mark id="tei_q_10" xlink:href="#xpointer(id('tok_2244')/range-to(id('tok_2270')))"/><!-- los savis omnes en soli adornar  -->
+<mark id="tei_q_11" xlink:href="#xpointer(id('tok_2271')/range-to(id('tok_2299')))"/><!-- de la justicia que grant aig a mandar  -->
+<mark id="tei_q_12" xlink:href="#xpointer(id('tok_2300')/range-to(id('tok_2328')))"/><!-- no t servij be no la m volguist laisar  -->
+<mark id="tei_q_13" xlink:href="#xpointer(id('tok_2329')/range-to(id('tok_2354')))"/><!-- per aizo m fas e chaitiveza star  -->
+<mark id="tei_q_14" xlink:href="#xpointer(id('tok_2355')/range-to(id('tok_2382')))"/><!-- non ai que prenga ne no posg re donar  -->
+<mark id="tei_q_15" xlink:href="#xpointer(id('tok_2383')/range-to(id('tok_2409')))"/><!-- ni noit ni dia no faz que mal pensar  -->
+<mark id="tei_q_16" xlink:href="#xpointer(id('tok_2410')/range-to(id('tok_2437')))"/><!-- tuit mei talant repairen a plorar  -->
+<mark id="tei_q_17" xlink:href="#xpointer(id('tok_3436')/range-to(id('tok_3446')))"/><!-- a me quar no ves  -->
+<mark id="tei_q_18" xlink:href="#xpointer(id('tok_5221')/range-to(id('tok_5251')))"/><!-- molt me derramen donzellet de jovent  -->
+<mark id="tei_q_19" xlink:href="#xpointer(id('tok_5252')/range-to(id('tok_5277')))"/><!-- que zo esperen que faza a lor talen  -->
+<mark id="tei_q_20" xlink:href="#xpointer(id('tok_5278')/range-to(id('tok_5304')))"/><!-- primas me amen pois me van aissent  -->
+<mark id="tei_q_21" xlink:href="#xpointer(id('tok_5305')/range-to(id('tok_5328')))"/><!-- la mi amor ta mal van deperden  -->
+</markList>
+</paula>

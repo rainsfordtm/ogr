@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Passion_tei_lg"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr.Passion.tok.xml">
+<mark id="tei_lg_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_82')))"/><!-- hora vos dic vera raizun de jesu christi passiun los sos affanz vol remembrar per que cest mund tot a salvad  -->
+<mark id="tei_lg_1" xlink:href="#xpointer(id('tok_83')/range-to(id('tok_173')))"/><!-- trenta tres ants et alques plus des que carn pres in terra fu per tot obred que verus deus per tot sosteg que hom carnals  -->
+<mark id="tei_lg_2" xlink:href="#xpointer(id('tok_174')/range-to(id('tok_258')))"/><!-- peccad negun unque non fez per eps los nostres fu aucis la sua morz vida nos rend sa passiuns toz nos redenps  -->
+<mark id="tei_lg_3" xlink:href="#xpointer(id('tok_259')/range-to(id('tok_347')))"/><!-- cum aproismed sa passiuns cho fu nostra redemptions aproismer vol a la ciutat afanz per nos susteg mult granz  -->
+<mark id="tei_lg_4" xlink:href="#xpointer(id('tok_348')/range-to(id('tok_428')))"/><!-- cum el perveing a betfage vil es desoz mont olivet avant de ls sos dos enveied un asne adducere se roved  -->
+<mark id="tei_lg_5" xlink:href="#xpointer(id('tok_429')/range-to(id('tok_514')))"/><!-- cum cel asnez fu amenaz de lor mantelz ben l ant parad de lor mantelz de lor vestit ben li aprestunt o ss assis  -->
+<mark id="tei_lg_6" xlink:href="#xpointer(id('tok_515')/range-to(id('tok_602')))"/><!-- per sua grand humilitad jesus rex magnes sus monted si cum prophetes anz mulz dis canted aveien de jesu crist  -->
+<mark id="tei_lg_7" xlink:href="#xpointer(id('tok_603')/range-to(id('tok_682')))"/><!-- anz petiz dis que cho fus fait jesus lo lazer suscitat chi quatre dis en moniment jagud aveie toz pudenz  -->
+<mark id="tei_lg_8" xlink:href="#xpointer(id('tok_683')/range-to(id('tok_772')))"/><!-- cum co audid tota la gent que jesus ve lo reis podenz chi eps lo morz fai se revivere a grand honor encontra xirent  -->
+<mark id="tei_lg_9" xlink:href="#xpointer(id('tok_773')/range-to(id('tok_868')))"/><!-- alquant de ls palmes prendent rams de ls olivers alquant las branches encontra l rei qui fez lo cel issid lo dii le poples lez  -->
+<mark id="tei_lg_10" xlink:href="#xpointer(id('tok_869')/range-to(id('tok_952')))"/><!-- canten li gran e li petit fili davit fili davit palis vestit palis mantenls davant extendent a ssos pez  -->
+<mark id="tei_lg_11" xlink:href="#xpointer(id('tok_953')/range-to(id('tok_1041')))"/><!-- gran folcs aredre gran davan gran e petit deu van laudant ensobre tot petiz enfan osanna semper van clamant  -->
+<mark id="tei_lg_12" xlink:href="#xpointer(id('tok_1042')/range-to(id('tok_1129')))"/><!-- a la ciptad cum aproismet et el la vid e lla sgarded de son piu cor greu suspiret de ssos sanz olz fort lagrimez  -->
+<mark id="tei_lg_13" xlink:href="#xpointer(id('tok_1130')/range-to(id('tok_1218')))"/><!-- hjerussalem hjerussalem gai te dis el per tos pechet pensar non poz pensar no l vols non t o permet tos granz orgolz  -->
+<mark id="tei_lg_14" xlink:href="#xpointer(id('tok_1219')/range-to(id('tok_1301')))"/><!-- venrant li an venrant li di que zt asaldran toi inimic il tot entorn t arberiaran et a terra crebantaran  -->
+<mark id="tei_lg_15" xlink:href="#xpointer(id('tok_1302')/range-to(id('tok_1395')))"/><!-- los tos enfanz qui in te sunt a males penas aucidrant en tos belz murs en tas maisons pedra ssubr altre non laiserant  -->
+<mark id="tei_lg_16" xlink:href="#xpointer(id('tok_1396')/range-to(id('tok_1481')))"/><!-- li toi caitiu per totas genz menad en eren a tormenz quar eu te fiz nu m cognoguist salvar te ving nu m receubist  -->
+<mark id="tei_lg_17" xlink:href="#xpointer(id('tok_1482')/range-to(id('tok_1573')))"/><!-- cum cho ag dit et percuidat en templum deu semper intret los marchedant quae in trobed a grand destreit fors los gitez  -->
+<mark id="tei_lg_18" xlink:href="#xpointer(id('tok_1574')/range-to(id('tok_1672')))"/><!-- los sos talant ta fort monstred que grant pavors pres a ls judeus de dobpla corda lz vai firend tot lor marched vai desfazend  -->
+<mark id="tei_lg_19" xlink:href="#xpointer(id('tok_1673')/range-to(id('tok_1765')))"/><!-- felo judeu cum il cho vidren enz lor cors grand an enveie per mals conselz van demandan nostre sennior cum tradissant  -->
+<mark id="tei_lg_20" xlink:href="#xpointer(id('tok_1766')/range-to(id('tok_1852')))"/><!-- lo fel judes escarioth a ls judeus vengra en rebost que m en darez e l vos tradran vostres talenz ademplirant  -->
+<mark id="tei_lg_21" xlink:href="#xpointer(id('tok_1853')/range-to(id('tok_1948')))"/><!-- trenta deners dunc li en promesdrent son bon sennior que lo tradisse si chera merz ven si petit hanc non fud hom qui magis l audis  -->
+<mark id="tei_lg_22" xlink:href="#xpointer(id('tok_1949')/range-to(id('tok_2033')))"/><!-- et a cel di que dizen pasches cum la cena jesus oc faita el sus leved de l piu manjer a ssos fedels laved lis ped  -->
+<mark id="tei_lg_23" xlink:href="#xpointer(id('tok_2034')/range-to(id('tok_2116')))"/><!-- et per lo pan et per lo vin fort saccrament lor commandez per remembrar sa passiun que faire rova a trestot  -->
+<mark id="tei_lg_24" xlink:href="#xpointer(id('tok_2117')/range-to(id('tok_2195')))"/><!-- de pan et vin sanctificat tot sos fidels i saciet mais que judes escharioh cui una sopa enflet lo cor  -->
+<mark id="tei_lg_25" xlink:href="#xpointer(id('tok_2196')/range-to(id('tok_2282')))"/><!-- judas cum og manjed la sopa diable sen enz en sa gola semper leved de l piu manjer tot a ls judeus o vai nuncer  -->
+<mark id="tei_lg_26" xlink:href="#xpointer(id('tok_2283')/range-to(id('tok_2371')))"/><!-- jesus lo bons per sa pietad tan dulcement pres a parler sobre son peiz fez condurmir sant johan lo son cher amic  -->
+<mark id="tei_lg_27" xlink:href="#xpointer(id('tok_2372')/range-to(id('tok_2459')))"/><!-- a cel sopar un sermon fez chi cel non sab tal non audid contra ls afanz que an a pader toz sos fidels ben en garnid  -->
+<mark id="tei_lg_28" xlink:href="#xpointer(id('tok_2460')/range-to(id('tok_2543')))"/><!-- alo sanc pedre perchoindad que cela noit lui neiara pedres forment s en aduned per epsa mort no l gurpira  -->
+<mark id="tei_lg_29" xlink:href="#xpointer(id('tok_2544')/range-to(id('tok_2626')))"/><!-- christus jesus den s en leved gehsesmani vil es n anez toz sos fidels seder rovet evan orar sols en anez  -->
+<mark id="tei_lg_30" xlink:href="#xpointer(id('tok_2627')/range-to(id('tok_2719')))"/><!-- granz fu li dols fort marrimenz si condormirent tuit ades jesus cum veg los esveled trestoz orar bien los manded  -->
+<mark id="tei_lg_31" xlink:href="#xpointer(id('tok_2720')/range-to(id('tok_2805')))"/><!-- e dunc orar cum el anned si fort sudor dunques suded que cum lo sags a terra curr de sa sudor las sanctas gutas  -->
+<mark id="tei_lg_32" xlink:href="#xpointer(id('tok_2806')/range-to(id('tok_2898')))"/><!-- a l sos fidels cum repadred tam benlement los conforted li fel judeus ja s aproismed ab gran compannie de ls judeus  -->
+<mark id="tei_lg_33" xlink:href="#xpointer(id('tok_2899')/range-to(id('tok_2981')))"/><!-- jesus cum vidra los judeus zo lor demandez que querent il li respondent tuit adun jesum querem nazarenum  -->
+<mark id="tei_lg_34" xlink:href="#xpointer(id('tok_2982')/range-to(id('tok_3066')))"/><!-- eu soi aquel zo dis jesus tuit li felun cadegrent jos terce vez lor o demanded a totas treis chedent envers  -->
+<mark id="tei_lg_35" xlink:href="#xpointer(id('tok_3067')/range-to(id('tok_3155')))"/><!-- mais li felun tuit trassudad vers nostre don son aproismad judas li vel ensenna fei celui prendet cui bassaerei  -->
+<mark id="tei_lg_36" xlink:href="#xpointer(id('tok_3156')/range-to(id('tok_3239')))"/><!-- judas cum veggra a jesum semper li tend lo son menton jesus li bons no l refuded a l tradetur baisair doned  -->
+<mark id="tei_lg_37" xlink:href="#xpointer(id('tok_3240')/range-to(id('tok_3323')))"/><!-- amicx zo dis jesus lo bons per que m trades in to baisol melz ti fura non fusses naz que me tradas per cobetad  -->
+<mark id="tei_lg_38" xlink:href="#xpointer(id('tok_3324')/range-to(id('tok_3409')))"/><!-- armand esterent evirum de totas part presdrent jesum no s defended ne no ssusted a la mort vai cum uns anel  -->
+<mark id="tei_lg_39" xlink:href="#xpointer(id('tok_3410')/range-to(id('tok_3498')))"/><!-- sanct pedre sols venjiar lo vol estrais lo fer que a l laz og si consegued u serv fellon la destre aurelia li excos  -->
+<mark id="tei_lg_40" xlink:href="#xpointer(id('tok_3499')/range-to(id('tok_3583')))"/><!-- jesus li bons ben red per mal l aurelia ad serv semper saned liadens mans cume ladron si l ent menen a passiun  -->
+<mark id="tei_lg_41" xlink:href="#xpointer(id('tok_3584')/range-to(id('tok_3673')))"/><!-- donc lo en gurpissen sei fedel cum el desanz diz lor aveia sanz pedre sols segwen lo vai quae sua fin veder voldrat  -->
+<mark id="tei_lg_42" xlink:href="#xpointer(id('tok_3674')/range-to(id('tok_3754')))"/><!-- anna nomnavent le judeu a cui jesus furet menez donc s adunouent li felon veder annouent pres jesum  -->
+<mark id="tei_lg_43" xlink:href="#xpointer(id('tok_3755')/range-to(id('tok_3845')))"/><!-- de quant il querent le forsfait cum il jesum oicisesant non fud trovez ne envenguz quar el forsfait non feist neul  -->
+<mark id="tei_lg_44" xlink:href="#xpointer(id('tok_3846')/range-to(id('tok_3932')))"/><!-- davant l ested le pontifex si conjuret per ipsum deu que llor dissets per pura fied si vers jesus fils deu est il  -->
+<mark id="tei_lg_45" xlink:href="#xpointer(id('tok_3933')/range-to(id('tok_4020')))"/><!-- tu eps l as deit respon jesus tuit li fellon crident adun maior forsfait que i querem per loi medeps audit l avem  -->
+<mark id="tei_lg_46" xlink:href="#xpointer(id('tok_4021')/range-to(id('tok_4115')))"/><!-- lo sos sans ols duncques cubrirent a coleiar fellon lo presdent ensobre tot si l escarnissent di nos prophete chi t o fedre  -->
+<mark id="tei_lg_47" xlink:href="#xpointer(id('tok_4116')/range-to(id('tok_4202')))"/><!-- fors en las estras estet petre a l fog l useire l aeswardovet de sa raison si l esfred que lo deu fil li fai neier  -->
+<mark id="tei_lg_48" xlink:href="#xpointer(id('tok_4203')/range-to(id('tok_4289')))"/><!-- anz quae la noit lo jalz cantes terce vez petre lo neiez jesus li bons lo reswardet lui recognostre semper fit  -->
+<mark id="tei_lg_49" xlink:href="#xpointer(id('tok_4290')/range-to(id('tok_4370')))"/><!-- petrus d alo fors s en aled amarament mult se ploret per cio laissed deus se neier que de nos aiet pieted  -->
+<mark id="tei_lg_50" xlink:href="#xpointer(id('tok_4371')/range-to(id('tok_4460')))"/><!-- cum le matins fud esclairez davant pilat l en ant menet fortment lo vant il acusand la soa mort mult demandant  -->
+<mark id="tei_lg_51" xlink:href="#xpointer(id('tok_4461')/range-to(id('tok_4536')))"/><!-- pilaz erod l en enviet cui des abanz voliet mel de jesu christi passion am se paierent a ciel jorn  -->
+<mark id="tei_lg_52" xlink:href="#xpointer(id('tok_4537')/range-to(id('tok_4625')))"/><!-- lo fel herodes cum lo vid mult lez semper en esdevint de lui long temps mult a audit semper pensed vertuz feisis  -->
+<mark id="tei_lg_53" xlink:href="#xpointer(id('tok_4626')/range-to(id('tok_4709')))"/><!-- de multes vises l apeled jesus li bons mot no l soned judeu l acusent el se tais ad un respondre non denat  -->
+<mark id="tei_lg_54" xlink:href="#xpointer(id('tok_4710')/range-to(id('tok_4793')))"/><!-- dunc lo despeis e l ecarnit li fel herodes en cel di blanc vestiment si l a vestit fellon pilad lo retrames  -->
+<mark id="tei_lg_55" xlink:href="#xpointer(id('tok_4794')/range-to(id('tok_4881')))"/><!-- pilaz que anz l en vol laisar no l consentunt fellun judeu vida perdonent a l ladrun aucid aucid crident jesum  -->
+<mark id="tei_lg_56" xlink:href="#xpointer(id('tok_4882')/range-to(id('tok_4977')))"/><!-- barrabant perdonent la vide jesum in alta cruz claufrisdrent crucifige crucifige crident pilat trestuit ensems  -->
+<mark id="tei_lg_57" xlink:href="#xpointer(id('tok_4978')/range-to(id('tok_5065')))"/><!-- cum aucidrai eu vostre rei zo dis pilaz forsfaiz non es rumpre l farai et flagellar poisses laisarai l en annar  -->
+<mark id="tei_lg_58" xlink:href="#xpointer(id('tok_5066')/range-to(id('tok_5150')))"/><!-- ensems crident tuit li fellunt entro en cel en van las voz si tu laises viure jesum non es amics l emparador  -->
+<mark id="tei_lg_59" xlink:href="#xpointer(id('tok_5151')/range-to(id('tok_5239')))"/><!-- pilaz sas mans dunques laved que de sa mort posche s neger ensems crident tuit li judeu sobre nos sia toz li pechez  -->
+<mark id="tei_lg_60" xlink:href="#xpointer(id('tok_5240')/range-to(id('tok_5330')))"/><!-- pilaz cum audid tals raisons ja lor gurpis nostre sennior donc lo recebent li fellun fors l en conducent en la cort  -->
+<mark id="tei_lg_61" xlink:href="#xpointer(id('tok_5331')/range-to(id('tok_5430')))"/><!-- de purpure donc lo vestirent et en sa man un raus li mesdrent corona prendent de las espines et en son cab fellun l asisdrent  -->
+<mark id="tei_lg_62" xlink:href="#xpointer(id('tok_5431')/range-to(id('tok_5516')))"/><!-- de davant lui tuit a genolz si s excrebantent li fellon dunc lo saludent cum senior et ad escarn emperador  -->
+<mark id="tei_lg_63" xlink:href="#xpointer(id('tok_5517')/range-to(id('tok_5601')))"/><!-- et cum asez l ont escarnid dunc li vestent son vestiment et el medeps si pres sa cruz avan toz vai a pasiun  -->
+<mark id="tei_lg_64" xlink:href="#xpointer(id('tok_5602')/range-to(id('tok_5691')))"/><!-- femnes lui van detras seguen ploran lo van et gaimentan jesus li pius redre garder ab les femnes pres a parler  -->
+<mark id="tei_lg_65" xlink:href="#xpointer(id('tok_5692')/range-to(id('tok_5778')))"/><!-- audez fillies jerusalem per me non vos est ob plorer mais per vos et per vostres filz plorez assaz qu i obs vos es  -->
+<mark id="tei_lg_66" xlink:href="#xpointer(id('tok_5779')/range-to(id('tok_5863')))"/><!-- cum el perveng a golgota davan la porta de la ciptat dunc lor gurpit soe chamisae chi sens custurae fo faitice  -->
+<mark id="tei_lg_67" xlink:href="#xpointer(id('tok_5864')/range-to(id('tok_5947')))"/><!-- il no l auseren deramar mais aura sort an gitad non fut partiz sos vestimenz zo fu granz signa tot per ver  -->
+<mark id="tei_lg_68" xlink:href="#xpointer(id('tok_5948')/range-to(id('tok_6025')))"/><!-- en huna fet huna vertet tuit soi fidel devent ester lo sos regnaz non es devis en caritad toz es uniz  -->
+<mark id="tei_lg_69" xlink:href="#xpointer(id('tok_6026')/range-to(id('tok_6111')))"/><!-- e de ls feluns qu eu vos dis anz lai dei venir o eu laisei quar il lo fel mesclen ab vin nostrae senior lo tenden il  -->
+<mark id="tei_lg_70" xlink:href="#xpointer(id('tok_6112')/range-to(id('tok_6202')))"/><!-- cum l an levad sus en la cruz dos a sos laz penden lasruns entre cels dos pendent jesum il per escarn o fan trestot  -->
+<mark id="tei_lg_71" xlink:href="#xpointer(id('tok_6203')/range-to(id('tok_6292')))"/><!-- cum il l an mes sus en la cruz gran fan escarn gran cridaizun ensobre toz uns de ls ladruns el escarnie rei jesum  -->
+<mark id="tei_lg_72" xlink:href="#xpointer(id('tok_6293')/range-to(id('tok_6384')))"/><!-- respondet l altre mal i diz el mor a tort ren non forsfez mais nos a dreit per colpas granz esmes oidi en cest ahanz  -->
+<mark id="tei_lg_73" xlink:href="#xpointer(id('tok_6385')/range-to(id('tok_6472')))"/><!-- envers jesum sos olz torned si piament lui appelled de me t membres per ta mercet cu tu vendras crist en ton ren  -->
+<mark id="tei_lg_74" xlink:href="#xpointer(id('tok_6473')/range-to(id('tok_6558')))"/><!-- respon li bons qui non mentid chi en epsa mort semper fu pius eu t o promet oi en cest di ab me venras in paradis  -->
+<mark id="tei_lg_75" xlink:href="#xpointer(id('tok_6559')/range-to(id('tok_6640')))"/><!-- o deus vers rex jesu crist ci tal don fais per ta mercet chi per huna confession vide perdones a l ladrun  -->
+<mark id="tei_lg_76" xlink:href="#xpointer(id('tok_6641')/range-to(id('tok_6720')))"/><!-- nos te laudam et noit e di de nos aies vera mercet tu nos perdone celz pecaz qu e nos vetdest tua pietad  -->
+<mark id="tei_lg_77" xlink:href="#xpointer(id('tok_6721')/range-to(id('tok_6818')))"/><!-- jusque nona des lo meidi trestot cest mund granz noiz cubrid fui lo solelz et fui la luna post que deus filz suspensus fure  -->
+<mark id="tei_lg_78" xlink:href="#xpointer(id('tok_6819')/range-to(id('tok_6905')))"/><!-- ad epsa nona cum perveng dunc escrided jesus granz criz hebraice fortment lo dis heli heli per que m gulpist  -->
+<mark id="tei_lg_79" xlink:href="#xpointer(id('tok_6906')/range-to(id('tok_6990')))"/><!-- uns de l felluns chi sta iki sus en la cruz li ten l azet jesus fortmen dunc recridet le spiritus de lui anet  -->
+<mark id="tei_lg_80" xlink:href="#xpointer(id('tok_6991')/range-to(id('tok_7078')))"/><!-- cum de jesu l anma n anet tan durament terra crollet roches fendient chedent munt sepulcra sanz obrirent mult  -->
+<mark id="tei_lg_81" xlink:href="#xpointer(id('tok_7079')/range-to(id('tok_7170')))"/><!-- et mult corps sanz en sun exit et inter omns sunt vedud qui in templum dei cortine pend jusche la terra per mei fend  -->
+<mark id="tei_lg_82" xlink:href="#xpointer(id('tok_7171')/range-to(id('tok_7259')))"/><!-- de laz la croz estet mariae de cui jesus vera carn presdre cum cela carn vidra murir qual agre dol no l sab om vius  -->
+<mark id="tei_lg_83" xlink:href="#xpointer(id('tok_7260')/range-to(id('tok_7341')))"/><!-- ela molt ben sab remembrar de soa carn cum deus fu naz ja l vedes ela si morir el resurdra cho sab per ver  -->
+<mark id="tei_lg_84" xlink:href="#xpointer(id('tok_7342')/range-to(id('tok_7435')))"/><!-- mais nempero granz fu li dols chi traverset per lo son cor nulz om mortalz no l pod penser sanz symeonz lo i percogded  -->
+<mark id="tei_lg_85" xlink:href="#xpointer(id('tok_7436')/range-to(id('tok_7521')))"/><!-- joseps pilat mult a preiat lo corps jesu qu el li dones a grand honor el l en portet en sos chamsils l envolopet  -->
+<mark id="tei_lg_86" xlink:href="#xpointer(id('tok_7522')/range-to(id('tok_7599')))"/><!-- nicodemus de ll altra part mult unguement hi aportet enter mirra et aloen quasi cent liuras a doned  -->
+<mark id="tei_lg_87" xlink:href="#xpointer(id('tok_7600')/range-to(id('tok_7686')))"/><!-- a grand honor de ces pimenc l aromatizen cuschement dunc lo pausen e l monument o corps non jag anc a cel temps  -->
+<mark id="tei_lg_88" xlink:href="#xpointer(id('tok_7687')/range-to(id('tok_7768')))"/><!-- la soa madre virgo fu et sen peched si portet lui sos munument fure toz nous anz lui no i jag unque nulz om  -->
+<mark id="tei_lg_89" xlink:href="#xpointer(id('tok_7769')/range-to(id('tok_7858')))"/><!-- non fud assaz anc a ls felluns davant pilat trestuit en van nos te praeiam per ta mercet gardes i met non sia emblez  -->
+<mark id="tei_lg_90" xlink:href="#xpointer(id('tok_7859')/range-to(id('tok_7942')))"/><!-- quar el zo dis que resurdra et a l terz di vius pareistra emblar l auran li soi fidel a toz diran que revisquet  -->
+<mark id="tei_lg_91" xlink:href="#xpointer(id('tok_7943')/range-to(id('tok_8028')))"/><!-- granz en avem agud errors or en aurem pece maiors armaz vassalz dunc lor liuret lo monument lor comandet  -->
+<mark id="tei_lg_92" xlink:href="#xpointer(id('tok_8029')/range-to(id('tok_8117')))"/><!-- christus jesus qui deus es vers qui semper fu et semper es ja fos la charns de lui aucise regnet pero cum anz se feira  -->
+<mark id="tei_lg_93" xlink:href="#xpointer(id('tok_8118')/range-to(id('tok_8199')))"/><!-- qua e l enfern dunc asalit fort satanan alo venquet per soa mort si l a vencut que contra omne non a vertud  -->
+<mark id="tei_lg_94" xlink:href="#xpointer(id('tok_8200')/range-to(id('tok_8275')))"/><!-- etqui era li om primers e l soi ensfant per son pecchiad e li petit e li gran etqui estevent per mulz anz  -->
+<mark id="tei_lg_95" xlink:href="#xpointer(id('tok_8276')/range-to(id('tok_8361')))"/><!-- quar anc non fo nul om carnals en cel enfern non fos anaz usque vengues qui sens pecat per toz solses comuna lei  -->
+<mark id="tei_lg_96" xlink:href="#xpointer(id('tok_8362')/range-to(id('tok_8447')))"/><!-- argent ne aur non i donet mas que son sang et soa carn d eg cel enfern toz los liudret en paradis los arberget  -->
+<mark id="tei_lg_97" xlink:href="#xpointer(id('tok_8448')/range-to(id('tok_8537')))"/><!-- et a l terz di lo mattin clar cum soleilz fo esclairaz tres femnes van a l monument molt cars portavent unguemenz  -->
+<mark id="tei_lg_98" xlink:href="#xpointer(id('tok_8538')/range-to(id('tok_8629')))"/><!-- l angeles deu de cel dessend si s aproismet a l monument tal a regard cum focs ardenz et cum la neus blanc vestimenz  -->
+<mark id="tei_lg_99" xlink:href="#xpointer(id('tok_8630')/range-to(id('tok_8725')))"/><!-- en pas que l vidren les custodes si s espauriren de pavor que quaisses morz a terra vengren de gran pavor que sobl el vengre  -->
+<mark id="tei_lg_100" xlink:href="#xpointer(id('tok_8726')/range-to(id('tok_8812')))"/><!-- sus en la peddre l angel set si parlet a las femnes dis no s neient ci per que crement que jesum christ ben requeret  -->
+<mark id="tei_lg_101" xlink:href="#xpointer(id('tok_8813')/range-to(id('tok_8894')))"/><!-- anaz en es et non es ci tot a complit quun que vos dis venez veder lo loc voiant o li sos corps jac des abanz  -->
+<mark id="tei_lg_102" xlink:href="#xpointer(id('tok_8895')/range-to(id('tok_8973')))"/><!-- a sos fidel tot annuncaz mas vos petdrun no i oblidez en galilea avant en vai allo l vetran o dit lor ad  -->
+<mark id="tei_lg_103" xlink:href="#xpointer(id('tok_8974')/range-to(id('tok_9065')))"/><!-- elles d equi cum sunt tornades jesus las a senpr encontradas dunc reconnossent lo senior si l adorent cum redemptor  -->
+<mark id="tei_lg_104" xlink:href="#xpointer(id('tok_9066')/range-to(id('tok_9156')))"/><!-- lo nostrae seindrae en eps cel di veduz furae veiades cinc primera l vit sancta mariae de cui sep diables forsmedre  -->
+<mark id="tei_lg_105" xlink:href="#xpointer(id('tok_9157')/range-to(id('tok_9248')))"/><!-- empres lo vidren celles duaes de l munument cum se retornent petdres lo vit en eps cel di ab lui parlet si l conjaudit  -->
+<mark id="tei_lg_106" xlink:href="#xpointer(id('tok_9249')/range-to(id('tok_9336')))"/><!-- envers lo vesprae envers lo ser dunc lo revidren soi fidel castel emaus ab elz entret ab el ensemble si sopet  -->
+<mark id="tei_lg_107" xlink:href="#xpointer(id('tok_9337')/range-to(id('tok_9418')))"/><!-- ja s adunent li soi fidel ja dicen tuit que vius era cum il menaven tal raizon jesus estet en me ttrestoz  -->
+<mark id="tei_lg_108" xlink:href="#xpointer(id('tok_9419')/range-to(id('tok_9505')))"/><!-- pax vobis sit dis a trestoz eu soi jesus qui passus soi vedez mas mans vedez mos peds vedez mo laz qu i fui plagas  -->
+<mark id="tei_lg_109" xlink:href="#xpointer(id('tok_9506')/range-to(id('tok_9589')))"/><!-- fortment sun il espaventet il li non credent que aia carn zo pensent il que enter el le spiritus aparegues  -->
+<mark id="tei_lg_110" xlink:href="#xpointer(id('tok_9590')/range-to(id('tok_9667')))"/><!-- mel e peisons equi manget en veritad los confirmet sa passion peisons tostaz lo mels signa deitat  -->
+<mark id="tei_lg_111" xlink:href="#xpointer(id('tok_9668')/range-to(id('tok_9753')))"/><!-- alques vos ai deit de raizon que jesus fez pos passion tot no l vos posc eu ben comptar no l pod nul om de madre naz  -->
+<mark id="tei_lg_112" xlink:href="#xpointer(id('tok_9754')/range-to(id('tok_9830')))"/><!-- a sos fidel quaranta dis per mulz semblanz emsembl ab elz bec e manjed de regnum deu semper parlet  -->
+<mark id="tei_lg_113" xlink:href="#xpointer(id('tok_9831')/range-to(id('tok_9916')))"/><!-- e per es mund roa l allar toz babzizar in trinitad qui lui credran cil erent salv qui no l cretran seran damnat  -->
+<mark id="tei_lg_114" xlink:href="#xpointer(id('tok_9917')/range-to(id('tok_9997')))"/><!-- signes faran li soi fidel quals el abanz faire soliae lingues noves il parlaran et diables encalceran  -->
+<mark id="tei_lg_115" xlink:href="#xpointer(id('tok_9998')/range-to(id('tok_10083')))"/><!-- si alcuns d els beven veren non aura mal zo sab per ver sobrae malabdes mans metran et sanitad a toz rendran  -->
+<mark id="tei_lg_116" xlink:href="#xpointer(id('tok_10084')/range-to(id('tok_10166')))"/><!-- sus en u mont donches montet que holivet numnat vos ai levet sa man si l benedis vengre la nuvols si l collit  -->
+<mark id="tei_lg_117" xlink:href="#xpointer(id('tok_10167')/range-to(id('tok_10244')))"/><!-- e lor vedent montet en cel a ddextris deu jesus es set qui venra toz judicar a toz rendra e ben e mal  -->
+<mark id="tei_lg_118" xlink:href="#xpointer(id('tok_10245')/range-to(id('tok_10362')))"/><!-- li soi fidel en son tornat a l dezen jorn ja cum perveng spiritus sanctus sobr elz chad d eg lo di dicent pentecostem si ls enflamet cum fugs ardenz  -->
+<mark id="tei_lg_119" xlink:href="#xpointer(id('tok_10363')/range-to(id('tok_10449')))"/><!-- il des abanz sunt aserad de crist non sabent mot parlar en pas che veng vertuz de cel il non dobten negun judeu  -->
+<mark id="tei_lg_120" xlink:href="#xpointer(id('tok_10450')/range-to(id('tok_10541')))"/><!-- per toz lengatges van parlan las virtuz crist van annuncian no lor pod om vius contrastar signes fazen per podestad  -->
+<mark id="tei_lg_121" xlink:href="#xpointer(id('tok_10542')/range-to(id('tok_10630')))"/><!-- spandut sunt per tot ces mund regnum dei nuncent per tot convertent gent et popu christus jesus per tot ab elz  -->
+<mark id="tei_lg_122" xlink:href="#xpointer(id('tok_10631')/range-to(id('tok_10718')))"/><!-- lo satanas dol en a grand a ls deu fidels fai durs afanz alcanz en cruz fai los levar alquanz d espades degollar  -->
+<mark id="tei_lg_123" xlink:href="#xpointer(id('tok_10719')/range-to(id('tok_10804')))"/><!-- e llos alquanz fai escorter alquanz en fog vius trebucher et en gradilie ls fai toster alquanz a ppetdres lapider  -->
+<mark id="tei_lg_124" xlink:href="#xpointer(id('tok_10805')/range-to(id('tok_10892')))"/><!-- lui que aiude nu ls vencera cum peis lor fai il creisent mais lo cap a crist esvegurad per tot es mund es adhoraz  -->
+<mark id="tei_lg_125" xlink:href="#xpointer(id('tok_10893')/range-to(id('tok_10986')))"/><!-- nos cestes pugnes non avem contra nos eps pugnar devem fraindre devem nostrae voluntaz que part aiam ab nos deu fidels  -->
+<mark id="tei_lg_126" xlink:href="#xpointer(id('tok_10987')/range-to(id('tok_11078')))"/><!-- quar finimunz non es mult lon et regnum deu fortment es prob drontre nos lez facam lo ben gurpissem mund et som peccad  -->
+<mark id="tei_lg_127" xlink:href="#xpointer(id('tok_11079')/range-to(id('tok_11166')))"/><!-- christus jesus qui man ensus mercet aias de pechedors en tals raizons si a mmespraes per ta pitad lo m perdones  -->
+<mark id="tei_lg_128" xlink:href="#xpointer(id('tok_11167')/range-to(id('tok_11246')))"/><!-- te posche retdrae graciae davant to paire gloriae sanz spiritum posche laudar et nunc per tot in secula  -->
+</markList>
+</paula>

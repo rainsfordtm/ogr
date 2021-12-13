@@ -1,0 +1,10 @@
+.htmlvis {
+font-family: Arial, sans-serif; counter-reset: line 0;
+}
+div.line:nth-of-type(5){text-indent:10px;}
+div.line:nth-of-type(5n):before{content:counter(line)" "}
+div.line{display: block; white-space:nowrap; counter-increment: line ; height: 22px}
+div.line:not(:nth-of-type(5n)){text-indent:20px;}
+.pb{border-style:solid;}
+.cb{vertical-align: top; counter-reset: line 0; width: 160px;}
+.wd_div[wd_div*="_"]::after{content: " "}

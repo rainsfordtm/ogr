@@ -1,0 +1,5 @@
+tei_lg_n	div; style="p"
+line_ref	div; style="line"
+line_ref	span:title; style="line_ref"	value
+tei_q	span:q; style="q"
+word	span; style="word"	value

@@ -1,0 +1,41 @@
+Rules applied: R1, R20
+Lines correct: 488 of 517
+Pass history:
+Tried rules R20; 477 lines correct.
+Tried rules R1; 480 lines correct.
+Tried rules R2; 465 lines correct.
+Tried rules R1, R20; 488 lines correct.
+Tried rules R1, R2; 476 lines correct.
+Tried rules R1, R20, R2; 478 lines correct.
+OPTIMIZED LINES
+81    --     a ls judeus vengra en rebost
+144    --     judas cum veggra a jesum
+233    --     entro en cel en van las voz
+346    --     enter mirra et aloen
+392    --     l angeles deu de cel dessend
+437    --     il li non credent que aia carn
+485    --     spandut sunt per tot ces mund
+497    --     lui que aiude nu ls vencera
+
+BAD LINES
+27    --     canted aveien de jesu crist
+63    --     pedra ssubr altre non laiserant
+77    --     enz lor cors grand an enveie
+190    --     de sa raison si l esfred
+239    --     sobre nos sia toz li pechez
+246    --     corona prendent de las espines
+265    --     davan la porta de la ciptat
+269    --     mais aura sort an gitad
+300    --     o deus vers rex jesu crist
+325    --     et inter omns sunt vedud
+378    --     e li petit e li gran
+389    --     cum soleilz fo esclairaz
+429    --     ja dicen tuit que vius era
+443    --     lo mels signa deitat
+449    --     per mulz semblanz
+470    --     qui venra toz judicar
+475    --     d eg lo di dicent pentecostem
+486    --     regnum dei nuncent per tot
+487    --     convertent gent et popu
+503    --     fraindre devem nostrae voluntaz
+504    --     que part aiam ab nos deu fidels
