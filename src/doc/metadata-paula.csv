@@ -89,6 +89,18 @@ paula/grid/Serments/ogr.Serments.anno_feat.xml,title_fr,Serments de Strasbourg
 paula/grid/Serments/ogr.Serments.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 9768"
 paula/grid/Serments/ogr.Serments.anno_feat.xml,form,prose
 paula/grid/Serments/ogr.Serments.anno_feat.xml,source,ms. image
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,text,Sponsus
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,lang,pro
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,lang_other,lat
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,ms_cent,11..12
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,ms_origin,Limousin
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,text_cent,11
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,text_origin,Poitou [?]
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,title_en,Sponsus
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,title_fr,Sponsus
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,form,verse
+paula/grid/Sponsus/ogr.Sponsus.anno_feat.xml,source,transcription
 paula/grid/ogr.meta_multiFeat.xml,name,"Old Gallo-Romance (OGR) Corpus, ANNIS edition"
 paula/grid/ogr.meta_multiFeat.xml,creator,T. M. Rainsford
 paula/grid/ogr.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de

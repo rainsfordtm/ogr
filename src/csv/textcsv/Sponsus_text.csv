@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,SPONS[US],sponsus,QQVRQVQ,s.p.o.n.s.u.s,'QQ/V\R.Q/V\Q,.,---,---,---,,---,---,---,"Sponsus, f. 53v, rubric",,</docTitle></front>,<text><front><pb n=&quot;53v&quot;/><docTitle>
+1,1,1,SPONS[US],sponsus,QQVRQVQ,s.p.o.n.s.u.s,'QQ/V\R.Q/V\Q,.,---,---,---,,---,---,---,"Sponsus, f. 53v, rubric",,</docTitle></pront>,<text><pront><pb n=&quot;53v&quot;/><docTitle>
 2,2,1,Ad–est,adest,VQVQQ,a.d.e.s.t,'/V\.Q/V\QQ,–,1,---,---,,---,---,---,"Sponsus, l. 1",,,<body><lb/><prologue><sp><lg xml:lang=&quot;lat&quot;><l n=&quot;1&quot;>
 3,2,2,spo[n]sus,sponsus,QQVRQVQ,s.p.o.n.s.u.s,'QQ/V\R.Q/V\Q,–|,1,---,---,,---,---,---,"Sponsus, l. 1",,,
 4,2,3,qui,qui,QRV,q.u.i,QR/V\,_,1,---,---,,---,---,---,"Sponsus, l. 1",,,<lb/>
@@ -67,9 +67,9 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 66,11,3,at_q[ue],atque,VQQRV,a.t.q.u.e,'/V\Q.QR/V\,–,10,---,---,,---,---,---,"Sponsus, l. 10",,,
 67,11,4,crucis,crucis,QRVQVQ,c.r.u.c.i.s,'QR/V\.Q/V\Q,–,10,---,---,,---,---,---,"Sponsus, l. 10",,,
 68,11,5,sustulit,sustulit,QVQQVRVQ,s.u.s.t.u.l.i.t,Q/V\Q.'Q/V\.R/V\Q,–,10,---,---,,---,---,---,"Sponsus, l. 10",,,
-69,11,6,patibula,patibula,QVQVQVRV,p.a.t.i.b.u.l.a,Q/V\.'Q/V\.Q/V\.R/V\,–,10,---,---,,---,---,---,"Sponsus, l. 10",,</l></lg></sp>,
-70,12,1,PRUde[n]tes,prudentes,QRVQVRQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\R.Q/V\Q,|,---,---,---,,---,---,---,"Sponsus, f. 53v, rubric",,</speaker>,<sp xml:lang=&quot;fro&quot;><speaker>
-71,13,1,Oiet,oiet,OiEZ,o.i.et,/O\.'/iE\Z,–,11,VERcjg,VERcjg,imp---5,ouïr,DMF,ouïr,"Sponsus, l. 11",,,<lb/><lg xml:lang=&quot;fro&quot; rhyme=&quot;aaab&quot;><l n=&quot;11&quot;>
+69,11,6,patibula,patibula,QVQVQVRV,p.a.t.i.b.u.l.a,Q/V\.'Q/V\.Q/V\.R/V\,–,10,---,---,,---,---,---,"Sponsus, l. 10",,</l></lg></sp></prologue>,
+70,12,1,PRUde[n]tes,prudentes,QRVQVRQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\R.Q/V\Q,|,---,---,---,,---,---,---,"Sponsus, f. 53v, rubric",,</speaker>,<sp xml:lang=&quot;pro&quot;><speaker>
+71,13,1,Oiet,oiet,OiEZ,o.i.et,/O\.'/iE\Z,–,11,VERcjg,VERcjg,imp---5,ouïr,DMF,ouïr,"Sponsus, l. 11",,,<lb/><lg xml:lang=&quot;pro&quot;><l n=&quot;11&quot;>
 72,13,2,uirgines,virgines,virʤinES,v.i.r.g.i.n.e.s,v/i\r.'ʤ/i\.n/E\S,–,11,NOMcom,NOMcom,pfn,virgine2,DMF,virgine2,"Sponsus, l. 11",,,
 73,13,3,aiso,aiso,AisO,a.i.s.o,/A\i.'s/O\,–,11,PRNdem,PRNdem,snr,ce,DMF,ce,"Sponsus, l. 11",,,
 74,13,4,que,que,kE,qu.e,k/E\,+,11,PRNrel,PRNrel,snr,que,DMF,que,"Sponsus, l. 11",,,
@@ -91,7 +91,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 90,16,2,no,no,no,n.o,n/o\,+,14,ADVneg,ADVneg,,ne,DMF,ne,"Sponsus, l. 14",,,
 91,16,3,i,i,i,i,/\i,–|,14,PRCadv,PRCadv,,y2,DMF,y2,"Sponsus, l. 14",,,
 92,16,4,dormet,dormet,dOrmæZ,d.o.r.m.e.t,d/O\r.'m/æ\Z,–,14,VERcjg,VERcjg,imp---5,dormir,DMF,dormir,"Sponsus, l. 14",,</l></lg>,<pb n=&quot;54r&quot;/><lb/>
-93,17,1,Aisel,aisel,Aisel,a.i.s.e.l,/A\i.'s/e\l,–,15,DETdem,DETdem,smn,cil,DMF,cil,"Sponsus, l. 15",,,<lg xml:lang=&quot;fro&quot; rhyme=&quot;aaab&quot;><l n=&quot;15&quot;>
+93,17,1,Aisel,aisel,Aisel,a.i.s.e.l,/A\i.'s/e\l,–,15,DETdem,DETdem,smn,cil,DMF,cil,"Sponsus, l. 15",,,<lg xml:lang=&quot;pro&quot;><l n=&quot;15&quot;>
 94,17,2,espos,espos,ESpoS,e.s.p.o.s,/E\S.'p/o\S,–,15,NOMcom,NOMcom,smn,époux,DMF,époux,"Sponsus, l. 15",,,
 95,17,3,que,que,kE,qu.e,k/E\,+,15,PRNrel,PRNrel,smr,que,DMF,que,"Sponsus, l. 15",,,
 96,17,4,uos,vos,voS,v.o.s,v/o\S,–,15,PRNper,PRNper,5pfn,vous,DMF,vous,"Sponsus, l. 15",,,
@@ -106,7 +106,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 105,18,7,pechet,pechet,pEkEZ,p.e.ch.e.t,p/E\.'k/E\Z,|,16,NOMcom,NOMcom,pmr,péché,DMF,péché,"Sponsus, l. 16",,</l>,
 106,19,1,de,de,dE,d.e,d/E\,+,17,PRE,PRE,,de,DMF,de,"Sponsus, l. 17",,,<lb/><l n=&quot;17&quot;>
 107,19,2,la,la,La,l.a,L/a\,_,17,DETdef,DETdef,sfr,le,DMF,le,"Sponsus, l. 17",,,
-108,19,3,uirgine,virgine,virʤinE,v.i.r.g.i.n.e,'v/i\r.ʤ/i\.n/(E)\,–,17,NOMcom,NOMcom,sfr,virgine2,DMF,virgine2,"Sponsus, l. 17",,,
+108,19,3,uirgine,virgine,virʤinE,v.i.r.g.i.n.e,v/i\r.'ʤ/i\.n/(E)\,–,17,NOMcom,NOMcom,sfr,virgine2,DMF,virgine2,"Sponsus, l. 17",,,
 109,19,4,en,en,EN,e.n,/E\N,+,17,PRE,PRE,,en,DMF,en,"Sponsus, l. 17",,,
 110,19,5,betleem,betleem,bEtLEEm,b.e.t.l.e.e.m,b/E\t.L/E\.'/E\m,–,17,NOMpro,NOMpro,smr,Bethléem,---,---,"Sponsus, l. 17",,,
 111,19,6,fo,fo,fo,f.o,f/o\,_,17,VERcjg,VERcjg,indpsp3,être,DMF,être,"Sponsus, l. 17",,,
@@ -162,7 +162,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 161,31,3,que,que,QRV,q.u.e,QR/V\,_,28,---,---,,---,---,---,"Sponsus, l. 28",,,
 162,31,4,ad,ad,VQ,a.d,/V\Q,+,28,---,---,,---,---,---,"Sponsus, l. 28",,,
 163,31,5,uos,vos,QVQ,v.o.s,Q/V\Q,–,28,---,---,,---,---,---,"Sponsus, l. 28",,,
-164,31,6,uenimus,venimus,QVRVRVQ,v.e.n.i.m.u.s,Q/V\.'R/V\.R/V\Q,–,28,---,---,,---,---,---,"Sponsus, l. 28",,</l>,
+164,31,6,uenimus,venimus,QVRVRVQ,v.e.n.i.m.u.s,'Q/V\.R/V\.R/V\Q,–,28,---,---,,---,---,---,"Sponsus, l. 28",,</l>,
 165,32,1,negligenter,negligenter,RVQRVQVRQVR,n.e.g.l.i.g.e.n.t.e.r,R/V\.QR/V\.'Q/V\R.Q/V\R,–,29,---,---,,---,---,---,"Sponsus, l. 29",,,<l n=&quot;29&quot;>
 166,32,2,oleum,oleum,VRVVR,o.l.e.u.m,'/V\.R/V\./V\R,–|,29,---,---,,---,---,---,"Sponsus, l. 29",,,
 167,32,3,fu(n)dimus,fudimus,QVQVRVQ,f.u.d.i.m.u.s,'Q/V\.Q/V\.R/V\Q,–,29,---,---,,---,---,---,"Sponsus, l. 29",,</l>,<lb/>
@@ -177,14 +177,14 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 176,34,4,q[u]ibus,quibus,QRVQVQ,q.u.i.b.u.s,'QR/V\.Q/V\Q,_,31,---,---,,---,---,---,"Sponsus, l. 31",,,
 177,34,5,nos,nos,RVQ,n.o.s,R/V\Q,–|,31,---,---,,---,---,---,"Sponsus, l. 31",,,
 178,34,6,credimus,credimus,QRVQVRVQ,c.r.e.d.i.m.u.s,'QR/V\.Q/V\.R/V\Q,–,31,---,---,,---,---,---,"Sponsus, l. 31",,</l>,<lb/>
-179,35,1,dolentas,dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–,32,ADJqua,ADJqua,pfn,dolent,DMF,dolent,"Sponsus, l. 32",,,<l xml:lang=&quot;fro&quot; n=&quot;32&quot;>
+179,35,1,dolentas,dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–,32,ADJqua,ADJqua,pfn,dolent,DMF,dolent,"Sponsus, l. 32",,,<l xml:lang=&quot;pro&quot; n=&quot;32&quot;>
 180,35,2,chaitiuas,chaitivas,kAitivAS,ch.a.i.t.i.v.a.s,k/A\i.'t/i\.v/A\S,–,32,ADJqua,ADJqua,pfn,chétif,DMF,chétif,"Sponsus, l. 32",,,
 181,35,3,trop,trop,trɔP,t.r.o.p,tr/ɔ\P,_,32,ADVgen,ADVgen,,trop,DMF,trop,"Sponsus, l. 32",,,
 182,35,4,i,i,i,i,/i\,_,32,PRCadv,PRCadv,,y2,DMF,y2,"Sponsus, l. 32",,,
 183,35,5,auem,avem,AvEm,a.v.e.m,/A\.'v/E\m,_,32,VERcjg,VERcjg,indpst4,avoir,DMF,avoir,"Sponsus, l. 32",,,
 184,35,6,dormit,dormit,dOrmiZ,d.o.r.m.i.t,d/O\r.'m/i\Z,–,32,VERppe,VERppe,snr,dormir,DMF,dormir,"Sponsus, l. 32",,</l></lg>,
 185,36,1,Nos,nos,RVQ,n.o.s,R/V\Q,_,33,---,---,,---,---,---,"Sponsus, l. 33",,,<lg xml:lang=&quot;lat&quot;><l n=&quot;33&quot;>
-186,36,2,co–|mites,comites,QVRVQVQ,c.o.m.i.t.e.s,Q/V\.'R/V\.Q/V\Q,–,33,---,---,,---,---,---,"Sponsus, l. 33",,,
+186,36,2,co–|mites,comites,QVRVQVQ,c.o.m.i.t.e.s,'Q/V\.R/V\.Q/V\Q,–,33,---,---,,---,---,---,"Sponsus, l. 33",,,
 187,36,3,huius,huius,QVRVQ,h.u.i.u.s,'Q/V\.R/V\Q,–,33,---,---,,---,---,---,"Sponsus, l. 33",,,<pb n=&quot;54v&quot;/><lb/>
 188,36,4,itineris,itineris,VQVRVRVQ,i.t.i.n.e.r.i.s,/V\.'Q/V\.R/V\.R/V\Q,–,33,---,---,,---,---,---,"Sponsus, l. 33",,</l>,
 189,37,1,[et],et,VQ,e.t,/V\Q,+,34,---,---,,---,---,---,"Sponsus, l. 34",,,<l n=&quot;34&quot;>
@@ -192,14 +192,14 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 191,37,3,ei[us]dem,eiusdem,VRVQQVR,e.i.u.s.d.e.m,'/V\.R/V\Q.Q/V\R,–,34,---,---,,---,---,---,"Sponsus, l. 34",,,
 192,37,4,generis,generis,QVRVRVQ,g.e.n.e.r.i.s,'Q/V\.R/V\.R/V\Q,–,34,---,---,,---,---,---,"Sponsus, l. 34",,</l>,
 193,38,1,quam_uis,quamvis,QRVRQVQ,q.u.a.m.v.i.s,'QR/V\R.Q/V\Q,_,35,---,---,,---,---,---,"Sponsus, l. 35",,,<l n=&quot;35&quot;>
-194,38,2,male,male,RVRV,m.a.l.e,R/V\.R/V\,–|,35,---,---,,---,---,---,"Sponsus, l. 35",,,
-195,38,3,contigit,contigit,QVRQVQVQ,c.o.n.t.i.g.i.t,Q/V\R.'Q/V\.Q/V\Q,–,35,---,---,,---,---,---,"Sponsus, l. 35",,,<lb/>
-196,38,4,miseris,miseris,RVQVRVQ,m.i.s.e.r.i.s,R/V\.'Q/V\.R/V\Q,–,35,---,---,,---,---,---,"Sponsus, l. 35",,</l>,
+194,38,2,male,male,RVRV,m.a.l.e,'R/V\.R/V\,–|,35,---,---,,---,---,---,"Sponsus, l. 35",,,
+195,38,3,contigit,contigit,QVRQVQVQ,c.o.n.t.i.g.i.t,'Q/V\R.Q/V\.Q/V\Q,–,35,---,---,,---,---,---,"Sponsus, l. 35",,,<lb/>
+196,38,4,miseris,miseris,RVQVRVQ,m.i.s.e.r.i.s,'R/V\.Q/V\.R/V\Q,–,35,---,---,,---,---,---,"Sponsus, l. 35",,</l>,
 197,39,1,potestis,potestis,QVQVQQVQ,p.o.t.e.s.t.i.s,Q/V\.'Q/V\Q.Q/V\Q,+,36,---,---,,---,---,---,"Sponsus, l. 36",,,<l n=&quot;36&quot;>
 198,39,2,nos,nos,RVQ,n.o.s,R/V\Q,–,36,---,---,,---,---,---,"Sponsus, l. 36",,,
 199,39,3,reddere,reddere,RVQQVRV,r.e.d.d.e.r.e,'R/V\Q.Q/V\.R/V\,–,36,---,---,,---,---,---,"Sponsus, l. 36",,,
 200,39,4,sup[er]_is,superis,QVQVRVQ,s.u.p.e.r.i.s,'Q/V\.Q/V\.R/V\Q,_,36,---,---,,---,---,---,"Sponsus, l. 36",,</l>,
-201,40,1,Do,do,QV,d.o,Q/V\,_,37,---,---,,---,---,---,"Sponsus, l. 37",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;fro&quot; n=&quot;37&quot;>
+201,40,1,Do,do,QV,d.o,Q/V\,_,37,---,---,,---,---,---,"Sponsus, l. 37",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;pro&quot; n=&quot;37&quot;>
 202,41,1,Partimini,partimini,QVRQVRVRV,p.a.r.t.i.m.i.n.i,Q/V\R.'Q/V\.R/V\.R/V\,_,38,---,---,,---,---,---,"Sponsus, l. 38",,,<lg xml:lang=&quot;lat&quot;><l n=&quot;38&quot;>
 203,41,2,lu–|men,lumen,RVRVR,l.u.m.e.n,'R/V\.R/V\R,–,38,---,---,,---,---,---,"Sponsus, l. 38",,,
 204,41,3,lampadibus,lampadibus,RVRQVQVQVQ,l.a.m.p.a.d.i.b.u.s,R/V\R.'Q/V\.Q/V\.Q/V\Q,–,38,---,---,,---,---,---,"Sponsus, l. 38",,</l>,<lb/>
@@ -218,7 +218,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 217,44,4,uoc[et],vocet,QVQVQ,v.o.c.e.t,'Q/V\.Q/V\Q,–,41,---,---,,---,---,---,"Sponsus, l. 41",,,
 218,44,5,in,in,VR,i.n,/V\R,+,41,---,---,,---,---,---,"Sponsus, l. 41",,,
 219,44,6,sedibus,sedibus,QVQVQVQ,s.e.d.i.b.u.s,'Q/V\.Q/V\.Q/V\Q,–,41,---,---,,---,---,---,"Sponsus, l. 41",,</l>,
-220,45,1,Dole,dole,QVRV,d.o.l.e,Q/V\.R/V\,–,42,---,---,,---,---,---,"Sponsus, l. 42",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg></sp>,<l xml:lang=&quot;fro&quot; n=&quot;42&quot;>
+220,45,1,Dole,dole,QVRV,d.o.l.e,Q/V\.R/V\,–,42,---,---,,---,---,---,"Sponsus, l. 42",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg></sp>,<l xml:lang=&quot;pro&quot; n=&quot;42&quot;>
 221,46,1,PRVde[n]tes,prudentes,QRVQVRQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\R.Q/V\Q,|,---,---,---,,---,---,---,"Sponsus, f. 54v, rubric",,</speaker>,<sp xml:lang=&quot;lat&quot;><speaker>
 222,47,1,Nos,nos,RVQ,n.o.s,R/V\Q,_,43,---,---,,---,---,---,"Sponsus, l. 43",,,<lb/><lg xml:lang=&quot;lat&quot;><l n=&quot;43&quot;>
 223,47,2,precari,precari,QRVQVRV,p.r.e.c.a.r.i,QR/V\.'Q/V\.R/V\,–,43,---,---,,---,---,---,"Sponsus, l. 43",,,
@@ -237,7 +237,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 236,50,3,p[ro],pro,QRV,p.r.o,QR/V\,_,46,---,---,,---,---,---,"Sponsus, l. 46",,,
 237,50,4,hoc,hoc,QVQ,h.o.c,Q/V\Q,–,46,---,---,,---,---,---,"Sponsus, l. 46",,,
 238,50,5,ulterius,ulterius,VRQVRVVQ,u.l.t.e.r.i.u.s,/V\R.'Q/V\.R/V\./V\Q,|,46,---,---,,---,---,---,"Sponsus, l. 46",,</l>,
-239,51,1,Dolentas,dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–|,47,ADJqua,ADJqua,pfn,dolent,DMF,dolent,"Sponsus, l. 47",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<lb/><l xml:lang=&quot;fro&quot; n=&quot;47&quot;>
+239,51,1,Dolentas,dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–|,47,ADJqua,ADJqua,pfn,dolent,DMF,dolent,"Sponsus, l. 47",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<lb/><l xml:lang=&quot;pro&quot; n=&quot;47&quot;>
 240,52,1,Ac,ac,VQ,a.c,/V\Q,_,48,---,---,,---,---,---,"Sponsus, l. 48",,,<lg xml:lang=&quot;lat&quot;><l n=&quot;48&quot;>
 241,52,2,ite,ite,VQV,i.t.e,'/V\.Q/V\,_,48,---,---,,---,---,---,"Sponsus, l. 48",,,
 242,52,3,nunc,nunc,RVRQ,n.u.n.c,R/V\RQ,–,48,---,---,,---,---,---,"Sponsus, l. 48",,,
@@ -255,16 +255,16 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 254,55,2,eq[u]idem,equidem,VQRVQVR,e.q.u.i.d.e.m,'/V\.QR/V\.Q/V\R,–,51,---,---,,---,---,---,"Sponsus, l. 51",,,
 255,55,3,uobis,vobis,QVQVQ,v.o.b.i.s,'Q/V\.Q/V\Q,–,51,---,---,,---,---,---,"Sponsus, l. 51",,,
 256,55,4,inertib[us],inertibus,VRVRQVQVQ,i.n.e.r.t.i.b.u.s,/V\.'R/V\R.Q/V\.Q/V\Q,_,51,---,---,,---,---,---,"Sponsus, l. 51",,</l>,
-257,56,1,Do,do,QV,d.o,Q/V\,–|,52,---,---,,---,---,---,"Sponsus, l. 52",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;fro&quot; n=&quot;52&quot;>
+257,56,1,Do,do,QV,d.o,Q/V\,–|,52,---,---,,---,---,---,"Sponsus, l. 52",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;pro&quot; n=&quot;52&quot;>
 258,57,1,A,a,V,a,/V\,_,53,---,---,,---,---,---,"Sponsus, l. 53",,,<lb/><lg xml:lang=&quot;lat&quot;><l n=&quot;53&quot;>
 259,57,2,misere,misere,RVQVRV,m.i.s.e.r.e,'R/V\.Q/V\.R/V\,–,53,---,---,,---,---,---,"Sponsus, l. 53",,,
 260,57,3,nos,nos,RVQ,n.o.s,R/V\Q,–,53,---,---,,---,---,---,"Sponsus, l. 53",,,
 261,57,4,hic,hic,QVQ,h.i.c,Q/V\Q,–,53,---,---,,---,---,---,"Sponsus, l. 53",,,
-262,57,5,quid,quid,QRVQ,q.u.i.d,QR/V\Q,–,53,---,---,,---,---,---,"Sponsus, l. 53",,</l>,
-263,58,1,facimus,facimus,QVQVRVQ,f.a.c.i.m.u.s,'Q/V\.Q/V\.R/V\Q,–,54,---,---,,---,---,---,"Sponsus, l. 54",,,<l n=&quot;54&quot;>
-264,58,2,uigilare,vigilare,QVQVRVRV,v.i.g.i.l.a.r.e,Q/V\.Q/V\.'R/V\.R/V\,–,54,---,---,,---,---,---,"Sponsus, l. 54",,,
-265,58,3,numquid,numquid,RVRQRVQ,n.u.m.q.u.i.d,'R/V\R.QR/V\Q,–,54,---,---,,---,---,---,"Sponsus, l. 54",,,
-266,58,4,po–|tuimus,potuimus,QVQVVRVQ,p.o.t.u.i.m.u.s,Q/V\.'Q/V\./V\.R/V\Q,–,54,---,---,,---,---,---,"Sponsus, l. 54",,</l>,
+262,57,5,quid,quid,QRVQ,q.u.i.d,QR/V\Q,–,53,---,---,,---,---,---,"Sponsus, l. 53",,,
+263,57,6,facimus,facimus,QVQVRVQ,f.a.c.i.m.u.s,'Q/V\.Q/V\.R/V\Q,–,53,---,---,,---,---,---,"Sponsus, l. 53",,</l>,
+264,58,1,uigilare,vigilare,QVQVRVRV,v.i.g.i.l.a.r.e,Q/V\.Q/V\.'R/V\.R/V\,–,54,---,---,,---,---,---,"Sponsus, l. 54",,,<l n=&quot;54&quot;>
+265,58,2,numquid,numquid,RVRQRVQ,n.u.m.q.u.i.d,'R/V\R.QR/V\Q,–,54,---,---,,---,---,---,"Sponsus, l. 54",,,
+266,58,3,po–|tuimus,potuimus,QVQVVRVQ,p.o.t.u.i.m.u.s,Q/V\.'Q/V\./V\.R/V\Q,–,54,---,---,,---,---,---,"Sponsus, l. 54",,</l>,
 267,59,1,hunc,hunc,QVRQ,h.u.n.c,Q/V\RQ,_,55,---,---,,---,---,---,"Sponsus, l. 55",,,<pb n=&quot;55r&quot;/><lb/><l n=&quot;55&quot;>
 268,59,2,laborem,laborem,RVQVRVR,l.a.b.o.r.e.m,R/V\.'Q/V\.R/V\R,–,55,---,---,,---,---,---,"Sponsus, l. 55",,,
 269,59,3,que,que,QRV,q.u.e,QR/V\,–,55,---,---,,---,---,---,"Sponsus, l. 55",,,
@@ -273,7 +273,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 272,60,1,nobis,nobis,RVQVQ,n.o.b.i.s,'R/V\.Q/V\Q,–,56,---,---,,---,---,---,"Sponsus, l. 56",,,<l n=&quot;56&quot;>
 273,60,2,nos–med,nosmed,RVQRVQ,n.o.s.m.e.d,'R/V\.QR/V\Q,_,56,---,---,,---,---,---,"Sponsus, l. 56",,,
 274,60,3,con–|tulimus,contulimus,QVRQVRVRVQ,c.o.n.t.u.l.i.m.u.s,Q/V\R.'Q/V\.R/V\.R/V\Q,_,56,---,---,,---,---,---,"Sponsus, l. 56",,</l>,
-275,61,1,Dol,dol,QVR,d.o.l,Q/V\R,_,57,---,---,,---,---,---,"Sponsus, l. 57",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<lb/><l xml:lang=&quot;fro&quot; n=&quot;57&quot;>
+275,61,1,Dol,dol,QVR,d.o.l,Q/V\R,_,57,---,---,,---,---,---,"Sponsus, l. 57",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<lb/><l xml:lang=&quot;pro&quot; n=&quot;57&quot;>
 276,62,1,Et,et,VQ,e.t,/V\Q,_,58,---,---,,---,---,---,"Sponsus, l. 58",,,<lg xml:lang=&quot;lat&quot;><l n=&quot;58&quot;>
 277,62,2,de,de,QV,d.e,Q/V\,–,58,---,---,,---,---,---,"Sponsus, l. 58",,,
 278,62,3,nobis,nobis,RVQVQ,n.o.b.i.s,'R/V\.Q/V\Q,–,58,---,---,,---,---,---,"Sponsus, l. 58",,,
@@ -292,8 +292,8 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 291,65,2,quod,quod,QRVQ,q.u.o.d,QR/V\Q,–|,61,---,---,,---,---,---,"Sponsus, l. 61",,,
 292,65,3,nosme,nosme,RVQRV,n.o.s.m.e,'R/V\.QR/V\,–,61,---,---,,---,---,---,"Sponsus, l. 61",,,<lb/>
 293,65,4,fu(n)dimus,fudimus,QVQVRVQ,f.u.d.i.m.u.s,'Q/V\.Q/V\.R/V\Q,_,61,---,---,,---,---,---,"Sponsus, l. 61",,</l>,
-294,66,1,Dol,dol,QVR,d.o.l,Q/V\R,_,62,---,---,,---,---,---,"Sponsus, l. 62",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;fro&quot; n=&quot;62&quot;>
-295,67,1,De,de,dE,d.e,d/E\,_,63,PRE,PRE,,de,DMF,de,"Sponsus, l. 63",,,<lg xml:lang=&quot;fro&quot;><l n=&quot;63&quot;>
+294,66,1,Dol,dol,QVR,d.o.l,Q/V\R,_,62,---,---,,---,---,---,"Sponsus, l. 62",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg>,<l xml:lang=&quot;pro&quot; n=&quot;62&quot;>
+295,67,1,De,de,dE,d.e,d/E\,_,63,PRE,PRE,,de,DMF,de,"Sponsus, l. 63",,,<lg xml:lang=&quot;pro&quot;><l n=&quot;63&quot;>
 296,67,2,nostr,nostr,nɔStr0,n.o.s.t.r.,'n/ɔ\S.tr/[0]\,+,63,DETpos,DETpos,4smr,notre,DMF,notre,"Sponsus, l. 63",,,
 297,67,3,oli,oli,oli,o.l.i,'/o\.l/i\,–,63,NOMcom,NOMcom,smr,huile,DMF,huile,"Sponsus, l. 63",,,
 298,67,4,queret,queret,kEræZ,qu.e.r.e.t,k/E\.'r/æ\Z,–,63,VERcjg,VERcjg,indpst5,quérir,DMF,quérir,"Sponsus, l. 63",,,
@@ -316,7 +316,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 315,69,7,ester,ester,EStær,e.s.t.e.r,/E\S.'t/æ\r,_,65,VERinf,VERinf,,ester,DMF,ester,"Sponsus, l. 65",,</l>,
 316,70,1,Dol.,dol,QVR,d.o.l,Q/V\R,–|,66,---,---,,---,---,---,"Sponsus, l. 66",,<gap rend=&quot;points&quot; unit=&quot;word&quot;/></l></lg></sp>,<l n=&quot;66&quot;>
 317,71,1,Mercatores,mercatores,RVRQVQVRVQ,m.e.r.c.a.t.o.r.e.s,R/V\R.Q/V\.'Q/V\.R/V\Q,.,---,---,---,,---,---,---,"Sponsus, f. 55r, rubric",,</speaker>,<lb/><sp><speaker>
-318,72,1,Domnas,domnas,dOmnAS,d.o.m.n.a.s,'d/O\m.n/A\S,_,67,NOMcom,NOMcom,pfn,dame,DMF,dame,"Sponsus, l. 67",,,<lg xml:lang=&quot;fro&quot;><l n=&quot;67&quot;>
+318,72,1,Domnas,domnas,dOmnAS,d.o.m.n.a.s,'d/O\m.n/A\S,_,67,NOMcom,NOMcom,pfn,dame,DMF,dame,"Sponsus, l. 67",,,<lg xml:lang=&quot;pro&quot;><l n=&quot;67&quot;>
 319,72,2,gentils,gentils,ʤENtiLS,g.e.n.t.i.l.s,ʤ/E\N.'t/i\LS,–,67,ADJqua,ADJqua,pfn,gentil,DMF,gentil,"Sponsus, l. 67",,,
 320,72,3,no,no,no,n.o,n/o\,+,67,ADVneg,ADVneg,,ne,DMF,ne,"Sponsus, l. 67",,,
 321,72,4,uos,vos,voS,v.o.s,v/o\S,–,67,PRCper,PRCper,5pfr,vous,DMF,vous,"Sponsus, l. 67",,,
@@ -341,7 +341,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 340,75,5,uos,vos,voS,v.o.s,v/o\S,–|,70,PRCper,PRCper,5pfr,vous,DMF,vous,"Sponsus, l. 70",,,
 341,75,6,pot,pot,pOT,p.o.t,p/O\T,–,70,VERcjg,VERcjg,indpst3,pouvoir,DMF,pouvoir,"Sponsus, l. 70",,,<lb/>
 342,75,7,coseler,coseler,kOsElær,c.o.s.e.l.e.r,k/O\.s/E\.'l/æ\r,_,70,VERinf,VERinf,,conseiller2,DMF,conseiller2,"Sponsus, l. 70",,</l></lg>,
-343,76,1,Alet,alet,AlæZ,a.l.e.t,/A\.'l/æ\Z,–,71,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 71",,,<lg xml:lang=&quot;fro&quot;><l n=&quot;71&quot;>
+343,76,1,Alet,alet,AlæZ,a.l.e.t,/A\.'l/æ\Z,–,71,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 71",,,<lg xml:lang=&quot;pro&quot;><l n=&quot;71&quot;>
 344,76,2,areir,areir,ArEir,a.r.e.i.r,/A\.'r/E\ir,–,71,ADVgen,ADVgen,,arrière,DMF,arrière,"Sponsus, l. 71",,,
 345,76,3,a,a,a,a,/a\,+,71,PRE,PRE,,à,DMF,à,"Sponsus, l. 71",,,
 346,76,4,uostras,vostras,vɔStrAS,v.o.s.t.r.a.s,'v/ɔ\S.tr/A\S,_,71,DETpos,DETpos,5pfr,votre,DMF,votre,"Sponsus, l. 71",,,
@@ -424,11 +424,11 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 423,91,6,huius,huius,QVRVQ,h.u.i.u.s,'Q/V\.R/V\Q,_,84,---,---,,---,---,---,"Sponsus, l. 84",,,
 424,91,7,au–|le,aule,VRV,au.l.e,'/V\.R/V\,–,84,---,---,,---,---,---,"Sponsus, l. 84",,,
 425,91,8,lumine[=limine],limine,RVRVRV,l.i.m.i.n.e,'R/V\.R/V\.R/V\,–,84,---,---,,---,---,---,"Sponsus, l. 84",,</l>,<lb/>
-426,92,1,Al[et],alet,AlæZ,a.l.e.t,/A\.'l/æ\Z,–,85,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 85",,,<l xml:lang=&quot;fro&quot; n=&quot;85&quot;>
+426,92,1,Al[et],alet,AlæZ,a.l.e.t,/A\.'l/æ\Z,–,85,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 85",,,<l xml:lang=&quot;pro&quot; n=&quot;85&quot;>
 427,92,2,chaitiuas,chaitivas,kAitivAS,ch.a.i.t.i.v.a.s,k/A\i.'t/i\.v/A\S,–,85,ADJqua,ADJqua,pfn,chétif,DMF,chétif,"Sponsus, l. 85",,,
 428,92,3,al[et],alet,AlæZ,a.l.e.t,/A\.'l/æ\Z,–,85,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 85",,,
-429,92,4,malaureas,malaureas,mAlAuræAS,m.a.l.a.u.r.e.a.s,m/A\.l/A\u.'r/æ\./A\S,–,85,ADJqua,ADJqua,pfn,malheuré,DMF,malheuré,"Sponsus, l. 85",,</l>,
-430,93,1,a,a,a,a,/a\,+,86,PRE,PRE,,à,DMF,à,"Sponsus, l. 86",,,<l xml:lang=&quot;fro&quot; n=&quot;86&quot;>
+429,92,4,malaureas,malaureas,mAlAyræAS,m.a.l.a.u.r.e.a.s,m/A\.l/A\./y\.'r/æ\./A\S,–,85,ADJqua,ADJqua,pfn,malheuré,DMF,malheuré,"Sponsus, l. 85",,</l>,
+430,93,1,a,a,a,a,/a\,+,86,PRE,PRE,,à,DMF,à,"Sponsus, l. 86",,,<l xml:lang=&quot;pro&quot; n=&quot;86&quot;>
 431,93,2,tot,tot,toZ,t.o.t,t/o\Z,_,86,DETdef,DETdef,pmr,tout,DMF,tout,"Sponsus, l. 86",,,
 432,93,3,iors,jors,ʤurS,j.o.r.s,ʤ/u\rS,–,86,NOMcom,NOMcom,pmr,jour,DMF,jour,"Sponsus, l. 86",,,
 433,93,4,mais,mais,mAiS,m.a.i.s,m/A\iS,–,86,ADVgen,ADVgen,,mais,DMF,mais,"Sponsus, l. 86",,,
@@ -436,7 +436,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,pos,
 435,93,6,so,so,So,s.o,S/o\,_,86,VERcjg,VERcjg,indpst6,être,DMF,être,"Sponsus, l. 86",,,<lb/>
 436,93,7,penas,penas,pEnAS,p.e.n.a.s,'p/E\.n/A\S,–,86,NOMcom,NOMcom,pfn,peine,DMF,peine,"Sponsus, l. 86",,,
 437,93,8,liureas,liureas,LiuræAS,l.i.u.r.e.a.s,L/i\u.'r/æ\./A\S,–,86,VERppe,VERppe,pfn,livrer,DMF,livrer,"Sponsus, l. 86",,</l>,
-438,94,1,en,en,EN,e.n,/E\N,+,87,PRE,PRE,,en,DMF,en,"Sponsus, l. 87",,,<l xml:lang=&quot;fro&quot; n=&quot;87&quot;>
+438,94,1,en,en,EN,e.n,/E\N,+,87,PRE,PRE,,en,DMF,en,"Sponsus, l. 87",,,<l xml:lang=&quot;pro&quot; n=&quot;87&quot;>
 439,94,2,efern,efern,Efɛrn,e.f.e.r.n,/E\.'f/ɛ\rn,–,87,NOMcom,NOMcom,smr,enfer,DMF,enfer,"Sponsus, l. 87",,,
 440,94,3,ora,ora,ɔrA,o.r.a,'/ɔ\.r/(A)\,_,87,ADVgen,ADVgen,,or2,DMF,or2,"Sponsus, l. 87",,,
 441,94,4,ser[et],seret,SEreZ,s.e.r.e.t,S/E\.'r/e\Z,–,87,VERcjg,VERcjg,indfut5,être,DMF,être,"Sponsus, l. 87",,,
