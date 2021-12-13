@@ -39,11 +39,11 @@ Attribution and copyright status of the material in this corpus:
 	consultation with published material (details to be published in full
 	corpus documentation on http://www.ogr-corpus.org).
 	
-BFM 2019. = Base de Français Médiéval [En ligne]. Lyon: ENS de Lyon, Laboratoire
+* BFM 2019. = Base de Français Médiéval [En ligne]. Lyon: ENS de Lyon, Laboratoire
 	IHRIM. <txm.bfm-corpus.org>.
-Foerster, Wolfgang, and Eduard Koschwitz. 1932. Altfranzösisches Übungsbuch. 7.
+* Foerster, Wolfgang, and Eduard Koschwitz. 1932. Altfranzösisches Übungsbuch. 7.
 	Aufl. Leipzig: Reisland.
-Rainsford, Thomas, and Olga Scrivner. 2014. „Metrical annotation for a verse
+* Rainsford, Thomas, and Olga Scrivner. 2014. „Metrical annotation for a verse
 	treebank“. In Proceedings of the Thirteenth International Workshop on
 	Treebanks and Linguistic Theories (TLT13), edited by Verena Henrich,
 	Erhard Hinrichs, Daniël de Kok, Petya Osenova, and Adam Przepiórkowski,
