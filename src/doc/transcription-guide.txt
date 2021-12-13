@@ -1,0 +1,486 @@
+Guide to phonemic transcription
+===============================
+
+**********************************
+A reminder on transcription files:
+
+- The TRANSCRIPTION file will give as much information as is available
+from the graphical form; no more, no less.
+- Non context-specific disambiguation must be manual.
+- Merger of otherwise differences given in the graphical form must be manual.
+**********************************
+
+Vowels:
+-------
+
+Vowel
+--- [+round]
+	--- /O/
+		[+back]
+		--- [-high]
+			--- /ɔ/
+				[-tense]
+			--- /o/
+				[+tense] (flattened diphthongs)
+		--- /u/ (or [ú])
+			[+high]
+	--- /y/
+		[-back +high]
+(	--- /U/
+		[+high]
+		--- /y/
+		--- /o/ )
+		
+--- [-round]
+	--- /Æ/
+		[-high]
+		--- /A/
+			[+low]
+			--- /æ/
+				[+tense]
+			--- /a/
+				[-tense]
+		--- /E/ 
+			[-low]
+			---	/e/
+				[+tense]
+			--- /ɛ/
+				[-tense]
+	--- [+high]
+		--- /i/
+		
+--- /ə/ --- featureless (NGR post-tonic vowel)
+
+	
+	
+Add at the tonic the following distinctions:
+ę:  Occ. perfect, Frc. a > æ/ie ≠ ė
+ǫ ≠ u
+
+DIPTHONGS: only secondary, all falling
+
+Consonants:
+-----------
+
+/C/
+any consonant
+--- /G/
+	VELAR
+	--- /K/
+		[-cont]
+		--- /k/
+		--- /g/
+	--- /ɣ/
+--- /Z/
+	CORONAL
+	---	[-cont]
+		--- /T/
+			[-strident]
+			--- /d/
+			--- /t/
+		--- [+strident]
+			--- /Č/
+				[-ant +dist]
+				--- /ʧ/
+				--- /ʤ/
+			--- /Ç/
+				[+ant -dist]
+				--- /ʦ/
+				--- /ʣ/
+	--- [+cont]
+		--- /ð/
+			[-strident]
+			--- [ð] (positional variants)
+			--- [θ]
+		--- /S/ 
+			[+strident]
+			--- /s/
+			--- /z/
+(	--- /D/
+		[+ant -strident]
+		--- /T/
+			[-cont]
+			--- /d/
+			--- /t/
+		--- /ð/
+			[+cont]
+			--- [ð] (positional variants)
+			--- [θ] ) 
+					
+--- /B/
+	LABIAL
+	--- [+cont]
+		--- /F/
+			[+strident]
+			--- /f/
+			--- /v/
+		--- /ß/ [symbol not used]
+			[-strident]
+	--- /P/
+		[-cont]
+		--- /p/
+		--- /b/
+		
+--- /N/
+	[+nas]
+	--- /m/
+	--- /n/
+	--- /ɲ/
+--- /L/
+	[+lat]
+	--- /l/
+	--- /ʎ/
+	--- /ɫ/ [always allophonic]
+--- /r/
+
+--- /w/
+
+-------------------------------------------------------------------------------
+Standard transcription rules:
+
+CONSONANTS:
+
+Velars:
+- Final position (rare):
+	- post-consonantal <c>/<g> transcribed as /K/
+	- post-vocalic <c>/<g>:
+		- weak: transcribed as /G/ (usu. only Occitan influence)
+		- strong (former geminate): transcribed as /K/
+
+- Strong position:
+	- <g>, <gu> before <e>, <i> = /g/
+	- <k>, <qu>, <c> = /k/
+
+- Weak position:
+	- in most OF texts intervocalic <k> and <g> should not be found:
+	either <i> or lost. Text-specific rules required.
+	
+
+Coronals:
+- Final position:
+	- post-vocalic:
+		- weak <t> and <d> transcribed as /ð/
+		- strong <t> ( < pr.-fr. geminate) transcribed as /T/
+	- post-consonantal <t> and <d> transcribed as /T/
+	- final <z> transcribed as <Ç>
+	- final <s> transcribed as <S>
+- Strong position:
+	- Oppositions:
+		- <d> = /d/
+		- <t> = /t/
+		- <c> before <i>, <e> = /Ç/ (no /ʣ/) 
+		- <j> or <g> before <i>, <e> = /ʤ/
+		- <ch> = /ʧ/
+		- <s> = /S/, also in coda position
+- Weak position:
+	- Oppositions:
+		- <t> = /t/
+		- <d> = /d/ or /ð/, lexically dependent
+		- <dh>, <th> as /ð/
+		- <z> = /ʣ/
+		- <sc> or <c> before <i>, <e> = /ʦ/
+		- <g> before <i>, <e> = /Č/
+		- <ss> = /s/
+		- <s> = /z/
+- Pre-consonantal position:
+	- <s> = /S/, generally no other coronals found.
+	
+Labials:
+- Final position:
+	- final <p>/<b> = /P/
+	- final <f>/<v> = /F/
+- Medial/initial position:
+	- Oppositions:
+		- <p> = /p/
+		- <b> = /b/
+		- <f> = /f/
+		- <v> = /v/
+		
+Nasals:
+- Final and intervocalic position:
+	- Oppositions:
+		- <m> = /m/
+		- <n> = /n/
+		- <gn>, <ign>, <ng> = /ɲ/
+
+- Pre-consonantal EXCEPT before a nasal (incl. monosyllables)
+	- only /N/
+	
+Liquids:
+- Intervocalic position:
+	- Oppositions:
+		- <l>, <ll> = /l/
+		- <il>, <ill> = /ʎ/
+
+- All other positions:
+	- only /L/
+	
+VOWELS:
+- Back vowels:
+	- <o> = /u/ or /ɔ/
+		- in texts with spontaneous <ou> diphthongs, the transcription /ú/ can
+		be used to indicate [-cons] for the first element of the diphthong.
+	- Neutralization before a nasal: /O/
+	
+- Non-back vowels: non-mid vowels:
+	- <u> = /y/ or, if value is uncertain, /U/.
+	- <i> = /i/
+	- <a> = /a/
+	
+- Non-back vowels:
+	- Pretonic position and pre-nasal position
+		- <e> = /E/
+	- Tonic position:
+		- <e> must be disambiguated into:
+			- /e/ < tonic blocked /e/, flattened /ie/ diphthong
+			- /ɛ/ < tonic blocked /ɛ/
+			- /æ/ < tonic free /a/
+				- in Occitan-influenced texts, /A/ can be used for reflexes of
+				tonic-free /a/
+	- Post-tonic position:
+		- /ə/ only
+	
+-------------------------------------------------------------------------------
+Notes on symbols used in the Passion:
+
+Intervocalic consonants:
+- Evidence for a merger of Lat. p/b is shaky; on this basis, merger of t/d and
+	k/g also doubtful. The Occitan system is used here.
+
+Coronals:
+- Graphical confusion of final dental stops, affricates and /ð/. The following
+	transcription rules are followed:
+	- default transcription is /Z/ (underspecified coronal)
+	- where no possible final /s/ or affricate: either /T/ (supported) or /D/
+	(unsupported)
+		- except for monosyllables _et_ and _ad_, transcribed eð and að 
+- Affricates are generally transcribed /Ç/:
+	- opposition neutralized in strong position (no /ʣ/)
+	- unclear sometime in intervocalic position whether voicing occurs or not, e.g.
+	/dizen/, /dicen/.
+- For the sake of simplicity, it is assumed that /d/ and /ð/ are in opposition
+in intervocalic position and before /r/.
+	- /ð/ and /ðr/ represent the normal transcriptions of these clusters
+	- /d/ and /dr/ are used in Latinisms
+	- geminate transcriptions in peddre, petdres, etc. are ignored --- they
+	are perhaps indicative of an /rr/ rather than a /r/ development.
+- /s/ and /z/ are only in opposition intervocalically; elsewhere /S/ is used.
+	- the spelling <ss> in intervocalic position is interpreted as /s/, not a
+	geminate.
+	
+Velars:
+- Similar conventions followed as for the coronals, i.e.
+	- final velars: /K/
+	- <qu>/<gu> digraphs transcribed consistently as velar stops (/w/ has fallen
+	in some contexts)
+	- no palatalization of /k/, /g/ before /a/
+	- geminate graphies <cc> transcribed as single consonant.
+	- geminate <gg> in <veggra> transcribed as single consonant (poss. lengthening
+	due to loss of nasal).
+
+Labials:
+- Intervocalic and final labials are transcribed with the highly underspecified
+/B/ phoneme - a combination of uncertainty of realization and unclear phonemic
+oppositions ([v], [ß], [b], word-final [p]).
+- Asymmetry with other categories deliberate: there are few intervocalic [b]
+(unlike [g]) and there is confusion between strident/non-strident fricatives
+(unlike [s]/[ð]).
+	- Final labials:
+		- /F/ in <salv> (origin is strident fricative)
+		- /P/ also possible (if origin is geminate) but not attested.
+
+Nasal:
+- In word-internal codas the underspecified /N/ phoneme is used EXCEPT before
+	another nasal or before /s/ (cases of [ms])
+- Geminate graphies are interpreted as single consonants.
+
+Laterals:
+- In word-internal codas the underspecified /L/ phoneme is used.
+- Geminate graphies are interpreted as single consonants.
+
+	
+Rhotic:
+- Geminate graphies interpreted as geminate.
+
+/w/:
+	- only used in Germanic borrowings as a single onset /w/ 
+	
+/h/:
+	- only in Germanic borrowing and cases of intervocalic /f/ > /h/ (<ahanz>)
+	
+Vowels:
+-------
+Front mid vowels.
+- The default transcription in all except post-tonic position is /E/.
+- /e/ is transcribed:
+	- at the TONIC...
+	- when from VL /e/
+	- also in the (rare) <ei> diphthongs
+- /ɛ/ is transcribed:
+	- at the TONIC...
+	- when from VL /ɛ/
+	- in the Occ. perfect <-ed> forms
+- /æ/ is transcribed:
+	- for all reflexes of tonic free a[ not subject to diphthongization, 
+	however they are written
+- /E/ is transcribed:
+	- for all cases where Northern GR would show the /iE/ diphthong, including
+	reflexes of tonic free a[ (in practice, nearly always written <e>).
+	- in the pretonic.
+- /ə/ is transcribed in post-tonic position. 
+
+Rounded vowels
+- The default transcription is /O/ except at the tonic before a non-nasal consonant.
+- /u/ is transcribed:
+	- at the tonic when from VL /o/
+- /ɔ/ is transcribed:
+	- at the tonic when from VL tonic blocked /ɔ/.
+- /O/ is transcribed:
+	- at the tonic, when from VL tonic free /ɔ/.
+	- in the pretonic
+- /U/ is transcribed in Latinisms.
+- /y/ is transcribed when from VL /u/
+
+High vowel /i/:
+- /i/ corresponds to <i> in the graphy, except where it develops in strong
+	position.
+- Intervocalic /i/ is transcribed as geminate when before a /iɛ/ diphthong
+	(rare in this text).
+- /I/ is transcribed in cases of VL pal. + /e/, variably written <i>, <e> and <ei>
+
+- The <ei> digraph is treated in this text as a diphthong (Exception: <bein>).sfr
+	
+-------------------------------------------------------------------------------
+Notes on symbols used in SLeger:
+
+Velars:
+- Final <k>/<g> transcribed as <K> : all arise through Occitan influence,
+	fricative pronunciation is to be excluded.
+
+Coronals:
+- The <ct> digraph is usually transcribed as T, as is <c> before
+	<z>.
+- The <th> digraph denotes [t].
+
+Labials:
+- Final <p> in <cap> transcribed as /P/: Occitan form. Contrast final <v> in
+	<quev> (transcribed /F/).
+- Final <b> in <ob> and <ab> transcribed as /P/ as phonetic value unclear.
+
+Nasals:
+- Geminate spellings are transcribed as simple consonants throughout (except [rr])
+	- simplification of <mm> in <comander>
+
+Post-tonic vowels:
+- Evidence for merger of <e> and <a> (albeit limited), so [ə] is transcribed
+(e.g. <cartres>, <dures>)
+
+Back vowels:
+- No evidence of /au/ > /ɔ/ so /O/ transcribed in pretonic position.
+
+Non-back low vowels:
+- In general there is a northern French vowel system, shown in particular
+	by clear evidence for merger of /ie/ < pal. + /a/ and /ie/ < /ɛ/
+	Note that Bartsch's Law does not usually apply in the south-west 
+	(Goerlich 1882: 24-25).
+- Vowels are distinguished as in NFr. The borrowed Occitan -e- perfects,
+	which are not derived historically from an -a[ vowel, are transcribed [ɛ].
+- The <ie> digraph is confusingly used. It systematically indicates a STRESSED,
+	TENSE vowel (/e/, /iE/ or /æ/).	
+	It is transcribed etymologically as /iE/ (where etymological), /æ/ or /e/.
+	Where historical /iE/ has been flattened, the transcription /E/ is used.
+	(For the scribe, /E/ was probably [ɛ] due to Occitan
+	influence, but given the assonance in the text it may have been [e] for the
+	author. It does not merge with /æ/.)
+	- The issue is complicated by the fact that <ci> is used as a digraph for
+	/Ç/, e.g. in <cio>.
+	- It is possible that <ie> was regularly pronounced [e(:)] as opposed to
+	<e> pronounced [ɛ].
+- The value of <uo> is also mysterious.
+	- in <duos> and <suos>, where the diphthong represents a Latin hiatus,
+	the transcription /úu/ is used.
+	- in <buons> and <duol>, where the diphthong can only have arisen through
+	primary diphthongization but is inconsistently written, the transcription
+	/O/ is used.
+	
+- Where <o> represents a non-diphthongized [ɔ] in <ols>, <noit> it is also
+	transcribed /O/.
+	
+Mid-vowels:
+- The digraph <ie> is not only used for cases of the diphthongization of 
+/ɛ/ but also for reflexes of tonic free /a/ after a non palatal (<laudier>),
+reflexes of tonic blocked /ɛ/ (tiemps) and reflexes of tonic blocked /e/
+(ciest). It is therefore interpreted simply as an alternative form for <e>
+and disambiguated as such.
+
+-------------------------------------------------------------------------------
+Notes on symbols used in Alexis:
+
+The main problem in this text are the VOWELS:
+
+Rounded vowels:
+- /y/ and /u/ are treated as separate phonemes, although not systematically
+	distinguished orthographically.
+- /U/ is transcribed in Latinisms.
+- There is no evidence of spontaneous <ou> in the text, and so /u/ is transcribed
+	throughout in these positions. /úu/ is used only for secondary diphthongs
+	such as <ou> < UBI.
+- Where the /uɛ/ diphthong (written <oe>) has flattened to <o> in the spelling,
+	the transcription /o/ is used (cf. Pope:§553)
+	
+Unrounded vowels:
+- /e/ is used both for reflexes of tonic blocked /e/ AND for numerous 
+	cases in which the /ie/ diphthong has flattened (cf. Pope:§512).
+	
+- /Æ/ is used for all cases of pretonic /a/ or /e/ before a nasal in a closed
+	syllable, as there 	is strong evidence of merger in this position, although
+	not at the rhyme.
+	
+Palatals:
+- Evidence for retention of /ʎ/ is slight and instead the sequence /iL/ is
+	transcribed.
+- Evidence for retention of /ɲ/ is more mixed but sufficient (<gn> spellings,
+	variation is spelling of "seinor, senior, seignur". The composite 
+	transcription /iɲ/ is used except in the Latinate "regne"
+	
+Final consonants:
+- Place neutralization of nasals before /S/ attested (<tens>, etc.)
+	
+	
+-------------------------------------------------------------------------------
+Notes on symbols used in Serments:
+
+The vowels, in particularly the lack of diphthongs, are again the main
+problem:
+	- Second-wave diphthongs are transcribed undiphthongized, i.e.:
+		- /A/ is used for tonic free /a/
+		- /e/ is used for tonic free /e/ (written <i>, also when tonic blocked)
+			- According to Avalle (1965), this is a "Merovingian" tendency.
+		- /u/ is used for tonic free /o/ (written <u>).
+		
+	- The first-wave diphthongs in <vol> and <pois> may have flattened
+		or may never have developed; consequently /O/ and /U/ are used
+		respectively.
+		
+	- Evidence that -a and -e have merged <sendra>, <fazet>: -ə transcription
+	used.
+		
+Consonants:
+	- /ɣ/ is used in <sagrament>
+		
+--------------------------------------------------------------------------------
+Notes on symbols used in Sponsus:
+
+Post-tonic vowels:
+	- No evidence for merger of <-a> and <-e>, so these are annotated as in 
+	Occitan texts.
+	
+Tonic free vowels:
+	- Clear evidence of tonic-free <a> > <e>.
+	- Unclear after palatal (also written <e>), transcribed as /E/ (cf. Léger).
+	These are (sometimes) mixed in assonance with reflexes of [æ].
+	
+P5 ending:
+	- Assonance tells us little about whether the OF [æ]/[iE] generalization
+	has taken place. Annotation assumes that it has.
+	

@@ -1,0 +1,173 @@
+Guide to transcriptions of the Occitan texts
+============================================
+
+VOWELS
+--- [+round]
+	--- /O/
+		[+back]
+		---	[-high]
+			--- /ɔ/
+				[-tense]
+			--- /o/ (not used?)
+				[+tense]
+		--- /u/
+			[+high]
+		
+--- [-round]
+	--- /Æ/ (unused?)
+		[-high]
+		--- /A/
+			[+low]
+		--- /E/
+			[-low]
+			--- /e/
+				[+tense]
+			--- /ɛ/
+				[-tense]
+	--- [+high]
+		--- /i/
+	
+CONSONANTS
+/C/
+any consonant
+--- /G/
+	VELAR
+	--- /K/
+		[-cont]
+		--- /k/
+		--- /g/
+	--- /ɣ/ (? used)
+--- /Z/
+	CORONAL
+	---	[-cont]
+		--- /T/
+			[-strident]
+			--- /d/
+			--- /t/
+		--- [+strident]
+			--- /Č/
+				[-ant +dist]
+				--- /ʧ/ 
+				--- /ʤ/
+			--- /Ç/
+				[+ant -dist]
+				--- /ʦ/
+				--- /ʣ/
+	--- [+cont]
+		--- /ð/
+			[-strident]
+			--- [ð] (positional variants)
+			--- [θ]
+		--- /S/ 
+			[+strident]
+			--- /s/
+			--- /z/
+					
+--- /B/
+	LABIAL
+	--- [+cont]
+		--- /F/
+			[+strident]
+			--- /f/
+			--- /v/
+		--- /ß/ [symbol not used]
+			[-strident]
+	--- /P/
+		[-cont]
+		--- /p/
+		--- /b/
+		
+--- /N/
+	[+nas]
+	--- /m/
+	--- /n/
+	--- /ɲ/
+--- /L/
+	[+lat]
+	--- /l/
+	--- /ʎ/
+	--- /ɫ/ [always allophonic]
+--- /r/
+
+--- /w/
+
+SFoi
+====
+
+Geminate consonants:
+********************
+In general, geminate sonorants in this text are transcribed as geminates.
+- Sonorants:
+	- geminate <rr> is transcribed as a geminate
+	- Latin geminate <ll> and <nn> are consistently transcribed word-internally
+		but inconsistent in word-final position.
+		Transcriptions: /LL/ and /nn/ respectively, when graphy is geminate.
+	- It is possible given the south-western origin of the text that [ll]
+		palatalizes (cf. Ronjat 1932: §303). However, <nn> never palatalizes
+		in Occitan varieties (Ronjat 1932: §302), only in central/southern Catalan 
+		
+- Obstruents:
+	- <ss> is taken to represent [s], also in final position.
+	- Single <s> is taken to represent a phoneme underspecified for voice
+		in word-final position (presumably assimilated) and is transcribed /S/
+	- Single <s> intervocalically is taken to represent /z/ and is transcribed
+		as such.
+	- Final <s> is treated as intervocalic after a simple vowel, regardless of
+		etymology.
+	- <cc> and <gg> are interpreted as velar stops (incl. <gg> before <e, i>
+		in impf. sbjv.)
+		
+Intervocalic consonants:
+************************
+	- <d> denotes [ð] when descended from single intervocalic [-d-] in Latin.
+	- elsewhere, <d> denotes [d], including where < single intervocalic [-t-].
+		In some (mainly Provençal) dialects, however, the dentals have merged
+		(cf. Ronjat §267).
+		
+Final consonants:
+*****************
+SFoi (exceptionally) does not show evidence for final consonant devoicing,
+	i.e. obstruent voicing oppositions are retained word-finally.
+
+Affricates [ʦ] and [ʣ]
+**********************
+	- Results here are broadly the same as French:
+		- [ʦ] < [k] + [e, i], [tj] in strong position and [kj] in all positions;
+		- [ʣ] < [k] + [e, i], [tj] in weak position. (Ronjat 1932: §227)
+	- Opposition thus in intervocalic and final (post-vocalic) position.
+	- Where the affricate is give by an occlusive + [s] after syncope, it is
+		marked as two segments.
+		
+Glides before palatals
+**********************
+- <i> before a palatal is written as a separate segment --- it is not always
+	present before <nn> or <ll> graphies.
+	
+Glides after velars
+*******************
+- <gu>, <qu>: For Latin <gu>, <qu> the glide is retained before /a/ even in
+	modern dialects in Aquitaine (Ronjat 1932: §247). /gw/ < Germanic 
+	/w/ is conserved in all contexts in Aquitaine.
+	- Germanic /w/ is transcribed consistently as /w/
+	- Latin /w/ is transcribed consistently before /a/ but not other vowels.
+	
+Labials + dentals following syncope
+***********************************
+- Outcomes of pt, bt and vt sequences developed through syncope is extremely
+	variable across modern dialects although the most common eventual outcome
+	is the loss of the labial. The graphy of the source text is respected:
+	- the transcription /P/ is used for <b> and <p> (Ronjat 1932: §309)
+	- the transcription /u/ is used for <u> ([v] assumed not to be possible).
+	
+Latin -ct-
+**********
+- In SFoi the regular outcome is [it] and is transcribed as such (Ronjat 1932:§311)
+- The other main result is [ʧ].
+	- Boeci dreita, drez, dreça. <zc> is used in forfazc 
+
+Vowels:
+*******
+Seven-vowel system /i e ɛ a ɔ u y/ annotated in tonics only.
+
+	- <ei> from etymological [a] + pal. is transcribed [ɛi] as per the edition.
+	

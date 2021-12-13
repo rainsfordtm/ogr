@@ -1,0 +1,96 @@
+file,name,value
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,text,Alexis
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,lang,fro
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,lang_other,---
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,ms_cent,12
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,ms_origin,England
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,text_cent,11
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,text_origin,Normandy
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,title_en,Life of Saint Alexis
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,title_fr,Vie de saint Alexis
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,author,anonymous
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,form,verse
+paula/grid/Alexis/ogr.Alexis.anno_feat.xml,source,ms. image
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,text,Boeci
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang,pro
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang_other,---
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,ms_cent,11..12
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,ms_origin,Burgundy
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,text_cent,11
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,text_origin,Limousin
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,title_en,Boeci fragment
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,title_fr,Fragment d'une paraphrase de Boèce
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,author,anonymous
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,ms,"Orleans, Bibliothèque municipale, 444"
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,form,verse
+paula/grid/Boeci/ogr.Boeci.anno_feat.xml,source,ms. image
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,text,Eulalie
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,lang,fro
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,lang_other,---
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,ms_cent,9
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,ms_origin,Hainaut
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,text_cent,9
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,text_origin,Hainaut
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,title_en,Sequence of Saint Eulalia
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,title_fr,Séquence de sainte Eulalie
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,author,anonymous
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,ms,"Valenciennes, Bibliothèque municipale, 150"
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,form,verse
+paula/grid/Eulalie/ogr.Eulalie.anno_feat.xml,source,ms. image
+paula/grid/Passion/ogr.Passion.anno_feat.xml,text,Passion
+paula/grid/Passion/ogr.Passion.anno_feat.xml,lang,fro
+paula/grid/Passion/ogr.Passion.anno_feat.xml,lang_other,---
+paula/grid/Passion/ogr.Passion.anno_feat.xml,ms_cent,10..11
+paula/grid/Passion/ogr.Passion.anno_feat.xml,ms_origin,Limousin [?]
+paula/grid/Passion/ogr.Passion.anno_feat.xml,text_cent,10
+paula/grid/Passion/ogr.Passion.anno_feat.xml,text_origin,Poitou
+paula/grid/Passion/ogr.Passion.anno_feat.xml,title_en,Passion of Clermont
+paula/grid/Passion/ogr.Passion.anno_feat.xml,title_fr,Passion du Christ
+paula/grid/Passion/ogr.Passion.anno_feat.xml,author,anonymous
+paula/grid/Passion/ogr.Passion.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/grid/Passion/ogr.Passion.anno_feat.xml,form,verse
+paula/grid/Passion/ogr.Passion.anno_feat.xml,source,transcription
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,text,SFoi
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,lang,pro
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,lang_other,---
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,ms_cent,11..12
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,ms_origin,Burgundy
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,text_cent,11
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,text_origin,between Narbonne and the Pyrenees
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,title_en,Song of Saint Faith
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,title_fr,Chanson de sainte Foi
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,author,anonymous
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,ms,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,form,verse
+paula/grid/SFoi/ogr.SFoi.anno_feat.xml,source,ms. image
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,text,SLeger
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,lang,fro
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,lang_other,---
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,ms_cent,10..11
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,ms_origin,Limousin [?]
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,text_cent,10
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,text_origin,Picardy|Wallonia [?]
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,title_en,Life of Saint Leger
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,title_fr,Vie de saint Léger
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,author,anonymous
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,form,verse
+paula/grid/SLeger/ogr.SLeger.anno_feat.xml,source,transcription
+paula/grid/Serments/ogr.Serments.anno_feat.xml,text,Serments
+paula/grid/Serments/ogr.Serments.anno_feat.xml,lang,fro
+paula/grid/Serments/ogr.Serments.anno_feat.xml,lang_other,lat|goh
+paula/grid/Serments/ogr.Serments.anno_feat.xml,ms_cent,10..11
+paula/grid/Serments/ogr.Serments.anno_feat.xml,ms_origin,Île-de-France
+paula/grid/Serments/ogr.Serments.anno_feat.xml,text_cent,9
+paula/grid/Serments/ogr.Serments.anno_feat.xml,text_origin,Poitou [?]
+paula/grid/Serments/ogr.Serments.anno_feat.xml,title_en,Strasbourg Oaths
+paula/grid/Serments/ogr.Serments.anno_feat.xml,title_fr,Serments de Strasbourg
+paula/grid/Serments/ogr.Serments.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 9768"
+paula/grid/Serments/ogr.Serments.anno_feat.xml,form,prose
+paula/grid/Serments/ogr.Serments.anno_feat.xml,source,ms. image
+paula/grid/ogr.meta_multiFeat.xml,name,"Old Gallo-Romance (OGR) Corpus, ANNIS edition"
+paula/grid/ogr.meta_multiFeat.xml,creator,T. M. Rainsford
+paula/grid/ogr.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de
+paula/grid/ogr.meta_multiFeat.xml,website,http://www.ogr-corpus.org
+paula/grid/ogr.meta_multiFeat.xml,citation,"Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus: ANNIS edition, version 0.3. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>"
