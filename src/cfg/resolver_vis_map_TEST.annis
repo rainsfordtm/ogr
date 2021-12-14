@@ -1,0 +1,4 @@
+ogr-test	NULL	NULL	node	grid	ogr	visible	100	annos:line_ref,word,dipl,wd_div,pos_syn,morph,lemma,lemma_dmf,syll_lstress,onc,seg_phoneme,seg_matches
+ogr-test	NULL	NULL	node	grid	tei	hidden	101	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_p/,/tei::tei_l_n/,/tei::tei_s/,/tei::tei_s_xml_lang/,/tei::tei_q/,/ogr-test::word/
+ogr-test	NULL	NULL	node	html	text (norm)	hidden	102	config:ogr-norm-basic
+ogr-test	NULL	NULL	node	html	text (dipl)	hidden	103	config:ogr-dipl-basic
