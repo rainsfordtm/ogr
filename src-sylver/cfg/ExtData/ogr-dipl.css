@@ -1,0 +1,15 @@
+.htmlvis {
+font-family: Arial, sans-serif; counter-reset: line 0;
+}
+div.line:nth-of-type(5){text-indent:10px;}
+div.line:nth-of-type(5n):before{content:counter(line)" "}
+div.line{display: block; white-space:nowrap; counter-increment: line; height: 22px}
+div.line:not(:nth-of-type(5n)){text-indent:20px;}
+div.pb{border-style:solid; vertical-align: top; counter-reset: line 0}
+.cb{counter-reset: line 0}
+.wd_div[wd_div*="_"]::after{content: " "}
+.wd_div[wd_div*="."]::after{content: ". "}
+.wd_div[wd_div*=","]::after{content: ". "}
+.wd_div[wd_div*=";"]::after{content: "; "}
+.wd_div[wd_div*="!"]::after{content: "; "}
+.norm:hover{color: grey}
