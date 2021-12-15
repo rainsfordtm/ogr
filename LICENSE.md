@@ -12,9 +12,9 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 * You are free to share the files in this repository.
 
 * You must give credit to the author by citing the corpus in the following way:
-	Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus.
-	Stuttgart: Institut für Linguistik/Romanistik. 
-		<http://www.ogr-corpus.org>.
+
+> Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus.
+> Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>.
 		
 * You may not use this material for commercial purposes.
 
