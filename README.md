@@ -1,17 +1,17 @@
 Old Gallo-Romance Corpus (OGR) source repository
 ================================================
 © Thomas M. Rainsford, ILR, Universität Stuttgart, 7th December 2021
-http://www.ogr-corpus.org
 
+http://www.ogr-corpus.org
 
 BRIEF DESCRIPTION
 -----------------
 
 The main branch of this repository contains the source files for the 
 OGR Corpus:
-	csv/textcsv: source texts
-	cfg: files necessary for compiling and exporting the corpus
-	doc: metadata and documentation
+* `csv/textcsv`: source texts
+* `cfg`: files necessary for compiling and exporting the corpus
+* `doc`: metadata and documentation
 
 Before the corpus can be used, the source files must be processed and
 exported using the syllabic verse analysis tools available on Sourceforge:  
