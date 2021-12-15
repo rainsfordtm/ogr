@@ -12,6 +12,19 @@ paula/grid/Alexis/ogr.Alexis.anno_feat.xml,author,anonymous
 paula/grid/Alexis/ogr.Alexis.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
 paula/grid/Alexis/ogr.Alexis.anno_feat.xml,form,verse
 paula/grid/Alexis/ogr.Alexis.anno_feat.xml,source,ms. image
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,text,AlexisProl
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,lang,fro
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,lang_other,---
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,ms_cent,12
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,ms_origin,England
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,text_cent,12
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,text_origin,England
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,title_en,Prologue to the Life of Saint Alexis
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,title_fr,Prologue à la vie de saint Alexis
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,author,anonymous
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,form,prose
+paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,source,ms. image
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,text,Boeci
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang,pro
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang_other,---
