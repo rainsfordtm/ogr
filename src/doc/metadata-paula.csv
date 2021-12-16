@@ -77,6 +77,19 @@ paula/grid/SFoi/ogr.SFoi.anno_feat.xml,author,anonymous
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,ms,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,form,verse
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,source,ms. image
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,text,SGregPaint
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,lang,fro
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,lang_other,---
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,ms_cent,12
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,ms_origin,England
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,text_cent,12
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,text_origin,England
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,title_en,Extract from Saint Gregory's letter on religious images
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,title_fr,Extrait d'une lettre de saint Grégoire concernant les images en religion
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,author,anonymous
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,form,prose
+paula/grid/SGregPaint/ogr.SGregPaint.anno_feat.xml,source,ms. image
 paula/grid/SLeger/ogr.SLeger.anno_feat.xml,text,SLeger
 paula/grid/SLeger/ogr.SLeger.anno_feat.xml,lang,fro
 paula/grid/SLeger/ogr.SLeger.anno_feat.xml,lang_other,---

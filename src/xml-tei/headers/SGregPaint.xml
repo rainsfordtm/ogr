@@ -4,9 +4,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" xml:lang="en">Prologue to the Life of Saint Alexis</title> <!-- METADATA "title_en" -->
-            <title type="main" xml:lang="fr">Prologue à la vie de saint Alexis</title> <!-- METADATA "title_fr" -->
-            <title type="formal">AlexisProl</title>
+            <title type="main" xml:lang="en">Extract from Saint Gregory's letter on religious images</title> <!-- METADATA "title_en" -->
+            <title type="main" xml:lang="fr">Extrait d'une lettre de saint Grégoire concernant les images en religion</title> <!-- METADATA "title_fr" -->
+            <title type="formal">SGregPaint</title>
             <author>anonymous</author>
             <editor>Tom Rainsford</editor>
          </titleStmt>
@@ -35,7 +35,7 @@
             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
-                  <bibl>Prologue to the Life of Saint Alexis, transcribed and annotated by Tom Rainsford. In 
+                  <bibl>Extract from Saint Gregory's letter on religious images, transcribed and annotated by Tom Rainsford. In 
                      T. Rainsford (ed.) Old Gallo-Romance Corpus. Stuttgart, Institut für Linguistik/Romanistik, 2021.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
@@ -98,7 +98,7 @@
       <profileDesc>
          <creation>
             <name type="author">anonymous</name>
-            <date type="text" notBefore="1120" notAfter="1140">1120..1140<certainty locus="value" cert="low"/></date>
+            <date type="text" notBefore="1100" notAfter="1125">1st quarter of the 12th century</date>
             <date type="text" notBefore="1100" notAfter="1149">first half of the 12th century<precision precision="low"/><certainty locus="value" cert="high"/></date><!-- METADATA text_cent -->
             <region type="text">England</region> <!-- METADATA text_origin -->
             <date type="ms" notBefore="1120" notAfter="1140">1120..1140<certainty locus="value" cert="low"/></date>
@@ -112,9 +112,9 @@
          <textClass>
             <keywords scheme="http://authorities.bfm-corpus.org">
                <term type="domaine">religieux</term>
-               <term type="genre">hagiographie</term>
+               <term type="genre">lettre</term>
                <term type="forme">prose</term>
-               <term type="relation">original</term>
+               <term type="relation">traduction</term>
             </keywords>
             <keywords scheme="http://ogr-corpus.org">
                <term type="source">ms. image</term> <!-- METADATA source -->
@@ -124,7 +124,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-         <change when="2021-12-15" resp="#TMR">Text added to corpus</change>
+         <change when="2021-12-16" resp="#TMR">Text added to corpus</change>
       </revisionDesc>
    </teiHeader>
 
