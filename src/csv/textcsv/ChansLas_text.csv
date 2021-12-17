@@ -13,11 +13,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,pos,morph,lemma,lemma_src
 ,3,,la,la,+,DETdef,3sfr,le,DMF
 ,3,,sintil,sintil,_,ADJqua,3sfr,gentil,DMF
 ,3,,imbracher,imbracher,_,VERinf,,embrasser,DMF
-,4,,se,se,+,,,,
+,4,,se,se,+,,,je?,
 ,4,,buch,buch,_,,,,
 ,4,,schi,schi,_,,,,
-,4,,duls,duls,_,,,,
-,4,,baser,baser,_,,,,
+,4,,duls,duls,_,,,doux?,
+,4,,baser,baser,_,,,baiser?,
 ,5,,dussi|rie,dussirie,_,,,,
 ,5,,repasar,repasar,+,,,,
 ,5,,tu,tu,_,,,tout,DMF
