@@ -14,11 +14,16 @@ OGR Corpus:
 * `doc`: metadata and documentation
 
 Before the corpus can be used, the source files must be processed and
-exported using the syllabic verse analysis tools available on Sourceforge:  
+exported using the syllabic verse analysis (SylVA) tools available on Sourceforge:  
 https://sourceforge.net/projects/syllabic-verse-analysis/
 
-The latest version of the processed corpus is available to download
-at http://www.ogr-corpus.org/docs/download .
+**The main branch contains work in progress!** Some source texts are not finished
+and will cause errors if the scripts in SylVA are used on them.
+
+If you want to use the corpus, please download the latest release:
+* https://github.com/rainsfordtm/ogr/releases
+* http://www.ogr-corpus.org/docs/download
+
 
 COPYRIGHT AND ATTRIBUTION
 -------------------------
@@ -29,7 +34,7 @@ Attribution and copyright status of the material in this corpus:
 * The normalized transcriptions, part-of-speech annotation and lemmatization
 	(columns pos, lemma, lemma_dmf) in the following texts were adapted from
 	the BFM (2019): Serments, Eulalie, Alexis, Passion, SLéger.
-* The diplomatic transcriptions of Passion and SLéger are based on the
+* The diplomatic transcriptions of Passion, SLéger and Sponsus are based on the
 	transcription by Foerster/Koschwitz (1932), which is in the public domain
 	in the EU. All other diplomatic transcriptions are based on photographs
 	of the manuscript.
