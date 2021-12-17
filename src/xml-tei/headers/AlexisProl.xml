@@ -35,7 +35,7 @@
             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
-                  <bibl>Prologue to the Life of Saint Alexis, transcribed and annotated by Tom Rainsford. In 
+                  <bibl>Prologue to the Life of Saint Alexis (AlexisProl). In 
                      T. Rainsford (ed.) Old Gallo-Romance Corpus. Stuttgart, Institut für Linguistik/Romanistik, 2021.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
@@ -124,6 +124,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-15" resp="#TMR">Text added to corpus</change>
       </revisionDesc>
    </teiHeader>
