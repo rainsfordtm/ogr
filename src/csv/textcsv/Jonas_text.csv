@@ -16,6 +16,32 @@ wd_id,line_id,line_wd,dipl,word,wd_div,pos,pos_syn,morph,lemma,lemma_src,ref,tei
 ,,,e,e,_,CONcoo,,,et,DMF,"Jonas, recto, l. 2",,<s>
 ,,,[si],si,_,ADVgen,,,si4,DMF,"Jonas, recto, l. 2",,
 ,,,[uos],vos,|,PRCper,,5smi,vous,DMF,"Jonas, recto, l. 2",<gap/></s>,
+,,,eisi,eisi,_,ADVgen,,,ainsi,DMF,"Jonas, recto, l. 3",,<lb n=&quot;3&quot;/><s><gap/>
+,,,[dicit],dicit,_,ETR,,,---,---,"Jonas, recto, l. 3",,<gap/>
+,,,ore,ore,_,ADVgen,,,or2,DMF,"Jonas, recto, l. 3",,
+,,,[no],no…,_,---,,,---,---,"Jonas, recto, l. 3",,
+,,,aire,aire,_,---,,,---,---,"Jonas, recto, l. 3",,<gap/>
+,,,[meum],meum,_,ETR,,,---,---,"Jonas, recto, l. 3",,<gap/>
+,,,[et],et,|,ETR,,,---,---,"Jonas, recto, l. 3",<gap/></s>,
+,,,…end,…end,_,---,,,---,---,"Jonas, recto, l. 4",,<lb n=&quot;4&quot;/><s><gap/>
+,,,[me],me,_,ETR,,,---,---,"Jonas, recto, l. 4",,
+,,,[si],si,_,ETR,,,---,---,"Jonas, recto, l. 4",,
+,,,[ut],ut,_,ETR,,,---,---,"Jonas, recto, l. 4",,<gap/>
+,,,me[=mea],mea,_,ETR,,,---,---,"Jonas, recto, l. 4",,<supplied>morte</supplied>
+,,,[uiuatis],vivatis,.,ETR,,,---,---,"Jonas, recto, l. 4",</s>,
+,,,l[rent][=volrent],volrent,_,VERcjg,,indpsp6,vouloir,DMF,"Jonas, recto, l. 4",,<s><gap/>
+,,,[re]perier,reperier,_,VERinf,,,repérer,DMF,"Jonas, recto, l. 4",,
+,,,a,a,+,PRE,,,à,DMF,"Jonas, recto, l. 4",,
+,,,l,l,|,DETdef,,---,le,DMF,"Jonas, recto, l. 4",<gap/><supplied>mais</supplied><gap/></s>,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
