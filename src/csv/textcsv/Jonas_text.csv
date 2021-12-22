@@ -141,15 +141,27 @@ wd_id,line_id,line_wd,dipl,word,wd_div,pos,pos_syn,morph,lemma,lemma_src,ref,tei
 ,,,[ad],ad,_,ETR,,,---,---,"Jonas, recto, l. 23",,
 ,,,[minorem],minorem,_,ETR,,,---,---,"Jonas, recto, l. 23",,
 ,,,[postea],postea,|,ETR,,,---,---,"Jonas, recto, l. 23",<gap/></s>,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
+,,,[peccat],peccat,_,ETR,,,---,---,"Jonas, recto, l. 24",,<lb n=&quot;24&quot;/><s>
+,,,que,…que,_,---,,,---,---,"Jonas, recto, l. 24",,
+,,,cil,cil,_,---,,---,cil,DMF,"Jonas, recto, l. 24",,
+,,,tre,…tre,_,---,,,---,---,"Jonas, recto, l. 24",,<gap/>
+,,,[si],si,_,ETR,,,---,---,"Jonas, recto, l. 24",,<gap/>
+,,,erit,erit,_,ETR,,,---,---,"Jonas, recto, l. 24",,
+,,,no,no,_,---,,,---,---,"Jonas, recto, l. 24",,<gap/>
+,,,a,a,|,---,,,---,---,"Jonas, recto, l. 24",<gap/></s>,<gap/>
+,,,vesti[rent],vestirent,_,VERcjg,,indpsp6,vêtir,DMF,"Jonas, recto, l. 25",,<lb n=&quot;25&quot;/><s><gap/>
+,,,cie,cie…,_,---,,,---,---,"Jonas, recto, l. 25",,
+,,,haires,haires,_,NOMcom,,pfr,haire,DMF,"Jonas, recto, l. 25",,
+,,,a,a,_,PRE,,,à,DMF,"Jonas, recto, l. 25",,
+,,,[maiore],maiore,_,ETR,,,---,---,"Jonas, recto, l. 25",,
+,,,[usque],usque,|,ETR,,,---,---,"Jonas, recto, l. 25",<supplied>ad minorem</supplied><gap/></s>,
+,,,sacco,sacco,_,ETR,,,---,---,"Jonas, recto, l. 26",,<lb n=&quot;26&quot;/><gap/><s><supplied>et indutus est</supplied>
+,,,[et],et,_,ETR,,,---,---,"Jonas, recto, l. 26",,
+,,,[sedit],sedit,_,ETR,,,---,---,"Jonas, recto, l. 26",,
+,,,[in],in,_,ETR,,,---,---,"Jonas, recto, l. 26",,
+,,,[cinere],cinere,_,ETR,,,---,---,"Jonas, recto, l. 26",,
+,,,non,non,_,ETR,,,---,---,"Jonas, recto, l. 26",,<gap/>
+,,,[ent],…ent,|,---,,,---,---,"Jonas, recto, l. 26",<gap/></s>,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,[inde],inde,_,ETR,,,---,---,"Jonas, verso, l. 1",,<pb n=&quot;verso&quot;/><lb n=&quot;1&quot;/><s><gap/>
