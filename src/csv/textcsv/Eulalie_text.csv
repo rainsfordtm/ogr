@@ -156,7 +156,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 155,24,1,Uolt,volt,vɔLT,v.o.l.t,v/ɔ\LT,_,24,Vfin,Vfin,vouloir,DMF,vouloir,VERcjg,VERcjg,indpsp3,"Eulalie, l. 24",<l n=&quot;24&quot;>,
 156,24,2,lo,lo,Lo,l.o,L/o\,_,24,Det,Det,le,DMF,le,DETdef,DETdef,smr,"Eulalie, l. 24",,
 157,24,3,seule,seule,Seulə,s.e.u.l.e,'S/e\u.l/(ə)\,_,24,N,N,siècle,DMF,siècle,NOMcom,NOMcom,smr,"Eulalie, l. 24",,
-158,24,4,lazsier,lazsier,LAʦier,l.a.zs.i.e.r,L/A\.'ʦ/ie\r,_,24,Vinf,Vinf,laisser,DMF,laisser,VERinf,VERinf,,"Eulalie, l. 24",,
+158,24,4,lazsier,lazsier,LASʦier,l.a.z.s.i.e.r,L/A\S.'ʦ/ie\r,_,24,Vinf,Vinf,laisser,DMF,laisser,VERinf,VERinf,,"Eulalie, l. 24",,
 159,24,5,si,si,Si,s.i,S/i\,_,24,Adv,Adv,si4,DMF,si4,ADVgen,ADVgen,,"Eulalie, l. 24",,
 160,24,6,ruouet,ruovet,ruɔvəð,r.u.o.v.e.t,'r/uɔ\.v/ə\ð,.,24,Vfin,Vfin,rover,DMF,rover,VERcjg,VERcjg,indpst3,"Eulalie, l. 24",,
 161,24,7,Krist,krist,kriST,k.r.i.s.t,kr/i\ST,.|,24,N,N,Christ,DMF,Christ,NOMpro,NOMpro,smr,"Eulalie, l. 24",,</l></lg>
