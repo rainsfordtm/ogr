@@ -76,7 +76,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 75,10,1,{bat},…bat,|,,,,---,---,---,,---,---,"Jonas, recto, l. 10",,<gap reason=&quot;illegible&quot;/></s>,<lb n=&quot;10&quot;/><s><gap reason=&quot;illegible&quot;/>
 76,11,1,{et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, recto, l. 11",,,<lb n=&quot;11&quot;/><s><gap reason=&quot;illegible&quot;/>
 77,11,2,{postea},postea,_,,,,lat,ETR,ETR,,---,---,"Jonas, recto, l. 11",,,
-78,11,3,de,de,|,,,,---,---,---,,---,---,"Jonas, recto, l. 11",,<gap reason=&quot;illegible&quot;/></s><s><supplied reason=&quot;illegible&quot;>et erat ionas</supplied>,<gap reason=&quot;illegible&quot;/>
+78,11,3,de,de,|,,,,---,---,---,,---,---,"Jonas, recto, l. 11",,<gap reason=&quot;illegible&quot;/></s><s><supplied reason=&quot;illegible&quot;>et erat jonas</supplied>,<gap reason=&quot;illegible&quot;/>
 79,12,1,cel,cel,_,Çel,c.e.l,Ç/e\l,fro,DETdem,DETdem,smr,cil,DMF,"Jonas, recto, l. 12",,,<lb n=&quot;12&quot;/><supplied reason=&quot;illegible&quot;>ventre de</supplied>
 80,12,2,pescion,pescion,_,pESʦOn,p.e.s.ci.o.n,p/E\S.ʦ/O\n,fro,NOMcom,NOMcom,smr,poisson,DMF,"Jonas, recto, l. 12",*,</s>,
 81,12,3,eti,…eti…,_,,,,---,---,---,,---,---,"Jonas, recto, l. 12",,,<s><gap reason=&quot;illegible&quot;/>
@@ -470,7 +470,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 469,48,21,{dominus},dominus,|,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 12",,,
 470,49,1,{et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,<lb n=&quot;13&quot;/><supplied reason=&quot;illegible&quot;>vermi ut percuteret ederam</supplied>
 471,49,2,exaruit,exaruit,.,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,</s>,
-472,49,3,{et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,<s>
+472,49,3,{et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,<s xml:lang=&quot;lat&quot;>
 473,49,4,{parauit},paravit,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,
 474,49,5,{deus},deus,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,
 475,49,6,{uentum},ventum,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 13",,,
@@ -528,7 +528,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 527,51,21,{Et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 15",,,<p><s xml:lang=&quot;lat&quot;>
 528,51,22,{dixit},dixit,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 15",,,
 529,51,23,{dominus},dominus,|,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 15",,,
-530,52,1,rasceris[=irasceris],irasceris,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 16",,,<lb n=&quot;16&quot;/><supplied reason=&quot;illegible&quot;>ad ionam</supplied></s><s xml:lang=&quot;lat&quot;><q><supplied reason=&quot;illegible&quot;>putasne bene</supplied>
+530,52,1,rasceris[=irasceris],irasceris,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 16",,,<lb n=&quot;16&quot;/><supplied reason=&quot;illegible&quot;>ad jonam</supplied></s><s xml:lang=&quot;lat&quot;><q><supplied reason=&quot;illegible&quot;>putasne bene</supplied>
 531,52,2,{tu},tu,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 16",,,
 532,52,3,{super},super,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 16",,,
 533,52,4,edera,edera,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 16",,</q></s>,

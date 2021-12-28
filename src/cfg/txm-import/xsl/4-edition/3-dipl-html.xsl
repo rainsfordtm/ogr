@@ -189,9 +189,12 @@
         <xsl:element name="span">
             <xsl:attribute name="class">surplus</xsl:attribute>
             <xsl:attribute name="title">
-                <xsl:apply-templates select="@*" mode="title-string"/>
+                <xsl:text>surplus text excluded from corpus, reason: </xsl:text>
+                <xsl:value-of select="@reason"/>
             </xsl:attribute>
+            <xsl:text>(</xsl:text>
             <xsl:value-of select="."/>
+            <xsl:text>)</xsl:text>
         </xsl:element>
     </xsl:template>
     

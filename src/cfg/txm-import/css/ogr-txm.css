@@ -64,6 +64,14 @@
     background-color: LightGray;    
 }
 
+*:lang(fro) {
+    background-color: transparent
+}
+
+*:lang(pro) {
+    background-color: transparent
+}
+
 body {
     font-size: 100%;
 }

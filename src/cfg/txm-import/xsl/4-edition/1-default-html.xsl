@@ -143,7 +143,7 @@
             <xsl:attribute name="class">w</xsl:attribute>
             <!-- Place in italics any word whose lang tag does not correspond to the 
                 language of the closest ancestor node with a lang specification.-->
-            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()/@xml:lang[position()=1]">
+            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()[@xml:lang != ''][position()=1]/@xml:lang">
                 <xsl:attribute name="style">font-style: italic;</xsl:attribute>
             </xsl:if>
             <xsl:attribute name="title">
