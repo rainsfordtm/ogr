@@ -46,6 +46,10 @@
     color: Maroon;
 }
 
+.gap {
+    background-color: LightGray;
+}
+
 .w:hover {
     color: DarkGray;
     text-decoration: underline;

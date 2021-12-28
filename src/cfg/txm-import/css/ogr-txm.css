@@ -28,24 +28,23 @@
 	margin-right: 0.2em;
 }
 
+.secl {
+    border-top: solid;
+    border-bottom: solid;
+}
+
 .milestone {
     font-size: 12px;
     font-family: monospace;
     color: DarkGray;
 }
 
-.w[rend="itals"] {
-    font-style: italic;
-}
-
-
 .w:hover {
     color: DarkGray;
 }
 
 .supplied {
-    
-    color: DarkGray;
+    color: Maroon;
 }
 
 .supplied:hover {
@@ -57,20 +56,12 @@
     background-color: Azure;
 }
 
-.s::after {
-    content: "/ ";
-}
-
 *:lang(lat) {
     background-color: LightGray;
 }
 
 *:lang(goh) {
     background-color: LightGray;    
-}
-
-*[rend="underline"] {
-    text-decoration: underline;   
 }
 
 body {

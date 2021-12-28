@@ -127,6 +127,13 @@
             </td>
         </tr>
     </xsl:template>
+    
+    <xsl:template match="tei:secl">
+        <!-- Text which is out of place and ASSUMED not to be included in a table for verse -->
+        <div class="secl">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
 
     <!--Render TEI elements -->
 
@@ -137,7 +144,7 @@
             <!-- Place in italics any word whose lang tag does not correspond to the 
                 language of the closest ancestor node with a lang specification.-->
             <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()/@xml:lang[position()=1]">
-                <xsl:attribute name="rend">itals</xsl:attribute>
+                <xsl:attribute name="style">font-style: italic;</xsl:attribute>
             </xsl:if>
             <xsl:attribute name="title">
                 <xsl:apply-templates
@@ -180,13 +187,12 @@
     </xsl:template>
 
     <xsl:template match="tei:p">
-        <!-- Turn ps into an HTML p with a span attribute for other properties -->
+        <!-- Turn ps into an HTML p; add xml:lang if present -->
         <xsl:element name="p">
-            <xsl:element name="span">
-                <xsl:attribute name="class">p</xsl:attribute>
-                <xsl:apply-templates select="@*"/>
-                <xsl:apply-templates/>
-            </xsl:element>
+            <xsl:if test="@xml:lang">
+                <xsl:attribute name="lang" select="@xml:lang"/>
+            </xsl:if>
+            <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>
 
@@ -194,7 +200,7 @@
         <xsl:element name="span">
             <!-- Material marked as "supplied" -->
             <xsl:attribute name="class">supplied</xsl:attribute>
-            <xsl:attribute name="title">not in manuscript</xsl:attribute>
+            <xsl:attribute name="title">missing or reconstructed section of text not included in corpus tokens</xsl:attribute>
             <xsl:text>[</xsl:text>
             <xsl:choose>
                 <xsl:when test="local-name()='gap' and @unit = 'line'">
@@ -221,6 +227,9 @@
                 <!-- Only allow spans which don't contain abs or lgs because these are printed as tables -->
                 <xsl:element name="span">
                     <xsl:attribute name="class" select="local-name()"/>
+                    <xsl:if test="@xml:lang">
+                        <xsl:attribute name="lang" select="@xml:lang"/>
+                    </xsl:if>
                     <xsl:apply-templates/>
                 </xsl:element>
             </xsl:when>
@@ -236,11 +245,7 @@
 
     <!-- Copy everything templates (NOT for elements) -->
 
-    <xsl:template match="@xml:lang">
-        <!-- Convert xml:lang to lang attribute. Will not apply to words.-->
-        <xsl:attribute name="lang" select="."/>
-    </xsl:template>
-    
+   
     <xsl:template match="@*">
         <xsl:copy/>
     </xsl:template>

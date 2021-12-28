@@ -122,20 +122,21 @@
         </body>
     </xsl:template>
 
-    <!-- Add lb / cb / pb elements -->
+    <!-- Add lb / cb / pb and hi_rend elements -->
     <xsl:template match="*" mode="add-lb">
         <!-- Result of applying this template is a tree with "tei:lb/pb/cb" attribute on each and every element -->
         <xsl:copy>
             <xsl:attribute name="tei-lb" select="preceding::tei:lb[position() = 1]/@n"/>
             <xsl:attribute name="tei-pb" select="preceding::tei:pb[position() = 1]/@n"/>
             <xsl:attribute name="tei-cb" select="preceding::tei:cb[position() = 1]/@n"/>
+            <xsl:attribute name="rend" select="ancestor-or-self::tei:hi/@rend"/>
             <xsl:apply-templates select="@*" mode="copy"/>
             <xsl:apply-templates mode="add-lb"/>
         </xsl:copy>
     </xsl:template>
 
     <!-- Render test 1 -->
-    <xsl:template match="tei:w | tei:pc | tei:lb | tei:surplus" mode="render-test">
+    <xsl:template match="tei:w | tei:pc | tei:lb | tei:surplus | tei:gap | tei:supplied" mode="render-test">
         <!-- Evaluates whether the element should be rendered.-->
         <xsl:param name="this-page">false</xsl:param>
         <xsl:param name="this-col">false</xsl:param>
@@ -155,7 +156,7 @@
         </xsl:apply-templates>
     </xsl:template>
 
-    <!-- Render words, punctuation, lbs and surplus elements; ignore everything else. -->
+    <!-- Render words, punctuation, lbs, surplus and some kinds of gap; ignore everything else. -->
 
     <xsl:template match="tei:w">
         <xsl:element name="span">
@@ -166,6 +167,10 @@
                     select="txm:ana[@type = ('#dipl', '#pos_syn', '#morph', '#lemma', '#lemma_dmf')]"
                     mode="title-string"/>
             </xsl:attribute>
+            <xsl:if test="@rend='underline'">
+                <xsl:attribute name="style">text-decoration: underline;</xsl:attribute>
+            </xsl:if>
+            <xsl:attribute name="rend" select="@rend"/>
             <xsl:apply-templates select="txm:ana[@type = '#dipl']"/>
         </xsl:element>
         <xsl:apply-templates select="txm:ana[@type = '#wd_div']"/>
@@ -188,6 +193,16 @@
             </xsl:attribute>
             <xsl:value-of select="."/>
         </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="tei:gap|tei:supplied">
+        <!-- Mark gaps where text is illegible. -->
+        <xsl:if test="@reason='illegible'">
+            <xsl:element name="span">
+                <xsl:attribute name="class">gap</xsl:attribute>
+                <xsl:text>&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;</xsl:text>
+            </xsl:element>
+        </xsl:if>
     </xsl:template>
 
     <xsl:template match="txm:ana" mode="title-string">
