@@ -212,39 +212,40 @@
     <xsl:template match="txm:ana">
         <!-- Render of both dipl and wd_div. Will only mark first abbrv. -->
         <xsl:if test="@type = '#dipl'">
-            <!-- First pass: replace each open bracket with a code followed by a space and each closed bracket with a space,
-                so that, for example "p[ar]faire(t)" becomes "p ABBR ar faire DEL t " 
-                Square brackets -> ABBR
-                Parentheses -> SURPLUS 
-                Curly brackets -> TIRONIAN -->
-            <xsl:variable name="dipl-expanded" select="replace(replace(replace(replace(replace(replace(., '[', ' ABBR '),']', ' '), '(', ' SURPLUS '), ')', ' '), '{', 'TIRONIAN', ' '), '}', ' ')"/>
-            <xsl:for-each select="tokenize($dipl-expanded,' ')">
-                
-                
-            </xsl:for-each>
-                
-            <xsl:for-each select="tokenize(., '\]')">
+            <!-- First pass: replace (i) open brackets with spc + open bracket and (ii) closed brackets with space 
+            This will work fine; can't handle nested brackets though. -->
+            <xsl:variable name="dipl-expanded" 
+                select="replace(replace(replace(replace(replace(replace(replace(text(), '\[', '#['),'\]', '#'), '\(', '#('), '\)', '#'), '\{', '#{'), '\}', '#'), '_', '&#xa0;')"/>
+            <!-- Second pass: tokenize by blocks, then add spans and extra characters appropriate to the markup -->
+            <xsl:for-each select="tokenize($dipl-expanded,'#')">
                 <xsl:choose>
-                    <xsl:when test="contains(., '[')">
-                        <xsl:value-of select="replace(substring-before(., '['), '_', '&#xa0;')"/>
-                        <xsl:choose>
-                            <xsl:when test="contains(., '[=') or contains(.,'[+')">
-                            <!-- Corrections denoted by [= or [+ (an added token) -->
-                                <span class="corr">
-                                    <xsl:text>[</xsl:text>
-                                    <xsl:value-of select="substring-after(., '[')"/>
-                                    <xsl:text>]</xsl:text>
-                                </span>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <span class="abbr">
-                                    <xsl:value-of select="replace(substring-after(., '['), '_', '&#xa0;')"/>
-                                </span>
-                            </xsl:otherwise>
-                        </xsl:choose>
+                    <xsl:when test="substring(., 1,2) = '[=' or substring(., 1,2) = '[+'">
+                        <!-- Corrections denoted by [= or [+ (an added token) -->
+                        <span class="corr">
+                            <xsl:text>[</xsl:text>
+                            <xsl:value-of select="substring-after(., '[')"/>
+                            <xsl:text>]</xsl:text>
+                        </span>
+                    </xsl:when>
+                     <xsl:when test="substring(., 1, 1) = '['">
+                         <span class="abbr">
+                             <xsl:value-of select="substring-after(., '[')"/>
+                         </span>
+                    </xsl:when>
+                        <xsl:when test="substring(., 1, 1) = '('">
+                            <span class="surplus">
+                                <xsl:text>(</xsl:text>
+                                <xsl:value-of select="substring-after(., '(')"/>
+                                <xsl:text>)</xsl:text>
+                            </span>
+                        </xsl:when>
+                    <xsl:when test="substring(., 1, 1) = '{'">
+                        <span class="shorthand">
+                            <xsl:value-of select="substring-after(., '{')"/>
+                        </span>
                     </xsl:when>
                     <xsl:otherwise>
-                        <xsl:value-of select="replace(., '_', '&#xa0;')"/>
+                        <xsl:value-of select="."/>
                     </xsl:otherwise>
                 </xsl:choose>
             </xsl:for-each>

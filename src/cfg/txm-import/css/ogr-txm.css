@@ -57,15 +57,20 @@
     background-color: Azure;
 }
 
+.s::after {
+    content: "/ ";
+}
+
 *:lang(lat) {
-    
     background-color: LightGray;
 }
 
 *:lang(goh) {
+    background-color: LightGray;    
+}
 
-    background-color: LightGray;
-    
+*[rend="underline"] {
+    text-decoration: underline;   
 }
 
 body {

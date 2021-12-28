@@ -32,18 +32,18 @@
     font-style: italic;
 }
 
+.shorthand {
+    font-variant: small-caps;
+}
+
 .corr {
     color: Maroon;
     font-size: 12px;
     font-family: monospace;
 }
 
-.surplus::before {
-    content: "(";
-}
-
-.surplus::after {
-    content: ") ";
+.surplus {
+    color: Maroon;
 }
 
 .w:hover {
