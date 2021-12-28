@@ -212,6 +212,17 @@
     <xsl:template match="txm:ana">
         <!-- Render of both dipl and wd_div. Will only mark first abbrv. -->
         <xsl:if test="@type = '#dipl'">
+            <!-- First pass: replace each open bracket with a code followed by a space and each closed bracket with a space,
+                so that, for example "p[ar]faire(t)" becomes "p ABBR ar faire DEL t " 
+                Square brackets -> ABBR
+                Parentheses -> SURPLUS 
+                Curly brackets -> TIRONIAN -->
+            <xsl:variable name="dipl-expanded" select="replace(replace(replace(replace(replace(replace(., '[', ' ABBR '),']', ' '), '(', ' SURPLUS '), ')', ' '), '{', 'TIRONIAN', ' '), '}', ' ')"/>
+            <xsl:for-each select="tokenize($dipl-expanded,' ')">
+                
+                
+            </xsl:for-each>
+                
             <xsl:for-each select="tokenize(., '\]')">
                 <xsl:choose>
                     <xsl:when test="contains(., '[')">

@@ -134,7 +134,9 @@
         <xsl:element name="span">
             <xsl:attribute name="id" select="@id"/>
             <xsl:attribute name="class">w</xsl:attribute>
-            <xsl:if test="txm:ana[@type = '#pos']/text() = 'ETR'">
+            <!-- Place in italics any word whose lang tag does not correspond to the 
+                language of the closest ancestor node with a lang specification.-->
+            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()/@xml:lang[position()=1]">
                 <xsl:attribute name="rend">itals</xsl:attribute>
             </xsl:if>
             <xsl:attribute name="title">
@@ -178,31 +180,41 @@
     </xsl:template>
 
     <xsl:template match="tei:p">
-        <p>
-            <xsl:apply-templates/>
-        </p>
-    </xsl:template>
-
-    <xsl:template match="tei:gap">
-        <xsl:element name="span">
-            <!-- Treat like a word for the CSS templates -->
-            <xsl:attribute name="class">gap</xsl:attribute>
-            <xsl:attribute name="title">
-                <xsl:apply-templates select="@*" mode="title-string"/>
-            </xsl:attribute>
-            <xsl:if test="@unit = 'line' and @rend = 'points'">
-                <xsl:text>............................</xsl:text>
-            </xsl:if>
-            <xsl:if test="@unit = 'word' and @rend = 'points'">
-                <xsl:text>...</xsl:text>
-            </xsl:if>
+        <!-- Turn ps into an HTML p with a span attribute for other properties -->
+        <xsl:element name="p">
+            <xsl:element name="span">
+                <xsl:attribute name="class">p</xsl:attribute>
+                <xsl:apply-templates select="@*"/>
+                <xsl:apply-templates/>
+            </xsl:element>
         </xsl:element>
     </xsl:template>
-    
+
+    <xsl:template match="tei:gap|tei:supplied">
+        <xsl:element name="span">
+            <!-- Material marked as "supplied" -->
+            <xsl:attribute name="class">supplied</xsl:attribute>
+            <xsl:attribute name="title">not in manuscript</xsl:attribute>
+            <xsl:text>[</xsl:text>
+            <xsl:choose>
+                <xsl:when test="local-name()='gap' and @unit = 'line'">
+                    <xsl:text>............................</xsl:text>
+                </xsl:when>
+                <xsl:when test="local-name()='gap'">
+                    <xsl:text>...</xsl:text>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates/>
+                </xsl:otherwise>
+            </xsl:choose>
+            <xsl:text>]</xsl:text>
+        </xsl:element>
+    </xsl:template>
+
     <xsl:template match="tei:surplus">
         <!-- Don't print -->
     </xsl:template>
-
+    
     <xsl:template match="tei:*">
         <xsl:choose>
             <xsl:when test="not(descendant::tei:lg or descendant::tei:ab)">
@@ -224,6 +236,11 @@
 
     <!-- Copy everything templates (NOT for elements) -->
 
+    <xsl:template match="@xml:lang">
+        <!-- Convert xml:lang to lang attribute. Will not apply to words.-->
+        <xsl:attribute name="lang" select="."/>
+    </xsl:template>
+    
     <xsl:template match="@*">
         <xsl:copy/>
     </xsl:template>

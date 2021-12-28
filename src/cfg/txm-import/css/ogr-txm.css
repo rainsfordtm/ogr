@@ -43,12 +43,29 @@
     color: DarkGray;
 }
 
-.gap:hover {
+.supplied {
+    
     color: DarkGray;
+}
+
+.supplied:hover {
+    
+    color: LightGray;
 }
 
 .q {
     background-color: Azure;
+}
+
+*:lang(lat) {
+    
+    background-color: LightGray;
+}
+
+*:lang(goh) {
+
+    background-color: LightGray;
+    
 }
 
 body {
