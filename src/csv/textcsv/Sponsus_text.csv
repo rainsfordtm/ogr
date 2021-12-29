@@ -75,7 +75,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 74,13,4,que,que,kE,qu.e,k/E\,+,pro,11,PRNrel,PRNrel,snr,que,DOM,que,"Sponsus, l. 11",,,
 75,13,5,uos,vos,voS,v.o.s,v/o\S,–,pro,11,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 11",,,
 76,13,6,dirum,dirum,dirOm,d.i.r.u.m,d/i\.'r/O\m,–,pro,11,VERcjg,VERcjg,indfut4,dire,DOM,dire,"Sponsus, l. 11",,</l>,
-77,14,1,aisex,aisex,EisEZ,a.i.s.e.x,/A\i.'s/ɛ\Z,–,pro,12,VERcjg,VERcjg,imp---5,aisar,DOM,aiser,"Sponsus, l. 12",,,<l n=&quot;12&quot;>
+77,14,1,aisex,aisex,AisEZ,a.i.s.e.x,/A\i.'s/ɛ\Z,–,pro,12,VERcjg,VERcjg,imp---5,aisar,DOM,aiser,"Sponsus, l. 12",,,<l n=&quot;12&quot;>
 78,14,2,presen,presen,prEzEn,p.r.e.s.e.n,pr/E\.'z/E\n,–,pro,12,ADJqua,ADVgen,,prezén,DOM,présent,"Sponsus, l. 12",,,
 79,14,3,que,que,kE,qu.e,k/E\,+,pro,12,CONsub,CONsub,,que2,DOM,que,"Sponsus, l. 12",,,
 80,14,4,uos,vos,voS,v.o.s,v/o\S,–,pro,12,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 12",,,

@@ -17,14 +17,14 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 16,1,16,s,s,S,s,/\S,|,DETdef,DETdef,pfr,le,DMF,le,"SGregPaint, 34v, l. 20bis",,
 17,1,17,paintures,paintures,pÆiNtyrəS,p.a.i.n.t.u.r.e.s,p/Æ\iN.'t/y\.r/ə\S,.|,NOMcom,NOMcom,pfr,peinture,DMF,peinture,"SGregPaint, 34v, l. 21bis",</s></p></head>,
 18,2,1,Altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/ə\,_,ADJind,ADJind,sfn,autre,DMF,autre,"SGregPaint, 34v, l. 20",,<lb n=&quot;20&quot;/><p><s>
-19,2,2,ćóse,cose,kɔzə,c.o.s.e,'k/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 20",,
+19,2,2,ćóse,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 20",,
 20,2,3,est,est,EST,e.s.t,/E\ST,_,VERcjg,VERcjg,indpst3,être,DMF,être,"SGregPaint, 34v, l. 20",,
 21,2,4,aúrier,aurier,Aurær,a.u.r.ie.r,/A\./u\.'r/æ\r,_,VERinf,VERinf,,aorer,DMF,aorer,"SGregPaint, 34v, l. 20",,
 22,2,5,la,la,La,l.a,L/a\,+,DETdef,DETdef,sfr,le,DMF,le,"SGregPaint, 34v, l. 20",,
 23,2,6,painture,painture,pÆiNtyrə,p.a.i.n.t.u.r.e,p/Æ\iN.'t/y\.r/ə\,|,NOMcom,NOMcom,sfr,peinture,DMF,peinture,"SGregPaint, 34v, l. 20",,
 24,2,7,e,e,e,e,/e\,+,CONcoo,CONcoo,,et,DMF,et,"SGregPaint, 34v, l. 21",,<lb n=&quot;21&quot;/>
 25,2,8,altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/ə\,_,ADJind,ADJind,sfn,autre,DMF,autre,"SGregPaint, 34v, l. 21",,
-26,2,9,cose,cose,kɔzə,c.o.s.e,'k/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 21",,
+26,2,9,cose,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 21",,
 27,2,10,est,est,EST,e.s.t,/E\ST,_,VERcjg,VERcjg,,être,DMF,être,"SGregPaint, 34v, l. 21",,
 28,2,11,par,par,par,p.a.r,p/a\r,_,PRE,PRE,,par,DMF,par,"SGregPaint, 34v, l. 21",,
 29,2,12,le,le,LE,l.e,L/E\,_,DETdef,DETdef,sfr,le,DMF,le,"SGregPaint, 34v, l. 21",,
@@ -35,7 +35,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 34,2,17,ap[re]ndre,aprendre,AprENdrə,a.p.r.e.n.d.r.e,/A\.'pr/E\N.dr/ə\,|,VERinf,VERinf,,apprendre,DMF,apprendre,"SGregPaint, 34v, l. 21",,
 35,2,18,que,que,kE,qu.e,k/E\,+,CONsub,CONsub,,que,DMF,que,"SGregPaint, 34v, l. 22",,<lb n=&quot;22&quot;/>
 36,2,19,la,la,La,l.a,L/a\,_,DETdef,DETdef,sfn,le,DMF,le,"SGregPaint, 34v, l. 22",,
-37,2,20,ćóse,cose,kɔzə,c.o.s.e,'k/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 22",,
+37,2,20,ćóse,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,NOMcom,NOMcom,sfn,chose,DMF,chose,"SGregPaint, 34v, l. 22",,
 38,2,21,seit,seit,SEiT,s.e.i.t,S/E\iT,_,VERcjg,VERcjg,subpst3,être,DMF,être,"SGregPaint, 34v, l. 22",,
 39,2,22,ad,ad,að,a.d,/a\ð,_,PRE,PRE,,à,DMF,à,"SGregPaint, 34v, l. 22",,
 40,2,23,aúrier,aurier,Aurær,a.u.r.ie.r,/A\./u\.'r/æ\r,.,VERinf,VERinf,,aorer,DMF,aorer,"SGregPaint, 34v, l. 22",</s>,
@@ -76,7 +76,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 75,5,9,ampur,ampur,ÆNpur,a.m.p.u.r,/Æ\N.'p/u\r,_,PRE,PRE,,empour,DMF,empour,"SGregPaint, 34v, l. 25",,<lb n=&quot;25&quot;/>
 76,5,10,la,la,La,l.a,L/a\,+,DETdef,DETdef,sfr,le,DMF,le,"SGregPaint, 34v, l. 25",,
 77,5,11,quele,quele,kæLə,qu.e.l.e,'k/æ\.L/ə\,_,DETrel,DETrel,sfr,quel,DMF,quel,"SGregPaint, 34v, l. 25",,
-78,5,12,ćóse,cose,kɔzə,c.o.s.e,'k/ɔ\.z/ə\,_,NOMcom,NOMcom,sfr,chose,DMF,chose,"SGregPaint, 34v, l. 25",,
+78,5,12,ćóse,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,NOMcom,NOMcom,sfr,chose,DMF,chose,"SGregPaint, 34v, l. 25",,
 79,5,13,maismement,maismement,mEiSmEmENT,m.a.i.s.m.e.m.e.n.t,m/E\./i\.Sm/E\.'m/E\NT,_,ADVgen,ADVgen,,mêmement,DMF,mêmement,"SGregPaint, 34v, l. 25",</s>,
 80,6,1,la,la,La,l.a,L/a\,+,DETdef,DETdef,sfn,le,DMF,le,"SGregPaint, 34v, l. 25",,<s>
 81,6,2,peinture,peinture,pÆiNtyrə,p.e.i.n.t.u.r.e,p/Æ\iN.'t/y\.r/ə\,_,NOMcom,NOMcom,sfn,peinture,DMF,peinture,"SGregPaint, 34v, l. 25",,
@@ -88,7 +88,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 87,6,8,genz,genz,ʤENTS,g.e.n.z.,ʤ/E\NTS,.|,NOMcom,NOMcom,pfr,gent,DMF,gent,"SGregPaint, 34v, l. 25",</s>,
 88,7,1,La,la,La,l.a,L/a\,+,DETdef,DETdet,sfr,le,DMF,le,"SGregPaint, 34v, l. 26",,<lb n=&quot;26&quot;/><s>
 89,7,2,quele,quele,kæLə,qu.e.l.e,'k/æ\.L/ə\,_,DETrel,DETrel,sfr,quel,DMF,quel,"SGregPaint, 34v, l. 26",,
-90,7,3,ćóse,cose,kɔzə,c.o.s.e,'k/ɔ\.z/ə\,_,NOMcom,NOMcom,sfr,chose,DMF,chose,"SGregPaint, 34v, l. 26",,
+90,7,3,ćóse,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,NOMcom,NOMcom,sfr,chose,DMF,chose,"SGregPaint, 34v, l. 26",,
 91,7,4,tu,tu,ty,t.u,t/y\,_,PRNper,PRNper,2smn,tu,DMF,tu,"SGregPaint, 34v, l. 26",,
 92,7,5,q[u]i,qui,ki,qu.i,k/i\,_,PRNrel,PRNrel,smn,qui,DMF,qui,"SGregPaint, 34v, l. 26",,
 93,7,6,habites,habites,AbitəS,ha.b.i.t.e.s,/A\.'b/i\.t/ə\S,_,VERcjg,VERcjg,indpst2,habiter,DMF,habiter,"SGregPaint, 34v, l. 26",,
@@ -105,7 +105,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 104,7,17,de,de,dE,d.e,d/E\,_,PRE,PRE,,de,DMF,de,"SGregPaint, 34v, l. 27",,
 105,7,18,crueles,crueles,kryɛLəS,c.r.u.e.l.e.s,kr/y\.'/ɛ\.L/ə\S,_,ADJqua,ADJqua,pmr,cruel,DMF,cruel,"SGregPaint, 34v, l. 27",,
 106,7,19,curages,curages,kuraʤəS,c.u.r.a.g.e.s,k/u\.'r/a\.ʤ/ə\S,_,NOMcom,NOMcom,pmr,courage,DMF,courage,"SGregPaint, 34v, l. 27",,
-107,7,20,dementiers,dementiers,DEmÆNtiErS,d.e.m.e.n.t.i.e.r.s,D/E\.m/Æ\N.'t/iE\rS,_,ADVgen,ADVgen,,dementiers,DMF,dementiers,"SGregPaint, 34v, l. 27",,
+107,7,20,dementiers,dementiers,dEmÆNtiErS,d.e.m.e.n.t.i.e.r.s,d/E\.m/Æ\N.'t/iE\rS,_,ADVgen,ADVgen,,dementiers,DMF,dementiers,"SGregPaint, 34v, l. 27",,
 108,7,21,que,que,kE,qu.e,k/E\,_,CONsub,CONsub,,que,DMF,que,"SGregPaint, 34v, l. 27",,
 109,7,22,tu,tu,ty,t.u,t/y\,+,PRNper,PRNper,2smn,tu,DMF,tu,"SGregPaint, 34v, l. 27",,
 110,7,23,esbraseras,esbraseras,ESbrAzEraS,e.s.b.r.a.s.e.r.a.s,/E\S.br/A\.z/E\.'r/a\S,_,VERcjg,VERcjg,indfut2,esbraser,DMF,esbraser,"SGregPaint, 34v, l. 27",,
@@ -172,7 +172,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 171,9,31,saluablem[en]t,salvablement,SALvabLEmENT,s.a.l.v.a.b.l.e.m.e.n.t,S/A\L.v/a\.bL/E\.'m/E\NT,+,ADVgen,ADVgen,,salvablement,---,,"SGregPaint, 34v, l. 32",,
 172,9,32,purtenir,purtenir,purtEnir,p.u.r.t.e.n.i.r,p/u\r.t/E\.'n/i\r,_,VERinf,VERinf,,portenir,TL,,"SGregPaint, 34v, l. 32",,
 173,9,33,les,les,LES,l.e.s,L/E\S,+,DETdef,DETdef,pfr,le,DMF,le,"SGregPaint, 34v, l. 32",,
-174,9,34,ćóses,coses,kɔzəS,c.o.s.e.s,'k/ɔ\.z/ə\S,|,NOMcom,NOMcom,pfr,chose,DMF,chose,"SGregPaint, 34v, l. 32",,
+174,9,34,ćóses,coses,ċɔzəS,c.o.s.e.s,'ċ/ɔ\.z/ə\S,|,NOMcom,NOMcom,pfr,chose,DMF,chose,"SGregPaint, 34v, l. 32",,
 175,9,35,que,que,kE,qu.e,k/E\,_,PRNrel,PRNrel,pfr,que,DMF,que,"SGregPaint, 34v, l. 33",,<lb n=&quot;33&quot;/>
 176,9,36,tu,tu,ty,t.u,t/y\,_,PRNper,PRNper,2smn,tu,DMF,tu,"SGregPaint, 34v, l. 33",,
 177,9,37,attendeies,attendeies,AtÆNdEiəS,a.tt.e.n.d.e.i.e.s,/A\.t/Æ\N.'d/E\i./ə\S,_,VERcjg,VERcjg,indipf2,attendre,DMF,attendre,"SGregPaint, 34v, l. 33",,

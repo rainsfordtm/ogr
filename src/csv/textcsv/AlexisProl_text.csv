@@ -2,7 +2,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 1,1,1,Ici,ici,iʦi,i.c.i,/i\.'ʦ/i\,_,ADVgen,ADVgen,,ici,DMF,ici,"AlexisProl, f. 29r, l. 1",,<text><body><pb n=&quot;29r&quot;/><lb n=&quot;1&quot;/><p><s>
 2,1,2,cumencet,cumencet,kOmENÇəð,c.u.m.e.n.c.e.t,k/O\.'m/E\N.Ç/ə\ð,_,VERcjg,VERcjg,indpst3,commencer,DMF,commencer,"AlexisProl, f. 29r, l. 1",,
 3,1,3,amiable,amiable,AmiabLə,a.m.i.a.b.l.e,/A\.m/i\.'/a\.bL/ə\,_,ADJqua,ADJqua,sfn,amiable,DMF,amiable,"AlexisProl, f. 29r, l. 1",,
-4,1,4,cancun,cancun,kÆNÇOn,c.a.n.c.u.n,k/Æ\N.'Ç/O\n,_,NOMcom,NOMcom,sfn,chanson,DMF,chanson,"AlexisProl, f. 29r, l. 1",,
+4,1,4,cancun,cancun,ċÆNÇOn,c.a.n.c.u.n,ċ/Æ\N.'Ç/O\n,_,NOMcom,NOMcom,sfn,chanson,DMF,chanson,"AlexisProl, f. 29r, l. 1",,
 5,1,5,e,e,e,e,/e\,+,CONcoo,CONcoo,,et,DMF,et,"AlexisProl, f. 29r, l. 1",,
 6,1,6,spiritel,spiritel,SpiritæL,s.p.i.r.i.t.e.l,Sp/i\.r/i\.'t/æ\L,_,ADJqua,ADJqua,sfn,spirituel,DMF,spirituel,"AlexisProl, f. 29r, l. 1",,
 7,1,7,raisun,raisun,rAizOn,r.a.i.s.u.n,r/A\i.'z/O\n,_,NOMcom,NOMcom,sfn,raison,DMF,raison,"AlexisProl, f. 29r, l. 1",,
@@ -11,7 +11,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 10,1,10,no|ble,noble,nɔbLə,n.o.b.l.e,'n/ɔ\.bL/ə\,_,ADJqua,ADJqua,smr,noble,DMF,noble,"AlexisProl, f. 29r, l. 1",,
 11,1,11,barun,barun,bArOn,b.a.r.u.n,b/A\.'r/O\n,_,NOMcom,NOMcom,smr,baron,DMF,baron,"AlexisProl, f. 29r, l. 2",,<lb n=&quot;2&quot;/>
 12,1,12,eufemien,eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,NOMpro,NOMpro,smr,Eufemien,---,,"AlexisProl, f. 29r, l. 2",,
-13,1,13,par,par,pAr,p.a.r,p/A\r,_,PRE,PRE,,par,DMF,par,"AlexisProl, f. 29r, l. 2",,
+13,1,13,par,par,par,p.a.r,p/a\r,_,PRE,PRE,,par,DMF,par,"AlexisProl, f. 29r, l. 2",,
 14,1,14,num,num,nOm,n.u.m,n/O\m,.,NOMcom,NOMcom,smr,nom,DMF,nom,"AlexisProl, f. 29r, l. 2",,
 15,1,15,e,e,e,e,/e\,_,CONcoo,CONcoo,,et,DMF,et,"AlexisProl, f. 29r, l. 2",,
 16,1,16,de,de,dE,d.e,d/E\,_,PRE,PRE,,de,DMF,de,"AlexisProl, f. 29r, l. 2",,
@@ -29,8 +29,8 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 28,1,28,oit,oit,Oið,o.i.t,/O\.'/i\ð,_,VERppe,VERppe,smr,ouïr,DMF,ouïr,"AlexisProl, f. 29r, l. 3",,
 29,1,29,lire,lire,Lirə,l.i.r.e,'L/i\.r/ə\,_,VERinf,VERinf,,lire,DMF,lire,"AlexisProl, f. 29r, l. 3",,
 30,1,30,e,e,e,e,/e\,+,CONcoo,CONcoo,,et,DMF,et,"AlexisProl, f. 29r, l. 3",,
-31,1,31,canter,canter,kÆNtær,c.a.n.t.e.r,k/Æ\N.'t/æ\r,.,VERinf,VERinf,,chanter,DMF,chanter,"AlexisProl, f. 29r, l. 3",</s>,
-32,2,1,par,par,pAr,p.a.r,p/A\r,_,PRE,PRE,,par,DMF,par,"AlexisProl, f. 29r, l. 3",,<s>
+31,1,31,canter,canter,ċÆNtær,c.a.n.t.e.r,ċ/Æ\N.'t/æ\r,.,VERinf,VERinf,,chanter,DMF,chanter,"AlexisProl, f. 29r, l. 3",</s>,
+32,2,1,par,par,par,p.a.r,p/a\r,_,PRE,PRE,,par,DMF,par,"AlexisProl, f. 29r, l. 3",,<s>
 33,2,2,le,le,LE,l.e,L/E\,_,DETdef,DETdef,sfr,le,DMF,le,"AlexisProl, f. 29r, l. 3",,
 34,2,3,diuine,divine,divinə,d.i.v.i.n.e,d/i\.'v/i\.n/ə\,|,ADJqua,ADJqua,sfr,divine,DMF,divine,"AlexisProl, f. 29r, l. 3",,
 35,2,4,uolentet,volentet,vOLÆNtæð,v.o.l.e.n.t.e.t,v/O\.L/Æ\N.'t/æ\ð,.,NOMcom,NOMcom,sfr,volenté,DMF,volenté,"AlexisProl, f. 29r, l. 4",,<lb n=&quot;4&quot;/>
@@ -103,7 +103,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 102,6,7,suuerain,suverain,suvErAin,s.u.v.e.r.a.i.n,s/u\.v/E\.'r/A\in,|,ADJqua,ADJqua,sfn,souverain,DMF,souverain,"AlexisProl, f. 29r, l. 9",,
 103,6,8,consulaciun,consulaciun,kONSuLAʦiOn,c.o.n.s.u.l.a.c.i.u.n,k/O\N.S/u\.L/A\.ʦ/i\.'/O\n,_,NOMcom,NOMcom,sfn,consolation,DMF,consolation,"AlexisProl, f. 29r, l. 10",,<lb n=&quot;10&quot;/>
 104,6,9,a,a,a,a,/a\,+,PRE,PRE,,à,DMF,à,"AlexisProl, f. 29r, l. 10",,
-105,6,10,cascun,cascun,kASkyn,c.a.s.c.u.n,k/A\S.'k/y\n,_,DETind,DETind,sfr,chacun,DMF,chacun,"AlexisProl, f. 29r, l. 10",,
+105,6,10,cascun,cascun,ċASkyn,c.a.s.c.u.n,ċ/A\S.'k/y\n,_,DETind,DETind,sfr,chacun,DMF,chacun,"AlexisProl, f. 29r, l. 10",,
 106,6,11,memorie,memorie,mEmɔriə,m.e.m.o.r.i.e,m/E\.'m/ɔ\.ri/ə\,_,NOMcom,NOMcom,sfr,mémoire,DMF,mémoire,"AlexisProl, f. 29r, l. 10",,
 107,6,12,spiritel,spiritel,SpiritæL,s.p.i.r.i.t.e.l,Sp/i\.r/i\.'t/æ\L,.,ADJqua,ADJqua,sfr,spirituel,DMF,spirituel,"AlexisProl, f. 29r, l. 10",,
 108,6,13,les,les,LES,l.e.s,L/E\S,_,DETdef,DETdef,pmr,le,DMF,le,"AlexisProl, f. 29r, l. 10",,
@@ -111,14 +111,14 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,pos,pos_syn,mor
 110,6,15,uiuent,vivent,vivəNT,v.i.v.e.n.t,'v/i\.v/ə\NT,|,VERcjg,VERcjg,indpst6,vivre,DMF,vivre,"AlexisProl, f. 29r, l. 10",,
 111,6,16,purement,purement,pyrəmENT,p.u.r.e.m.e.n.t,p/y\.r/E\.'m/E\NT,_,ADVgen,ADVgen,,purement,DMF,purement,"AlexisProl, f. 29r, l. 11",,<lb n=&quot;11&quot;/>
 112,6,17,sulunc,sulunc,SuLONK,s.u.l.u.n.c,S/u\.'L/O\NK,_,PRE,PRE,,selon,DMF,selon,"AlexisProl, f. 29r, l. 11",,
-113,6,18,castethet,castethet,kAStEðæð,c.a.s.t.e.th.e.t,k/A\S.t/E\.'ð/æ\ð,.,NOMcom,NOMcom,sfr,chasté,DMF,chasté,"AlexisProl, f. 29r, l. 11",,
+113,6,18,castethet,castethet,ċAStEðæð,c.a.s.t.e.th.e.t,ċ/A\S.t/E\.'ð/æ\ð,.,NOMcom,NOMcom,sfr,chasté,DMF,chasté,"AlexisProl, f. 29r, l. 11",,
 114,6,19,e,e,e,e,/e\,_,CONcoo,CONcoo,,et,DMF,et,"AlexisProl, f. 29r, l. 11",,
 115,6,20,dignement,dignement,diɲəmENT,d.i.gn.e.m.e.n.t,d/i\.ɲ/E\.'m/E\NT,_,ADVgen,ADVgen,,dignement,DMF,dignement,"AlexisProl, f. 29r, l. 11",,
 116,6,21,sei,sei,SEi,s.e.i,S/E\i,_,PRCper,PRCper,6pfr,soi,DMF,soi,"AlexisProl, f. 29r, l. 11",,
 117,6,22,delitent,delitent,dELitəNT,d.e.l.i.t.e.n.t,d/E\.'L/i\.t/ə\NT,|,VERcjg,VERcjg,indpst6,déliter,DMF,déliter,"AlexisProl, f. 29r, l. 11",,
 118,6,23,e,e,E,e,/E\,+,PRE,PRE,,en,DMF,en,"AlexisProl, f. 29r, l. 12",,<lb n=&quot;12&quot;/>
 119,6,24,s,s,S,s,/\S,+,DETdef,DETdef,pfr,le,DMF,le,"AlexisProl, f. 29r, l. 12",,
-120,6,25,goies,goies,gɔiəS,g.o.i.e.s,'g/ɔ\i./ə\S,_,NOMcom,NOMcom,pfr,joie,DMF,joie,"AlexisProl, f. 29r, l. 12",,
+120,6,25,goies,goies,ġɔiəS,g.o.i.e.s,'ġ/ɔ\i./ə\S,_,NOMcom,NOMcom,pfr,joie,DMF,joie,"AlexisProl, f. 29r, l. 12",,
 121,6,26,de,de,dE,d.e,d/E\,+,PRE,PRE,,de,DMF,de,"AlexisProl, f. 29r, l. 12",,
 122,6,27,l,l,L,l,/\S,_,DETdef,DETdef,smr,le,DMF,le,"AlexisProl, f. 29r, l. 12",,
 123,6,28,ciel,ciel,ÇiEL,c.i.e.l,Ç/iE\L,_,NOMcom,NOMcom,smr,ciel,DMF,ciel,"AlexisProl, f. 29r, l. 12",,

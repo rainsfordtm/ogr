@@ -169,7 +169,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 168,27,5,a,a…,_,,,,---,---,---,,---,---,"Jonas, recto, l. 27",,,
 169,27,6,ts,…ts,_,,,,---,---,---,,---,---,"Jonas, recto, l. 27",,,<gap reason=&quot;illegible&quot;/>
 170,27,7,perils,perils,|,pEriLS,p.e.r.i.l.s,p/E\.r/i\LS,fro,NOMcom,NOMcom,---,péril,DMF,"Jonas, recto, l. 27",,<gap reason=&quot;illegible&quot;/>,
-171,28,1,ere[=chaiere],chaiere,_,kAiErə,ch.a.i.e.r.e,k/A\./iE\.r/ə\,fro,NOMcom,NOMcom,sfr,chaire,DMF,"Jonas, recto, l. 28",,,<lb n=&quot;28&quot;/>
+171,28,1,ere[=chaiere],chaiere,_,ċAiErə,ch.a.i.e.r.e,ċ/A\./iE\.r/ə\,fro,NOMcom,NOMcom,sfr,chaire,DMF,"Jonas, recto, l. 28",,,<lb n=&quot;28&quot;/>
 172,28,2,reieil,reieil,.,rEiEl,r.e.i.ei.l,r/E\./iE\l,fro,ADJqua,ADJqua,sfr,royal,DMF,"Jonas, recto, l. 28",,</s>,
 173,28,3,e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,"Jonas, recto, l. 28",,,<s>
 174,28,4,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, recto, l. 28",,,
@@ -284,7 +284,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 283,39,14,{ionas},jonas,_,,,,lat,NOMpro,NOMpro,smn,Jonas,wikipedia.fr,"Jonas, verso, l. 3",,,
 284,39,15,{propheta},propheta,_,,,,lat,NOMcom,NOMcom,smn,prophète,DMF,"Jonas, verso, l. 3",,,
 285,39,16,mult,mult,_,moLT,m.u.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,"Jonas, verso, l. 3",,,
-286,39,17,correcious,correcious,_,korrEÇouS,c.o.r.r.e.ci.o.u.s,k/o\r.r/E\.Ç/o\uS,fro,ADJqua,ADJqua,smn,courrouceux,DMF,"Jonas, verso, l. 3",,,
+286,39,17,correcious,correcious,_,korrEʦouS,c.o.r.r.e.ci.o.u.s,k/o\r.r/E\.ʦ/o\uS,fro,ADJqua,ADJqua,smn,courrouceux,DMF,"Jonas, verso, l. 3",,,
 287,39,18,e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 3",,,
 288,39,19,mult,mult,_,moLT,m.u.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,"Jonas, verso, l. 3",,,
 289,39,20,iretst,iretst,.|,iræTS,i.r.e.t.st,/i\.r/æ\TS,fro,ADJqua,ADJqua,smn,iré,DMF,"Jonas, verso, l. 3",,,
@@ -423,7 +423,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 422,46,14,e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 10",,,<s>
 423,46,15,{faciebat},faciebat,_,,,,lat,VERcjg,VERcjg,indipf0,faire,DMF,"Jonas, verso, l. 10",,,
 424,46,16,grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,ADJqua,smr,grand,DMF,"Jonas, verso, l. 10",,,
-425,46,17,iholt,jholt,.,ʧɔLT,jh.o.l.t,ʧ/ɔ\LT,fro,NOMcom,NOMcom,smr,chaud,DMF,"Jonas, verso, l. 10",,</s>,
+425,46,17,iholt,jholt,.,ċɔLT,jh.o.l.t,ċ/ɔ\LT,fro,NOMcom,NOMcom,smr,chaud,DMF,"Jonas, verso, l. 10",,</s>,
 426,46,18,{et},et,_,eð,e.t,/e\ð,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 10",,,<s>
 427,46,19,eret,eret,_,ɛrəð,e.r.e.t,/ɛ\.r/ə\ð,fro,VERcjg,VERcjg,indipf3,être,DMF,"Jonas, verso, l. 10",,,
 428,46,20,mult,mult,_,moLT,m.u.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,"Jonas, verso, l. 10",,,
@@ -432,7 +432,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 431,47,2,edre,edre,_,ɛðrə,e.d.r.e,/ɛ\.ðr/ə\,fro,NOMcom,NOMcom,sfr,lierre,DMF,"Jonas, verso, l. 11",,,
 432,47,3,sore,sore,_,Sorə,s.o.r.e,S/o\.r/ə\,fro,PRE,PRE,,sur,DMF,"Jonas, verso, l. 11",,,
 433,47,4,sen,sen,+,SEN,s.e.n,S/E\N,fro,DETpos,DETpos,3smr,son4,DMF,"Jonas, verso, l. 11",,,
-434,47,5,cheue,cheve,_,kævə,ch.e.v.e,k/æ\.v/ə\,fro,NOMcom,NOMcom,smr,chef,DMF,"Jonas, verso, l. 11",,,
+434,47,5,cheue,cheve,_,ċævə,ch.e.v.e,ċ/æ\.v/ə\,fro,NOMcom,NOMcom,smr,chef,DMF,"Jonas, verso, l. 11",,,
 435,47,6,q[ue]t,quet,_,kEð,qu.e.t,k/E\ð,fro,CONsub,CONsub,,que,DMF,"Jonas, verso, l. 11",,,
 436,47,7,umbre,umbre,_,ONbrə,u.m.b.r.e,/O\N.br/ə\,fro,NOMcom,NOMcom,,ombre,DMF,"Jonas, verso, l. 11",,,
 437,47,8,li,li,_,Li,l.i,L/i\,fro,PRCper,PRCper,3smi,le,DMF,"Jonas, verso, l. 11",,,
@@ -460,7 +460,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 459,48,11,{donat},donat,_,dOnað,d.o.n.a.t,d/O\.n/a\ð,fro,VERcjg,VERcjg,indpsp3,donner,DMF,"Jonas, verso, l. 12",,,
 460,48,12,a,a,_,a,a,/a\,fro,PRE,PRE,,à,DMF,"Jonas, verso, l. 12",,,
 461,48,13,sun,sun,_,SON,s.u.n,S/O\N,fro,DETpos,DETpos,3smr,son4,DMF,"Jonas, verso, l. 12",,,
-462,48,14,soueu,souev,.,SouæF,s.o.u.e.v,S/o\./uæ\F,fro,NOMcom,NOMcom,smr,souef,DMF,"Jonas, verso, l. 12",,,
+462,48,14,soueu,souev,.,SouæF,s.o.u.e.v,S/o\.u/æ\F,fro,NOMcom,NOMcom,smr,souef,DMF,"Jonas, verso, l. 12",,,
 463,48,15,{et},et,_,eð,e.t,/e\ð,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 12",,,
 464,48,16,a,a,_,a,a,/a\,fro,PRE,PRE,,à,DMF,"Jonas, verso, l. 12",,,
 465,48,17,sun,sun,_,SON,s.u.n,S/O\N,fro,DETpos,DETpos,3smr,son4,DMF,"Jonas, verso, l. 12",,,
@@ -508,11 +508,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 507,51,1,cilge,cilge,_,ÇiLʤə,c.i.l.g.e,Ç/i\L.ʤ/ə\,fro,DETdem,DETdem,sfn,cil,DMF,"Jonas, verso, l. 15",,,<lb n=&quot;15&quot;/><gap reason=&quot;illegible&quot;/>
 508,51,2,edre,edre,_,ɛðrə,e.d.r.e,/ɛ\.ðr/ə\,fro,NOMcom,NOMcom,sfn,lierre,DMF,"Jonas, verso, l. 15",,,
 509,51,3,fu,fu,_,fy,f.u,f/y\,fro,VERcjg,VERcjg,indpsp3,être,DMF,"Jonas, verso, l. 15",,,
-510,51,4,seche,seche,_,Sekə,s.e.ch.e,S/e\.k/ə\,fro,ADJqua,ADJqua,sfn,sec,DMF,"Jonas, verso, l. 15",,</s>,
+510,51,4,seche,seche,_,Seċə,s.e.ch.e,S/e\.ċ/ə\,fro,ADJqua,ADJqua,sfn,sec,DMF,"Jonas, verso, l. 15",,</s>,
 511,51,5,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 15",,,<s>
 512,51,6,uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,"Jonas, verso, l. 15",,,
 513,51,7,grances{mes},grancesmes,_,grANʦeSməS,g.r.a.n.c.e.s.m.e.s,gr/A\N.ʦ/e\.Sm/ə\S,fro,ADJqua,ADJqua,smn,grandisme,TL,"Jonas, verso, l. 15",,,
-514,51,8,iholt,jholt,_,ʧɔLT,jh.o.l.t,ʧ/ɔ\LT,fro,NOMcom,NOMcom,smn,chaud,DMF,"Jonas, verso, l. 15",,,
+514,51,8,iholt,jholt,_,ċɔLT,jh.o.l.t,ċ/ɔ\LT,fro,NOMcom,NOMcom,smn,chaud,DMF,"Jonas, verso, l. 15",,,
 515,51,9,la,la,_,La,l.a,L/a\,fro,ADVgen,ADVgen,,là,DMF,"Jonas, verso, l. 15",,,
 516,51,10,{super},super,_,,,,lat,PRE,PRE,,sur,DMF,"Jonas, verso, l. 15",,,
 517,51,11,{caput},caput,_,,,,lat,NOMcom,NOMcom,smr,chef,DMF,"Jonas, verso, l. 15",,,
@@ -695,14 +695,14 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 694,59,18,p[er],per,_,,,,lat,PRE,PRE,,par,DMF,"Jonas, verso, l. 23",,,
 695,59,19,cel,cel,_,Çel,c.e.l,Ç/e\l,fro,DETdem,DETdem,smr,cil,DMF,"Jonas, verso, l. 23",,,
 696,59,20,{triduanum},triduanum,|,,,,lat,NOMcom,NOMcom,smr,triduanus,wiktionary,"Jonas, verso, l. 23",,,
-697,60,1,on[=contrition],contrition,_,kONtriÇiOn,c.o.n.t.r.i.t.i.o.n,k/O\N.tr/i\.Ç/i\./O\n,fro,NOMcom,NOMcom,sfr,contrition,DMF,"Jonas, verso, l. 24",,,<lb n=&quot;24&quot;/><supplied reason=&quot;illegible&quot;>jejunium si</supplied>
+697,60,1,on[=contrition],contrition,_,kONtriʦiOn,c.o.n.t.r.i.t.i.o.n,k/O\N.tr/i\.ʦ/i\./O\n,fro,NOMcom,NOMcom,sfr,contrition,DMF,"Jonas, verso, l. 24",,,<lb n=&quot;24&quot;/><supplied reason=&quot;illegible&quot;>jejunium si</supplied>
 698,60,2,fi{sient},fisient,.,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",,,
 699,60,3,e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 24",,,
 700,60,4,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 24",,,
 701,60,5,{corrovement},corrovement,_,korrovEmENT,c.o.r.r.o.v.e.m.e.n.t,k/o\r.r/o\.v/E\.m/E\NT,fro,NOMcom,NOMcom,smr,corrovement,JonasP,"Jonas, verso, l. 24",,,
 702,60,6,fi{sient},fisient,.,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",,</s>,
 703,60,7,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 24",,,<s>
-704,60,8,ache{derent},achederent,_,AkEdærəNT,a.ch.e.d.e.r.e.n.t,/A\.k/E\.d/æ\.r/ə\NT,fro,VERcjg,VERcjg,indpsp6,acheter,DMF,"Jonas, verso, l. 24",,,
+704,60,8,ache{derent},achederent,_,AċEdærəNT,a.ch.e.d.e.r.e.n.t,/A\.ċ/E\.d/æ\.r/ə\NT,fro,VERcjg,VERcjg,indpsp6,acheter,DMF,"Jonas, verso, l. 24",,,
 705,60,9,{ueniam},veniam,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 24",,,
 706,60,10,{et},et,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 24",,,
 707,60,11,{remissionem},remissionem,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 24",,,
@@ -804,7 +804,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 803,64,17,{ne},ne,_,nE,n.e,n/E\,fro,CONcoo,CONcoo,,ni,DMF,"Jonas, verso, l. 28",,,
 804,64,18,{habeat},habeat,|,,,,lat,VERcjg,VERcjg,subpst3,avoir,DMF,"Jonas, verso, l. 28",,,
 805,65,1,aiest,aiest,_,AiəST,a.i.e.s.t,/A\i./ə\ST,fro,VERcjg,VERcjg,imp---5,avoir,DMF,"Jonas, verso, l. 29",,,<lb n=&quot;29&quot;/><supplied reason=&quot;illegible&quot;>inimicitiam</supplied></s><s><supplied reason=&quot;illegible&quot;>mais</supplied>
-806,65,2,cherte,cherte,_,kÆrtæ,ch.e.r.t.e,k/Æ\r.t/æ\,fro,NOMcom,NOMcom,sfr,cherté,DMF,"Jonas, verso, l. 29",,,
+806,65,2,cherte,cherte,_,ċÆrtæ,ch.e.r.t.e,ċ/Æ\r.t/æ\,fro,NOMcom,NOMcom,sfr,cherté,DMF,"Jonas, verso, l. 29",,,
 807,65,3,{inter},inter,_,,,,lat,PRE,PRE,,entre,DMF,"Jonas, verso, l. 29",,,
 808,65,4,{uos},vos,.,,,,lat,PRNper,PRNper,5pmr,vous,DMF,"Jonas, verso, l. 29",,,
 809,65,5,{quia},quia,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 29",,,
@@ -836,7 +836,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 835,66,14,cert,cert,_,ÇɛrT,c.e.r.t,Ç/ɛ\rT,fro,ADJqua,ADVgen,,cert,DMF,"Jonas, verso, l. 30",,,<s>
 836,66,15,{co},co,_,Çɔ,c.o,Ç/ɔ\,fro,PRNdem,PRNdem,snr,ce,DMF,"Jonas, verso, l. 30",,,
 837,66,16,{sapietis},sapietis,|,,,,lat,VERcjg,VERcjg,indfut5,savoir,DMF,"Jonas, verso, l. 30",,,
-838,67,1,acheder,acheder,_,AkEdær,a.ch.e.d.e.r,/A\.k/E\.d/æ\r,fro,VERinf,VERinf,,acheter,DMF,"Jonas, verso, l. 31",,,<lb n=&quot;31&quot;/><gap reason=&quot;illegible&quot;/>
+838,67,1,acheder,acheder,_,AċEdær,a.ch.e.d.e.r,/A\.ċ/E\.d/æ\r,fro,VERinf,VERinf,,acheter,DMF,"Jonas, verso, l. 31",,,<lb n=&quot;31&quot;/><gap reason=&quot;illegible&quot;/>
 839,67,2,{co},co,_,Çɔ,c.o,Ç/ɔ\,fro,PRNdem,PRNdem,,ce,DMF,"Jonas, verso, l. 31",,,
 840,67,3,q[ue],que,_,kE,qu.e,k/E\,fro,PRNrel,PRNrel,snr,que,DMF,"Jonas, verso, l. 31",,,
 841,67,4,li,li,_,Li,l.i,L/i\,fro,PRCper,PRCper,3smi,le,DMF,"Jonas, verso, l. 31",,,
