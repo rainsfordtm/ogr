@@ -89,10 +89,31 @@
 
         </body>
     </xsl:template>
+    
+    <xsl:template match="tei:docTitle">
+        <!-- Used in Sponsus, use <h1> -->
+        <h1>
+            <xsl:apply-templates/>
+        </h1>
+    </xsl:template>
 
+    <!-- Theatre texts -->
+    
+    <xsl:template match="tei:speaker">
+        <!-- Encode speaker as h3. Will always be within <sp>, outside <lg> (TEI guidelines). -->
+        <h3>
+            <xsl:apply-templates/>
+        </h3>
+    </xsl:template>
+    
     <xsl:template match="tei:ab | tei:lg">
         <xsl:variable name="this-ab" select="."/>
-        <table>
+        <!-- Add language attribute and class from parent element to table -->
+        <xsl:element name="table">
+            <xsl:if test="@xml:lang">
+                <xsl:attribute name="lang" select="@xml:lang"/>
+            </xsl:if>
+            <xsl:attribute name="class" select="./parent::node()/local-name()"/>
             <tr>
                 <th/>
                 <th>
@@ -106,13 +127,13 @@
                 </th>
             </tr>
             <xsl:apply-templates/>
-        </table>
+        </xsl:element>
     </xsl:template>
 
     <xsl:template match="tei:l">
         <xsl:variable name="lineno" select="@n"/>
         <tr>
-            <td rend="lineno">
+            <td class="lineno">
                 <xsl:choose>
                     <xsl:when test="ends-with(@n, '0') or ends-with(@n, '5')">
                         <xsl:value-of select="@n"/>
@@ -122,9 +143,13 @@
                     </xsl:otherwise>
                 </xsl:choose>
             </td>
-            <td>
+            <xsl:element name="td">
+                <xsl:attribute name="class">l</xsl:attribute>
+                <xsl:if test="@xml:lang">
+                    <xsl:attribute name="lang" select="@xml:lang"/>
+                </xsl:if>
                 <xsl:apply-templates/>
-            </td>
+            </xsl:element>
         </tr>
     </xsl:template>
     
@@ -187,11 +212,12 @@
     </xsl:template>
 
     <xsl:template match="tei:p">
-        <!-- Turn ps into an HTML p; add xml:lang if present -->
+        <!-- Turn ps into an HTML p; add xml:lang if present; class inherited from parent element -->
         <xsl:element name="p">
             <xsl:if test="@xml:lang">
                 <xsl:attribute name="lang" select="@xml:lang"/>
             </xsl:if>
+            <xsl:attribute name="class" select="./parent::node()/local-name()"/>
             <xsl:apply-templates/>
         </xsl:element>
     </xsl:template>

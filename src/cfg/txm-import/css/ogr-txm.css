@@ -56,6 +56,11 @@
     background-color: Azure;
 }
 
+p.stage {
+	text-align: right;
+	text-justify: inter-word;
+}
+
 *:lang(lat) {
     background-color: LightGray;
 }
@@ -116,7 +121,7 @@ td {
     font-size: 16px;
 }
 
-td[rend="lineno"] {
+td.lineno {
     font-size: 12px;
     font-family: monospace;
     text-align: right;
