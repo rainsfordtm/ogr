@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,tei_right,tei_left
-1,1,1,B_ons,bons,bONS,b.o.n.s,b/O\NS,_,fro,1,ADJqua,ADJqua,smn,bon,DMF,bon,"Alexis, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;27v&quot;/><lb/><lg n=&quot;1&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;1&quot;>
+1,1,1,B_ons,bons,bONS,b.o.n.s,b/O\NS,_,fro,1,ADJqua,ADJqua,smn,bon,DMF,bon,"Alexis, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;27v&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;1&quot;>
 2,1,2,fut,fut,fyð,f.u.t,f/y\ð,_,fro,1,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 1",,
 3,1,3,li,li,Li,l.i,L/i\,+,fro,1,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 1",,
 4,1,4,secles,secles,SekLəS,s.e.c.l.e.s,'S/e\.kL/ə\S,_,fro,1,NOMcom,NOMcom,smn,siècle,DMF,siècle,"Alexis, l. 1",,
@@ -42,7 +42,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 41,5,8,a,a,a,a,/a\,+,fro,5,PRE,PRE,,à,DMF,à,"Alexis, l. 5",,
 42,5,9,s,s,S,s,/\S,_,fro,5,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 5",,
 43,5,10,anceisurs,anceisurs,ÆNÇEizurS,a.n.c.e.i.s.u.r.s,/Æ\N.Ç/E\i.'z/u\rS,.,fro,5,NOMcom,NOMcom,pmr,ancêtre,DMF,ancêtre,"Alexis, l. 5",</l></lg>,
-44,6,1,A,a,a,a,/a\,+,fro,6,PRE,PRE,,à,DMF,à,"Alexis, l. 6",,<lg n=&quot;2&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;6&quot;>
+44,6,1,A,a,a,a,/a\,+,fro,6,PRE,PRE,,à,DMF,à,"Alexis, l. 6",,<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;6&quot;>
 45,6,2,l,l,L,l,/\L,+,fro,6,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 6",,
 46,6,3,tens,tens,tENS,t.e.n.s,t/E\NS,_,fro,6,NOMcom,NOMcom,smr,temps,DMF,temps,"Alexis, l. 6",,
 47,6,4,Noe,noe,nOÆ,n.o.e,n/O\.'/Æ\,_,fro,6,NOMpro,NOMpro,smr,Noé,---,,"Alexis, l. 6",,
@@ -85,7 +85,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 84,10,5,bien,bien,biEn,b.i.e.n,b/iE\n,_,fro,10,NOMcom,NOMcom,smr,bien,DMF,bien,"Alexis, l. 10",,
 85,10,6,uait,vait,vAiT,v.a.i.t,v/A\iT,_,fro,10,VERcjg,VERcjg,indpst3,aller,DMF,aller,"Alexis, l. 10",,
 86,10,7,remanant,remanant,rEmEnANT,r.e.m.a.n.a.n.t,r/E\.m/E\.'n/A\NT,.|,fro,10,VERppa,VERppa,,remanoir,DMF,remanoir,"Alexis, l. 10",</l></lg>,
-87,11,1,P_uis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,11,PRE,PRE,,puis,DMF,puis,"Alexis, l. 11",,<lb/><lg n=&quot;3&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;11&quot;>
+87,11,1,P_uis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,11,PRE,PRE,,puis,DMF,puis,"Alexis, l. 11",,<lb/><lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;11&quot;>
 88,11,2,icel,icel,iʦeL,i.c.e.l,/i\.'ʦ/e\L,_,fro,11,DETdem,DETdem,smr,cil,DMF,cil,"Alexis, l. 11",,
 89,11,3,tens,tens,tENS,t.e.n.s,t/E\NS,_,fro,11,NOMcom,NOMcom,smr,temps,DMF,temps,"Alexis, l. 11",,
 90,11,4,q[ue],que,kE,qu.e,k/(E)\,_,fro,11,PRNrel,PRNrel,smr,que,DMF,que,"Alexis, l. 11",,
@@ -121,7 +121,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 120,15,8,filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,15,NOMcom,NOMcom,smr,fils,DMF,fils,"Alexis, l. 15",,
 121,15,9,uoil,voil,voiL,v.o.i.l,v/o\iL,_,fro,15,VERcjg,VERcjg,indpst1,vouloir,DMF,vouloir,"Alexis, l. 15",,
 122,15,10,parler,parler,pArLær,p.a.r.l.e.r,p/A\r.'L/æ\r,.|,fro,15,VERinf,VERinf,,parler,DMF,parler,"Alexis, l. 15",</l></lg>,
-123,16,1,ufemien[=Eufemien],eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,16,NOMpro,NOMpro,smx,Eufemien,---,,"Alexis, l. 16",,<lb/><lg n=&quot;4&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;16&quot;>
+123,16,1,ufemien[=Eufemien],eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,16,NOMpro,NOMpro,smx,Eufemien,---,,"Alexis, l. 16",,<lb/><lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;16&quot;>
 124,16,2,si,si,Si,s.i,S/i\,_,fro,16,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 16",,
 125,16,3,out,out,ɔuT,o.u.t,/ɔ\uT,_,fro,16,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,"Alexis, l. 16",,
 126,16,4,a,a,a,a,/a\,+,fro,16,PRE,PRE,,à,DMF,à,"Alexis, l. 16",,
@@ -161,7 +161,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 160,20,6,tuta,tuta,tutə,t.u.t.a,'t/u\.t/(ə)\,_,fro,20,DETind,DETind,sfr,tout,DMF,tout,"Alexis, l. 20",,
 161,20,7,la,la,La,l.a,L/(a)\,|,fro,20,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 20",,
 162,20,8,cuntretha,cuntretha,kONtræðə,c.u.n.t.r.e.th.a,k/O\N.'tr/æ\.ð/(ə)\,.,fro,20,NOMcom,NOMcom,sfr,contrée,DMF,contrée,"Alexis, l. 20",</l></lg>,<lb/>
-163,21,1,P_uis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,21,ADVgen,ADVgen,,puis,DMF,puis,"Alexis, l. 21",,<lg n=&quot;5&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;21&quot;>
+163,21,1,P_uis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,21,ADVgen,ADVgen,,puis,DMF,puis,"Alexis, l. 21",,<lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;21&quot;>
 164,21,2,conuerserent,converserent,kONvErSærəNT,c.o.n.v.e.r.s.e.r.e.n.t,k/O\N.v/E\r.'S/æ\.r/ə\NT,_,fro,21,VERcjg,VERcjg,indpsp6,converser,DMF,converser,"Alexis, l. 21",,
 165,21,3,ansemble,ansemble,ÆNSENbLə,a.n.s.e.m.b.l.e,/Æ\N.'S/E\N.bL/(ə)\,_,fro,21,ADVgen,ADVgen,,ensemble,DMF,ensemble,"Alexis, l. 21",,
 166,21,4,longament,longament,LONġEmENT,l.o.n.g.a.m.e.n.t,L/O\N.ġ/E\.'m/E\NT,_,fro,21,ADVgen,ADVgen,,longuement2,DMF,longuement2,"Alexis, l. 21",</l>,
@@ -191,7 +191,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 190,25,6,a,a,a,a,/a\,_,fro,25,PRE,PRE,,à,DMF,à,"Alexis, l. 25",,<lb/>
 191,25,7,tun,tun,tON,t.u.n,t/O\N,_,fro,25,DETpos,DETpos,2smr,ton2,DMF,ton2,"Alexis, l. 25",,
 192,25,8,talent,talent,tALENT,t.a.l.e.n.t,t/A\.'L/E\NT,.,fro,25,NOMcom,NOMcom,smr,talent,DMF,talent,"Alexis, l. 25",</q></l></lg>,
-193,26,1,T_ant,tant,tANT,t.a.n.t,t/A\NT,_,fro,26,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 26",,<lg n=&quot;6&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;26&quot;>
+193,26,1,T_ant,tant,tANT,t.a.n.t,t/A\NT,_,fro,26,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 26",,<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;26&quot;>
 194,26,2,li,li,Li,l.i,L/i\,_,fro,26,PRCper,PRCper,3smi,li,DMF,li,"Alexis, l. 26",,
 195,26,3,prierent,prierent,priErəNT,p.r.i.e.r.e.n.t,pr/i\.'/e\.r/ə\NT,_,fro,26,VERcjg,VERcjg,indpsp6,prier,DMF,prier,"Alexis, l. 26",,
 196,26,4,par,par,par,p.a.r,p/a\r,_,fro,26,PRE,PRE,,par,DMF,par,"Alexis, l. 26",,
@@ -226,7 +226,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 225,30,5,sur,sur,Sur,s.u.r,S/u\r,_,fro,30,PRE,PRE,,sur,DMF,sur,"Alexis, l. 30",,
 226,30,6,la,la,La,l.a,L/(a)\,_,fro,30,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 30",,
 227,30,7,cristientet,cristientet,kriStiENtæð,c.r.i.s.t.i.e.n.t.e.t,kr/i\S.t/i\./E\N.'t/æ\ð,_,fro,30,NOMcom,NOMcom,sfr,chrétienté,DMF,chrétienté,"Alexis, l. 30",</l></lg>,
-228,31,1,F_ud,fud,fyð,f.u.d,f/y\ð,_,fro,31,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 31",,<lg n=&quot;7&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;31&quot;>
+228,31,1,F_ud,fud,fyð,f.u.d,f/y\ð,_,fro,31,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 31",,<lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;31&quot;>
 229,31,2,baptizet,baptizet,bAPtiʣeð,b.a.p.t.i.z.e.t,b/A\P.t/i\.'ʣ/e\ð,_,fro,31,VERppe,VERppe,smr,baptiser,DMF,baptiser,"Alexis, l. 31",,
 230,31,3,si,si,Si,s.i,S/i\,_,fro,31,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 31",,
 231,31,4,out,out,ɔuT,o.u.t,/ɔ\uT,_,fro,31,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,"Alexis, l. 31",,
@@ -262,7 +262,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 261,35,5,l,l,L,l,L/\,_,fro,35,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 35",,
 262,35,6,emperethur,emperethur,ÆNpErEður,e.m.p.e.r.e.th.u.r,/Æ\N.p/E\.r/E\.'ð/u\r,_,fro,35,NOMcom,NOMcom,smr,empereur,DMF,empereur,"Alexis, l. 35",,
 263,35,7,seruir,servir,SErvir,s.e.r.v.i.r,S/E\r.'v/i\r,.,fro,35,VERinf,VERinf,,servir,DMF,servir,"Alexis, l. 35",</l></lg>,
-264,36,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,36,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 36",,<lg n=&quot;8&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;36&quot;>
+264,36,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,36,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 36",,<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;36&quot;>
 265,36,2,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,36,VERcjg,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 36",,
 266,36,3,li,li,Li,l.i,L/i\,+,fro,36,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 36",,
 267,36,4,pedre,pedre,pæðrə,p.e.d.r.e,'p/æ\.ðr/(ə)\,|,fro,36,NOMcom,NOMcom,smn,père,DMF,père,"Alexis, l. 36",,
@@ -304,7 +304,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 303,40,6,un,un,yn,u.n,/y\n,_,fro,40,DETndf,DETndf,smr,un,DMF,un,"Alexis, l. 40",,
 304,40,7,noble,noble,nɔbLə,n.o.b.l.e,'n/ɔ\.bL/(ə)\,_,fro,40,ADJqua,ADJqua,smr,noble,DMF,noble,"Alexis, l. 40",,
 305,40,8,franc,franc,frANK,f.r.a.n.c,fr/A\NK,.|,fro,40,NOMcom,NOMcom,smr,franc2,DMF,franc2,"Alexis, l. 40",</l></lg>,
-306,41,1,F_ud,fud,fyð,f.u.d,f/y\ð,_,fro,41,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 41",,<lb/><lg n=&quot;9&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;41&quot;>
+306,41,1,F_ud,fud,fyð,f.u.d,f/y\ð,_,fro,41,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 41",,<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;41&quot;>
 307,41,2,la,la,La,l.a,L/(a)\,_,fro,41,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 41",,
 308,41,3,pulcela,pulcela,pyLÇɛLə,p.u.l.c.e.l.a,p/y\L.'Ç/ɛ\.L/(ə)\,_,fro,41,NOMcom,NOMcom,sfn,pucelle,DMF,pucelle,"Alexis, l. 41",,
 309,41,4,nethe,nethe,næðə,n.e.th.e,'n/æ\.ð/(ə)\,_,fro,41,VERppe,VERppe,sfn,naître,DMF,naître,"Alexis, l. 41",,
@@ -340,7 +340,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 339,45,4,uolent,volent,voLəNT,v.o.l.e.n.t,'v/o\.L/ə\NT,_,fro,45,VERcjg,VERcjg,indpst6,vouloir,DMF,vouloir,"Alexis, l. 45",,<lb/>
 340,45,5,faire,faire,fAirə,f.a.i.r.e,'f/A\i.r/(ə)\,_,fro,45,VERinf,VERinf,,faire,DMF,faire,"Alexis, l. 45",,
 341,45,6,asembler,asembler,AsÆNbLær,a.s.e.m.b.l.e.r,/A\.s/Æ\N.'bL/æ\r,.,fro,45,VERinf,VERinf,,assembler,DMF,assembler,"Alexis, l. 45",</l></lg>,
-342,46,1,D_oment[=D_onnent],donnent,dOnəNT,d.o.nn.e.n.t,'d/O\.n/ə\NT,_,fro,46,VERcjg,VERcjg,indpst6,donner,DMF,donner,"Alexis, l. 46",,<lg n=&quot;10&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;46&quot;>
+342,46,1,D_oment[=D_onnent],donnent,dOnəNT,d.o.nn.e.n.t,'d/O\.n/ə\NT,_,fro,46,VERcjg,VERcjg,indpst6,donner,DMF,donner,"Alexis, l. 46",,<lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;46&quot;>
 343,46,2,lur,lur,Lur,l.u.r,L/u\r,_,fro,46,PRCper,PRCper,6pmi,leur,DMF,leur,"Alexis, l. 46",,
 344,46,3,terme,terme,tɛrmə,t.e.r.m.e,'t/ɛ\r.m/(ə)\,_,fro,46,NOMcom,NOMcom,smr,terme,DMF,terme,"Alexis, l. 46",,
 345,46,4,de,de,dE,d.e,d/(E)\,_,fro,46,PRE,PRE,,de,DMF,de,"Alexis, l. 46",,
@@ -378,7 +378,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 377,50,7,deu,deu,dæu,d.e.u,d/æ\u,_,fro,50,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 50",,
 378,50,8,sun,sun,SON,s.u.n,S/O\N,_,fro,50,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 50",,
 379,50,9,talent,talent,tALENT,t.a.l.e.n.t,t/A\.'L/E\NT,.,fro,50,NOMcom,NOMcom,smr,talent,DMF,talent,"Alexis, l. 50",</l></lg>,
-380,51,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,51,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 51",,<lg n=&quot;11&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;51&quot;>
+380,51,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,51,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 51",,<lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;51&quot;>
 381,51,2,li,li,Li,l.i,L/i\,+,fro,51,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 51",,
 382,51,3,iurz,jurz,ʤurÇ,j.u.r.z,ʤ/u\rÇ,_,fro,51,NOMcom,NOMcom,smn,jour,DMF,jour,"Alexis, l. 51",,
 383,51,4,passet,passet,pasəð,p.a.ss.e.t,'p/a\.s/ə\ð,_,fro,51,VERcjg,VERcjg,indpst3,passer,DMF,passer,"Alexis, l. 51",,
@@ -421,7 +421,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 420,55,6,ert,ert,ærT,e.r.t,/æ\rT,_,fro,55,VERcjg,VERcjg,indipf3,être,DMF,être,"Alexis, l. 55",,
 421,55,7,sa,sa,Sa,s.a,S/(a)\,_,fro,55,DETpos,DETpos,3sfn,son4,DMF,son4,"Alexis, l. 55",,
 422,55,8,muiler,muiler,muiLer,m.u.i.l.e.r,m/u\i.'L/e\r,.,fro,55,NOMcom,NOMcom,sfn,moillier,DMF,moillier,"Alexis, l. 55",</l></lg>,
-423,56,1,C_um,cum,kOm,c.u.m,k/O\m,_,fro,56,CONsub,CONsub,,comme,DMF,comme,"Alexis, l. 56",,<lg n=&quot;12&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;56&quot;>
+423,56,1,C_um,cum,kOm,c.u.m,k/O\m,_,fro,56,CONsub,CONsub,,comme,DMF,comme,"Alexis, l. 56",,<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;56&quot;>
 424,56,2,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,56,VERcjg,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 56",,
 425,56,3,le,le,LE,l.e,L/(E)\,_,fro,56,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 56",,
 426,56,4,lit,lit,LiT,l.i.t,L/i\T,_,fro,56,NOMcom,NOMcom,smr,lit,DMF,lit,"Alexis, l. 56",,
@@ -465,7 +465,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 464,60,11,t,t,t,t,t/\,+,fro,60,PRCper,PRCper,2smr,te,DMF,te,"Alexis, l. 60",,
 465,60,12,em,em,ÆN,e.m,/Æ\N,_,fro,60,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 60",,
 466,60,13,perde,perde,pɛrdə,p.e.r.d.e,'p/ɛ\r.d/(ə)\,.,fro,60,VERcjg,VERcjg,subpst1,perdre,DMF,perdre,"Alexis, l. 60",</q></l></lg>,
-467,61,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,61,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 61",,<lg n=&quot;13&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;61&quot;>
+467,61,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,61,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 61",,<lg n=&quot;13&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;61&quot;>
 468,61,2,an,an,ÆN,a.n,/Æ\N,_,fro,61,PRE,PRE,,en,DMF,en,"Alexis, l. 61",,
 469,61,3,la,la,La,l.a,L/(a)\,_,fro,61,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 61",,
 470,61,4,cambra,cambra,ċANbrə,c.a.m.b.r.a,'ċ/A\N.br/(ə)\,_,fro,61,NOMcom,NOMcom,sfr,chambre,DMF,chambre,"Alexis, l. 61",,
@@ -503,7 +503,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 502,65,8,en,en,ÆN,e.n,/Æ\N,_,fro,65,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 65",,
 503,65,9,seit,seit,SEiT,s.e.i.t,S/E\iT,_,fro,65,VERcjg,VERcjg,subpst3,être,DMF,être,"Alexis, l. 65",,
 504,65,10,turnet,turnet,turnæð,t.u.r.n.e.t,t/u\r.'n/æ\ð,.,fro,65,VERppe,VERppe,smr,tourner,DMF,tourner,"Alexis, l. 65",</l></lg>,
-505,66,1,O_z,oz,ɔTS,o.z.,/ɔ\TS,_,fro,66,VERcjg,VERcjg,imp---2,ouïr,DMF,ouïr,"Alexis, l. 66",,<lg n=&quot;14&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;66&quot;><q>
+505,66,1,O_z,oz,ɔTS,o.z.,/ɔ\TS,_,fro,66,VERcjg,VERcjg,imp---2,ouïr,DMF,ouïr,"Alexis, l. 66",,<lg n=&quot;14&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;66&quot;><q>
 506,66,2,mei,mei,mEi,m.e.i,m/E\i,_,fro,66,PRCper,PRCper,1smr,moi,DMF,moi,"Alexis, l. 66",,
 507,66,3,pulcele,pulcele,pyLÇɛLə,p.u.l.c.e.l.e,p/y\L.'Ç/ɛ\.L/(ə)\,_,fro,66,NOMcom,NOMcom,sfx,pucelle,DMF,pucelle,"Alexis, l. 66",,
 508,66,4,celui,celui,ÇELyi,c.e.l.u.i,Ç/E\.'L/y\i,_,fro,66,PRNdem,PRNdem,smr,cil,DMF,cil,"Alexis, l. 66",,
@@ -539,7 +539,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 538,70,4,a,a,a,a,/a\,+,fro,70,PRE,PRE,,à,DMF,à,"Alexis, l. 70",,
 539,70,5,grant,grant,grANT,g.r.a.n.t,gr/A\NT,_,fro,70,ADJqua,ADJqua,sfr,grand,DMF,grand,"Alexis, l. 70",,
 540,70,6,tristur,tristur,triStur,t.r.i.s.t.u.r,tr/i\S.'t/u\r,.,fro,70,NOMcom,NOMcom,sfr,tristeur,DMF,tristeur,"Alexis, l. 70",</q></l></lg>,
-541,71,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,71,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 71",,<lg n=&quot;15&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;71&quot;>
+541,71,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,71,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 71",,<lg n=&quot;15&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;71&quot;>
 542,71,2,sa,sa,Sa,s.a,S/(a)\,+,fro,71,DETpos,DETpos,3sfr,son4,DMF,son4,"Alexis, l. 71",,
 543,71,3,raisun,raisun,rAizOn,r.a.i.s.u.n,r/A\i.'z/O\n,_,fro,71,NOMcom,NOMcom,sfr,raison,DMF,raison,"Alexis, l. 71",,
 544,71,4,li,li,Li,l.i,L/i\,_,fro,71,PRCper,PRCper,3sfi,li,DMF,li,"Alexis, l. 71",,
@@ -578,7 +578,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 577,75,6,de,de,dE,d.e,d/(E)\,_,fro,75,PRE,PRE,,de,DMF,de,"Alexis, l. 75",,
 578,75,7,la,la,La,l.a,L/(a)\,_,fro,75,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 75",,
 579,75,8,contrethe,contrethe,kONtræðə,c.o.n.t.r.e.th.e,k/O\N.'tr/æ\.ð/(ə)\,.,fro,75,NOMcom,NOMcom,sfr,contrée,DMF,contrée,"Alexis, l. 75",</l></lg>,
-580,76,1,D_unc,dunc,dONK,d.u.n.c,d/O\NK,_,fro,76,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 76",,<lg n=&quot;16&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;76&quot;>
+580,76,1,D_unc,dunc,dONK,d.u.n.c,d/O\NK,_,fro,76,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 76",,<lg n=&quot;16&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;76&quot;>
 581,76,2,uint,vint,viNT,v.i.n.t,v/i\NT,_,fro,76,VERcjg,VERcjg,indpsp3,venir,DMF,venir,"Alexis, l. 76",,
 582,76,3,errant,errant,ErrANT,e.r.r.a.n.t,/E\r.'r/A\NT,_,fro,76,VERppa,VERppa,,errer,DMF,errer,"Alexis, l. 76",,
 583,76,4,dreitem[en]t,dreitement,drEitEmENT,d.r.e.i.t.e.m.e.n.t,dr/E\i.t/E\.'m/E\NT,_,fro,76,ADVgen,ADVgen,,droitement,DMF,droitement,"Alexis, l. 76",,
@@ -615,7 +615,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 614,80,6,les,les,LES,l.e.s,L/E\S,_,fro,80,PRCper,PRCper,6pma,le,DMF,le,"Alexis, l. 80",,
 615,80,7,uolt,volt,vɔLT,v.o.l.t,v/ɔ\LT,_,fro,80,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,"Alexis, l. 80",,
 616,80,8,mener,mener,mEnær,m.e.n.e.r,m/E\.'n/æ\r,.,fro,80,VERinf,VERinf,,mener,DMF,mener,"Alexis, l. 80",</l></lg>,
-617,81,1,D_reit,dreit,drEiT,d.r.e.i.t,dr/E\iT,_,fro,81,ADVgen,ADVgen,,droit2,DMF,droit2,"Alexis, l. 81",,<lg n=&quot;17&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;81&quot;>
+617,81,1,D_reit,dreit,drEiT,d.r.e.i.t,dr/E\iT,_,fro,81,ADVgen,ADVgen,,droit2,DMF,droit2,"Alexis, l. 81",,<lg n=&quot;17&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;81&quot;>
 618,81,2,a,a,a,a,/a\,+,fro,81,PRE,PRE,,à,DMF,à,"Alexis, l. 81",,
 619,81,3,lalice,lalice,LALiʦə,l.a.l.i.c.e,L/A\.'L/i\.ʦ/(ə)\,_,fro,81,NOMpro,NOMpro,sfr,Lalice,---,,"Alexis, l. 81",,
 620,81,4,co,co,Çɔ,c.o,Ç/ɔ\,_,fro,81,PRNdem,PRNdem,snn,ce,DMF,ce,"Alexis, l. 81",,
@@ -651,7 +651,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 650,85,7,seruir,servir,SErvir,s.e.r.v.i.r,S/E\r.'v/i\r,_,fro,85,VERinf,VERinf,,servir,DMF,servir,"Alexis, l. 85",,
 651,85,8,ne,ne,nE,n.e,n/(E)\,_,fro,85,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 85",,
 652,85,9,cesset,cesset,Çɛsəð,c.e.ss.e.t,'Ç/ɛ\.s/ə\ð,.,fro,85,VERcjg,VERcjg,indpst3,cesser,DMF,cesser,"Alexis, l. 85",</l></lg>,
-653,86,1,D,d,d,d,d/\,_,fro,86,PRE,PRE,,de,DMF,de,"Alexis, l. 86",,<lg n=&quot;18&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;86&quot;>
+653,86,1,D,d,d,d,d/\,_,fro,86,PRE,PRE,,de,DMF,de,"Alexis, l. 86",,<lg n=&quot;18&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;86&quot;>
 654,86,2,iloc,iloc,iLoK,i.l.o.c,/i\.'L/o\K,_,fro,86,ADVgen,ADVgen,,illuec,DMF,illuec,"Alexis, l. 86",,
 655,86,3,alat,alat,ALað,a.l.a.t,/A\.'L/a\ð,_,fro,86,VERcjg,VERcjg,indpsp3,aller,DMF,aller,"Alexis, l. 86",,
 656,86,4,an,an,ÆN,a.n,/Æ\N,_,fro,86,PRE,PRE,,en,DMF,en,"Alexis, l. 86",,
@@ -684,7 +684,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 683,90,3,ki,ki,ki,k.i,k/i\,+,fro,90,PRNrel,PRNrel,sfn,qui,DMF,qui,"Alexis, l. 90",,
 684,90,4,portat,portat,pOrtað,p.o.r.t.a.t,p/O\r.'t/a\ð,|,fro,90,VERcjg,VERcjg,indpsp3,porter,DMF,porter,"Alexis, l. 90",,
 685,90,5,damne_deu,damnedeu,dAmnEdæu,d.a.m.n.e.d.e.u,d/A\m.n/E\.'d/æ\u,.,fro,90,NOMpro,NOMpro,smr,Damedieu,DMF,Damedieu,"Alexis, l. 90",</l></lg>,<lb/>
-686,91,1,Tut,tut,tuT,t.u.t,t/u\T,_,fro,91,DETind,DETind,smr,tout,DMF,tout,"Alexis, l. 91",,<lg n=&quot;19&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;91&quot;>
+686,91,1,Tut,tut,tuT,t.u.t,t/u\T,_,fro,91,DETind,DETind,smr,tout,DMF,tout,"Alexis, l. 91",,<lg n=&quot;19&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;91&quot;>
 687,91,2,sun,sun,SON,s.u.n,S/O\N,_,fro,91,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 91",,
 688,91,3,auer,aver,Aver,a.v.e.r,/A\.'v/e\r,_,fro,91,NOMcom,NOMcom,smr,avoir2,DMF,avoir2,"Alexis, l. 91",,
 689,91,4,qu,qu,k,qu,k/\,+,fro,91,PRNrel,PRNrel,smr,que,DMF,que,"Alexis, l. 91",,
@@ -725,7 +725,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 724,95,5,uolt,volt,vOLT,v.o.l.t,v/O\LT,_,fro,95,VERcjg,VERcjg,indpst3|indpsp3,vouloir,DMF,vouloir,"Alexis, l. 95",,
 725,95,6,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,|,fro,95,VERinf,VERinf,,être,DMF,être,"Alexis, l. 95",,
 726,95,7,ancumbret,ancumbret,ÆNkONbræð,a.n.c.u.m.b.r.e.t,/Æ\N.k/O\N.'br/æ\ð,.,fro,95,VERppe,VERppe,smr,encombrer,DMF,encombrer,"Alexis, l. 95",</l></lg>,<lb/>
-727,96,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,96,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 96",,<lg n=&quot;20&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;96&quot;>
+727,96,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,96,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 96",,<lg n=&quot;20&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;96&quot;>
 728,96,2,sun,sun,SON,s.u.n,S/O\N,_,fro,96,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 96",,
 729,96,3,auer,aver,Aver,a.v.e.r,/A\.'v/e\r,_,fro,96,NOMcom,NOMcom,smr,avoir2,DMF,avoir2,"Alexis, l. 96",,
 730,96,4,lur,lur,Lur,l.u.r,L/u\r,_,fro,96,PRCper,PRCper,6pmi,leur,DMF,leur,"Alexis, l. 96",,
@@ -765,7 +765,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 764,100,8,a,a,a,a,/a\,+,fro,100,PRE,PRE,,à,DMF,à,"Alexis, l. 100",,
 765,100,9,s,s,S,s,/\S,+,fro,100,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 100",,
 766,100,10,pouerins,poverins,pɔvEriNS,p.o.v.e.r.i.n.s,p/ɔ\.v/E\.'r/i\NS,.,fro,100,ADJqua,NOMcom,pmr,poverin,TL,,"Alexis, l. 100",</l></lg>,
-767,101,1,O_r,or,Or,o.r,/O\r,_,fro,101,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 101",,<lg n=&quot;21&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;101&quot;>
+767,101,1,O_r,or,Or,o.r,/O\r,_,fro,101,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 101",,<lg n=&quot;21&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;101&quot;>
 768,101,2,reuendrai,revendrai,rEvÆNdrAi,r.e.v.e.n.d.r.a.i,r/E\.v/Æ\N.'dr/A\i,_,fro,101,VERcjg,VERcjg,indfut1,revenir,DMF,revenir,"Alexis, l. 101",,
 769,101,3,a,a,a,a,/a\,+,fro,101,PRE,PRE,,à,DMF,à,"Alexis, l. 101",,
 770,101,4,l,l,L,l,/\L,_,fro,101,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 101",,
@@ -806,7 +806,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 805,105,5,tuta,tuta,tutə,t.u.t.a,'t/u\.t/(ə)\,_,fro,105,DETind,DETind,sfr,tout,DMF,tout,"Alexis, l. 105",,
 806,105,6,la,la,La,l.a,L/(a)\,+,fro,105,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 105",,
 807,105,7,citiet,citiet,Çitæð,c.i.t.ie.t,Ç/i\.'t/æ\ð,.,fro,105,NOMcom,NOMcom,sfr,cité,DMF,cité,"Alexis, l. 105",</l></lg>,
-808,106,1,Co,co,Çɔ,c.o,Ç/ɔ\,_,fro,106,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 106",,<lg n=&quot;22&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;106&quot;>
+808,106,1,Co,co,Çɔ,c.o,Ç/ɔ\,_,fro,106,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 106",,<lg n=&quot;22&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;106&quot;>
 809,106,2,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,106,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 106",,
 810,106,3,li,li,Li,l.i,L/i\,_,fro,106,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 106",,
 811,106,4,pedres,pedres,pæðrəS,p.e.d.r.e.s,'p/æ\.ðr/ə\S,_,fro,106,NOMcom,NOMcom,smn,père,DMF,père,"Alexis, l. 106",,
@@ -849,7 +849,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 848,110,7,puis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,110,VERcjg,VERcjg,indpst1,pouvoir,DMF,pouvoir,"Alexis, l. 110",,<lb/>
 849,110,8,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,_,fro,110,VERinf,VERinf,,être,DMF,être,"Alexis, l. 110",,
 850,110,9,plus,plus,pLyS,p.l.u.s,pL/y\S,.,fro,110,ADVgen,ADVgen,,plus,DMF,plus,"Alexis, l. 110",</q></l></lg>,
-851,111,1,D_unc,dunc,dONK,d.u.n.c,d/O\NK,_,fro,111,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 111",,<lg n=&quot;23&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;111&quot;>
+851,111,1,D_unc,dunc,dONK,d.u.n.c,d/O\NK,_,fro,111,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 111",,<lg n=&quot;23&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;111&quot;>
 852,111,2,prent,prent,prENT,p.r.e.n.t,pr/E\NT,_,fro,111,VERcjg,VERcjg,indpst3,prendre,DMF,prendre,"Alexis, l. 111",,
 853,111,3,li,li,Li,l.i,L/i\,+,fro,111,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 111",,
 854,111,4,pedre,pedre,pæðrə,p.e.d.r.e,'p/æ\.ðr/(ə)\,_,fro,111,NOMcom,NOMcom,smn,père,DMF,père,"Alexis, l. 111",,
@@ -884,7 +884,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 883,115,6,ne,ne,nE,n.e,n/(E)\,_,fro,115,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 115",,
 884,115,7,sum,sum,SON,s.u.m,S/O\N,_,fro,115,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 115",,
 885,115,8,semblant,semblant,SÆNbLANT,s.e.m.b.l.a.n.t,S/Æ\N.'bL/A\NT,.,fro,115,NOMcom,NOMcom,smr,semblant,DMF,semblant,"Alexis, l. 115",</l></lg>,
-886,116,1,Des,des,deS,d.e.s,d/e\S,_,fro,116,ADVgen,ADVgen,,dès,DMF,dès,"Alexis, l. 116",,<lg n=&quot;24&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;116&quot;>
+886,116,1,Des,des,deS,d.e.s,d/e\S,_,fro,116,ADVgen,ADVgen,,dès,DMF,dès,"Alexis, l. 116",,<lg n=&quot;24&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;116&quot;>
 887,116,2,at,at,að,a.t,/a\ð,_,fro,116,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 116",,
 888,116,3,li,li,Li,l.i,L/i\,_,fro,116,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 116",,
 889,116,4,emfes,emfes,ENfəS,e.m.f.e.s,'/E\N.f/ə\S,_,fro,116,NOMcom,NOMcom,smn,enfant,DMF,enfant,"Alexis, l. 116",,
@@ -921,7 +921,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 920,120,5,s,s,S,s,S/\,+,fro,120,PRCper,PRCper,6pmr,se,DMF,se,"Alexis, l. 120",,<lb/>
 921,120,6,en,en,ÆN,e.n,/Æ\N,_,fro,120,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 120",,
 922,120,7,returnerent,returnerent,rEturnærəNT,r.e.t.u.r.n.e.r.e.n.t,r/E\.t/u\r.'n/æ\.r/ə\NT,.,fro,120,VERcjg,VERcjg,indpsp6,retourner,DMF,retourner,"Alexis, l. 120",</l></lg>,
-923,121,1,N_e,ne,nE,n.e,n/(E)\,+,fro,121,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 121",,<lg n=&quot;25&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;121&quot;>
+923,121,1,N_e,ne,nE,n.e,n/(E)\,+,fro,121,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 121",,<lg n=&quot;25&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;121&quot;>
 924,121,2,l,l,L,l,/\L,_,fro,121,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 121",,
 925,121,3,reconurent,reconurent,rEkOnyrəNT,r.e.c.o.n.u.r.e.n.t,r/E\.k/O\.'n/y\.r/ə\NT,_,fro,121,VERcjg,VERcjg,indpsp6,reconnaître,DMF,reconnaître,"Alexis, l. 121",,
 926,121,4,ne,ne,nE,n.e,n/(E)\,_,fro,121,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 121",,
@@ -963,7 +963,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 962,125,8,en,en,ÆN,e.n,/Æ\N,_,fro,125,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 125",,
 963,125,9,firet,firet,firəð,f.i.r.e.t,'f/i\.r/ə\ð,_,fro,125,VERcjg,VERcjg,indpsp3,faire,DMF,faire,"Alexis, l. 125",,
 964,125,10,liez,liez,LiETS,l.i.e.z.,L/iE\TS,.,fro,125,ADJqua,ADJqua,smn,lié,DMF,lié,"Alexis, l. 125",</l></lg>,
-965,126,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,126,PRNdem,PRNdem,pmn,cil,DMF,cil,"Alexis, l. 126",,<lg n=&quot;26&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;126&quot;>
+965,126,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,126,PRNdem,PRNdem,pmn,cil,DMF,cil,"Alexis, l. 126",,<lg n=&quot;26&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;126&quot;>
 966,126,2,s,s,S,s,S/\,+,fro,126,PRCper,PRCper,6pmr,se,DMF,se,"Alexis, l. 126",,
 967,126,3,en,en,ÆN,e.n,/Æ\N,_,fro,126,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 126",,
 968,126,4,repairent,repairent,rEpAirəNT,r.e.p.a.i.r.e.n.t,r/E\.'p/A\i.r/ə\NT,|,fro,126,VERcjg,VERcjg,indpst6,repairer,DMF,repairer,"Alexis, l. 126",,
@@ -1003,7 +1003,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1002,130,5,suuent,suvent,SuvENT,s.u.v.e.n.t,S/u\.'v/E\NT,+,fro,130,ADVgen,ADVgen,,souvent,DMF,souvent,"Alexis, l. 130",,<lb/>
 1003,130,6,a,a,a,a,/a\,_,fro,130,PRE,PRE,,à,DMF,à,"Alexis, l. 130",,
 1004,130,7,regreter,regreter,rEgrEtær,r.e.g.r.e.t.e.r,r/E\.gr/E\.'t/æ\r,.,fro,130,VERinf,VERinf,,regretter,DMF,regretter,"Alexis, l. 130",</l></lg>,
-1005,131,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,131,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 131",,<lg n=&quot;27&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;131&quot;><q>
+1005,131,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,131,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 131",,<lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;131&quot;><q>
 1006,131,2,aleis,aleis,ALEiS,a.l.e.i.s,/A\.L/E\.'/i\S,_,fro,131,NOMpro,NOMpro,smx,Alexis,---,,"Alexis, l. 131",,
 1007,131,3,pur,pur,pur,p.u.r,p/u\r,_,fro,131,PRE,PRE,,pour,DMF,pour,"Alexis, l. 131",,
 1008,131,4,quei,quei,kEi,qu.e.i,k/E\i,_,fro,131,PRNint,PRNint,snr,quoi,DMF,quoi,"Alexis, l. 131",,
@@ -1047,7 +1047,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1046,135,9,ert,ert,ErT,e.r.t,/E\rT,_,fro,135,VERcjg,VERcjg,indfut3,être,DMF,être,"Alexis, l. 135",,
 1047,135,10,tun,tun,tON,t.u.n,t/O\N,_,fro,135,DETpos,DETpos,2smr,ton2,DMF,ton2,"Alexis, l. 135",,
 1048,135,11,pedre,pedre,pæðrə,p.e.d.r.e,'p/æ\.ðr/(ə)\,.|,fro,135,NOMcom,NOMcom,smr,père,DMF,père,"Alexis, l. 135",</q></l></lg>,
-1049,136,1,Vint,vint,viNT,v.i.n.t,v/i\NT,_,fro,136,VERcjg,VERcjg,indpsp3,venir,DMF,venir,"Alexis, l. 136",,<lb/><lg n=&quot;28&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;136&quot;>
+1049,136,1,Vint,vint,viNT,v.i.n.t,v/i\NT,_,fro,136,VERcjg,VERcjg,indpsp3,venir,DMF,venir,"Alexis, l. 136",,<lb/><lg n=&quot;28&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;136&quot;>
 1050,136,2,en,en,ÆN,e.n,/Æ\N,+,fro,136,PRE,PRE,,en,DMF,en,"Alexis, l. 136",,
 1051,136,3,la,la,La,l.a,L/(a)\,_,fro,136,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 136",,
 1052,136,4,cambre,cambre,ċANbrə,c.a.m.b.r.e,'ċ/A\N.br/(ə)\,_,fro,136,NOMcom,NOMcom,sfr,chambre,DMF,chambre,"Alexis, l. 136",,
@@ -1083,7 +1083,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1082,140,6,se,se,SE,s.e,S/(E)\,_,fro,140,PRCper,PRCper,3sfr,se,DMF,se,"Alexis, l. 140",,
 1083,140,7,contint,contint,kONtiNT,c.o.n.t.i.n.t,k/O\N.'t/i\NT,_,fro,140,VERcjg,VERcjg,indpsp3,contenir,DMF,contenir,"Alexis, l. 140",,
 1084,140,8,ledement,ledement,LeðEmENT,l.e.d.e.m.e.n.t,L/e\.ð/E\.'m/E\NT,.,fro,140,ADVgen,ADVgen,,liément,DMF,liément,"Alexis, l. 140",</l></lg>,
-1085,141,1,Cambra,cambra,ċANbrə,c.a.m.b.r.a,'ċ/A\N.br/(ə)\,_,fro,141,NOMcom,NOMcom,sfx,chambre,DMF,chambre,"Alexis, l. 141",,<lg n=&quot;29&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;141&quot;><q>
+1085,141,1,Cambra,cambra,ċANbrə,c.a.m.b.r.a,'ċ/A\N.br/(ə)\,_,fro,141,NOMcom,NOMcom,sfx,chambre,DMF,chambre,"Alexis, l. 141",,<lg n=&quot;29&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;141&quot;><q>
 1086,141,2,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,141,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 141",</q>,
 1087,141,3,ela,ela,eLə,e.l.a,'/e\.L/(ə)\,_,fro,141,PRNper,PRNper,3sfn,elle,DMF,elle,"Alexis, l. 141",,
 1088,141,4,ia_mais,jamais,ʤAmAiS,j.a.m.a.i.s,ʤ/A\.'m/A\iS,_,fro,141,ADVgen,ADVgen,,jamais,DMF,jamais,"Alexis, l. 141",,<q>
@@ -1122,7 +1122,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1121,145,6,dol,dol,doL,d.o.l,d/o\L,_,fro,145,NOMcom,NOMcom,smr,deuil,DMF,deuil,"Alexis, l. 145",,
 1122,145,7,ad,ad,að,a.d,/a\ð,_,fro,145,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 145",,
 1123,145,8,aturnede,aturnede,Aturnæðə,a.t.u.r.n.e.d.e,/A\.t/u\r.'n/æ\.ð/(ə)\,.,fro,145,VERppe,VERppe,sfr,atourner,DMF,atourner,"Alexis, l. 145",</l></lg>,
-1124,146,1,De,de,dE,d.e,d/(E)\,+,fro,146,PRE,PRE,,de,DMF,de,"Alexis, l. 146",,<lg n=&quot;30&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;146&quot;>
+1124,146,1,De,de,dE,d.e,d/(E)\,+,fro,146,PRE,PRE,,de,DMF,de,"Alexis, l. 146",,<lg n=&quot;30&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;146&quot;>
 1125,146,2,l,l,L,l,/\L,_,fro,146,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 146",,
 1126,146,3,duel,duel,duEL,d.u.e.l,d/uE\L,_,fro,146,NOMcom,NOMcom,smr,deuil,DMF,deuil,"Alexis, l. 146",,
 1127,146,4,s,s,S,s,S/\,+,fro,146,PRCper,PRCper,3sfr,se,DMF,se,"Alexis, l. 146",,
@@ -1164,7 +1164,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1163,150,8,tei,tei,tEi,t.e.i,t/E\i,|,fro,150,PRNper,PRNper,2sfr,toi,DMF,toi,"Alexis, l. 150",,
 1164,150,9,uoil,voil,voiL,v.o.i.l,v/o\iL,_,fro,150,VERcjg,VERcjg,indpst1,vouloir,DMF,vouloir,"Alexis, l. 150",,<lb/>
 1165,150,10,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,.,fro,150,VERinf,VERinf,,être,DMF,être,"Alexis, l. 150",</q></l></lg>,
-1166,151,1,Co,co,Çɔ,c.o,Ç/ɔ\,_,fro,151,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 151",,<lg n=&quot;31&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;151&quot;>
+1166,151,1,Co,co,Çɔ,c.o,Ç/ɔ\,_,fro,151,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 151",,<lg n=&quot;31&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;151&quot;>
 1167,151,2,di,di,di,d.i,d/i\,_,fro,151,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 151",,
 1168,151,3,la,la,La,l.a,L/(a)\,_,fro,151,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 151",,
 1169,151,4,medre,medre,mæðrə,m.e.d.r.e,'m/æ\.ðr/(ə)\,_,fro,151,NOMcom,NOMcom,sfn,mère,DMF,mère,"Alexis, l. 151",,
@@ -1205,7 +1205,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1204,155,8,pur,pur,pur,p.u.r,p/u\r,_,fro,155,PRE,PRE,,pour,DMF,pour,"Alexis, l. 155",,
 1205,155,9,mun,mun,mOn,m.u.n,m/O\n,_,fro,155,DETpos,DETpos,1smr,mon,DMF,mon,"Alexis, l. 155",,
 1206,155,10,filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,.|,fro,155,NOMcom,NOMcom,smr,fils,DMF,fils,"Alexis, l. 155",</q></l></lg>,
-1207,156,1,N_e,ne,nE,n.e,n/(E)\,_,fro,156,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 156",,<lb/><lg n=&quot;32&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;156&quot;>
+1207,156,1,N_e,ne,nE,n.e,n/(E)\,_,fro,156,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 156",,<lb/><lg n=&quot;32&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;156&quot;>
 1208,156,2,poet,poet,puET,p.o.e.t,p/uE\T,_,fro,156,VERcjg,VERcjg,indpst0,pouvoir,DMF,pouvoir,"Alexis, l. 156",,
 1209,156,3,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,_,fro,156,VERinf,VERinf,,être,DMF,être,"Alexis, l. 156",,
 1210,156,4,altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/(ə)\,_,fro,156,ADJind,ADJind,snn,autre,DMF,autre,"Alexis, l. 156",,
@@ -1237,7 +1237,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1236,160,4,l,l,L,l,/\L,_,fro,160,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 160",,
 1237,160,5,poet,poet,puET,p.o.e.t,p/uE\T,_,fro,160,VERcjg,VERcjg,indpst3,pouvoir,DMF,pouvoir,"Alexis, l. 160",,
 1238,160,6,anganer,anganer,ÆNgAnær,a.n.g.a.n.e.r,/Æ\N.g/A\.'n/æ\r,.,fro,160,VERinf,VERinf,,enganer,DMF,enganer,"Alexis, l. 160",</l></lg>,
-1239,161,1,Dis,dis,diS,d.i.s,d/i\S,_,fro,161,DETcar,DETcar,pmr,dix,DMF,dix,"Alexis, l. 161",,<lg n=&quot;33&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;161&quot;>
+1239,161,1,Dis,dis,diS,d.i.s,d/i\S,_,fro,161,DETcar,DETcar,pmr,dix,DMF,dix,"Alexis, l. 161",,<lg n=&quot;33&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;161&quot;>
 1240,161,2,e,e,e,e,/e\,+,fro,161,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 161",,
 1241,161,3,seat,seat,SɛT,s.ea.t,S/ɛ\T,_,fro,161,DETcar,DETcar,pmr,sept,DMF,sept,"Alexis, l. 161",,
 1242,161,4,anz,anz,ANÇ,a.n.z,/A\NÇ,_,fro,161,NOMcom,NOMcom,pmr,an,DMF,an,"Alexis, l. 161",,
@@ -1280,7 +1280,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1279,165,8,ad,ad,að,a.d,/a\ð,_,fro,165,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 165",,
 1280,165,9,a,a,a,a,/a\,+,fro,165,PRE,PRE,,à,DMF,à,"Alexis, l. 165",,
 1281,165,10,uiure,vivre,vivrə,v.i.v.r.e,'v/i\.vr/(ə)\,.,fro,165,VERinf,VERinf,,vivre,DMF,vivre,"Alexis, l. 165",</l></lg>,
-1282,166,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,166,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 166",,<lg n=&quot;34&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;166&quot;>
+1282,166,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,166,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 166",,<lg n=&quot;34&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;166&quot;>
 1283,166,2,tut,tut,tuT,t.u.t,t/u\T,_,fro,166,DETind,DETind,smr,tout,DMF,tout,"Alexis, l. 166",,
 1284,166,3,sun,sun,SON,s.u.n,S/O\N,_,fro,166,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 166",,
 1285,166,4,quor,quor,kor,qu.o.r,k/o\r,_,fro,166,NOMcom,NOMcom,smr,coeur,DMF,coeur,"Alexis, l. 166",,
@@ -1320,7 +1320,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1319,170,5,l,l,L,l,L/\,+,fro,170,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 170",,
 1320,170,6,ume,ume,Omə,u.m.e,'/O\.m/(ə)\,_,fro,170,NOMcom,NOMcom,smr,homme,DMF,homme,"Alexis, l. 170",,
 1321,170,7,deu,deu,dæu,d.e.u,d/æ\u,.|,fro,170,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 170",</q></l></lg>,
-1322,171,1,Ćó,co,Çɔ,c.o,Ç/ɔ\,_,fro,171,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 171",,<lb/><lg n=&quot;35&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;171&quot;>
+1322,171,1,Ćó,co,Çɔ,c.o,Ç/ɔ\,_,fro,171,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 171",,<lb/><lg n=&quot;35&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;171&quot;>
 1323,171,2,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,171,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 171",,
 1324,171,3,l,l,L,l,L/\,+,fro,171,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 171",,
 1325,171,4,imagena,imagena,imaʤənə,i.m.a.g.e.n.a,/i\.'m/a\.ʤ/[ə]\.n/(ə)\,_,fro,171,NOMcom,NOMcom,sfn,image,DMF,image,"Alexis, l. 171",,
@@ -1365,7 +1365,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1364,175,6,l,l,L,l,L/\,+,fro,175,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 175",,
 1365,175,7,imagene,imagene,imaʤənə,i.m.a.g.e.n.e,/i\.'m/a\.ʤ/[ə]\.n/(ə)\,_,fro,175,NOMcom,NOMcom,sfn,image,DMF,image,"Alexis, l. 175",,
 1366,175,8,dist,dist,diST,d.i.s.t,d/i\ST,.,fro,175,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 175",</l></lg>,
-1367,176,1,Reuint,revint,rEviNT,r.e.v.i.n.t,r/E\.'v/i\NT,_,fro,176,VERcjg,VERcjg,indpsp3,revenir,DMF,revenir,"Alexis, l. 176",,<lg n=&quot;36&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;176&quot;>
+1367,176,1,Reuint,revint,rEviNT,r.e.v.i.n.t,r/E\.'v/i\NT,_,fro,176,VERcjg,VERcjg,indpsp3,revenir,DMF,revenir,"Alexis, l. 176",,<lg n=&quot;36&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;176&quot;>
 1368,176,2,li,li,Li,l.i,L/i\,+,fro,176,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 176",,
 1369,176,3,costre,costre,kuStrə,c.o.s.t.r.e,'k/u\S.tr/(ə)\,_,fro,176,NOMcom,NOMcom,smn,costeur,DMF,costeur,"Alexis, l. 176",,
 1370,176,4,a,a,a,a,/a\,+,fro,176,PRE,PRE,,à,DMF,à,"Alexis, l. 176",,
@@ -1411,7 +1411,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1410,180,6,en,en,ÆN,e.n,/Æ\N,_,fro,180,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 180",,
 1411,180,7,uolt,volt,voLT,v.o.l.t,v/o\LT,_,fro,180,VERcjg,VERcjg,indpst3,vouloir,DMF,vouloir,"Alexis, l. 180",,
 1412,180,8,esluiner,esluiner,ESLOiɲer,e.s.l.u.i.n.e.r,/E\.SL/O\i.'ɲ/e\r,.,fro,180,VERinf,VERinf,,éloigner,DMF,éloigner,"Alexis, l. 180",</q></l></lg>,
-1413,181,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,181,PRNdem,PRNdem,smn,cil,DMF,cil,"Alexis, l. 181",,<lg n=&quot;37&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;181&quot;>
+1413,181,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,181,PRNdem,PRNdem,smn,cil,DMF,cil,"Alexis, l. 181",,<lg n=&quot;37&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;181&quot;>
 1414,181,2,uait,vait,vAiT,v.a.i.t,v/A\iT,_,fro,181,VERcjg,VERcjg,indpst3,aller,DMF,aller,"Alexis, l. 181",,
 1415,181,3,si,si,Si,s.i,S/i\,+,fro,181,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 181",,
 1416,181,4,l,l,L,l,/\L,_,fro,181,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 181",,
@@ -1453,7 +1453,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1452,185,7,els,els,eLS,e.l.s,/e\LS,_,fro,185,PRNper,PRNper,6pmr,eux,DMF,eux,"Alexis, l. 185",,
 1453,185,8,ait,ait,AiT,a.i.t,/A\iT,_,fro,185,VERcjg,VERcjg,subpst3,avoir,DMF,avoir,"Alexis, l. 185",,
 1454,185,9,mercit,mercit,mErÇið,m.e.r.c.i.t,m/E\r.'Ç/i\ð,.,fro,185,NOMcom,NOMcom,sfr,merci,DMF,merci,"Alexis, l. 185",</l></lg>,
-1455,186,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,186,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 186",,<lg n=&quot;38&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;186&quot;>
+1455,186,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,186,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 186",,<lg n=&quot;38&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;186&quot;>
 1456,186,2,il,il,iL,i.l,/i\L,_,fro,186,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 186",,
 1457,186,3,ćó,co,Çɔ,c.o,Ç/ɔ\,_,fro,186,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 186",,
 1458,186,4,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,186,VERcjg,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 186",,
@@ -1492,7 +1492,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1491,190,5,li,li,Li,l.i,L/i\,+,fro,190,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 190",,
 1492,190,6,sons,sons,SONS,s.o.n.s,S/O\NS,|,fro,190,ADJpos,ADJpos,3smn,son4,DMF,son4,"Alexis, l. 190",,
 1493,190,7,edrers,edrers,EðrærS,e.d.r.e.r.s,/E\.'ðr/æ\rS,.,fro,190,NOMcom,NOMcom,smn,errier2,DMF,errier2,"Alexis, l. 190",</l></lg>,<lb/>
-1494,191,1,Danz,danz,dANÇ,d.a.n.z,d/A\NÇ,_,fro,191,NOMcom,NOMcom,smn,dan,DMF,dan,"Alexis, l. 191",,<lg n=&quot;39&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;191&quot;>
+1494,191,1,Danz,danz,dANÇ,d.a.n.z,d/A\NÇ,_,fro,191,NOMcom,NOMcom,smn,dan,DMF,dan,"Alexis, l. 191",,<lg n=&quot;39&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;191&quot;>
 1495,191,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,191,NOMpro,NOMpro,smn,Alexis,---,,"Alexis, l. 191",,
 1496,191,3,entrat,entrat,ENtrað,e.n.t.r.a.t,/E\N.'tr/a\ð,_,fro,191,VERcjg,VERcjg,indpsp3,entrer,DMF,entrer,"Alexis, l. 191",,
 1497,191,4,en,en,ÆN,e.n,/Æ\N,_,fro,191,PRE,PRE,,en,DMF,en,"Alexis, l. 191",,
@@ -1524,7 +1524,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1523,195,5,portet,portet,pɔrtəð,p.o.r.t.e.t,'p/ɔ\r.t/ə\ð,_,fro,195,VERcjg,VERcjg,indpst3,porter,DMF,porter,"Alexis, l. 195",,
 1524,195,6,li,li,Li,l.i,L/i\,_,fro,195,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 195",,
 1525,195,7,orez,orez,OræTS,o.r.e.z.,/O\.'r/æ\TS,.,fro,195,NOMcom,NOMcom,smn,oré2,DMF,oré2,"Alexis, l. 195",</l></lg>,
-1526,196,1,A,a,a,a,/a\,+,fro,196,PRE,PRE,,à,DMF,à,"Alexis, l. 196",,<lg n=&quot;40&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;196&quot;>
+1526,196,1,A,a,a,a,/a\,+,fro,196,PRE,PRE,,à,DMF,à,"Alexis, l. 196",,<lg n=&quot;40&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;196&quot;>
 1527,196,2,un,un,yn,u.n,/y\n,|,fro,196,DETndf,DETndf,smr,un,DMF,un,"Alexis, l. 196",,
 1528,196,3,de,de,dE,d.e,d/(E)\,+,fro,196,PRE,PRE,,de,DMF,de,"Alexis, l. 196",,<lb/>
 1529,196,4,s,s,S,s,/\S,_,fro,196,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 196",,
@@ -1569,7 +1569,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1568,200,8,ne,ne,nE,n.e,n/(E)\,+,fro,200,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 200",,
 1569,200,9,l,l,L,l,L/\,_,fro,200,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 200",,
 1570,200,10,encumbrent,encumbrent,ÆNkONbrəNT,e.n.c.u.m.b.r.e.n.t,/Æ\N.'k/O\N.br/ə\NT,|,fro,200,VERcjg,VERcjg,subpst6,encombrer,DMF,encombrer,"Alexis, l. 200",</l></lg>,
-1571,201,1,E,e,e,e,/e\,+,fro,201,INJ,INJ,,hé,DMF,hé,"Alexis, l. 201",,<lb/><lg n=&quot;41&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;201&quot;><q>
+1571,201,1,E,e,e,e,/e\,+,fro,201,INJ,INJ,,hé,DMF,hé,"Alexis, l. 201",,<lb/><lg n=&quot;41&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;201&quot;><q>
 1572,201,2,deus,deus,dæuS,d.e.u.s,d/æ\uS,_,fro,201,NOMpro,NOMpro,smn,Dieu,DMF,Dieu,"Alexis, l. 201",,
 1573,201,3,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,201,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 201",</q>,
 1574,201,4,il,il,iL,i.l,/i\L,_,fro,201,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 201",,
@@ -1613,7 +1613,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1612,205,8,trair[un]t,trairunt,trAirONT,t.r.a.i.r.u.n.t,tr/A\i.'r/O\NT,_,fro,205,VERcjg,VERcjg,indfut6,traire,DMF,traire,"Alexis, l. 205",,
 1613,205,9,a,a,a,a,/a\,+,fro,205,PRE,PRE,,à,DMF,à,"Alexis, l. 205",,
 1614,205,10,perdra,perdra,pɛrdrə,p.e.r.d.r.a,'p/ɛ\r.dr/(ə)\,_,fro,205,VERinf,VERinf,,perdre,DMF,perdre,"Alexis, l. 205",</q></l></lg>,
-1615,206,1,Mais,mais,mAiS,m.a.i.s,m/A\iS,_,fro,206,CONcoo,CONcoo,,mais,DMF,mais,"Alexis, l. 206",,<lg n=&quot;42&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;206&quot;><q>
+1615,206,1,Mais,mais,mAiS,m.a.i.s,m/A\iS,_,fro,206,CONcoo,CONcoo,,mais,DMF,mais,"Alexis, l. 206",,<lg n=&quot;42&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;206&quot;><q>
 1616,206,2,ne,ne,nE,n.e,n/(E)\,|,fro,206,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 206",,
 1617,206,3,pur,pur,pur,p.u.r,p/u\r,_,fro,206,PRE,PRE,,pour,DMF,pour,"Alexis, l. 206",,<lb/>
 1618,206,4,huec,huec,uEK,hu.e.c,/uE\K,_,fro,206,PRNdem,PRNdem,snr,o4,DMF,o4,"Alexis, l. 206",,
@@ -1657,7 +1657,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1656,210,8,ne,ne,nE,n.e,n/(E)\,+,fro,210,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 210",,
 1657,210,9,n,n,N,n,/\N,_,fro,210,PRCper,PRCper,1smr,me,DMF,me,"Alexis, l. 210",,
 1658,210,10,uirent,virent,virəNT,v.i.r.e.n.t,'v/i\.r/ə\NT,|,fro,210,VERcjg,VERcjg,indpsp6,voir,DMF,voir,"Alexis, l. 210",</q></l></lg>,
-1659,211,1,Eist,eist,EiST,e.i.s.t,/E\iST,_,fro,211,VERcjg,VERcjg,indpst3,issir,DMF,issir,"Alexis, l. 211",,<lb/><lg n=&quot;43&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;211&quot;>
+1659,211,1,Eist,eist,EiST,e.i.s.t,/E\iST,_,fro,211,VERcjg,VERcjg,indpst3,issir,DMF,issir,"Alexis, l. 211",,<lb/><lg n=&quot;43&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;211&quot;>
 1660,211,2,de,de,dE,d.e,d/(E)\,_,fro,211,PRE,PRE,,de,DMF,de,"Alexis, l. 211",,
 1661,211,3,la,la,La,l.a,L/(a)\,_,fro,211,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 211",,
 1662,211,4,nef,nef,næF,n.e.f,n/æ\F,_,fro,211,NOMcom,NOMcom,sfr,nef,DMF,nef,"Alexis, l. 211",,
@@ -1702,7 +1702,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1701,215,7,num,num,nOm,n.u.m,n/O\m,_,fro,215,NOMcom,NOMcom,smr,nom,DMF,nom,"Alexis, l. 215",,<lb/>
 1702,215,8,le,le,LE,l.e,L/(E)\,_,fro,215,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 215",,
 1703,215,9,numet,numet,nOməð,n.u.m.e.t,'n/O\.m/ə\ð,.,fro,215,VERcjg,VERcjg,indpst3,nommer,DMF,nommer,"Alexis, l. 215",</l></lg>,
-1704,216,1,Eufemien,eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,216,NOMpro,NOMpro,smx,Eufemien,---,,"Alexis, l. 216",,<lg n=&quot;44&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;216&quot;><q>
+1704,216,1,Eufemien,eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,216,NOMpro,NOMpro,smx,Eufemien,---,,"Alexis, l. 216",,<lg n=&quot;44&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;216&quot;><q>
 1705,216,2,bel,bel,bɛL,b.e.l,b/ɛ\L,_,fro,216,ADJqua,ADJqua,smr,beau,DMF,beau,"Alexis, l. 216",,
 1706,216,3,sire,sire,Sirə,s.i.r.e,'S/i\.r/(ə)\,_,fro,216,NOMcom,NOMcom,smn,sire,DMF,sire,"Alexis, l. 216",,
 1707,216,4,riches,riches,riċəS,r.i.ch.e.s,'r/i\.ċ/ə\S,_,fro,216,ADJqua,ADJqua,smn,riche,DMF,riche,"Alexis, l. 216",,
@@ -1739,7 +1739,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1738,220,7,pur,pur,pur,p.u.r,p/u\r,|,fro,220,PRE,PRE,,pour,DMF,pour,"Alexis, l. 220",,
 1739,220,8,sue,sue,Suə,s.u.e,'S/u\./(ə)\,_,fro,220,DETpos,DETpos,3sfr,sien,DMF,sien,"Alexis, l. 220",,<lb/>
 1740,220,9,amor,amor,Amur,a.m.o.r,/A\.'m/u\r,.,fro,220,NOMcom,NOMcom,sfr,amour,DMF,amour,"Alexis, l. 220",</q></l></lg>,
-1741,221,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,221,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 221",,<lg n=&quot;45&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;221&quot;>
+1741,221,1,Q_uant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,221,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 221",,<lg n=&quot;45&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;221&quot;>
 1742,221,2,ot,ot,ɔT,o.t,/ɔ\T,_,fro,221,VERcjg,VERcjg,indpst3,ouïr,DMF,ouïr,"Alexis, l. 221",,
 1743,221,3,li,li,Li,l.i,L/i\,_,fro,221,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 221",,
 1744,221,4,pedre,pedre,pæðrə,p.e.d.r.e,'p/æ\.ðr/(ə)\,_,fro,221,NOMcom,NOMcom,smn,père,DMF,père,"Alexis, l. 221",,
@@ -1782,7 +1782,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1781,225,7,carn,carn,ċarn,c.a.r.n,ċ/a\rn,|,fro,225,NOMcom,NOMcom,sfr,chair,DMF,chair,"Alexis, l. 225",,
 1782,225,8,e,e,e,e,/e\,+,fro,225,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 225",,<lb/>
 1783,225,9,uin,vin,vin,v.i.n,v/i\n,.,fro,225,NOMcom,NOMcom,smr,vin,DMF,vin,"Alexis, l. 225",</q></l></lg>,
-1784,226,1,E,e,e,e,/e\,_,fro,226,INJ,INJ,,hé,DMF,hé,"Alexis, l. 226",,<lg n=&quot;46&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;226&quot;><q>
+1784,226,1,E,e,e,e,/e\,_,fro,226,INJ,INJ,,hé,DMF,hé,"Alexis, l. 226",,<lg n=&quot;46&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;226&quot;><q>
 1785,226,2,deus,deus,dæuS,d.e.u.s,d/æ\uS,_,fro,226,NOMpro,NOMpro,smn,Dieu,DMF,Dieu,"Alexis, l. 226",</q>,
 1786,226,3,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,226,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 226",,
 1787,226,4,il,il,iL,i.l,/i\L,_,fro,226,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 226",,
@@ -1824,7 +1824,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1823,230,5,soferai,soferai,SufErAi,s.o.f.e.r.a.i,S/u\.f/E\.'r/A\i,_,fro,230,VERcjg,VERcjg,indfut1,souffrir,DMF,souffrir,"Alexis, l. 230",,
 1824,230,6,l,l,L,l,L/\,+,fro,230,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 230",,
 1825,230,7,ahan,ahan,AhAn,a.h.a.n,/A\.'h/A\n,.,fro,230,NOMcom,NOMcom,smr,ahan,DMF,ahan,"Alexis, l. 230",</q></l></lg>,
-1826,231,1,Dunc,dunc,dONK,d.u.n.c,d/O\NK,|,fro,231,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 231",,<lg n=&quot;47&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;231&quot;>
+1826,231,1,Dunc,dunc,dONK,d.u.n.c,d/O\NK,|,fro,231,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 231",,<lg n=&quot;47&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;231&quot;>
 1827,231,2,le,le,LE,l.e,L/(E)\,_,fro,231,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 231",,<lb/>
 1828,231,3,menat,menat,mEnað,m.e.n.a.t,m/E\.'n/a\ð,_,fro,231,VERcjg,VERcjg,indpsp3,mener,DMF,mener,"Alexis, l. 231",,
 1829,231,4,andreit,andreit,ÆNdrEiT,a.n.d.r.e.i.t,/Æ\N.'dr/E\iT,_,fro,231,ADVgen,ADVgen,,endroit,DMF,endroit,"Alexis, l. 231",,
@@ -1862,7 +1862,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1861,235,7,puet,puet,puET,p.u.e.t,p/uE\T,_,fro,235,VERcjg,VERcjg,indpst3,pouvoir,DMF,pouvoir,"Alexis, l. 235",,
 1862,235,8,hom,hom,Om,ho.m,/O\m,_,fro,235,PRNind,PRNind,smn,on,DMF,on,"Alexis, l. 235",,
 1863,235,9,blasmer,blasmer,bLASmær,b.l.a.s.m.e.r,bL/A\S.'m/æ\r,.,fro,235,VERinf,VERinf,,blâmer,DMF,blâmer,"Alexis, l. 235",</l></lg>,
-1864,236,1,Souent,sovent,SuvENT,s.o.v.e.n.t,S/u\.'v/E\NT,_,fro,236,ADVgen,ADVgen,,souvent,DMF,souvent,"Alexis, l. 236",,<lg n=&quot;48&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;236&quot;>
+1864,236,1,Souent,sovent,SuvENT,s.o.v.e.n.t,S/u\.'v/E\NT,_,fro,236,ADVgen,ADVgen,,souvent,DMF,souvent,"Alexis, l. 236",,<lg n=&quot;48&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;236&quot;>
 1865,236,2,le,le,LE,l.e,L/(E)\,_,fro,236,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 236",,
 1866,236,3,uirent,virent,virəNT,v.i.r.e.n.t,'v/i\.r/ə\NT,_,fro,236,VERcjg,VERcjg,indpsp6,voir,DMF,voir,"Alexis, l. 236",,
 1867,236,4,e,e,e,e,/e\,+,fro,236,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 236",,
@@ -1904,7 +1904,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1903,240,7,terre,terre,tɛrrə,t.e.r.r.e,'t/ɛ\r.r/(ə)\,_,fro,240,NOMcom,NOMcom,sfr,terre,DMF,terre,"Alexis, l. 240",,
 1904,240,8,il,il,iL,i.l,/i\L,_,fro,240,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 240",,
 1905,240,9,eret,eret,ærəð,e.r.e.t,'/æ\.r/ə\ð,.,fro,240,VERcjg,VERcjg,indipf3,être,DMF,être,"Alexis, l. 240",</l></lg>,
-1906,241,1,Souentes,soventes,SuvENtəS,s.o.v.e.n.t.e.s,S/u\.'v/E\N.t/ə\S,_,fro,241,ADJind,ADJind,pfr,souvent,DMF,souvent,"Alexis, l. 241",,<lg n=&quot;49&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;241&quot;>
+1906,241,1,Souentes,soventes,SuvENtəS,s.o.v.e.n.t.e.s,S/u\.'v/E\N.t/ə\S,_,fro,241,ADJind,ADJind,pfr,souvent,DMF,souvent,"Alexis, l. 241",,<lg n=&quot;49&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;241&quot;>
 1907,241,2,feiz,feiz,fEiÇ,f.e.i.z,f/E\iÇ,_,fro,241,NOMcom,NOMcom,pfr,fois,DMF,fois,"Alexis, l. 241",,
 1908,241,3,lur,lur,Lur,l.u.r,L/u\r,_,fro,241,PRCper,PRCper,6pmi,leur,DMF,leur,"Alexis, l. 241",,
 1909,241,4,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,241,VERcjg,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 241",,
@@ -1941,7 +1941,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1940,245,6,issi,issi,isi,i.ss.i,/i\.'s/i\,_,fro,245,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 245",,
 1941,245,7,est,est,EST,e.s.t,/E\ST,|,fro,245,VERcjg,VERcjg,indpst3,être,DMF,être,"Alexis, l. 245",,
 1942,245,8,aturnet,aturnet,Aturnæð,a.t.u.r.n.e.t,/A\.t/u\r.'n/æ\ð,.,fro,245,VERppe,VERppe,smr,atourner,DMF,atourner,"Alexis, l. 245",</l></lg>,<lb/>
-1943,246,1,Soz,soz,SuTS,s.o.z.,S/u\TS,_,fro,246,PRE,PRE,,sous,DMF,sous,"Alexis, l. 246",,<lg n=&quot;50&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;246&quot;>
+1943,246,1,Soz,soz,SuTS,s.o.z.,S/u\TS,_,fro,246,PRE,PRE,,sous,DMF,sous,"Alexis, l. 246",,<lg n=&quot;50&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;246&quot;>
 1944,246,2,le,le,LE,l.e,L/(E)\,_,fro,246,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 246",,
 1945,246,3,degret,degret,dEgræð,d.e.g.r.e.t,d/E\.'gr/æ\ð,_,fro,246,NOMcom,NOMcom,smr,degré,DMF,degré,"Alexis, l. 246",,
 1946,246,4,ou,ou,ou,o.u,/o\u,_,fro,246,PRNrel,PRNrel,,où,DMF,où,"Alexis, l. 246",,
@@ -1983,7 +1983,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1982,250,5,tut,tut,tuT,t.u.t,t/u\T,_,fro,250,DETind,DETind,smr,tout,DMF,tout,"Alexis, l. 250",,
 1983,250,6,sun,sun,SON,s.u.n,S/O\N,_,fro,250,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 250",,
 1984,250,7,linage,linage,Linaʤə,l.i.n.a.g.e,L/i\.'n/a\.ʤ/(ə)\,.|,fro,250,NOMcom,NOMcom,smr,lignage,DMF,lignage,"Alexis, l. 250",</l></lg>,
-1985,251,1,De,de,dE,d.e,d/(E)\,_,fro,251,PRE,PRE,,de,DMF,de,"Alexis, l. 251",,<lb/><lg n=&quot;51&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;251&quot;>
+1985,251,1,De,de,dE,d.e,d/(E)\,_,fro,251,PRE,PRE,,de,DMF,de,"Alexis, l. 251",,<lb/><lg n=&quot;51&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;251&quot;>
 1986,251,2,la,la,La,l.a,L/(a)\,_,fro,251,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 251",,
 1987,251,3,uiande,viande,viANdə,v.i.a.n.d.e,v/i\.'/A\N.d/(ə)\,_,fro,251,NOMcom,NOMcom,sfr,viande,DMF,viande,"Alexis, l. 251",,
 1988,251,4,ki,ki,ki,k.i,k/i\,_,fro,251,PRNrel,PRNrel,sfn,qui,DMF,qui,"Alexis, l. 251",,
@@ -2018,7 +2018,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2017,254,6,sun,sun,SON,s.u.n,S/O\N,_,fro,254,DETpos,DETpos,3smr,son4,DMF,son4,"Alexis, l. 254",,
 2018,254,7,cors,cors,kɔrS,c.o.r.s,k/ɔ\rS,_,fro,254,NOMcom,NOMcom,smr,corps,DMF,corps,"Alexis, l. 254",,
 2019,254,8,engraisser,engraisser,ÆNgrAiser,e.n.g.r.a.i.ss.e.r,/Æ\N.gr/A\i.'s/e\r,.,fro,254,VERinf,VERinf,,engraisser,DMF,engraisser,"Alexis, l. 254",</l><l n=&quot;255&quot;><gap unit=&quot;line&quot; reason=&quot;missing&quot;/></l></lg>,
-2020,255,1,En,en,ÆN,e.n,/Æ\N,+,fro,256,PRE,PRE,,en,DMF,en,"Alexis, l. 256",,<lg n=&quot;52&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;256&quot;>
+2020,255,1,En,en,ÆN,e.n,/Æ\N,+,fro,256,PRE,PRE,,en,DMF,en,"Alexis, l. 256",,<lg n=&quot;52&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;256&quot;>
 2021,255,2,sainte,sainte,SAiNtə,s.a.i.n.t.e,'S/A\iN.t/(ə)\,_,fro,256,ADJqua,ADJqua,sfr,saint,DMF,saint,"Alexis, l. 256",,
 2022,255,3,eglise,eglise,EgLizə,e.g.l.i.s.e,/E\.'gL/i\.z/(ə)\,_,fro,256,NOMcom,NOMcom,sfr,église,DMF,église,"Alexis, l. 256",,
 2023,255,4,conuerset,converset,kONvɛrSəð,c.o.n.v.e.r.s.e.t,k/O\N.'v/ɛ\r.S/ə\ð,_,fro,256,VERcjg,VERcjg,indpst3,converser,DMF,converser,"Alexis, l. 256",,
@@ -2050,7 +2050,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2049,259,6,en,en,ÆN,e.n,/Æ\N,_,fro,260,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 260",,
 2050,259,7,uolt,volt,vOLT,v.o.l.t,v/O\LT,_,fro,260,VERcjg,VERcjg,indpst3|indpsp3,vouloir,DMF,vouloir,"Alexis, l. 260",,
 2051,259,8,esluiner,esluiner,ESLOiɲer,e.s.l.u.i.n.e.r,/E\.SL/O\i.'ɲ/e\r,.,fro,260,VERinf,VERinf,,éloigner,DMF,éloigner,"Alexis, l. 260",</l></lg>,
-2052,260,1,Suz,suz,SuTS,s.u.z.,S/u\TS,_,fro,261,PRE,PRE,,sous,DMF,sous,"Alexis, l. 261",,<lg n=&quot;53&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;261&quot;>
+2052,260,1,Suz,suz,SuTS,s.u.z.,S/u\TS,_,fro,261,PRE,PRE,,sous,DMF,sous,"Alexis, l. 261",,<lg n=&quot;53&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;261&quot;>
 2053,260,2,le,le,LE,l.e,L/(E)\,_,fro,261,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 261",,
 2054,260,3,degret,degret,dEgræð,d.e.g.r.e.t,d/E\.'gr/æ\ð,_,fro,261,NOMcom,NOMcom,smr,degré,DMF,degré,"Alexis, l. 261",,
 2055,260,4,ou,ou,ou,o.u,/o\u,_,fro,261,PRNrel,PRNrel,,où,DMF,où,"Alexis, l. 261",,
@@ -2088,7 +2088,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2087,264,8,s,s,S,s,S/\,_,fro,265,PRCper,PRCper,6pma,le,DMF,le,"Alexis, l. 265",,
 2088,264,9,en,en,ÆN,e.n,/Æ\N,_,fro,265,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 265",,
 2089,264,10,apelet,apelet,ApɛLəð,a.p.e.l.e.t,/A\.'p/ɛ\.L/ə\ð,.,fro,265,VERcjg,VERcjg,indpst3,appeler,DMF,appeler,"Alexis, l. 265",</l></lg>,
-2090,265,1,Tuz,tuz,tuTS,t.u.z.,t/u\TS,_,fro,266,PRNind,PRNind,pmr,tout,DMF,tout,"Alexis, l. 266",,<lg n=&quot;54&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;266&quot;>
+2090,265,1,Tuz,tuz,tuTS,t.u.z.,t/u\TS,_,fro,266,PRNind,PRNind,pmr,tout,DMF,tout,"Alexis, l. 266",,<lg n=&quot;54&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;266&quot;>
 2091,265,2,l,l,L,l,L/\,+,fro,266,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 266",,
 2092,265,3,e_scarnissent,escarnissent,ESċArnisəNT,e.s.c.a.r.n.i.ss.e.n.t,/E\S.ċ/A\r.'n/i\.s/ə\NT,_,fro,266,VERcjg,VERcjg,indpst6,escharnir,DMF,escharnir,"Alexis, l. 266",,
 2093,265,4,si,si,Si,s.i,S/i\,+,fro,266,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 266",,
@@ -2128,7 +2128,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2127,269,6,seuent,sevent,SævəNT,s.e.v.e.n.t,'S/æ\.v/ə\NT,_,fro,270,VERcjg,VERcjg,indpst6,savoir,DMF,savoir,"Alexis, l. 270",,
 2128,269,7,que,que,kE,qu.e,k/(E)\,_,fro,270,PRNrel,PRNrel,snr,que,DMF,que,"Alexis, l. 270",,
 2129,269,8,funt,funt,fONT,f.u.n.t,f/O\NT,.,fro,270,VERcjg,VERcjg,indpst6,faire,DMF,faire,"Alexis, l. 270",</l></lg>,
-2130,270,1,Iloc,iloc,iLoK,i.l.o.c,/i\.'L/o\K,_,fro,271,ADVgen,ADVgen,,illuec,DMF,illuec,"Alexis, l. 271",,<lg n=&quot;55&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;271&quot;>
+2130,270,1,Iloc,iloc,iLoK,i.l.o.c,/i\.'L/o\K,_,fro,271,ADVgen,ADVgen,,illuec,DMF,illuec,"Alexis, l. 271",,<lg n=&quot;55&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;271&quot;>
 2131,270,2,conuerset,converset,kONvɛrSəð,c.o.n.v.e.r.s.e.t,k/O\N.'v/ɛ\r.S/ə\ð,_,fro,271,VERcjg,VERcjg,indpst3,converser,DMF,converser,"Alexis, l. 271",,
 2132,270,3,eisi,eisi,Eizi,e.i.s.i,/E\i.'z/i\,_,fro,271,ADVgen,ADVgen,,ainsi,DMF,ainsi,"Alexis, l. 271",,
 2133,270,4,dis,dis,diS,d.i.s,d/i\S,_,fro,271,DETcar,DETcar,pmr,dix,DMF,dix,"Alexis, l. 271",,
@@ -2149,7 +2149,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2148,272,6,les,les,LES,l.e.s,L/E\S,_,fro,273,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 273",,<lb/>
 2149,272,7,sons,sons,SONS,s.o.n.s,S/O\NS,_,fro,273,ADJpos,ADJpos,3pmr,son4,DMF,son4,"Alexis, l. 273",,
 2150,272,8,ahanz,ahanz,AhANÇ,a.h.a.n.z,/A\.'h/A\NÇ,.|,fro,273,NOMcom,NOMcom,pmr,ahan,DMF,ahan,"Alexis, l. 273",</l><l n=&quot;274&quot;><gap unit=&quot;line&quot; reason=&quot;missing&quot;/></l><l n=&quot;275&quot;><gap unit=&quot;line&quot; reason=&quot;missing&quot;/></l></lg>,
-2151,273,1,Trente,trente,trENtə,t.r.e.n.t.e,'tr/E\N.t/(ə)\,_,fro,276,DETcar,DETcar,pmr,trente,DMF,trente,"Alexis, l. 276",,<lb/><lg n=&quot;56&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;276&quot;>
+2151,273,1,Trente,trente,trENtə,t.r.e.n.t.e,'tr/E\N.t/(ə)\,_,fro,276,DETcar,DETcar,pmr,trente,DMF,trente,"Alexis, l. 276",,<lb/><lg n=&quot;56&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;276&quot;>
 2152,273,2,quatre,quatre,katrə,qu.a.t.r.e,'k/a\.tr/(ə)\,_,fro,276,DETcar,DETcar,pmr,quatre,DMF,quatre,"Alexis, l. 276",,
 2153,273,3,anz,anz,ANÇ,a.n.z,/A\NÇ,_,fro,276,NOMcom,NOMcom,pmr,an,DMF,an,"Alexis, l. 276",,
 2154,273,4,ad,ad,að,a.d,/a\ð,_,fro,276,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 276",,
@@ -2186,7 +2186,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2185,277,5,a,a,a,a,/a\,+,fro,280,PRE,PRE,,à,DMF,à,"Alexis, l. 280",,
 2186,277,6,sei,sei,SEi,s.e.i,S/E\i,_,fro,280,PRNper,PRNper,3smr,soi,DMF,soi,"Alexis, l. 280",,
 2187,277,7,apelet,apelet,ApELæð,a.p.e.l.e.t,/A\.p/E\.'L/æ\ð,.,fro,280,VERppe,VERppe,smr,appeler,DMF,appeler,"Alexis, l. 280",</l></lg>,
-2188,278,1,Quer,quer,kɛr,qu.e.r,k/ɛ\r,_,fro,281,VERcjg,VERcjg,imp---2,quérir,DMF,quérir,"Alexis, l. 281",,<lg n=&quot;57&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;281&quot;><q>
+2188,278,1,Quer,quer,kɛr,qu.e.r,k/ɛ\r,_,fro,281,VERcjg,VERcjg,imp---2,quérir,DMF,quérir,"Alexis, l. 281",,<lg n=&quot;57&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;281&quot;><q>
 2189,278,2,mei,mei,mEi,m.e.i,m/E\i,_,fro,281,PRCper,PRCper,1smr,moi,DMF,moi,"Alexis, l. 281",,
 2190,278,3,bel,bel,bɛL,b.e.l,b/ɛ\L,_,fro,281,ADJqua,ADJqua,smr,beau,DMF,beau,"Alexis, l. 281",,
 2191,278,4,frere,frere,frærə,f.r.e.r.e,'fr/æ\.r/(ə)\,|,fro,281,NOMcom,NOMcom,smr,frère,DMF,frère,"Alexis, l. 281",,
@@ -2224,7 +2224,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2223,282,8,s,s,S,s,S/\,+,fro,285,PRCper,PRCper,3smr,se,DMF,se,"Alexis, l. 285",,
 2224,282,9,en,en,ÆN,e.n,/Æ\N,_,fro,285,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 285",,
 2225,282,10,reuint,revint,rEviNT,r.e.v.i.n.t,r/E\.'v/i\NT,.,fro,285,VERcjg,VERcjg,indpsp3,revenir,DMF,revenir,"Alexis, l. 285",</l></lg>,
-2226,283,1,Tres,tres,træS,t.r.e.s,tr/æ\S,_,fro,286,PRE,PRE,,très,DMF,très,"Alexis, l. 286",,<lg n=&quot;58&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;286&quot;>
+2226,283,1,Tres,tres,træS,t.r.e.s,tr/æ\S,_,fro,286,PRE,PRE,,très,DMF,très,"Alexis, l. 286",,<lg n=&quot;58&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;286&quot;>
 2227,283,2,sei,sei,SEi,s.e.i,S/E\i,_,fro,286,PRNper,PRNper,3smr,soi,DMF,soi,"Alexis, l. 286",,
 2228,283,3,la,la,La,l.a,L/(a)\,_,fro,286,PRCper,PRCper,3sfa,le,DMF,le,"Alexis, l. 286",,
 2229,283,4,tint,tint,tiNT,t.i.n.t,t/i\NT,_,fro,286,VERcjg,VERcjg,indpsp3,tenir,DMF,tenir,"Alexis, l. 286",,
@@ -2261,7 +2261,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2260,287,6,de,de,dE,d.e,d/(E)\,+,fro,290,PRE,PRE,,de,DMF,de,"Alexis, l. 290",,
 2261,287,7,l,l,L,l,/\L,+,fro,290,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 290",,
 2262,287,8,par|ler,parler,pArLær,p.a.r.l.e.r,p/A\r.'L/æ\r,.,fro,290,VERinf,NOMcom,smr,parler,DMF,parler,"Alexis, l. 290",</l></lg>,
-2263,288,1,An,an,ÆN,a.n,/Æ\N,_,fro,291,PRE,PRE,,en,DMF,en,"Alexis, l. 291",,<lb/><lg n=&quot;59&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;291&quot;>
+2263,288,1,An,an,ÆN,a.n,/Æ\N,_,fro,291,PRE,PRE,,en,DMF,en,"Alexis, l. 291",,<lb/><lg n=&quot;59&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;291&quot;>
 2264,288,2,la,la,La,l.a,L/(a)\,_,fro,291,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 291",,
 2265,288,3,sameine,sameine,SEmEinə,s.a.m.e.i.n.e,S/E\.'m/E\i.n/(ə)\,_,fro,291,NOMcom,NOMcom,sfr,semaine,DMF,semaine,"Alexis, l. 291",,
 2266,288,4,qued,qued,kEð,qu.e.d,k/E\ð,_,fro,291,PRNrel,PRNrel,sfr,que,DMF,que,"Alexis, l. 291",,
@@ -2301,7 +2301,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2300,292,7,li,li,Li,l.i,L/i\,_,fro,295,PRCper,PRCper,3smi,li,DMF,li,"Alexis, l. 295",,
 2301,292,8,uolt,volt,voLT,v.o.l.t,v/o\LT,_,fro,295,VERcjg,VERcjg,indpst3,vouloir,DMF,vouloir,"Alexis, l. 295",,
 2302,292,9,duner,duner,dOnær,d.u.n.e.r,d/O\.'n/æ\r,_,fro,295,VERinf,VERinf,,donner,DMF,donner,"Alexis, l. 295",</l></lg>,
-2303,293,1,En,en,ÆN,e.n,/Æ\N,+,fro,296,PRE,PRE,,en,DMF,en,"Alexis, l. 296",,<lg n=&quot;60&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;296&quot;>
+2303,293,1,En,en,ÆN,e.n,/Æ\N,+,fro,296,PRE,PRE,,en,DMF,en,"Alexis, l. 296",,<lg n=&quot;60&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;296&quot;>
 2304,293,2,l,l,L,l,L/\,+,fro,296,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 296",,
 2305,293,3,altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/(ə)\,|,fro,296,ADJind,ADJind,sfr,autre,DMF,autre,"Alexis, l. 296",,
 2306,293,4,uoiz,voiz,vuiÇ,v.o.i.z,v/u\iÇ,_,fro,296,NOMcom,NOMcom,sfr,voix,DMF,voix,"Alexis, l. 296",,<pb n=&quot;32r&quot;/><lb/>
@@ -2341,7 +2341,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2340,297,6,en,en,ÆN,e.n,/Æ\N,_,fro,300,PRE,PRE,,en,DMF,en,"Alexis, l. 300",,
 2341,297,7,grant,grant,grANT,g.r.a.n.t,gr/A\NT,_,fro,300,ADJqua,ADJqua,smr,grand,DMF,grand,"Alexis, l. 300",,
 2342,297,8,dute,dute,dutə,d.u.t.e,'d/u\.t/(ə)\,.,fro,300,NOMcom,NOMcom,smr,doute,DMF,doute,"Alexis, l. 300",</l></lg>,
-2343,298,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,301,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 301",,<lg n=&quot;61&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;301&quot;>
+2343,298,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,301,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 301",,<lg n=&quot;61&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;301&quot;>
 2344,298,2,innocenz,innocenz,inOʦANTS,i.nn.o.c.e.n.z.,/i\.n/O\.'ʦ/A\NTS,|,fro,301,NOMpro,NOMpro,smn,Innocent,---,,"Alexis, l. 301",,
 2345,298,3,ert,ert,ærT,e.r.t,/æ\rT,_,fro,301,VERcjg,VERcjg,indipf3,être,DMF,être,"Alexis, l. 301",,<lb/>
 2346,298,4,idunc,idunc,idONK,i.d.u.n.c,/i\.'d/O\NK,_,fro,301,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 301",,
@@ -2379,7 +2379,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2378,302,7,ne,ne,nE,n.e,n/(E)\,+,fro,305,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 305",,
 2379,302,8,s,s,S,s,/\S,_,fro,305,PRCper,PRCper,6pma,le,DMF,le,"Alexis, l. 305",,
 2380,302,9,anglutet,anglutet,ÆNgLOtəð,a.n.g.l.u.t.e.t,/Æ\N.'gL/O\.t/ə\ð,.,fro,305,VERcjg,VERcjg,subpst3,engloutir,DMF,engloutir,"Alexis, l. 305",</l></lg>,
-2381,303,1,Li,li,Li,l.i,L/i\,_,fro,306,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 306",,<lg n=&quot;62&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;306&quot;>
+2381,303,1,Li,li,Li,l.i,L/i\,_,fro,306,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 306",,<lg n=&quot;62&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;306&quot;>
 2382,303,2,apostolie,apostolie,ApOStɔLiə,a.p.o.s.t.o.l.i.e,/A\.p/O\S.'t/ɔ\L.i/(ə)\,_,fro,306,NOMcom,NOMcom,smr,apostole,DMF,apostole,"Alexis, l. 306",,
 2383,303,3,e,e,e,e,/e\,+,fro,306,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 306",,
 2384,303,4,li,li,Li,l.i,L/i\,_,fro,306,DETdef,DETdef,pmn,le,DMF,le,"Alexis, l. 306",,
@@ -2414,7 +2414,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2413,307,6,qui,qui,ki,qu.i,k/i\,_,fro,310,PRNrel,PRNrel,smr,qui,DMF,qui,"Alexis, l. 310",,
 2414,307,7,il,il,iL,i.l,/i\L,_,fro,310,PRNper,PRNper,6pmn,il,DMF,il,"Alexis, l. 310",,
 2415,307,8,guarirunt,guarirunt,guArirONT,g.u.a.r.i.r.u.n.t,gu/A\.r/i\.'r/O\NT,.,fro,310,VERcjg,VERcjg,indfut6,guérir,DMF,guérir,"Alexis, l. 310",</l></lg>,
-2416,308,1,Co,co,Çɔ,c.o,Ç/ɔ\,+,fro,311,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 311",,<lg n=&quot;63&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;311&quot;>
+2416,308,1,Co,co,Çɔ,c.o,Ç/ɔ\,+,fro,311,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 311",,<lg n=&quot;63&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;311&quot;>
 2417,308,2,li,li,Li,l.i,L/i\,_,fro,311,PRCper,PRCper,3smi,li,DMF,li,"Alexis, l. 311",,
 2418,308,3,deprient,deprient,dEpriəNT,d.e.p.r.i.e.n.t,d/E\.'pr/i\./ə\NT,_,fro,311,VERcjg,VERcjg,indpst6,déprier,DMF,déprier,"Alexis, l. 311",,
 2419,308,4,la,la,La,l.a,L/(a)\,_,fro,311,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 311",,
@@ -2446,7 +2446,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2445,312,5,iloc,iloc,iLoK,i.l.o.c,/i\.'L/o\K,|,fro,315,ADVgen,ADVgen,,illuec,DMF,illuec,"Alexis, l. 315",,
 2446,312,6,le,le,LE,l.e,L/(E)\,_,fro,315,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 315",,<lb/>
 2447,312,7,trouereiz,trovereiz,truvEræTS,t.r.o.v.e.r.ei.z.,tr/u\.v/E\.'r/æ\TS,.,fro,315,VERcjg,VERcjg,indfut5,trouver,DMF,trouver,"Alexis, l. 315",</q></l></lg>,
-2448,313,1,Tuz,tuz,tuTS,t.u.z.,t/u\TS,_,fro,316,PRNind,PRNind,pmr,tout,DMF,tout,"Alexis, l. 316",,<lg n=&quot;64&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;316&quot;>
+2448,313,1,Tuz,tuz,tuTS,t.u.z.,t/u\TS,_,fro,316,PRNind,PRNind,pmr,tout,DMF,tout,"Alexis, l. 316",,<lg n=&quot;64&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;316&quot;>
 2449,313,2,s,s,S,s,S/\,+,fro,316,PRCper,PRCper,6pmr,se,DMF,se,"Alexis, l. 316",,
 2450,313,3,en,en,ÆN,e.n,/Æ\N,_,fro,316,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 316",,
 2451,313,4,returnent,returnent,rEturnəNT,r.e.t.u.r.n.e.n.t,r/E\.'t/u\r.n/ə\NT,_,fro,316,VERcjg,VERcjg,indpst6,retourner,DMF,retourner,"Alexis, l. 316",,
@@ -2481,7 +2481,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2480,317,7,as,as,aS,a.s,/a\S,_,fro,320,VERcjg,VERcjg,indpst2,avoir,DMF,avoir,"Alexis, l. 320",,
 2481,317,8,grant,grant,grANT,g.r.a.n.t,gr/A\NT,|,fro,320,ADJqua,ADJqua,smr,grand,DMF,grand,"Alexis, l. 320",,
 2482,317,9,pechet,pechet,pEċeð,p.e.ch.e.t,p/E\.'ċ/e\ð,.,fro,320,NOMcom,NOMcom,smr,péché,DMF,péché,"Alexis, l. 320",</q></l></lg>,<lb/>
-2483,318,1,Il,il,iL,i.l,/i\L,_,fro,321,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 321",,<lg n=&quot;65&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;321&quot;>
+2483,318,1,Il,il,iL,i.l,/i\L,_,fro,321,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 321",,<lg n=&quot;65&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;321&quot;>
 2484,318,2,l,l,L,l,L/\,_,fro,321,PRCper,PRCper,3sna,le,DMF,le,"Alexis, l. 321",,
 2485,318,3,e_scondit,escondit,ESkONdið,e.s.c.o.n.d.i.t,/E\S.k/O\N.'d/i\ð,_,fro,321,VERcjg,VERcjg,indpst3,escondire,DMF,escondire,"Alexis, l. 321",,
 2486,318,4,cume,cume,kOmə,c.u.m.e,'k/O\.m/(ə)\,_,fro,321,CONsub,CONsub,,comme,DMF,comme,"Alexis, l. 321",,
@@ -2522,7 +2522,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2521,322,7,ne,ne,nE,n.e,n/(E)\,+,fro,325,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 325",,
 2522,322,8,l,l,L,l,/\L,_,fro,325,PRCper,PRCper,3sna,le,DMF,le,"Alexis, l. 325",,
 2523,322,9,set,set,SæT,s.e.t,S/æ\T,.|,fro,325,VERcjg,VERcjg,indpst3,savoir,DMF,savoir,"Alexis, l. 325",</l></lg>,
-2524,323,1,Li,li,Li,l.i,L/i\,_,fro,326,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 326",,<lb/><lg n=&quot;66&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;326&quot;>
+2524,323,1,Li,li,Li,l.i,L/i\,_,fro,326,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 326",,<lb/><lg n=&quot;66&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;326&quot;>
 2525,323,2,apostolie,apostolie,ApOStɔLiə,a.p.o.s.t.o.l.i.e,/A\.p/O\S.'t/ɔ\L.i/(ə)\,_,fro,326,NOMcom,NOMcom,smr,apostole,DMF,apostole,"Alexis, l. 326",,
 2526,323,3,e,e,e,e,/e\,+,fro,326,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 326",,
 2527,323,4,li,li,Li,l.i,L/i\,_,fro,326,DETdef,DETdef,pmn,le,DMF,le,"Alexis, l. 326",,
@@ -2556,7 +2556,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2555,327,6,qui,qui,ki,qu.i,k/i\,_,fro,330,PRNrel,PRNrel,smr,qui,DMF,qui,"Alexis, l. 330",,
 2556,327,7,il,il,iL,i.l,/i\L,_,fro,330,PRNper,PRNper,6pmn,il,DMF,il,"Alexis, l. 330",,
 2557,327,8,guarirunt,guarirunt,guArirONT,g.u.a.r.i.r.u.n.t,gu/A\.r/i\.'r/O\NT,.,fro,330,VERcjg,VERcjg,indfut6,guérir,DMF,guérir,"Alexis, l. 330",</l></lg>,
-2558,328,1,An,an,ÆN,a.n,/Æ\N,_,fro,331,PRE,PRE,,en,DMF,en,"Alexis, l. 331",,<lg n=&quot;67&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;331&quot;>
+2558,328,1,An,an,ÆN,a.n,/Æ\N,_,fro,331,PRE,PRE,,en,DMF,en,"Alexis, l. 331",,<lg n=&quot;67&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;331&quot;>
 2559,328,2,tant,tant,tANT,t.a.n.t,t/A\NT,_,fro,331,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 331",,
 2560,328,3,de|mentres,dementres,dEmENtrəS,d.e.m.e.n.t.r.e.s,d/E\.'m/E\N.tr/ə\S,_,fro,331,ADVgen,ADVgen,,dementre,TL,,"Alexis, l. 331",,
 2561,328,4,cum,cum,kOm,c.u.m,k/O\m,_,fro,331,CONsub,CONsub,,comme,DMF,comme,"Alexis, l. 331",,<lb/>
@@ -2594,7 +2594,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2593,332,6,i,i,i,i,/i\,+,fro,335,PRCadv,PRCadv,,y2,DMF,y2,"Alexis, l. 335",,
 2594,332,7,fai,fai,fAi,f.a.i,f/A\i,_,fro,335,VERcjg,VERcjg,imp---2,faire,DMF,faire,"Alexis, l. 335",,
 2595,332,8,uenir,venir,vEnir,v.e.n.i.r,v/E\.'n/i\r,.,fro,335,VERinf,VERinf,,venir,DMF,venir,"Alexis, l. 335",</l></lg>,
-2596,333,1,Li,li,Li,l.i,L/i\,+,fro,336,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 336",,<lg n=&quot;68&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;336&quot;>
+2596,333,1,Li,li,Li,l.i,L/i\,+,fro,336,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 336",,<lg n=&quot;68&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;336&quot;>
 2597,333,2,boens,boens,buENS,b.o.e.n.s,b/uE\NS,_,fro,336,ADJqua,ADJqua,smn,bon,DMF,bon,"Alexis, l. 336",,
 2598,333,3,serganz,serganz,SErʤANTS,s.e.r.g.a.n.z.,S/E\r.'ʤ/A\NTS,_,fro,336,NOMcom,NOMcom,smn,sergent,DMF,sergent,"Alexis, l. 336",,
 2599,333,4,ki,ki,ki,k.i,k/i\,+,fro,336,PRNrel,PRNrel,smn,qui,DMF,qui,"Alexis, l. 336",,
@@ -2630,7 +2630,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2629,337,7,fut,fut,fyð,f.u.t,f/y\ð,_,fro,340,VERcjg,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 340",,<lb/>
 2630,337,8,bons,bons,bONS,b.o.n.s,b/O\NS,_,fro,340,ADJqua,ADJqua,smn,bon,DMF,bon,"Alexis, l. 340",,
 2631,337,9,cristiens,cristiens,kriStiENS,c.r.i.s.t.i.e.n.s,kr/i\S.t/i\.'/E\NS,.,fro,340,NOMcom,NOMcom,smn,chrétien,DMF,chrétien,"Alexis, l. 340",</q></l></lg>,
-2632,338,1,Mult,mult,muLT,m.u.l.t,m/u\LT,_,fro,341,ADVgen,ADVgen,,moult,DMF,moult,"Alexis, l. 341",,<lg n=&quot;69&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;341&quot;><q>
+2632,338,1,Mult,mult,muLT,m.u.l.t,m/u\LT,_,fro,341,ADVgen,ADVgen,,moult,DMF,moult,"Alexis, l. 341",,<lg n=&quot;69&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;341&quot;><q>
 2633,338,2,lungament,lungament,LONġEmENT,l.u.n.g.a.m.e.n.t,L/O\N.ġ/E\.'m/E\NT,_,fro,341,ADVgen,ADVgen,,longuement2,DMF,longuement2,"Alexis, l. 341",,
 2634,338,3,ai,ai,Ai,a.i,/A\i,_,fro,341,VERcjg,VERcjg,indpst1,avoir,DMF,avoir,"Alexis, l. 341",,
 2635,338,4,a,a,a,a,/a\,+,fro,341,PRE,PRE,,à,DMF,à,"Alexis, l. 341",,
@@ -2672,7 +2672,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2671,342,8,suz,suz,SuTS,s.u.z.,S/u\TS,_,fro,345,PRE,PRE,,sous,DMF,sous,"Alexis, l. 345",,
 2672,342,9,lu,lu,Lu,l.u,L/(u)\,+,fro,345,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 345",,
 2673,342,10,de|gret,degret,dEgræð,d.e.g.r.e.t,d/E\.'gr/æ\ð,.,fro,345,NOMcom,NOMcom,smr,degré,DMF,degré,"Alexis, l. 345",</l></lg>,
-2674,343,1,Les,les,LES,l.e.s,L/E\S,_,fro,346,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 346",,<lb/><lg n=&quot;70&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;346&quot;>
+2674,343,1,Les,les,LES,l.e.s,L/E\S,_,fro,346,DETdef,DETdef,pmr,le,DMF,le,"Alexis, l. 346",,<lb/><lg n=&quot;70&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;346&quot;>
 2675,343,2,dras,dras,drAS,d.r.a.s,dr/A\S,_,fro,346,NOMcom,NOMcom,pmr,drap,DMF,drap,"Alexis, l. 346",,
 2676,343,3,suzleuet,suzlevet,SuTSLɛvəð,s.u.z..l.e.v.e.t,S/u\TS.'L/ɛ\.v/ə\ð,_,fro,346,VERcjg,VERcjg,indpst3,soulever,DMF,soulever,"Alexis, l. 346",,
 2677,343,4,dum,dum,dOm,d.u.m,d/O\m,_,fro,346,PRNrel,PRNrel,pmr,dont,DMF,dont,"Alexis, l. 346",,
@@ -2704,7 +2704,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2703,346,3,saueir,saveir,SAvEir,s.a.v.e.i.r,S/A\.'v/E\ir,_,fro,350,VERinf,VERinf,,savoir,DMF,savoir,"Alexis, l. 349",,
 2704,346,4,quet,quet,kEð,qu.e.d,k/E\ð,_,fro,350,PRNrel,PRNrel,snr,que,DMF,que,"Alexis, l. 349",,
 2705,346,5,espelt,espelt,ESpɛLT,e.s.p.e.l.t,/E\S.'p/ɛ\LT,.,fro,350,VERcjg,VERcjg,indpst3,épelir,DMF,épelir,"Alexis, l. 349",</l></lg>,
-2706,347,1,Il,il,iL,i.l,/i\L,+,fro,351,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 351",,<lg n=&quot;71&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;351&quot;>
+2706,347,1,Il,il,iL,i.l,/i\L,+,fro,351,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 351",,<lg n=&quot;71&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;351&quot;>
 2707,347,2,la,la,La,l.a,L/(a)\,_,fro,351,PRCper,PRCper,3sfa,le,DMF,le,"Alexis, l. 351",,
 2708,347,3,uolt,volt,vOLT,v.o.l.t,v/O\LT,_,fro,351,VERcjg,VERcjg,indpst3|indpsp3,vouloir,DMF,vouloir,"Alexis, l. 351",,
 2709,347,4,prendra,prendra,prENdrə,p.r.e.n.d.r.a,'pr/E\N.dr/(ə)\,_,fro,351,VERinf,VERinf,,prendre,DMF,prendre,"Alexis, l. 351",,
@@ -2743,7 +2743,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2742,351,7,li,li,Li,l.i,L/i\,_,fro,355,PRCper,PRCper,3smi,li,DMF,li,"Alexis, l. 355",,
 2743,351,8,puis,puis,pyiS,p.u.i.s,p/y\iS,_,fro,355,VERcjg,VERcjg,indpst1,pouvoir,DMF,pouvoir,"Alexis, l. 355",,
 2744,351,9,tolir,tolir,tOLir,t.o.l.i.r,t/O\.'L/i\r,.,fro,355,VERinf,VERinf,,tolir,DMF,tolir,"Alexis, l. 355",</q></l></lg>,
-2745,352,1,Li,li,Li,l.i,L/i\,_,fro,356,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 356",,<lg n=&quot;72&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;356&quot;>
+2745,352,1,Li,li,Li,l.i,L/i\,_,fro,356,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 356",,<lg n=&quot;72&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;356&quot;>
 2746,352,2,apostolie,apostolie,ApOStɔLiə,a.p.o.s.t.o.l.i.e,/A\.p/O\S.'t/ɔ\L.i/(ə)\,_,fro,356,NOMcom,NOMcom,smr,apostole,DMF,apostole,"Alexis, l. 356",,
 2747,352,3,e,e,e,e,/e\,+,fro,356,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 356",,
 2748,352,4,li,li,Li,l.i,L/i\,_,fro,356,DETdef,DETdef,pmn,le,DMF,le,"Alexis, l. 356",,
@@ -2773,7 +2773,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2772,356,6,ne,ne,nE,n.e,n/(E)\,+,fro,360,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 360",,
 2773,356,7,n,n,N,n,/\N,_,fro,360,PRCper,PRCper,2smr,te,DMF,te,"Alexis, l. 360",,
 2774,356,8,conuissum,conuissum,kOnuisOm,c.o.n.u.i.ss.u.m,k/O\.n/u\i.'s/O\m,.,fro,360,VERcjg,VERcjg,indpst4,connaître,DMF,connaître,"Alexis, l. 360",</q></l></lg>,
-2775,357,1,Ci,ci,Çi,c.i,Ç/i\,+,fro,361,ADVgen,ADVgen,,ci,DMF,ci,"Alexis, l. 361",,<lg n=&quot;73&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;361&quot;><q>
+2775,357,1,Ci,ci,Çi,c.i,Ç/i\,+,fro,361,ADVgen,ADVgen,,ci,DMF,ci,"Alexis, l. 361",,<lg n=&quot;73&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;361&quot;><q>
 2776,357,2,deuant,devant,dEvANT,d.e.v.a.n.t,d/E\.'v/A\NT,_,fro,361,PRE,PRE,,devant,DMF,devant,"Alexis, l. 361",,
 2777,357,3,tei,tei,tEi,t.e.i,t/E\i,_,fro,361,PRNper,PRNper,2smr,toi,DMF,toi,"Alexis, l. 361",,
 2778,357,4,estunt,estunt,EStONT,e.s.t.u.n.t,/E\S.'t/O\NT,_,fro,361,VERcjg,VERcjg,indpst6,ester,DMF,ester,"Alexis, l. 361",,
@@ -2808,7 +2808,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2807,361,5,sumes,sumes,SOməS,s.u.m.e.s,'S/O\.m/ə\S,_,fro,365,VERcjg,VERcjg,indpst4,être,DMF,être,"Alexis, l. 365",,
 2808,361,6,tut,tut,tuT,t.u.t,t/u\T,|,fro,365,ADVgen,ADVgen,,tout,DMF,tout,"Alexis, l. 365",,
 2809,361,7,busuin[us],busuinus,buzOinuS,b.u.s.u.i.n.u.s,b/u\.z/O\i.'n/u\S,_,fro,365,ADJqua,ADJqua,pmn,besogneux,DMF,besogneux,"Alexis, l. 365",</q></l></lg>,<lb/>
-2810,362,1,Cist,cist,ÇiST,c.i.s.t,Ç/i\ST,_,fro,366,DETdem,DETdem,smn,cist,DMF,cist,"Alexis, l. 366",,<lg n=&quot;74&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;366&quot;><q>
+2810,362,1,Cist,cist,ÇiST,c.i.s.t,Ç/i\ST,_,fro,366,DETdem,DETdem,smn,cist,DMF,cist,"Alexis, l. 366",,<lg n=&quot;74&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;366&quot;><q>
 2811,362,2,apostolies,apostolies,ApOStɔLiəS,a.p.o.s.t.o.l.i.e.s,/A\.p/O\S.'t/ɔ\L.i/ə\S,_,fro,366,NOMcom,NOMcom,smn,apostole,DMF,apostole,"Alexis, l. 366",,
 2812,362,3,deit,deit,dEiT,d.e.i.t,d/E\iT,_,fro,366,VERcjg,VERcjg,indpst3,devoir,DMF,devoir,"Alexis, l. 366",,
 2813,362,4,les,les,LES,l.e.s,L/E\S,_,fro,366,DETdef,DETdef,pfr,le,DMF,le,"Alexis, l. 366",,
@@ -2846,7 +2846,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2845,366,7,en,en,ÆN,e.n,/Æ\N,_,fro,370,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 370",,
 2846,366,8,puisum,puisum,puisOm,p.u.i.s.u.m,p/u\i.'s/O\m,_,fro,370,VERcjg,VERcjg,subpst4,pouvoir,DMF,pouvoir,"Alexis, l. 370",,
 2847,366,9,grarir,grarir,grArir,g.r.a.r.i.r,gr/A\.'r/i\r,.,fro,370,VERinf,VERinf,,gräir,TL,,"Alexis, l. 370",</q></l></lg>,
-2848,367,1,Li,li,Li,l.i,L/i\,+,fro,371,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 371",,<lg n=&quot;75&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;371&quot;>
+2848,367,1,Li,li,Li,l.i,L/i\,+,fro,371,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 371",,<lg n=&quot;75&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;371&quot;>
 2849,367,2,aposto|lie,apostolie,ApOStɔLiə,a.p.o.s.t.o.l.i.e,/A\.p/O\S.'t/ɔ\L.i/(ə)\,_,fro,371,NOMcom,NOMcom,smr,apostole,DMF,apostole,"Alexis, l. 371",,
 2850,367,3,tent,tent,tENT,t.e.n.t,t/E\NT,_,fro,371,VERcjg,VERcjg,indpst3,tendre2,DMF,tendre2,"Alexis, l. 371",,<lb/>
 2851,367,4,sa,sa,Sa,s.a,S/(a)\,+,fro,371,DETpos,DETpos,3sfr,son4,DMF,son4,"Alexis, l. 371",,
@@ -2886,7 +2886,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2885,371,7,clerc,clerc,kLɛrK,c.l.e.r.c,kL/ɛ\rK,_,fro,375,NOMcom,NOMcom,smr,clerc,DMF,clerc,"Alexis, l. 375",,
 2886,371,8,e,e,e,e,/e\,+,fro,375,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 375",,
 2887,371,9,sauie,savie,Saviə,s.a.v.i.e,'S/a\.vi/(ə)\,.,fro,375,ADJqua,ADJqua,smr,sage,DMF,sage,"Alexis, l. 375",</l></lg>,
-2888,372,1,Li,li,Li,l.i,L/i\,_,fro,376,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 376",,<lg n=&quot;76&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;376&quot;>
+2888,372,1,Li,li,Li,l.i,L/i\,_,fro,376,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 376",,<lg n=&quot;76&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;376&quot;>
 2889,372,2,cancelers,cancelers,ċÆNÇELerS,c.a.n.c.e.l.e.r.s,ċ/Æ\N.Ç/E\.'L/e\rS,_,fro,376,NOMcom,NOMcom,smn,chancellier,DMF,chancellier,"Alexis, l. 376",,
 2890,372,3,cui,cui,kyi,c.u.i,k/y\i,_,fro,376,PRNrel,PRNrel,smr,qui,DMF,qui,"Alexis, l. 376",,
 2891,372,4,li,li,Li,l.i,L/i\,+,fro,376,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 376",,
@@ -2928,7 +2928,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2927,376,5,iloc,iloc,iLoK,i.l.o.c,/i\.'L/o\K,_,fro,380,ADVgen,ADVgen,,illuec,DMF,illuec,"Alexis, l. 380",,
 2928,376,6,unt,unt,ONT,u.n.t,/O\NT,_,fro,380,VERcjg,VERcjg,indpst6,avoir,DMF,avoir,"Alexis, l. 380",,
 2929,376,7,truuede,truvede,truvæðə,t.r.u.v.e.d.e,tr/u\.'v/æ\.ð/(ə)\,.,fro,380,VERppe,VERppe,sfr,trouver,DMF,trouver,"Alexis, l. 380",</l></lg>,
-2930,377,1,E,e,e,e,/e\,+,fro,381,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 381",,<lg n=&quot;77&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;381&quot;>
+2930,377,1,E,e,e,e,/e\,+,fro,381,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 381",,<lg n=&quot;77&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;381&quot;>
 2931,377,2,ćó,co,Çɔ,c.o,Ç/ɔ\,_,fro,381,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 381",,
 2932,377,3,lur,lur,Lur,l.u.r,L/u\r,_,fro,381,PRCper,PRCper,6pmi,leur,DMF,leur,"Alexis, l. 381",,
 2933,377,4,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,381,VERcjg,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 381",,
@@ -2971,7 +2971,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2970,381,5,rome,rome,rOmə,r.o.m.e,'r/O\.m/(ə)\,_,fro,385,NOMpro,NOMpro,sfr,Rome,---,,"Alexis, l. 385",,
 2971,381,6,la,la,La,l.a,L/(a)\,+,fro,385,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 385",,
 2972,381,7,citet,citet,Çitæð,c.i.t.e.t,Ç/i\.'t/æ\ð,.|,fro,385,NOMcom,NOMcom,sfr,cité,DMF,cité,"Alexis, l. 385",</l></lg>,
-2973,382,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,386,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 386",,<lb/><lg n=&quot;78&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;386&quot;>
+2973,382,1,Quant,quant,kANT,qu.a.n.t,k/A\NT,_,fro,386,CONsub,CONsub,,quand,DMF,quand,"Alexis, l. 386",,<lb/><lg n=&quot;78&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;386&quot;>
 2974,382,2,ot,ot,ɔT,o.t,/ɔ\T,_,fro,386,VERcjg,VERcjg,indpst3,ouïr,DMF,ouïr,"Alexis, l. 386",,
 2975,382,3,li,li,Li,l.i,L/i\,+,fro,386,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 386",,
 2976,382,4,pedre,pedre,pæðrə,p.e.d.r.e,'p/æ\.ðr/(ə)\,_,fro,386,NOMcom,NOMcom,smn,père,DMF,père,"Alexis, l. 386",,
@@ -3008,7 +3008,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3007,386,5,tu,tu,ty,t.u,t/y\,+,fro,390,PRNpro,PRNpro,2smn,tu,DMF,tu,"Alexis, l. 390",,
 3008,386,6,n,n,N,n,/\N,_,fro,390,PRCper,PRCper,1smr,me,DMF,me,"Alexis, l. 390",,
 3009,386,7,reconfortasses,reconfortasses,rEkOnfOrtasəS,r.e.c.o.n.f.o.r.t.a.ss.e.s,r/E\.k/O\n.f/O\r.'t/a\.s/ə\S,.,fro,390,VERcjg,VERcjg,subipf2,réconforter,DMF,réconforter,"Alexis, l. 390",</q></l></lg>,
-3010,387,1,A,a,a,a,/a\,+,fro,391,PRE,PRE,,à,DMF,à,"Alexis, l. 391",,<lg n=&quot;79&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;391&quot;>
+3010,387,1,A,a,a,a,/a\,+,fro,391,PRE,PRE,,à,DMF,à,"Alexis, l. 391",,<lg n=&quot;79&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;391&quot;>
 3011,387,2,halte,halte,haLtə,h.a.l.t.e,'h/a\L.t/(ə)\,_,fro,391,ADJqua,ADJqua,sfr,haut,DMF,haut,"Alexis, l. 391",,
 3012,387,3,uoiz,voiz,vuiÇ,v.o.i.z,v/u\iÇ,|,fro,391,NOMcom,NOMcom,sfr,voix,DMF,voix,"Alexis, l. 391",,
 3013,387,4,prist,prist,priST,p.r.i.s.t,pr/i\ST,_,fro,391,VERcjg,VERcjg,indpsp3,prendre,DMF,prendre,"Alexis, l. 391",,<lb/>
@@ -3047,7 +3047,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3046,391,7,l,l,L,l,/\L,_,fro,395,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 395",,
 3047,391,8,poi,poi,pɔi,p.o.i,p/ɔ\i,_,fro,395,VERcjg,VERcjg,indpsp1,pouvoir,DMF,pouvoir,"Alexis, l. 395",,
 3048,391,9,auiser,aviser,Avizær,a.v.i.s.e.r,/A\.v/i\.'z/æ\r,_,fro,395,VERinf,VERinf,,aviser,DMF,aviser,"Alexis, l. 395",</q></l></lg>,
-3049,392,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,396,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 396",,<lg n=&quot;80&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;396&quot;><q>
+3049,392,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,396,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 396",,<lg n=&quot;80&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;396&quot;><q>
 3050,392,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,396,NOMpro,NOMpro,smx,Alexis,---,,"Alexis, l. 396",,
 3051,392,3,de,de,dE,d.e,d/(E)\,_,fro,396,PRE,PRE,,de,DMF,de,"Alexis, l. 396",,
 3052,392,4,ta,ta,tA,t.a,t/(A)\,_,fro,396,DETpos,DETpos,2sfr,ton2,DMF,ton2,"Alexis, l. 396",,
@@ -3080,7 +3080,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3079,396,5,enquor,enquor,ÆNkɔr,e.n.qu.o.r,/Æ\N.'k/ɔ\r,_,fro,400,ADVgen,ADVgen,,encore,DMF,encore,"Alexis, l. 400",,
 3080,396,6,par,par,par,p.a.r,p/a\r,|,fro,400,ADVgen,ADVgen,,par2,DMF,par2,"Alexis, l. 400",,
 3081,396,7,acurede,acurede,Akuræðə,a.c.u.r.e.d.e,/A\.k/u\.'r/æ\.ð/(ə)\,_,fro,400,VERppe,VERppe,sfr,acorer,DMF,acorer,"Alexis, l. 400",</q></l></lg>,<lb/>
-3082,397,1,O,o,O,o,/O\,+,fro,401,INJ,INJ,,ô,DMF,ô,"Alexis, l. 401",,<lg n=&quot;81&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;401&quot;><q>
+3082,397,1,O,o,O,o,/O\,+,fro,401,INJ,INJ,,ô,DMF,ô,"Alexis, l. 401",,<lg n=&quot;81&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;401&quot;><q>
 3083,397,2,filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,401,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 401",,
 3084,397,3,cui,cui,kyi,c.u.i,k/y\i,_,fro,401,PRNint,PRNint,smi,qui,DMF,qui,"Alexis, l. 401",,
 3085,397,4,erent,erent,ærəNT,e.r.e.n.t,'/æ\.r/ə\NT,_,fro,401,VERcjg,VERcjg,indipf6,être,DMF,être,"Alexis, l. 401",,
@@ -3114,7 +3114,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3113,401,5,en,en,ÆN,e.n,/Æ\N,_,fro,405,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 405",,
 3114,401,6,esteie,esteie,EStEiə,e.s.t.e.i.e,/E\S.'t/E\i./(ə)\,_,fro,405,VERcjg,VERcjg,indipf1,être,DMF,être,"Alexis, l. 405",,
 3115,401,7,penet,penet,pEnæð,p.e.n.e.t,p/E\.'n/æ\ð,.,fro,405,VERppe,VERppe,smr,peiner,DMF,peiner,"Alexis, l. 405",</q></l></lg>,
-3116,402,1,Blanc,blanc,bLANK,b.l.a.n.c,bL/A\NK,_,fro,406,ADJqua,ADJqua,smr,blanc,DMF,blanc,"Alexis, l. 406",,<lg n=&quot;82&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;406&quot;><q>
+3116,402,1,Blanc,blanc,bLANK,b.l.a.n.c,bL/A\NK,_,fro,406,ADJqua,ADJqua,smr,blanc,DMF,blanc,"Alexis, l. 406",,<lg n=&quot;82&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;406&quot;><q>
 3117,402,2,ai,ai,Ai,a.i,/A\i,_,fro,406,VERcjg,VERcjg,indpst1,avoir,DMF,avoir,"Alexis, l. 406",,
 3118,402,3,le,le,LE,l.e,L/(E)\,_,fro,406,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 406",,
 3119,402,4,chef,chef,ċeF,ch.e.f,ċ/e\F,|,fro,406,NOMcom,NOMcom,smr,chef,DMF,chef,"Alexis, l. 406",,
@@ -3153,7 +3153,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3152,406,7,ciel,ciel,ÇiEL,c.i.e.l,Ç/iE\L,_,fro,410,NOMcom,NOMcom,smr,ciel,DMF,ciel,"Alexis, l. 410",,
 3153,406,8,seit,seit,SEiT,s.e.i.t,S/E\iT,_,fro,410,VERcjg,VERcjg,subpst3,être,DMF,être,"Alexis, l. 410",,
 3154,406,9,absoluthe,absoluthe,AbsOLyðə,a.b.s.o.l.u.th.e,/A\.bs/O\.'L/y\.ð/(ə)\,.,fro,410,VERppe,VERppe,sfn,absoudre,DMF,absoudre,"Alexis, l. 410",</q></l></lg>,
-3155,407,1,Tei,tei,tEi,t.e.i,t/E\i,_,fro,411,PRNper,PRNper,2smr,toi,DMF,toi,"Alexis, l. 411",,<lg n=&quot;83&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;411&quot;><q>
+3155,407,1,Tei,tei,tEi,t.e.i,t/E\i,_,fro,411,PRNper,PRNper,2smr,toi,DMF,toi,"Alexis, l. 411",,<lg n=&quot;83&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;411&quot;><q>
 3156,407,2,cuuenist,cuvenist,kuvEniST,c.u.v.e.n.i.s.t,k/u\.v/E\.'n/i\ST,_,fro,411,VERcjg,VERcjg,subipf0,convenir,DMF,convenir,"Alexis, l. 411",,
 3157,407,3,helme,helme,hɛLmə,h.e.l.m.e,'h/ɛ\L.m/(ə)\,_,fro,411,NOMcom,NOMcom,smr,heaume,DMF,heaume,"Alexis, l. 411",,
 3158,407,4,e,e,e,e,/e\,+,fro,411,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 411",,
@@ -3184,7 +3184,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3183,411,3,l,l,L,l,L/\,+,fro,415,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 415",,
 3184,411,4,em|peredur,emperedur,ÆNpErEður,e.m.p.e.r.e.d.u.r,/Æ\N.p/E\.r/E\.'ð/u\r,_,fro,415,NOMcom,NOMcom,smr,empereur,DMF,empereur,"Alexis, l. 415",,
 3185,411,5,porter,porter,pOrtær,p.o.r.t.e.r,p/O\r.'t/æ\r,_,fro,415,VERinf,VERinf,,porter,DMF,porter,"Alexis, l. 415",</q></l></lg>,<lb/>
-3186,412,1,A,a,a,a,/a\,+,fro,416,PRE,PRE,,à,DMF,à,"Alexis, l. 416",,<lg n=&quot;84&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;416&quot;><q>
+3186,412,1,A,a,a,a,/a\,+,fro,416,PRE,PRE,,à,DMF,à,"Alexis, l. 416",,<lg n=&quot;84&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;416&quot;><q>
 3187,412,2,tel,tel,tæL,t.e.l,t/æ\L,_,fro,416,DETind,DETind,sfr,tel,DMF,tel,"Alexis, l. 416",,
 3188,412,3,dolur,dolur,duLur,d.o.l.u.r,d/u\.'L/u\r,_,fro,416,NOMcom,NOMcom,sfr,douleur,DMF,douleur,"Alexis, l. 416",,
 3189,412,4,[et],et,eð,e.t,/e\ð,_,fro,416,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 416",,
@@ -3221,7 +3221,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3220,416,5,en,en,ÆN,e.n,/Æ\N,_,fro,420,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 420",,
 3221,416,6,dousses,dousses,dOysəS,d.o.u.ss.e.s,d/O\.'/y\.s/ə\S,_,fro,420,VERcjg,VERcjg,subipf2,devoir,DMF,devoir,"Alexis, l. 420",,
 3222,416,7,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,_,fro,420,VERinf,VERinf,,être,DMF,être,"Alexis, l. 420",</q></l></lg>,
-3223,417,1,De,de,dE,d.e,d/(E)\,_,fro,421,PRE,PRE,,de,DMF,de,"Alexis, l. 421",,<lg n=&quot;85&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;421&quot;>
+3223,417,1,De,de,dE,d.e,d/(E)\,_,fro,421,PRE,PRE,,de,DMF,de,"Alexis, l. 421",,<lg n=&quot;85&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;421&quot;>
 3224,417,2,la,la,La,l.a,L/(a)\,|,fro,421,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 421",,
 3225,417,3,dolur,dolur,duLur,d.o.l.u.r,d/u\.'L/u\r,_,fro,421,NOMcom,NOMcom,sfr,douleur,DMF,douleur,"Alexis, l. 421",,<lb/>
 3226,417,4,qu,qu,k,qu,k/\,+,fro,421,PRNrel,PRNrel,sfr,que,DMF,que,"Alexis, l. 421",,
@@ -3257,7 +3257,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3256,421,6,terre,terre,tɛrrə,t.e.r.r.e,'t/ɛ\r.r/(ə)\,_,fro,425,NOMcom,NOMcom,sfr,terre,DMF,terre,"Alexis, l. 425",,
 3257,421,7,chet,chet,ċeT,ch.e.t,ċ/e\T,_,fro,425,VERcjg,VERcjg,indpst3,choir,DMF,choir,"Alexis, l. 425",,
 3258,421,8,pasmede,pasmede,pASmæðə,p.a.s.m.e.d.e,p/A\S.'m/æ\.ð/(ə)\,.,fro,425,VERppe,VERppe,sfn,pâmer,DMF,pâmer,"Alexis, l. 425",</l></lg>,
-3259,422,1,Chi,chi,ki,ch.i,k/i\,_,fro,426,PRNrel,PRNrel,snn,qui,DMF,qui,"Alexis, l. 426",,<lg n=&quot;86&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;426&quot;>
+3259,422,1,Chi,chi,ki,ch.i,k/i\,_,fro,426,PRNrel,PRNrel,snn,qui,DMF,qui,"Alexis, l. 426",,<lg n=&quot;86&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;426&quot;>
 3260,422,2,dunt,dunt,dONT,d.u.n.t,d/O\NT,_,fro,426,ADVgen,ADVgen,,donc,DMF,donc,"Alexis, l. 426",,
 3261,422,3,li,li,Li,l.i,L/i\,+,fro,426,PRCper,PRCper,3sfi,li,DMF,li,"Alexis, l. 426",,
 3262,422,4,uit,vit,viT,v.i.t,v/i\T,_,fro,426,VERcjg,VERcjg,indpsp3,voir,DMF,voir,"Alexis, l. 426",,
@@ -3293,7 +3293,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3292,426,6,n,n,n,n,n/\,+,fro,430,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 430",,
 3293,426,7,estoust,estoust,EStOyST,e.s.t.o.u.s.t,/E\S.t/O\.'/y\ST,_,fro,430,VERcjg,VERcjg,subipf0,estovoir,DMF,estovoir,"Alexis, l. 430",,
 3294,426,8,plurer,plurer,pLurær,p.l.u.r.e.r,pL/u\.'r/æ\r,.,fro,430,VERinf,VERinf,,pleurer,DMF,pleurer,"Alexis, l. 430",</l></lg>,
-3295,427,1,Trait,trait,trAiT,t.r.a.i.t,tr/A\iT,_,fro,431,VERcjg,VERcjg,indpst3,traire,DMF,traire,"Alexis, l. 431",,<lg n=&quot;87&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;431&quot;>
+3295,427,1,Trait,trait,trAiT,t.r.a.i.t,tr/A\iT,_,fro,431,VERcjg,VERcjg,indpst3,traire,DMF,traire,"Alexis, l. 431",,<lg n=&quot;87&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;431&quot;>
 3296,427,2,ses,ses,SES,s.e.s,S/E\S,_,fro,431,DETpos,DETpos,3pmr,son4,DMF,son4,"Alexis, l. 431",,
 3297,427,3,cheuels,chevels,ċEveLS,ch.e.v.e.l.s,ċ/E\.'v/e\LS,_,fro,431,NOMcom,NOMcom,pmr,cheveu,DMF,cheveu,"Alexis, l. 431",,
 3298,427,4,e,e,e,e,/e\,+,fro,431,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 431",,
@@ -3332,7 +3332,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3331,431,7,ne,ne,nE,n.e,n/(E)\,+,fro,435,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 435",,
 3332,431,8,l,l,L,l,/\L,|,fro,435,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 435",,
 3333,431,9,uedisse,vedisse,vEðisə,v.e.d.i.ss.e,v/E\.'ð/i\.s/(ə)\,_,fro,435,VERcjg,VERcjg,subipf1,voir,DMF,voir,"Alexis, l. 435",</q></l></lg>,<lb/>
-3334,432,1,P_lurent,plurent,pLurəNT,p.l.u.r.e.n.t,'pL/u\.r/ə\NT,_,fro,436,VERcjg,VERcjg,indpst6,pleurer,DMF,pleurer,"Alexis, l. 436",,<lg n=&quot;88&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;436&quot;>
+3334,432,1,P_lurent,plurent,pLurəNT,p.l.u.r.e.n.t,'pL/u\.r/ə\NT,_,fro,436,VERcjg,VERcjg,indpst6,pleurer,DMF,pleurer,"Alexis, l. 436",,<lg n=&quot;88&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;436&quot;>
 3335,432,2,si,si,Si,s.i,S/i\,_,fro,436,DETpos,DETpos,3pmn,son4,DMF,son4,"Alexis, l. 436",,
 3336,432,3,oil,oil,oiL,o.i.l,/o\iL,_,fro,436,NOMcom,NOMcom,pmn,oeil,DMF,oeil,"Alexis, l. 436",,
 3337,432,4,e,e,e,e,/e\,+,fro,436,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 436",,
@@ -3371,7 +3371,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3370,436,8,t,t,t,t,t/\,+,fro,440,PRCper,PRCper,2smr,te,DMF,te,"Alexis, l. 440",,
 3371,436,9,en,en,ÆN,e.n,/Æ\N,_,fro,440,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 440",,
 3372,436,10,prist,prist,priST,p.r.i.s.t,pr/i\ST,|,fro,440,VERcjg,VERcjg,indpsp3,prendre,DMF,prendre,"Alexis, l. 440",</q></l></lg>,
-3373,437,1,A,a,a,a,/a\,+,fro,441,INJ,INJ,,ah,DMF,ah,"Alexis, l. 441",,<lb/><lg n=&quot;89&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;441&quot;><q>
+3373,437,1,A,a,a,a,/a\,+,fro,441,INJ,INJ,,ah,DMF,ah,"Alexis, l. 441",,<lb/><lg n=&quot;89&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;441&quot;><q>
 3374,437,2,lasse,lasse,Lasə,l.a.ss.e,'L/a\.s/(ə)\,_,fro,441,ADJqua,ADJqua,sfn,las,DMF,las,"Alexis, l. 441",,
 3375,437,3,mezre,mezre,mESrə,m.e.z.r.e,'m/E\.Sr/(ə)\,_,fro,441,ADJqua,ADJqua,sfn,mezre,GDF,mezre,"Alexis, l. 441",,
 3376,437,4,cum,cum,kOm,c.u.m,k/O\m,_,fro,441,ADVint,ADVint,,comme,DMF,comme,"Alexis, l. 441",,
@@ -3408,7 +3408,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3407,441,8,quors,quors,korS,qu.o.r.s,k/o\rS,_,fro,445,NOMcom,NOMcom,smn,coeur,DMF,coeur,"Alexis, l. 445",,
 3408,441,9,tant,tant,tANT,t.a.n.t,t/A\NT,|,fro,445,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 445",,
 3409,441,10,duret,duret,dyrəð,d.u.r.e.t,'d/y\.r/ə\ð,.,fro,445,VERcjg,VERcjg,indpst3,durer,DMF,durer,"Alexis, l. 445",</q></l></lg>,<lb/>
-3410,442,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,446,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 446",,<lg n=&quot;90&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;446&quot;><q>
+3410,442,1,Filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,_,fro,446,NOMcom,NOMcom,smx,fils,DMF,fils,"Alexis, l. 446",,<lg n=&quot;90&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;446&quot;><q>
 3411,442,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,446,NOMpro,NOMpro,smx,Alexis,---,,"Alexis, l. 446",,
 3412,442,3,mult,mult,muLT,m.u.l.t,m/u\LT,_,fro,446,ADVgen,ADVgen,,moult,DMF,moult,"Alexis, l. 446",,
 3413,442,4,ous,ous,OyS,o.u.s,/O\.'/y\S,_,fro,446,VERcjg,VERcjg,indpsp2,avoir,DMF,avoir,"Alexis, l. 446",,
@@ -3450,7 +3450,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3449,447,5,tue,tue,tuə,t.u.e,'t/u\./(ə)\,_,fro,451,ADJpos,ADJpos,2sfr,ton2,DMF,ton2,"Alexis, l. 451",,
 3450,447,6,carn,carn,ċarn,c.a.r.n,ċ/a\rn,_,fro,451,NOMcom,NOMcom,sfr,chair,DMF,chair,"Alexis, l. 451",,
 3451,447,7,tendra,tendra,tENdrə,t.e.n.d.r.a,'t/E\N.dr/(ə)\,.,fro,451,ADJqua,ADJqua,sfr,tendre,DMF,tendre,"Alexis, l. 451",</q></l></lg>,
-3452,448,1,a,a,a,a,/a\,+,fro,452,PRE,PRE,,à,DMF,à,"Alexis, l. 452",,<lg n=&quot;91&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;452&quot;><q>
+3452,448,1,a,a,a,a,/a\,+,fro,452,PRE,PRE,,à,DMF,à,"Alexis, l. 452",,<lg n=&quot;91&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;452&quot;><q>
 3453,448,2,quel,quel,kæL,qu.e.l,k/æ\L,_,fro,452,DETint,DETint,sfr,quel,DMF,quel,"Alexis, l. 452",,
 3454,448,3,dolur,dolur,duLur,d.o.l.u.r,d/u\.'L/u\r,_,fro,452,NOMcom,NOMcom,sfr,douleur,DMF,douleur,"Alexis, l. 452",,
 3455,448,4,deduit,deduit,dEdyiT,d.e.d.u.i.t,d/E\.'d/y\iT,_,fro,452,VERppe,VERppe,snr,déduire,DMF,déduire,"Alexis, l. 452",,
@@ -3484,7 +3484,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3483,451,7,ne,ne,nE,n.e,n/(E)\,_,fro,455,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 455",,
 3484,451,8,pur,pur,pur,p.u.r,p/u\r,_,fro,455,PRE,PRE,,pour,DMF,pour,"Alexis, l. 455",,
 3485,451,9,femme,femme,femə,f.e.mm.e,'f/e\.m/(ə)\,.,fro,455,NOMcom,NOMcom,sfr,femme,DMF,femme,"Alexis, l. 455",</q></l></lg>,
-3486,452,1,Ainz,ainz,AiNTS,a.i.n.z.,/A\iNTS,_,fro,456,ADVgen,ADVgen,,ains,DMF,ains,"Alexis, l. 456",,<lg n=&quot;92&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;456&quot;><q>
+3486,452,1,Ainz,ainz,AiNTS,a.i.n.z.,/A\iNTS,_,fro,456,ADVgen,ADVgen,,ains,DMF,ains,"Alexis, l. 456",,<lg n=&quot;92&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;456&quot;><q>
 3487,452,2,que,que,kE,qu.e,k/(E)\,_,fro,456,CONsub,CONsub,,que,DMF,que,"Alexis, l. 456",,
 3488,452,3,tei,tei,tEi,t.e.i,t/E\i,_,fro,456,PRNper,PRNper,2smr,toi,DMF,toi,"Alexis, l. 456",,
 3489,452,4,uedisse,vedisse,vEðisə,v.e.d.i.ss.e,v/E\.'ð/i\.s/(ə)\,|,fro,456,VERcjg,VERcjg,subipf1,voir,DMF,voir,"Alexis, l. 456",,
@@ -3526,7 +3526,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3525,456,6,fins,fins,fiNS,f.i.n.s,f/i\NS,_,fro,460,NOMcom,NOMcom,sfn,fin,DMF,fin,"Alexis, l. 460",,
 3526,456,7,tant,tant,tANT,t.a.n.t,t/A\NT,_,fro,460,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 460",,
 3527,456,8,domoret,domoret,dOmurəð,d.o.m.o.r.e.t,d/O\.'m/u\.r/ə\ð,.,fro,460,VERcjg,VERcjg,indpst3,demourer,DMF,demourer,"Alexis, l. 460",</q></l></lg>,
-3528,457,1,Seinurs,seinurs,SEiɲurS,s.e.i.n.u.r.s,S/E\i.'ɲ/u\rS,_,fro,461,NOMcom,NOMcom,pmr,seigneur,DMF,seigneur,"Alexis, l. 461",,<lg n=&quot;93&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;461&quot;><q>
+3528,457,1,Seinurs,seinurs,SEiɲurS,s.e.i.n.u.r.s,S/E\i.'ɲ/u\rS,_,fro,461,NOMcom,NOMcom,pmr,seigneur,DMF,seigneur,"Alexis, l. 461",,<lg n=&quot;93&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;461&quot;><q>
 3529,457,2,de,de,dE,d.e,d/(E)\,|,fro,461,PRE,PRE,,de,DMF,de,"Alexis, l. 461",,
 3530,457,3,rome,rome,rOmə,r.o.m.e,'r/O\.m/(ə)\,_,fro,461,NOMpro,NOMpro,sfr,Rome,---,,"Alexis, l. 461",,<lb/>
 3531,457,4,pur,pur,pur,p.u.r,p/u\r,_,fro,461,PRE,PRE,,pour,DMF,pour,"Alexis, l. 461",,
@@ -3570,7 +3570,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3569,461,7,filie,filie,fiLiə,f.i.l.i.e,'f/i\L.i/(ə)\,_,fro,465,NOMcom,NOMcom,sfr,fille,DMF,fille,"Alexis, l. 465",,
 3570,461,8,ne,ne,nE,n.e,n/(E)\,_,fro,465,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 465",,
 3571,461,9,filz,filz,fiLÇ,f.i.l.z,f/i\LÇ,.|,fro,465,NOMcom,NOMcom,smr,fils,DMF,fils,"Alexis, l. 465",</q></l></lg>,
-3572,462,1,Entre,entre,ENtrə,e.n.t.r.e,'/E\N.tr/(ə)\,_,fro,466,PRE,PRE,,entre,DMF,entre,"Alexis, l. 466",,<lb/><lg n=&quot;94&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;466&quot;>
+3572,462,1,Entre,entre,ENtrə,e.n.t.r.e,'/E\N.tr/(ə)\,_,fro,466,PRE,PRE,,entre,DMF,entre,"Alexis, l. 466",,<lb/><lg n=&quot;94&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;466&quot;>
 3573,462,2,le,le,LE,l.e,L/(E)\,_,fro,466,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 466",,
 3574,462,3,dol,dol,doL,d.o.l,d/o\L,_,fro,466,NOMcom,NOMcom,smr,deuil,DMF,deuil,"Alexis, l. 466",,
 3575,462,4,de,de,dE,d.e,d/(E)\,+,fro,466,PRE,PRE,,de,DMF,de,"Alexis, l. 466",,
@@ -3607,7 +3607,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3606,466,5,dolente,dolente,duLENtə,d.o.l.e.n.t.e,d/u\.'L/E\N.t/(ə)\,_,fro,470,ADJqua,ADJqua,sfr,dolent,DMF,dolent,"Alexis, l. 470",,
 3607,466,6,[et],et,eð,e.t,/e\ð,_,fro,470,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 470",,
 3608,466,7,eguarede,eguarede,EguAræðə,e.g.u.a.r.e.d.e,/E\.gu/A\.'r/æ\.ð/(ə)\,_,fro,470,VERppe,VERppe,sfr,égarer,DMF,égarer,"Alexis, l. 470",</q></l></lg>,
-3609,467,1,sire,sire,Sirə,s.i.r.e,'S/i\.r/(ə)\,_,fro,471,NOMcom,NOMcom,smn,sire,DMF,sire,"Alexis, l. 471",,<lg n=&quot;95&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;471&quot;><q>
+3609,467,1,sire,sire,Sirə,s.i.r.e,'S/i\.r/(ə)\,_,fro,471,NOMcom,NOMcom,smn,sire,DMF,sire,"Alexis, l. 471",,<lg n=&quot;95&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;471&quot;><q>
 3610,467,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,471,NOMpro,NOMpro,smn,Alexis,---,,"Alexis, l. 471",,
 3611,467,3,tanz,tanz,tANTS,t.a.n.z.,t/A\NTS,_,fro,471,DETind,DETind,pmr,tant,DMF,tant,"Alexis, l. 471",,
 3612,467,4,iurz,jurz,ʤurÇ,j.u.r.z,ʤ/u\rÇ,|,fro,471,NOMcom,NOMcom,pmr,jour,DMF,jour,"Alexis, l. 471",,
@@ -3633,7 +3633,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3632,470,4,ne,ne,nE,n.e,n/(E)\,_,fro,475,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 475",,
 3633,470,5,pur,pur,pur,p.u.r,p/u\r,_,fro,475,PRE,PRE,,pour,DMF,pour,"Alexis, l. 475",,
 3634,470,6,lastet,lastet,LAStæð,l.a.s.t.e.t,L/A\S.'t/æ\ð,.,fro,475,NOMcom,NOMcom,sfr,lasté,DMF,lasté,"Alexis, l. 475",</q></l></lg>,
-3635,471,1,O,o,O,o,/O\,+,fro,476,INJ,INJ,,ô,DMF,ô,"Alexis, l. 476",,<lg n=&quot;96&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;476&quot;><q>
+3635,471,1,O,o,O,o,/O\,+,fro,476,INJ,INJ,,ô,DMF,ô,"Alexis, l. 476",,<lg n=&quot;96&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;476&quot;><q>
 3636,471,2,kiers,kiers,ċiErS,k.i.e.r.s,ċ/iE\rS,_,fro,476,ADJqua,ADJqua,smn,cher,DMF,cher,"Alexis, l. 476",,
 3637,471,3,amis,amis,AmiS,a.m.i.s,/A\.'m/i\S,|,fro,476,NOMcom,NOMcom,smn,ami,DMF,ami,"Alexis, l. 476",,
 3638,471,4,de,de,dE,d.e,d/(E)\,_,fro,476,PRE,PRE,,de,DMF,de,"Alexis, l. 476",,<lb/>
@@ -3669,7 +3669,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3668,475,7,e,e,e,e,/e\,+,fro,480,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 480",,
 3669,475,8,si,si,Si,s.i,S/i\,_,fro,480,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 480",,
 3670,475,9,pesmes,pesmes,pɛSməS,p.e.s.m.e.s,'p/ɛ\S.m/ə\S,.,fro,480,ADJqua,ADJqua,pfr,pesme,DMF,pesme,"Alexis, l. 480",</q></l></lg>,
-3671,476,1,O,o,O,o,/O\,_,fro,481,INJ,INJ,,ô,DMF,ô,"Alexis, l. 481",,<lg n=&quot;97&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;481&quot;><q>
+3671,476,1,O,o,O,o,/O\,_,fro,481,INJ,INJ,,ô,DMF,ô,"Alexis, l. 481",,<lg n=&quot;97&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;481&quot;><q>
 3672,476,2,bele,bele,bɛLə,b.e.l.e,'b/ɛ\.L/(ə)\,_,fro,481,ADJqua,ADJqua,sfr,beau,DMF,beau,"Alexis, l. 481",,
 3673,476,3,buce,buce,buċə,b.u.c.e,'b/u\.ċ/(ə)\,_,fro,481,NOMcom,NOMcom,sfr,bouche,DMF,bouche,"Alexis, l. 481",,
 3674,476,4,bel,bel,bɛL,b.e.l,b/ɛ\L,_,fro,481,ADJqua,ADJqua,smr,beau,DMF,beau,"Alexis, l. 481",,
@@ -3702,7 +3702,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3701,480,5,que,que,kE,qu.e,k/(E)\,_,fro,485,CONsub,CONsub,,que,DMF,que,"Alexis, l. 485",,
 3702,480,6,morte,morte,mɔrtə,m.o.r.t.e,'m/ɔ\r.t/(ə)\,_,fro,485,VERppe,VERppe,sfn,mourir,DMF,mourir,"Alexis, l. 485",,
 3703,480,7,fusse,fusse,fysə,f.u.ss.e,'f/y\.s/(ə)\,.|,fro,485,VERcjg,VERcjg,subipf1,être,DMF,être,"Alexis, l. 485",</q></l></lg>,
-3704,481,1,Se,se,SE,s.e,S/(E)\,_,fro,486,CONsub,CONsub,,si3,DMF,si3,"Alexis, l. 486",,<pb n=&quot;33v&quot;/><lb/><lg n=&quot;98&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;486&quot;><q>
+3704,481,1,Se,se,SE,s.e,S/(E)\,_,fro,486,CONsub,CONsub,,si3,DMF,si3,"Alexis, l. 486",,<pb n=&quot;33v&quot;/><lb/><lg n=&quot;98&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;486&quot;><q>
 3705,481,2,io,jo,ʤO,j.o,ʤ/O\,_,fro,486,PRNper,PRNper,1sfn,je,DMF,je,"Alexis, l. 486",,
 3706,481,3,sousse,sousse,SOysə,s.o.u.ss.e,S/O\.'/y\.s/(ə)\,_,fro,486,VERcjg,VERcjg,subipf1,savoir,DMF,savoir,"Alexis, l. 486",,
 3707,481,4,la,la,La,l.a,L/a\,_,fro,486,ADVgen,ADVgen,,là,DMF,là,"Alexis, l. 486",,
@@ -3739,7 +3739,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3738,485,6,ousse,ousse,Oysə,o.u.ss.e,/O\.'/y\.s/(ə)\,_,fro,490,VERcjg,VERcjg,subipf1,avoir,DMF,avoir,"Alexis, l. 490",,
 3739,485,7,bien,bien,biEn,b.i.e.n,b/iE\n,_,fro,490,ADVgen,ADVgen,,bien,DMF,bien,"Alexis, l. 490",,
 3740,485,8,guardet,guardet,guArdæð,g.u.a.r.d.e.t,gu/A\r.'d/æ\ð,.,fro,490,VERppe,VERppe,smr,garder,DMF,garder,"Alexis, l. 490",</q></l></lg>,
-3741,486,1,Ore,ore,Orə,o.r.e,'/O\.r/[ə]\,_,fro,491,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 491",,<lg n=&quot;99&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;491&quot;><q>
+3741,486,1,Ore,ore,Orə,o.r.e,'/O\.r/[ə]\,_,fro,491,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 491",,<lg n=&quot;99&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;491&quot;><q>
 3742,486,2,sui,sui,Syi,s.u.i,S/y\i,_,fro,491,VERcjg,VERcjg,indpst1,être,DMF,être,"Alexis, l. 491",,
 3743,486,3,íó,jo,ʤO,j.o,ʤ/O\,_,fro,491,PRNper,PRNper,1sfn,je,DMF,je,"Alexis, l. 491",,
 3744,486,4,uedue,vedve,veTvə,v.e.d.v.e,'v/e\T.v/(ə)\,_,fro,491,NOMcom,NOMcom,sfn,veuve,DMF,veuve,"Alexis, l. 491",,
@@ -3781,7 +3781,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3780,490,9,io,jo,ʤO,j.o,ʤ/O\,+,fro,495,PRNper,PRNper,1sfn,je,DMF,je,"Alexis, l. 495",,
 3781,490,10,lui,lui,Lyi,l.u.i,L/y\i,|,fro,495,PRNper,PRNper,3smr,lui,DMF,lui,"Alexis, l. 495",,
 3782,490,11,serue,serve,Sɛrvə,s.e.r.v.e,'S/ɛ\r.v/(ə)\,.,fro,495,VERcjg,VERcjg,subpst1,servir,DMF,servir,"Alexis, l. 495",</q></l></lg>,<lb/>
-3783,491,1,Tant,tant,tANT,t.a.n.t,t/A\NT,_,fro,496,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 496",,<lg n=&quot;100&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;496&quot;>
+3783,491,1,Tant,tant,tANT,t.a.n.t,t/A\NT,_,fro,496,ADVgen,ADVgen,,tant,DMF,tant,"Alexis, l. 496",,<lg n=&quot;100&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;496&quot;>
 3784,491,2,i,i,i,i,/i\,+,fro,496,PRCadv,PRCadv,,y2,DMF,y2,"Alexis, l. 496",,
 3785,491,3,plurat,plurat,pLurað,p.l.u.r.a.t,pL/u\.'r/a\ð,_,fro,496,VERcjg,VERcjg,indpsp3,pleurer,DMF,pleurer,"Alexis, l. 496",,
 3786,491,4,e,e,e,e,/e\,+,fro,496,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 496",,
@@ -3820,7 +3820,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3819,495,6,feit,feit,fEið,f.e.i.t,f/E\ið,_,fro,500,NOMcom,NOMcom,sfr,foi,DMF,foi,"Alexis, l. 500",,
 3820,495,7,l,l,L,l,L/\,+,fro,500,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 500",,
 3821,495,8,enorerent,enorerent,EnurærəNT,e.n.o.r.e.r.e.n.t,/E\.n/u\.'r/æ\.r/ə\NT,.,fro,500,VERcjg,VERcjg,indpsp6,honorer,DMF,honorer,"Alexis, l. 500",</l></lg>,
-3822,496,1,Seignors,seignors,SEiɲurS,s.e.i.gn.o.r.s,S/E\i.'ɲ/u\rS,_,fro,501,NOMcom,NOMcom,pmr,seigneur,DMF,seigneur,"Alexis, l. 501",,<lg n=&quot;101&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;501&quot;><q>
+3822,496,1,Seignors,seignors,SEiɲurS,s.e.i.gn.o.r.s,S/E\i.'ɲ/u\rS,_,fro,501,NOMcom,NOMcom,pmr,seigneur,DMF,seigneur,"Alexis, l. 501",,<lg n=&quot;101&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;501&quot;><q>
 3823,496,2,que,que,kE,qu.e,k/(E)\,|,fro,501,PRNint,PRNint,snr,que,DMF,que,"Alexis, l. 501",,
 3824,496,3,faites,faites,fAitəS,f.a.i.t.e.s,'f/A\i.t/ə\S,_,fro,501,VERcjg,VERcjg,indpst5,faire,DMF,faire,"Alexis, l. 501",</q>,<lb/>
 3825,496,4,ćó,co,Çɔ,c.o,Ç/ɔ\,_,fro,501,PRNdem,PRNdem,snr,ce,DMF,ce,"Alexis, l. 501",,
@@ -3861,7 +3861,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3860,500,7,mals,mals,maLS,m.a.l.s,m/a\LS,_,fro,505,NOMcom,NOMcom,pmr,mal,DMF,mal,"Alexis, l. 505",,
 3861,500,8,nos,nos,nuS,n.o.s,n/u\S,_,fro,505,PRCper,PRCper,4pmr,nous,DMF,nous,"Alexis, l. 505",,
 3862,500,9,tolget,tolget,tɔLʤəð,t.o.l.g.e.t,'t/ɔ\L.ʤ/ə\ð,.,fro,505,VERcjg,VERcjg,subpst3,tolir,DMF,tolir,"Alexis, l. 505",</q></l></lg>,
-3863,501,1,Trestuz,trestuz,trEStuTS,t.r.e.s.t.u.z.,tr/E\S.'t/u\TS,_,fro,506,PRNind,PRNind,pmr,trèstout,DMF,trèstout,"Alexis, l. 506",,<lg n=&quot;102&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;506&quot;>
+3863,501,1,Trestuz,trestuz,trEStuTS,t.r.e.s.t.u.z.,tr/E\S.'t/u\TS,_,fro,506,PRNind,PRNind,pmr,trèstout,DMF,trèstout,"Alexis, l. 506",,<lg n=&quot;102&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;506&quot;>
 3864,501,2,li,li,Li,l.i,L/i\,+,fro,506,PRCper,PRCper,3smi,li,DMF,li,"Alexis, l. 506",,
 3865,501,3,preient,preient,prEiəNT,p.r.e.i.e.n.t,'pr/E\i./ə\NT,_,fro,506,VERcjg,VERcjg,indpst6,prier,DMF,prier,"Alexis, l. 506",,
 3866,501,4,ki,ki,ki,k.i,k/i\,_,fro,506,PRNrel,PRNrel,pmn,qui,DMF,qui,"Alexis, l. 506",,
@@ -3899,7 +3899,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3898,505,6,e,e,e,e,/e\,+,fro,510,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 510",,
 3899,505,7,li,li,Li,l.i,L/i\,_,fro,510,DETdef,DETdef,pmn,le,DMF,le,"Alexis, l. 510",,
 3900,505,8,petit,petit,pEtiT,p.e.t.i.t,p/E\.'t/i\T,.,fro,510,ADJqua,NOMcom,pmn,petit,DMF,petit,"Alexis, l. 510",</l></lg>,
-3901,506,1,Si,si,Si,s.i,S/i\,_,fro,511,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 511",,<lg n=&quot;103&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;511&quot;>
+3901,506,1,Si,si,Si,s.i,S/i\,_,fro,511,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 511",,<lg n=&quot;103&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;511&quot;>
 3902,506,2,s,s,S,s,S/\,+,fro,511,PRCper,PRCper,6pmr,se,DMF,se,"Alexis, l. 511",,
 3903,506,3,en,en,ÆN,e.n,/Æ\N,_,fro,511,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 511",,
 3904,506,4,commourent,commourent,kOmɔurəNT,c.o.mm.o.u.r.e.n.t,k/O\.'m/ɔ\u.r/ə\NT,_,fro,511,VERcjg,VERcjg,indpsp6,commouvoir,DMF,commouvoir,"Alexis, l. 511",,
@@ -3944,7 +3944,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3943,510,6,pourent,pourent,pɔurəNT,p.o.u.r.e.n.t,'p/ɔ\u.r/ə\NT,|,fro,515,VERcjg,VERcjg,indpsp6,pouvoir,DMF,pouvoir,"Alexis, l. 515",,
 3944,510,7,passer,passer,pAsær,p.a.ss.e.r,p/A\.'s/æ\r,_,fro,515,VERinf,VERinf,,passer,DMF,passer,"Alexis, l. 515",,<lb/>
 3945,510,8,ultra,ultra,uLtrə,u.l.t.r.a,'/u\L.tr/(ə)\,.,fro,515,ADVgen,ADVgen,,outre2,DMF,outre2,"Alexis, l. 515",</l></lg>,
-3946,511,1,Entr,entr,ENtr0,e.n.t.r.,'/E\N.tr/(0)\,+,fro,516,PRE,PRE,,entre,DMF,entre,"Alexis, l. 516",,<lg n=&quot;104&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;516&quot;>
+3946,511,1,Entr,entr,ENtr0,e.n.t.r.,'/E\N.tr/(0)\,+,fro,516,PRE,PRE,,entre,DMF,entre,"Alexis, l. 516",,<lg n=&quot;104&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;516&quot;>
 3947,511,2,els,els,eLS,e.l.s,/e\LS,_,fro,516,PRNper,PRNper,6pmr,eux,DMF,eux,"Alexis, l. 516",,
 3948,511,3,an,an,ÆN,a.n,/Æ\N,+,fro,516,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 516",,
 3949,511,4,prennent,prennent,prEnəNT,p.r.e.nn.e.n.t,'pr/E\.n/ə\NT,_,fro,516,VERcjg,VERcjg,indpst6,prendre,DMF,prendre,"Alexis, l. 516",,
@@ -3987,7 +3987,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3986,515,7,en,en,ÆN,e.n,/Æ\N,_,fro,520,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 520",,
 3987,515,8,uolt,volt,voLT,v.o.l.t,v/o\LT,|,fro,520,VERcjg,VERcjg,indpst3,vouloir,DMF,vouloir,"Alexis, l. 520",,
 3988,515,9,turner,turner,turnær,t.u.r.n.e.r,t/u\r.'n/æ\r,.,fro,520,VERinf,VERinf,,tourner,DMF,tourner,"Alexis, l. 520",</l></lg>,<lb/>
-3989,516,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,521,PRNdem,PRNdem,pmn,cil,DMF,cil,"Alexis, l. 521",,<lg n=&quot;105&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;521&quot;>
+3989,516,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,521,PRNdem,PRNdem,pmn,cil,DMF,cil,"Alexis, l. 521",,<lg n=&quot;105&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;521&quot;>
 3990,516,2,an,an,ÆN,a.n,/Æ\N,_,fro,521,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 521",,
 3991,516,3,respondent,respondent,rESpONdəNT,r.e.s.p.o.n.d.e.n.t,r/E\S.'p/O\N.d/ə\NT,_,fro,521,VERcjg,VERcjg,indpst6,répondre,DMF,répondre,"Alexis, l. 521",,
 3992,516,4,ki,ki,ki,k.i,k/i\,_,fro,521,PRNrel,PRNrel,pmn,qui,DMF,qui,"Alexis, l. 521",,
@@ -4022,7 +4022,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4021,520,7,an,an,ÆN,a.n,/Æ\N,+,fro,525,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 525",,
 4022,520,8,ermes,ermes,ErməS,e.r.m.e.s,'/E\r.m/ə\S,_,fro,525,VERcjg,VERcjg,indfut4,être,DMF,être,"Alexis, l. 525",,
 4023,520,9,deliures,delivres,dELivrəS,d.e.l.i.v.r.e.s,d/E\.'L/i\.vr/ə\S,.|,fro,525,ADJqua,ADJqua,pmr,délivre2,DMF,délivre2,"Alexis, l. 525",</q></l></lg>,
-4024,521,1,De,de,dE,d.e,d/(E)\,_,fro,526,PRE,PRE,,de,DMF,de,"Alexis, l. 526",,<lb/><lg n=&quot;106&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;526&quot;>
+4024,521,1,De,de,dE,d.e,d/(E)\,_,fro,526,PRE,PRE,,de,DMF,de,"Alexis, l. 526",,<lb/><lg n=&quot;106&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;526&quot;>
 4025,521,2,lur,lur,Lur,l.u.r,L/u\r,_,fro,526,DETpos,DETpos,6pmr,leur2,DMF,leur2,"Alexis, l. 526",,
 4026,521,3,tresors,tresors,trEzɔrS,t.r.e.s.o.r.s,tr/E\.'z/ɔ\rS,_,fro,526,NOMcom,NOMcom,pmr,trésor,DMF,trésor,"Alexis, l. 526",,
 4027,521,4,prenent,prenent,prEnəNT,p.r.e.n.e.n.t,'pr/E\.n/ə\NT,_,fro,526,VERcjg,VERcjg,indpst6,prendre,DMF,prendre,"Alexis, l. 526",,
@@ -4061,7 +4061,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4060,525,6,est,est,EST,e.s.t,/E\ST,_,fro,530,VERcjg,VERcjg,indpst3,être,DMF,être,"Alexis, l. 530",,
 4061,525,7,lur,lur,Lur,l.u.r,L/u\r,_,fro,530,DETpos,DETpos,6smr,leur2,DMF,leur2,"Alexis, l. 530",,
 4062,525,8,talent,talent,tALENT,t.a.l.e.n.t,t/A\.'L/E\NT,_,fro,530,NOMcom,NOMcom,smr,talent,DMF,talent,"Alexis, l. 530",</l></lg>,
-4063,526,1,Ad,ad,að,a.d,/a\ð,_,fro,531,PRE,PRE,,à,DMF,à,"Alexis, l. 531",,<lg n=&quot;107&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;531&quot;>
+4063,526,1,Ad,ad,að,a.d,/a\ð,_,fro,531,PRE,PRE,,à,DMF,à,"Alexis, l. 531",,<lg n=&quot;107&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;531&quot;>
 4064,526,2,une,une,ynə,u.n.e,'/y\.n/(ə)\,_,fro,531,DETcar,DETcar,sfr,un,DMF,un,"Alexis, l. 531",,
 4065,526,3,uoiz,voiz,vuiÇ,v.o.i.z,v/u\iÇ,_,fro,531,NOMcom,NOMcom,sfr,voix,DMF,voix,"Alexis, l. 531",,
 4066,526,4,crient,crient,kriəNT,c.r.i.e.n.t,'kr/i\./ə\NT,_,fro,531,VERcjg,VERcjg,indpst6,crier,DMF,crier,"Alexis, l. 531",,
@@ -4098,7 +4098,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4097,530,6,plaist,plaist,pLAiST,p.l.a.i.s.t,pL/A\iST,_,fro,535,VERcjg,VERcjg,indpst0,plaire,DMF,plaire,"Alexis, l. 535",,<lb/>
 4098,530,7,bone,bone,bOnə,b.o.n.e,'b/O\.n/(ə)\,_,fro,535,ADJqua,ADJqua,sfr,bon,DMF,bon,"Alexis, l. 535",,
 4099,530,8,aiude,aiude,Aiyðə,a.i.u.d.e,/A\i.'/y\.ð/(ə)\,.,fro,535,NOMcom,NOMcom,sfr,aide,DMF,aide,"Alexis, l. 535",</q></l></lg>,
-4100,531,1,Vnches,unches,ONkəS,u.n.ch.e.s,'/O\N.k/ə\S,_,fro,536,ADVgen,ADVgen,,onques,DMF,onques,"Alexis, l. 536",,<lg n=&quot;108&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;536&quot;>
+4100,531,1,Vnches,unches,ONkəS,u.n.ch.e.s,'/O\N.k/ə\S,_,fro,536,ADVgen,ADVgen,,onques,DMF,onques,"Alexis, l. 536",,<lg n=&quot;108&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;536&quot;>
 4101,531,2,en,en,ÆN,e.n,/Æ\N,_,fro,536,PRE,PRE,,en,DMF,en,"Alexis, l. 536",,
 4102,531,3,rome,rome,rOmə,r.o.m.e,'r/O\.m/(ə)\,_,fro,536,NOMpro,NOMpro,sfr,Rome,---,,"Alexis, l. 536",,
 4103,531,4,n,n,n,n,n/\,+,fro,536,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 536",,
@@ -4143,7 +4143,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4142,535,5,deu,deu,dæu,d.e.u,d/æ\u,|,fro,540,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 540",,
 4143,535,6,e,e,e,e,/e\,+,fro,540,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 540",,<lb/>
 4144,535,7,graciet,graciet,grAʦiəð,g.r.a.c.i.e.t,gr/A\.'ʦ/i\./ə\ð,.,fro,540,VERcjg,VERcjg,indpst3,gracier,DMF,gracier,"Alexis, l. 540",</l></lg>,
-4145,536,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,541,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 541",,<lg n=&quot;109&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;541&quot;>
+4145,536,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,541,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 541",,<lg n=&quot;109&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;541&quot;>
 4146,536,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,541,NOMpro,NOMpro,smn,Alexis,---,,"Alexis, l. 541",,
 4147,536,3,out,out,ɔuT,o.u.t,/ɔ\uT,_,fro,541,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,"Alexis, l. 541",,
 4148,536,4,bone,bone,bOnə,b.o.n.e,'b/O\.n/(ə)\,_,fro,541,ADJqua,ADJqua,sfr,bon,DMF,bon,"Alexis, l. 541",,
@@ -4182,7 +4182,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4181,540,6,si,si,Si,s.i,S/i\,_,fro,545,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 545",,
 4182,540,7,est,est,EST,e.s.t,/E\ST,_,fro,545,VERcjg,VERcjg,indpst3,être,DMF,être,"Alexis, l. 545",,
 4183,540,8,aluez,aluez,ALuæTS,a.l.u.e.z.,/A\.L/u\.'/æ\TS,_,fro,545,VERppe,VERppe,smn,allouer2,DMF,allouer2,"Alexis, l. 545",</l></lg>,
-4184,541,1,Ki,ki,ki,k.i,k/i\,_,fro,546,PRNrel,PRNrel,snn,qui,DMF,qui,"Alexis, l. 546",,<lg n=&quot;110&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;546&quot;>
+4184,541,1,Ki,ki,ki,k.i,k/i\,_,fro,546,PRNrel,PRNrel,snn,qui,DMF,qui,"Alexis, l. 546",,<lg n=&quot;110&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;546&quot;>
 4185,541,2,fait,fait,fAiT,f.a.i.t,f/A\iT,_,fro,546,VERppe,VERppe,smr,faire,DMF,faire,"Alexis, l. 546",,
 4186,541,3,ad,ad,að,a.d,/a\ð,_,fro,546,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 546",,
 4187,541,4,pechet,pechet,pEċeð,p.e.ch.e.t,p/E\.'ċ/e\ð,|,fro,546,NOMcom,NOMcom,smr,péché,DMF,péché,"Alexis, l. 546",,
@@ -4220,7 +4220,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4219,545,6,l,l,L,l,/\L,_,fro,550,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 550",,
 4220,545,7,ciel,ciel,ÇiEL,c.i.e.l,Ç/iE\L,_,fro,550,NOMcom,NOMcom,smr,ciel,DMF,ciel,"Alexis, l. 550",,
 4221,545,8,regner,regner,rEɲær,r.e.gn.e.r,r/E\.'ɲ/æ\r,.,fro,550,VERinf,VERinf,,regner,DMF,regner,"Alexis, l. 550",</l></lg>,
-4222,546,1,Surz,surz,SurTS,s.u.r.z.,S/u\rTS,_,fro,551,ADJqua,NOMcom,smn,sourd,DMF,sourd,"Alexis, l. 551",,<lg n=&quot;111&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;551&quot;>
+4222,546,1,Surz,surz,SurTS,s.u.r.z.,S/u\rTS,_,fro,551,ADJqua,NOMcom,smn,sourd,DMF,sourd,"Alexis, l. 551",,<lg n=&quot;111&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;551&quot;>
 4223,546,2,ne,ne,nE,n.e,n/(E)\,_,fro,551,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 551",,
 4224,546,3,auogles,avogles,AvɔgLəS,a.v.o.g.l.e.s,/A\.'v/ɔ\.gL/ə\S,_,fro,551,ADJqua,NOMcom,smn,aveugle,DMF,aveugle,"Alexis, l. 551",,
 4225,546,4,ne,ne,nE,n.e,n/(E)\,_,fro,551,CONcoo,CONcoo,,ne2,DMF,ne2,"Alexis, l. 551",,
@@ -4258,7 +4258,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4257,550,8,report,report,rEpɔrT,r.e.p.o.r.t,r/E\.'p/ɔ\rT,_,fro,555,VERcjg,VERcjg,subpst3,reporter,DMF,reporter,"Alexis, l. 555",,
 4258,550,9,sa,sa,Sa,s.a,S/(a)\,_,fro,555,DETpos,DETpos,3sfr,son4,DMF,son4,"Alexis, l. 555",,
 4259,550,10,dolur,dolur,duLur,d.o.l.u.r,d/u\.'L/u\r,.,fro,555,NOMcom,NOMcom,sfr,douleur,DMF,douleur,"Alexis, l. 555",</l></lg>,
-4260,551,1,N,n,n,n,n/\,+,fro,556,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 556",,<lg n=&quot;112&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;556&quot;>
+4260,551,1,N,n,n,n,n/\,+,fro,556,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 556",,<lg n=&quot;112&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;556&quot;>
 4261,551,2,i,i,i,i,/i\,+,fro,556,PRCadv,PRCadv,,y2,DMF,y2,"Alexis, l. 556",,
 4262,551,3,uint,vint,viNT,v.i.n.t,v/i\NT,_,fro,556,VERcjg,VERcjg,indpsp3,venir,DMF,venir,"Alexis, l. 556",,
 4263,551,4,amferm,amferm,ÆNferm,a.m.f.e.r.m,/Æ\N.'f/e\rm,_,fro,556,ADJqua,NOMcom,smr,enferme,DMF,enferme,"Alexis, l. 556",,
@@ -4295,7 +4295,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4294,555,6,en,en,ÆN,e.n,/Æ\N,_,fro,560,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 560",,
 4295,555,7,fait,fait,fAiT,f.a.i.t,f/A\iT,_,fro,560,VERcjg,VERcjg,indpst3,faire,DMF,faire,"Alexis, l. 560",,
 4296,555,8,raler,raler,rALær,r.a.l.e.r,r/A\.'L/æ\r,.,fro,560,VERinf,VERinf,,raller,DMF,raller,"Alexis, l. 560",</l></lg>,
-4297,556,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,561,DETdem,DETdem,pmn,cil,DMF,cil,"Alexis, l. 561",,<lg n=&quot;113&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;561&quot;>
+4297,556,1,Cil,cil,ÇiL,c.i.l,Ç/i\L,_,fro,561,DETdem,DETdem,pmn,cil,DMF,cil,"Alexis, l. 561",,<lg n=&quot;113&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;561&quot;>
 4298,556,2,dui,dui,dyi,d.u.i,d/y\i,_,fro,561,ADJcar,ADJcar,pmn,deux,DMF,deux,"Alexis, l. 561",,
 4299,556,3,seniur,seniur,SEiɲur,s.e..ni.u.r,S/E\i.'ɲ/u\r,_,fro,561,NOMcom,NOMcom,pmn,seigneur,DMF,seigneur,"Alexis, l. 561",,
 4300,556,4,ki,ki,ki,k.i,k/i\,_,fro,561,PRNrel,PRNrel,pmn,qui,DMF,qui,"Alexis, l. 561",,
@@ -4335,7 +4335,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4334,560,5,derumpent,derumpent,dErONpəNT,d.e.r.u.m.p.e.n.t,d/E\.'r/O\N.p/ə\NT,_,fro,565,VERcjg,VERcjg,indpst6,dérompre,DMF,dérompre,"Alexis, l. 565",,
 4335,560,6,la,la,La,l.a,L/(a)\,_,fro,565,DETdef,DETdef,sfr,le,DMF,le,"Alexis, l. 565",,
 4336,560,7,presse,presse,prɛsə,p.r.e.ss.e,'pr/ɛ\.s/(ə)\,.,fro,565,NOMcom,NOMcom,sfr,presse,DMF,presse,"Alexis, l. 565",</l></lg>,
-4337,561,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,566,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 566",,<lg n=&quot;114&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;566&quot;>
+4337,561,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,566,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 566",,<lg n=&quot;114&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;566&quot;>
 4338,561,2,boneface,boneface,bOnEfaʦə,b.o.n.e.f.a.c.e,b/O\.n/E\.'f/a\.ʦ/(ə)\,|,fro,566,NOMpro,NOMpro,smn,Boniface,---,,"Alexis, l. 566",,
 4339,561,3,que,que,kE,qu.e,k/(E)\,_,fro,566,PRNrel,PRNrel,smr,que,DMF,que,"Alexis, l. 566",,<lb/>
 4340,561,4,l,l,L,l,L/\,+,fro,566,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 566",,
@@ -4370,7 +4370,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4369,565,6,saint,saint,SAiNT,s.a.i.n.t,S/A\iNT,_,fro,570,ADJqua,ADJqua,smr,saint,DMF,saint,"Alexis, l. 570",,
 4370,565,7,cors,cors,kɔrS,c.o.r.s,k/ɔ\rS,_,fro,570,NOMcom,NOMcom,smr,corps,DMF,corps,"Alexis, l. 570",,
 4371,565,8,her_berget,herberget,hErbɛrʤəð,h.e.r.b.e.r.g.e.t,h/E\r.'b/ɛ\r.ʤ/ə\ð,.,fro,570,VERcjg,VERcjg,indpst3,héberger,DMF,héberger,"Alexis, l. 570",</l></lg>,
-4372,566,1,La,la,La,l.a,L/(a)\,_,fro,571,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 571",,<lg n=&quot;115&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;571&quot;>
+4372,566,1,La,la,La,l.a,L/(a)\,_,fro,571,DETdef,DETdef,sfn,le,DMF,le,"Alexis, l. 571",,<lg n=&quot;115&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;571&quot;>
 4373,566,2,gent,gent,ʤENT,g.e.n.t,ʤ/E\NT,_,fro,571,NOMcom,NOMcom,sfn,gent,DMF,gent,"Alexis, l. 571",,
 4374,566,3,de,de,dE,d.e,d/(E)\,_,fro,571,PRE,PRE,,de,DMF,de,"Alexis, l. 571",,
 4375,566,4,rome,rome,rOmə,r.o.m.e,'r/O\.m/(ə)\,_,fro,571,NOMpro,NOMpro,sfr,Rome,---,,"Alexis, l. 571",,
@@ -4411,7 +4411,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4410,570,7,i,i,i,i,/i\,+,fro,575,PRCadv,PRCadv,,y2,DMF,y2,"Alexis, l. 575",,
 4411,570,8,poet,poet,puET,p.o.e.t,p/uE\T,_,fro,575,VERcjg,VERcjg,indpst3,pouvoir,DMF,pouvoir,"Alexis, l. 575",,
 4412,570,9,habi|ter,habiter,Abitær,ha.b.i.t.e.r,/A\.b/i\.'t/æ\r,.,fro,575,VERinf,VERinf,,habiter,DMF,habiter,"Alexis, l. 575",</l></lg>,
-4413,571,1,A,a,a,a,/a\,+,fro,576,PRE,PRE,,à,DMF,à,"Alexis, l. 576",,<lb/><lg n=&quot;116&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;576&quot;>
+4413,571,1,A,a,a,a,/a\,+,fro,576,PRE,PRE,,à,DMF,à,"Alexis, l. 576",,<lb/><lg n=&quot;116&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;576&quot;>
 4414,571,2,l,l,L,l,/\L,_,fro,576,DETdef,DETdef,smr,le,DMF,le,"Alexis, l. 576",,
 4415,571,3,sedme,sedme,SɛTmə,s.e.d.m.e,'S/ɛ\T.m/(ə)\,_,fro,576,ADJord,ADJord,smr,septième,DMF,septième,"Alexis, l. 576",,
 4416,571,4,iurn,jurn,ʤurn,j.u.r.n,ʤ/u\rn,_,fro,576,NOMcom,NOMcom,smr,jour,DMF,jour,"Alexis, l. 576",,
@@ -4453,7 +4453,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4452,575,6,ne,ne,nE,n.e,n/(E)\,_,fro,580,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 580",,
 4453,575,7,puet,puet,puET,p.u.e.t,p/uE\T,_,fro,580,VERcjg,VERcjg,indpst0,pouvoir,DMF,pouvoir,"Alexis, l. 580",,
 4454,575,8,estra,estra,ɛStrə,e.s.t.r.a,'/ɛ\S.tr/(ə)\,.,fro,580,VERinf,VERinf,,être,DMF,être,"Alexis, l. 580",</l></lg>,
-4455,576,1,Ad,ad,að,a.d,/a\ð,_,fro,581,PRE,PRE,,à,DMF,à,"Alexis, l. 581",,<lg n=&quot;117&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;581&quot;>
+4455,576,1,Ad,ad,að,a.d,/a\ð,_,fro,581,PRE,PRE,,à,DMF,à,"Alexis, l. 581",,<lg n=&quot;117&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;581&quot;>
 4456,576,2,ancensers,ancensers,ÆNʦÆNserS,a.n.c.e.n.s.e.r.s,/Æ\N.ʦ/Æ\N.'s/e\rS,_,fro,581,NOMcom,NOMcom,pmr,encensier,DMF,encensier,"Alexis, l. 581",,
 4457,576,3,ad,ad,að,a.d,/a\ð,_,fro,581,PRE,PRE,,à,DMF,à,"Alexis, l. 581",,
 4458,576,4,ories,ories,OriES,o.r.i.e.s,/O\.'r/iE\S,|,fro,581,ADJqua,ADJqua,pmr,oré,DMF,oré,"Alexis, l. 581",,
@@ -4488,7 +4488,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4487,580,6,lui,lui,Lyi,l.u.i,L/y\i,_,fro,585,PRNper,PRNper,3smr,lui,DMF,lui,"Alexis, l. 585",,
 4488,580,7,ne,ne,nE,n.e,n/(E)\,_,fro,585,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 585",,
 4489,580,8,deseurassent,desevrassent,dEsEvrasəNT,d.e.s.e.v.r.a.ss.e.n.t,d/E\.s/E\.'vr/a\.s/ə\NT,.,fro,585,VERcjg,VERcjg,subipf6,désevrer,DMF,désevrer,"Alexis, l. 585",</l></lg>,
-4490,581,1,D,d,d,d,d/\,+,fro,586,PRE,PRE,,de,DMF,de,"Alexis, l. 586",,<lg n=&quot;118&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;586&quot;>
+4490,581,1,D,d,d,d,d/\,+,fro,586,PRE,PRE,,de,DMF,de,"Alexis, l. 586",,<lg n=&quot;118&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;586&quot;>
 4491,581,2,or,or,ɔr,o.r,/ɔ\r,_,fro,586,NOMcom,NOMcom,smr,or,DMF,or,"Alexis, l. 586",,
 4492,581,3,e,e,e,e,/e\,+,fro,586,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 586",,
 4493,581,4,de,de,dE,d.e,d/(E)\,_,fro,586,PRE,PRE,,de,DMF,de,"Alexis, l. 586",,
@@ -4529,7 +4529,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4528,585,7,s,s,S,s,/\S,_,fro,590,PRCper,PRCper,3pma,le,DMF,le,"Alexis, l. 590",,
 4529,585,8,puisset,puisset,pyisəð,p.u.i.ss.e.t,'p/y\i.s/ə\ð,_,fro,590,VERcjg,VERcjg,subpst3,pouvoir,DMF,pouvoir,"Alexis, l. 590",,
 4530,585,9,atarger,atarger,AtArʤer,a.t.a.r.g.e.r,/A\.t/A\r.'ʤ/e\r,.|,fro,590,VERinf,VERinf,,atarger,DMF,atarger,"Alexis, l. 590",</l></lg>,
-4531,586,1,Or,or,Or,o.r,/O\r,_,fro,591,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 591",,<lb/><lg n=&quot;119&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;591&quot;>
+4531,586,1,Or,or,Or,o.r,/O\r,_,fro,591,ADVgen,ADVgen,,or2,DMF,or2,"Alexis, l. 591",,<lb/><lg n=&quot;119&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;591&quot;>
 4532,586,2,n,n,n,n,n/\,+,fro,591,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 591",,
 4533,586,3,estot,estot,EStoT,e.s.t.o.t,/E\S.'t/o\T,_,fro,591,VERcjg,VERcjg,indpst0,estovoir,DMF,estovoir,"Alexis, l. 591",,
 4534,586,4,dire,dire,dirə,d.i.r.e,'d/i\.r/(ə)\,_,fro,591,VERinf,VERinf,,dire,DMF,dire,"Alexis, l. 591",,
@@ -4573,7 +4573,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4572,590,6,mil,mil,miL,m.i.l,m/i\L,_,fro,595,DETcar,DETcar,pfr,mille,DMF,mille,"Alexis, l. 595",,
 4573,590,7,lairmes,lairmes,LAirməS,l.a.i.r.m.e.s,'L/A\ir.m/ə\S,_,fro,595,NOMcom,NOMcom,pfr,larme,DMF,larme,"Alexis, l. 595",,
 4574,590,8,pluredes,pluredes,pLuræðəS,p.l.u.r.e.d.e.s,pL/u\.'r/æ\.ð/ə\S,.,fro,595,VERppe,VERppe,pfr,pleurer,DMF,pleurer,"Alexis, l. 595",</l></lg>,
-4575,591,1,Desur,desur,dEsur0,d.e.s.u.r.,d/E\.'s/u\.r/[0]\,_,fro,596,PRE,PRE,,dessur,DMF,dessur,"Alexis, l. 596",,<lg n=&quot;120&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;596&quot;>
+4575,591,1,Desur,desur,dEsur0,d.e.s.u.r.,d/E\.'s/u\.r/[0]\,_,fro,596,PRE,PRE,,dessur,DMF,dessur,"Alexis, l. 596",,<lg n=&quot;120&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;596&quot;>
 4576,591,2,terre,terre,tɛrrə,t.e.r.r.e,'t/ɛ\r.r/(ə)\,|,fro,596,NOMcom,NOMcom,sfr,terre,DMF,terre,"Alexis, l. 596",,
 4577,591,3,ne,ne,nE,n.e,n/(E)\,+,fro,596,ADVneg,ADVneg,,ne,DMF,ne,"Alexis, l. 596",,<lb/>
 4578,591,4,l,l,L,l,/\L,_,fro,596,PRCper,PRCper,3sma,le,DMF,le,"Alexis, l. 596",,
@@ -4612,7 +4612,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4611,595,7,seit,seit,SEiT,s.e.i.t,S/E\iT,_,fro,600,VERcjg,VERcjg,subpst3,être,DMF,être,"Alexis, l. 600",,
 4612,595,8,boens,boens,buENS,b.o.e.n.s,b/uE\NS,_,fro,600,ADJqua,ADJqua,smn,bon,DMF,bon,"Alexis, l. 600",,
 4613,595,9,plaidiz,plaidiz,pLAidiTS,p.l.a.i.d.i.z.,pL/A\i.'d/i\TS,.,fro,600,NOMcom,NOMcom,smn,plaidis,TL,,"Alexis, l. 600",</l></lg>,
-4614,596,1,Vait,vait,vAiT,v.a.i.t,v/A\iT,_,fro,601,VERcjg,VERcjg,indpst3,aller,DMF,aller,"Alexis, l. 601",,<lg n=&quot;121&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;601&quot;>
+4614,596,1,Vait,vait,vAiT,v.a.i.t,v/A\iT,_,fro,601,VERcjg,VERcjg,indpst3,aller,DMF,aller,"Alexis, l. 601",,<lg n=&quot;121&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;601&quot;>
 4615,596,2,s,s,S,s,S/\,+,fro,601,PRCper,PRCper,3smr,se,DMF,se,"Alexis, l. 601",,
 4616,596,3,en,en,ÆN,e.n,/Æ\N,_,fro,601,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 601",,
 4617,596,4,li,li,Li,l.i,L/i\,+,fro,601,DETdef,DETdef,smn,le,DMF,le,"Alexis, l. 601",,
@@ -4650,7 +4650,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4649,600,6,lur,lur,Lur,l.u.r,L/u\r,_,fro,605,DETpos,DETpos,6pfn,leur2,DMF,leur2,"Alexis, l. 605",,
 4650,600,7,anames,anames,AnəməS,a.n.a.m.e.s,'/A\.n/[ə]\.m/ə\S,_,fro,605,NOMcom,NOMcom,pfn,âme,DMF,âme,"Alexis, l. 605",,
 4651,600,8,saluedes,salvedes,SALvæðəS,s.a.l.v.e.d.e.s,S/A\L.'v/æ\.ð/ə\S,.,fro,605,VERppe,VERppe,pfn,sauver,DMF,sauver,"Alexis, l. 605",</l></lg>,
-4652,601,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,606,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 606",,<lg n=&quot;122&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;606&quot;>
+4652,601,1,Sainz,sainz,SAiNTS,s.a.i.n.z.,S/A\iNTS,_,fro,606,ADJqua,ADJqua,smn,saint,DMF,saint,"Alexis, l. 606",,<lg n=&quot;122&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;606&quot;>
 4653,601,2,alexis,alexis,ALEkSiS,a.l.e.x..i.s,/A\.L/E\k.'S/i\S,_,fro,606,NOMpro,NOMpro,smn,Alexis,---,,"Alexis, l. 606",,
 4654,601,3,est,est,EST,e.s.t,/E\ST,_,fro,606,VERcjg,VERcjg,indpst3,être,DMF,être,"Alexis, l. 606",,
 4655,601,4,e,e,E,e,/E\,_,fro,606,PRE,PRE,,en,DMF,en,"Alexis, l. 606",,
@@ -4694,7 +4694,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4693,605,7,ledece,ledece,LEðeʦə,l.e.d.e.c.e,L/E\.'ð/e\.ʦ/(ə)\,_,fro,610,NOMcom,NOMcom,sfn,liesse,DMF,liesse,"Alexis, l. 610",,
 4694,605,8,est,est,EST,e.s.t,/E\ST,_,fro,610,VERcjg,VERcjg,indpst3,être,DMF,être,"Alexis, l. 610",,
 4695,605,9,grande,grande,grANdə,g.r.a.n.d.e,'gr/A\N.d/(ə)\,_,fro,610,ADJqua,ADJqua,sfn,grand,DMF,grand,"Alexis, l. 610",</l></lg>,
-4696,606,1,Cum,cum,kOm,c.u.m,k/O\m,_,fro,611,ADVint,ADVint,,comme,DMF,comme,"Alexis, l. 611",,<lg n=&quot;123&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;611&quot;>
+4696,606,1,Cum,cum,kOm,c.u.m,k/O\m,_,fro,611,ADVint,ADVint,,comme,DMF,comme,"Alexis, l. 611",,<lg n=&quot;123&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;611&quot;>
 4697,606,2,bone,bone,bOnə,b.o.n.e,'b/O\.n/(ə)\,_,fro,611,ADJqua,ADJqua,sfr,bon,DMF,bon,"Alexis, l. 611",,
 4698,606,3,peine,peine,pEinə,p.e.i.n.e,'p/E\i.n/(ə)\,_,fro,611,NOMcom,NOMcom,sfr,peine,DMF,peine,"Alexis, l. 611",,
 4699,606,4,d[eu]s,deus,dæuS,d.e.u.s,d/æ\uS,_,fro,611,NOMpro,NOMpro,smn,Dieu,DMF,Dieu,"Alexis, l. 611",,
@@ -4735,7 +4735,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4734,610,5,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,615,VERcjg,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 615",,
 4735,610,6,deu,deu,dæu,d.e.u,d/æ\u,|,fro,615,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 615",,
 4736,610,7,medisme,medisme,mEðiSmə,m.e.d.i.s.m.e,m/E\.'ð/i\S.m/(ə)\,.|,fro,615,ADJind,ADJind,smr,même,DMF,même,"Alexis, l. 615",</l></lg>,<lb/>
-4737,611,1,Las,las,LaS,l.a.s,L/a\S,_,fro,616,ADJqua,ADJqua,pmr,las,DMF,las,"Alexis, l. 616",,<pb n=&quot;34v&quot;/><lb/><lg n=&quot;124&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;616&quot;>
+4737,611,1,Las,las,LaS,l.a.s,L/a\S,_,fro,616,ADJqua,ADJqua,pmr,las,DMF,las,"Alexis, l. 616",,<pb n=&quot;34v&quot;/><lb/><lg n=&quot;124&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;616&quot;>
 4738,611,2,malfeuz,malfeuz,mALfEyTS,m.a.l.f.e.u.z.,m/A\L.f/E\.'/y\TS,_,fro,616,ADJqua,ADJqua,pmr,maufëu,TL,,"Alexis, l. 616",,
 4739,611,3,cum,cum,kOm,c.u.m,k/O\m,_,fro,616,ADVint,ADVint,,comme,DMF,comme,"Alexis, l. 616",,
 4740,611,4,esmes,esmes,æSməS,e.s.m.e.s,'/æ\S.m/ə\S,_,fro,616,VERcjg,VERcjg,indipf4,être,DMF,être,"Alexis, l. 616",,
@@ -4766,7 +4766,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4765,615,4,home,home,Omə,ho.m.e,'/O\.m/(ə)\,_,fro,620,NOMcom,NOMcom,smr,homme,DMF,homme,"Alexis, l. 620",,
 4766,615,5,doussum,doussum,dOysOm,d.o.u.ss.u.m,d/O\./y\.'s/O\m,_,fro,620,VERcjg,VERcjg,subipf4,devoir,DMF,devoir,"Alexis, l. 620",,
 4767,615,6,ralumer,ralumer,rALymær,r.a.l.u.m.e.r,r/A\.L/y\.'m/æ\r,.,fro,620,VERinf,VERinf,,rallumer,DMF,rallumer,"Alexis, l. 620",</l></lg>,
-4768,616,1,Aiuns,aiuns,AiONS,a.i.u.n.s,/A\i.'/O\NS,_,fro,621,VERcjg,VERcjg,subpst4,avoir,DMF,avoir,"Alexis, l. 621",,<lg n=&quot;125&quot; type=&quot;strophe&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;621&quot;>
+4768,616,1,Aiuns,aiuns,AiONS,a.i.u.n.s,/A\i.'/O\NS,_,fro,621,VERcjg,VERcjg,subpst4,avoir,DMF,avoir,"Alexis, l. 621",,<lg n=&quot;125&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;621&quot;>
 4769,616,2,seignors,seignors,SEiɲurS,s.e.i.gn.o.r.s,S/E\i.'ɲ/u\rS,_,fro,621,NOMcom,NOMcom,pmr,seigneur,DMF,seigneur,"Alexis, l. 621",,
 4770,616,3,cel,cel,ÇeL,c.e.l,Ç/e\L,_,fro,621,DETdem,DETdem,smr,cil,DMF,cil,"Alexis, l. 621",,
 4771,616,4,saint,saint,SAiNT,s.a.i.n.t,S/A\iNT,_,fro,621,ADJqua,ADJqua,smr,saint,DMF,saint,"Alexis, l. 621",,

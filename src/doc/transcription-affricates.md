@@ -34,16 +34,16 @@ the north-east which we can assume post-dates the texts in question
 
 Possible underspecified symbols for a palatalized and possibly affricated ʧ/ʤ
 ------------------------------------------------------------------------------
-| Symbol	| IPA	| cons	| son	| cont	| strident	| lat	| nas	| LABIAL	| CORONAL	| ant	| dist	| DORSAL	| high	| back	| LARYNGEAL	| voice	|
-| ---		|---	| ---	| ---	| ---	| ---		| ---	| ---	| ---		| ---		| ---	| ---	| ---		| ---	| ---	| ---		| ---	|
-| G         |       | +		| -		| 		| 			| -		| -		|			|			|		|		| +			|		|		| 			| 		|
-| K			|		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		| +		|			|		|
-| k			| k		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		| +		|			| -		|
-| g			| g		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		| +		|			| +		|
-| ɲ			| ɲ		| +		| +		| -		|			| -		| +		|			|			|		|		| +			| +		| -		|			| +		|
-| Ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			| +		|		|			|		|
-| ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			| +		|		|			| -		|
-| ġ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			| +		|		|			| +		|
+| Symbol	| IPA	| cons	| son	| cont	| strident	| lat	| nas	| LABIAL	| CORONAL	| ant	| dist	| DORSAL	| back	| LARYNGEAL	| voice	|
+| ---		|---	| ---	| ---	| ---	| ---		| ---	| ---	| ---		| ---		| ---	| ---	| ---		| ---	| ---		| ---	|
+| G         |       | +		| -		| 		| 			| -		| -		|			|			|		|		| +			|		| 			| 		|
+| K			|		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		|			|		|
+| k			| k		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		|			| -		|
+| g			| g		| +		| -		| -		| -			| -		| -		|			|			|		|		| +			| +		|			| +		|
+| ɲ			| ɲ		| +		| +		| -		|			| -		| +		|			|			|		|		| +			| -		|			| +		|
+| Ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			|		|
+| ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| -		|
+| ġ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| +		|
 
 Transcription rules
 -------------------

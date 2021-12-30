@@ -274,6 +274,8 @@ Velars:
 	- <qu>/<gu> digraphs transcribed consistently as velar stops (/w/ has fallen
 	in some contexts)
 	- no palatalization of /k/, /g/ before /a/
+		- update Dec 2022: the ċ and ġ symbols were introduced in this text
+		following northern conventions.
 	- geminate graphies <cc> transcribed as single consonant.
 	- geminate <gg> in <veggra> transcribed as single consonant (poss. lengthening
 	due to loss of nasal).
@@ -315,7 +317,8 @@ Front mid vowels.
 - /e/ is transcribed:
 	- at the TONIC...
 	- when from VL /e/
-	- also in the (rare) <ei> diphthongs
+	- also in the <ei> diphthongs, i.e. diphthongs formed from VL [e]
+		plus yod, e.g. *dreit*, *rei*.
 - /ɛ/ is transcribed:
 	- at the TONIC...
 	- when from VL /ɛ/
@@ -467,20 +470,4 @@ problem:
 		
 Consonants:
 	- /ɣ/ is used in <sagrament>
-		
---------------------------------------------------------------------------------
-Notes on symbols used in Sponsus:
-
-Post-tonic vowels:
-	- No evidence for merger of <-a> and <-e>, so these are annotated as in 
-	Occitan texts.
-	
-Tonic free vowels:
-	- Clear evidence of tonic-free <a> > <e>.
-	- Unclear after palatal (also written <e>), transcribed as /E/ (cf. Léger).
-	These are (sometimes) mixed in assonance with reflexes of [æ].
-	
-P5 ending:
-	- Assonance tells us little about whether the OF [æ]/[iE] generalization
-	has taken place. Annotation assumes that it has.
-	
+			

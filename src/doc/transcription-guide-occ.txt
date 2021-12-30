@@ -170,4 +170,20 @@ Vowels:
 Seven-vowel system /i e ɛ a ɔ u y/ annotated in tonics only.
 
 	- <ei> from etymological [a] + pal. is transcribed [ɛi] as per the edition.
+
+--------------------------------------------------------------------------------
+Notes on symbols used in Sponsus:
+
+Tonic free vowels:
+	- Clear evidence of tonic-free <a> > <e>, but assuming that the OCCITAN
+		vowel system is used, these are transcribed as [ɛ] rather than [æ]
+	- Reflexes of palatal + tonic free [a] are also written <e> but are
+	freely mixed in assonance with developments after non-palatals.
 	
+P5 ending:
+	- Assonance tells us little about whether the OF [æ]/[iE] generalization
+	has taken place. Annotation assumes that it has. (CHECK THIS).
+	
+Final consonants:
+	- As in *Passion* the underspecified /Z/ transcription is used for all
+	final coronals, as there is no clear distinction between /T/ and /Ç/.
