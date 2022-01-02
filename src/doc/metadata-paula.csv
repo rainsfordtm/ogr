@@ -25,6 +25,19 @@ paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,author,anonymous
 paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
 paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,form,prose
 paula/grid/AlexisProl/ogr.AlexisProl.anno_feat.xml,source,ms. image
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,text,BenClerm
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,lang,pro
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,lang_other,---
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,ms_cent,10
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,ms_origin,southern France
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,text_cent,10
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,text_origin,southern France
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,title_en,Clermont Blessings
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,title_fr,Formules de bénédiction de Clermont
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,author,anonymous
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 201"
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,form,prose
+paula/grid/BenClerm/ogr.BenClerm.anno_feat.xml,source,ms. image
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,text,Boeci
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang,pro
 paula/grid/Boeci/ogr.Boeci.anno_feat.xml,lang_other,---

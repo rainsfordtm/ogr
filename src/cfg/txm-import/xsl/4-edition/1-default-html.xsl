@@ -249,8 +249,8 @@
     
     <xsl:template match="tei:*">
         <xsl:choose>
-            <xsl:when test="not(descendant::tei:lg or descendant::tei:ab)">
-                <!-- Only allow spans which don't contain abs or lgs because these are printed as tables -->
+            <xsl:when test="not(descendant::tei:lg or descendant::tei:ab or descendant::tei:p)">
+                <!-- Spans if it doesn't contain abs, lgs or ps.-->
                 <xsl:element name="span">
                     <xsl:attribute name="class" select="local-name()"/>
                     <xsl:if test="@xml:lang">
@@ -260,7 +260,14 @@
                 </xsl:element>
             </xsl:when>
             <xsl:otherwise>
-                <xsl:apply-templates/>
+                <!-- Use a div -->
+                <xsl:element name="div">
+                    <xsl:attribute name="class" select="local-name()"/>
+                    <xsl:if test="@xml:lang">
+                        <xsl:attribute name="lang" select="@xml:lang"/>
+                    </xsl:if>
+                    <xsl:apply-templates/>
+                </xsl:element>
             </xsl:otherwise>
         </xsl:choose>
         <xsl:if test="local-name() = 's' and ancestor::tei:p">

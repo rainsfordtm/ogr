@@ -28,8 +28,12 @@
 	margin-right: 0.2em;
 }
 
-.secl {
+div.secl {
     border-top: solid;
+    border-bottom: solid;
+}
+
+div.div {
     border-bottom: solid;
 }
 
