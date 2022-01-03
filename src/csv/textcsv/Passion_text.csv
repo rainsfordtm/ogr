@@ -1646,7 +1646,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1645,297,6,men|tid,mentid,mENtiD,m.e.n.t.i.d,m/E\N.'t/i\D,_,297,Vfin,Vfin,fro,mentir,DMF,mentir,VERcjg,VERcjg,indpsp3,"Passion, l. 297",</l>,
 1646,298,1,chi,chi,ki,ch.i,k/i\,_,298,Qux,Qux,fro,qui,DMF,qui,PRNrel,PRNrel,smn,"Passion, l. 298",,<lb/><l n=&quot;298&quot;>
 1647,298,2,en,en,EN,e.n,/[E]\N,_,298,Pre,Pre,fro,en,DMF,en,PRE,PRE,,"Passion, l. 298",,
-1648,298,3,epsa,epsa,ePSə,e.p.s.a,'/e\.PS/(ə)\,_,298,Adj,Adj,fro,eps,DMF,eps,ADJind,ADJind,sfr,"Passion, l. 298",,
+1648,298,3,epsa,epsa,ePSə,e.p.s.a,'/e\P.S/(ə)\,_,298,Adj,Adj,fro,eps,DMF,eps,ADJind,ADJind,sfr,"Passion, l. 298",,
 1649,298,4,mort,mort,mɔrZ,m.o.r.t,m/ɔ\rZ,_,298,N,N,fro,mort,DMF,mort,NOMcom,NOMcom,sfr,"Passion, l. 298",,
 1650,298,5,se[m]_p[er],semper,SENpər,s.e.m.p.e.r,'S/E\N.p/ə\r,_,298,Adv,Adv,fro,sempres,DMF,sempres,ADVgen,ADVgen,,"Passion, l. 298",,
 1651,298,6,fu,fu,fy,f.u,f/y\,|,298,Vfin,Vfin,fro,être,DMF,être,VERcjg,VERcjg,indpsp3,"Passion, l. 298",,
@@ -1734,7 +1734,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1733,312,5,sus_pensus,suspensus,QVQQVRQVQ,s.u.s.p.e.n.s.u.s,R/V\R.'Q/V\R.R/V\R,_,312,Vpp,Vpp,lat,suspendre,DMF,suspendre,VERppe,VERppe,smn,"Passion, l. 312",,<lb/>
 1734,312,6,fure,fure,fyrə,f.u.r.e,'f/y\.r/(ə)\,;|,312,Vfin,Vfin,fro,être,DMF,être,VERcjg,VERcjg,indpqp3,"Passion, l. 312",</l></lg>,
 1735,313,1,Ad,ad,að,a.d,/a\ð,_,313,Pre,Pre,fro,à,DMF,à,PRE,PRE,,"Passion, l. 313",,<lb/><lg n=&quot;79&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;313&quot;>
-1736,313,2,epsa,epsa,ePSə,e.p.s.a,'/e\.PS/(ə)\,_,313,Adj,Adj,fro,eps,DMF,eps,ADJind,ADJind,sfr,"Passion, l. 313",,
+1736,313,2,epsa,epsa,ePSə,e.p.s.a,'/e\P.S/(ə)\,_,313,Adj,Adj,fro,eps,DMF,eps,ADJind,ADJind,sfr,"Passion, l. 313",,
 1737,313,3,nona,nona,nOnə,n.o.n.a,'n/O\.n/(ə)\,_,313,N,N,fro,none,DMF,none,NOMcom,NOMcom,sfr,"Passion, l. 313",,
 1738,313,4,cu[m],cum,kOm,c.u.m,k/O\m,_,313,Sub,Sub,fro,comme,DMF,comme,CONsub,CONsub,,"Passion, l. 313",,
 1739,313,5,p[er]ueng,perveng,pErvEɲ,p.e.r.v.e.ng,p/E\r.'v/E\ɲ,.|,313,Vfin,Vfin,fro,parvenir,DMF,parvenir,VERcjg,VERcjg,indpsp3,"Passion, l. 313",</l>,
@@ -2536,7 +2536,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 2535,453,6,l,l,L,l,L/\,_,453,Prn,Prn%%,fro,le,DMF,le,PRCper,PRCper,6pma,"Passion, l. 453",,
 2536,453,7,allar,allar,Alær,a.ll.a.r,/A\.'l/æ\r,_,453,Vinf,Vinf,fro,aller,DMF,aller,VERinf,VERinf,,"Passion, l. 453",</l>,
 2537,454,1,toz,toz,toZ,t.o.z,t/o\Z,_,454,QIs,QIs,fro,tous,DMF,tous,PRNind,PRNind,pmr,"Passion, l. 454",,<l n=&quot;454&quot;>
-2538,454,2,babzi|zar,babzizar,bAPZiZær,b.a.b.z.i.z.a.r,b/A\.PZ/i\.'Z/æ\r,_,454,Vinf,Vinf,fro,baptiser,DMF,baptiser,VERinf,VERinf,,"Passion, l. 454",,
+2538,454,2,babzi|zar,babzizar,bAPZiZær,b.a.b.z.i.z.a.r,b/A\P.Z/i\.'Z/æ\r,_,454,Vinf,Vinf,fro,baptiser,DMF,baptiser,VERinf,VERinf,,"Passion, l. 454",,
 2539,454,3,in,in,EN,i.n,/E\N,+,454,Pre,Pre,fro,en,DMF,en,PRE,PRE,,"Passion, l. 454",,<lb/>
 2540,454,4,trinitad,trinitad,trinitæZ,t.r.i.n.i.t.a.d,tr/i\.n/i\.'t/æ\Z,_,454,N,N,fro,trinité,DMF,trinité,NOMcom,NOMcom,sfr,"Passion, l. 454",</l>,
 2541,455,1,qui,qui,ki,qu.i,k/i\,_,455,Qux,Qux,fro,qui,DMF,qui,PRNrel,PRNrel,pmn,"Passion, l. 455",,<l n=&quot;455&quot;>
@@ -2861,7 +2861,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 2860,513,3,pi|tad,pitad,pitæZ,p.i.t.a.d,p/i\.'t/æ\Z,_,512,N,N,fro,pitié,DMF,pitié,NOMcom,NOMcom,sfr,"Passion, l. 512",,
 2861,513,4,lo,lo,LO,l.o,L/(O)\,+,512,Prn,Prn$$,fro,le,DMF,le,PRCper,PRCper,3sna,"Passion, l. 512",,<lb/>
 2862,513,5,[m],m,m,m,/\m,_,512,Prn,Prn$$,fro,me,DMF,me,PRCper,PRCper,1smr,"Passion, l. 512",,
-2863,513,6,p[er]_dones,perdones,pErdOnɛS,p.e.r.d.o.n.e.s,p/E\r.d/O\.'n/e\S,;|,512,Vfin,Vfin,fro,pardonner,DMF,pardonner,VERcjg,VERcjg,subipf2,"Passion, l. 512",</l></lg>,
+2863,513,6,p[er]_dones,perdones,pErdOneS,p.e.r.d.o.n.e.s,p/E\r.d/O\.'n/e\S,;|,512,Vfin,Vfin,fro,pardonner,DMF,pardonner,VERcjg,VERcjg,subipf2,"Passion, l. 512",</l></lg>,
 2864,514,1,Te,te,tE,t.e,t/(E)\,_,513,Prn,Prn$$,fro,te,DMF,te,PRCper,PRCper,2smr,"Passion, l. 513",,<lb/><lg n=&quot;129&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;513&quot;>
 2865,514,2,pos_che,posche,pOSkə,p.o.s.ch.e,'p/O\S.k/(ə)\,_,513,Vfin,Vfin,fro,pouvoir,DMF,pouvoir,VERcjg,VERcjg,subpst1,"Passion, l. 513",,
 2866,514,3,r[et]dræ,retdrae,redrə,r.e.td.r.ae,'r/e\.dr/(ə)\,_,513,Vinf,Vinf,fro,rendre,DMF,rendre,VERinf,VERinf,,"Passion, l. 513",,
