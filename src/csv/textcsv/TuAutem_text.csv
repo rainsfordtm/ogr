@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,TU,tu,_,lat,ETR,,,---,---,,"TuAutem, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;44r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s&quot;/><lb/><docTitle lang=&quot;lat&quot;>
+1,1,1,TU,tu,_,lat,ETR,,,---,---,,"TuAutem, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;44r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f95.item&quot;/><lb/><docTitle lang=&quot;lat&quot;>
 2,1,2,AUTEM,autem,.|,lat,ETR,,,---,---,,"TuAutem, title",,</docTitle>,
 3,2,1,Be,be,_,pro,ADVgen,ADVgen,,béN,DOM,bien,"TuAutem, l. 1",,,<lb/><lg type=&quot;stanza&quot; rhyme=&quot;aaaaaa&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
 4,2,2,deu,deu,.,pro,VERcjg,VERcjg,indpst3,devér,DOM,devoir,"TuAutem, l. 1",,,
