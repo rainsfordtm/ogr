@@ -1,112 +1,112 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,In,in,_,lat,,,,,,,,,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1>
-2,1,2,hoc,hoc,_,lat,,,,,,,,,,
-3,1,3,anni,anni,–,lat,,,,,,,,,,
-4,1,4,circulo,circulo,–,lat,,,,,,,,,</l>,
-5,2,1,uita,vita,–,lat,,,,,,,,,,<l n=&quot;2&quot;>
-6,2,2,datur,datur,–,lat,,,,,,,,,,
-7,2,3,seculo,seculo,–,lat,,,,,,,,,</l>,
-8,3,1,natos,natos,_,lat,,,,,,,,,,<l n=&quot;3&quot;>
-9,3,2,nobis,nobis,–,lat,,,,,,,,,,
-10,3,3,paruulo,parvulo,–|,lat,,,,,,,,,</l><lb/>,
-11,4,1,De,de,_,lat,,,,,,,,,,<l n=&quot;4&quot;>
-12,4,2,uirgine,virgine,–,lat,,,,,,,,,,
-13,4,3,maria,maria,–,lat,,,,,,,,,</l></lg>,
-14,5,1,Mei,mei,_,pro,,,,,,,,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;5&quot;>
-15,5,2,amic,amic,–,pro,,,,,,,,,,
-16,5,3,e,e,+,pro,,,,,,,,,,
-17,5,4,mei,mei,–,pro,,,,,,,,,,
-18,5,5,fiel,fiel,–,pro,,,,,,,,,</l>,
-19,6,1,laisat,laisat,–,pro,,,,,,,,,,<l n=&quot;6&quot;>
-20,6,2,estar,estar,–,pro,,,,,,,,,,
-21,6,3,lo,lo,_,pro,,,,,,,,,,
-22,6,4,ga_zel,gazel,–|,pro,,,,,,,,,</l><lb/>,
-23,7,1,aprendet,aprendet,–,pro,,,,,,,,,,<l n=&quot;7&quot;>
-24,7,2,u,u,+,pro,,,,,,,,,,
-25,7,3,so,so,_,pro,,,,,,,,,,
-26,7,4,noel,noel,–,pro,,,,,,,,,</l>,
-27,8,1,De,de,+,lat,,,,,,,,,,<l xml:lang=&quot;lat&quot; n=&quot;8&quot;>
-28,8,2,uir[=uirgine],virgine,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-29,9,1,Fons,fons,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;9&quot;>
-30,9,2,de,de,+,lat,,,,,,,,,,
-31,9,3,suo,suo,–,lat,,,,,,,,,,
-32,9,4,riuulo,rivulo,–,lat,,,,,,,,,</l>,
-33,10,1,nascitur,nascitur,–,lat,,,,,,,,,,<l n=&quot;10&quot;>
-34,10,2,p[ro],pro,_,lat,,,,,,,,,,
-35,10,3,po–|pulo,populo,–,lat,,,,,,,,,</l><lb/>,
-36,11,1,necto,necto,–,lat,,,,,,,,,,<l n=&quot;11&quot;>
-37,11,2,mortis,mortis,–,lat,,,,,,,,,,
-38,11,3,uinc[u]lo,vinculo,_,lat,,,,,,,,,</l>,
-39,12,1,De,de,+,lat,,,,,,,,,,<l n=&quot;12&quot;>
-40,12,2,u[=uirgine],virgine,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-41,13,1,L_ais,lais,_,pro,,,,,,,,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;13&quot;>
-42,13,2,l,l,+,pro,,,,,,,,,,
-43,13,3,om,om,_,pro,,,,,,,,,,
-44,13,4,di_re,dire,–,pro,,,,,,,,,,
-45,13,5,chi,chi,_,pro,,,,,,,,,,
-46,13,6,no,no,+,pro,,,,,,,,,,
-47,13,7,u,u,+,pro,,,,,,,,,,
-48,13,8,sab,sab,–,pro,,,,,,,,,</l>,
-49,14,1,qu,qu,+,pro,,,,,,,,,,<l n=&quot;14&quot;>
-50,14,2,eu,eu,–|,pro,,,,,,,,,<lb/>,
-51,14,3,no,no,+,pro,,,,,,,,,,
-52,14,4,l,l,–,pro,,,,,,,,,,
-53,14,5,dirai,dirai,–,pro,,,,,,,,,,
-54,14,6,ses,ses,_,pro,,,,,,,,,,
-55,14,7,nul,nul,_,pro,,,,,,,,,,
-56,14,8,gab,gab,–,pro,,,,,,,,,</l>,
-57,15,1,mout,mout,–,pro,,,,,,,,,,<l n=&quot;15&quot;>
-58,15,2,nen,nen,–,pro,,,,,,,,,,
-59,15,3,issit,issit,–,pro,,,,,,,,,,
-60,15,4,a,a,+,pro,,,,,,,,,,
-61,15,5,bo,bo,_,pro,,,,,,,,,,
-62,15,6,chab,chab,_,pro,,,,,,,,,</l>,
-63,16,1,De,de,_,lat,,,,,,,,,,<l n=&quot;16&quot;>
-64,16,2,u[=uirgine],virgine,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-65,17,1,Quod,quod,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;17&quot;>
-66,17,2,ue–|tustas,vetustas,–,lat,,,,,,,,,<lb/>,
-67,17,3,suffocat,suffocat,–,lat,,,,,,,,,</l>,
-68,18,1,hoc,hoc,_,lat,,,,,,,,,,<l n=&quot;18&quot;>
-69,18,2,ad,ad,_,lat,,,,,,,,,,
-70,18,3,uitam,vitam,–,lat,,,,,,,,,,
-71,18,4,reuocat,revocat,–,lat,,,,,,,,,</l>,
-72,19,1,nam,nam,+,lat,,,,,,,,,,<l n=&quot;19&quot;>
-73,19,2,se,se,_,lat,,,,,,,,,,
-74,19,3,deus,deus,–,lat,,,,,,,,,,
-75,19,4,collocat,collocat,_,lat,,,,,,,,,</l>,
-76,20,1,De,de,+,lat,,,,,,,,,,<l n=&quot;20&quot;>
-77,20,2,u[=uirgine],virgine,–|,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg><lb/>,
-78,21,1,So,so,+,pro,,,,,,,,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;21&quot;>
-79,21,2,sabiat,sabiat,_,pro,,,,,,,,,<supplied reason=&quot;illegible&quot;>lo qu es be ver</supplied></l>,
-80,22,1,no,no,_,pro,,,,,,,,,,<l n=&quot;22&quot;>
-81,22,2,chal,chal,_,pro,,,,,,,,,,
-82,22,3,c,c,+,pro,,,,,,,,,,
-83,22,4,om,om,_,pro,,,,,,,,,,
-84,22,5,s,s,+,pro,,,,,,,,,,
-85,22,6,en,en,–,pro,,,,,,,,,,
-86,22,7,des.esp[er],desesper,–,pro,,,,,,,,,</l>,
-87,23,1,deus,deus,–,pro,,,,,,,,,,<l n=&quot;23&quot;>
-88,23,2,i,i,_,pro,,,,,,,,,,
-89,23,3,uen,ven,–|,pro,,,,,,,,,<lb/>,
+1,1,1,In,in,_,lat,ETR,ETR,,---,---,,,,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1>
+2,1,2,hoc,hoc,_,lat,ETR,ETR,,---,---,,,,,
+3,1,3,anni,anni,–,lat,ETR,ETR,,---,---,,,,,
+4,1,4,circulo,circulo,–,lat,ETR,ETR,,---,---,,,,</l>,
+5,2,1,uita,vita,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;2&quot;>
+6,2,2,datur,datur,–,lat,ETR,ETR,,---,---,,,,,
+7,2,3,seculo,seculo,–,lat,ETR,ETR,,---,---,,,,</l>,
+8,3,1,natos,natos,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;3&quot;>
+9,3,2,nobis,nobis,–,lat,ETR,ETR,,---,---,,,,,
+10,3,3,paruulo,parvulo,–|,lat,ETR,ETR,,---,---,,,,</l><lb/>,
+11,4,1,De,de,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;4&quot;>
+12,4,2,uirgine,virgine,–,lat,ETR,ETR,,---,---,,,,,
+13,4,3,maria,maria,–,lat,ETR,ETR,,---,---,,,,</l></lg>,
+14,5,1,Mei,mei,_,pro,DETpos,,1pmn,mei2,DOM,,,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;5&quot;>
+15,5,2,amic,amic,–,pro,NOMcom,,pmn,amic,DOM,,,,,
+16,5,3,e,e,+,pro,CONcoo,,,e,DOM,,,,,
+17,5,4,mei,mei,–,pro,DETpos,,1pmn,mei2,DOM,,,,,
+18,5,5,fiel,fiel,–,pro,ADJqua,NOMcom,pmn,fezèl,DOM,,,,</l>,
+19,6,1,laisat,laisat,–,pro,VERcjg,,imp---5,laisar,DOM,,,,,<l n=&quot;6&quot;>
+20,6,2,estar,estar,–,pro,VERinf,,,estar,DOM,,,,,
+21,6,3,lo,lo,_,pro,DETdef,,smr,lo2,DOM,,,,,
+22,6,4,ga_zel,gazel,–|,pro,NOMcom,,smr,gazèl,DOM,,,,</l><lb/>,
+23,7,1,aprendet,aprendet,–,pro,VERcjg,,imp---5,apréndre,DOM,,,,,<l n=&quot;7&quot;>
+24,7,2,u,u,+,pro,DETndf,,smr,uN,DOM,,,,,
+25,7,3,so,so,_,pro,NOMcom,,smr,sóN,DOM,,,,,
+26,7,4,noel,noel,–,pro,ADJqua,,smr,novèl,DOM,,,,</l>,
+27,8,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;8&quot;>
+28,8,2,uir[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+29,9,1,Fons,fons,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;9&quot;>
+30,9,2,de,de,+,lat,ETR,ETR,,---,---,,,,,
+31,9,3,suo,suo,–,lat,ETR,ETR,,---,---,,,,,
+32,9,4,riuulo,rivulo,–,lat,ETR,ETR,,---,---,,,,</l>,
+33,10,1,nascitur,nascitur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;10&quot;>
+34,10,2,p[ro],pro,_,lat,ETR,ETR,,---,---,,,,,
+35,10,3,po–|pulo,populo,–,lat,ETR,ETR,,---,---,,,,</l><lb/>,
+36,11,1,necto,necto,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;11&quot;>
+37,11,2,mortis,mortis,–,lat,ETR,ETR,,---,---,,,,,
+38,11,3,uinc[u]lo,vinculo,_,lat,ETR,ETR,,---,---,,,,</l>,
+39,12,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;12&quot;>
+40,12,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+41,13,1,L_ais,lais,_,pro,VERcjg,,subpst3,laisar,DOM,,,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;13&quot;>
+42,13,2,l,l,+,pro,DETdef,,smn,lo2,DOM,,,,,
+43,13,3,om,om,_,pro,NOMcom,,smn,óme,DOM,,,,,
+44,13,4,di_re,dire,–,pro,VERinf,,,dire,DOM,,,,,
+45,13,5,chi,chi,_,pro,PRNrel,,smn,qui,DOM,,,,,
+46,13,6,no,no,+,pro,ADVneg,,,nóN,DOM,,,,,
+47,13,7,u,u,+,pro,PRCper,,3sma,lo3,DOM,,,,,
+48,13,8,sab,sab,–,pro,VERcjg,,indpst3,sabér,DOM,,,,</l>,
+49,14,1,qu,qu,+,pro,CONsub,,,que2,DOM,,,,,<l n=&quot;14&quot;>
+50,14,2,eu,eu,–|,pro,PRNper,,1smn,eu,DOM,,,,<lb/>,
+51,14,3,no,no,+,pro,ADVneg,,,nóN,DOM,,,,,
+52,14,4,l,l,–,pro,PRCper,,3sma,lo3,DOM,,,,,
+53,14,5,dirai,dirai,–,pro,VERcjg,,indfut1,dire,DOM,,,,,
+54,14,6,ses,ses,_,pro,PRE,,,séns,DOM,,,,,
+55,14,7,nul,nul,_,pro,DETind,,smr,nul,DOM,,,,,
+56,14,8,gab,gab,–,pro,NOMcom,,smr,gap,DOM,,,,</l>,
+57,15,1,mout,mout,–,pro,ADVgen,,,mólt,DOM,,,,,<l n=&quot;15&quot;>
+58,15,2,nen,nen,–,pro,ADVneg,,,nóN,DOM,,,,,
+59,15,3,issit,issit,–,pro,VERcjg,,indpsp3,eisir,DOM,,,,,
+60,15,4,a,a,+,pro,PRE,,,a2,DOM,,,,,
+61,15,5,bo,bo,_,pro,ADJqua,,smr,bóN,DOM,,,,,
+62,15,6,chab,chab,_,pro,NOMcom,,smr,cap,DOM,,,,</l>,
+63,16,1,De,de,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;16&quot;>
+64,16,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+65,17,1,Quod,quod,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;17&quot;>
+66,17,2,ue–|tustas,vetustas,–,lat,ETR,ETR,,---,---,,,,<lb/>,
+67,17,3,suffocat,suffocat,–,lat,ETR,ETR,,---,---,,,,</l>,
+68,18,1,hoc,hoc,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;18&quot;>
+69,18,2,ad,ad,_,lat,ETR,ETR,,---,---,,,,,
+70,18,3,uitam,vitam,–,lat,ETR,ETR,,---,---,,,,,
+71,18,4,reuocat,revocat,–,lat,ETR,ETR,,---,---,,,,</l>,
+72,19,1,nam,nam,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;19&quot;>
+73,19,2,se,se,_,lat,ETR,ETR,,---,---,,,,,
+74,19,3,deus,deus,–,lat,ETR,ETR,,---,---,,,,,
+75,19,4,collocat,collocat,_,lat,ETR,ETR,,---,---,,,,</l>,
+76,20,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;20&quot;>
+77,20,2,u[=uirgine],virgine,–|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg><lb/>,
+78,21,1,So,so,+,pro,PRNdem,,,so,DOM,,,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;21&quot;>
+79,21,2,sabiat,sabiat,_,pro,VERcjg,,subpst5,sabér,DOM,,,,<supplied reason=&quot;illegible&quot;>lo qu es be ver</supplied></l>,
+80,22,1,no,no,_,pro,ADVneg,,,nóN,DOM,,,,,<l n=&quot;22&quot;>
+81,22,2,chal,chal,_,pro,VERcjg,,indpst0,calér,DOM,,,,,
+82,22,3,c,c,+,pro,CONsub,,,que2,DOM,,,,,
+83,22,4,om,om,_,pro,PRNind,,smn,óme,DOM,,,,,
+84,22,5,s,s,+,pro,PRCper,,3smr,sé,DOM,,,,,
+85,22,6,en,en,–,pro,PRCadv,,,én3,DOM,,,,,
+86,22,7,des.esp[er],desesper,–,pro,VERcjg,,subpst3,dezesperar,DOM,,,,</l>,
+87,23,1,deus,deus,–,pro,NOMpro,,smn,dèu,DOM,,,,,<l n=&quot;23&quot;>
+88,23,2,i,i,_,pro,PRCadv,,,i,DOM,,,,,
+89,23,3,uen,ven,–|,pro,VERcjg,,indpst3,venir,DOM,,,,<lb/>,
 90,23,4,p[er],per,_,pro,,,,,,,,,,
 91,23,5,nos,nos,–,pro,,,,,,,,,,
 92,23,6,maner,maner,–,pro,,,,,,,,,</l>,
-93,24,1,In,in,+,lat,,,,,,,,,,<l xml:lang=&quot;lat&quot; n=&quot;24&quot;>
-94,24,2,te,te,_,lat,,,,,,,,,,
-95,24,3,u[ir]g[o],virgo,_,lat,,,,,,,,,,
-96,24,4,maria,maria,_,lat,,,,,,,,,</l></lg>,
-97,25,1,Sine,sine,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;25&quot;>
-98,25,2,uiri,viri,_,lat,,,,,,,,,,
-99,25,3,copula,copula,–,lat,,,,,,,,,</l>,
-100,26,1,florem,florem,–,lat,,,,,,,,,,<l n=&quot;26&quot;>
-101,26,2,de–|dit,dedit,–,lat,,,,,,,,,<lb/>,
-102,26,3,uirgula,virgula,–,lat,,,,,,,,,</l>,
-103,27,1,qui,qui,_,lat,,,,,,,,,,<l n=&quot;27&quot;>
-104,27,2,mariæ,mariae,–,lat,,,,,,,,,,
-105,27,3,in,in,+,lat,,,,,,,,,,
-106,27,4,secula,secula,_,lat,,,,,,,,,</l>,
-107,28,1,De,de,+,lat,,,,,,,,,,<l n=&quot;28&quot;>
-108,28,2,u[=uirgine],virgine,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+93,24,1,In,in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;24&quot;>
+94,24,2,te,te,_,lat,ETR,ETR,,---,---,,,,,
+95,24,3,u[ir]g[o],virgo,_,lat,ETR,ETR,,---,---,,,,,
+96,24,4,maria,maria,_,lat,ETR,ETR,,---,---,,,,</l></lg>,
+97,25,1,Sine,sine,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;25&quot;>
+98,25,2,uiri,viri,_,lat,ETR,ETR,,---,---,,,,,
+99,25,3,copula,copula,–,lat,ETR,ETR,,---,---,,,,</l>,
+100,26,1,florem,florem,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;26&quot;>
+101,26,2,de–|dit,dedit,–,lat,ETR,ETR,,---,---,,,,<lb/>,
+102,26,3,uirgula,virgula,–,lat,ETR,ETR,,---,---,,,,</l>,
+103,27,1,qui,qui,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;27&quot;>
+104,27,2,mariæ,mariae,–,lat,ETR,ETR,,---,---,,,,,
+105,27,3,in,in,+,lat,ETR,ETR,,---,---,,,,,
+106,27,4,secula,secula,_,lat,ETR,ETR,,---,---,,,,</l>,
+107,28,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;28&quot;>
+108,28,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
 109,29,1,No,no,+,pro,,,,,,,,,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;29&quot;>
 110,29,2,n,n,+,pro,,,,,,,,,,
 111,29,3,p[er]_drai,perdrai,–,pro,,,,,,,,,,
@@ -120,18 +120,18 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 119,31,3,es,es,_,pro,,,,,,,,,,
 120,31,4,p[ro]_feti–zat,profetizat,–,pro,,,,,,,,,</l>,
 121,32,1,pois,pois,_,pro,,,,,,,,,,<l n=&quot;32&quot;>
-122,32,2,uirgo,virgo,_,lat,,,,,,,,,,
-123,32,3,maria,maria,–|,lat,,,,,,,,,</l></lg><lb/>,
-124,33,1,S_um_mi,summi,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;33&quot;>
-125,33,2,patri,patri,–,lat,,,,,,,,,,
-126,33,3,filio,filio,–,lat,,,,,,,,,</l>,
-127,34,1,datur,datur,–,lat,,,,,,,,,,<l n=&quot;34&quot;>
-128,34,2,in,in,+,lat,,,,,,,,,,
-129,34,3,presepio,presepio,–,lat,,,,,,,,,</l>,
-130,35,1,sed,sed,_,lat,,,,,,,,,,<l n=&quot;35&quot;>
-131,35,2,uolentes,volentes,–,lat,,,,,,,,,,
-132,35,3,mansio,mansio,–,lat,,,,,,,,,</l>,
-133,36,1,e,e,–|,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg><lb/>,<l n=&quot;36&quot;>
+122,32,2,uirgo,virgo,_,lat,ETR,ETR,,---,---,,,,,
+123,32,3,maria,maria,–|,lat,ETR,ETR,,---,---,,,,</l></lg><lb/>,
+124,33,1,S_um_mi,summi,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;33&quot;>
+125,33,2,patri,patri,–,lat,ETR,ETR,,---,---,,,,,
+126,33,3,filio,filio,–,lat,ETR,ETR,,---,---,,,,</l>,
+127,34,1,datur,datur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;34&quot;>
+128,34,2,in,in,+,lat,ETR,ETR,,---,---,,,,,
+129,34,3,presepio,presepio,–,lat,ETR,ETR,,---,---,,,,</l>,
+130,35,1,sed,sed,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;35&quot;>
+131,35,2,uolentes,volentes,–,lat,ETR,ETR,,---,---,,,,,
+132,35,3,mansio,mansio,–,lat,ETR,ETR,,---,---,,,,</l>,
+133,36,1,e,e,–|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg><lb/>,<l n=&quot;36&quot;>
 134,37,1,Eu,eu,_,pro,,,,,,,,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;37&quot;>
 135,37,2,soi,soi,–,pro,,,,,,,,,,
 136,37,3,l,l,+,pro,,,,,,,,,,
@@ -147,16 +147,16 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 146,39,4,de,de,+,pro,,,,,,,,,,
 147,39,5,u,u,–|,pro,,,,,,,,,<lb/>,
 148,39,6,cel,cel,–,pro,,,,,,,,,</l>,
-149,40,1,n[=In],in,+,lat,,,,,,,,,,<l xml:lang=&quot;lat&quot; n=&quot;40&quot;>
-150,40,2,te,te,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
-151,41,1,Animal,animal,–,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;41&quot;>
-152,41,2,impositum,impositum,–,lat,,,,,,,,,</l>,
-153,42,1,ueneratur,veneratur,–,lat,,,,,,,,,,<l n=&quot;42&quot;>
-154,42,2,agni_tum,agnitum,–,lat,,,,,,,,,</l>,
-155,43,1,hu[n]c,hunc,_,lat,,,,,,,,,,<l n=&quot;43&quot;>
-156,43,2,infantem,infantem,–|,lat,,,,,,,,,<lb/>,
-157,43,3,genitum,genitum,–,lat,,,,,,,,,</l>,
-158,44,1,E,e,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;44&quot;>
+149,40,1,n[=In],in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;40&quot;>
+150,40,2,te,te,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
+151,41,1,Animal,animal,–,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;41&quot;>
+152,41,2,impositum,impositum,–,lat,ETR,ETR,,---,---,,,,</l>,
+153,42,1,ueneratur,veneratur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;42&quot;>
+154,42,2,agni_tum,agnitum,–,lat,ETR,ETR,,---,---,,,,</l>,
+155,43,1,hu[n]c,hunc,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;43&quot;>
+156,43,2,infantem,infantem,–|,lat,ETR,ETR,,---,---,,,,<lb/>,
+157,43,3,genitum,genitum,–,lat,ETR,ETR,,---,---,,,,</l>,
+158,44,1,E,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;44&quot;>
 159,45,1,Cum,cum,_,pro,,,,,,,,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;45&quot;>
 160,45,2,la,la,+,pro,,,,,,,,,,
 161,45,3,reina,reina,_,pro,,,,,,,,,,
@@ -174,16 +174,16 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 173,47,5,so,so,_,pro,,,,,,,,,,
 174,47,6,talent,talent,–,pro,,,,,,,,,</l>,
 175,48,1,e,e,_,pro,,,,,,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l xml:lang=&quot;lat&quot; n=&quot;48&quot;>
-176,49,1,O,o,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;13&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;49&quot;>
-177,49,2,beata,beata,_,lat,,,,,,,,,,
-178,49,3,femina,femina,–,lat,,,,,,,,,</l>,
-179,50,1,cui[us],cuius,_,lat,,,,,,,,,,<l n=&quot;50&quot;>
-180,50,2,uentris,ventris,–,lat,,,,,,,,,,
-181,50,3,sarcina,sarcina,_,lat,,,,,,,,,</l>,
-182,51,1,mun–|di,mundi,_,lat,,,,,,,,,<lb/>,<l n=&quot;51&quot;>
-183,51,2,luit,luit,–,lat,,,,,,,,,,
-184,51,3,crimi_na,crimina,–,lat,,,,,,,,,</l>,
-185,52,1,e,e,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;52&quot;>
+176,49,1,O,o,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;13&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;49&quot;>
+177,49,2,beata,beata,_,lat,ETR,ETR,,---,---,,,,,
+178,49,3,femina,femina,–,lat,ETR,ETR,,---,---,,,,</l>,
+179,50,1,cui[us],cuius,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;50&quot;>
+180,50,2,uentris,ventris,–,lat,ETR,ETR,,---,---,,,,,
+181,50,3,sarcina,sarcina,_,lat,ETR,ETR,,---,---,,,,</l>,
+182,51,1,mun–|di,mundi,_,lat,ETR,ETR,,---,---,,,,<lb/>,<l n=&quot;51&quot;>
+183,51,2,luit,luit,–,lat,ETR,ETR,,---,---,,,,,
+184,51,3,crimi_na,crimina,–,lat,ETR,ETR,,---,---,,,,</l>,
+185,52,1,e,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;52&quot;>
 186,53,1,Cum,cum,_,pro,,,,,,,,,,<lg n=&quot;14&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;53&quot;>
 187,53,2,la,la,+,pro,,,,,,,,,,
 188,53,3,rei_na,reina,–,pro,,,,,,,,,,
@@ -202,19 +202,19 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 201,55,4,u,u,+,pro,,,,,,,,,,
 202,55,5,so,so,–,pro,,,,,,,,,,
 203,55,6,chausit,chausit,_,pro,,,,,,,,,</l>,
-204,56,1,In,in,+,lat,,,,,,,,,,<l xml:lang=&quot;lat&quot; n=&quot;56&quot;>
-205,56,2,te,te,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
-206,57,1,Illi,illi,_,lat,,,,,,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;15&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;57&quot;>
-207,57,2,laus,laus,–,lat,,,,,,,,,,
-208,57,3,[et],et,+,lat,,,,,,,,,,
-209,57,4,gloria,gloria,–,lat,,,,,,,,,</l>,
-210,58,1,honor,honor,_,lat,,,,,,,,,,<l n=&quot;58&quot;>
-211,58,2,uir–|tus,virtus,–,lat,,,,,,,,,<lb/>,
-212,58,3,gratia,gratia,–,lat,,,,,,,,,</l>,
-213,59,1,decus,decus,–,lat,,,,,,,,,,<l n=&quot;59&quot;>
-214,59,2,[et],et,+,lat,,,,,,,,,,
-215,59,3,uictoria,victoria,–,lat,,,,,,,,,</l>,
-216,60,1,e,e,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;60&quot;>
+204,56,1,In,in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;56&quot;>
+205,56,2,te,te,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
+206,57,1,Illi,illi,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;15&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;57&quot;>
+207,57,2,laus,laus,–,lat,ETR,ETR,,---,---,,,,,
+208,57,3,[et],et,+,lat,ETR,ETR,,---,---,,,,,
+209,57,4,gloria,gloria,–,lat,ETR,ETR,,---,---,,,,</l>,
+210,58,1,honor,honor,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;58&quot;>
+211,58,2,uir–|tus,virtus,–,lat,ETR,ETR,,---,---,,,,<lb/>,
+212,58,3,gratia,gratia,–,lat,ETR,ETR,,---,---,,,,</l>,
+213,59,1,decus,decus,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;59&quot;>
+214,59,2,[et],et,+,lat,ETR,ETR,,---,---,,,,,
+215,59,3,uictoria,victoria,–,lat,ETR,ETR,,---,---,,,,</l>,
+216,60,1,e,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;60&quot;>
 217,61,1,Tv,tu,_,pro,,,,,,,,,,<lg n=&quot;16&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;61&quot;>
 218,61,2,es,es,_,pro,,,,,,,,,,
 219,61,3,mesat_ies,mesaties,–,pro,,,,,,,,,,
@@ -235,8 +235,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 234,63,5,e,e,+,pro,,,,,,,,,,
 235,63,6,m,m,+,pro,,,,,,,,,,
 236,63,7,autrei,autrei,_,pro,,,,,,,,,</l>,
-237,64,1,E_go,ego,_,lat,,,,,,,,,,<l n=&quot;64&quot;>
-238,64,2,ui[r]g[o],virgo,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+237,64,1,E_go,ego,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;64&quot;>
+238,64,2,ui[r]g[o],virgo,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
 239,65,1,Ancela,ancela,_,pro,,,,,,,,,,<lg n=&quot;17&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;65&quot;>
 240,65,2,soi,soi,–|,pro,,,,,,,,,<lb/>,
 241,65,3,da_mrideu,damrideu,–,pro,,,,,,,,,</l>,
@@ -271,8 +271,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 270,71,3,n,n,+,pro,,,,,,,,,,
 271,71,4,esmes,esmes,–|,pro,,,,,,,,,<lb/>,
 272,71,5,erum_but,erumbut,_,pro,,,,,,,,,</l>,
-273,72,1,De,de,+,lat,,,,,,,,,,<l n=&quot;72&quot;>
-274,72,2,u[=uirgine],virgine,_,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+273,72,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;72&quot;>
+274,72,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
 275,73,1,Eu,eu,_,pro,,,,,,,,,,<lg n=&quot;19&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;73&quot;>
 276,73,2,uos,vos,_,pro,,,,,,,,,,
 277,73,3,ai,ai,+,pro,,,,,,,,,,
@@ -290,5 +290,5 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 289,75,4,ab,ab,–,pro,,,,,,,,,,
 290,75,5,nos,nos,_,pro,,,,,,,,,,
 291,75,6,ian,ian,_,pro,,,,,,,,,</l>,
-292,76,1,De,de,+,lat,,,,,,,,,,<l n=&quot;76&quot;>
-293,76,2,uir[=uirgine],virgine,|,lat,,,,,,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg></body></text>,
+292,76,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;76&quot;>
+293,76,2,uir[=uirgine],virgine,|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg></body></text>,
