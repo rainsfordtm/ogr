@@ -1,293 +1,293 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,In,in,_,lat,ETR,ETR,,---,---,,,,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1>
-2,1,2,hoc,hoc,_,lat,ETR,ETR,,---,---,,,,,
-3,1,3,anni,anni,–,lat,ETR,ETR,,---,---,,,,,
-4,1,4,circulo,circulo,–,lat,ETR,ETR,,---,---,,,,</l>,
-5,2,1,uita,vita,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;2&quot;>
-6,2,2,datur,datur,–,lat,ETR,ETR,,---,---,,,,,
-7,2,3,seculo,seculo,–,lat,ETR,ETR,,---,---,,,,</l>,
-8,3,1,natos,natos,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;3&quot;>
-9,3,2,nobis,nobis,–,lat,ETR,ETR,,---,---,,,,,
-10,3,3,paruulo,parvulo,–|,lat,ETR,ETR,,---,---,,,,</l><lb/>,
-11,4,1,De,de,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;4&quot;>
-12,4,2,uirgine,virgine,–,lat,ETR,ETR,,---,---,,,,,
-13,4,3,maria,maria,–,lat,ETR,ETR,,---,---,,,,</l></lg>,
-14,5,1,Mei,mei,_,pro,DETpos,,1pmn,mei2,DOM,,,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;5&quot;>
-15,5,2,amic,amic,–,pro,NOMcom,,pmn,amic,DOM,,,,,
-16,5,3,e,e,+,pro,CONcoo,,,e,DOM,,,,,
-17,5,4,mei,mei,–,pro,DETpos,,1pmn,mei2,DOM,,,,,
-18,5,5,fiel,fiel,–,pro,ADJqua,NOMcom,pmn,fezèl,DOM,,,,</l>,
-19,6,1,laisat,laisat,–,pro,VERcjg,,imp---5,laisar,DOM,,,,,<l n=&quot;6&quot;>
-20,6,2,estar,estar,–,pro,VERinf,,,estar,DOM,,,,,
-21,6,3,lo,lo,_,pro,DETdef,,smr,lo2,DOM,,,,,
-22,6,4,ga_zel,gazel,–|,pro,NOMcom,,smr,gazèl,DOM,,,,</l><lb/>,
-23,7,1,aprendet,aprendet,–,pro,VERcjg,,imp---5,apréndre,DOM,,,,,<l n=&quot;7&quot;>
-24,7,2,u,u,+,pro,DETndf,,smr,uN,DOM,,,,,
-25,7,3,so,so,_,pro,NOMcom,,smr,sóN,DOM,,,,,
-26,7,4,noel,noel,–,pro,ADJqua,,smr,novèl,DOM,,,,</l>,
-27,8,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;8&quot;>
-28,8,2,uir[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-29,9,1,Fons,fons,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;9&quot;>
-30,9,2,de,de,+,lat,ETR,ETR,,---,---,,,,,
-31,9,3,suo,suo,–,lat,ETR,ETR,,---,---,,,,,
-32,9,4,riuulo,rivulo,–,lat,ETR,ETR,,---,---,,,,</l>,
-33,10,1,nascitur,nascitur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;10&quot;>
-34,10,2,p[ro],pro,_,lat,ETR,ETR,,---,---,,,,,
-35,10,3,po–|pulo,populo,–,lat,ETR,ETR,,---,---,,,,</l><lb/>,
-36,11,1,necto,necto,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;11&quot;>
-37,11,2,mortis,mortis,–,lat,ETR,ETR,,---,---,,,,,
-38,11,3,uinc[u]lo,vinculo,_,lat,ETR,ETR,,---,---,,,,</l>,
-39,12,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;12&quot;>
-40,12,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-41,13,1,L_ais,lais,_,pro,VERcjg,,subpst3,laisar,DOM,,,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;13&quot;>
-42,13,2,l,l,+,pro,DETdef,,smn,lo2,DOM,,,,,
-43,13,3,om,om,_,pro,NOMcom,,smn,óme,DOM,,,,,
-44,13,4,di_re,dire,–,pro,VERinf,,,dire,DOM,,,,,
-45,13,5,chi,chi,_,pro,PRNrel,,smn,qui,DOM,,,,,
-46,13,6,no,no,+,pro,ADVneg,,,nóN,DOM,,,,,
-47,13,7,u,u,+,pro,PRCper,,3sma,lo3,DOM,,,,,
-48,13,8,sab,sab,–,pro,VERcjg,,indpst3,sabér,DOM,,,,</l>,
-49,14,1,qu,qu,+,pro,CONsub,,,que2,DOM,,,,,<l n=&quot;14&quot;>
-50,14,2,eu,eu,–|,pro,PRNper,,1smn,eu,DOM,,,,<lb/>,
-51,14,3,no,no,+,pro,ADVneg,,,nóN,DOM,,,,,
-52,14,4,l,l,–,pro,PRCper,,3sma,lo3,DOM,,,,,
-53,14,5,dirai,dirai,–,pro,VERcjg,,indfut1,dire,DOM,,,,,
-54,14,6,ses,ses,_,pro,PRE,,,séns,DOM,,,,,
-55,14,7,nul,nul,_,pro,DETind,,smr,nul,DOM,,,,,
-56,14,8,gab,gab,–,pro,NOMcom,,smr,gap,DOM,,,,</l>,
-57,15,1,mout,mout,–,pro,ADVgen,,,mólt,DOM,,,,,<l n=&quot;15&quot;>
-58,15,2,nen,nen,–,pro,PRCadv,,,én3,DOM,,,SponsT:236,,
-59,15,3,issit,issit,–,pro,VERcjg,,indpsp3,eisir,DOM,,,,,
-60,15,4,a,a,+,pro,PRE,,,a2,DOM,,,,,
-61,15,5,bo,bo,_,pro,ADJqua,,smr,bóN,DOM,,,,,
-62,15,6,chab,chab,_,pro,NOMcom,,smr,cap,DOM,,,,</l>,
-63,16,1,De,de,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;16&quot;>
-64,16,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-65,17,1,Quod,quod,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;17&quot;>
-66,17,2,ue–|tustas,vetustas,–,lat,ETR,ETR,,---,---,,,,<lb/>,
-67,17,3,suffocat,suffocat,–,lat,ETR,ETR,,---,---,,,,</l>,
-68,18,1,hoc,hoc,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;18&quot;>
-69,18,2,ad,ad,_,lat,ETR,ETR,,---,---,,,,,
-70,18,3,uitam,vitam,–,lat,ETR,ETR,,---,---,,,,,
-71,18,4,reuocat,revocat,–,lat,ETR,ETR,,---,---,,,,</l>,
-72,19,1,nam,nam,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;19&quot;>
-73,19,2,se,se,_,lat,ETR,ETR,,---,---,,,,,
-74,19,3,deus,deus,–,lat,ETR,ETR,,---,---,,,,,
-75,19,4,collocat,collocat,_,lat,ETR,ETR,,---,---,,,,</l>,
-76,20,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;20&quot;>
-77,20,2,u[=uirgine],virgine,–|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg><lb/>,
-78,21,1,So,so,+,pro,PRNdem,,,so,DOM,,,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;21&quot;>
-79,21,2,sabiat,sabiat,_,pro,VERcjg,,subpst5,sabér,DOM,,,,<supplied reason=&quot;illegible&quot;>lo qu es be ver</supplied></l>,
-80,22,1,no,no,_,pro,ADVneg,,,nóN,DOM,,,,,<l n=&quot;22&quot;>
-81,22,2,chal,chal,_,pro,VERcjg,,indpst0,calér,DOM,,,,,
-82,22,3,c,c,+,pro,CONsub,,,que2,DOM,,,,,
-83,22,4,om,om,_,pro,PRNind,,smn,óme,DOM,,,,,
-84,22,5,s,s,+,pro,PRCper,,3smr,sé,DOM,,,,,
-85,22,6,en,en,–,pro,PRCadv,,,én3,DOM,,,,,
-86,22,7,des.esp[er],desesper,–,pro,VERcjg,,subpst3,dezesperar,DOM,,,,</l>,
-87,23,1,deus,deus,–,pro,NOMpro,,smn,dèu,DOM,,,,,<l n=&quot;23&quot;>
-88,23,2,i,i,_,pro,PRCadv,,,i,DOM,,,,,
-89,23,3,uen,ven,–|,pro,VERcjg,,indpst3,venir,DOM,,,,<lb/>,
-90,23,4,p[er],per,_,pro,PRE,,,pér,DOM,,,,,
-91,23,5,nos,nos,–,pro,PRNper,,4pmr,nós,DOM,,,,,
-92,23,6,maner,maner,–,pro,VERinf,,,manér,DOM,,,,</l>,
-93,24,1,In,in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;24&quot;>
-94,24,2,te,te,_,lat,ETR,ETR,,---,---,,,,,
-95,24,3,u[ir]g[o],virgo,_,lat,ETR,ETR,,---,---,,,,,
-96,24,4,maria,maria,_,lat,ETR,ETR,,---,---,,,,</l></lg>,
-97,25,1,Sine,sine,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;25&quot;>
-98,25,2,uiri,viri,_,lat,ETR,ETR,,---,---,,,,,
-99,25,3,copula,copula,–,lat,ETR,ETR,,---,---,,,,</l>,
-100,26,1,florem,florem,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;26&quot;>
-101,26,2,de–|dit,dedit,–,lat,ETR,ETR,,---,---,,,,<lb/>,
-102,26,3,uirgula,virgula,–,lat,ETR,ETR,,---,---,,,,</l>,
-103,27,1,qui,qui,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;27&quot;>
-104,27,2,mariæ,mariae,–,lat,ETR,ETR,,---,---,,,,,
-105,27,3,in,in,+,lat,ETR,ETR,,---,---,,,,,
-106,27,4,secula,secula,_,lat,ETR,ETR,,---,---,,,,</l>,
-107,28,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;28&quot;>
-108,28,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-109,29,1,Non,non,+,pro,ADVneg,,,nón,DOM,,,,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;29&quot;><q>
-110,29,2,p[er]_drai,perdrai,–,pro,VERcjg,,indfut1,pèrdre,DOM,,,,,
-111,29,3,uirginitat,virginitat,–|,pro,NOMcom,,sfr,vergenetat,DOM,,,,</q></l>,<pb n=&quot;48v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f104.item&quot;/><lb/>
-112,30,1,tos,tos,_,pro,DETind,,pmr,tót,DOM,,,,,<l n=&quot;30&quot;><q>
-113,30,2,temps,temps,–,pro,NOMcom,,pmr,témps,DOM,,,,,
-114,30,3,aurai,aurai,–,pro,VERcjg,,indfut1,avér,DOM,,,,,
-115,30,4,chasti_tat,chastitat,–,pro,NOMcom,,sfr,castedat,DOM,,,,</q></l>,
-116,31,1,si,si,+,pro,ADVgen,,,si2,DOM,,,,,<l n=&quot;31&quot;><q>
-117,31,2,cum,cum,–,pro,CONsub,,,cóm,DOM,,,,,
-118,31,3,es,es,_,pro,VERcjg,,indpst0,èser,DOM,,,,,
-119,31,4,p[ro]_feti–zat,profetizat,–,pro,VERppe,,snn,profetizar,DOM,,,,</q></l>,
-120,32,1,pois,pois,_,pro,ADVgen,,,pòis,DOM,,,,,<l n=&quot;32&quot;>
-121,32,2,uirgo,virgo,_,lat,ETR,ETR,,---,---,,,,,
-122,32,3,maria,maria,–|,lat,ETR,ETR,,---,---,,,,</l></lg><lb/>,
-123,33,1,S_um_mi,summi,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;33&quot;>
-124,33,2,patri,patri,–,lat,ETR,ETR,,---,---,,,,,
-125,33,3,filio,filio,–,lat,ETR,ETR,,---,---,,,,</l>,
-126,34,1,datur,datur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;34&quot;>
-127,34,2,in,in,+,lat,ETR,ETR,,---,---,,,,,
-128,34,3,presepio,presepio,–,lat,ETR,ETR,,---,---,,,,</l>,
-129,35,1,sed,sed,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;35&quot;>
-130,35,2,uolentes,volentes,–,lat,ETR,ETR,,---,---,,,,,
-131,35,3,mansio,mansio,–,lat,ETR,ETR,,---,---,,,,</l>,
-132,36,1,e,e,–|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg><lb/>,<l n=&quot;36&quot;>
-133,37,1,Eu,eu,_,pro,PRNper,,,eu,DOM,,,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;37&quot;><q>
-134,37,2,soi,soi,–,pro,VERcjg,,indpst1,èser,DOM,,,,,
-135,37,3,l,l,+,pro,DETdef,,smn,lo2,DOM,,,,,
-136,37,4,angels,angels,–,pro,NOMcom,,smn,angel,DOM,,,,,
-137,37,5,gabriels,gabriels,–,pro,NOMpro,,smn,Gabriel,wikipedia.fr,,,,</q></l>,
-138,38,1,apor,apor,+,pro,VERcjg,,indpst1,aportar,DOM,,,,,<l n=&quot;38&quot;><q>
-139,38,2,uos,vos,–,pro,PRCper,,5pmr,vós,DOM,,,,,
-140,38,3,salut,salut,–,pro,NOMcom,,smr,salut,DOM,,,,,
-141,38,4,fiels,fiels,–,pro,ADJqua,,pmr,fezèl,DOM,,,,</q></l>,
-142,39,1,deus,deus,–,pro,NOMpro,,smn,dèu,DOM,,,,<supplied reason=&quot;illegible&quot;>descen</supplied>,<l n=&quot;39&quot;><q>
-143,39,2,de,de,+,pro,PRE,,,de,DOM,,,,,
-144,39,3,sus,sus,–,pro,ADVgen,,,sus,DOM,,,,,
-145,39,4,de,de,+,pro,PRE,,,de,DOM,,,,,
-146,39,5,u,u,–|,pro,DETdef,,smr,lo2,DOM,,,,<lb/>,
-147,39,6,cel,cel,–,pro,NOMcom,,smr,cèl,DOM,,,,</q></l>,
-148,40,1,n[=In],in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;40&quot;><q>
-149,40,2,te,te,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></q></l></lg>,
-150,41,1,Animal,animal,–,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;41&quot;>
-151,41,2,impositum,impositum,–,lat,ETR,ETR,,---,---,,,,</l>,
-152,42,1,ueneratur,veneratur,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;42&quot;>
-153,42,2,agni_tum,agnitum,–,lat,ETR,ETR,,---,---,,,,</l>,
-154,43,1,hu[n]c,hunc,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;43&quot;>
-155,43,2,infantem,infantem,–|,lat,ETR,ETR,,---,---,,,,<lb/>,
-156,43,3,genitum,genitum,–,lat,ETR,ETR,,---,---,,,,</l>,
-157,44,1,E,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;44&quot;>
-158,45,1,Cum,cum,_,pro,CONsub,,,cóm,DOM,,,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;45&quot;>
-159,45,2,la,la,+,pro,DETdef,,sfn,la,DOM,,,,,
-160,45,3,reina,reina,_,pro,NOMcom,,sfn,regina,DOM,,,,,
-161,45,4,l,l,+,pro,PRCper,,3sma,lo3,DOM,,,,,
-162,45,5,enten,enten,–,pro,VERcjg,,indpst3,enténdre,DOM,,,,</l>,
-163,46,1,si,si,+,pro,ADVgen,,,si2,DOM,,,,,<l n=&quot;46&quot;>
-164,46,2,l,l,_,pro,PRCper,,3smi,li3,DOM,,,,,
-165,46,3,respon,respon,–,pro,VERcjg,,indpst3,repóndre,DOM,,,,,
-166,46,4,tam,tam,_,pro,ADVgen,,,tan,DOM,,,,,
-167,46,5,piamen,piamen,_,pro,ADVgen,,,piamen,DOM,,,,</l>,
-168,47,1,aco,aco,–|,pro,PRNdem,,snn,aco,DOM,,,,<lb/>,<l n=&quot;47&quot;><q>
-169,47,2,sia,sia,–,pro,VERcjg,,subpst3,èser,DOM,,,,,
-170,47,3,a,a,+,pro,PRE,,,a2,DOM,,,,,
-171,47,4,u,u,+,pro,DETdef,,smr,lo2,DOM,,,,,
-172,47,5,so,so,_,pro,ADJpos,,3smr,sóN2,DOM,,,,,
-173,47,6,talent,talent,–,pro,NOMcom,,smr,talén,DOM,,,,</q></l>,
-174,48,1,e,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l xml:lang=&quot;lat&quot; n=&quot;48&quot;>
-175,49,1,O,o,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;13&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;49&quot;>
-176,49,2,beata,beata,_,lat,ETR,ETR,,---,---,,,,,
-177,49,3,femina,femina,–,lat,ETR,ETR,,---,---,,,,</l>,
-178,50,1,cui[us],cuius,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;50&quot;>
-179,50,2,uentris,ventris,–,lat,ETR,ETR,,---,---,,,,,
-180,50,3,sarcina,sarcina,_,lat,ETR,ETR,,---,---,,,,</l>,
-181,51,1,mun–|di,mundi,_,lat,ETR,ETR,,---,---,,,,<lb/>,<l n=&quot;51&quot;>
-182,51,2,luit,luit,–,lat,ETR,ETR,,---,---,,,,,
-183,51,3,crimi_na,crimina,–,lat,ETR,ETR,,---,---,,,,</l>,
-184,52,1,e,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;52&quot;>
-185,53,1,Cum,cum,_,pro,CONsub,,,cóm,DOM,,,,,<lg n=&quot;14&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;53&quot;>
-186,53,2,la,la,+,pro,DETdef,,sfn,la,DOM,,,,,
-187,53,3,rei_na,reina,–,pro,NOMcom,,sfn,regina,DOM,,,,,
-188,53,4,l,l,+,pro,PRCper,,3sma,lo3,DOM,,,,,
-189,53,5,auuit,auvit,–,pro,VERcjg,,indpsp3,auzir,DOM,,,,</l>,
-190,54,1,si,si,+,pro,ADVgen,,,si2,DOM,,,,,<l n=&quot;54&quot;>
-191,54,2,l,l,+,pro,PRCper,,3sma,lo3,DOM,,,,,
-192,54,3,amet,amet,–,pro,VERcjg,,indpsp3,amar,DOM,,,,,
-193,54,4,e,e,+,pro,CONcon,,,e,DOM,,,,,
-194,54,5,si,si,+,pro,ADVgen,,,si2,DOM,,,,,
-195,54,6,u,u,–|,pro,PRCper,,3sma,lo3,DOM,,,,<lb/>,
-196,54,7,i_auuit,jauvit,–,pro,VERcjg,,indpsp3,jauzir,DOM,,,,</l>,
-197,55,1,aco,aco,_,pro,PRNdem,,snn,aco,DOM,,,,,<l n=&quot;55&quot;>
-198,55,2,sia,sia,–,pro,VERcjg,,subpst3,èser,DOM,,,,,
-199,55,3,a,a,+,pro,PRE,,,a2,DOM,,,,,
-200,55,4,u,u,+,pro,DETdef,,smr,lo2,DOM,,,,,
-201,55,5,so,so,–,pro,ADJpos,,3smr,sóN2,DOM,,,,,
-202,55,6,chausit,chausit,_,pro,NOMcom,,smr,cauzit,DOM,,,,</l>,
-203,56,1,In,in,+,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;56&quot;>
-204,56,2,te,te,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
-205,57,1,Illi,illi,_,lat,ETR,ETR,,---,---,,,,,<lg xml:lang=&quot;lat&quot; n=&quot;15&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;57&quot;>
-206,57,2,laus,laus,–,lat,ETR,ETR,,---,---,,,,,
-207,57,3,[et],et,+,lat,ETR,ETR,,---,---,,,,,
-208,57,4,gloria,gloria,–,lat,ETR,ETR,,---,---,,,,</l>,
-209,58,1,honor,honor,_,lat,ETR,ETR,,---,---,,,,,<l n=&quot;58&quot;>
-210,58,2,uir–|tus,virtus,–,lat,ETR,ETR,,---,---,,,,<lb/>,
-211,58,3,gratia,gratia,–,lat,ETR,ETR,,---,---,,,,</l>,
-212,59,1,decus,decus,–,lat,ETR,ETR,,---,---,,,,,<l n=&quot;59&quot;>
-213,59,2,[et],et,+,lat,ETR,ETR,,---,---,,,,,
-214,59,3,uictoria,victoria,–,lat,ETR,ETR,,---,---,,,,</l>,
-215,60,1,e,e,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;60&quot;>
-216,61,1,Tv,tu,_,pro,PRNper,,2smn,tu,DOM,,,,,<lg n=&quot;16&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;61&quot;><q>
-217,61,2,es,es,_,pro,VERcjg,,indpst2,èser,DOM,,,,,
-218,61,3,mesat_ies,mesatjes,–,pro,NOMcom,,smn,mesatge,DOM,,,,,
-219,61,4,a,a,+,pro,PRE,,,a2,DOM,,,,,
-220,61,5,l,l,+,pro,DETdef,,smr,lo2,DOM,,,,,
-221,61,6,rei,rei,–,pro,NOMcom,,smr,réi,DOM,,,,</q></l>,
-222,62,1,si,si,–|,pro,ADVgen,,,si2,DOM,,,,<lb/>,<l n=&quot;62&quot;><q>
-223,62,2,cum,cum,–,pro,CONsub,,,cóm,DOM,,,,,<pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/>
-224,62,3,tu,tu,_,pro,PRNper,,2smn,tu,DOM,,,,,
-225,62,4,o,o,_,pro,PRCdem,,snr,ó2,DOM,,,,,
-226,62,5,dit,dit,–,pro,VERcjg,,indpst2,dire,DOM,,,,,
-227,62,6,o,o,+,pro,PRCdem,,snr,ó2,DOM,,,,,
-228,62,7,crei,crei,–,pro,VERcjg,,indpst1,créire,DOM,,,,</q></l>,
-229,63,1,a,a,+,pro,PRE,,,a2,DOM,,,,,<l n=&quot;63&quot;><q>
-230,63,2,lui,lui,–,pro,PRNper,,3smr,lui,DOM,,,,,
-231,63,3,me,me,+,pro,PRCper,,1smr,me,DOM,,,,,
-232,63,4,do,do,–,pro,VERcjg,,indpst1,donar,DOM,,,,,
-233,63,5,e,e,+,pro,CONcoo,,,e,DOM,,,,,
-234,63,6,m,m,+,pro,PRCper,,1smr,me,DOM,,,,,
-235,63,7,autrei,autrei,_,pro,VERcjg,,indpst1,autrejar,DOM,,,,</q></l>,
-236,64,1,E_go,ego,_,lat,ETR,ETR,,---,---,,,,,<l xml:lang=&quot;lat&quot; n=&quot;64&quot;><q>
-237,64,2,ui[r]g[o],virgo,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></q></l></lg>,
-238,65,1,Ancela,ancela,_,pro,NOMcom,,sfn,ancela,DOM,,,,,<lg n=&quot;17&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;65&quot;>
-239,65,2,soi,soi,–|,pro,VERcjg,,indpst1,èser,DOM,,,,<lb/>,
-240,65,3,da_mrideu,damrideu,–,pro,NOMpro,,smr,domnedèu,DOM,,,,</l>,
-241,66,1,si,si,+,pro,ADVgen,,,si2,DOM,,,,,<l n=&quot;66&quot;>
-242,66,2,cum,cum,–,pro,CONsub,,,cóm,DOM,,,,,
-243,66,3,tu,tu,+,pro,PRNper,,2smn,tu,DOM,,,,,
-244,66,4,o,o,+,pro,PRCdem,,snr,ó2,DOM,,,,,
-245,66,5,dit,dit,–,pro,VERcjg,,indpst2,dire,DOM,,,,,
-246,66,6,o,o,+,pro,PRCdem,,snr,ó2,DOM,,,,,
-247,66,7,cre,cre,+,pro,VERcjg,,indpst1,créire,DOM,,,,,
-248,66,8,eu,eu,–,pro,PRNper,,1sfn,eu,DOM,,,,</l>,
-249,67,1,maire,maire,–,pro,NOMcom,,sfn,maire,DOM,,,,,<l n=&quot;67&quot;>
-250,67,2,serai,serai,–,pro,VERcjg,,indfut1,èser,DOM,,,,,
-251,67,3,damri_deu,damrideu,_,pro,NOMpro,,smr,domnedèu,DOM,,,,</l>,
-252,68,1,E,e,_,pro,CONcoo,,,e,DOM,,,,,<l n=&quot;68&quot;>
-253,68,2,pois,pois,–|,pro,ADVgen,,,pòis,DOM,,,,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg><lb/>,
-254,69,1,L,l,_,pro,,,,,,,,,,<lg n=&quot;18&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;69&quot;>
-255,69,2,angels,angels,–,pro,,,,,,,,,,
-256,69,3,es,es,–,pro,,,,,,,,,,
-257,69,4,de,de,+,pro,,,,,,,,,,
-258,69,5,u,u,–,pro,,,,,,,,,,
-259,69,6,cel,cel,–,pro,,,,,,,,,,
-260,69,7,uengut,vengut,–,pro,,,,,,,,,</l>,
-261,70,1,e,e,+,pro,,,,,,,,,,<l n=&quot;70&quot;>
-262,70,2,la,la,_,pro,,,,,,,,,,
-263,70,3,domp_na,dompna,–,pro,,,,,,,,,,
-264,70,4,l,l,+,pro,,,,,,,,,,
-265,70,5,a,a,_,pro,,,,,,,,,,
-266,70,6,creut,creut,–,pro,,,,,,,,,</l>,
-267,71,1,p[er],per,_,pro,,,,,,,,,,<l n=&quot;71&quot;>
-268,71,2,tal,tal,–,pro,,,,,,,,,,
-269,71,3,n,n,+,pro,,,,,,,,,,
-270,71,4,esmes,esmes,–|,pro,,,,,,,,,<lb/>,
-271,71,5,erum_but,erumbut,_,pro,,,,,,,,,</l>,
-272,72,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;72&quot;>
-273,72,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
-274,73,1,Eu,eu,_,pro,,,,,,,,,,<lg n=&quot;19&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;73&quot;>
-275,73,2,uos,vos,_,pro,,,,,,,,,,
-276,73,3,ai,ai,+,pro,,,,,,,,,,
-277,73,4,dit,dit,–,pro,,,,,,,,,,
-278,73,5,mon,mon,+,pro,,,,,,,,,,
-279,73,6,ta_lan,talan,–,pro,,,,,,,,,</l>,
-280,74,1,e,e,+,pro,,,,,,,,,,<l n=&quot;74&quot;>
-281,74,2,uos,vos,–,pro,,,,,,,,,,
-282,74,3,diiat,diiat,–,pro,,,,,,,,,,
-283,74,4,en,en,+,pro,,,,,,,,,,
-284,74,5,a_uan,avan,–|,pro,,,,,,,,,</l><lb/>,
-285,75,1,ch_a_ques,chaques,_,pro,,,,,,,,,,<l n=&quot;75&quot;>
-286,75,2,uers,vers,–,pro,,,,,,,,,,
-287,75,3,nous,nous,+,pro,,,,,,,,,,
-288,75,4,ab,ab,–,pro,,,,,,,,,,
-289,75,5,nos,nos,_,pro,,,,,,,,,,
-290,75,6,ian,ian,_,pro,,,,,,,,,</l>,
-291,76,1,De,de,+,lat,ETR,ETR,,---,---,,,,,<l n=&quot;76&quot;>
-292,76,2,uir[=uirgine],virgine,|,lat,ETR,ETR,,---,---,,,,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg></body></text>,
+1,1,1,In,in,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 1",,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1>
+2,1,2,hoc,hoc,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 1",,,
+3,1,3,anni,anni,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 1",,,
+4,1,4,circulo,circulo,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 1",,</l>,
+5,2,1,uita,vita,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 2",,,<l n=&quot;2&quot;>
+6,2,2,datur,datur,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 2",,,
+7,2,3,seculo,seculo,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 2",,</l>,
+8,3,1,natos,natos,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 3",,,<l n=&quot;3&quot;>
+9,3,2,nobis,nobis,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 3",,,
+10,3,3,paruulo,parvulo,–|,lat,ETR,ETR,,---,---,,"CantAnn, l. 3",,</l><lb/>,
+11,4,1,De,de,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 4",,,<l n=&quot;4&quot;>
+12,4,2,uirgine,virgine,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 4",,,
+13,4,3,maria,maria,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 4",,</l></lg>,
+14,5,1,Mei,mei,_,pro,DETpos,DETpos,1pmn,mei2,DOM,,"CantAnn, l. 5",,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;5&quot;>
+15,5,2,amic,amic,–,pro,NOMcom,NOMcom,pmn,amic,DOM,,"CantAnn, l. 5",,,
+16,5,3,e,e,+,pro,CONcoo,CONcoo,,e,DOM,,"CantAnn, l. 5",,,
+17,5,4,mei,mei,–,pro,DETpos,DETpos,1pmn,mei2,DOM,,"CantAnn, l. 5",,,
+18,5,5,fiel,fiel,–,pro,ADJqua,NOMcom,pmn,fezèl,DOM,,"CantAnn, l. 5",,</l>,
+19,6,1,laisat,laisat,–,pro,VERcjg,VERcjg,imp---5,laisar,DOM,,"CantAnn, l. 6",,,<l n=&quot;6&quot;>
+20,6,2,estar,estar,–,pro,VERinf,VERinf,,estar,DOM,,"CantAnn, l. 6",,,
+21,6,3,lo,lo,_,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 6",,,
+22,6,4,ga_zel,gazel,–|,pro,NOMcom,NOMcom,smr,gazèl,DOM,,"CantAnn, l. 6",,</l><lb/>,
+23,7,1,aprendet,aprendet,–,pro,VERcjg,VERcjg,imp---5,apréndre,DOM,,"CantAnn, l. 7",,,<l n=&quot;7&quot;>
+24,7,2,u,u,+,pro,DETndf,DETndf,smr,uN,DOM,,"CantAnn, l. 7",,,
+25,7,3,so,so,_,pro,NOMcom,NOMcom,smr,sóN,DOM,,"CantAnn, l. 7",,,
+26,7,4,noel,noel,–,pro,ADJqua,ADJqua,smr,novèl,DOM,,"CantAnn, l. 7",,</l>,
+27,8,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 8",,,<l xml:lang=&quot;lat&quot; n=&quot;8&quot;>
+28,8,2,uir[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 8",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+29,9,1,Fons,fons,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 9",,,<lg xml:lang=&quot;lat&quot; n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;9&quot;>
+30,9,2,de,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 9",,,
+31,9,3,suo,suo,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 9",,,
+32,9,4,riuulo,rivulo,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 9",,</l>,
+33,10,1,nascitur,nascitur,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 10",,,<l n=&quot;10&quot;>
+34,10,2,p[ro],pro,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 10",,,
+35,10,3,po–|pulo,populo,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 10",,</l><lb/>,
+36,11,1,necto,necto,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 11",,,<l n=&quot;11&quot;>
+37,11,2,mortis,mortis,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 11",,,
+38,11,3,uinc[u]lo,vinculo,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 11",,</l>,
+39,12,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 12",,,<l n=&quot;12&quot;>
+40,12,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 12",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+41,13,1,L_ais,lais,_,pro,VERcjg,VERcjg,subpst3,laisar,DOM,,"CantAnn, l. 13",,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;13&quot;>
+42,13,2,l,l,+,pro,DETdef,DETdef,smn,lo2,DOM,,"CantAnn, l. 13",,,
+43,13,3,om,om,_,pro,NOMcom,NOMcom,smn,óme,DOM,,"CantAnn, l. 13",,,
+44,13,4,di_re,dire,–,pro,VERinf,VERinf,,dire,DOM,,"CantAnn, l. 13",,,
+45,13,5,chi,chi,_,pro,PRNrel,PRNrel,smn,qui,DOM,,"CantAnn, l. 13",,,
+46,13,6,no,no,+,pro,ADVneg,ADVneg,,nóN,DOM,,"CantAnn, l. 13",,,
+47,13,7,u,u,+,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 13",,,
+48,13,8,sab,sab,–,pro,VERcjg,VERcjg,indpst3,sabér,DOM,,"CantAnn, l. 13",,</l>,
+49,14,1,qu,qu,+,pro,CONsub,CONsub,,que2,DOM,,"CantAnn, l. 14",,,<l n=&quot;14&quot;>
+50,14,2,eu,eu,–|,pro,PRNper,PRNper,1smn,eu,DOM,,"CantAnn, l. 14",,<lb/>,
+51,14,3,no,no,+,pro,ADVneg,ADVneg,,nóN,DOM,,"CantAnn, l. 14",,,
+52,14,4,l,l,–,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 14",,,
+53,14,5,dirai,dirai,–,pro,VERcjg,VERcjg,indfut1,dire,DOM,,"CantAnn, l. 14",,,
+54,14,6,ses,ses,_,pro,PRE,PRE,,séns,DOM,,"CantAnn, l. 14",,,
+55,14,7,nul,nul,_,pro,DETind,DETind,smr,nul,DOM,,"CantAnn, l. 14",,,
+56,14,8,gab,gab,–,pro,NOMcom,NOMcom,smr,gap,DOM,,"CantAnn, l. 14",,</l>,
+57,15,1,mout,mout,–,pro,ADVgen,ADVgen,,mólt,DOM,,"CantAnn, l. 15",,,<l n=&quot;15&quot;>
+58,15,2,nen,nen,–,pro,PRCadv,PRCadv,,én3,DOM,,"CantAnn, l. 15",lemma_SponsT:236,,
+59,15,3,issit,issit,–,pro,VERcjg,VERcjg,indpsp3,eisir,DOM,,"CantAnn, l. 15",,,
+60,15,4,a,a,+,pro,PRE,PRE,,a2,DOM,,"CantAnn, l. 15",,,
+61,15,5,bo,bo,_,pro,ADJqua,ADJqua,smr,bóN,DOM,,"CantAnn, l. 15",,,
+62,15,6,chab,chab,_,pro,NOMcom,NOMcom,smr,cap,DOM,,"CantAnn, l. 15",,</l>,
+63,16,1,De,de,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 16",,,<l n=&quot;16&quot;>
+64,16,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 16",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+65,17,1,Quod,quod,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 17",,,<lg xml:lang=&quot;lat&quot; n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;17&quot;>
+66,17,2,ue–|tustas,vetustas,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 17",,<lb/>,
+67,17,3,suffocat,suffocat,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 17",,</l>,
+68,18,1,hoc,hoc,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 18",,,<l n=&quot;18&quot;>
+69,18,2,ad,ad,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 18",,,
+70,18,3,uitam,vitam,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 18",,,
+71,18,4,reuocat,revocat,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 18",,</l>,
+72,19,1,nam,nam,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 19",,,<l n=&quot;19&quot;>
+73,19,2,se,se,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 19",,,
+74,19,3,deus,deus,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 19",,,
+75,19,4,collocat,collocat,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 19",,</l>,
+76,20,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 20",,,<l n=&quot;20&quot;>
+77,20,2,u[=uirgine],virgine,–|,lat,ETR,ETR,,---,---,,"CantAnn, l. 20",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg><lb/>,
+78,21,1,So,so,+,pro,PRNdem,PRNdem,,so,DOM,,"CantAnn, l. 21",,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;21&quot;>
+79,21,2,sabiat,sabiat,_,pro,VERcjg,VERcjg,subpst5,sabér,DOM,,"CantAnn, l. 21",,<supplied reason=&quot;illegible&quot;>lo qu es be ver</supplied></l>,
+80,22,1,no,no,_,pro,ADVneg,ADVneg,,nóN,DOM,,"CantAnn, l. 22",,,<l n=&quot;22&quot;>
+81,22,2,chal,chal,_,pro,VERcjg,VERcjg,indpst0,calér,DOM,,"CantAnn, l. 22",,,
+82,22,3,c,c,+,pro,CONsub,CONsub,,que2,DOM,,"CantAnn, l. 22",,,
+83,22,4,om,om,_,pro,PRNind,PRNind,smn,óme,DOM,,"CantAnn, l. 22",,,
+84,22,5,s,s,+,pro,PRCper,PRCper,3smr,sé,DOM,,"CantAnn, l. 22",,,
+85,22,6,en,en,–,pro,PRCadv,PRCadv,,én3,DOM,,"CantAnn, l. 22",,,
+86,22,7,des.esp[er],desesper,–,pro,VERcjg,VERcjg,subpst3,dezesperar,DOM,,"CantAnn, l. 22",,</l>,
+87,23,1,deus,deus,–,pro,NOMpro,NOMpro,smn,dèu,DOM,,"CantAnn, l. 23",,,<l n=&quot;23&quot;>
+88,23,2,i,i,_,pro,PRCadv,PRCadv,,i,DOM,,"CantAnn, l. 23",,,
+89,23,3,uen,ven,–|,pro,VERcjg,VERcjg,indpst3,venir,DOM,,"CantAnn, l. 23",,<lb/>,
+90,23,4,p[er],per,_,pro,PRE,PRE,,pér,DOM,,"CantAnn, l. 23",,,
+91,23,5,nos,nos,–,pro,PRNper,PRNper,4pmr,nós,DOM,,"CantAnn, l. 23",,,
+92,23,6,maner,maner,–,pro,VERinf,VERinf,,manér,DOM,,"CantAnn, l. 23",,</l>,
+93,24,1,In,in,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 24",,,<l xml:lang=&quot;lat&quot; n=&quot;24&quot;>
+94,24,2,te,te,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 24",,,
+95,24,3,u[ir]g[o],virgo,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 24",,,
+96,24,4,maria,maria,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 24",,</l></lg>,
+97,25,1,Sine,sine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 25",,,<lg xml:lang=&quot;lat&quot; n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;25&quot;>
+98,25,2,uiri,viri,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 25",,,
+99,25,3,copula,copula,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 25",,</l>,
+100,26,1,florem,florem,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 26",,,<l n=&quot;26&quot;>
+101,26,2,de–|dit,dedit,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 26",,<lb/>,
+102,26,3,uirgula,virgula,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 26",,</l>,
+103,27,1,qui,qui,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 27",,,<l n=&quot;27&quot;>
+104,27,2,mariæ,mariae,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 27",,,
+105,27,3,in,in,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 27",,,
+106,27,4,secula,secula,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 27",,</l>,
+107,28,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 28",,,<l n=&quot;28&quot;>
+108,28,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 28",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+109,29,1,Non,non,+,pro,ADVneg,ADVneg,,nón,DOM,,"CantAnn, l. 29",,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;29&quot;><q>
+110,29,2,p[er]_drai,perdrai,–,pro,VERcjg,VERcjg,indfut1,pèrdre,DOM,,"CantAnn, l. 29",,,
+111,29,3,uirginitat,virginitat,–|,pro,NOMcom,NOMcom,sfr,vergenetat,DOM,,"CantAnn, l. 29",,</q></l>,<pb n=&quot;48v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f104.item&quot;/><lb/>
+112,30,1,tos,tos,_,pro,DETind,DETind,pmr,tót,DOM,,"CantAnn, l. 30",,,<l n=&quot;30&quot;><q>
+113,30,2,temps,temps,–,pro,NOMcom,NOMcom,pmr,témps,DOM,,"CantAnn, l. 30",,,
+114,30,3,aurai,aurai,–,pro,VERcjg,VERcjg,indfut1,avér,DOM,,"CantAnn, l. 30",,,
+115,30,4,chasti_tat,chastitat,–,pro,NOMcom,NOMcom,sfr,castedat,DOM,,"CantAnn, l. 30",,</q></l>,
+116,31,1,si,si,+,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 31",,,<l n=&quot;31&quot;><q>
+117,31,2,cum,cum,–,pro,CONsub,CONsub,,cóm,DOM,,"CantAnn, l. 31",,,
+118,31,3,es,es,_,pro,VERcjg,VERcjg,indpst0,èser,DOM,,"CantAnn, l. 31",,,
+119,31,4,p[ro]_feti–zat,profetizat,–,pro,VERppe,VERppe,snn,profetizar,DOM,,"CantAnn, l. 31",,</q></l>,
+120,32,1,pois,pois,_,pro,ADVgen,ADVgen,,pòis,DOM,,"CantAnn, l. 32",,,<l n=&quot;32&quot;>
+121,32,2,uirgo,virgo,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 32",,,
+122,32,3,maria,maria,–|,lat,ETR,ETR,,---,---,,"CantAnn, l. 32",,</l></lg><lb/>,
+123,33,1,S_um_mi,summi,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 33",,,<lg xml:lang=&quot;lat&quot; n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;33&quot;>
+124,33,2,patri,patri,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 33",,,
+125,33,3,filio,filio,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 33",,</l>,
+126,34,1,datur,datur,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 34",,,<l n=&quot;34&quot;>
+127,34,2,in,in,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 34",,,
+128,34,3,presepio,presepio,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 34",,</l>,
+129,35,1,sed,sed,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 35",,,<l n=&quot;35&quot;>
+130,35,2,uolentes,volentes,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 35",,,
+131,35,3,mansio,mansio,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 35",,</l>,
+132,36,1,e,e,–|,lat,ETR,ETR,,---,---,,"CantAnn, l. 36",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg><lb/>,<l n=&quot;36&quot;>
+133,37,1,Eu,eu,_,pro,PRNper,PRNper,,eu,DOM,,"CantAnn, l. 37",,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;37&quot;><q>
+134,37,2,soi,soi,–,pro,VERcjg,VERcjg,indpst1,èser,DOM,,"CantAnn, l. 37",,,
+135,37,3,l,l,+,pro,DETdef,DETdef,smn,lo2,DOM,,"CantAnn, l. 37",,,
+136,37,4,angels,angels,–,pro,NOMcom,NOMcom,smn,angel,DOM,,"CantAnn, l. 37",,,
+137,37,5,gabriels,gabriels,–,pro,NOMpro,NOMpro,smn,Gabriel,wikipedia.fr,,"CantAnn, l. 37",,</q></l>,
+138,38,1,apor,apor,+,pro,VERcjg,VERcjg,indpst1,aportar,DOM,,"CantAnn, l. 38",,,<l n=&quot;38&quot;><q>
+139,38,2,uos,vos,–,pro,PRCper,PRCper,5pmr,vós,DOM,,"CantAnn, l. 38",,,
+140,38,3,salut,salut,–,pro,NOMcom,NOMcom,smr,salut,DOM,,"CantAnn, l. 38",,,
+141,38,4,fiels,fiels,–,pro,ADJqua,ADJqua,pmr,fezèl,DOM,,"CantAnn, l. 38",,</q></l>,
+142,39,1,deus,deus,–,pro,NOMpro,NOMpro,smn,dèu,DOM,,"CantAnn, l. 39",,<supplied reason=&quot;illegible&quot;>descen</supplied>,<l n=&quot;39&quot;><q>
+143,39,2,de,de,+,pro,PRE,PRE,,de,DOM,,"CantAnn, l. 39",,,
+144,39,3,sus,sus,–,pro,ADVgen,ADVgen,,sus,DOM,,"CantAnn, l. 39",,,
+145,39,4,de,de,+,pro,PRE,PRE,,de,DOM,,"CantAnn, l. 39",,,
+146,39,5,u,u,–|,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 39",,<lb/>,
+147,39,6,cel,cel,–,pro,NOMcom,NOMcom,smr,cèl,DOM,,"CantAnn, l. 39",,</q></l>,
+148,40,1,n[=In],in,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 40",,,<l xml:lang=&quot;lat&quot; n=&quot;40&quot;><q>
+149,40,2,te,te,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 40",,<supplied reason=&quot;missing&quot;>virgo maria</supplied></q></l></lg>,
+150,41,1,Animal,animal,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 41",,,<lg xml:lang=&quot;lat&quot; n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;41&quot;>
+151,41,2,impositum,impositum,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 41",,</l>,
+152,42,1,ueneratur,veneratur,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 42",,,<l n=&quot;42&quot;>
+153,42,2,agni_tum,agnitum,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 42",,</l>,
+154,43,1,hu[n]c,hunc,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 43",,,<l n=&quot;43&quot;>
+155,43,2,infantem,infantem,–|,lat,ETR,ETR,,---,---,,"CantAnn, l. 43",,<lb/>,
+156,43,3,genitum,genitum,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 43",,</l>,
+157,44,1,E,e,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 44",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;44&quot;>
+158,45,1,Cum,cum,_,pro,CONsub,CONsub,,cóm,DOM,,"CantAnn, l. 45",,,<lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;45&quot;>
+159,45,2,la,la,+,pro,DETdef,DETdef,sfn,la,DOM,,"CantAnn, l. 45",,,
+160,45,3,reina,reina,_,pro,NOMcom,NOMcom,sfn,regina,DOM,,"CantAnn, l. 45",,,
+161,45,4,l,l,+,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 45",,,
+162,45,5,enten,enten,–,pro,VERcjg,VERcjg,indpst3,enténdre,DOM,,"CantAnn, l. 45",,</l>,
+163,46,1,si,si,+,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 46",,,<l n=&quot;46&quot;>
+164,46,2,l,l,_,pro,PRCper,PRCper,3smi,li3,DOM,,"CantAnn, l. 46",,,
+165,46,3,respon,respon,–,pro,VERcjg,VERcjg,indpst3,repóndre,DOM,,"CantAnn, l. 46",,,
+166,46,4,tam,tam,_,pro,ADVgen,ADVgen,,tan,DOM,,"CantAnn, l. 46",,,
+167,46,5,piamen,piamen,_,pro,ADVgen,ADVgen,,piamen,DOM,,"CantAnn, l. 46",,</l>,
+168,47,1,aco,aco,–|,pro,PRNdem,PRNdem,snn,aco,DOM,,"CantAnn, l. 47",,<lb/>,<l n=&quot;47&quot;><q>
+169,47,2,sia,sia,–,pro,VERcjg,VERcjg,subpst3,èser,DOM,,"CantAnn, l. 47",,,
+170,47,3,a,a,+,pro,PRE,PRE,,a2,DOM,,"CantAnn, l. 47",,,
+171,47,4,u,u,+,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 47",,,
+172,47,5,so,so,_,pro,ADJpos,ADJpos,3smr,sóN2,DOM,,"CantAnn, l. 47",,,
+173,47,6,talent,talent,–,pro,NOMcom,NOMcom,smr,talén,DOM,,"CantAnn, l. 47",,</q></l>,
+174,48,1,e,e,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 48",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l xml:lang=&quot;lat&quot; n=&quot;48&quot;>
+175,49,1,O,o,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 49",,,<lg xml:lang=&quot;lat&quot; n=&quot;13&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;49&quot;>
+176,49,2,beata,beata,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 49",,,
+177,49,3,femina,femina,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 49",,</l>,
+178,50,1,cui[us],cuius,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 50",,,<l n=&quot;50&quot;>
+179,50,2,uentris,ventris,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 50",,,
+180,50,3,sarcina,sarcina,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 50",,</l>,
+181,51,1,mun–|di,mundi,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 51",,<lb/>,<l n=&quot;51&quot;>
+182,51,2,luit,luit,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 51",,,
+183,51,3,crimi_na,crimina,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 51",,</l>,
+184,52,1,e,e,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 52",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;52&quot;>
+185,53,1,Cum,cum,_,pro,CONsub,CONsub,,cóm,DOM,,"CantAnn, l. 53",,,<lg n=&quot;14&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;53&quot;>
+186,53,2,la,la,+,pro,DETdef,DETdef,sfn,la,DOM,,"CantAnn, l. 53",,,
+187,53,3,rei_na,reina,–,pro,NOMcom,NOMcom,sfn,regina,DOM,,"CantAnn, l. 53",,,
+188,53,4,l,l,+,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 53",,,
+189,53,5,auuit,auvit,–,pro,VERcjg,VERcjg,indpsp3,auzir,DOM,,"CantAnn, l. 53",,</l>,
+190,54,1,si,si,+,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 54",,,<l n=&quot;54&quot;>
+191,54,2,l,l,+,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 54",,,
+192,54,3,amet,amet,–,pro,VERcjg,VERcjg,indpsp3,amar,DOM,,"CantAnn, l. 54",,,
+193,54,4,e,e,+,pro,CONcon,CONcon,,e,DOM,,"CantAnn, l. 54",,,
+194,54,5,si,si,+,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 54",,,
+195,54,6,u,u,–|,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 54",,<lb/>,
+196,54,7,i_auuit,jauvit,–,pro,VERcjg,VERcjg,indpsp3,jauzir,DOM,,"CantAnn, l. 54",,</l>,
+197,55,1,aco,aco,_,pro,PRNdem,PRNdem,snn,aco,DOM,,"CantAnn, l. 55",,,<l n=&quot;55&quot;>
+198,55,2,sia,sia,–,pro,VERcjg,VERcjg,subpst3,èser,DOM,,"CantAnn, l. 55",,,
+199,55,3,a,a,+,pro,PRE,PRE,,a2,DOM,,"CantAnn, l. 55",,,
+200,55,4,u,u,+,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 55",,,
+201,55,5,so,so,–,pro,ADJpos,ADJpos,3smr,sóN2,DOM,,"CantAnn, l. 55",,,
+202,55,6,chausit,chausit,_,pro,NOMcom,NOMcom,smr,cauzit,DOM,,"CantAnn, l. 55",,</l>,
+203,56,1,In,in,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 56",,,<l xml:lang=&quot;lat&quot; n=&quot;56&quot;>
+204,56,2,te,te,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 56",,<supplied reason=&quot;missing&quot;>virgo maria</supplied></l></lg>,
+205,57,1,Illi,illi,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 57",,,<lg xml:lang=&quot;lat&quot; n=&quot;15&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;57&quot;>
+206,57,2,laus,laus,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 57",,,
+207,57,3,[et],et,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 57",,,
+208,57,4,gloria,gloria,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 57",,</l>,
+209,58,1,honor,honor,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 58",,,<l n=&quot;58&quot;>
+210,58,2,uir–|tus,virtus,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 58",,<lb/>,
+211,58,3,gratia,gratia,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 58",,</l>,
+212,59,1,decus,decus,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 59",,,<l n=&quot;59&quot;>
+213,59,2,[et],et,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 59",,,
+214,59,3,uictoria,victoria,–,lat,ETR,ETR,,---,---,,"CantAnn, l. 59",,</l>,
+215,60,1,e,e,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 60",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;60&quot;>
+216,61,1,Tv,tu,_,pro,PRNper,PRNper,2smn,tu,DOM,,"CantAnn, l. 61",,,<lg n=&quot;16&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;61&quot;><q>
+217,61,2,es,es,_,pro,VERcjg,VERcjg,indpst2,èser,DOM,,"CantAnn, l. 61",,,
+218,61,3,mesat_ies,mesatjes,–,pro,NOMcom,NOMcom,smn,mesatge,DOM,,"CantAnn, l. 61",,,
+219,61,4,a,a,+,pro,PRE,PRE,,a2,DOM,,"CantAnn, l. 61",,,
+220,61,5,l,l,+,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 61",,,
+221,61,6,rei,rei,–,pro,NOMcom,NOMcom,smr,réi,DOM,,"CantAnn, l. 61",,</q></l>,
+222,62,1,si,si,–|,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 62",,<lb/>,<l n=&quot;62&quot;><q>
+223,62,2,cum,cum,–,pro,CONsub,CONsub,,cóm,DOM,,"CantAnn, l. 62",,,<pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/>
+224,62,3,tu,tu,_,pro,PRNper,PRNper,2smn,tu,DOM,,"CantAnn, l. 62",,,
+225,62,4,o,o,_,pro,PRCdem,PRCdem,snr,ó2,DOM,,"CantAnn, l. 62",,,
+226,62,5,dit,dit,–,pro,VERcjg,VERcjg,indpst2,dire,DOM,,"CantAnn, l. 62",,,
+227,62,6,o,o,+,pro,PRCdem,PRCdem,snr,ó2,DOM,,"CantAnn, l. 62",,,
+228,62,7,crei,crei,–,pro,VERcjg,VERcjg,indpst1,créire,DOM,,"CantAnn, l. 62",,</q></l>,
+229,63,1,a,a,+,pro,PRE,PRE,,a2,DOM,,"CantAnn, l. 63",,,<l n=&quot;63&quot;><q>
+230,63,2,lui,lui,–,pro,PRNper,PRNper,3smr,lui,DOM,,"CantAnn, l. 63",,,
+231,63,3,me,me,+,pro,PRCper,PRCper,1smr,me,DOM,,"CantAnn, l. 63",,,
+232,63,4,do,do,–,pro,VERcjg,VERcjg,indpst1,donar,DOM,,"CantAnn, l. 63",,,
+233,63,5,e,e,+,pro,CONcoo,CONcoo,,e,DOM,,"CantAnn, l. 63",,,
+234,63,6,m,m,+,pro,PRCper,PRCper,1smr,me,DOM,,"CantAnn, l. 63",,,
+235,63,7,autrei,autrei,_,pro,VERcjg,VERcjg,indpst1,autrejar,DOM,,"CantAnn, l. 63",,</q></l>,
+236,64,1,E_go,ego,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 64",,,<l xml:lang=&quot;lat&quot; n=&quot;64&quot;><q>
+237,64,2,ui[r]g[o],virgo,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 64",,<supplied reason=&quot;missing&quot;>maria</supplied></q></l></lg>,
+238,65,1,Ancela,ancela,_,pro,NOMcom,NOMcom,sfn,ancela,DOM,,"CantAnn, l. 65",,,<lg n=&quot;17&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;65&quot;><q>
+239,65,2,soi,soi,–|,pro,VERcjg,VERcjg,indpst1,èser,DOM,,"CantAnn, l. 65",,<lb/>,
+240,65,3,da_mrideu,damrideu,–,pro,NOMpro,NOMpro,smr,domnedèu,DOM,,"CantAnn, l. 65",,</q></l>,
+241,66,1,si,si,+,pro,ADVgen,ADVgen,,si2,DOM,,"CantAnn, l. 66",,,<l n=&quot;66&quot;><q>
+242,66,2,cum,cum,–,pro,CONsub,CONsub,,cóm,DOM,,"CantAnn, l. 66",,,
+243,66,3,tu,tu,+,pro,PRNper,PRNper,2smn,tu,DOM,,"CantAnn, l. 66",,,
+244,66,4,o,o,+,pro,PRCdem,PRCdem,snr,ó2,DOM,,"CantAnn, l. 66",,,
+245,66,5,dit,dit,–,pro,VERcjg,VERcjg,indpst2,dire,DOM,,"CantAnn, l. 66",,,
+246,66,6,o,o,+,pro,PRCdem,PRCdem,snr,ó2,DOM,,"CantAnn, l. 66",,,
+247,66,7,cre,cre,+,pro,VERcjg,VERcjg,indpst1,créire,DOM,,"CantAnn, l. 66",,,
+248,66,8,eu,eu,–,pro,PRNper,PRNper,1sfn,eu,DOM,,"CantAnn, l. 66",,</q></l>,
+249,67,1,maire,maire,–,pro,NOMcom,NOMcom,sfn,maire,DOM,,"CantAnn, l. 67",,,<l n=&quot;67&quot;><q>
+250,67,2,serai,serai,–,pro,VERcjg,VERcjg,indfut1,èser,DOM,,"CantAnn, l. 67",,,
+251,67,3,damri_deu,damrideu,_,pro,NOMpro,NOMpro,smr,domnedèu,DOM,,"CantAnn, l. 67",,</q></l>,
+252,68,1,E,e,_,pro,CONcoo,CONcoo,,e,DOM,,"CantAnn, l. 68",,,<l n=&quot;68&quot;><q>
+253,68,2,pois,pois,–|,pro,ADVgen,ADVgen,,pòis,DOM,,"CantAnn, l. 68",,<supplied reason=&quot;missing&quot;>virgo maria</supplied></q></l></lg><lb/>,
+254,69,1,L,l,_,pro,DETdef,DETdef,smn,lo2,DOM,,"CantAnn, l. 69",,,<lg n=&quot;18&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;69&quot;>
+255,69,2,angels,angels,–,pro,NOMcom,NOMcom,smn,angel,DOM,,"CantAnn, l. 69",,,
+256,69,3,es,es,–,pro,VERcjg,VERcjg,indpst3,èser,DOM,,"CantAnn, l. 69",,,
+257,69,4,de,de,+,pro,PRE,PRE,,de,DOM,,"CantAnn, l. 69",,,
+258,69,5,u,u,–,pro,DETdef,DETdef,smr,lo2,DOM,,"CantAnn, l. 69",,,
+259,69,6,cel,cel,–,pro,NOMcom,NOMcom,smr,cèl,DOM,,"CantAnn, l. 69",,,
+260,69,7,uengut,vengut,–,pro,VERppe,VERppe,smr,venir,DOM,,"CantAnn, l. 69",,</l>,
+261,70,1,e,e,+,pro,CONcoo,CONcoo,,e,DOM,,"CantAnn, l. 70",,,<l n=&quot;70&quot;>
+262,70,2,la,la,_,pro,DETdef,DETdef,sfn,la,DOM,,"CantAnn, l. 70",,,
+263,70,3,domp_na,dompna,–,pro,NOMcom,NOMcom,sfn,dómna,DOM,,"CantAnn, l. 70",,,
+264,70,4,l,l,+,pro,PRCper,PRCper,3sma,lo3,DOM,,"CantAnn, l. 70",,,
+265,70,5,a,a,_,pro,VERcjg,VERcjg,indpst3,avér,DOM,,"CantAnn, l. 70",,,
+266,70,6,creut,creut,–,pro,VERppe,VERppe,smr,créire,DOM,,"CantAnn, l. 70",,</l>,
+267,71,1,p[er],per,_,pro,PRE,PRE,,pér,DOM,,"CantAnn, l. 71",,,<l n=&quot;71&quot;>
+268,71,2,tal,tal,–,pro,PRNind,PRNind,,tal,DOM,,"CantAnn, l. 71",,,
+269,71,3,n,n,+,pro,PRCadv,PRCadv,,én3,DOM,,"CantAnn, l. 71",,,
+270,71,4,esmes,esmes,–|,pro,VERcjg,VERcjg,indpst4,èser,DOM,,"CantAnn, l. 71",,<lb/>,
+271,71,5,erum_but,erumbut,_,pro,VERppe,VERppe,pmn,érompre,DMF,,"CantAnn, l. 71",lemma_SponsT:238,</l>,
+272,72,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 72",,,<l n=&quot;72&quot;>
+273,72,2,u[=uirgine],virgine,_,lat,ETR,ETR,,---,---,,"CantAnn, l. 72",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
+274,73,1,Eu,eu,_,pro,PRNper,PRNper,1smn,eu,DOM,,"CantAnn, l. 73",,,<lg n=&quot;19&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;73&quot;>
+275,73,2,uos,vos,_,pro,PRCper,PRCper,5pmi,vós,DOM,,"CantAnn, l. 73",,,
+276,73,3,ai,ai,+,pro,VERcjg,VERcjg,indpst1,avér,DOM,,"CantAnn, l. 73",,,
+277,73,4,dit,dit,–,pro,VERppe,VERppe,smr,dire,DOM,,"CantAnn, l. 73",,,
+278,73,5,mon,mon,+,pro,DETpos,DETpos,1smr,mon,DOM,,"CantAnn, l. 73",,,
+279,73,6,ta_lan,talan,–,pro,NOMcom,NOMcom,smr,talén,DOM,,"CantAnn, l. 73",,</l>,
+280,74,1,e,e,+,pro,CONcoo,CONcoo,,e,DOM,,"CantAnn, l. 74",,,<l n=&quot;74&quot;>
+281,74,2,uos,vos,–,pro,PRNper,PRNper,5pmn,vós,DOM,,"CantAnn, l. 74",,,
+282,74,3,diiat,dijat,–,pro,VERcjg,VERcjg,subpst5,dire,DOM,,"CantAnn, l. 74",,,
+283,74,4,en,en,+,pro,PRE,PRE,,én2,DOM,,"CantAnn, l. 74",,,
+284,74,5,a_uan,avan,–|,pro,ADVgen,ADVgen,,avan,DOM,,"CantAnn, l. 74",,</l><lb/>,
+285,75,1,ch_a_ques,chaques,_,pro,DETind,DETind,pmr,cac,DOM,,"CantAnn, l. 75",,,<l n=&quot;75&quot;>
+286,75,2,uers,vers,–,pro,NOMcom,NOMcom,pmr,vèrs,DOM,,"CantAnn, l. 75",,,
+287,75,3,nous,nous,+,pro,ADJqua,ADJqua,pmr,nòu,DOM,,"CantAnn, l. 75",,,
+288,75,4,ab,ab,–,pro,PRE,PRE,,ab,DOM,,"CantAnn, l. 75",,,
+289,75,5,nos,nos,_,pro,PRNper,PRNper,5pmr,nós,DOM,,"CantAnn, l. 75",,,
+290,75,6,ian,jan,_,pro,ADVgen,ADVgen,,gén2,DOM,,"CantAnn, l. 75",lemma_SponsT:239,</l>,
+291,76,1,De,de,+,lat,ETR,ETR,,---,---,,"CantAnn, l. 76",,,<l n=&quot;76&quot;>
+292,76,2,uir[=uirgine],virgine,|,lat,ETR,ETR,,---,---,,"CantAnn, l. 76",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg></body></text>,
