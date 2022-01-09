@@ -1,8 +1,8 @@
 wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,SPONS[US],sponsus,,,,.,lat,---,ETR,ETR,,---,---,,"Sponsus, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot;/><lb/><docTitle>
+1,1,1,SPONS[US],sponsus,,,,.,lat,---,ETR,ETR,,---,---,,"Sponsus, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item&quot;/><lb/><docTitle>
 2,2,1,Ad–est,adest,VQVQQ,a.d.e.s.t,'/V\.Q/V\QQ,–,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,<body xml:lang=&quot;pro&quot;><prologue><sp><lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;1&quot;>
 3,2,2,spo[n]sus,sponsus,QQVRQVQ,s.p.o.n.s.u.s,'QQ/V\R.Q/V\Q,–|,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,
-4,2,3,qui,qui,QRV,q.u.i,QR/V\,_,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,<pb n=&quot;53v&quot;/><lb/>
+4,2,3,qui,qui,QRV,q.u.i,QR/V\,_,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,<pb n=&quot;53v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f114.item&quot;/><lb/>
 5,2,4,est,est,VQQ,e.s.t,/V\QQ,–,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,
 6,2,5,christus,christus,QQRVQQVQ,c.h.r.i.s.t.u.s,'QQR/V\Q.Q/V\Q,–,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,
 7,2,6,uigilate,vigilate,QVQVRVQV,v.i.g.i.l.a.t.e,Q/V\.Q/V\.'R/V\.Q/V\,–,lat,1,ETR,ETR,,---,---,,"Sponsus, l. 1",,,
@@ -90,7 +90,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 89,16,1,Gaire,gaire,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,_,pro,14,ADVgen,ADVgen,,gaire,DOM,guère,"Sponsus, l. 14",,,<l n=&quot;14&quot;>
 90,16,2,no,no,no,n.o,n/o\,+,pro,14,ADVneg,ADVneg,,nóN,DOM,ne,"Sponsus, l. 14",,,
 91,16,3,i,i,i,i,/\i,–|,pro,14,PRCadv,PRCadv,,i,DOM,y2,"Sponsus, l. 14",,,
-92,16,4,dormet,dormet,dOrmɛZ,d.o.r.m.e.t,d/O\r.'m/ɛ\Z,–,pro,14,VERcjg,VERcjg,imp---5,dormir,DOM,dormir,"Sponsus, l. 14",,</l></lg>,<pb n=&quot;54r&quot;/><lb/>
+92,16,4,dormet,dormet,dOrmɛZ,d.o.r.m.e.t,d/O\r.'m/ɛ\Z,–,pro,14,VERcjg,VERcjg,imp---5,dormir,DOM,dormir,"Sponsus, l. 14",,</l></lg>,<pb n=&quot;54r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
 93,17,1,Aisel,aisel,Aisel,a.i.s.e.l,/A\i.'s/e\l,–,pro,15,DETdem,DETdem,smn,aicel,DOM,cil,"Sponsus, l. 15",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l n=&quot;15&quot;>
 94,17,2,espos,espos,ESpoS,e.s.p.o.s,/E\S.'p/o\S,–,pro,15,NOMcom,NOMcom,smn,espós,DOM,époux,"Sponsus, l. 15",,,
 95,17,3,que,que,kE,qu.e,k/E\,+,pro,15,PRNrel,PRNrel,smr,que,DOM,que,"Sponsus, l. 15",,,
@@ -185,7 +185,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 184,35,6,dormit,dormit,dOrmiZ,d.o.r.m.i.t,d/O\r.'m/i\Z,–,pro,32,VERppe,VERppe,snr,dormir,DOM,dormir,"Sponsus, l. 32",,</l></lg>,
 185,36,1,Nos,nos,RVQ,n.o.s,R/V\Q,_,lat,33,ETR,ETR,,---,---,,"Sponsus, l. 33",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;33&quot;>
 186,36,2,co–|mites,comites,QVRVQVQ,c.o.m.i.t.e.s,'Q/V\.R/V\.Q/V\Q,–,lat,33,ETR,ETR,,---,---,,"Sponsus, l. 33",,,
-187,36,3,huius,huius,QVRVQ,h.u.i.u.s,'Q/V\.R/V\Q,–,lat,33,ETR,ETR,,---,---,,"Sponsus, l. 33",,,<pb n=&quot;54v&quot;/><lb/>
+187,36,3,huius,huius,QVRVQ,h.u.i.u.s,'Q/V\.R/V\Q,–,lat,33,ETR,ETR,,---,---,,"Sponsus, l. 33",,,<pb n=&quot;54v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
 188,36,4,itineris,itineris,VQVRVRVQ,i.t.i.n.e.r.i.s,/V\.'Q/V\.R/V\.R/V\Q,–,lat,33,ETR,ETR,,---,---,,"Sponsus, l. 33",,</l>,
 189,37,1,[et],et,VQ,e.t,/V\Q,+,lat,34,ETR,ETR,,---,---,,"Sponsus, l. 34",,,<l xml:lang=&quot;lat&quot; n=&quot;34&quot;>
 190,37,2,sorores,sorores,QVRVRVQ,s.o.r.o.r.e.s,Q/V\.'R/V\.R/V\Q,–,lat,34,ETR,ETR,,---,---,,"Sponsus, l. 34",,,
@@ -265,7 +265,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 264,58,1,uigilare,vigilare,QVQVRVRV,v.i.g.i.l.a.r.e,Q/V\.Q/V\.'R/V\.R/V\,–,lat,54,ETR,ETR,,---,---,,"Sponsus, l. 54",,,<l xml:lang=&quot;lat&quot; n=&quot;54&quot;>
 265,58,2,numquid,numquid,RVRQRVQ,n.u.m.q.u.i.d,'R/V\R.QR/V\Q,–,lat,54,ETR,ETR,,---,---,,"Sponsus, l. 54",,,
 266,58,3,po–|tuimus,potuimus,QVQVVRVQ,p.o.t.u.i.m.u.s,Q/V\.'Q/V\./V\.R/V\Q,–,lat,54,ETR,ETR,,---,---,,"Sponsus, l. 54",,</l>,
-267,59,1,hunc,hunc,QVRQ,h.u.n.c,Q/V\RQ,_,lat,55,ETR,ETR,,---,---,,"Sponsus, l. 55",,,<pb n=&quot;55r&quot;/><lb/><l xml:lang=&quot;lat&quot; n=&quot;55&quot;>
+267,59,1,hunc,hunc,QVRQ,h.u.n.c,Q/V\RQ,_,lat,55,ETR,ETR,,---,---,,"Sponsus, l. 55",,,<pb n=&quot;55r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f117.item&quot;/><lb/><l xml:lang=&quot;lat&quot; n=&quot;55&quot;>
 268,59,2,laborem,laborem,RVQVRVR,l.a.b.o.r.e.m,R/V\.'Q/V\.R/V\R,–,lat,55,ETR,ETR,,---,---,,"Sponsus, l. 55",,,
 269,59,3,que,que,QRV,q.u.e,QR/V\,–,lat,55,ETR,ETR,,---,---,,"Sponsus, l. 55",,,
 270,59,4,nunc,nunc,RVRQ,n.u.n.c,R/V\RQ,–,lat,55,ETR,ETR,,---,---,,"Sponsus, l. 55",,,
@@ -368,7 +368,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 367,79,6,uenra,venra,vENra,v.e.n.r.a,v/E\N.'r/a\,–,pro,74,VERcjg,VERcjg,indfut3,venir,DOM,venir,"Sponsus, l. 74",,,
 368,79,7,l,l,L,l,L/\,+,pro,74,DETdef,DETdef,smn,lo2,DOM,le,"Sponsus, l. 74",,,
 369,79,8,espos,espos,ESpoS,e.s.p.o.s,/E\S.'p/o\S,–|,pro,74,NOMcom,NOMcom,smn,espós,DOM,époux,"Sponsus, l. 74",,</l></lg>,
-370,80,1,A,a,V,a,/V\,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,<pb n=&quot;55v&quot;/><lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;75&quot;> 
+370,80,1,A,a,V,a,/V\,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,<pb n=&quot;55v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f118.item&quot;/><lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;75&quot;> 
 371,80,2,misere,misere,RVQVRV,m.i.s.e.r.e,'R/V\.Q/V\.R/V\,–,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
 372,80,3,nos,nos,RVQ,n.o.s,R/V\Q,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
 373,80,4,ad,ad,VQ,a.d,/V\Q,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
