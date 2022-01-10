@@ -148,7 +148,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,
 147,22,7,lo,lo,Lo,l.o,L/o\,_,fro,22,Det,Det,le,DMF,le,DETdef,DETdef,smr,"Eulalie, l. 22",,
 148,22,8,chief,chief,ċiEF,ch.i.e.f,ċ/iE\F,|,fro,22,N,N,chef,DMF,chef,NOMcom,NOMcom,smr,"Eulalie, l. 22",,</l></lg>
 149,23,1,L_a,la,LA,l.a,L/A\,_,fro,23,Det,Det,le,DMF,le,DETdef,DETdef,sfn,"Eulalie, l. 23",<lb/><lg type=&quot;couplet&quot;><l n=&quot;23&quot;>,
-150,23,2,domnizelle,domnizelle,dOmniʦɛlə,d.o.m.n.i.z.e.ll.e,d/O\m.n/i\.'ʦ/ɛ\.l/(ə)\,_,fro,23,N,N,damoiselle,DMF,damoiselle,NOMcom,NOMcom,sfn,"Eulalie, l. 23",,
+150,23,2,domnizelle,domnizelle,dOmniʣɛlə,d.o.m.n.i.z.e.ll.e,d/O\m.n/i\.'ʣ/ɛ\.l/(ə)\,_,fro,23,N,N,damoiselle,DMF,damoiselle,NOMcom,NOMcom,sfn,"Eulalie, l. 23",,
 151,23,3,celle,celle,Çelə,c.e.ll.e,'Ç/e\.l/(ə)\,_,fro,23,Dem,Dem,cil,DMF,cil,DETdem,DETdem,sfr,"Eulalie, l. 23",,
 152,23,4,kose,kose,ċɔzə,k.o.s.e,'ċ/ɔ\.z/(ə)\,_,fro,23,N,N,chose,DMF,chose,NOMcom,NOMcom,sfr,"Eulalie, l. 23",,
 153,23,5,no[n],non,nOn,n.o.n,n/O\n,_,fro,23,Neg,Neg$$,ne,DMF,ne,ADVneg,ADVneg,,"Eulalie, l. 23",,
