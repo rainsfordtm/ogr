@@ -77,20 +77,20 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,etym_map,origin,wd_div,
 163,25,2,figure,figure,figyrə,f.i.g.u.r.e,f/i\.'g/y\.r/(ə)\,,loan,_,fro,25,N,N,figure,DMF,figure,NOMcom,NOMcom,sfr,"Eulalie, l. 25",,
 113,18,8,honestet,honestet,OnEStæð,ho.n.e.s.t.e.t,/O\.n/E\S.'t/æ\ð,o[_(h- o[).-n-.e].-s.t-.a'[.-t- e[,native,.|,fro,18,N,N,honnesté,DMF,honnesté,NOMcom,NOMcom,sfr,"Eulalie, l. 18",,</l></lg>
 100,16,4,empedementz,empedementz,ENpEdEmENTS,e.m.p.e.d.e.m.e.n.t.z,/E\N.p/E\.d/E\.'m/E\NTS,,,|,fro,16,N,N,impédiment,DMF,impédiment,NOMcom,NOMcom,pmr,"Eulalie, l. 16",,</l></lg>
-45,8,2,manatce,manatce,mAnaʦə,m.a.n.a.tc.e,m/A\.'n/a\.ʦ/(ə)\,,,_,fro,8,N,N,menace,DMF,menace,NOMcom,NOMcom,sfr,"Eulalie, l. 8",,
-181,27,6,mercit,mercit,mErʦið,m.e.r.c.i.t,m/E\r.'ʦ/i\ð,m.ɛ.r.c.ɛ'$.d·V$,,.,fro,27,N,N,merci,DMF,merci,NOMcom,NOMcom,sfr,"Eulalie, l. 27",,</l>
-63,10,8,menestier,menestier,mEnEStiEr,m.e.n.e.s.t.i.e.r,m/E\.n/E\S.'t/iE\r,,,|,fro,10,N,N,métier,DMF,métier,NOMcom,NOMcom,smr,"Eulalie, l. 10",,</l></lg>
-184,28,3,mort,mort,mɔrT,m.o.r.t,m/ɔ\rT,,,_,fro,28,N,N,mort,DMF,mort,NOMcom,NOMcom,,"Eulalie, l. 28",,
-89,14,5,nom,nom,nOm,n.o.m,n/O\m,n.o'$.m·V$,,_,fro,14,N,N,nom,DMF,nom,NOMcom,NOMcom,smr,"Eulalie, l. 14",,
-39,7,3,or,or,ɔr,o.r,/ɔ\r,,,_,fro,7,N,N,or,DMF,or,NOMcom,NOMcom,smr,"Eulalie, l. 7",,
-43,7,7,paramenz,paramenz,pArAmENTS,p.a.r.a.m.e.n.z.,p/A\.r/A\.'m/E\NTS,,,.,fro,7,N,N,parement,DMF,parement,NOMcom,NOMcom,pmr,"Eulalie, l. 7",,</l>
-57,10,2,polle,polle,polə,p.o.ll.e,'p/o\.l/(ə)\,,,_,fro,10,N,N,poule2,DMF,poule2,NOMcom,NOMcom,sfn,"Eulalie, l. 10",,
-48,8,5,preiement,preiement,prEiEmENT,p.r.e.i.e.m.e.n.t,pr/E\i./E\.'m/E\NT,,,|,fro,8,N,N,priement,DMF,priement,NOMcom,NOMcom,smr,"Eulalie, l. 8",,</l></lg>
-2,1,2,pulcella,pulcella,pyLʦɛlə,p.u.l.c.e.ll.a,p/y\L.'ʦ/ɛ\.l/(ə)\,p.u.l.k.ɛ'.ll.a$,,_,fro,1,N,N,pucelle,DMF,pucelle,NOMcom,NOMcom,sfn,"Eulalie, l. 1",,
-71,12,2,rex,rex,rEiS,r.e.x.,r/E\iS,r.e'.k.s,,_,fro,12,N,N,roi,DMF,roi,NOMcom,NOMcom,smn,"Eulalie, l. 12",,
-139,21,8,rex,rex,rEiS,r.e.x.,r/E\iS,,,_,fro,21,N,N,roi,DMF,roi,NOMcom,NOMcom,smn,"Eulalie, l. 21",,
-157,24,3,seule,seule,Seulə,s.e.u.l.e,'S/e\u.l/(ə)\,s.ɛ'$.k·V.l.o$,,_,fro,24,N,N,siècle,DMF,siècle,NOMcom,NOMcom,smr,"Eulalie, l. 24",,
-105,17,5,uirginitet,virginitet,virʤinitæð,v.i.r.g.i.n.i.t.e.t,v/i\r.ʤ/i\.n/i\.'t/æ\ð,,,_,fro,17,N,N,virginité,DMF,virginité,NOMcom,NOMcom,sfr,"Eulalie, l. 17",,</l>
+45,8,2,manatce,manatce,mAnaʦə,m.a.n.a.tc.e,m/A\.'n/a\.ʦ/(ə)\,m-.e[.-n-.a'].-kj-.a[,native,_,fro,8,N,N,menace,DMF,menace,NOMcom,NOMcom,sfr,"Eulalie, l. 8",,
+181,27,6,mercit,mercit,mErʦið,m.e.r.c.i.t,m/E\r.'ʦ/i\ð,m-.e].-r.c-.ɛ'[.-d-_e[,native,.,fro,27,N,N,merci,DMF,merci,NOMcom,NOMcom,sfr,"Eulalie, l. 27",,</l>
+63,10,8,menestier,menestier,mEnEStiEr,m.e.n.e.s.t.i.e.r,m/E\.n/E\S.'t/iE\r,m-.e[.-n-.e].-s.t-.ɛ'[.-rj- _o[,native,|,fro,10,N,N,métier,DMF,métier,NOMcom,NOMcom,smr,"Eulalie, l. 10",,</l></lg>
+184,28,3,mort,mort,mɔrT,m.o.r.t,m/ɔ\rT,m-.ɔ'].-r.t-_e[,native,_,fro,28,N,N,mort,DMF,mort,NOMcom,NOMcom,,"Eulalie, l. 28",,
+89,14,5,nom,nom,nOm,n.o.m,n/O\m,n-.o'[.m-_e[,native,_,fro,14,N,N,nom,DMF,nom,NOMcom,NOMcom,smr,"Eulalie, l. 14",,
+39,7,3,or,or,ɔr,o.r,/ɔ\r,au'[.-r- o[,native,_,fro,7,N,N,or,DMF,or,NOMcom,NOMcom,smr,"Eulalie, l. 7",,
+43,7,7,paramenz,paramenz,pArAmENTS,p.a.r.a.m.e.n.z.,p/A\.r/A\.'m/E\NTS,p-.a[.-r-.a[.-m-.ɛ'].-n.t-_o[.-s-,native,.,fro,7,N,N,parement,DMF,parement,NOMcom,NOMcom,pmr,"Eulalie, l. 7",,</l>
+57,10,2,polle,polle,polə,p.o.ll.e,'p/o\.l/(ə)\,p-.u]_-p_o[.l-.a[,native,_,fro,10,N,N,poule2,DMF,poule2,NOMcom,NOMcom,sfn,"Eulalie, l. 10",,
+48,8,5,preiement,preiement,prEiEmENT,p.r.e.i.e.m.e.n.t,pr/E\i./E\.'m/E\NT,p-.r-.e[.-k-.a[.m-.ɛ'].-n.t-.o[,native,|,fro,8,N,N,priement,DMF,priement,NOMcom,NOMcom,smr,"Eulalie, l. 8",,</l></lg>
+2,1,2,pulcella,pulcella,pyLʦɛlə,p.u.l.c.e.ll.a,p/y\L.'ʦ/ɛ\.l/(ə)\,p-.u].-l_i[.c-.ɛ'].-ll-.a[,native,_,fro,1,N,N,pucelle,DMF,pucelle,NOMcom,NOMcom,sfn,"Eulalie, l. 1",,
+71,12,2,rex,rex,rEiS,r.e.x.,r/E\iS,r-.e'].-k.s-,native,_,fro,12,N,N,roi,DMF,roi,NOMcom,NOMcom,smn,"Eulalie, l. 12",,
+139,21,8,rex,rex,rEiS,r.e.x.,r/E\iS,r-.e'].-k.s-,native,_,fro,21,N,N,roi,DMF,roi,NOMcom,NOMcom,smn,"Eulalie, l. 21",,
+157,24,3,seule,seule,Seulə,s.e.u.l.e,'S/e\u.l/(ə)\,s-.ɛ'].-k_u[.l-.o[,native,_,fro,24,N,N,siècle,DMF,siècle,NOMcom,NOMcom,smr,"Eulalie, l. 24",,
+105,17,5,uirginitet,virginitet,virʤinitæð,v.i.r.g.i.n.i.t.e.t,v/i\r.ʤ/i\.n/i\.'t/æ\ð,,loan,_,fro,17,N,N,virginité,DMF,virginité,NOMcom,NOMcom,sfr,"Eulalie, l. 17",,</l>
 161,24,7,Krist,krist,kriST,k.r.i.s.t,kr/i\ST,,,.|,fro,24,N,N,Christ,DMF,Christ,NOMpro,NOMpro,smr,"Eulalie, l. 24",,</l></lg>
 180,27,5,chr[istu]s,christus,QRVQQVQ,ch.r.i.s.t.u.s,'QR/V\Q.Q/V\Q,,,_,lat,27,N,N,Christ,DMF,Christ,NOMpro,NOMpro,smn,"Eulalie, l. 27",,
 14,3,5,d[e]o,deo,dæu,d.e.o,d/æ\u,,,_,fro,3,N,N,Dieu,DMF,Dieu,NOMpro,NOMpro,smr,"Eulalie, l. 3",,
