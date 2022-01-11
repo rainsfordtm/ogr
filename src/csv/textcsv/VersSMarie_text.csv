@@ -191,35 +191,36 @@ wd_id,line_id,line_wd,dipl,word,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,le
 190,41,3,o,o,+,pro,PRCdem,,,o2,DOM,,40,"VersSMarie, l. 40",,,
 191,41,4,dii,dii,_,pro,VERcjg,,indpst3,dire,DOM,,40,"VersSMarie, l. 40",,,
 192,41,5,maria,maria,_,pro,NOMpro,,sfr,Marie,,,40,"VersSMarie, l. 40",,</l></lg>,
-193,42,1,Aut,aut,_,pro,,,,,,,41,"VersSMarie, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>
-194,42,2,apostols,apostols,–|,pro,,,,,,,41,"VersSMarie, l. 41",,,
-195,42,3,cum_tet,cumtet,–,pro,,,,,,,41,"VersSMarie, l. 41",,</l>,<pb n=&quot;50r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f107.item&quot;/><lb/>
-196,43,1,tot,tot,–,pro,,,,,,,42,"VersSMarie, l. 42",,,<l n=&quot;42&quot;>
-197,43,2,e,e,+,pro,,,,,,,42,"VersSMarie, l. 42",,,
-198,43,3,dis,dis,–,pro,,,,,,,42,"VersSMarie, l. 42",,,
-199,43,4,c,c,+,pro,,,,,,,42,"VersSMarie, l. 42",,,
-200,43,5,ap,ap,_,pro,,,,,,,42,"VersSMarie, l. 42",,,
-201,43,6,deu,deu,–,pro,,,,,,,42,"VersSMarie, l. 42",,,
-202,43,7,parlet,parlet,–,pro,,,,,,,42,"VersSMarie, l. 42",,</l>,
-203,44,1,qu,qu,+,pro,,,,,,,43,"VersSMarie, l. 43",,,<l n=&quot;43&quot;>
-204,44,2,eu,eu,+,pro,,,,,,,43,"VersSMarie, l. 43",,,
-205,44,3,poi,poi,–,pro,,,,,,,43,"VersSMarie, l. 43",,,
-206,44,4,de,de,+,pro,,,,,,,43,"VersSMarie, l. 43",,,
-207,44,5,galilea,galilea,–,pro,,,,,,,43,"VersSMarie, l. 43",,</l>,
-208,45,1,uiu,viu,_,pro,,,,,,,44,"VersSMarie, l. 44",,,<l n=&quot;44&quot;>
-209,45,2,lo,lo,+,pro,,,,,,,44,"VersSMarie, l. 44",,,
-210,45,3,uerem,verem,_,pro,,,,,,,44,"VersSMarie, l. 44",,,
-211,45,4,an–|gera,angera,_,pro,,,,,,,44,"VersSMarie, l. 44",,</l></lg>,
-212,46,1,Vida,vida,_,pro,,,,,,,45,"VersSMarie, l. 45",,,<lb/><lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;45&quot;>
-213,46,2,qui,qui,_,pro,,,,,,,45,"VersSMarie, l. 45",,,
-214,46,3,mort,mort,_,pro,,,,,,,45,"VersSMarie, l. 45",,,
-215,46,4,aucis,aucis,–,pro,,,,,,,45,"VersSMarie, l. 45",,</l>,
-216,47,1,nos,nos,–,pro,,,,,,,46,"VersSMarie, l. 46",,,<l n=&quot;46&quot;>
-217,47,2,donet,donet,_,pro,,,,,,,46,"VersSMarie, l. 46",,,
-218,47,3,paradis,paradis,–,pro,,,,,,,46,"VersSMarie, l. 46",,</l>,
-219,48,1,gloria,gloria,_,pro,,,,,,,47,"VersSMarie, l. 47",,,<l n=&quot;47&quot;>
-220,48,2,aisamen,aisamen,_,pro,,,,,,,47,"VersSMarie, l. 47",,</l>,
-221,49,1,nos,nos,–|,pro,,,,,,,48,"VersSMarie, l. 48",,,<l n=&quot;48&quot;>
-222,49,2,do,do,–,pro,,,,,,,48,"VersSMarie, l. 48",,,<lb/>
-223,49,3,deus,deus,_,pro,,,,,,,48,"VersSMarie, l. 48",,,
-224,49,4,ueramen,veramen,–,pro,,,,,,,48,"VersSMarie, l. 48",,</l></lg></body></text>,
+193,42,1,A,a,+,pro,PRE,,,a2,DOM,,41,"VersSMarie, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>
+194,42,2,ut,ut,_,pro,DETdef,,pmr,los,DOM,,41,"VersSMarie, l. 41",phon_SponsT:106-107,,
+195,42,3,apostols,apostols,–|,pro,NOMcom,,pmr,apòstol,DOM,,41,"VersSMarie, l. 41",,,
+196,42,4,cum_tet,cumtet,–,pro,VERcjg,,indpsp3,comtar,DOM,,41,"VersSMarie, l. 41",,</l>,<pb n=&quot;50r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f107.item&quot;/><lb/>
+197,43,1,e,e,+,pro,CONcoo,,,e,DOM,,42,"VersSMarie, l. 42",,,<l n=&quot;42&quot;>
+198,43,2,dis,dis,–,pro,VERcjg,,indpsp3,dire,DOM,,42,"VersSMarie, l. 42",,,
+199,43,3,c,c,+,pro,CONsub,,,que2,DOM,,42,"VersSMarie, l. 42",,,
+200,43,4,ap,ap,_,pro,PRE,,,ab,DOM,,42,"VersSMarie, l. 42",,,
+201,43,5,deu,deu,–,pro,NOMpro,,smr,dèu,DOM,,42,"VersSMarie, l. 42",,,
+202,43,7,parlet,parlet,–,pro,VERcjg,,indpsp3,parlar,DOM,,42,"VersSMarie, l. 42",,</l>,
+203,44,1,qu,qu,+,pro,CONsub,,,que2,DOM,,43,"VersSMarie, l. 43",,,<l n=&quot;43&quot;>
+204,44,2,e,e,+,pro,PRE,,,én,DOM,,43,"VersSMarie, l. 43",,,
+205,44,3,u,u,+,pro,DETdef,,smr,lo2,DOM,,43,"VersSMarie, l. 43",,,
+206,44,4,poi,poi,–,pro,NOMcom,,smr,pòg,DOM,,43,"VersSMarie, l. 43",,,
+207,44,5,de,de,+,pro,PRE,,,de,DOM,,43,"VersSMarie, l. 43",,,
+208,44,6,galilea,galilea,–,pro,NOMpro,,sfr,Galilée,,,43,"VersSMarie, l. 43",,</l>,
+209,45,1,uiu,viu,_,pro,ADJqua,,smr,viu,DOM,,44,"VersSMarie, l. 44",,,<l n=&quot;44&quot;>
+210,45,2,lo,lo,+,pro,PRCper,,smr,lo3,DOM,,44,"VersSMarie, l. 44",,,
+211,45,3,uerem,verem,_,pro,VERcjg,,indfut4,vezér,DOM,,44,"VersSMarie, l. 44",,,
+212,45,4,an–|gera,angera,_,pro,ADVgen,,,ancar,DOM,,44,"VersSMarie, l. 44",,</l></lg>,
+213,46,1,Vida,vida,_,pro,NOMcom,,sfn,vida,DOM,,45,"VersSMarie, l. 45",,,<lb/><lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;45&quot;>
+214,46,2,qui,qui,_,pro,PRNrel,,sfn,qui,DOM,,45,"VersSMarie, l. 45",,,
+215,46,3,mort,mort,_,pro,NOMcom,,sfr,mòrt,DOM,,45,"VersSMarie, l. 45",,,
+216,46,4,aucis,aucis,–,pro,VERcjg,,indpsp3,aucire,DOM,,45,"VersSMarie, l. 45",,</l>,
+217,47,1,nos,nos,–,pro,PRCper,,4pmr,nós,DOM,,46,"VersSMarie, l. 46",,,<l n=&quot;46&quot;>
+218,47,2,donet,donet,_,pro,VERcjg,,indpsp3,donar,DOM,,46,"VersSMarie, l. 46",,,
+219,47,3,paradis,paradis,–,pro,NOMcom,,smr,paradis,DOM,,46,"VersSMarie, l. 46",,</l>,
+220,48,1,gloria,gloria,_,pro,NOMcom,,sfr,gloria,DOM,,47,"VersSMarie, l. 47",,,<l n=&quot;47&quot;>
+221,48,2,aisamen,aisamen,_,pro,ADVgen,,,aisamen,DOM,,47,"VersSMarie, l. 47",,</l>,
+222,49,1,nos,nos,–|,pro,PRCper,,4pmr,nós,DOM,,48,"VersSMarie, l. 48",,,<l n=&quot;48&quot;>
+223,49,2,do,do,–,pro,VERcjg,,subpst3,donar,DOM,,48,"VersSMarie, l. 48",,,<lb/>
+224,49,3,deus,deus,_,pro,NOMpro,,smn,dèu,DOM,,48,"VersSMarie, l. 48",,,
+225,49,4,ueramen,veramen,–,pro,ADVgen,,,veramén,DOM,,48,"VersSMarie, l. 48",,</l></lg></body></text>,
