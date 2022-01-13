@@ -156,7 +156,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 155,28,5,uenra,venra,vENra,v.e.n.r.a,v/E\N.'r/a\,–,pro,26,VERcjg,VERcjg,indfut3,venir,DOM,venir,"Sponsus, l. 26",,,
 156,28,6,praici,praici,prAiʦi,p.r.a.i.c.i,pr/A\i.'ʦ/i\,_,pro,26,ADVgen,ADVgen,,aici,DOM,ici,"Sponsus, l. 26",,</l>,
 157,29,1,Gaire,gaire,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,_,pro,27,ADVgen,ADVgen,,gaire,DOM,guère,"Sponsus, l. 27",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l></lg></sp>,<l n=&quot;27&quot;>
-158,30,1,Fatve,fatve,,,,|,lat,---,ETR,ETR,,---,---,,"Sponsus, f. 54r, rubric",,</speaker>,<sp><speaker>
+158,30,1,Fatve,fatue,,,,|,lat,---,ETR,ETR,,---,---,,"Sponsus, f. 54r, rubric",,</speaker>,<sp><speaker>
 159,31,1,Nos,nos,RVQ,n.o.s,R/V\Q,_,lat,28,ETR,ETR,,---,---,,"Sponsus, l. 28",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;28&quot;>
 160,31,2,uirgines,virgines,QVRQVRVQ,v.i.r.g.i.n.e.s,'Q/V\R.Q/V\.R/V\Q,–,lat,28,ETR,ETR,,---,---,,"Sponsus, l. 28",,,
 161,31,3,que,que,QRV,q.u.e,QR/V\,_,lat,28,ETR,ETR,,---,---,,"Sponsus, l. 28",,,
@@ -255,8 +255,8 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 254,55,2,eq[u]idem,equidem,VQRVQVR,e.q.u.i.d.e.m,'/V\.QR/V\.Q/V\R,–,lat,51,ETR,ETR,,---,---,,"Sponsus, l. 51",,,
 255,55,3,uobis,vobis,QVQVQ,v.o.b.i.s,'Q/V\.Q/V\Q,–,lat,51,ETR,ETR,,---,---,,"Sponsus, l. 51",,,
 256,55,4,inertib[us],inertibus,VRVRQVQVQ,i.n.e.r.t.i.b.u.s,/V\.'R/V\R.Q/V\.Q/V\Q,_,lat,51,ETR,ETR,,---,---,,"Sponsus, l. 51",,</l>,
-257,56,1,Do[=Dolentas],dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–|,pro,52,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Sponsus, l. 52",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg>,<l n=&quot;52&quot;>
-258,57,1,A,a,V,a,/V\,_,lat,53,ETR,ETR,,---,---,,"Sponsus, l. 53",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;53&quot;>
+257,56,1,Do[=Dolentas],dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,–|,pro,52,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Sponsus, l. 52",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;52&quot;>
+258,57,1,A,a,V,a,/V\,_,lat,53,ETR,ETR,,---,---,,"Sponsus, l. 53",,,<lb/><sp><speaker><supplied reason=&quot;missing&quot;>fatue</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;53&quot;>
 259,57,2,misere,misere,RVQVRV,m.i.s.e.r.e,'R/V\.Q/V\.R/V\,–,lat,53,ETR,ETR,,---,---,,"Sponsus, l. 53",,,
 260,57,3,nos,nos,RVQ,n.o.s,R/V\Q,–,lat,53,ETR,ETR,,---,---,,"Sponsus, l. 53",,,
 261,57,4,hic,hic,QVQ,h.i.c,Q/V\Q,–,lat,53,ETR,ETR,,---,---,,"Sponsus, l. 53",,,
@@ -292,8 +292,8 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 291,65,2,quod,quod,QRVQ,q.u.o.d,QR/V\Q,–|,lat,61,ETR,ETR,,---,---,,"Sponsus, l. 61",,,
 292,65,3,nosme,nosme,RVQRV,n.o.s.m.e,'R/V\.QR/V\,–,lat,61,ETR,ETR,,---,---,,"Sponsus, l. 61",,,<lb/>
 293,65,4,fu(n)dimus,fudimus,QVQVRVQ,f.u.d.i.m.u.s,'Q/V\.Q/V\.R/V\Q,_,lat,61,ETR,ETR,,---,---,,"Sponsus, l. 61",,</l>,
-294,66,1,Dol[=Dolentas],dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,_,pro,62,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Sponsus, l. 62",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg>,<l n=&quot;62&quot;>
-295,67,1,De,de,dE,d.e,d/E\,+,pro,63,PRE,PRE,,de,DOM,de,"Sponsus, l. 63",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;63&quot;>
+294,66,1,Dol[=Dolentas],dolentas,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,_,pro,62,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Sponsus, l. 62",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;62&quot;>
+295,67,1,De,de,dE,d.e,d/E\,+,pro,63,PRE,PRE,,de,DOM,de,"Sponsus, l. 63",,,<sp><speaker><supplied>prudentes</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;63&quot;>
 296,67,2,nostr,nostr,nɔStr0,n.o.s.t.r.,'n/ɔ\S.tr/[0]\,+,pro,63,DETpos,DETpos,4smr,nòstre,DOM,notre,"Sponsus, l. 63",,,
 297,67,3,oli,oli,ɔli,o.l.i,'/ɔ\.l/i\,–,pro,63,NOMcom,NOMcom,smr,òli,DOM,huile,"Sponsus, l. 63",,,
 298,67,4,queret,queret,kErɛZ,qu.e.r.e.t,k/E\.'r/ɛ\Z,–,pro,63,VERcjg,VERcjg,indpst5,quèrre,DOM,quérir,"Sponsus, l. 63",,,
@@ -367,8 +367,8 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 366,79,5,ia,ja,ʤa,j.a,ʤ/a\,_,pro,74,ADVgen,ADVgen,,ja,DOM,jà,"Sponsus, l. 74",,,
 367,79,6,uenra,venra,vENra,v.e.n.r.a,v/E\N.'r/a\,–,pro,74,VERcjg,VERcjg,indfut3,venir,DOM,venir,"Sponsus, l. 74",,,
 368,79,7,l,l,L,l,L/\,+,pro,74,DETdef,DETdef,smn,lo2,DOM,le,"Sponsus, l. 74",,,
-369,79,8,espos,espos,ESpoS,e.s.p.o.s,/E\S.'p/o\S,–|,pro,74,NOMcom,NOMcom,smn,espós,DOM,époux,"Sponsus, l. 74",,</l></lg>,
-370,80,1,A,a,V,a,/V\,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,<pb n=&quot;55v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f118.item&quot;/><lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;75&quot;> 
+369,79,8,espos,espos,ESpoS,e.s.p.o.s,/E\S.'p/o\S,–|,pro,74,NOMcom,NOMcom,smn,espós,DOM,époux,"Sponsus, l. 74",,</l></lg></sp>,
+370,80,1,A,a,V,a,/V\,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,<pb n=&quot;55v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f118.item&quot;/><lb/><sp><speaker><supplied reason=&quot;missing&quot;>fatue</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;75&quot;> 
 371,80,2,misere,misere,RVQVRV,m.i.s.e.r.e,'R/V\.Q/V\.R/V\,–,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
 372,80,3,nos,nos,RVQ,n.o.s,R/V\Q,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
 373,80,4,ad,ad,VQ,a.d,/V\Q,_,lat,75,ETR,ETR,,---,---,,"Sponsus, l. 75",,,
