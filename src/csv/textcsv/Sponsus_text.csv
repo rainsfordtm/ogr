@@ -80,7 +80,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 79,14,3,que,que,+,kE,qu.e,k/E\,,pro,12,CONsub,CONsub,,que2,DOM,que,"Sponsus, l. 12",,,
 80,14,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,12,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 12",,,
 81,14,5,co–|mandarum,comandarum,–,kOmANdArOm,c.o.m.a.n.d.a.r.u.m,k/O\.m/A\N.d/A\.'r/O\m,,pro,12,VERcjg,VERcjg,indfut4,comandar,DOM,commander,"Sponsus, l. 12",,</l>,
-82,15,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,,pro,13,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Sponsus, l. 13",,,<lb/><l n=&quot;13&quot;>
+82,15,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,13,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Sponsus, l. 13",,,<lb/><l n=&quot;13&quot;>
 83,15,2,un,un,+,yN,u.n,/y\N,,pro,13,DETndf,DETndf,smr,uN,DOM,un,"Sponsus, l. 13",,,
 84,15,3,es_pos,espos,–,ESpoS,e.s.p.o.s,/E\S.'p/o\S,0.s.p-.ó](-n).s-(o[),pro,13,NOMcom,NOMcom,smr,espós,DOM,époux,"Sponsus, l. 13",,,
 85,15,4,ih[es]u,jhesu,–,ʤEzy,ih.e.s.u,ʤ/E\.'z/y\,,pro,13,NOMpro,NOMpro,smn,Jésus,wikipedia.fr,---,"Sponsus, l. 13",,,
@@ -90,13 +90,13 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 89,16,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,14,ADVgen,ADVgen,,gaire,DOM,guère,"Sponsus, l. 14",,,<l n=&quot;14&quot;>
 90,16,2,no,no,+,no,n.o,n/o\,,pro,14,ADVneg,ADVneg,,nóN,DOM,ne,"Sponsus, l. 14",,,
 91,16,3,i,i,–|,i,i,/\i,,pro,14,PRCadv,PRCadv,,i,DOM,y2,"Sponsus, l. 14",,,
-92,16,4,dormet,dormet,–,dOrmɛT,d.o.r.m.e.t,d/O\r.'m/ɛ\T,,pro,14,VERcjg,VERcjg,imp---5,dormir,DOM,dormir,"Sponsus, l. 14",,</l></lg>,<pb n=&quot;54r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
+92,16,4,dormet,dormet,–,dOrmɛT,d.o.r.m.e.t,d/O\r.'m/ɛ\T,d-.ò].-r.m-.è[.-t-(e[)(-s-),pro,14,VERcjg,VERcjg,imp---5,dormir,DOM,dormir,"Sponsus, l. 14",,</l></lg>,<pb n=&quot;54r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
 93,17,1,Aisel,aisel,–,Aisel,a.i.s.e.l,/A\i.'s/e\l,,pro,15,DETdem,DETdem,smn,aicel,DOM,cil,"Sponsus, l. 15",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l n=&quot;15&quot;>
 94,17,2,espos,espos,–,ESpoS,e.s.p.o.s,/E\S.'p/o\S,0.s.p-.ó](-n).s-(o[),pro,15,NOMcom,NOMcom,smn,espós,DOM,époux,"Sponsus, l. 15",,,
 95,17,3,que,que,+,kE,qu.e,k/E\,,pro,15,PRNrel,PRNrel,smr,que,DOM,que,"Sponsus, l. 15",,,
 96,17,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,15,PRNper,PRNper,5pfn,vós,DOM,vous,"Sponsus, l. 15",,,
 97,17,5,hor,hor,+,or,ho.r,/o\r,,pro,15,ADVgen,ADVgen,,or,DOM,or2,"Sponsus, l. 15",,,
-98,17,6,a–tend[et],atendet,_,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,,pro,15,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Sponsus, l. 15",,</l>,
+98,17,6,a–tend[et],atendet,_,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,15,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Sponsus, l. 15",,</l>,
 99,18,1,uenit,venit,–,vEniT,v.e.n.i.t,v/E\.'n/i\T,,pro,16,VERcjg,VERcjg,indpsp3,venir,DOM,venir,"Sponsus, l. 16",,,<l n=&quot;16&quot;>
 100,18,2,en,en,_,EN,e.n,/E\N,,pro,16,PRE,PRE,,én,DOM,en,"Sponsus, l. 16",,,
 101,18,3,terra,terra,–,tɛrrA,t.e.r.r.a,'t/ɛ\r.r/(A)\,t-è].-rr-..a[,pro,16,NOMcom,NOMcom,sfr,tèrra,DOM,terre,"Sponsus, l. 16",,,
@@ -109,18 +109,18 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 108,19,3,uirgine,virgine,–,virʤinE,v.i.r.g.i.n.e,v/i\r.'ʤ/i\.n/(E)\,,pro,17,NOMcom,NOMcom,sfr,vergena,DOM,virgine2,"Sponsus, l. 17",,,
 109,19,4,en,en,+,EN,e.n,/E\N,,pro,17,PRE,PRE,,én,DOM,en,"Sponsus, l. 17",,,
 110,19,5,betleem,betleem,–,bEtLEEm,b.e.t.l.e.e.m,b/E\t.L/E\.'/E\m,,pro,17,NOMpro,NOMpro,smr,Bethléem,wikipedia.fr,---,"Sponsus, l. 17",,,
-111,19,6,fo,fo,_,fo,f.o,f/o\,,pro,17,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Sponsus, l. 17",,,
-112,19,7,net,net,–,nɛT,n.e.t,n/ɛ\T,,pro,17,VERppe,VERppe,smn,naiser,DOM,naître,"Sponsus, l. 17",,</l>,
+111,19,6,fo,fo,_,fo,f.o,f/o\,f-.ó[(i[)(-t-),pro,17,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Sponsus, l. 17",,,
+112,19,7,net,net,–,nɛT,n.e.t,n/ɛ\T,n-.à[.-t-(o[)(-s-),pro,17,VERppe,VERppe,smn,naiser,DOM,naître,"Sponsus, l. 17",,</l>,
 113,20,1,e,e,_,E,e,/E\,,pro,18,PRE,PRE,,én,DOM,en,"Sponsus, l. 18",,,<l n=&quot;18&quot;>
 114,20,2,flum,flum,–,fLym,f.l.u.m,fL/y\m,f-.l-.ú[.-m-(e[),pro,18,NOMcom,NOMcom,smr,flum,DOM,flum,"Sponsus, l. 18",,,
 115,20,3,iorda,jorda,–|,ʤOrdA,j.o.r.d.a,ʤ/O\r.'d/A\,,pro,18,NOMpro,NOMpro,smr,Jourdain,wikipedia.fr,---,"Sponsus, l. 18",,,
-116,20,4,lauet,lavet,_,LAvɛT,l.a.v.e.t,L/A\.'v/ɛ\T,,pro,18,VERppe,VERppe,smn,lavar,DOM,laver,"Sponsus, l. 18",,,<lb/>
+116,20,4,lauet,lavet,_,LAvɛT,l.a.v.e.t,L/A\.'v/ɛ\T,l-.a[.-w-.à[.-t-(o[),pro,18,VERppe,VERppe,smn,lavar,DOM,laver,"Sponsus, l. 18",,,<lb/>
 117,20,5,e,e,+,e,e,/e\,,pro,18,CONcoo,CONcoo,,e,DOM,et,"Sponsus, l. 18",,,
-118,20,6,ba–te_et,bateet,_,bAtEɛT,b.a.t.e.e.t,b/A\.t/E\.'/ɛ\T,,pro,18,VERppe,VERppe,smn,batejar,DOM,baptier,"Sponsus, l. 18",SponsusA:72-73,</l>,
+118,20,6,ba–te_et,bateet,_,bAtEɛT,b.a.t.e.e.t,b/A\.t/E\.'/ɛ\T,b-.a](-p).t-.e](-dʣ-).à[.-t-(o[)(-s-),pro,18,VERppe,VERppe,smn,batejar,DOM,baptier,"Sponsus, l. 18",SponsusA:72-73,</l>,
 119,21,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,19,ADVgen,ADVgen,,gaire,DOM,guère,"Sponsus, l. 19",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l>,<l n=&quot;19&quot;>
 120,22,1,Eu,eu,_,eu,e.u,/e\u,,pro,20,PRNper,PRNper,3smn,el2,DOM,il,"Sponsus, l. 20",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;20&quot;>
-121,22,2,fo,fo,_,fo,f.o,f/o\,,pro,20,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Sponsus, l. 20",,,
-122,22,3,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,,pro,20,VERppe,VERppe,smn,batre,DOM,battre,"Sponsus, l. 20",,,
+121,22,2,fo,fo,_,fo,f.o,f/o\,f-.ó[(i[)(-t-),pro,20,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Sponsus, l. 20",,,
+122,22,3,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,b-.a].-tt-.ù[.-t-(o[)(-s-),pro,20,VERppe,VERppe,smn,batre,DOM,battre,"Sponsus, l. 20",,,
 123,22,4,gab_let,gablet,–,gAbLɛT,g.a.b.l.e.t,g/A\.'bL/ɛ\T,,pro,20,VERppe,VERppe,smn,gabler,DMF,gabler,"Sponsus, l. 20",,,
 124,22,5,e,e,+,e,e,/e\,,pro,20,CONcoo,CONcoo,,e,DOM,et,"Sponsus, l. 20",,,
 125,22,6,lai_deniet,laidenjet,–|,LAidENʤɛT,l.a.i.d.e.n.j.e.t,L/A\i.d/E\N.'ʤ/ɛ\T,,pro,20,VERppe,VERppe,smn,laidenjar,DOM,laidenger,"Sponsus, l. 20",,</l>,
@@ -128,28 +128,28 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 127,23,2,e,e,+,E,e,/E\,,pro,21,PRE,PRE,,én,DOM,en,"Sponsus, l. 21",,,
 128,23,3,la,la,_,LA,l.a,L/A\,,pro,21,DETdef,DETdef,sfr,la,DOM,le,"Sponsus, l. 21",,,
 129,23,4,crot,crot,–,kroT,c.r.o.t,kr/o\T,k-.r-.ó[.-c-(e[),pro,21,NOMcom,NOMcom,sfr,crotz,DOM,croix,"Sponsus, l. 21",,,
-130,23,5,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,,pro,21,VERppe,VERppe,smn,batre,DOM,battre,"Sponsus, l. 21",,,
+130,23,5,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,b-.a].-tt-.ù[.-t-(o[)(-s-),pro,21,VERppe,VERppe,smn,batre,DOM,battre,"Sponsus, l. 21",,,
 131,23,6,e,e,+,e,e,/e\,,pro,21,CONcoo,CONcoo,,e,DOM,et,"Sponsus, l. 21",,,
 132,23,7,clau_figet,claufiget,_,kLAufiċɛT,c.l.a.u.f.i.g.e.t,kL/A\u.f/i\.'ċ/ɛ\T,,pro,21,VERppe,VERppe,smn,clauficar,DOM,cloficher,"Sponsus, l. 21",phon_SponsusA:42-44,</l>,
 133,24,1,De[=e],e,+,E,e,/E\,,pro,22,PRE,PRE,,én,DOM,en,"Sponsus, l. 22",,,<l n=&quot;22&quot;>
 134,24,2,u,u,+,u,u,/\u,,pro,22,DETdef,DETdef,smr,lo2,DOM,le,"Sponsus, l. 22",,,
 135,24,3,monument,monument,–,mOnymENT,m.o.n.u.m.e.n.t,m/O\.n/y\.'m/E\NT,,pro,22,NOMcom,NOMcom,smr,monumén,DOM,monument,"Sponsus, l. 22",,,
 136,24,4,deso_entre,desoentre,–,dEzOENtrE,d.e.s.o.e.n.t.r.e,d/E\.z/O\.'/E\N.tr/(E)\,,pro,22,ADVgen,ADVgen,,deseguéntre,DOM,,"Sponsus, l. 22",lemma_SponsusA:63,,
-137,24,5,pau–|set,pauset,_,pAuzɛT,p.a.u.s.e.t,p/A\u.'z/ɛ\T,,pro,22,VERppe,VERppe,smn,pauzar,DOM,poser,"Sponsus, l. 22",,</l>,
+137,24,5,pau–|set,pauset,_,pAuzɛT,p.a.u.s.e.t,p/A\u.'z/ɛ\T,p-.au[..-s-.à[.-t-(o[)(-s-),pro,22,VERppe,VERppe,smn,pauzar,DOM,poser,"Sponsus, l. 22",,</l>,
 138,25,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,23,ADVgen,ADVgen,,gaire,DOM,guère,"Sponsus, l. 23",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l></lg>,<lb/><l n=&quot;22&quot;>
 139,26,1,E,e,+,e,e,/e\,,pro,24,CONcoo,CONcoo,,e,DOM,et,"Sponsus, l. 24",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;24&quot;>
 140,26,2,re_sors,resors,–,rEzorS,r.e.s.o.r.s,r/E\.'z/o\rS,,pro,24,VERppe,VERppe,smn,resórzer,DOM,ressourdre,"Sponsus, l. 24",,,
-141,26,3,es,es,–,ES,e.s,/E\S,,pro,24,VERcjg,VERcjg,indpst3,èser,DOM,être,"Sponsus, l. 24",,,
+141,26,3,es,es,–,ES,e.s,/E\S,è].-s(t-),pro,24,VERcjg,VERcjg,indpst3,èser,DOM,être,"Sponsus, l. 24",,,
 142,26,4,la,la,+,LA,l.a,L/A\,,pro,24,DETdef,DETdef,sfn,la,DOM,le,"Sponsus, l. 24",,,
 143,26,5,s_criptura,scriptura,–,SkriptUrA,s.c.r.i.p.t.u.r.a,Skr/i\P.'t/U\.r/(A)\,,lat,24,NOMcom,NOMcom,sfn,scriptura,wiktionary,scripture,"Sponsus, l. 24",,,
 144,26,6,o,o,+,o,o,/o\,,pro,24,PRCdem,PRCdem,snr,ó2,DOM,,"Sponsus, l. 24",,,
-145,26,7,dii,dii,–,dii,d.i.i,d/i\i,,pro,24,VERcjg,VERcjg,indpst3,dire,DOM,dire,"Sponsus, l. 24",,</l>,
+145,26,7,dii,dii,–,dii,d.i.i,d/i\i,d-.ì[.-c-(e[)(-t-),pro,24,VERcjg,VERcjg,indpst3,dire,DOM,dire,"Sponsus, l. 24",,</l>,
 146,27,1,gabriels,gabriels,–,gAbriELS,g.a.b.r.i.e.l.s,g/A\.br/i\.'/E\LS,,pro,25,NOMpro,NOMpro,smn,Gabriel,wikipedia.fr,---,"Sponsus, l. 25",,,<l n=&quot;25&quot;>
 147,27,2,soi,soi,–,Soi,s.o.i,S/o\i,,pro,25,VERcjg,VERcjg,indpst1,èser,DOM,être,"Sponsus, l. 25",,,
 148,27,3,eu,eu,_,ɛu,e.u,/ɛ\u,,pro,25,PRNper,PRNper,1smn,eu,DOM,je,"Sponsus, l. 25",,,
-149,27,4,tra–|mes,trames,–,trAmeS,t.r.a.m.e.s,tr/A\.'m/e\S,,pro,25,VERppe,VERppe,smn,tramétre,DOM,tramettre,"Sponsus, l. 25",,,
+149,27,4,tra–|mes,trames,–,trAmeS,t.r.a.m.e.s,tr/A\.'m/e\S,t-.r-.a[.-m-.é[.-s-(e[)(-t-),pro,25,VERppe,VERppe,smn,tramétre,DOM,tramettre,"Sponsus, l. 25",,,
 150,27,5,aici,aici,–,Aisi,a.i.c.i,/A\i.'s/i\,,pro,25,ADVgen,ADVgen,,aici,DOM,ici,"Sponsus, l. 25",,</l>,<lb/>
-151,28,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,,pro,26,VERcjg,VERcjg,imp---5,aténdre,DOM,attendre,"Sponsus, l. 26",,,<l n=&quot;26&quot;>
+151,28,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,26,VERcjg,VERcjg,imp---5,aténdre,DOM,attendre,"Sponsus, l. 26",,,<l n=&quot;26&quot;>
 152,28,2,lo,lo,_,Lo,l.o,L/o\,,pro,26,PRCper,PRCper,3sma,lo3,DOM,le,"Sponsus, l. 26",,,
 153,28,3,que,que,_,kE,qu.e,k/E\,,pro,26,PRNrel,PRNrel,smr,que,DOM,que,"Sponsus, l. 26",,,
 154,28,4,ia,ja,_,ʤA,j.a,ʤ/A\,,pro,26,ADVgen,ADVgen,,ja,DOM,jà,"Sponsus, l. 26",,,
@@ -181,8 +181,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 180,35,2,chaitiuas,chaitivas,–,ċAitivAS,ch.a.i.t.i.v.a.s,ċ/A\i.'t/i\.v/A\S,k-.a].-p.t-.ì[.-w-.a[.-s-,pro,32,ADJqua,ADJqua,pfn,caitiu,DOM,chétif,"Sponsus, l. 32",,,
 181,35,3,trop,trop,_,trɔP,t.r.o.p,tr/ɔ\P,,pro,32,ADVgen,ADVgen,,tròp2,DOM,trop,"Sponsus, l. 32",,,
 182,35,4,i,i,_,i,i,/i\,,pro,32,PRCadv,PRCadv,,i,DOM,y2,"Sponsus, l. 32",,,
-183,35,5,auem,avem,_,AvEm,a.v.e.m,/A\.'v/E\m,,pro,32,VERcjg,VERcjg,indpst4,avér,DOM,avoir,"Sponsus, l. 32",,,
-184,35,6,dormit,dormit,–,dOrmiT,d.o.r.m.i.t,d/O\r.'m/i\T,,pro,32,VERppe,VERppe,snr,dormir,DOM,dormir,"Sponsus, l. 32",,</l></lg>,
+183,35,5,auem,avem,_,AvEm,a.v.e.m,/A\.'v/E\m,a[.-b-.é[.-m-(o[)(-s-),pro,32,VERcjg,VERcjg,indpst4,avér,DOM,avoir,"Sponsus, l. 32",,,
+184,35,6,dormit,dormit,–,dOrmiT,d.o.r.m.i.t,d/O\r.'m/i\T,d-.o].-r.m-.ì[.-t-(o[),pro,32,VERppe,VERppe,snr,dormir,DOM,dormir,"Sponsus, l. 32",,</l></lg>,
 185,36,1,Nos,nos,_,RVQ,n.o.s,R/V\Q,,lat,33,ETR,ETR,---,---,---,---,"Sponsus, l. 33",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;33&quot;>
 186,36,2,co–|mites,comites,–,QVRVQVQ,c.o.m.i.t.e.s,'Q/V\.R/V\.Q/V\Q,,lat,33,ETR,ETR,---,---,---,---,"Sponsus, l. 33",,,
 187,36,3,huius,huius,–,QVRVQ,h.u.i.u.s,'Q/V\.R/V\Q,,lat,33,ETR,ETR,---,---,---,---,"Sponsus, l. 33",,,<pb n=&quot;54v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
@@ -296,51 +296,51 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 295,67,1,De,de,+,dE,d.e,d/E\,,pro,63,PRE,PRE,,de,DOM,de,"Sponsus, l. 63",,,<sp><speaker><supplied>prudentes</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;63&quot;>
 296,67,2,nostr,nostr,+,nɔStr0,n.o.s.t.r.,'n/ɔ\S.tr/[0]\,,pro,63,DETpos,DETpos,4smr,nòstre,DOM,notre,"Sponsus, l. 63",,,
 297,67,3,oli,oli,–,ɔli,o.l.i,'/ɔ\.l/i\,ò[.-l-.e[(o[),pro,63,NOMcom,NOMcom,smr,òli,DOM,huile,"Sponsus, l. 63",,,
-298,67,4,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,,pro,63,VERcjg,VERcjg,indpst5,quèrre,DOM,quérir,"Sponsus, l. 63",,,
+298,67,4,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,63,VERcjg,VERcjg,indpst5,quèrre,DOM,quérir,"Sponsus, l. 63",,,
 299,67,5,nos,nos,–,noS,n.o.s,n/o\S,,pro,63,PRCper,PRCper,4pmr,nós,DOM,nous,"Sponsus, l. 63",,,
 300,67,6,a,a,+,A,a,/A\,,pro,63,PRE,PRE,,a2,DOM,à,"Sponsus, l. 63",,,
-301,67,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,,pro,63,VERinf,VERinf,,donar,DOM,donner,"Sponsus, l. 63",,</l>,
+301,67,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,d-.o[.-n-.à[.-r-(e[),pro,63,VERinf,VERinf,,donar,DOM,donner,"Sponsus, l. 63",,</l>,
 302,68,1,no,no,+,no,n.o,n/o\,,pro,64,ADVneg,ADVneg,,nóN,DOM,ne,"Sponsus, l. 64",,,<l n=&quot;64&quot;>
 303,68,2,n,n,+,N,n,/\n,,pro,64,PRCadv,PRCadv,,én3,DOM,en2,"Sponsus, l. 64",,,
 304,68,3,au–|ret,auret,–,AureT,a.u.r.e.t,/A\u.'r/e\T,,pro,64,VERcjg,VERcjg,indfut5,avér,DOM,avoir,"Sponsus, l. 64",,,
 305,68,4,pont,pont,–,pONT,p.o.n.t,p/O\NT,,pro,64,ADVneg,ADVneg,,pónh2,DOM,point2,"Sponsus, l. 64",,,<lb/>
 306,68,5,alet,alet,–,AlɛT,a.l.e.t,/A\.'l/ɛ\T,,pro,64,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 64",,,
 307,68,6,en,en,+,EN,e.n,/E\N,,pro,64,PRCadv,PRCadv,,én3,DOM,en2,"Sponsus, l. 64",,,
-308,68,7,a_chapter,achapter,–,AċAPtɛr,a.ch.a.p.t.e.r,/A\.ċ/A\P.'t/ɛ\r,,pro,64,VERinf,VERinf,,acaptar,DOM,acheter,"Sponsus, l. 64",,</l>,
+308,68,7,a_chapter,achapter,–,AċAPtɛr,a.ch.a.p.t.e.r,/A\.ċ/A\P.'t/ɛ\r,a].-kk-.a].-p.t-.à[.-r-(e[),pro,64,VERinf,VERinf,,acaptar,DOM,acheter,"Sponsus, l. 64",,</l>,
 309,69,1,de,de,+,dE,d.e,d/E\,,pro,65,PRE,PRE,,de,DOM,de,"Sponsus, l. 65",,,<l n=&quot;65&quot;>
 310,69,2,us,us,–,uS,u.s,/\uS,,pro,65,DETdef,DETdef,pmr,los,DOM,le,"Sponsus, l. 65",,,
 311,69,3,merchaans,merchaans,–,mErċAANS,m.e.r.ch.a.a.n.s,m/E\r.ċ/A\.'/A\NS,,pro,65,NOMcom,NOMcom,pmr,mercan,DOM,marchand,"Sponsus, l. 65",,,
 312,69,4,que,que,+,kE,qu.e,k/E\,,pro,65,PRNrel,PRNrel,pmr,que,DOM,que,"Sponsus, l. 65",,,
 313,69,5,lai,lai,_,LAi,l.a.i,L/A\i,,pro,65,ADVgen,ADVgen,,lai,DOM,là,"Sponsus, l. 65",,,
-314,69,6,ue_et,veet,_,vEɛT,v.e.e.t,v/E\.'/ɛ\T,,pro,65,VERcjg,VERcjg,indpst5,vezér,DOM,voir,"Sponsus, l. 65",,,
-315,69,7,ester,ester,_,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,,pro,65,VERinf,VERinf,,estar,DOM,ester,"Sponsus, l. 65",,</l>,
+314,69,6,ue_et,veet,_,vEɛT,v.e.e.t,v/E\.'/ɛ\T,w-.e[(-d-).è[.-t-(e[)(-s-),pro,65,VERcjg,VERcjg,indpst5,vezér,DOM,voir,"Sponsus, l. 65",,,
+315,69,7,ester,ester,_,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,0.s.t-.à[.-r-(e[),pro,65,VERinf,VERinf,,estar,DOM,ester,"Sponsus, l. 65",,</l>,
 316,70,1,Dol.[=Dolentas],dolentas,–,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,d-.o[.-l-.è].-n.t-.a[.-s-,pro,66,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Sponsus, l. 66",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;66&quot;>
 317,71,1,Mercatores,mercatores,.|,,,,,lat,---,ETR,ETR,---,---,---,---,"Sponsus, f. 55r, rubric",,</speaker>,<sp><speaker>
 318,72,1,Domnas,domnas,_,dOmnAS,d.o.m.n.a.s,'d/O\m.n/A\S,d-.ò[.-m-(i[).-n-.a[.-s-,pro,67,NOMcom,NOMcom,pfn,dómna,DOM,dame,"Sponsus, l. 67",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;67&quot;>
 319,72,2,gentils,gentils,–,ʤENtiLS,g.e.n.t.i.l.s,ʤ/E\N.'t/i\LS,ɟ-.e].-n.t-.ì[.-l-(e[).-s-,pro,67,ADJqua,ADJqua,pfn,gentil,DOM,gentil,"Sponsus, l. 67",,,
 320,72,3,no,no,+,no,n.o,n/o\,,pro,67,ADVneg,ADVneg,,nóN,DOM,ne,"Sponsus, l. 67",,,
 321,72,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,67,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 67",,,
-322,72,5,covent,covent,_,kOvENT,c.o.v.e.n.t,k/O\.'v/E\NT,,pro,67,VERcjg,VERcjg,indpst0,convenir,DOM,convenir,"Sponsus, l. 67",,,
-323,72,6,ester,ester,–,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,,pro,67,VERinf,VERinf,,estar,DOM,ester,"Sponsus, l. 67",,</l>,
+322,72,5,covent,covent,_,kOvENT,c.o.v.e.n.t,k/O\.'v/E\NT,k-.ò](-n).w-.è[.-n-(e[).-t-,pro,67,VERcjg,VERcjg,indpst0,convenir,DOM,convenir,"Sponsus, l. 67",,,
+323,72,6,ester,ester,–,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,0.s.t-.à[.-r-(e[),pro,67,VERinf,VERinf,,estar,DOM,ester,"Sponsus, l. 67",,</l>,
 324,73,1,ni,ni,+,ni,n.i,n/i\,,pro,68,CONcoo,CONcoo,,ni,DOM,ne2,"Sponsus, l. 68",,,<l n=&quot;68&quot;>
 325,73,2,lo_iamen,lojamen,–,LOʤAmEn,l.o.j.a.m.e.n,L/O\.ʤ/A\.'m/E\n,,pro,68,ADVgen,ADVgen,,longamén,DOM,longement,"Sponsus, l. 68",,,
 326,73,3,aici,aici,_,Aisi,a.i.c.i,/A\i.'s/i\,,pro,68,ADVgen,ADVgen,,aici,DOM,ici,"Sponsus, l. 68",,,
 327,73,4,a,a,_,A,a,/A\,,pro,68,PRE,PRE,,a2,DOM,à,"Sponsus, l. 68",,,
-328,73,5,demo–|rer,demorer,–,dEmOrɛr,d.e.m.o.r.e.r,d/E\.m/O\.'r/ɛ\r,,pro,68,VERinf,VERinf,,demorar,DOM,demeurer,"Sponsus, l. 68",,</l>,
+328,73,5,demo–|rer,demorer,–,dEmOrɛr,d.e.m.o.r.e.r,d/E\.m/O\.'r/ɛ\r,d-.e[.-m-.o[.-r-.à[.-r-(e[),pro,68,VERinf,VERinf,,demorar,DOM,demeurer,"Sponsus, l. 68",,</l>,
 329,74,1,cosel,cosel,–,kOsel,c.o.s.e.l,k/O\.'s/e\l,k-.o].-n.s-.é[.-lj-(o[),pro,69,NOMcom,NOMcom,smr,consélh,DOM,conseil,"Sponsus, l. 69",,,<lb/><l n=&quot;69&quot;>
-330,74,2,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,,pro,69,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Sponsus, l. 69",,,
+330,74,2,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,69,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Sponsus, l. 69",,,
 331,74,3,no,no,+,no,n.o,n/o\,,pro,69,ADVneg,ADVneg,,nóN,DOM,ne,"Sponsus, l. 69",,,
 332,74,4,u,u,+,u,u,/\u,,pro,69,PRCper,PRCper,3sma,lo3,DOM,le,"Sponsus, l. 69",,,
 333,74,5,uos,vos,–,voS,v.o.s,v/o\S,,pro,69,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 69",,,
-334,74,6,poem,poem,–,pOEm,p.o.e.m,p/O\.'/E\m,,pro,69,VERcjg,VERcjg,indpst4,podér,DOM,pouvoir,"Sponsus, l. 69",,,
-335,74,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,,pro,69,VERinf,VERinf,,donar,DOM,donner,"Sponsus, l. 69",,</l>,
-336,75,1,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,,pro,70,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Sponsus, l. 70",,,<l n=&quot;70&quot;>
+334,74,6,poem,poem,–,pOEm,p.o.e.m,p/O\.'/E\m,p-.o[(-t-).é[.-m-(o[)(-s-),pro,69,VERcjg,VERcjg,indpst4,podér,DOM,pouvoir,"Sponsus, l. 69",,,
+335,74,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,d-.o[.-n-.à[.-r-(e[),pro,69,VERinf,VERinf,,donar,DOM,donner,"Sponsus, l. 69",,</l>,
+336,75,1,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,70,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Sponsus, l. 70",,,<l n=&quot;70&quot;>
 337,75,2,lo,lo,_,Lo,l.o,L/o\,,pro,70,PRCper,PRCper,3sma,lo3,DOM,le,"Sponsus, l. 70",,,
 338,75,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,,pro,70,NOMpro,NOMpro,smr,dèu,DOM,Dieu,"Sponsus, l. 70",,,
 339,75,4,chi,chi,_,ki,c.h.i,k/i\,,pro,70,PRNrel,PRNrel,smn,qui,DOM,qui,"Sponsus, l. 70",,,
 340,75,5,uos,vos,–|,voS,v.o.s,v/o\S,,pro,70,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 70",,,
-341,75,6,pot,pot,–,pOT,p.o.t,p/ɔ\T,,pro,70,VERcjg,VERcjg,indpst3,podér,DOM,pouvoir,"Sponsus, l. 70",,,<lb/>
-342,75,7,coseler,coseler,_,kOsElɛr,c.o.s.e.l.e.r,k/O\.s/E\.'l/ɛ\r,,pro,70,VERinf,VERinf,,conselhar,DOM,conseiller2,"Sponsus, l. 70",,</l></lg>,
+341,75,6,pot,pot,–,pOT,p.o.t,p/ɔ\T,p-.ò].-tw-(i[)(-t-),pro,70,VERcjg,VERcjg,indpst3,podér,DOM,pouvoir,"Sponsus, l. 70",,,<lb/>
+342,75,7,coseler,coseler,_,kOsElɛr,c.o.s.e.l.e.r,k/O\.s/E\.'l/ɛ\r,k-.o](-n).s-.e[.-lj-.à[.-r-(e[),pro,70,VERinf,VERinf,,conselhar,DOM,conseiller2,"Sponsus, l. 70",,</l></lg>,
 343,76,1,Alet,alet,–,AlɛT,a.l.e.t,/A\.'l/ɛ\T,,pro,71,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Sponsus, l. 71",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;71&quot;>
 344,76,2,areir,areir,–,ArEir,a.r.e.i.r,/A\.'r/E\ir,a](-d).r-.è[.-t-.-r-(o[),pro,71,ADVgen,ADVgen,,aréire,DOM,arrière,"Sponsus, l. 71",,,
 345,76,3,a,a,+,A,a,/A\,,pro,71,PRE,PRE,,a2,DOM,à,"Sponsus, l. 71",,,
@@ -348,7 +348,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 347,76,5,sinc,sinc,–,SiNK,s.i.n.c,S/i\NK,,pro,71,DETcar,DETcar,pfr,cinc,DOM,cinq,"Sponsus, l. 71",,,
 348,76,6,seros,seros,–,SEroS,s.e.r.o.s,S/E\.'r/o\S,s-.o[.-r-.ó[(-r-)(e[).-s-,pro,71,NOMcom,NOMcom,pfr,serór,DOM,soeur,"Sponsus, l. 71",,</l>,
 349,77,1,e,e,+,e,e,/e\,,pro,72,CONcoo,CONcoo,,e,DOM,et,"Sponsus, l. 72",,,<l n=&quot;72&quot;> 
-350,77,2,pre_iat,preiat,_,prEiAT,p.r.e.i.a.t,pr/E\i.'/A\T,,pro,72,VERcjg,VERcjg,imp---5,pregar,DOM,prier,"Sponsus, l. 72",,,
+350,77,2,pre_iat,preiat,_,prEiAT,p.r.e.i.a.t,pr/E\i.'/A\T,p-.r-.e[.-k-.à[.-t-(e[)(-s-),pro,72,VERcjg,VERcjg,imp---5,pregar,DOM,prier,"Sponsus, l. 72",,,
 351,77,3,las,las,_,LAS,l.a.s,L/A\S,,pro,72,PRCper,PRCper,6pfr,las4,DOM,le,"Sponsus, l. 72",,,
 352,77,4,p[er],per,_,pEr,p.e.r,p/E\r,,pro,72,PRE,PRE,,pér,DOM,par,"Sponsus, l. 72",,,
 353,77,5,deu,deu,–|,dɛu,d.e.u,d/ɛ\u,,pro,72,NOMpro,NOMpro,smr,dèu,DOM,Dieu,"Sponsus, l. 72",,,
@@ -356,11 +356,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 355,77,7,glorios,glorios,–,gLOrioS,g.l.o.r.i.o.s,gL/O\.r/i\.'/o\S,,pro,72,ADJqua,ADJqua,smr,gloriós,DOM,glorieux,"Sponsus, l. 72",,</l>,
 356,78,1,de,de,+,QV,d.e,Q/V\,,lat,73,PRE,PRE,,de,wiktionary,de,"Sponsus, l. 73",,,<l n=&quot;73&quot;> 
 357,78,2,oleo,oleo,–,VRVV,o.l.e.o,/V\.R/V\.'./V\,,lat,73,NOMcom,NOMcom,smr,oleum,wiktionary,huile,"Sponsus, l. 73",,,
-358,78,3,fasen,fasen,–,fAsEn,f.a.s.e.n,'f/A\.s/E\n,,pro,73,VERcjg,VERcjg,subpst6,faire,DOM,faire,"Sponsus, l. 73",,,
+358,78,3,fasen,fasen,–,fAsEn,f.a.s.e.n,'f/A\.s/E\n,f-.à].-kj-.a].-n(-t),pro,73,VERcjg,VERcjg,subpst6,faire,DOM,faire,"Sponsus, l. 73",,,
 359,78,4,socors,socors,–,SOkorS,s.o.c.o.r.s,S/O\.'k/o\rS,s-.o].-kk-.ó].-r.s-(o[),pro,73,NOMcom,NOMcom,smr,secórs,DOM,secours,"Sponsus, l. 73",,,
 360,78,5,a,a,+,A,a,/A\,,pro,73,PRE,PRE,,a2,DOM,à,"Sponsus, l. 73",,,
 361,78,6,uos,vos,–,voS,v.o.s,v/o\S,,pro,73,PRNper,PRNper,5pfr,vós,DOM,vous,"Sponsus, l. 73",,</l>,
-362,79,1,fai_tes,faites,–,fAitES,f.a.i.t.e.s,'f/A\i.t/E\S,,pro,74,VERcjg,VERcjg,imp---5,faire,DOM,faire,"Sponsus, l. 74",,,<l n=&quot;74&quot;> 
+362,79,1,fai_tes,faites,–,fAitES,f.a.i.t.e.s,'f/A\i.t/E\S,f-.à[.-k(i[).t-.e[.-s-,pro,74,VERcjg,VERcjg,imp---5,faire,DOM,faire,"Sponsus, l. 74",,,<l n=&quot;74&quot;> 
 363,79,2,o,o,+,o,o,/o\,,pro,74,PRCdem,PRCdem,snr,ó2,DOM,,"Sponsus, l. 74",,,
 364,79,3,tost,tost,–,tɔST,t.o.s.t,t/ɔ\ST,,pro,74,ADVgen,ADVgen,,tòst,DOM,tôt,"Sponsus, l. 74",,,
 365,79,4,q[ue],que,_,kE,qu.e,k/E\,,pro,74,CONsub,CONsub,,que2,DOM,que,"Sponsus, l. 74",,,
@@ -433,14 +433,14 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 432,93,3,iors,jors,–,ʤorS,j.o.r.s,ʤ/o\rS,dj-.ó].-r(n-)(o[).-s-,pro,86,NOMcom,NOMcom,pmr,jórn,DOM,jour,"Sponsus, l. 86",,,
 433,93,4,mais,mais,–,mAiS,m.a.i.s,m/A\iS,,pro,86,ADVgen,ADVgen,,mais,DOM,mais,"Sponsus, l. 86",,,
 434,93,5,uos,vos,–|,voS,v.o.s,v/o\S,,pro,86,PRCper,PRCper,5pfr,vós,DOM,vous,"Sponsus, l. 86",,,
-435,93,6,so,so,_,So,s.o,S/o\,,pro,86,VERcjg,VERcjg,indpst6,èser,DOM,être,"Sponsus, l. 86",,,<lb/>
+435,93,6,so,so,_,So,s.o,S/o\,s-.ò](-n)(-t),pro,86,VERcjg,VERcjg,indpst6,èser,DOM,être,"Sponsus, l. 86",,,<lb/>
 436,93,7,penas,penas,–,pEnAS,p.e.n.a.s,'p/E\.n/A\S,p-.é[.-n-.a[.-s-,pro,86,NOMcom,NOMcom,pfn,péna,DOM,peine,"Sponsus, l. 86",,,
-437,93,8,liureas,liureas,–,LiurɛAS,l.i.u.r.e.a.s,L/i\u.'r/ɛ\./A\S,,pro,86,VERppe,VERppe,pfn,liurar2,DOM,livrer,"Sponsus, l. 86",,</l>,
+437,93,8,liureas,liureas,–,LiurɛAS,l.i.u.r.e.a.s,L/i\u.'r/ɛ\./A\S,l-.i[.-b-(e[).-r-.à[(-t-).a[.-s-,pro,86,VERppe,VERppe,pfn,liurar2,DOM,livrer,"Sponsus, l. 86",,</l>,
 438,94,1,en,en,+,EN,e.n,/E\N,,pro,87,PRE,PRE,,én,DOM,en,"Sponsus, l. 87",,,<l n=&quot;87&quot;>
 439,94,2,efern,efern,–,Efɛrn,e.f.e.r.n,/E\.'f/ɛ\rn,e](-n).f-.è].-r.n-(o[),pro,87,NOMcom,NOMcom,smr,enfèrn,DOM,enfer,"Sponsus, l. 87",,,
 440,94,3,ora,ora,_,orA,o.r.a,'/o\.r/(A)\,,pro,87,ADVgen,ADVgen,,óra,DOM,or2,"Sponsus, l. 87",,,
 441,94,4,ser[et],seret,–,SEreT,s.e.r.e.t,S/E\.'r/e\T,,pro,87,VERcjg,VERcjg,indfut5,èser,DOM,être,"Sponsus, l. 87",,,
-442,94,5,menei_a_s,meneias,–,mEnɛAS,m.e.n.ei.a.s,m/E\.'n/ɛ\./A\S,,pro,87,VERppe,VERppe,pfn,menar,DOM,mener,"Sponsus, l. 87",,</l></lg></sp>,
+442,94,5,menei_a_s,meneias,–,mEnɛAS,m.e.n.ei.a.s,m/E\.'n/ɛ\./A\S,m-.e[.-n-.à[(-t-).a[.-s-,pro,87,VERppe,VERppe,pfn,menar,DOM,mener,"Sponsus, l. 87",,</l></lg></sp>,
 443,95,1,M[odo],modo,_,RVQV,m.o.d.o,'R/V\.Q/V\,,lat,---,ETR,ETR,---,---,---,---,"Sponsus, f. 55v, rubric",,,<stage type=&quot;exit&quot;><p><s xml:lang=&quot;lat&quot;>
 444,95,2,accipiant,accipiant,–,VQQVQVVRQ,a.c.c.i.p.i.a.n.t,/V\Q.'Q/V\.Q/V\./V\RQ,,lat,---,ETR,ETR,---,---,---,---,"Sponsus, f. 55v, rubric",,,
 445,95,3,eas,eas,_,VVQ,e.a.s,'/V\./V\Q,,lat,---,ETR,ETR,---,---,---,---,"Sponsus, f. 55v, rubric",,,
