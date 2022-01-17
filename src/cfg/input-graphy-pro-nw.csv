@@ -1,4 +1,4 @@
-id,after,regex,before,phoneme
+id,after,regex,before,symbol
 a1,[^h],a,,A
 a2,[^cjpt],ha,,A
 b1,,b,[^_],b
