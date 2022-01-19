@@ -7,7 +7,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,lang,pos,pos_syn,morph,lemm
 6,2,4,mais,mais,.,mAiS,m.a.i.s,pro,ADVgen,ADVgen,,mais,DOM,mais,"TuAutem, l. 1",,,
 7,2,5,finir,finir,.,finir,f.i.n.i.r,pro,VERinf,VERinf,,fenir,DOM,finir,"TuAutem, l. 1",,,
 8,2,6,nostra,nostra,.,nɔStrA,n.o.s.t.r.a,pro,DETpos,DETpos,sfn,nostra,DOM,notre,"TuAutem, l. 1",,,
-9,2,7,razos,razos,.,rAzóS,r.a.z.o.s,pro,NOMcom,NOMcom,sfn,razóN,DOM,raison,"TuAutem, l. 1",,</l>,
+9,2,7,razos,razos,.,rAzoS,r.a.z.o.s,pro,NOMcom,NOMcom,sfn,razóN,DOM,raison,"TuAutem, l. 1",,</l>,
 10,3,1,un,un,_,yn,u.n,pro,DETndf,DETndf,snr,uN,DOM,un,"TuAutem, l. 2",,,<l n=&quot;2&quot;>
 11,3,2,pauc,pauc,.,pAuK,p.a.u.c,pro,PRNind,PRNind,snr,pauc,DOM,peu,"TuAutem, l. 2",,,
 12,3,3,soi,soi,+,Soi,s.o.i,pro,VERcjg,VERcjg,indpst1,èser,DOM,être,"TuAutem, l. 2",,,
