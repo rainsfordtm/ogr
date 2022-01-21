@@ -8,7 +8,7 @@
             <!-- METADATA "title_en" -->
             <title type="main" xml:lang="fr">Sponsus</title>
             <!-- METADATA "title_fr" -->
-            <title type="formal">Sponsus</title>
+            <title type="formal">Spons</title>
             <author>anonymous</author>
             <editor>Tom Rainsford</editor>
          </titleStmt>
@@ -158,6 +158,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+	 <change when="2022-01-21" resp="#TMR">Changed abbreviation to Spons (DOM).</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-13" resp="#TMR">Creation of this header</change>
       </revisionDesc>
