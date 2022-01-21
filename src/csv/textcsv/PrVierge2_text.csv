@@ -6,7 +6,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 5,2,1,uita,vita,–,QVQV,v.i.t.a,'Q/V\.Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 2",,,<l n=&quot;2&quot;>
 6,2,2,datur,datur,–,QVQVR,d.a.t.u.r,'Q/V\.Q/V\R,lat,ETR,ETR,,---,---,,"PrVierge2, l. 2",,,
 7,2,3,seculo,seculo,–,QVQVLV,s.e.c.u.l.o,'Q/V\.Q/V\.'L/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 2",,</l>,
-8,3,1,natos,natos,_,NVQVQ,n.a.t.o.s,'N/V\.Q/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 3",,,<l n=&quot;3&quot;>
+8,3,1,nato,nato,_,NVQV,n.a.t.o,'N/V\.Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 3",,,<l n=&quot;3&quot;>
 9,3,2,nobis,nobis,–,NVQVQ,n.o.b.i.s,'N/V\.Q/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 3",,,
 10,3,3,paruulo,parvulo,–|,QVRQVLV,p.a.r.v.u.l.o,'Q/V\R.Q/V\.'L/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 3",,</l><lb/>,
 11,4,1,De,de,_,QV,d.e,Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 4",,,<l n=&quot;4&quot;>
@@ -56,7 +56,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 55,14,7,nul,nul,_,nyl,n.u.l,,pro,DETind,DETind,smr,nul,DOM,,"PrVierge2, l. 14",,,
 56,14,8,gab,gab,–,gAP,g.a.b,,pro,NOMcom,NOMcom,smr,gap,DOM,,"PrVierge2, l. 14",,</l>,
 57,15,1,mout,mout,–,mouT,m.o.u.t,,pro,ADVgen,ADVgen,,mólt,DOM,,"PrVierge2, l. 15",,,<l n=&quot;15&quot;>
-58,15,2,nen,nen,–,nEN,n.e.n,,pro,PRCadv,PRCadv,,én3,DOM,,"PrVierge2, l. 15",lemma_SponsT:236,,
+58,15,2,nen,nen,–,nEN,n.e.n,,pro,PRCadv,PRCadv,,én3,DOM,,"PrVierge2, l. 15",lemma_SponsT:236 word_BrunPrVierge:411,,
 59,15,3,issit,issit,–,isiT,i.ss.i.t,,pro,VERcjg,VERcjg,indpsp3,eisir,DOM,,"PrVierge2, l. 15",,,
 60,15,4,a,a,+,A,a,,pro,PRE,PRE,,a2,DOM,,"PrVierge2, l. 15",,,
 61,15,5,bo,bo,_,bo,b.o,,pro,ADJqua,ADJqua,smr,bóN,DOM,,"PrVierge2, l. 15",,,
@@ -102,7 +102,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 101,26,2,de–|dit,dedit,–,QVQVQ,d.e.d.i.t,'Q/V\.Q/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 26",,<lb/>,
 102,26,3,uirgula,virgula,–,QVRQVLV,v.i.r.g.u.l.a,'Q/V\R.Q/V\.'L/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 26",,</l>,
 103,27,1,qui,qui,_,QRV,q.u.i,QR/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 27",,,<l n=&quot;27&quot;>
-104,27,2,mariæ,mariae,–,NVRVV,m.a.r.i.ae,N/V\.'R/V\./V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 27",,,
+104,27,2,man[et],manet,–,NVNVQ,m.a.n.e.t,'N/V\.N/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 27",,,
 105,27,3,in,in,+,VN,i.n,/V\N,lat,ETR,ETR,,---,---,,"PrVierge2, l. 27",,,
 106,27,4,secula,secula,_,QVQVLV,s.e.c.u.l.a,'Q/V\.Q/V\.'L/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 27",,</l>,
 107,28,1,De,de,+,QV,d.e,Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 28",,,<l n=&quot;28&quot;>
@@ -176,7 +176,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 175,49,1,O,o,_,V,o,/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 49",,,<lg xml:lang=&quot;lat&quot; n=&quot;13&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;49&quot;>
 176,49,2,beata,beata,_,QVVQV,b.e.a.t.a,Q/V\.'/V\.Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 49",,,
 177,49,3,femina,femina,–,QVNVNV,f.e.m.i.n.a,'Q/V\.N/V\.'N/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 49",,</l>,
-178,50,1,cui[us],cuius,_,QVRVQ,c.u.i.u.s,'Q/V\.R/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 50",,,<l n=&quot;50&quot;>
+178,50,1,cui[us],cujus,_,QVRVQ,c.u.j.u.s,'Q/V\.R/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 50",,,<l n=&quot;50&quot;>
 179,50,2,uentris,ventris,–,QVNQRVQ,v.e.n.t.r.i.s,'Q/V\N.QR/V\Q,lat,ETR,ETR,,---,---,,"PrVierge2, l. 50",,,
 180,50,3,sarcina,sarcina,_,QVRQVNV,s.a.r.c.i.n.a,'Q/V\R.Q/V\.'N/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 50",,</l>,
 181,51,1,mun–|di,mundi,_,NVNQV,m.u.n.d.i,'N/V\N.Q/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 51",,<lb/>,<l n=&quot;51&quot;>
@@ -216,7 +216,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 215,60,1,e,e,_,V,e,/V\,lat,ETR,ETR,,---,---,,"PrVierge2, l. 60",,<supplied reason=&quot;missing&quot;>virgine maria</supplied></l></lg>,<l n=&quot;60&quot;>
 216,61,1,Tv,tu,_,ty,t.u,,pro,PRNper,PRNper,2smn,tu,DOM,,"PrVierge2, l. 61",,,<lg n=&quot;16&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;61&quot;><q>
 217,61,2,es,es,_,ES,e.s,,pro,VERcjg,VERcjg,indpst2,èser,DOM,,"PrVierge2, l. 61",,,
-218,61,3,mesat_ies,mesatjes,–,mEsATʤES,m.e.s.a.t.j.e.s,,pro,NOMcom,NOMcom,smn,mesatge,DOM,,"PrVierge2, l. 61",,,
+218,61,3,mesat_s[=mesatjes],mesatjes,–,mEsATʤES,m.e.s.a.t.j.e.s,,pro,NOMcom,NOMcom,smn,mesatge,DOM,,"PrVierge2, l. 61",,,
 219,61,4,a,a,+,A,a,,pro,PRE,PRE,,a2,DOM,,"PrVierge2, l. 61",,,
 220,61,5,l,l,+,L,l,,pro,DETdef,DETdef,smr,lo2,DOM,,"PrVierge2, l. 61",,,
 221,61,6,rei,rei,–,rei,r.e.i,,pro,NOMcom,NOMcom,smr,réi,DOM,,"PrVierge2, l. 61",,</q></l>,
@@ -280,7 +280,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 279,73,6,ta_lan,talan,–,tAlAn,t.a.l.a.n,,pro,NOMcom,NOMcom,smr,talén,DOM,,"PrVierge2, l. 73",,</l>,
 280,74,1,e,e,+,E,e,,pro,CONcoo,CONcoo,,e,DOM,,"PrVierge2, l. 74",,,<l n=&quot;74&quot;>
 281,74,2,uos,vos,–,voS,v.o.s,,pro,PRNper,PRNper,5pmn,vós,DOM,,"PrVierge2, l. 74",,,
-282,74,3,diiat,diiat,–,diiAT,d.i.j.a.t,,pro,VERcjg,VERcjg,subpst5,dire,DOM,,"PrVierge2, l. 74",,,
+282,74,3,diiat,diiat,–,diiAT,d.i.i.a.t,,pro,VERcjg,VERcjg,subpst5,dire,DOM,,"PrVierge2, l. 74",,,
 283,74,4,en,en,+,EN,e.n,,pro,PRE,PRE,,én2,DOM,,"PrVierge2, l. 74",,,
 284,74,5,a_uan,avan,–|,AvAn,a.v.a.n,,pro,ADVgen,ADVgen,,avan,DOM,,"PrVierge2, l. 74",,</l><lb/>,
 285,75,1,ch_a_ques,chaques,_,ċAkES,ch.a.qu.e.s,,pro,DETind,DETind,pmr,cac,DOM,,"PrVierge2, l. 75",,,<l n=&quot;75&quot;>
