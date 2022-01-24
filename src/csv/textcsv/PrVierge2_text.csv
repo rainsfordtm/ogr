@@ -17,8 +17,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 16,5,3,e,e,+,E,e,/E\,pro,CONcoo,CONcoo,,e,DOM,,"PrVierge2, l. 5",,,
 17,5,4,mei,mei,–,mɛi,m.e.i,m/ɛ\i,pro,DETpos,DETpos,1pmn,mei2,DOM,,"PrVierge2, l. 5",,,
 18,5,5,fiel,fiel,–,fiɛl,f.i.e.l,f/i\.'/ɛ\l,pro,ADJqua,NOMcom,pmn,fezèl,DOM,,"PrVierge2, l. 5",,</l>,
-19,6,1,laisat,laisat,–,LAisAT,l.a.i.s.a.t,L/A\i.s/A\T,pro,VERcjg,VERcjg,imp---5,laisar,DOM,,"PrVierge2, l. 6",,,<l n=&quot;6&quot;>
-20,6,2,estar,estar,–,EStAr,e.s.t.a.r,/E\S.t/A\r,pro,VERinf,VERinf,,estar,DOM,,"PrVierge2, l. 6",,,
+19,6,1,laisat,laisat,–,LAisAT,l.a.i.s.a.t,L/A\i.'s/A\T,pro,VERcjg,VERcjg,imp---5,laisar,DOM,,"PrVierge2, l. 6",,,<l n=&quot;6&quot;>
+20,6,2,estar,estar,–,EStAr,e.s.t.a.r,/E\S.'t/A\r,pro,VERinf,VERinf,,estar,DOM,,"PrVierge2, l. 6",,,
 21,6,3,lo,lo,_,LO,l.o,L/(O)\,pro,DETdef,DETdef,smr,lo2,DOM,,"PrVierge2, l. 6",,,
 22,6,4,ga_zel,gazel,–|,gAzɛl,g.a.z.e.l,g/A\.'z/ɛ\l,pro,NOMcom,NOMcom,smr,gazèl,DOM,,"PrVierge2, l. 6",lemma_SponsT:236,</l><lb/>,
 23,7,1,aprendet,aprendet,–,AprENdɛT,a.p.r.e.n.d.e.t,/A\.pr/E\N.'d/ɛ\T,pro,VERcjg,VERcjg,imp---5,apréndre,DOM,,"PrVierge2, l. 7",,,<l n=&quot;7&quot;>
@@ -135,7 +135,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 134,37,1,Eu,eu,_,ɛu,e.u,/ɛ\u,pro,PRNper,PRNper,,eu,DOM,,"PrVierge2, l. 37",,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;37&quot;><q>
 135,37,2,soi,soi,–,Soi,s.o.i,S/o\i,pro,VERcjg,VERcjg,indpst1,èser,DOM,,"PrVierge2, l. 37",,,
 136,37,3,l,l,+,L,l,L/\,pro,DETdef,DETdef,smn,lo2,DOM,,"PrVierge2, l. 37",,,
-137,37,4,angels,angels,–,ANʤELS,a.n.g.e.l.s,/A\N.'ʤ/E\LS,pro,NOMcom,NOMcom,smn,angel,DOM,,"PrVierge2, l. 37",,,
+137,37,4,angels,angels,–,ANʤELS,a.n.g.e.l.s,'/A\N.ʤ/E\LS,pro,NOMcom,NOMcom,smn,angel,DOM,,"PrVierge2, l. 37",,,
 138,37,5,gabriels,gabriels,–,gAbriɛLS,g.a.b.r.i.e.l.s,g/A\.br/i\.'/ɛ\LS,pro,NOMpro,NOMpro,smn,Gabriel,wikipedia.fr,,"PrVierge2, l. 37",,</q></l>,
 139,38,1,apor,apor,+,Apɔr,a.p.o.r,/A\.'p/ɔ\r,pro,VERcjg,VERcjg,indpst1,aportar,DOM,,"PrVierge2, l. 38",,,<l n=&quot;38&quot;><q>
 140,38,2,uos,vos,–,vOS,v.o.s,v/O\S,pro,PRCper,PRCper,5pmr,vós,DOM,,"PrVierge2, l. 38",,,
@@ -254,7 +254,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 253,68,1,E,e,_,E,e,/E\,pro,CONcoo,CONcoo,,e,DOM,,"PrVierge2, l. 68",,,<l n=&quot;68&quot;><q>
 254,68,2,pois,pois,–|,pɔiS,p.o.i.s,p/ɔ\iS,pro,ADVgen,ADVgen,,pòis,DOM,,"PrVierge2, l. 68",,<supplied reason=&quot;missing&quot;>virgo maria</supplied></q></l></lg><lb/>,
 255,69,1,L,l,_,L,l,L/\,pro,DETdef,DETdef,smn,lo2,DOM,,"PrVierge2, l. 69",,,<lg n=&quot;18&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;69&quot;>
-256,69,2,angels,angels,–,ANʤELS,a.n.g.e.l.s,/A\N.'ʤ/E\LS,pro,NOMcom,NOMcom,smn,angel,DOM,,"PrVierge2, l. 69",,,
+256,69,2,angels,angels,–,ANʤELS,a.n.g.e.l.s,'/A\N.ʤ/E\LS,pro,NOMcom,NOMcom,smn,angel,DOM,,"PrVierge2, l. 69",,,
 257,69,3,es,es,–,ES,e.s,/E\S,pro,VERcjg,VERcjg,indpst3,èser,DOM,,"PrVierge2, l. 69",,,
 258,69,4,de,de,+,dE,d.e,d/E\,pro,PRE,PRE,,de,DOM,,"PrVierge2, l. 69",,,
 259,69,5,u,u,–,u,u,/\u,pro,DETdef,DETdef,smr,lo2,DOM,,"PrVierge2, l. 69",,,
