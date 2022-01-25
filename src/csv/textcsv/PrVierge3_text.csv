@@ -2,223 +2,223 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,lang,pos,pos_syn,morph,lemm
 1,1,1,VERS[US],versus,_,,,lat,ETR,ETR,,---,---,,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
 2,1,2,S[ANCTE],sancte,_,,,lat,ETR,ETR,,---,---,,0,"PrVierge3, title",,,
 3,1,3,MARIE,marie,.|,,,lat,ETR,ETR,,---,---,,0,"PrVierge3, title",,</docTitle>,
-4,2,1,O,o,_,O,o,pro,EXC,,,ô,DMF,,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
-5,2,2,maria,maria,–,mAriA,m.a.r.i.a,pro,NOMpro,,sfn,Marie,,,1,"PrVierge3, l. 1",,,
-6,2,3,deu,deu,–,dɛu,d.e.u,pro,NOMpro,,smr,dèu,DOM,,1,"PrVierge3, l. 1",,,
-7,2,4,maire,maire,–,mAirE,m.a.i.r.e,pro,NOMcom,,sfn,maire,DOM,,1,"PrVierge3, l. 1",,</l>,
-8,3,1,deu,deu,+,dɛu,d.e.u,pro,NOMpro,,smn,dèu,DOM,,2,"PrVierge3, l. 2",,,<l n=&quot;2&quot;>
-9,3,2,t,t,+,t,t,pro,PRCper,,2sfi,te,DOM,,2,"PrVierge3, l. 2",,,
-10,3,3,es,es,–,ES,e.s,pro,VERcjg,,indpst3,èser,DOM,,2,"PrVierge3, l. 2",,,
-11,3,4,e,e,+,E,e,pro,CONcoo,,,e,DOM,,2,"PrVierge3, l. 2",,,
-12,3,5,fils,fils,–,fiLS,f.i.l.s,pro,NOMcom,,smn,filh,DOM,,2,"PrVierge3, l. 2",,,
-13,3,6,e,e,+,E,e,pro,CONcoo,,,e,DOM,,2,"PrVierge3, l. 2",,,
-14,3,7,paire,paire,–,pAirE,p.a.i.r.e,pro,NOMcom,,smn,paire,DOM,,2,"PrVierge3, l. 2",,</l>,
-15,4,1,Domna,domna,–,dOmnA,d.o.m.n.a,pro,NOMcom,,sfn,dómna,DOM,,3,"PrVierge3, l. 3",,,<l n=&quot;3&quot;>
-16,4,2,preia,preia,–,prɛiA,p.r.e.i.a,pro,VERcjg,,imp---2,pregar,DOM,,3,"PrVierge3, l. 3",,,
-17,4,3,p[er],per,_,pEr,p.e.r,pro,PRE,,,pér,DOM,,3,"PrVierge3, l. 3",,,
-18,4,4,nos,nos,–|,noS,n.o.s,pro,PRNper,,4pmr,nós,DOM,,3,"PrVierge3, l. 3",,</l>,
-19,5,1,to,to,_,tO,t.o,pro,DETpos,,2smr,ton2,DOM,,4,"PrVierge3, l. 4",,,<lb/><l n=&quot;4&quot;>
-20,5,2,fil,fil,–,fil,f.i.l,pro,NOMcom,,smr,filh,DOM,,4,"PrVierge3, l. 4",,,
-21,5,3,lo,lo,_,LO,l.o,pro,DETdef,,smr,lo2,DOM,,4,"PrVierge3, l. 4",,,
-22,5,4,glorios,glorios,–,gLOrioS,g.l.o.r.i.o.s,pro,ADJqua,,smr,gloriós,DOM,,4,"PrVierge3, l. 4",,</l></lg>,
-23,6,1,E,e,_,E,e,pro,CONcoo,,,e,DOM,,5,"PrVierge3, l. 5",,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;5&quot;>
-24,6,2,lo,lo,_,LO,l.o,pro,DETdef,,smr,lo2,DOM,,5,"PrVierge3, l. 5",,,
-25,6,3,pair,pair,–,pAir0,p.a.i.r.,pro,NOMcom,,smr,paire,DOM,,5,"PrVierge3, l. 5",,,
-26,6,4,aissamen,aissamen,–,AisAmEn,a.i.ss.a.m.e.n,pro,ADVgen,,,aisamen,DOM,,5,"PrVierge3, l. 5",,</l>,
-27,7,1,p[re]ia,preia,–,prɛiA,p.r.e.i.a,pro,VERcjg,,imp---2,pregar,DOM,,6,"PrVierge3, l. 6",,,<l n=&quot;6&quot;>
-28,7,2,p[er],per,–,pEr,p.e.r,pro,PRE,,,pér,DOM,,6,"PrVierge3, l. 6",,,
-29,7,3,tota,tota,_,totA,t.o.t.a,pro,DETind,,sfr,tót,DOM,,6,"PrVierge3, l. 6",,,
-30,7,4,ien,jen,_,ʤEn,j.e.n,pro,NOMcom,,sfr,gén,DOM,,6,"PrVierge3, l. 6",,</l>,
-31,8,1,E,e,_,E,e,pro,CONcoo,,,e,DOM,,7,"PrVierge3, l. 7",,,<l n=&quot;7&quot;>
-32,8,2,c,c,+,S,c,pro,CONsub,,,si,DOM,,7,"PrVierge3, l. 7",,,
-33,8,3,el,el,_,el,e.l,pro,PRNper,,3smn,el2,DOM,,7,"PrVierge3, l. 7",,,
-34,8,4,no,no,+,nO,n.o,pro,ADVneg,,,nóN,DOM,,7,"PrVierge3, l. 7",,,
-35,8,5,nos,nos,–,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,7,"PrVierge3, l. 7",,,
-36,8,6,so|cor,socor,–,SOkor,s.o.c.o.r,pro,VERcjg,,indpst3,secórre,DOM,,7,"PrVierge3, l. 7",,</l>,
-37,9,1,tor_nat,tornat,–,tOrnAT,t.o.r.n.a.t,pro,VERppe,,snn,tornar,DOM,,8,"PrVierge3, l. 8",,,<lb/><l n=&quot;8&quot;>
-38,9,2,nos,nos,–,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,8,"PrVierge3, l. 8",,,
-39,9,3,es,es,_,ES,e.s,pro,VERcjg,,indpst0,èser,DOM,,8,"PrVierge3, l. 8",,,
-40,9,4,a,a,+,A,a,pro,PRE,,,a2,DOM,,8,"PrVierge3, l. 8",,,
-41,9,5,plor,plor,_,pLor,p.l.o.r,pro,NOMcom,,smr,plór,DOM,,8,"PrVierge3, l. 8",,</l></lg>,
-42,10,1,Eua,eva,_,ɛvA,e.v.a,pro,NOMpro,,sfn,Ève,,,9,"PrVierge3, l. 9",,,<lg n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;9&quot;>
-43,10,2,creet,creet,–,krEɛT,c.r.e.e.t,pro,VERcjg,,indpsp3,créire,DOM,,9,"PrVierge3, l. 9",,,
-44,10,3,serp_en,serpen,–,SErpEn,s.e.r.p.e.n,pro,NOMcom,,smr,serpén,DOM,,9,"PrVierge3, l. 9",,</l>,
-45,11,1,un,un,+,yn,u.n,pro,DETndf,,smr,uN,DOM,,10,"PrVierge3, l. 10",,,<l n=&quot;10&quot;>
-46,11,2,a_gel,agel,–,AʤEl,a.g.e.l,pro,NOMcom,,smr,angel,DOM,,10,"PrVierge3, l. 10",,,
-47,11,3,resplanden,resplanden,–|,rESpLANdEn,r.e.s.p.l.a.n.d.e.n,pro,VERppa,,smr,resplandir,DOM,,10,"PrVierge3, l. 10",,</l>,
-48,12,1,P[er],per,_,pEr,p.e.r,pro,PRE,,,pér,DOM,,11,"PrVierge3, l. 11",,,<lb/><l n=&quot;11&quot;>
-49,12,2,so,so,+,Sɔ,s.o,pro,PRNdem,,,so,DOM,,11,"PrVierge3, l. 11",,,
-50,12,3,nos,nos,_,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,11,"PrVierge3, l. 11",,,
-51,12,4,en,en,+,EN,e.n,pro,PRCadv,,,én3,DOM,,11,"PrVierge3, l. 11",,,
-52,12,5,uai,vai,_,vAi,v.a.i,pro,VERcjg,,indpst0,anar,DOM,,11,"PrVierge3, l. 11",,,
-53,12,6,gen,gen,–,ʤEn,g.e.n,pro,ADVgen,,,gén2,DOM,,11,"PrVierge3, l. 11",,</l>,
-54,13,1,deus,deus,–,dɛuS,d.e.u.s,pro,NOMpro,,smn,dèu,DOM,,12,"PrVierge3, l. 12",,,<l n=&quot;12&quot;>
-55,13,2,n,n,+,n,n,pro,PRCadv,,,én3,DOM,,12,"PrVierge3, l. 12",,,
-56,13,3,es,es,–,ES,e.s,pro,VERcjg,,indpst3,èser,DOM,,12,"PrVierge3, l. 12",,,
-57,13,4,om,om,–,Om,o.m,pro,NOMcom,,smn,óme,DOM,,12,"PrVierge3, l. 12",,,
-58,13,5,ueramen,veramen,_,vErAmEn,v.e.r.a.m.e.n,pro,ADVgen,,,veramén,DOM,,12,"PrVierge3, l. 12",,</l></lg>,
-59,14,1,Car,car,+,kAr,c.a.r,pro,CONcoo,,,car3,DOM,,13,"PrVierge3, l. 13",,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;13&quot;>
-60,14,2,de,de,_,dE,d.e,pro,PRE,,,de,DOM,,13,"PrVierge3, l. 13",,,
-61,14,3,femna,femna,_,fEmnA,f.e.m.n.a,pro,NOMcom,,sfr,fémna,DOM,,13,"PrVierge3, l. 13",,,
-62,14,4,nas_quet,nasquet,–|,nASkɛT,n.a.s.qu.e.t,pro,VERcjg,,indpsp3,naiser,DOM,,13,"PrVierge3, l. 13",,</l>,
-63,15,1,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,,smn,dèu,DOM,,14,"PrVierge3, l. 14",,,<pb n=&quot;49v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f106.item&quot;/><lb/><l n=&quot;14&quot;>
-64,15,2,la,la,+,LA,l.a,pro,DETdef,,sfr,la,DOM,,14,"PrVierge3, l. 14",,,
-65,15,3,femna,femna,_,fEmnA,f.e.m.n.a,pro,NOMcom,,sfr,fémna,DOM,,14,"PrVierge3, l. 14",,,
-66,15,4,saluet,salvet,–,SALvɛT,s.a.l.v.e.t,pro,VERcjg,,indpsp3,salvar,DOM,,14,"PrVierge3, l. 14",,</l>,
-67,16,1,e,e,+,E,e,pro,CONcoo,,,e,DOM,,15,"PrVierge3, l. 15",,,<l n=&quot;15&quot;>
-68,16,2,pre,pre,_,prE,p.r.e,pro,PRE,,,pér,DOM,,15,"PrVierge3, l. 15",lemma_SponsT:239,,
-69,16,3,quo,quo,_,kɔ,qu.o,pro,PRNdem,,,aco,DOM,,15,"PrVierge3, l. 15",lemma_SponsT:239,,
-70,16,4,nas_quet,nasquet,_,nASkɛT,n.a.s.qu.e.t,pro,VERcjg,,indpsp3,naiser,DOM,,15,"PrVierge3, l. 15",,,
-71,16,5,hom,hom,–,Om,ho.m,pro,NOMcom,,smn,óme,DOM,,15,"PrVierge3, l. 15",,</l>,
-72,17,1,que,que,_,kE,qu.e,pro,CONsub,,,que2,DOM,,16,"PrVierge3, l. 16",,,<l n=&quot;16&quot;>
-73,17,2,garit,garit,_,gAriT,g.a.r.i.t,pro,VERppe,,smn,garir,DOM,,16,"PrVierge3, l. 16",,,
-74,17,3,en,en,+,EN,e.n,pro,PRCadv,,,én3,DOM,,16,"PrVierge3, l. 16",,,
-75,17,4,fos,fos,–|,foS,f.o.s,pro,VERcjg,,subipf3,èser,DOM,,16,"PrVierge3, l. 16",,,
-76,17,5,hom,hom,_,Om,ho.m,pro,NOMcom,,smn,óme,DOM,,16,"PrVierge3, l. 16",,</l></lg>,<lb/>
-77,18,1,Eua,eva,_,ɛvA,e.v.a,pro,NOMpro,,sfn,Ève,,,17,"PrVierge3, l. 17",,,<lg n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;17&quot;>
-78,18,2,moler,moler,_,mOlɛr,m.o.l.e.r,pro,NOMcom,,sfn,molhèr,DOM,,17,"PrVierge3, l. 17",,,
-79,18,3,adam,adam,–,AdAm,a.d.a.m,pro,NOMcom,,smr,Adam,,,17,"PrVierge3, l. 17",,</l>,
-80,19,1,quar,quar,_,kAr,qu.a.r,pro,CONcoo,,,car3,DOM,,18,"PrVierge3, l. 18",,,<l n=&quot;18&quot;>
-81,19,2,cre_et,creet,–,krEɛT,c.r.e.e.t,pro,VERcjg,,indpsp3,créire,DOM,,18,"PrVierge3, l. 18",,,
-82,19,3,lo,lo,+,LO,l.o,pro,DETdef,,smr,lo2,DOM,,18,"PrVierge3, l. 18",,,
-83,19,4,setam,setam,–,SEtAm,s.e.t.a.m,pro,NOMcom,,smr,satan,DOM,,18,"PrVierge3, l. 18",,</l>,
-84,20,1,nos,nos,+,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,19,"PrVierge3, l. 19",,,<l n=&quot;19&quot;>
-85,20,2,mes,mes,–,meS,m.e.s,pro,VERcjg,,indpsp3,métre,DOM,,19,"PrVierge3, l. 19",,,
-86,20,3,en,en,+,EN,e.n,pro,PRE,,,én,DOM,,19,"PrVierge3, l. 19",,,
-87,20,4,tal,tal,_,tAl,t.a.l,pro,DETind,,smr,tal,DOM,,19,"PrVierge3, l. 19",,,
-88,20,5,afan,afan,–|,AfAn,a.f.a.n,pro,NOMcom,,smr,afan,DOM,,19,"PrVierge3, l. 19",,</l>,
-89,21,1,p[er],per,_,pEr,p.e.r,pro,PRE,,,pér,DOM,,20,"PrVierge3, l. 20",,,<lb/><l n=&quot;20&quot;>
-90,21,2,qu,qu,+,k,qu,pro,PRNrel,,,que,DOM,,20,"PrVierge3, l. 20",,,
-91,21,3,a_uem,avem,_,AvEm,a.v.e.m,pro,VERcjg,,indpst4,avér,DOM,,20,"PrVierge3, l. 20",,,
-92,21,4,set,set,_,SeT,s.e.t,pro,NOMcom,,sfr,sét,DOM,,20,"PrVierge3, l. 20",,,
-93,21,5,e,e,+,E,e,pro,CONcoo,,,e,DOM,,20,"PrVierge3, l. 20",,,
-94,21,6,fam,fam,_,fAm,f.a.m,pro,NOMcom,,sfr,fam,DOM,,20,"PrVierge3, l. 20",,</l></lg>,
-95,22,1,E_ua,eva,_,ɛvA,e.v.a,pro,NOMpro,,,Ève,,,21,"PrVierge3, l. 21",,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;21&quot;>
-96,22,2,mot,mot,_,moT,m.o.t,pro,ADVgen,,,mólt,DOM,,21,"PrVierge3, l. 21",,,
-97,22,3,foleet,foleet,–,fOlEɛT,f.o.l.e.e.t,pro,VERcjg,,indpsp3,folejar,DOM,,21,"PrVierge3, l. 21",,</l>,
-98,23,1,quar,quar,_,kAr,qu.a.r,pro,CONcoo,,,car,DOM,,22,"PrVierge3, l. 22",,,<l n=&quot;22&quot;>
-99,23,2,de,de,+,dE,d.e,pro,PRE,,,de,DOM,,22,"PrVierge3, l. 22",,,
-100,23,3,queu,queu,_,keu,qu.e.u,pro,DETdem,,smr,aquél,DOM,,22,"PrVierge3, l. 22",,,
-101,23,4,frut,frut,_,fryT,f.r.u.t,pro,NOMcom,,smr,fruch,DOM,,22,"PrVierge3, l. 22",,,
-102,23,5,m_iet[=meniet],manjet,–|,mANʤɛT,m.a.n.j.e.t,pro,VERcjg,,indpsp3,manjar,DOM,,22,"PrVierge3, l. 22",,</l>,
-103,24,1,Que,que,_,kE,qu.e,pro,PRNrel,,smr,que,DOM,,23,"PrVierge3, l. 23",,,<lb/><l n=&quot;23&quot;>
-104,24,2,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,,smn,dèu,DOM,,23,"PrVierge3, l. 23",,,
-105,24,3,li,li,+,Li,l.i,pro,PRCper,,3sfi,li4,DOM,,23,"PrVierge3, l. 23",,,
-106,24,4,deue_det,devedet,–,dEvEdɛT,d.e.v.e.d.e.t,pro,VERcjg,,indpsp3,devedar,DOM,,23,"PrVierge3, l. 23",,</l>,
-107,25,1,e,e,+,E,e,pro,CONcoo,,,e,DOM,,24,"PrVierge3, l. 24",,,<l n=&quot;24&quot;>
-108,25,2,cel,cel,_,Sel,c.e.l,pro,PRNdem,,smr,cel2,DOM,,24,"PrVierge3, l. 24",,,
-109,25,3,que,que,_,kE,qu.e,pro,PRNrel,,smn,que,DOM,,24,"PrVierge3, l. 24",,,
-110,25,4,la,la,+,LA,l.a,pro,DETdef,,3sfr,la2,DOM,,24,"PrVierge3, l. 24",,,
-111,25,5,creet,creet,_,krEɛT,c.r.e.e.t,pro,VERcjg,,indpsp3,créire,DOM,,24,"PrVierge3, l. 24",lemma_BrunPrVierge:414,</l></lg>,
-112,26,1,E,e,_,E,e,pro,CONcoo,,,e,DOM,,25,"PrVierge3, l. 25",,,<lg n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;25&quot;>
-113,26,2,c,c,+,S,c,pro,CONsub,,,si,DOM,,25,"PrVierge3, l. 25",,,
-114,26,3,el,el,_,el,e.l,pro,PRNper,,6pmn,els2,DOM,,25,"PrVierge3, l. 25",,,
-115,26,4,no,no,+,nO,n.o,pro,ADVneg,,,nóN,DOM,,25,"PrVierge3, l. 25",,,
-116,26,5,l,l,_,L,l,pro,PRCper,,3sma,lo3,DOM,,25,"PrVierge3, l. 25",,,
-117,26,6,an,an,+,AN,a.n,pro,PRCadv,,,én3,DOM,,25,"PrVierge3, l. 25",,,
-118,26,7,cre_es,crees,–,krEɛS,c.r.e.e.s,pro,VERcjg,,subipf3,créire,DOM,,25,"PrVierge3, l. 25",,</l>,
-119,27,1,e,e,+,E,e,pro,CONcoo,,,e,DOM,,26,"PrVierge3, l. 26",,,<l n=&quot;26&quot;>
-120,27,2,de,de,+,dE,d.e,pro,PRE,,,de,DOM,,26,"PrVierge3, l. 26",,,
-121,27,3,u,u,_,u,u,pro,DETdef,,smr,lo2,DOM,,26,"PrVierge3, l. 26",,,
-122,27,4,fruit,fruit,–|,fryiT,f.r.u.i.t,pro,NOMcom,,smr,fruch,DOM,,26,"PrVierge3, l. 26",,,
-123,27,5,no,no,_,nO,n.o,pro,ADVneg,,,nóN,DOM,,26,"PrVierge3, l. 26",,,<lb/>
-124,27,6,man_ies,manjes,_,mANʤɛS,m.a.n.j.e.s,pro,VERcjg,,subipf3,manjar,DOM,,26,"PrVierge3, l. 26",,</l>,
-125,28,1,Ia,ja,+,ʤA,j.a,pro,ADVgen,,,ja,DOM,,27,"PrVierge3, l. 27",,,<l n=&quot;27&quot;>
-126,28,2,no,no,_,nO,n.o,pro,ADVneg,,,nóN,DOM,,27,"PrVierge3, l. 27",,,
-127,28,3,murira,murira,_,mOrirA,m.u.r.i.r.a,pro,VERcjg,,indfut3,morir,DOM,,27,"PrVierge3, l. 27",,,
-128,28,4,hom,hom,–,Om,ho.m,pro,NOMcom,,smn,óme,DOM,,27,"PrVierge3, l. 27",,</l>,
-129,29,1,chi,chi,_,ki,ch.i,pro,PRNrel,,smn,qui,DOM,,28,"PrVierge3, l. 28",,,<l n=&quot;28&quot;>
-130,29,2,ames,ames,_,AmɛS,a.m.e.s,pro,VERcjg,,subipf3,amar,DOM,,28,"PrVierge3, l. 28",,,
-131,29,3,nostre,nostre,_,nɔStrE,n.o.s.t.r.e,pro,DETpos,,4smr,nòstre,DOM,,28,"PrVierge3, l. 28",,,
-132,29,4,don,don,_,dOn,d.o.n,pro,NOMcom,,smr,dóN,DOM,,28,"PrVierge3, l. 28",,</l></lg>,
-133,30,1,Mas,mas,+,mAS,m.a.s,pro,CONcoo,,,mais,DOM,,29,"PrVierge3, l. 29",,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;29&quot;>
-134,30,2,tan,tan,_,tAn,t.a.n,pro,ADVgen,,,tan,DOM,,29,"PrVierge3, l. 29",,,
-135,30,3,fora,fora,–|,forA,f.o.r.a,pro,VERcjg,,indpqp3,èser,DOM,,29,"PrVierge3, l. 29",,,
-136,30,4,de,de,_,dE,d.e,pro,PRE,,,de,DOM,,29,"PrVierge3, l. 29",,,<lb/>
-137,30,5,gen,gen,_,ʤEn,g.e.n,pro,NOMcom,,sfr,gén,DOM,,29,"PrVierge3, l. 29",,</l>,
-138,31,1,ch,ch,+,k,ch,pro,PRNrel,,sfn,que,DOM,,30,"PrVierge3, l. 30",,,<l n=&quot;30&quot;>
-139,31,2,auera,avera,_,Avɛra,a.v.e.r.a,pro,VERcjg,,indpqp3,avér,DOM,,30,"PrVierge3, l. 30",,,
-140,31,3,garimen,garimen,_,gArimEn,g.a.r.i.m.e.n,pro,NOMcom,,smr,garimén,DOM,,30,"PrVierge3, l. 30",,</l>,
-141,32,1,Cil,cil,_,Sil,c.i.l,pro,PRNdem,,6pmn,cél2,DOM,,31,"PrVierge3, l. 31",,,<l n=&quot;31&quot;>
-142,32,2,chi,chi,_,ki,ch.i,pro,PRNrel,,pmn,qui,DOM,,31,"PrVierge3, l. 31",,,
-143,32,3,p[er]dut,perdut,–,pErdyT,p.e.r.d.u.t,pro,VERppe,,pmn,pèrdre,DOM,,31,"PrVierge3, l. 31",,,
-144,32,4,seran,seran,_,SErAn,s.e.r.a.n,pro,VERcjg,,indfut6,èser,DOM,,31,"PrVierge3, l. 31",,</l>,
-145,33,1,ia,ja,_,ʤA,j.a,pro,ADVgen,,,ja,DOM,,32,"PrVierge3, l. 32",,,<l n=&quot;32&quot;>
-146,33,2,per,per,+,pEr,p.e.r,pro,PRE,,,pér,DOM,,32,"PrVierge3, l. 32",,,
-147,33,3,re,re,_,re,r.e,pro,NOMcom,,sfr,réN,DOM,,32,"PrVierge3, l. 32",,,
-148,33,4,no,no,_,nO,n.o,pro,ADVgen,,,nóN,DOM,,32,"PrVierge3, l. 32",,,
-149,33,5,foran,foran,–|,forAn,f.o.r.a.n,pro,VERcjg,,indpqp6,èser,DOM,,32,"PrVierge3, l. 32",,</l></lg>,
-150,34,1,Adam,adam,_,AdAm,a.d.a.m,pro,NOMpro,,smn,Adam,,,33,"PrVierge3, l. 33",,,<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;33&quot;>
-151,34,2,meniet,menjet,_,mENʤɛT,m.e.n.j.e.t,pro,VERcjg,,indpsp3,manjar,DOM,,33,"PrVierge3, l. 33",,,
-152,34,3,lo,lo,_,LO,l.o,pro,DETdef,,smr,lo2,DOM,,33,"PrVierge3, l. 33",,,
-153,34,4,fruit,fruit,–,fryiT,f.r.u.i.t,pro,NOMcom,,smr,fruch,DOM,,33,"PrVierge3, l. 33",,</l>,
-154,35,1,p[er],per,_,pEr,p.e.r,pro,PRE,,,pér,DOM,,34,"PrVierge3, l. 34",,,<l n=&quot;34&quot;>
-155,35,2,que,que,_,kE,qu.e,pro,PRNrel,,smr,que,DOM,,34,"PrVierge3, l. 34",,,
-156,35,3,fom,fom,_,fOm,f.o.m,pro,VERcjg,,indpsp4,èser,DOM,,34,"PrVierge3, l. 34",,,
-157,35,4,tuit,tuit,–,tyiT,t.u.i.t,pro,PRNind,,pmn,tót,DOM,,34,"PrVierge3, l. 34",,,
-158,35,5,p[er]dut,perdut,_,pErdyT,p.e.r.d.u.t,pro,VERppe,,pmn,pèrdre,DOM,,34,"PrVierge3, l. 34",,</l>,
-159,36,1,Adam,adam,_,AdAm,a.d.a.m,pro,NOMpro,,smn,Adam,,,35,"PrVierge3, l. 35",,,<l n=&quot;35&quot;>
-160,36,2,no,no,_,nO,n.o,pro,ADVneg,,,nóN,DOM,,35,"PrVierge3, l. 35",,,
-161,36,3,creet,creet,–|,krEɛT,c.r.e.e.t,pro,VERcjg,,indpsp3,créire,DOM,,35,"PrVierge3, l. 35",,,
-162,36,4,deu,deu,–,dɛu,d.e.u,pro,NOMpro,,smr,dèu,DOM,,35,"PrVierge3, l. 35",,</l>,<lb/>
-163,37,1,a,a,+,A,a,pro,PRE,,,a2,DOM,,36,"PrVierge3, l. 36",,,<l n=&quot;36&quot;>
-164,37,2,tot,tot,_,toT,t.o.t,pro,PRNind,,pmr,tót,DOM,,36,"PrVierge3, l. 36",,,
-165,37,3,nos,nos,_,nOS,n.o.s,pro,PRNper,,4pmr,nós,DOM,,36,"PrVierge3, l. 36",,,
-166,37,4,en,en,_,EN,e.n,pro,PRCadv,,,én3,DOM,,36,"PrVierge3, l. 36",,,
-167,37,5,uai,vai,_,vAi,v.a.i,pro,VERcjg,,indpst0,anar,DOM,,36,"PrVierge3, l. 36",,,
-168,37,6,greu,greu,_,grɛu,g.r.e.u,pro,ADVgen,,,grèu,DOM,,36,"PrVierge3, l. 36",,</l></lg>,
-169,38,1,Deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,,smn,dèu,DOM,,37,"PrVierge3, l. 37",,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;37&quot;>
-170,38,2,receubt,receubt,–,rEseuPT,r.e.c.e.u.b.t,pro,VERcjg,,indpsp3,recébre,DOM,,37,"PrVierge3, l. 37",,,
-171,38,3,p[er],per,+,pEr,p.e.r,pro,PRE,,,pér,DOM,,37,"PrVierge3, l. 37",,,
-172,38,4,lui,lui,–,Lyi,l.u.i,pro,PRNper,,3smr,lui,DOM,,37,"PrVierge3, l. 37",,,
-173,38,5,mort,mort,–,mɔrT,m.o.r.t,pro,NOMcom,,sfr,mòrt,DOM,,37,"PrVierge3, l. 37",,</l>,
-174,39,1,e,e,+,E,e,pro,PRE,,,én,DOM,,38,"PrVierge3, l. 38",,,<l n=&quot;38&quot;>
-175,39,2,la,la,+,LA,l.a,pro,DETdef,,sfr,la,DOM,,38,"PrVierge3, l. 38",,,
-176,39,3,crot,crot,_,kroT,c.r.o.t,pro,NOMcom,,sfr,crotz,DOM,,38,"PrVierge3, l. 38",,,
-177,39,4,a,a,+,A,a,pro,PRE,,,a2,DOM,,38,"PrVierge3, l. 38",,,
-178,39,5,gran,gran,|,grAn,g.r.a.n,pro,ADJqua,,smr,gran,DOM,,38,"PrVierge3, l. 38",,,
-179,39,6,tort,tort,_,tɔrT,t.o.r.t,pro,NOMcom,,smr,tòrt,DOM,,38,"PrVierge3, l. 38",,</l>,<lb/>
-180,40,1,E,e,_,E,e,pro,CONcoo,,,e,DOM,,39,"PrVierge3, l. 39",,,<l n=&quot;39&quot;>
-181,40,2,re_sors,resors,_,rEzorS,r.e.s.o.r.s,pro,VERcjg,,indpsp3,resórzer,DOM,,39,"PrVierge3, l. 39",,,
-182,40,3,a,a,+,A,a,pro,PRE,,,a2,DOM,,39,"PrVierge3, l. 39",,,
-183,40,4,l,l,+,L,l,pro,DETdef,,smr,lo2,DOM,,39,"PrVierge3, l. 39",,,
-184,40,5,tert,tert,–,tɛrT,t.e.r.t,pro,ADJord,,smr,tèrtz,DOM,,39,"PrVierge3, l. 39",,,
-185,40,6,dia,dia,–,diA,d.i.a,pro,NOMcom,,smr,dia,DOM,,39,"PrVierge3, l. 39",,</l>,
-186,41,1,si,si,+,Si,s.i,pro,ADVgen,,,si2,DOM,,40,"PrVierge3, l. 40",,,<l n=&quot;40&quot;>
-187,41,2,cum,cum,–,kOm,c.u.m,pro,CONsub,,,cóm,DOM,,40,"PrVierge3, l. 40",,,
-188,41,3,o,o,+,O,o,pro,PRCdem,,,o2,DOM,,40,"PrVierge3, l. 40",,,
-189,41,4,dii,dii,_,dii,d.i.i,pro,VERcjg,,indpst3,dire,DOM,,40,"PrVierge3, l. 40",,,
-190,41,5,maria,maria,_,mAriA,m.a.r.i.a,pro,NOMpro,,sfr,Marie,,,40,"PrVierge3, l. 40",,</l></lg>,
-191,42,1,A,a,+,A,a,pro,PRE,,,a2,DOM,,41,"PrVierge3, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>
-192,42,2,ut,ut,_,uT,u.t,pro,DETdef,,pmr,los,DOM,,41,"PrVierge3, l. 41",phon_SponsT:106-107,,
-193,42,3,apostols,apostols,–|,ApɔStOLS,a.p.o.s.t.o.l.s,pro,NOMcom,,pmr,apòstol,DOM,,41,"PrVierge3, l. 41",,,
-194,42,4,cum_tet,cumtet,–,kONtɛT,c.u.m.t.e.t,pro,VERcjg,,indpsp3,comtar,DOM,,41,"PrVierge3, l. 41",,</l>,<pb n=&quot;50r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f107.item&quot;/><lb/>
-195,43,1,e,e,+,E,e,pro,CONcoo,,,e,DOM,,42,"PrVierge3, l. 42",,,<l n=&quot;42&quot;>
-196,43,2,dis,dis,–,diS,d.i.s,pro,VERcjg,,indpsp3,dire,DOM,,42,"PrVierge3, l. 42",,,
-197,43,3,c,c,+,k,c,pro,CONsub,,,que2,DOM,,42,"PrVierge3, l. 42",,,
-198,43,4,ap,ap,_,AP,a.p,pro,PRE,,,ab,DOM,,42,"PrVierge3, l. 42",,,
-199,43,5,deu,deu,–,dɛu,d.e.u,pro,NOMpro,,smr,dèu,DOM,,42,"PrVierge3, l. 42",,,
-200,43,7,parlet,parlet,–,pArLɛT,p.a.r.l.e.t,pro,VERcjg,,indpsp3,parlar,DOM,,42,"PrVierge3, l. 42",,</l>,
-201,44,1,qu,qu,+,k,qu,pro,CONsub,,,que2,DOM,,43,"PrVierge3, l. 43",,,<l n=&quot;43&quot;>
-202,44,2,e,e,+,E,e,pro,PRE,,,én,DOM,,43,"PrVierge3, l. 43",,,
-203,44,3,u,u,+,u,u,pro,DETdef,,smr,lo2,DOM,,43,"PrVierge3, l. 43",,,
-204,44,4,poi,poi,–,pɔi,p.o.i,pro,NOMcom,,smr,pòg,DOM,,43,"PrVierge3, l. 43",,,
-205,44,5,de,de,+,dE,d.e,pro,PRE,,,de,DOM,,43,"PrVierge3, l. 43",,,
-206,44,6,galilea,galilea,–,gAlilEA,g.a.l.i.l.e.a,pro,NOMpro,,sfr,Galilée,,,43,"PrVierge3, l. 43",,</l>,
-207,45,1,uiu,viu,_,viu,v.i.u,pro,ADJqua,,smr,viu,DOM,,44,"PrVierge3, l. 44",,,<l n=&quot;44&quot;>
-208,45,2,lo,lo,+,LO,l.o,pro,PRCper,,3smr,lo3,DOM,,44,"PrVierge3, l. 44",,,
-209,45,3,uerem,verem,_,vErEm,v.e.r.e.m,pro,VERcjg,,indfut4,vezér,DOM,,44,"PrVierge3, l. 44",,,
-210,45,4,an–|gera,angera,_,ANgɛrA,a.n.g.e.r.a,pro,ADVgen,,,ancar,DOM,,44,"PrVierge3, l. 44",,</l></lg>,
-211,46,1,Vida,vida,_,vidA,v.i.d.a,pro,NOMcom,,sfn,vida,DOM,,45,"PrVierge3, l. 45",,,<lb/><lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;45&quot;>
-212,46,2,qui,qui,_,ki,qu.i,pro,PRNrel,,sfn,qui,DOM,,45,"PrVierge3, l. 45",,,
-213,46,3,mort,mort,_,mɔrT,m.o.r.t,pro,NOMcom,,sfr,mòrt,DOM,,45,"PrVierge3, l. 45",,,
-214,46,4,aucis,aucis,–,AusiS,a.u.c.i.s,pro,VERcjg,,indpsp3,aucire,DOM,,45,"PrVierge3, l. 45",,</l>,
-215,47,1,nos,nos,–,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,46,"PrVierge3, l. 46",,,<l n=&quot;46&quot;>
-216,47,2,donet,donet,_,dOnɛT,d.o.n.e.t,pro,VERcjg,,indpsp3,donar,DOM,,46,"PrVierge3, l. 46",,,
-217,47,3,paradis,paradis,–,pArAdiS,p.a.r.a.d.i.s,pro,NOMcom,,smr,paradis,DOM,,46,"PrVierge3, l. 46",,</l>,
-218,48,1,gloria,gloria,_,gLOriA,g.l.o.r.i.a,pro,NOMcom,,sfr,gloria,DOM,,47,"PrVierge3, l. 47",,,<l n=&quot;47&quot;>
-219,48,2,aisamen,aisamen,_,AisAmEn,a.i.s.a.m.e.n,pro,ADVgen,,,aisamen,DOM,,47,"PrVierge3, l. 47",,</l>,
-220,49,1,nos,nos,–|,nOS,n.o.s,pro,PRCper,,4pmr,nós,DOM,,48,"PrVierge3, l. 48",,,<l n=&quot;48&quot;>
-221,49,2,do,do,–,do,d.o,pro,VERcjg,,subpst3,donar,DOM,,48,"PrVierge3, l. 48",,,<lb/>
-222,49,3,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,,smn,dèu,DOM,,48,"PrVierge3, l. 48",,,
-223,49,4,ueramen,veramen,–,vErAmEn,v.e.r.a.m.e.n,pro,ADVgen,,,veramén,DOM,,48,"PrVierge3, l. 48",,</l></lg></body></text>,
+4,2,1,O,o,_,O,o,pro,EXC,EXC,,ô,DMF,,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
+5,2,2,maria,maria,–,mAriA,m.a.r.i.a,pro,NOMpro,NOMpro,sfn,Marie,,,1,"PrVierge3, l. 1",,,
+6,2,3,deu,deu,–,dɛu,d.e.u,pro,NOMpro,NOMpro,smr,dèu,DOM,,1,"PrVierge3, l. 1",,,
+7,2,4,maire,maire,–,mAirE,m.a.i.r.e,pro,NOMcom,NOMcom,sfn,maire,DOM,,1,"PrVierge3, l. 1",,</l>,
+8,3,1,deu,deu,+,dɛu,d.e.u,pro,NOMpro,NOMpro,smn,dèu,DOM,,2,"PrVierge3, l. 2",,,<l n=&quot;2&quot;>
+9,3,2,t,t,+,t,t,pro,PRCper,PRCper,2sfi,te,DOM,,2,"PrVierge3, l. 2",,,
+10,3,3,es,es,–,ES,e.s,pro,VERcjg,VERcjg,indpst3,èser,DOM,,2,"PrVierge3, l. 2",,,
+11,3,4,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,2,"PrVierge3, l. 2",,,
+12,3,5,fils,fils,–,fiLS,f.i.l.s,pro,NOMcom,NOMcom,smn,filh,DOM,,2,"PrVierge3, l. 2",,,
+13,3,6,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,2,"PrVierge3, l. 2",,,
+14,3,7,paire,paire,–,pAirE,p.a.i.r.e,pro,NOMcom,NOMcom,smn,paire,DOM,,2,"PrVierge3, l. 2",,</l>,
+15,4,1,Domna,domna,–,dOmnA,d.o.m.n.a,pro,NOMcom,NOMcom,sfn,dómna,DOM,,3,"PrVierge3, l. 3",,,<l n=&quot;3&quot;>
+16,4,2,preia,preia,–,prɛiA,p.r.e.i.a,pro,VERcjg,VERcjg,imp---2,pregar,DOM,,3,"PrVierge3, l. 3",,,
+17,4,3,p[er],per,_,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,3,"PrVierge3, l. 3",,,
+18,4,4,nos,nos,–|,noS,n.o.s,pro,PRNper,PRNper,4pmr,nós,DOM,,3,"PrVierge3, l. 3",,</l>,
+19,5,1,to,to,_,tO,t.o,pro,DETpos,DETpos,2smr,ton2,DOM,,4,"PrVierge3, l. 4",,,<lb/><l n=&quot;4&quot;>
+20,5,2,fil,fil,–,fil,f.i.l,pro,NOMcom,NOMcom,smr,filh,DOM,,4,"PrVierge3, l. 4",,,
+21,5,3,lo,lo,_,LO,l.o,pro,DETdef,DETdef,smr,lo2,DOM,,4,"PrVierge3, l. 4",,,
+22,5,4,glorios,glorios,–,gLOrioS,g.l.o.r.i.o.s,pro,ADJqua,ADJqua,smr,gloriós,DOM,,4,"PrVierge3, l. 4",,</l></lg>,
+23,6,1,E,e,_,E,e,pro,CONcoo,CONcoo,,e,DOM,,5,"PrVierge3, l. 5",,,<lg n=&quot;2&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;5&quot;>
+24,6,2,lo,lo,_,LO,l.o,pro,DETdef,DETdef,smr,lo2,DOM,,5,"PrVierge3, l. 5",,,
+25,6,3,pair,pair,–,pAir0,p.a.i.r.,pro,NOMcom,NOMcom,smr,paire,DOM,,5,"PrVierge3, l. 5",,,
+26,6,4,aissamen,aissamen,–,AisAmEn,a.i.ss.a.m.e.n,pro,ADVgen,ADVgen,,aisamen,DOM,,5,"PrVierge3, l. 5",,</l>,
+27,7,1,p[re]ia,preia,–,prɛiA,p.r.e.i.a,pro,VERcjg,VERcjg,imp---2,pregar,DOM,,6,"PrVierge3, l. 6",,,<l n=&quot;6&quot;>
+28,7,2,p[er],per,–,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,6,"PrVierge3, l. 6",,,
+29,7,3,tota,tota,_,totA,t.o.t.a,pro,DETind,DETind,sfr,tót,DOM,,6,"PrVierge3, l. 6",,,
+30,7,4,ien,jen,_,ʤEn,j.e.n,pro,NOMcom,NOMcom,sfr,gén,DOM,,6,"PrVierge3, l. 6",,</l>,
+31,8,1,E,e,_,E,e,pro,CONcoo,CONcoo,,e,DOM,,7,"PrVierge3, l. 7",,,<l n=&quot;7&quot;>
+32,8,2,c,c,+,S,c,pro,CONsub,CONsub,,si,DOM,,7,"PrVierge3, l. 7",,,
+33,8,3,el,el,_,el,e.l,pro,PRNper,PRNper,3smn,el2,DOM,,7,"PrVierge3, l. 7",,,
+34,8,4,no,no,+,nO,n.o,pro,ADVneg,ADVneg,,nóN,DOM,,7,"PrVierge3, l. 7",,,
+35,8,5,nos,nos,–,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,7,"PrVierge3, l. 7",,,
+36,8,6,so|cor,socor,–,SOkor,s.o.c.o.r,pro,VERcjg,VERcjg,indpst3,secórre,DOM,,7,"PrVierge3, l. 7",,</l>,
+37,9,1,tor_nat,tornat,–,tOrnAT,t.o.r.n.a.t,pro,VERppe,VERppe,snn,tornar,DOM,,8,"PrVierge3, l. 8",,,<lb/><l n=&quot;8&quot;>
+38,9,2,nos,nos,–,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,8,"PrVierge3, l. 8",,,
+39,9,3,es,es,_,ES,e.s,pro,VERcjg,VERcjg,indpst0,èser,DOM,,8,"PrVierge3, l. 8",,,
+40,9,4,a,a,+,A,a,pro,PRE,PRE,,a2,DOM,,8,"PrVierge3, l. 8",,,
+41,9,5,plor,plor,_,pLor,p.l.o.r,pro,NOMcom,NOMcom,smr,plór,DOM,,8,"PrVierge3, l. 8",,</l></lg>,
+42,10,1,Eua,eva,_,ɛvA,e.v.a,pro,NOMpro,NOMpro,sfn,Ève,,,9,"PrVierge3, l. 9",,,<lg n=&quot;3&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;9&quot;>
+43,10,2,creet,creet,–,krEɛT,c.r.e.e.t,pro,VERcjg,VERcjg,indpsp3,créire,DOM,,9,"PrVierge3, l. 9",,,
+44,10,3,serp_en,serpen,–,SErpEn,s.e.r.p.e.n,pro,NOMcom,NOMcom,smr,serpén,DOM,,9,"PrVierge3, l. 9",,</l>,
+45,11,1,un,un,+,yn,u.n,pro,DETndf,DETndf,smr,uN,DOM,,10,"PrVierge3, l. 10",,,<l n=&quot;10&quot;>
+46,11,2,a_gel,agel,–,AʤEl,a.g.e.l,pro,NOMcom,NOMcom,smr,angel,DOM,,10,"PrVierge3, l. 10",,,
+47,11,3,resplanden,resplanden,–|,rESpLÆNdEn,r.e.s.p.l.a.n.d.e.n,pro,VERppa,VERppa,smr,resplandir,DOM,,10,"PrVierge3, l. 10",,</l>,
+48,12,1,P[er],per,_,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,11,"PrVierge3, l. 11",,,<lb/><l n=&quot;11&quot;>
+49,12,2,so,so,+,Sɔ,s.o,pro,PRNdem,PRNdem,,so,DOM,,11,"PrVierge3, l. 11",,,
+50,12,3,nos,nos,_,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,11,"PrVierge3, l. 11",,,
+51,12,4,en,en,+,ÆN,e.n,pro,PRCadv,PRCadv,,én3,DOM,,11,"PrVierge3, l. 11",,,
+52,12,5,uai,vai,_,vAi,v.a.i,pro,VERcjg,VERcjg,indpst0,anar,DOM,,11,"PrVierge3, l. 11",,,
+53,12,6,gen,gen,–,ʤEn,g.e.n,pro,ADJqua,ADVgen,,gén2,DOM,,11,"PrVierge3, l. 11",,</l>,
+54,13,1,deus,deus,–,dɛuS,d.e.u.s,pro,NOMpro,NOMpro,smn,dèu,DOM,,12,"PrVierge3, l. 12",,,<l n=&quot;12&quot;>
+55,13,2,n,n,+,n,n,pro,PRCadv,PRCadv,,én3,DOM,,12,"PrVierge3, l. 12",,,
+56,13,3,es,es,–,ES,e.s,pro,VERcjg,VERcjg,indpst3,èser,DOM,,12,"PrVierge3, l. 12",,,
+57,13,4,om,om,–,Om,o.m,pro,NOMcom,NOMcom,smn,óme,DOM,,12,"PrVierge3, l. 12",,,
+58,13,5,ueramen,veramen,_,vErAmEn,v.e.r.a.m.e.n,pro,ADVgen,ADVgen,,veramén,DOM,,12,"PrVierge3, l. 12",,</l></lg>,
+59,14,1,Car,car,+,kAr,c.a.r,pro,CONcoo,CONcoo,,car3,DOM,,13,"PrVierge3, l. 13",,,<lg n=&quot;4&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;13&quot;>
+60,14,2,de,de,_,dE,d.e,pro,PRE,PRE,,de,DOM,,13,"PrVierge3, l. 13",,,
+61,14,3,femna,femna,_,fEmnA,f.e.m.n.a,pro,NOMcom,NOMcom,sfr,fémna,DOM,,13,"PrVierge3, l. 13",,,
+62,14,4,nas_quet,nasquet,–|,nASkɛT,n.a.s.qu.e.t,pro,VERcjg,VERcjg,indpsp3,naiser,DOM,,13,"PrVierge3, l. 13",,</l>,
+63,15,1,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,NOMpro,smn,dèu,DOM,,14,"PrVierge3, l. 14",,,<pb n=&quot;49v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f106.item&quot;/><lb/><l n=&quot;14&quot;>
+64,15,2,la,la,+,LA,l.a,pro,DETdef,DETdef,sfr,la,DOM,,14,"PrVierge3, l. 14",,,
+65,15,3,femna,femna,_,fEmnA,f.e.m.n.a,pro,NOMcom,NOMcom,sfr,fémna,DOM,,14,"PrVierge3, l. 14",,,
+66,15,4,saluet,salvet,–,SALvɛT,s.a.l.v.e.t,pro,VERcjg,VERcjg,indpsp3,salvar,DOM,,14,"PrVierge3, l. 14",,</l>,
+67,16,1,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,15,"PrVierge3, l. 15",,,<l n=&quot;15&quot;>
+68,16,2,pre,pre,_,prE,p.r.e,pro,PRE,PRE,,pér,DOM,,15,"PrVierge3, l. 15",lemma_SponsT:239,,
+69,16,3,quo,quo,_,kɔ,qu.o,pro,PRNdem,PRNdem,,aco,DOM,,15,"PrVierge3, l. 15",lemma_SponsT:239,,
+70,16,4,nas_quet,nasquet,_,nASkɛT,n.a.s.qu.e.t,pro,VERcjg,VERcjg,indpsp3,naiser,DOM,,15,"PrVierge3, l. 15",,,
+71,16,5,hom,hom,–,Om,ho.m,pro,NOMcom,NOMcom,smn,óme,DOM,,15,"PrVierge3, l. 15",,</l>,
+72,17,1,que,que,_,kE,qu.e,pro,CONsub,CONsub,,que2,DOM,,16,"PrVierge3, l. 16",,,<l n=&quot;16&quot;>
+73,17,2,garit,garit,_,gAriT,g.a.r.i.t,pro,VERppe,VERppe,smn,garir,DOM,,16,"PrVierge3, l. 16",,,
+74,17,3,en,en,+,ÆN,e.n,pro,PRCadv,PRCadv,,én3,DOM,,16,"PrVierge3, l. 16",,,
+75,17,4,fos,fos,–|,foS,f.o.s,pro,VERcjg,VERcjg,subipf3,èser,DOM,,16,"PrVierge3, l. 16",,,
+76,17,5,hom,hom,_,Om,ho.m,pro,NOMcom,NOMcom,smn,óme,DOM,,16,"PrVierge3, l. 16",,</l></lg>,<lb/>
+77,18,1,Eua,eva,_,ɛvA,e.v.a,pro,NOMpro,NOMpro,sfn,Ève,,,17,"PrVierge3, l. 17",,,<lg n=&quot;5&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;17&quot;>
+78,18,2,moler,moler,_,mOlɛr,m.o.l.e.r,pro,NOMcom,NOMcom,sfn,molhèr,DOM,,17,"PrVierge3, l. 17",,,
+79,18,3,adam,adam,–,AdAm,a.d.a.m,pro,NOMcom,NOMcom,smr,Adam,,,17,"PrVierge3, l. 17",,</l>,
+80,19,1,quar,quar,_,kAr,qu.a.r,pro,CONcoo,CONcoo,,car3,DOM,,18,"PrVierge3, l. 18",,,<l n=&quot;18&quot;>
+81,19,2,cre_et,creet,–,krEɛT,c.r.e.e.t,pro,VERcjg,VERcjg,indpsp3,créire,DOM,,18,"PrVierge3, l. 18",,,
+82,19,3,lo,lo,+,LO,l.o,pro,DETdef,DETdef,smr,lo2,DOM,,18,"PrVierge3, l. 18",,,
+83,19,4,setam,setam,–,SEtAm,s.e.t.a.m,pro,NOMcom,NOMcom,smr,satan,DOM,,18,"PrVierge3, l. 18",,</l>,
+84,20,1,nos,nos,+,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,19,"PrVierge3, l. 19",,,<l n=&quot;19&quot;>
+85,20,2,mes,mes,–,meS,m.e.s,pro,VERcjg,VERcjg,indpsp3,métre,DOM,,19,"PrVierge3, l. 19",,,
+86,20,3,en,en,+,ÆN,e.n,pro,PRE,PRE,,én,DOM,,19,"PrVierge3, l. 19",,,
+87,20,4,tal,tal,_,tAl,t.a.l,pro,DETind,DETind,smr,tal,DOM,,19,"PrVierge3, l. 19",,,
+88,20,5,afan,afan,–|,AfAn,a.f.a.n,pro,NOMcom,NOMcom,smr,afan,DOM,,19,"PrVierge3, l. 19",,</l>,
+89,21,1,p[er],per,_,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,20,"PrVierge3, l. 20",,,<lb/><l n=&quot;20&quot;>
+90,21,2,qu,qu,+,k,qu,pro,PRNrel,PRNrel,,que,DOM,,20,"PrVierge3, l. 20",,,
+91,21,3,a_uem,avem,_,AvEm,a.v.e.m,pro,VERcjg,VERcjg,indpst4,avér,DOM,,20,"PrVierge3, l. 20",,,
+92,21,4,set,set,_,SeT,s.e.t,pro,NOMcom,NOMcom,sfr,sét,DOM,,20,"PrVierge3, l. 20",,,
+93,21,5,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,20,"PrVierge3, l. 20",,,
+94,21,6,fam,fam,_,fAm,f.a.m,pro,NOMcom,NOMcom,sfr,fam,DOM,,20,"PrVierge3, l. 20",,</l></lg>,
+95,22,1,E_ua,eva,_,ɛvA,e.v.a,pro,NOMpro,NOMpro,,Ève,,,21,"PrVierge3, l. 21",,,<lg n=&quot;6&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;21&quot;>
+96,22,2,mot,mot,_,moT,m.o.t,pro,ADVgen,ADVgen,,mólt,DOM,,21,"PrVierge3, l. 21",,,
+97,22,3,foleet,foleet,–,fOlEɛT,f.o.l.e.e.t,pro,VERcjg,VERcjg,indpsp3,folejar,DOM,,21,"PrVierge3, l. 21",,</l>,
+98,23,1,quar,quar,_,kAr,qu.a.r,pro,CONcoo,CONcoo,,car,DOM,,22,"PrVierge3, l. 22",,,<l n=&quot;22&quot;>
+99,23,2,de,de,+,dE,d.e,pro,PRE,PRE,,de,DOM,,22,"PrVierge3, l. 22",,,
+100,23,3,queu,queu,_,keu,qu.e.u,pro,DETdem,DETdem,smr,aquél,DOM,,22,"PrVierge3, l. 22",,,
+101,23,4,frut,frut,_,fryT,f.r.u.t,pro,NOMcom,NOMcom,smr,fruch,DOM,,22,"PrVierge3, l. 22",,,
+102,23,5,m_iet[=meniet],manjet,–|,mÆNʤɛT,m.a.n.j.e.t,pro,VERcjg,VERcjg,indpsp3,manjar,DOM,,22,"PrVierge3, l. 22",,</l>,
+103,24,1,Que,que,_,kE,qu.e,pro,PRNrel,PRNrel,smr,que,DOM,,23,"PrVierge3, l. 23",,,<lb/><l n=&quot;23&quot;>
+104,24,2,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,NOMpro,smn,dèu,DOM,,23,"PrVierge3, l. 23",,,
+105,24,3,li,li,+,Li,l.i,pro,PRCper,PRCper,3sfi,li4,DOM,,23,"PrVierge3, l. 23",,,
+106,24,4,deue_det,devedet,–,dEvEdɛT,d.e.v.e.d.e.t,pro,VERcjg,VERcjg,indpsp3,devedar,DOM,,23,"PrVierge3, l. 23",,</l>,
+107,25,1,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,24,"PrVierge3, l. 24",,,<l n=&quot;24&quot;>
+108,25,2,cel,cel,_,Sel,c.e.l,pro,PRNdem,PRNdem,smr,cel2,DOM,,24,"PrVierge3, l. 24",,,
+109,25,3,que,que,_,kE,qu.e,pro,PRNrel,PRNrel,smn,que,DOM,,24,"PrVierge3, l. 24",,,
+110,25,4,la,la,+,LA,l.a,pro,DETdef,DETdef,3sfr,la2,DOM,,24,"PrVierge3, l. 24",,,
+111,25,5,creet,creet,_,krEɛT,c.r.e.e.t,pro,VERcjg,VERcjg,indpsp3,créire,DOM,,24,"PrVierge3, l. 24",lemma_BrunPrVierge:414,</l></lg>,
+112,26,1,E,e,_,E,e,pro,CONcoo,CONcoo,,e,DOM,,25,"PrVierge3, l. 25",,,<lg n=&quot;7&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;25&quot;>
+113,26,2,c,c,+,S,c,pro,CONsub,CONsub,,si,DOM,,25,"PrVierge3, l. 25",,,
+114,26,3,el,el,_,el,e.l,pro,PRNper,PRNper,6pmn,els2,DOM,,25,"PrVierge3, l. 25",,,
+115,26,4,no,no,+,nO,n.o,pro,ADVneg,ADVneg,,nóN,DOM,,25,"PrVierge3, l. 25",,,
+116,26,5,l,l,_,L,l,pro,PRCper,PRCper,3sma,lo3,DOM,,25,"PrVierge3, l. 25",,,
+117,26,6,an,an,+,ÆN,a.n,pro,PRCadv,PRCadv,,én3,DOM,,25,"PrVierge3, l. 25",,,
+118,26,7,cre_es,crees,–,krEɛS,c.r.e.e.s,pro,VERcjg,VERcjg,subipf3,créire,DOM,,25,"PrVierge3, l. 25",,</l>,
+119,27,1,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,26,"PrVierge3, l. 26",,,<l n=&quot;26&quot;>
+120,27,2,de,de,+,dE,d.e,pro,PRE,PRE,,de,DOM,,26,"PrVierge3, l. 26",,,
+121,27,3,u,u,_,u,u,pro,DETdef,DETdef,smr,lo2,DOM,,26,"PrVierge3, l. 26",,,
+122,27,4,fruit,fruit,–|,fryiT,f.r.u.i.t,pro,NOMcom,NOMcom,smr,fruch,DOM,,26,"PrVierge3, l. 26",,,
+123,27,5,no,no,_,nO,n.o,pro,ADVneg,ADVneg,,nóN,DOM,,26,"PrVierge3, l. 26",,,<lb/>
+124,27,6,man_ies,manjes,_,mÆNʤɛS,m.a.n.j.e.s,pro,VERcjg,VERcjg,subipf3,manjar,DOM,,26,"PrVierge3, l. 26",,</l>,
+125,28,1,Ia,ja,+,ʤA,j.a,pro,ADVgen,ADVgen,,ja,DOM,,27,"PrVierge3, l. 27",,,<l n=&quot;27&quot;>
+126,28,2,no,no,_,nO,n.o,pro,ADVneg,ADVneg,,nóN,DOM,,27,"PrVierge3, l. 27",,,
+127,28,3,murira,murira,_,mOrirA,m.u.r.i.r.a,pro,VERcjg,VERcjg,indfut3,morir,DOM,,27,"PrVierge3, l. 27",,,
+128,28,4,hom,hom,–,Om,ho.m,pro,NOMcom,NOMcom,smn,óme,DOM,,27,"PrVierge3, l. 27",,</l>,
+129,29,1,chi,chi,_,ki,ch.i,pro,PRNrel,PRNrel,smn,qui,DOM,,28,"PrVierge3, l. 28",,,<l n=&quot;28&quot;>
+130,29,2,ames,ames,_,AmɛS,a.m.e.s,pro,VERcjg,VERcjg,subipf3,amar,DOM,,28,"PrVierge3, l. 28",,,
+131,29,3,nostre,nostre,_,nɔStrE,n.o.s.t.r.e,pro,DETpos,DETpos,4smr,nòstre,DOM,,28,"PrVierge3, l. 28",,,
+132,29,4,don,don,_,dOn,d.o.n,pro,NOMcom,NOMcom,smr,dóN,DOM,,28,"PrVierge3, l. 28",,</l></lg>,
+133,30,1,Mas,mas,+,mAS,m.a.s,pro,CONcoo,CONcoo,,mais,DOM,,29,"PrVierge3, l. 29",,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;29&quot;>
+134,30,2,tan,tan,_,tAn,t.a.n,pro,ADVgen,ADVgen,,tan,DOM,,29,"PrVierge3, l. 29",,,
+135,30,3,fora,fora,–|,forA,f.o.r.a,pro,VERcjg,VERcjg,indpqp3,èser,DOM,,29,"PrVierge3, l. 29",,,
+136,30,4,de,de,_,dE,d.e,pro,PRE,PRE,,de,DOM,,29,"PrVierge3, l. 29",,,<lb/>
+137,30,5,gen,gen,_,ʤEn,g.e.n,pro,NOMcom,NOMcom,sfr,gén,DOM,,29,"PrVierge3, l. 29",,</l>,
+138,31,1,ch,ch,+,k,ch,pro,PRNrel,PRNrel,sfn,que,DOM,,30,"PrVierge3, l. 30",,,<l n=&quot;30&quot;>
+139,31,2,auera,avera,_,Avɛra,a.v.e.r.a,pro,VERcjg,VERcjg,indpqp3,avér,DOM,,30,"PrVierge3, l. 30",,,
+140,31,3,garimen,garimen,_,gArimEn,g.a.r.i.m.e.n,pro,NOMcom,NOMcom,smr,garimén,DOM,,30,"PrVierge3, l. 30",,</l>,
+141,32,1,Cil,cil,_,Sil,c.i.l,pro,PRNdem,PRNdem,6pmn,cél2,DOM,,31,"PrVierge3, l. 31",,,<l n=&quot;31&quot;>
+142,32,2,chi,chi,_,ki,ch.i,pro,PRNrel,PRNrel,pmn,qui,DOM,,31,"PrVierge3, l. 31",,,
+143,32,3,p[er]dut,perdut,–,pErdyT,p.e.r.d.u.t,pro,VERppe,VERppe,pmn,pèrdre,DOM,,31,"PrVierge3, l. 31",,,
+144,32,4,seran,seran,_,SErAn,s.e.r.a.n,pro,VERcjg,VERcjg,indfut6,èser,DOM,,31,"PrVierge3, l. 31",,</l>,
+145,33,1,ia,ja,_,ʤA,j.a,pro,ADVgen,ADVgen,,ja,DOM,,32,"PrVierge3, l. 32",,,<l n=&quot;32&quot;>
+146,33,2,per,per,+,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,32,"PrVierge3, l. 32",,,
+147,33,3,re,re,_,re,r.e,pro,NOMcom,NOMcom,sfr,réN,DOM,,32,"PrVierge3, l. 32",,,
+148,33,4,no,no,_,nO,n.o,pro,ADVgen,ADVgen,,nóN,DOM,,32,"PrVierge3, l. 32",,,
+149,33,5,foran,foran,–|,forAn,f.o.r.a.n,pro,VERcjg,VERcjg,indpqp6,èser,DOM,,32,"PrVierge3, l. 32",,</l></lg>,
+150,34,1,Adam,adam,_,AdAm,a.d.a.m,pro,NOMpro,NOMpro,smn,Adam,,,33,"PrVierge3, l. 33",,,<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;33&quot;>
+151,34,2,meniet,menjet,_,mÆNʤɛT,m.e.n.j.e.t,pro,VERcjg,VERcjg,indpsp3,manjar,DOM,,33,"PrVierge3, l. 33",,,
+152,34,3,lo,lo,_,LO,l.o,pro,DETdef,DETdef,smr,lo2,DOM,,33,"PrVierge3, l. 33",,,
+153,34,4,fruit,fruit,–,fryiT,f.r.u.i.t,pro,NOMcom,NOMcom,smr,fruch,DOM,,33,"PrVierge3, l. 33",,</l>,
+154,35,1,p[er],per,_,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,34,"PrVierge3, l. 34",,,<l n=&quot;34&quot;>
+155,35,2,que,que,_,kE,qu.e,pro,PRNrel,PRNrel,smr,que,DOM,,34,"PrVierge3, l. 34",,,
+156,35,3,fom,fom,_,fOm,f.o.m,pro,VERcjg,VERcjg,indpsp4,èser,DOM,,34,"PrVierge3, l. 34",,,
+157,35,4,tuit,tuit,–,tyiT,t.u.i.t,pro,PRNind,PRNind,pmn,tót,DOM,,34,"PrVierge3, l. 34",,,
+158,35,5,p[er]dut,perdut,_,pErdyT,p.e.r.d.u.t,pro,VERppe,VERppe,pmn,pèrdre,DOM,,34,"PrVierge3, l. 34",,</l>,
+159,36,1,Adam,adam,_,AdAm,a.d.a.m,pro,NOMpro,NOMpro,smn,Adam,,,35,"PrVierge3, l. 35",,,<l n=&quot;35&quot;>
+160,36,2,no,no,_,nO,n.o,pro,ADVneg,ADVneg,,nóN,DOM,,35,"PrVierge3, l. 35",,,
+161,36,3,creet,creet,–|,krEɛT,c.r.e.e.t,pro,VERcjg,VERcjg,indpsp3,créire,DOM,,35,"PrVierge3, l. 35",,,
+162,36,4,deu,deu,–,dɛu,d.e.u,pro,NOMpro,NOMpro,smr,dèu,DOM,,35,"PrVierge3, l. 35",,</l>,<lb/>
+163,37,1,a,a,+,A,a,pro,PRE,PRE,,a2,DOM,,36,"PrVierge3, l. 36",,,<l n=&quot;36&quot;>
+164,37,2,tot,tot,_,toT,t.o.t,pro,PRNind,PRNind,pmr,tót,DOM,,36,"PrVierge3, l. 36",,,
+165,37,3,nos,nos,_,nOS,n.o.s,pro,PRNper,PRNper,4pmr,nós,DOM,,36,"PrVierge3, l. 36",,,
+166,37,4,en,en,_,ÆN,e.n,pro,PRCadv,PRCadv,,én3,DOM,,36,"PrVierge3, l. 36",,,
+167,37,5,uai,vai,_,vAi,v.a.i,pro,VERcjg,VERcjg,indpst0,anar,DOM,,36,"PrVierge3, l. 36",,,
+168,37,6,greu,greu,_,grɛu,g.r.e.u,pro,ADVgen,ADVgen,,grèu,DOM,,36,"PrVierge3, l. 36",,</l></lg>,
+169,38,1,Deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,NOMpro,smn,dèu,DOM,,37,"PrVierge3, l. 37",,,<lg n=&quot;10&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;37&quot;>
+170,38,2,receubt,receubt,–,rEseuPT,r.e.c.e.u.b.t,pro,VERcjg,VERcjg,indpsp3,recébre,DOM,,37,"PrVierge3, l. 37",,,
+171,38,3,p[er],per,+,pEr,p.e.r,pro,PRE,PRE,,pér,DOM,,37,"PrVierge3, l. 37",,,
+172,38,4,lui,lui,–,Lyi,l.u.i,pro,PRNper,PRNper,3smr,lui,DOM,,37,"PrVierge3, l. 37",,,
+173,38,5,mort,mort,–,mɔrT,m.o.r.t,pro,NOMcom,NOMcom,sfr,mòrt,DOM,,37,"PrVierge3, l. 37",,</l>,
+174,39,1,e,e,+,E,e,pro,PRE,PRE,,én,DOM,,38,"PrVierge3, l. 38",,,<l n=&quot;38&quot;>
+175,39,2,la,la,+,LA,l.a,pro,DETdef,DETdef,sfr,la,DOM,,38,"PrVierge3, l. 38",,,
+176,39,3,crot,crot,_,kroT,c.r.o.t,pro,NOMcom,NOMcom,sfr,crotz,DOM,,38,"PrVierge3, l. 38",,,
+177,39,4,a,a,+,A,a,pro,PRE,PRE,,a2,DOM,,38,"PrVierge3, l. 38",,,
+178,39,5,gran,gran,|,grAn,g.r.a.n,pro,ADJqua,ADJqua,smr,gran,DOM,,38,"PrVierge3, l. 38",,,
+179,39,6,tort,tort,_,tɔrT,t.o.r.t,pro,NOMcom,NOMcom,smr,tòrt,DOM,,38,"PrVierge3, l. 38",,</l>,<lb/>
+180,40,1,E,e,_,E,e,pro,CONcoo,CONcoo,,e,DOM,,39,"PrVierge3, l. 39",,,<l n=&quot;39&quot;>
+181,40,2,re_sors,resors,_,rEzorS,r.e.s.o.r.s,pro,VERcjg,VERcjg,indpsp3,resórzer,DOM,,39,"PrVierge3, l. 39",,,
+182,40,3,a,a,+,A,a,pro,PRE,PRE,,a2,DOM,,39,"PrVierge3, l. 39",,,
+183,40,4,l,l,+,L,l,pro,DETdef,DETdef,smr,lo2,DOM,,39,"PrVierge3, l. 39",,,
+184,40,5,tert,tert,–,tɛrT,t.e.r.t,pro,ADJord,ADJord,smr,tèrtz,DOM,,39,"PrVierge3, l. 39",,,
+185,40,6,dia,dia,–,diA,d.i.a,pro,NOMcom,NOMcom,smr,dia,DOM,,39,"PrVierge3, l. 39",,</l>,
+186,41,1,si,si,+,Si,s.i,pro,ADVgen,ADVgen,,si2,DOM,,40,"PrVierge3, l. 40",,,<l n=&quot;40&quot;>
+187,41,2,cum,cum,–,kOm,c.u.m,pro,CONsub,CONsub,,cóm,DOM,,40,"PrVierge3, l. 40",,,
+188,41,3,o,o,+,O,o,pro,PRCdem,PRCdem,,o2,DOM,,40,"PrVierge3, l. 40",,,
+189,41,4,dii,dii,_,dii,d.i.i,pro,VERcjg,VERcjg,indpst3,dire,DOM,,40,"PrVierge3, l. 40",,,
+190,41,5,maria,maria,_,mAriA,m.a.r.i.a,pro,NOMpro,NOMpro,sfr,Marie,,,40,"PrVierge3, l. 40",,</l></lg>,
+191,42,1,A,a,+,A,a,pro,PRE,PRE,,a2,DOM,,41,"PrVierge3, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>
+192,42,2,ut,ut,_,uT,u.t,pro,DETdef,DETdef,pmr,los,DOM,,41,"PrVierge3, l. 41",phon_SponsT:106-107,,
+193,42,3,apostols,apostols,–|,ApɔStOLS,a.p.o.s.t.o.l.s,pro,NOMcom,NOMcom,pmr,apòstol,DOM,,41,"PrVierge3, l. 41",,,
+194,42,4,cum_tet,cumtet,–,kONtɛT,c.u.m.t.e.t,pro,VERcjg,VERcjg,indpsp3,comtar,DOM,,41,"PrVierge3, l. 41",,</l>,<pb n=&quot;50r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f107.item&quot;/><lb/>
+195,43,1,e,e,+,E,e,pro,CONcoo,CONcoo,,e,DOM,,42,"PrVierge3, l. 42",,,<l n=&quot;42&quot;>
+196,43,2,dis,dis,–,diS,d.i.s,pro,VERcjg,VERcjg,indpsp3,dire,DOM,,42,"PrVierge3, l. 42",,,
+197,43,3,c,c,+,k,c,pro,CONsub,CONsub,,que2,DOM,,42,"PrVierge3, l. 42",,,
+198,43,4,ap,ap,_,AP,a.p,pro,PRE,PRE,,ab,DOM,,42,"PrVierge3, l. 42",,,
+199,43,5,deu,deu,–,dɛu,d.e.u,pro,NOMpro,NOMpro,smr,dèu,DOM,,42,"PrVierge3, l. 42",,,
+200,43,7,parlet,parlet,–,pArLɛT,p.a.r.l.e.t,pro,VERcjg,VERcjg,indpsp3,parlar,DOM,,42,"PrVierge3, l. 42",,</l>,
+201,44,1,qu,qu,+,k,qu,pro,CONsub,CONsub,,que2,DOM,,43,"PrVierge3, l. 43",,,<l n=&quot;43&quot;>
+202,44,2,e,e,+,E,e,pro,PRE,PRE,,én,DOM,,43,"PrVierge3, l. 43",,,
+203,44,3,u,u,+,u,u,pro,DETdef,DETdef,smr,lo2,DOM,,43,"PrVierge3, l. 43",,,
+204,44,4,poi,poi,–,pɔi,p.o.i,pro,NOMcom,NOMcom,smr,pòg,DOM,,43,"PrVierge3, l. 43",,,
+205,44,5,de,de,+,dE,d.e,pro,PRE,PRE,,de,DOM,,43,"PrVierge3, l. 43",,,
+206,44,6,galilea,galilea,–,gAlilEA,g.a.l.i.l.e.a,pro,NOMpro,NOMpro,sfr,Galilée,,,43,"PrVierge3, l. 43",,</l>,
+207,45,1,uiu,viu,_,viu,v.i.u,pro,ADJqua,ADJqua,smr,viu,DOM,,44,"PrVierge3, l. 44",,,<l n=&quot;44&quot;>
+208,45,2,lo,lo,+,LO,l.o,pro,PRCper,PRCper,3smr,lo3,DOM,,44,"PrVierge3, l. 44",,,
+209,45,3,uerem,verem,_,vErEm,v.e.r.e.m,pro,VERcjg,VERcjg,indfut4,vezér,DOM,,44,"PrVierge3, l. 44",,,
+210,45,4,an–|gera,angera,_,ÆNgɛrA,a.n.g.e.r.a,pro,ADVgen,ADVgen,,ancar,DOM,,44,"PrVierge3, l. 44",,</l></lg>,
+211,46,1,Vida,vida,_,vidA,v.i.d.a,pro,NOMcom,NOMcom,sfn,vida,DOM,,45,"PrVierge3, l. 45",,,<lb/><lg n=&quot;12&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;45&quot;>
+212,46,2,qui,qui,_,ki,qu.i,pro,PRNrel,PRNrel,sfn,qui,DOM,,45,"PrVierge3, l. 45",,,
+213,46,3,mort,mort,_,mɔrT,m.o.r.t,pro,NOMcom,NOMcom,sfr,mòrt,DOM,,45,"PrVierge3, l. 45",,,
+214,46,4,aucis,aucis,–,AusiS,a.u.c.i.s,pro,VERcjg,VERcjg,indpsp3,aucire,DOM,,45,"PrVierge3, l. 45",,</l>,
+215,47,1,nos,nos,–,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,46,"PrVierge3, l. 46",,,<l n=&quot;46&quot;>
+216,47,2,donet,donet,_,dOnɛT,d.o.n.e.t,pro,VERcjg,VERcjg,indpsp3,donar,DOM,,46,"PrVierge3, l. 46",,,
+217,47,3,paradis,paradis,–,pArAdiS,p.a.r.a.d.i.s,pro,NOMcom,NOMcom,smr,paradis,DOM,,46,"PrVierge3, l. 46",,</l>,
+218,48,1,gloria,gloria,_,gLOriA,g.l.o.r.i.a,pro,NOMcom,NOMcom,sfr,gloria,DOM,,47,"PrVierge3, l. 47",,,<l n=&quot;47&quot;>
+219,48,2,aisamen,aisamen,_,AisAmEn,a.i.s.a.m.e.n,pro,ADVgen,ADVgen,,aisamen,DOM,,47,"PrVierge3, l. 47",,</l>,
+220,49,1,nos,nos,–|,nOS,n.o.s,pro,PRCper,PRCper,4pmr,nós,DOM,,48,"PrVierge3, l. 48",,,<l n=&quot;48&quot;>
+221,49,2,do,do,–,do,d.o,pro,VERcjg,VERcjg,subpst3,donar,DOM,,48,"PrVierge3, l. 48",,,<lb/>
+222,49,3,deus,deus,_,dɛuS,d.e.u.s,pro,NOMpro,NOMpro,smn,dèu,DOM,,48,"PrVierge3, l. 48",,,
+223,49,4,ueramen,veramen,–,vErAmEn,v.e.r.a.m.e.n,pro,ADVgen,ADVgen,,veramén,DOM,,48,"PrVierge3, l. 48",,</l></lg></body></text>,

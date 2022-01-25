@@ -8,12 +8,12 @@ The texts were written by a scribe from the north of the Limousin
 [@SponsusA: 27]. The provenance of the *Sponsus* text is northern, but it
 is not clear where from. Avalle ([~@SponsusA: 27-45]) argues for a 
 south-western origin, primarily on the basis of a lack of evidence that
-the digraph 〈ie〉 actually represents the diphthong /iE/; Thomas (~@SponsusT)
+the digraph 〈ie〉 actually represents the diphthong /iE/; Thomas ([~@SponsusT])
 argues less convincingly that it is Norman, based on parallels with the 
 language of the *Alexis* manuscript, which shows at least a graphical fusion
 of these vowels.
 
-Thomas (~@SponsusT) argues that words within the lines of the *Sponsus* are
+Thomas ([~@SponsusT]) argues that words within the lines of the *Sponsus* are
 all Limousin in origin, noting the retention of tonic free /a/ as 〈ie〉.
 Only the rhymes and a few isolated words with the lines are clearly northern
 in origin.
@@ -35,7 +35,7 @@ end of the line in *Sponsus*, and of the three cases of á[ > 〈a〉 given by
 Thomas, only *preiat* is valid within the *Sponsus* itself. The other
 three texts show no trace of á[ > 〈e〉.
 
-Avalle (~@SponsusA: 28-40) argues that there is comparatively little evidence
+Avalle ([~@SponsusA: 28-40]) argues that there is comparatively little evidence
 that Poitevin ever saw the diphthongization of /ɛ/ > /iɛ/; its reduction is
 in any case general. Reflexes of palatal + á[ then also do not diphthongize 
 and remain as /ɛ/.
@@ -44,6 +44,15 @@ In the absence of clear evidence, the transcription /ɛ/ is used for all
 reflexes of á[ in *Sponsus*. This also fits with the fact that it assonates
 with person 5 verb endings of non *-ar* verbs, which would contain an
 /ɛ/ vowel in Occitan.
+
+### EN > AN
+
+There are sporadic in *PrVierge3* in closed atonic syllables, including
+one in which 〈en〉 is used for /AN/. In this text, the /Æ/ transcription is
+therefore used (cf. *Alexis*). See [@SponsusT:95].
+
+In *PrVierge2* there are two cases at the tonic and the rhyme both involving
+〈an〉 for /EN/. These are transcribed following the spelling as /AN/.
 
 Consonants
 ----------
@@ -69,3 +78,10 @@ expected cases of final 〈s〉.
 
 In onset position, 〈s〉 and 〈c〉 are occasionally confused in all texts.
 This is taken as evidence that /Ç/ and /S/ have merged; /S/ is transcribed.
+
+### Final devoicing
+
+It is possible that final devoicing does not apply: Thomas notes the retention
+of 〈b〉 in 〈sab〉 and 〈chab〉, commenting that "aucun autre exemple de cet
+état archaïque ne se trouve dans ces différents textes, mais rien non plus
+le contredit" ([~@SponsusT: 97]).
