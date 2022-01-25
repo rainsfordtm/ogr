@@ -71,14 +71,14 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 70,12,1,PRUde[n]tes,prudentes,|,,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 53v, rubric",,</speaker>,<sp><speaker>
 71,13,1,Oiet,oiet,–,OiɛT,o.i.e.t,/O\i.'/ɛ\T,,pro,11,VERcjg,VERcjg,imp---5,auzir,DOM,ouïr,"Spons, l. 11",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;11&quot;>
 72,13,2,uirgines,virgines,–,virʤinES,v.i.r.g.i.n.e.s,v/i\r.'ʤ/i\.n/E\S,,pro,11,NOMcom,NOMcom,pfn,vergena,DOM,virgine2,"Spons, l. 11",,,
-73,13,3,aiso,aiso,–,AisO,a.i.s.o,/A\i.'s/O\,,pro,11,PRNdem,PRNdem,snr,aisso,DOM,ce,"Spons, l. 11",,,
-74,13,4,que,que,+,kE,qu.e,k/E\,,pro,11,PRNrel,PRNrel,snr,que,DOM,que,"Spons, l. 11",,,
-75,13,5,uos,vos,–,voS,v.o.s,v/o\S,,pro,11,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 11",,,
+73,13,3,aiso,aiso,–,Aisɔ,a.i.s.o,/A\i.'s/ɔ\,,pro,11,PRNdem,PRNdem,snr,aisso,DOM,ce,"Spons, l. 11",,,
+74,13,4,que,que,+,kE,qu.e,k/(E)\,,pro,11,PRNrel,PRNrel,snr,que,DOM,que,"Spons, l. 11",,,
+75,13,5,uos,vos,–,vOS,v.o.s,v/O\S,,pro,11,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 11",,,
 76,13,6,dirum,dirum,–,dirOm,d.i.r.u.m,d/i\.'r/O\m,,pro,11,VERcjg,VERcjg,indfut4,dire,DOM,dire,"Spons, l. 11",,</l>,
-77,14,1,aisex,aisex,–,AisET,a.i.s.e.x,/A\i.'s/ɛ\T,,pro,12,VERcjg,VERcjg,imp---5,aisir,DOM,,"Spons, l. 12",transcription_SponsusA:59 lemma:SponsusT:243,,<l n=&quot;12&quot;>
+77,14,1,aisex,aisex,–,AisɛT,a.i.s.e.x,/A\i.'s/ɛ\T,,pro,12,VERcjg,VERcjg,imp---5,aisir,DOM,,"Spons, l. 12",transcription_SponsusA:59 lemma:SponsusT:243,,<l n=&quot;12&quot;>
 78,14,2,presen,presen,–,prEzEn,p.r.e.s.e.n,pr/E\.'z/E\n,p-.r-.e[.-s-.è].-n(-s),pro,12,ADJqua,ADVgen,,prezén,DOM,présent,"Spons, l. 12",,,
-79,14,3,que,que,+,kE,qu.e,k/E\,,pro,12,CONsub,CONsub,,que2,DOM,que,"Spons, l. 12",,,
-80,14,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,12,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 12",,,
+79,14,3,que,que,+,kE,qu.e,k/(E)\,,pro,12,CONsub,CONsub,,que2,DOM,que,"Spons, l. 12",,,
+80,14,4,uos,vos,–,vOS,v.o.s,v/O\S,,pro,12,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 12",,,
 81,14,5,co–|mandarum,comandarum,–,kOmANdArOm,c.o.m.a.n.d.a.r.u.m,k/O\.m/A\N.d/A\.'r/O\m,,pro,12,VERcjg,VERcjg,indfut4,comandar,DOM,commander,"Spons, l. 12",,</l>,
 82,15,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,13,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Spons, l. 13",,,<lb/><l n=&quot;13&quot;>
 83,15,2,un,un,+,yN,u.n,/y\N,,pro,13,DETndf,DETndf,smr,uN,DOM,un,"Spons, l. 13",,,
@@ -88,12 +88,12 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 87,15,6,a,a,+,A,a,/A\,,pro,13,VERcjg,VERcjg,indpst3,avér,DOM,avoir,"Spons, l. 13",,,
 88,15,7,nom,nom,_,nOm,n.o.m,n/O\m,n-.ó[.-m-(e[),pro,13,NOMcom,NOMcom,smr,nóm,DOM,nom,"Spons, l. 13",,</l>,
 89,16,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,14,ADVgen,ADVgen,,gaire,DOM,guère,"Spons, l. 14",,,<l n=&quot;14&quot;>
-90,16,2,no,no,+,no,n.o,n/o\,,pro,14,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 14",,,
+90,16,2,no,no,+,nO,n.o,n/O\,,pro,14,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 14",,,
 91,16,3,i,i,–|,i,i,/\i,,pro,14,PRCadv,PRCadv,,i,DOM,y2,"Spons, l. 14",,,
 92,16,4,dormet,dormet,–,dOrmɛT,d.o.r.m.e.t,d/O\r.'m/ɛ\T,d-.ò].-r.m-.è[.-t-(e[)(-s-),pro,14,VERcjg,VERcjg,imp---5,dormir,DOM,dormir,"Spons, l. 14",,</l></lg>,<pb n=&quot;54r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f115.item&quot;/><lb/>
 93,17,1,Aisel,aisel,–,Aisel,a.i.s.e.l,/A\i.'s/e\l,,pro,15,DETdem,DETdem,smn,aicel,DOM,cil,"Spons, l. 15",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l n=&quot;15&quot;>
 94,17,2,espos,espos,–,ESpoS,e.s.p.o.s,/E\S.'p/o\S,0.s.p-.ó](-n).s-(o[),pro,15,NOMcom,NOMcom,smn,espós,DOM,époux,"Spons, l. 15",,,
-95,17,3,que,que,+,kE,qu.e,k/E\,,pro,15,PRNrel,PRNrel,smr,que,DOM,que,"Spons, l. 15",,,
+95,17,3,que,que,+,kE,qu.e,k/(E)\,,pro,15,PRNrel,PRNrel,smr,que,DOM,que,"Spons, l. 15",,,
 96,17,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,15,PRNper,PRNper,5pfn,vós,DOM,vous,"Spons, l. 15",,,
 97,17,5,hor,hor,+,or,ho.r,/o\r,,pro,15,ADVgen,ADVgen,,or,DOM,or2,"Spons, l. 15",,,
 98,17,6,a–tend[et],atendet,_,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,15,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Spons, l. 15",,</l>,
@@ -101,11 +101,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 100,18,2,en,en,_,EN,e.n,/E\N,,pro,16,PRE,PRE,,én,DOM,en,"Spons, l. 16",,,
 101,18,3,terra,terra,–,tɛrrA,t.e.r.r.a,'t/ɛ\r.r/(A)\,t-è].-rr-..a[,pro,16,NOMcom,NOMcom,sfr,tèrra,DOM,terre,"Spons, l. 16",,,
 102,18,4,p[er],per,_,pEr,p.e.r,p/E\r,,pro,16,PRE,PRE,,pér,DOM,par,"Spons, l. 16",,,
-103,18,5,los,los,–|,LoS,l.o.s,L/o\S,,pro,16,DETdef,DETdef,pmr,los,DOM,le,"Spons, l. 16",,,
+103,18,5,los,los,–|,LOS,l.o.s,L/O\S,,pro,16,DETdef,DETdef,pmr,los,DOM,le,"Spons, l. 16",,,
 104,18,6,uostres,vostres,–,vɔStrES,v.o.s.t.r.e.s,'v/ɔ\S.tr/E\S,w-.ò].-s.t-.r-.o[.-s-,pro,16,ADJpos,ADJpos,5pmr,vòstre,DOM,votre,"Spons, l. 16",,,<lb/>
 105,18,7,pechet,pechet,|,pEċɛT,p.e.ch.e.t,p/E\.'ċ/ɛ\T,p-.e].-kk-.à[.-t-(o[),pro,16,NOMcom,NOMcom,pmr,pecat,DOM,péché,"Spons, l. 16",,</l>,
-106,19,1,de,de,+,dE,d.e,d/E\,,pro,17,PRE,PRE,,de,DOM,de,"Spons, l. 17",,,<lb/><l n=&quot;17&quot;>
-107,19,2,la,la,_,LA,l.a,L/A\,,pro,17,DETdef,DETdef,sfr,la,DOM,le,"Spons, l. 17",,,
+106,19,1,de,de,+,dE,d.e,d/(E)\,,pro,17,PRE,PRE,,de,DOM,de,"Spons, l. 17",,,<lb/><l n=&quot;17&quot;>
+107,19,2,la,la,_,LA,l.a,L/(A)\,,pro,17,DETdef,DETdef,sfr,la,DOM,le,"Spons, l. 17",,,
 108,19,3,uirgine,virgine,–,virʤinE,v.i.r.g.i.n.e,v/i\r.'ʤ/i\.n/(E)\,,pro,17,NOMcom,NOMcom,sfr,vergena,DOM,virgine2,"Spons, l. 17",,,
 109,19,4,en,en,+,EN,e.n,/E\N,,pro,17,PRE,PRE,,én,DOM,en,"Spons, l. 17",,,
 110,19,5,betleem,betleem,–,bEtLEEm,b.e.t.l.e.e.m,b/E\t.L/E\.'/E\m,,pro,17,NOMpro,NOMpro,smr,Bethléem,wikipedia.fr,---,"Spons, l. 17",,,
@@ -115,21 +115,21 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 114,20,2,flum,flum,–,fLym,f.l.u.m,fL/y\m,f-.l-.ú[.-m-(e[),pro,18,NOMcom,NOMcom,smr,flum,DOM,flum,"Spons, l. 18",,,
 115,20,3,iorda,jorda,–|,ʤOrdA,j.o.r.d.a,ʤ/O\r.'d/A\,,pro,18,NOMpro,NOMpro,smr,Jourdain,wikipedia.fr,---,"Spons, l. 18",,,
 116,20,4,lauet,lavet,_,LAvɛT,l.a.v.e.t,L/A\.'v/ɛ\T,l-.a[.-w-.à[.-t-(o[),pro,18,VERppe,VERppe,smn,lavar,DOM,laver,"Spons, l. 18",,,<lb/>
-117,20,5,e,e,+,e,e,/e\,,pro,18,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 18",,,
+117,20,5,e,e,+,E,e,/E\,,pro,18,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 18",,,
 118,20,6,ba–te_et,bateet,_,bAtEɛT,b.a.t.e.e.t,b/A\.t/E\.'/ɛ\T,b-.a](-p).t-.e](-dʣ-).à[.-t-(o[)(-s-),pro,18,VERppe,VERppe,smn,batejar,DOM,baptier,"Spons, l. 18",SponsusA:72-73,</l>,
 119,21,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,19,ADVgen,ADVgen,,gaire,DOM,guère,"Spons, l. 19",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l>,<l n=&quot;19&quot;>
 120,22,1,Eu,eu,_,eu,e.u,/e\u,,pro,20,PRNper,PRNper,3smn,el2,DOM,il,"Spons, l. 20",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;20&quot;>
 121,22,2,fo,fo,_,fo,f.o,f/o\,f-.ó[(i[)(-t-),pro,20,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Spons, l. 20",,,
 122,22,3,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,b-.a].-tt-.ù[.-t-(o[)(-s-),pro,20,VERppe,VERppe,smn,batre,DOM,battre,"Spons, l. 20",,,
 123,22,4,gab_let,gablet,–,gAbLɛT,g.a.b.l.e.t,g/A\.'bL/ɛ\T,,pro,20,VERppe,VERppe,smn,gabler,DMF,gabler,"Spons, l. 20",,,
-124,22,5,e,e,+,e,e,/e\,,pro,20,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 20",,,
+124,22,5,e,e,+,E,e,/E\,,pro,20,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 20",,,
 125,22,6,lai_deniet,laidenjet,–|,LAidENʤɛT,l.a.i.d.e.n.j.e.t,L/A\i.d/E\N.'ʤ/ɛ\T,,pro,20,VERppe,VERppe,smn,laidenjar,DOM,laidenger,"Spons, l. 20",,</l>,
 126,23,1,sus,sus,_,SyS,s.u.s,S/y\S,,pro,21,ADVgen,ADVgen,,sus,DOM,sus,"Spons, l. 21",,,<lb/><l n=&quot;21&quot;>
 127,23,2,e,e,+,E,e,/E\,,pro,21,PRE,PRE,,én,DOM,en,"Spons, l. 21",,,
-128,23,3,la,la,_,LA,l.a,L/A\,,pro,21,DETdef,DETdef,sfr,la,DOM,le,"Spons, l. 21",,,
+128,23,3,la,la,_,LA,l.a,L/(A)\,,pro,21,DETdef,DETdef,sfr,la,DOM,le,"Spons, l. 21",,,
 129,23,4,crot,crot,–,kroT,c.r.o.t,kr/o\T,k-.r-.ó[.-c-(e[),pro,21,NOMcom,NOMcom,sfr,crotz,DOM,croix,"Spons, l. 21",,,
 130,23,5,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,b-.a].-tt-.ù[.-t-(o[)(-s-),pro,21,VERppe,VERppe,smn,batre,DOM,battre,"Spons, l. 21",,,
-131,23,6,e,e,+,e,e,/e\,,pro,21,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 21",,,
+131,23,6,e,e,+,E,e,/E\,,pro,21,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 21",,,
 132,23,7,clau_figet,claufiget,_,kLAufiċɛT,c.l.a.u.f.i.g.e.t,kL/A\u.f/i\.'ċ/ɛ\T,,pro,21,VERppe,VERppe,smn,clauficar,DOM,cloficher,"Spons, l. 21",phon_SponsusA:42-44,</l>,
 133,24,1,De[=e],e,+,E,e,/E\,,pro,22,PRE,PRE,,én,DOM,en,"Spons, l. 22",,,<l n=&quot;22&quot;>
 134,24,2,u,u,+,u,u,/\u,,pro,22,DETdef,DETdef,smr,lo2,DOM,le,"Spons, l. 22",,,
@@ -137,12 +137,12 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 136,24,4,deso_entre,desoentre,–,dEzOENtrE,d.e.s.o.e.n.t.r.e,d/E\.z/O\.'/E\N.tr/(E)\,,pro,22,ADVgen,ADVgen,,deseguéntre,DOM,,"Spons, l. 22",lemma_SponsusA:63,,
 137,24,5,pau–|set,pauset,_,pAuzɛT,p.a.u.s.e.t,p/A\u.'z/ɛ\T,p-.au[..-s-.à[.-t-(o[)(-s-),pro,22,VERppe,VERppe,smn,pauzar,DOM,poser,"Spons, l. 22",,</l>,
 138,25,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,23,ADVgen,ADVgen,,gaire,DOM,guère,"Spons, l. 23",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l></lg>,<lb/><l n=&quot;22&quot;>
-139,26,1,E,e,+,e,e,/e\,,pro,24,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 24",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;24&quot;>
+139,26,1,E,e,+,E,e,/E\,,pro,24,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 24",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;24&quot;>
 140,26,2,re_sors,resors,–,rEzorS,r.e.s.o.r.s,r/E\.'z/o\rS,,pro,24,VERppe,VERppe,smn,resórzer,DOM,ressourdre,"Spons, l. 24",,,
 141,26,3,es,es,–,ES,e.s,/E\S,è].-s(t-),pro,24,VERcjg,VERcjg,indpst3,èser,DOM,être,"Spons, l. 24",,,
-142,26,4,la,la,+,LA,l.a,L/A\,,pro,24,DETdef,DETdef,sfn,la,DOM,le,"Spons, l. 24",,,
+142,26,4,la,la,+,LA,l.a,L/(A)\,,pro,24,DETdef,DETdef,sfn,la,DOM,le,"Spons, l. 24",,,
 143,26,5,s_criptura,scriptura,–,QQRVQQVRV,s.c.r.i.p.t.u.r.a,QQR/V\Q.'Q/V\.R/V\,,lat,24,NOMcom,NOMcom,sfn,scriptura,wiktionary,scripture,"Spons, l. 24",,,
-144,26,6,o,o,+,o,o,/o\,,pro,24,PRCdem,PRCdem,snr,ó2,DOM,,"Spons, l. 24",,,
+144,26,6,o,o,+,O,o,/O\,,pro,24,PRCdem,PRCdem,snr,ó2,DOM,,"Spons, l. 24",,,
 145,26,7,dii,dii,–,dii,d.i.i,d/i\i,d-.ì[.-c-(e[)(-t-),pro,24,VERcjg,VERcjg,indpst3,dire,DOM,dire,"Spons, l. 24",,</l>,
 146,27,1,gabriels,gabriels,–,gAbriELS,g.a.b.r.i.e.l.s,g/A\.br/i\.'/E\LS,,pro,25,NOMpro,NOMpro,smn,Gabriel,wikipedia.fr,---,"Spons, l. 25",,,<l n=&quot;25&quot;>
 147,27,2,soi,soi,–,Soi,s.o.i,S/o\i,,pro,25,VERcjg,VERcjg,indpst1,èser,DOM,être,"Spons, l. 25",,,
@@ -150,8 +150,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 149,27,4,tra–|mes,trames,–,trAmeS,t.r.a.m.e.s,tr/A\.'m/e\S,t-.r-.a[.-m-.é[.-s-(e[)(-t-),pro,25,VERppe,VERppe,smn,tramétre,DOM,tramettre,"Spons, l. 25",,,
 150,27,5,aici,aici,–,Aisi,a.i.c.i,/A\i.'s/i\,,pro,25,ADVgen,ADVgen,,aici,DOM,ici,"Spons, l. 25",,</l>,<lb/>
 151,28,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,26,VERcjg,VERcjg,imp---5,aténdre,DOM,attendre,"Spons, l. 26",,,<l n=&quot;26&quot;>
-152,28,2,lo,lo,_,Lo,l.o,L/o\,,pro,26,PRCper,PRCper,3sma,lo3,DOM,le,"Spons, l. 26",,,
-153,28,3,que,que,_,kE,qu.e,k/E\,,pro,26,PRNrel,PRNrel,smr,que,DOM,que,"Spons, l. 26",,,
+152,28,2,lo,lo,_,LO,l.o,L/(O)\,,pro,26,PRCper,PRCper,3sma,lo3,DOM,le,"Spons, l. 26",,,
+153,28,3,que,que,_,kE,qu.e,k/(E)\,,pro,26,PRNrel,PRNrel,smr,que,DOM,que,"Spons, l. 26",,,
 154,28,4,ia,ja,_,ʤA,j.a,ʤ/A\,,pro,26,ADVgen,ADVgen,,ja,DOM,jà,"Spons, l. 26",,,
 155,28,5,uenra,venra,–,vENrA,v.e.n.r.a,v/E\N.'r/A\,,pro,26,VERcjg,VERcjg,indfut3,venir,DOM,venir,"Spons, l. 26",,,
 156,28,6,praici,praici,_,prAisi,p.r.a.i.c.i,pr/A\i.s/i\,,pro,26,ADVgen,ADVgen,,aici,DOM,ici,"Spons, l. 26",,</l>,
@@ -293,14 +293,14 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 292,65,3,nosme,nosme,–,NVQNV,n.o.s.m.e,'N/V\Q.N/V\,,lat,61,ETR,ETR,---,---,---,---,"Spons, l. 61",,,<lb/>
 293,65,4,fu(n)dimus,fudimus,_,QVQVNVQ,f.u.d.i.m.u.s,'Q/V\.Q/V\.'N/V\Q,,lat,61,ETR,ETR,---,---,---,---,"Spons, l. 61",,</l>,
 294,66,1,Dol[=Dolentas],dolentas,_,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,d-.o[.-l-.è].-n.t-.a[.-s-,pro,62,ADJqua,ADJqua,pfn,dolén,DOM,dolent,"Spons, l. 62",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;62&quot;>
-295,67,1,De,de,+,dE,d.e,d/E\,,pro,63,PRE,PRE,,de,DOM,de,"Spons, l. 63",,,<sp><speaker><supplied>prudentes</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;63&quot;>
+295,67,1,De,de,+,dE,d.e,d/(E)\,,pro,63,PRE,PRE,,de,DOM,de,"Spons, l. 63",,,<sp><speaker><supplied>prudentes</supplied></speaker><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;63&quot;>
 296,67,2,nostr,nostr,+,nɔStr0,n.o.s.t.r.,'n/ɔ\S.tr/[0]\,,pro,63,DETpos,DETpos,4smr,nòstre,DOM,notre,"Spons, l. 63",,,
 297,67,3,oli,oli,–,ɔli,o.l.i,'/ɔ\.l/i\,ò[.-l-.e[(o[),pro,63,NOMcom,NOMcom,smr,òli,DOM,huile,"Spons, l. 63",,,
 298,67,4,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,63,VERcjg,VERcjg,indpst5,quèrre,DOM,quérir,"Spons, l. 63",,,
-299,67,5,nos,nos,–,noS,n.o.s,n/o\S,,pro,63,PRCper,PRCper,4pmr,nós,DOM,nous,"Spons, l. 63",,,
+299,67,5,nos,nos,–,nOS,n.o.s,n/O\S,,pro,63,PRCper,PRCper,4pmr,nós,DOM,nous,"Spons, l. 63",,,
 300,67,6,a,a,+,A,a,/A\,,pro,63,PRE,PRE,,a2,DOM,à,"Spons, l. 63",,,
 301,67,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,d-.o[.-n-.à[.-r-(e[),pro,63,VERinf,VERinf,,donar,DOM,donner,"Spons, l. 63",,</l>,
-302,68,1,no,no,+,no,n.o,n/o\,,pro,64,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 64",,,<l n=&quot;64&quot;>
+302,68,1,no,no,+,nO,n.o,n/O\,,pro,64,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 64",,,<l n=&quot;64&quot;>
 303,68,2,n,n,+,N,n,/\n,,pro,64,PRCadv,PRCadv,,én3,DOM,en2,"Spons, l. 64",,,
 304,68,3,au–|ret,auret,–,AureT,a.u.r.e.t,/A\u.'r/e\T,,pro,64,VERcjg,VERcjg,indfut5,avér,DOM,avoir,"Spons, l. 64",,,
 305,68,4,pont,pont,–,pONT,p.o.n.t,p/O\NT,,pro,64,ADVneg,ADVneg,,pónh2,DOM,point2,"Spons, l. 64",,,<lb/>
@@ -310,7 +310,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 309,69,1,de,de,+,dE,d.e,d/E\,,pro,65,PRE,PRE,,de,DOM,de,"Spons, l. 65",,,<l n=&quot;65&quot;>
 310,69,2,us,us,–,uS,u.s,/\uS,,pro,65,DETdef,DETdef,pmr,los,DOM,le,"Spons, l. 65",,,
 311,69,3,merchaans,merchaans,–,mErċAANS,m.e.r.ch.a.a.n.s,m/E\r.ċ/A\.'/A\NS,,pro,65,NOMcom,NOMcom,pmr,mercan,DOM,marchand,"Spons, l. 65",,,
-312,69,4,que,que,+,kE,qu.e,k/E\,,pro,65,PRNrel,PRNrel,pmr,que,DOM,que,"Spons, l. 65",,,
+312,69,4,que,que,+,kE,qu.e,k/(E)\,,pro,65,PRNrel,PRNrel,pmr,que,DOM,que,"Spons, l. 65",,,
 313,69,5,lai,lai,_,LAi,l.a.i,L/A\i,,pro,65,ADVgen,ADVgen,,lai,DOM,là,"Spons, l. 65",,,
 314,69,6,ue_et,veet,_,vEɛT,v.e.e.t,v/E\.'/ɛ\T,w-.e[(-d-).è[.-t-(e[)(-s-),pro,65,VERcjg,VERcjg,indpst5,vezér,DOM,voir,"Spons, l. 65",,,
 315,69,7,ester,ester,_,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,0.s.t-.à[.-r-(e[),pro,65,VERinf,VERinf,,estar,DOM,ester,"Spons, l. 65",,</l>,
@@ -318,8 +318,8 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 317,71,1,Mercatores,mercatores,.|,,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 55r, rubric",,</speaker>,<sp><speaker>
 318,72,1,Domnas,domnas,_,dOmnAS,d.o.m.n.a.s,'d/O\m.n/A\S,d-.ò[.-m-(i[).-n-.a[.-s-,pro,67,NOMcom,NOMcom,pfn,dómna,DOM,dame,"Spons, l. 67",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;67&quot;>
 319,72,2,gentils,gentils,–,ʤENtiLS,g.e.n.t.i.l.s,ʤ/E\N.'t/i\LS,ɟ-.e].-n.t-.ì[.-l-(e[).-s-,pro,67,ADJqua,ADJqua,pfn,gentil,DOM,gentil,"Spons, l. 67",,,
-320,72,3,no,no,+,no,n.o,n/o\,,pro,67,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 67",,,
-321,72,4,uos,vos,–,voS,v.o.s,v/o\S,,pro,67,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 67",,,
+320,72,3,no,no,+,nO,n.o,n/O\,,pro,67,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 67",,,
+321,72,4,uos,vos,–,vOS,v.o.s,v/O\S,,pro,67,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 67",,,
 322,72,5,covent,covent,_,kOvENT,c.o.v.e.n.t,k/O\.'v/E\NT,k-.ò](-n).w-.è[.-n-(e[).-t-,pro,67,VERcjg,VERcjg,indpst0,convenir,DOM,convenir,"Spons, l. 67",,,
 323,72,6,ester,ester,–,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,0.s.t-.à[.-r-(e[),pro,67,VERinf,VERinf,,estar,DOM,ester,"Spons, l. 67",,</l>,
 324,73,1,ni,ni,+,ni,n.i,n/i\,,pro,68,CONcoo,CONcoo,,ni,DOM,ne2,"Spons, l. 68",,,<l n=&quot;68&quot;>
@@ -327,32 +327,32 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 326,73,3,aici,aici,_,Aisi,a.i.c.i,/A\i.'s/i\,,pro,68,ADVgen,ADVgen,,aici,DOM,ici,"Spons, l. 68",,,
 327,73,4,a,a,_,A,a,/A\,,pro,68,PRE,PRE,,a2,DOM,à,"Spons, l. 68",,,
 328,73,5,demo–|rer,demorer,–,dEmOrɛr,d.e.m.o.r.e.r,d/E\.m/O\.'r/ɛ\r,d-.e[.-m-.o[.-r-.à[.-r-(e[),pro,68,VERinf,VERinf,,demorar,DOM,demeurer,"Spons, l. 68",,</l>,
-329,74,1,cosel,cosel,–,kOsel,c.o.s.e.l,k/O\.'s/e\l,k-.o].-n.s-.é[.-lj-(o[),pro,69,NOMcom,NOMcom,smr,consélh,DOM,conseil,"Spons, l. 69",,,<lb/><l n=&quot;69&quot;>
+329,74,1,cosel,cosel,–,kOseʎ,c.o.s.e.l,k/O\.'s/e\ʎ,k-.o].-n.s-.é[.-lj-(o[),pro,69,NOMcom,NOMcom,smr,consélh,DOM,conseil,"Spons, l. 69",,,<lb/><l n=&quot;69&quot;>
 330,74,2,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,69,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Spons, l. 69",,,
-331,74,3,no,no,+,no,n.o,n/o\,,pro,69,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 69",,,
+331,74,3,no,no,+,nO,n.o,n/O\,,pro,69,ADVneg,ADVneg,,nóN,DOM,ne,"Spons, l. 69",,,
 332,74,4,u,u,+,u,u,/\u,,pro,69,PRCper,PRCper,3sma,lo3,DOM,le,"Spons, l. 69",,,
-333,74,5,uos,vos,–,voS,v.o.s,v/o\S,,pro,69,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 69",,,
+333,74,5,uos,vos,–,vOS,v.o.s,v/O\S,,pro,69,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 69",,,
 334,74,6,poem,poem,–,pOEm,p.o.e.m,p/O\.'/E\m,p-.o[(-t-).é[.-m-(o[)(-s-),pro,69,VERcjg,VERcjg,indpst4,podér,DOM,pouvoir,"Spons, l. 69",,,
 335,74,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,d-.o[.-n-.à[.-r-(e[),pro,69,VERinf,VERinf,,donar,DOM,donner,"Spons, l. 69",,</l>,
 336,75,1,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,70,VERcjg,VERcjg,imp---5,quèrre,DOM,quérir,"Spons, l. 70",,,<l n=&quot;70&quot;>
-337,75,2,lo,lo,_,Lo,l.o,L/o\,,pro,70,PRCper,PRCper,3sma,lo3,DOM,le,"Spons, l. 70",,,
+337,75,2,lo,lo,_,LO,l.o,L/(O)\,,pro,70,PRCper,PRCper,3sma,lo3,DOM,le,"Spons, l. 70",,,
 338,75,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,,pro,70,NOMpro,NOMpro,smr,dèu,DOM,Dieu,"Spons, l. 70",,,
-339,75,4,chi,chi,_,ki,c.h.i,k/i\,,pro,70,PRNrel,PRNrel,smn,qui,DOM,qui,"Spons, l. 70",,,
-340,75,5,uos,vos,–|,voS,v.o.s,v/o\S,,pro,70,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 70",,,
-341,75,6,pot,pot,–,pOT,p.o.t,p/ɔ\T,p-.ò].-tw-(i[)(-t-),pro,70,VERcjg,VERcjg,indpst3,podér,DOM,pouvoir,"Spons, l. 70",,,<lb/>
-342,75,7,coseler,coseler,_,kOsElɛr,c.o.s.e.l.e.r,k/O\.s/E\.'l/ɛ\r,k-.o](-n).s-.e[.-lj-.à[.-r-(e[),pro,70,VERinf,VERinf,,conselhar,DOM,conseiller2,"Spons, l. 70",,</l></lg>,
+339,75,4,chi,chi,_,ki,c.h.i,k/<i>\,,pro,70,PRNrel,PRNrel,smn,qui,DOM,qui,"Spons, l. 70",,,
+340,75,5,uos,vos,–|,vOS,v.o.s,v/O\S,,pro,70,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 70",,,
+341,75,6,pot,pot,–,pɔT,p.o.t,p/ɔ\T,p-.ò].-tw-(i[)(-t-),pro,70,VERcjg,VERcjg,indpst3,podér,DOM,pouvoir,"Spons, l. 70",,,<lb/>
+342,75,7,coseler,coseler,_,kOsEʎɛr,c.o.s.e.l.e.r,k/O\.s/E\.'ʎ/ɛ\r,k-.o](-n).s-.e[.-lj-.à[.-r-(e[),pro,70,VERinf,VERinf,,conselhar,DOM,conseiller2,"Spons, l. 70",,</l></lg>,
 343,76,1,Alet,alet,–,AlɛT,a.l.e.t,/A\.'l/ɛ\T,,pro,71,VERcjg,VERcjg,imp---5,aller,DMF,aller,"Spons, l. 71",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;71&quot;>
 344,76,2,areir,areir,–,ArEir,a.r.e.i.r,/A\.'r/E\ir,a](-d).r-.è[.-t-.-r-(o[),pro,71,ADVgen,ADVgen,,aréire,DOM,arrière,"Spons, l. 71",,,
 345,76,3,a,a,+,A,a,/A\,,pro,71,PRE,PRE,,a2,DOM,à,"Spons, l. 71",,,
 346,76,4,uostras,vostras,_,vɔStrAS,v.o.s.t.r.a.s,'v/ɔ\S.tr/A\S,,pro,71,DETpos,DETpos,5pfr,vòstre,DOM,votre,"Spons, l. 71",,,
 347,76,5,sinc,sinc,–,SiNK,s.i.n.c,S/i\NK,,pro,71,DETcar,DETcar,pfr,cinc,DOM,cinq,"Spons, l. 71",,,
 348,76,6,seros,seros,–,SEroS,s.e.r.o.s,S/E\.'r/o\S,s-.o[.-r-.ó[(-r-)(e[).-s-,pro,71,NOMcom,NOMcom,pfr,serór,DOM,soeur,"Spons, l. 71",,</l>,
-349,77,1,e,e,+,e,e,/e\,,pro,72,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 72",,,<l n=&quot;72&quot;> 
+349,77,1,e,e,+,E,e,/E\,,pro,72,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 72",,,<l n=&quot;72&quot;> 
 350,77,2,pre_iat,preiat,_,prEiAT,p.r.e.i.a.t,pr/E\i.'/A\T,p-.r-.e[.-k-.à[.-t-(e[)(-s-),pro,72,VERcjg,VERcjg,imp---5,pregar,DOM,prier,"Spons, l. 72",,,
 351,77,3,las,las,_,LAS,l.a.s,L/A\S,,pro,72,PRCper,PRCper,6pfr,las4,DOM,le,"Spons, l. 72",,,
 352,77,4,p[er],per,_,pEr,p.e.r,p/E\r,,pro,72,PRE,PRE,,pér,DOM,par,"Spons, l. 72",,,
 353,77,5,deu,deu,–|,dɛu,d.e.u,d/ɛ\u,,pro,72,NOMpro,NOMpro,smr,dèu,DOM,Dieu,"Spons, l. 72",,,
-354,77,6,lo,lo,+,Lo,l.o,L/o\,,pro,72,DETdef,DETdef,smr,lo2,DOM,le,"Spons, l. 72",,,<lb/>
+354,77,6,lo,lo,+,LO,l.o,L/(O)\,,pro,72,DETdef,DETdef,smr,lo2,DOM,le,"Spons, l. 72",,,<lb/>
 355,77,7,glorios,glorios,–,gLOrioS,g.l.o.r.i.o.s,gL/O\.r/i\.'/o\S,,pro,72,ADJqua,ADJqua,smr,gloriós,DOM,glorieux,"Spons, l. 72",,</l>,
 356,78,1,de,de,+,QV,d.e,Q/V\,,lat,73,PRE,PRE,,de,wiktionary,de,"Spons, l. 73",,,<l n=&quot;73&quot;> 
 357,78,2,oleo,oleo,–,VLVV,o.l.e.o,/V\.L/V\.'/V\,,lat,73,NOMcom,NOMcom,smr,oleum,wiktionary,huile,"Spons, l. 73",,,
@@ -361,9 +361,9 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 360,78,5,a,a,+,A,a,/A\,,pro,73,PRE,PRE,,a2,DOM,à,"Spons, l. 73",,,
 361,78,6,uos,vos,–,voS,v.o.s,v/o\S,,pro,73,PRNper,PRNper,5pfr,vós,DOM,vous,"Spons, l. 73",,</l>,
 362,79,1,fai_tes,faites,–,fAitES,f.a.i.t.e.s,'f/A\i.t/E\S,f-.à[.-k(i[).t-.e[.-s-,pro,74,VERcjg,VERcjg,imp---5,faire,DOM,faire,"Spons, l. 74",,,<l n=&quot;74&quot;> 
-363,79,2,o,o,+,o,o,/o\,,pro,74,PRCdem,PRCdem,snr,ó2,DOM,,"Spons, l. 74",,,
+363,79,2,o,o,+,O,o,/O\,,pro,74,PRCdem,PRCdem,snr,ó2,DOM,,"Spons, l. 74",,,
 364,79,3,tost,tost,–,tɔST,t.o.s.t,t/ɔ\ST,,pro,74,ADVgen,ADVgen,,tòst,DOM,tôt,"Spons, l. 74",,,
-365,79,4,q[ue],que,_,kE,qu.e,k/E\,,pro,74,CONsub,CONsub,,que2,DOM,que,"Spons, l. 74",,,
+365,79,4,q[ue],que,_,kE,qu.e,k/(E)\,,pro,74,CONsub,CONsub,,que2,DOM,que,"Spons, l. 74",,,
 366,79,5,ia,ja,_,ʤA,j.a,ʤ/A\,,pro,74,ADVgen,ADVgen,,ja,DOM,jà,"Spons, l. 74",,,
 367,79,6,uenra,venra,–,vENrA,v.e.n.r.a,v/E\N.'r/A\,,pro,74,VERcjg,VERcjg,indfut3,venir,DOM,venir,"Spons, l. 74",,,
 368,79,7,l,l,+,L,l,L/\,,pro,74,DETdef,DETdef,smn,lo2,DOM,le,"Spons, l. 74",,,
@@ -432,7 +432,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 431,93,2,tot,tot,_,toT,t.o.t,t/o\T,,pro,86,DETdef,DETdef,pmr,tót,DOM,tout,"Spons, l. 86",,,
 432,93,3,iors,jors,–,ʤorS,j.o.r.s,ʤ/o\rS,dj-.ó].-r(n-)(o[).-s-,pro,86,NOMcom,NOMcom,pmr,jórn,DOM,jour,"Spons, l. 86",,,
 433,93,4,mais,mais,–,mAiS,m.a.i.s,m/A\iS,,pro,86,ADVgen,ADVgen,,mais,DOM,mais,"Spons, l. 86",,,
-434,93,5,uos,vos,–|,voS,v.o.s,v/o\S,,pro,86,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 86",,,
+434,93,5,uos,vos,–|,vOS,v.o.s,v/O\S,,pro,86,PRCper,PRCper,5pfr,vós,DOM,vous,"Spons, l. 86",,,
 435,93,6,so,so,_,So,s.o,S/o\,s-.ò](-n)(-t),pro,86,VERcjg,VERcjg,indpst6,èser,DOM,être,"Spons, l. 86",,,<lb/>
 436,93,7,penas,penas,–,pEnAS,p.e.n.a.s,'p/E\.n/A\S,p-.é[.-n-.a[.-s-,pro,86,NOMcom,NOMcom,pfn,péna,DOM,peine,"Spons, l. 86",,,
 437,93,8,liureas,liureas,–,LiurɛAS,l.i.u.r.e.a.s,L/i\u.'r/ɛ\./A\S,l-.i[.-b-(e[).-r-.à[(-t-).a[.-s-,pro,86,VERppe,VERppe,pfn,liurar2,DOM,livrer,"Spons, l. 86",,</l>,
