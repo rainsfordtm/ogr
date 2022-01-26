@@ -90,6 +90,32 @@ paula/grid/PrDieu/ogr.PrDieu.anno_feat.xml,author,anonymous
 paula/grid/PrDieu/ogr.PrDieu.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
 paula/grid/PrDieu/ogr.PrDieu.anno_feat.xml,form,verse
 paula/grid/PrDieu/ogr.PrDieu.anno_feat.xml,source,ms. image
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,text,PrVierge2
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,lang,pro
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,lang_other,lat
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,ms_cent,11..12
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,ms_origin,Limousin
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,text_cent,11..12
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,text_origin,Limousin
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,title_en,Prayer to the Virgin in verse (Mei amic e mei fiel...)
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,title_fr,Prière à la Vierge en vers (Mei amic e mei fiel...)
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,author,anonymous
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,form,verse
+paula/grid/PrVierge2/ogr.PrVierge2.anno_feat.xml,source,ms. image
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,text,PrVierge3
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,lang,pro
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,lang_other,---
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,ms_cent,11..12
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,ms_origin,Limousin
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,text_cent,11..12
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,text_origin,Limousin
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,title_en,Prayer to the Virgin in verse (Versus sancte Marie)
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,title_fr,Prière à la Vierge en vers (Versus sancte Marie)
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,author,anonymous
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,form,verse
+paula/grid/PrVierge3/ogr.PrVierge3.anno_feat.xml,source,ms. image
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,text,SFoi
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,lang,pro
 paula/grid/SFoi/ogr.SFoi.anno_feat.xml,lang_other,---

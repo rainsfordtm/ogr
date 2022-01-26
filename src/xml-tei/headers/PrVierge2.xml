@@ -4,11 +4,11 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main" xml:lang="en">Sponsus</title>
+            <title type="main" xml:lang="en">Prayer to the Virgin in verse (Mei amic e mei fiel...)</title>
             <!-- METADATA "title_en" -->
-            <title type="main" xml:lang="fr">Sponsus</title>
+            <title type="main" xml:lang="fr">Prière à la Vierge en vers (Mei amic e mei fiel...)</title>
             <!-- METADATA "title_fr" -->
-            <title type="formal">Spons</title>
+            <title type="formal">PrVierge2</title>
             <author>anonymous</author>
             <editor>Tom Rainsford</editor>
          </titleStmt>
@@ -38,7 +38,8 @@
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                   <ab type="how_to_cite">
                      <label>How to cite this text:</label>
-                     <bibl>Sponsus. In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.4. Stuttgart, Institut für
+                     <bibl>Prayer to the Virgin in verse (Mei amic e mei fiel...). In T. Rainsford (ed.) Old
+                        Gallo-Romance Corpus, version 0.4. Stuttgart, Institut für
                         Linguistik/Romanistik, 2022. <ref target="http://www.ogr-corpus.org"
                            >http://ogr-corpus.org</ref>. </bibl>
                   </ab>
@@ -52,34 +53,14 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <biblFull>
-               <titleStmt>
-                  <title>Altfranzösisches Übungsbuch</title>
-                  <editor>Wolfgang Foerster</editor>
-                  <editor>Eduard Koschwitz</editor>
-               </titleStmt>
-               <editionStmt>
-                  <edition>7. Ausgabe</edition>
-               </editionStmt>
-               <publicationStmt>
-                  <publisher>Reisland</publisher>
-                  <pubPlace>Leipzig</pubPlace>
-                  <date>1932</date>
-               </publicationStmt>
-               <!-- p>XML-TEI file generated from the CSV format source files of the Old Gallo-Romance Corpus by
-               the SylVer software <ref>https://sourceforge.net/projects/syllabic-verse-analysis/</ref>.
-            </p -->
-               <sourceDesc>
-                  <msDesc>
-                     <msIdentifier>
-                        <!-- METADATA ms -->
-                        <settlement>Paris</settlement>
-                        <repository>Bibliothèque nationale</repository>
-                        <idno>lat. 1139</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </sourceDesc>
-            </biblFull>
+            <msDesc>
+               <msIdentifier facs="https://gallica.bnf.fr/ark:/12148/btv1b6000946s">
+                  <!-- METADATA ms -->
+                  <settlement>Paris</settlement>
+                  <repository>Bibliothèque nationale</repository>
+                  <idno>lat. 1139</idno>
+               </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -123,12 +104,12 @@
       <profileDesc>
          <creation>
             <name type="author">anonymous</name>
-            <date type="text" notAfter="1099">before 1100<precision precision="low"/></date>
-            <date type="text" notBefore="1000" notAfter="1099">11th century<precision
+            <date type="text" notBefore="1080" notAfter="1119">late 11th or early 12th century</date>
+            <date type="text" notBefore="1050" notAfter="1149">11th to 12th century<precision
                   precision="low"/></date><!-- METADATA text_cent -->
-            <region type="text">Poitou<certainty locus="value" cert="low"/></region>
+            <region type="text">Limousin<certainty locus="value" cert="low"/></region>
             <!-- METADATA text_origin -->
-            <date type="ms" notBefore="1080" notAfter="1119">late 11th or early 12th century</date>
+            <date type="ms" notBefore="1096" notAfter="1119">late 11th or early 12th century</date>
             <date type="ms" notBefore="1050" notAfter="1149">11th to 12th century<precision
                   precision="low"/><certainty locus="value" cert="high"/></date>
             <!-- METADATA ms_cent -->
@@ -138,12 +119,12 @@
          </creation>
          <langUsage>
             <language ident="lat">Latin</language> 
-            <language ident="pro">Old Occitan with substantial Old French contact influence</language>
+            <language ident="pro">Old Occitan</language>
          </langUsage>
          <textClass>
             <keywords scheme="http://authorities.bfm-corpus.org">
                <term type="domaine">religieux</term>
-               <term type="genre">dramatique</term>
+               <term type="genre">prière</term>
                <term type="forme">vers</term>
                <term type="relation">original</term>
             </keywords>
@@ -158,9 +139,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-	 <change when="2022-01-21" resp="#TMR">Changed abbreviation to Spons (DOM).</change>
-         <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
-         <change when="2021-12-13" resp="#TMR">Creation of this header</change>
+         <change when="2022-01-26" resp="#TMR">Text added to corpus, creation of this header</change>
       </revisionDesc>
    </teiHeader>
 
