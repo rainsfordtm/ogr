@@ -9,7 +9,7 @@ Texts added
 
 * All further texts from the Alexis quire
 	* TODO: Latin version of SGregImages
-* All texts from Paris BN lat. 1139 (*Sponsus*)
+* All texts from Paris BN lat. 1139 (*Sponsus*) **DONE**
 * *Jonas*
 	* TODO: literature on this text
 * *AlexAlb* TODO (recent articles)
@@ -26,7 +26,6 @@ Feature updates
 * link to ms image in `<pb/>` tags and from the 2 platforms
 	* TODO: add to all MS
 	* TODO: make this visible in the editions
-* new tag contain
 
 Bug fixes
 ---------
