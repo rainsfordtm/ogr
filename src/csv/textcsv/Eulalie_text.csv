@@ -1,5 +1,5 @@
 wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,syntag,syntag2,lemma,lemma_src,lemma_dmf,pos,pos_syn,morph,ref,tei_left,tei_right
-1,1,1,B_uona,buona,buɔnə,b.u.o.n.a,'b/uɔ\.n/(ə)\,_,fro,1,Adj,Adj,bon,DMF,bon,ADJqua,ADJqua,sfn,"Eulalie, l. 1",<text><body xml:lang=&quot;fro&quot;><pb n=&quot;141v&quot;/><lb/><lg type=&quot;couplet&quot;><l n=&quot;1&quot;>,
+1,1,1,B_uona,buona,buɔnə,b.u.o.n.a,'b/uɔ\.n/(ə)\,_,fro,1,Adj,Adj,bon,DMF,bon,ADJqua,ADJqua,sfn,"Eulalie, l. 1",<text><body xml:lang=&quot;fro&quot;><pb facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b84526286/f288.item&quot; n=&quot;141v&quot;/><lb/><lg type=&quot;couplet&quot;><l n=&quot;1&quot;>,
 2,1,2,pulcella,pulcella,pyLʦɛlə,p.u.l.c.e.ll.a,p/y\L.'ʦ/ɛ\.l/(ə)\,_,fro,1,N,N,pucelle,DMF,pucelle,NOMcom,NOMcom,sfn,"Eulalie, l. 1",,
 3,1,3,fut,fut,fyð,f.u.t,f/y\ð,_,fro,1,Vfin,Vfin,être,DMF,être,VERcjg,VERcjg,indpsp3,"Eulalie, l. 1",,
 4,1,4,Eulalia,eulalia,VRVRVV,eu.l.a.l.i.a,/V\.R/V\.R/V\.'/V\,.,lat,1,N,N,Eulalie,---,,NOMpro,NOMpro,sfn,"Eulalie, l. 1",,</l>
