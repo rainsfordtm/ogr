@@ -43,104 +43,104 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 42,9,3,8,"AlexAlb, l. 8",non,non,+,fro,,ADVneg,,ne,DMF,ne,,,
 43,9,4,8,"AlexAlb, l. 8",sie,sie,|,fro,,VERcjg,subpst3,être,DMF,être,,,
 44,9,5,8,"AlexAlb, l. 8",uanitas,vanitas,.,lat,,NOMcom,sfn,vanitas,wiktionary,,,</l></lg>,
-45,10,1,9,"AlexAlb, l. 9",En,en,_,fro,,,,,,,,,<lg n=&quot;2&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;9&quot;>
-46,10,2,9,"AlexAlb, l. 9",par_gamen,pargamen,|,fro,,,,,,,,,
-47,10,3,9,"AlexAlb, l. 9",no,no,+,fro,,,,,,,,,
-48,10,4,9,"AlexAlb, l. 9",l,l,+,fro,,,,,,,,,
-49,10,5,9,"AlexAlb, l. 9",uid,vid,_,fro,,,,,,,,,
-50,10,6,9,"AlexAlb, l. 9",escrit,escrit,.,fro,,,,,,,,</l>,
-51,11,1,10,"AlexAlb, l. 10",ne,ne,_,fro,,,,,,,,,<l n=&quot;10&quot;>
-52,11,2,10,"AlexAlb, l. 10",p[er],per,_,fro,,,,,,,,,
-53,11,3,10,"AlexAlb, l. 10",parabla,parabla,|,fro,,,,,,,,,
-54,11,4,10,"AlexAlb, l. 10",non,non,_,fro,,,,,,,,,
-55,11,5,10,"AlexAlb, l. 10",fu,fu,_,fro,,,,,,,,,
-56,11,6,10,"AlexAlb, l. 10",dit,dit,.,fro,,,,,,,,</l>,
-57,12,1,11,"AlexAlb, l. 11",de,de,+,fro,,,,,,,,,<l n=&quot;11&quot;>
-58,12,2,11,"AlexAlb, l. 11",l,l,_,fro,,,,,,,,,
-59,12,3,11,"AlexAlb, l. 11",temps,temps,_,fro,,,,,,,,,
-60,12,4,11,"AlexAlb, l. 11",nouel,novel,|,fro,,,,,,,,,
-61,12,5,11,"AlexAlb, l. 11",ne,ne,_,fro,,,,,,,,,
-62,12,6,11,"AlexAlb, l. 11",de,de,+,fro,,,,,,,,,
-63,12,7,11,"AlexAlb, l. 11",l,l,_,fro,,,,,,,,,
-64,12,8,11,"AlexAlb, l. 11",antic,antic,.,fro,,,,,,,,</l>,
-65,13,1,12,"AlexAlb, l. 12",nuls,nuls,_,fro,,,,,,,,,<l n=&quot;12&quot;>
-66,13,2,12,"AlexAlb, l. 12",hom,hom,_,fro,,,,,,,,,
-67,13,3,12,"AlexAlb, l. 12",uidist,vidist,|,fro,,,,,,,,,
-68,13,4,12,"AlexAlb, l. 12",un,un,_,fro,,,,,,,,,
-69,13,5,12,"AlexAlb, l. 12",rey,rey,_,fro,,,,,,,,,
-70,13,6,12,"AlexAlb, l. 12",tan,tan,_,fro,,,,,,,,,
-71,13,7,12,"AlexAlb, l. 12",ric,ric,.,fro,,,,,,,,</l>,
-72,14,1,13,"AlexAlb, l. 13",chi,chi,_,fro,,,,,,,,,<l n=&quot;13&quot;>
-73,14,2,13,"AlexAlb, l. 13",p[er],per,_,fro,,,,,,,,,
-74,14,3,13,"AlexAlb, l. 13",batalle,batalle,|,fro,,,,,,,,,
-75,14,4,13,"AlexAlb, l. 13",[et],et,_,fro,,,,,,,,,
-76,14,5,13,"AlexAlb, l. 13",p[er],per,_,fro,,,,,,,,,
-77,14,6,13,"AlexAlb, l. 13",estric,estric,.,fro,,,,,,,,</l>,
-78,15,1,14,"AlexAlb, l. 14",tant,tant,_,fro,,,,,,,,,<l n=&quot;14&quot;>
-79,15,2,14,"AlexAlb, l. 14",rey,rey,_,fro,,,,,,,,,
-80,15,3,14,"AlexAlb, l. 14",fesist,fesist,_,fro,,,,,,,,,
-81,15,4,14,"AlexAlb, l. 14",mat,mat,|,fro,,,,,,,,,
-82,15,5,14,"AlexAlb, l. 14",ne,ne,_,fro,,,,,,,,,
-83,15,6,14,"AlexAlb, l. 14",men_dic,mendic,.,fro,,,,,,,,</l>,
-84,16,1,15,"AlexAlb, l. 15",ne,ne,_,fro,,,,,,,,,<l n=&quot;15&quot;>
-85,16,2,15,"AlexAlb, l. 15",tanta,tanta,_,fro,,,,,,,,,
-86,16,3,15,"AlexAlb, l. 15",terra,terra,_,fro,,,,,,,,,
-87,16,4,15,"AlexAlb, l. 15",cun|quesist,cunquesist,.,fro,,,,,,,,</l>,
-88,17,1,16,"AlexAlb, l. 16",ne,ne,_,fro,,,,,,,,,<l n=&quot;16&quot;>
-89,17,2,16,"AlexAlb, l. 16",tan,tan,_,fro,,,,,,,,,
-90,17,3,16,"AlexAlb, l. 16",duc,duc,_,fro,,,,,,,,,
-91,17,4,16,"AlexAlb, l. 16",nobli,nobli,_,fro,,,,,,,,,
-92,17,5,16,"AlexAlb, l. 16",occi|sist,occisist,.,fro,,,,,,,,</l>,
-93,18,1,17,"AlexAlb, l. 17",cu[m],cum,_,fro,,,,,,,,,<l n=&quot;17&quot;>
-94,18,2,17,"AlexAlb, l. 17",alexander,alexander,_,fro,,,,,,,,,
-95,18,3,17,"AlexAlb, l. 17",magnus,magnus,_,fro,,,,,,,,,
-96,18,4,17,"AlexAlb, l. 17",fist,fist,.|,fro,,,,,,,,</l>,
-97,19,1,18,"AlexAlb, l. 18",qui,qui,_,fro,,,,,,,,,<l n=&quot;18&quot;>
-98,19,2,18,"AlexAlb, l. 18",fud,fud,_,fro,,,,,,,,,
-99,19,3,18,"AlexAlb, l. 18",de,de,+,fro,,,,,,,,,
-100,19,4,18,"AlexAlb, l. 18",grecia,grecia,_,fro,,,,,,,,,
-101,19,5,18,"AlexAlb, l. 18",natiz,natiz,;|,fro,,,,,,,,</l></lg>,
-102,20,1,19,"AlexAlb, l. 19",Rey,rey,_,fro,,,,,,,,,<lg n=&quot;3&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;19&quot;>
-103,20,2,19,"AlexAlb, l. 19",furent,furent,_,fro,,,,,,,,,
-104,20,3,19,"AlexAlb, l. 19",fort,fort,_,fro,,,,,,,,,
-105,20,4,19,"AlexAlb, l. 19",[et],et,_,fro,,,,,,,,,
-106,20,5,19,"AlexAlb, l. 19",mul,mul,_,fro,,,,,,,,,
-107,20,6,19,"AlexAlb, l. 19",podent,podent,.|,fro,,,,,,,,</l>,
-108,21,1,20,"AlexAlb, l. 20",[et],et,_,fro,,,,,,,,,<l n=&quot;20&quot;>
-109,21,2,20,"AlexAlb, l. 20",de,de,_,fro,,,,,,,,,
-110,21,3,20,"AlexAlb, l. 20",pecunia,pecunia,_,fro,,,,,,,,,
-111,21,4,20,"AlexAlb, l. 20",manent,manent,.,fro,,,,,,,,</l>,
-112,22,1,21,"AlexAlb, l. 21",rey,rey,_,fro,,,,,,,,,<l n=&quot;21&quot;>
-113,22,2,21,"AlexAlb, l. 21",furent,furent,|,fro,,,,,,,,,
-114,22,3,21,"AlexAlb, l. 21",sapi,sapi,_,fro,,,,,,,,,
-115,22,4,21,"AlexAlb, l. 21",[et],et,_,fro,,,,,,,,,
-116,22,5,21,"AlexAlb, l. 21",prudent,prudent,.,fro,,,,,,,,</l>,
-117,23,1,22,"AlexAlb, l. 22",[et],et,_,fro,,,,,,,,,<l n=&quot;22&quot;>
-118,23,2,22,"AlexAlb, l. 22",exaltat,exaltat,_,fro,,,,,,,,,
-119,23,3,22,"AlexAlb, l. 22",sur,sur,|,fro,,,,,,,,,
-120,23,4,22,"AlexAlb, l. 22",tota,tota,_,fro,,,,,,,,,
-121,23,5,22,"AlexAlb, l. 22",gent,gent,.,fro,,,,,,,,</l>,
-122,24,1,23,"AlexAlb, l. 23",mais,mais,_,fro,,,,,,,,,<l n=&quot;23&quot;>
-123,24,2,23,"AlexAlb, l. 23",non,non,_,fro,,,,,,,,,
-124,24,3,23,"AlexAlb, l. 23",i,i,+,fro,,,,,,,,,
-125,24,4,23,"AlexAlb, l. 23",ab,ab,|,fro,,,,,,,,,
-126,24,5,23,"AlexAlb, l. 23",un,un,_,fro,,,,,,,,,
-127,24,6,23,"AlexAlb, l. 23",plus,plus,_,fro,,,,,,,,,
-128,24,7,23,"AlexAlb, l. 23",ualent,valent,.,fro,,,,,,,,</l>,
-129,25,1,24,"AlexAlb, l. 24",de,de,+,fro,,,,,,,,,<l n=&quot;24&quot;>
-130,25,2,24,"AlexAlb, l. 24",chest,chest,_,fro,,,,,,,,,
-131,25,3,24,"AlexAlb, l. 24",du[n],dun,|,fro,,,,,,,,,
-132,25,4,24,"AlexAlb, l. 24",faz,faz,_,fro,,,,,,,,,
-133,25,5,24,"AlexAlb, l. 24",l,l,+,fro,,,,,,,,,
-134,25,6,24,"AlexAlb, l. 24",aleuament,alevament,.,fro,,,,,,,,</l>,
-135,26,1,25,"AlexAlb, l. 25",contar,contar,_,fro,,,,,,,,,<l n=&quot;25&quot;>
-136,26,2,25,"AlexAlb, l. 25",uos,vos,_,fro,,,,,,,,,
-137,26,3,25,"AlexAlb, l. 25",ey,ey,|,fro,,,,,,,,,
-138,26,4,25,"AlexAlb, l. 25",pleneyrament,pleneyrament,.,fro,,,,,,,,</l>,
-139,27,1,26,"AlexAlb, l. 26",de,de,+,fro,,,,,,,,,<l n=&quot;26&quot;>
-140,27,2,26,"AlexAlb, l. 26",l,l,_,fro,,,,,,,,,
-141,27,3,26,"AlexAlb, l. 26",alexandre,alexandre,|,fro,,,,,,,,,
-142,27,4,26,"AlexAlb, l. 26",mandament,mandament,;,fro,,,,,,,,</l></lg>,<cb n=&quot;b&quot;/>
+45,10,1,9,"AlexAlb, l. 9",En,en,_,fro,,PRE,,en,DMF,en,,,<lg n=&quot;2&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;9&quot;>
+46,10,2,9,"AlexAlb, l. 9",par_gamen,pargamen,|,fro,,NOMcom,smr,parchemin,DMF,parchemin,,,
+47,10,3,9,"AlexAlb, l. 9",no,no,+,fro,,ADVneg,,ne,DMF,ne,,,
+48,10,4,9,"AlexAlb, l. 9",l,l,+,fro,,PRCper,smr,le,DMF,le,,,
+49,10,5,9,"AlexAlb, l. 9",uid,vid,_,fro,,VERcjg,indpsp3,voir,DMF,voir,,,
+50,10,6,9,"AlexAlb, l. 9",escrit,escrit,.,fro,,VERppe,smr,écrire,DMF,écrire,,</l>,
+51,11,1,10,"AlexAlb, l. 10",ne,ne,_,fro,,CONcoo,,ne2,DMF,ne2,,,<l n=&quot;10&quot;>
+52,11,2,10,"AlexAlb, l. 10",p[er],per,_,fro,,PRE,,par,DMF,par,,,
+53,11,3,10,"AlexAlb, l. 10",parabla,parabla,|,fro,,NOMcom,sfr,parole,DMF,parole,,,
+54,11,4,10,"AlexAlb, l. 10",non,non,_,fro,,ADVneg,,ne,DMF,ne,,,
+55,11,5,10,"AlexAlb, l. 10",fu,fu,_,fro,,VERcjg,indpsp3,être,DMF,être,,,
+56,11,6,10,"AlexAlb, l. 10",dit,dit,.,fro,,VERppe,snn,dire,DMF,dire,,</l>,
+57,12,1,11,"AlexAlb, l. 11",de,de,+,fro,,PRE,,de,DMF,de,,,<l n=&quot;11&quot;>
+58,12,2,11,"AlexAlb, l. 11",l,l,_,fro,,DETdef,smr,le,DMF,le,,,
+59,12,3,11,"AlexAlb, l. 11",temps,temps,_,fro,,NOMcom,smr,temps,DMF,temps,,,
+60,12,4,11,"AlexAlb, l. 11",nouel,novel,|,fro,,ADJqua,smr,nouveau,DMF,nouveau,,,
+61,12,5,11,"AlexAlb, l. 11",ne,ne,_,fro,,CONcoo,,ne2,DMF,ne2,,,
+62,12,6,11,"AlexAlb, l. 11",de,de,+,fro,,PRE,,de,DMF,de,,,
+63,12,7,11,"AlexAlb, l. 11",l,l,_,fro,,DETdef,smr,le,DMF,le,,,
+64,12,8,11,"AlexAlb, l. 11",antic,antic,.,fro,,ADJqua,smr,antif,DMF,antif,,</l>,
+65,13,1,12,"AlexAlb, l. 12",nuls,nuls,_,fro,,DETind,smn,nul,DMF,nul,,,<l n=&quot;12&quot;>
+66,13,2,12,"AlexAlb, l. 12",hom,hom,_,fro,,NOMcom,smn,homme,DMF,homme,,,
+67,13,3,12,"AlexAlb, l. 12",uidist,vidist,|,fro,,VERcjg,subipf3,voir,DMF,voir,,,
+68,13,4,12,"AlexAlb, l. 12",un,un,_,fro,,DETndf,smr,un,DMF,un,,,
+69,13,5,12,"AlexAlb, l. 12",rey,rey,_,fro,,NOMcom,smr,roi,DMF,roi,,,
+70,13,6,12,"AlexAlb, l. 12",tan,tan,_,fro,,ADVgen,,tant,DMF,tant,,,
+71,13,7,12,"AlexAlb, l. 12",ric,ric,.,fro,,ADJqua,smr,riche,DMF,riche,,</l>,
+72,14,1,13,"AlexAlb, l. 13",chi,chi,_,fro,,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;13&quot;>
+73,14,2,13,"AlexAlb, l. 13",p[er],per,_,fro,,PRE,,par,DMF,par,,,
+74,14,3,13,"AlexAlb, l. 13",batalle,batalle,|,fro,,NOMcom,sfr,bataille,DMF,bataille,,,
+75,14,4,13,"AlexAlb, l. 13",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+76,14,5,13,"AlexAlb, l. 13",p[er],per,_,fro,,PRE,,par,DMF,par,,,
+77,14,6,13,"AlexAlb, l. 13",estric,estric,.,fro,,NOMcom,smr,estrif,DMF,estrif,,</l>,
+78,15,1,14,"AlexAlb, l. 14",tant,tant,_,fro,,DETind,smr,tant,DMF,tant,,,<l n=&quot;14&quot;>
+79,15,2,14,"AlexAlb, l. 14",rey,rey,_,fro,,NOMcom,smr,roi,DMF,roi,,,
+80,15,3,14,"AlexAlb, l. 14",fesist,fesist,_,fro,,VERcjg,subipf3,faire,DMF,faire,,,
+81,15,4,14,"AlexAlb, l. 14",mat,mat,|,fro,,ADJqua,smr,mat,DMF,mat,,,
+82,15,5,14,"AlexAlb, l. 14",ne,ne,_,fro,,CONcoo,,ne2,DMF,ne2,,,
+83,15,6,14,"AlexAlb, l. 14",men_dic,mendic,.,fro,,ADJqua,smr,mendi,DMF,mendi,,</l>,
+84,16,1,15,"AlexAlb, l. 15",ne,ne,_,fro,,CONcoo,,ne2,DMF,ne2,,,<l n=&quot;15&quot;>
+85,16,2,15,"AlexAlb, l. 15",tanta,tanta,_,fro,,DETind,sfr,tant,DMF,tant,,,
+86,16,3,15,"AlexAlb, l. 15",terra,terra,_,fro,,NOMcom,sfr,terre,DMF,terre,,,
+87,16,4,15,"AlexAlb, l. 15",cun|quesist,cunquesist,.,fro,,VERcjg,subipf3,conquérir,DMF,conquérir,,</l>,
+88,17,1,16,"AlexAlb, l. 16",ne,ne,_,fro,,CONcoo,,ne2,DMF,ne2,,,<l n=&quot;16&quot;>
+89,17,2,16,"AlexAlb, l. 16",tan,tan,_,fro,,DETind,smr,tant,DMF,tant,,,
+90,17,3,16,"AlexAlb, l. 16",duc,duc,_,fro,,NOMcom,smr,duc,DMF,duc,,,
+91,17,4,16,"AlexAlb, l. 16",nobli,nobli,_,fro,,ADJqua,smr,noble,DMF,noble,,,
+92,17,5,16,"AlexAlb, l. 16",occi|sist,occisist,.,fro,,VERcjg,subipf3,occire,DMF,occire,,</l>,
+93,18,1,17,"AlexAlb, l. 17",cu[m],cum,_,fro,,CONsub,,comme,DMF,comme,,,<l n=&quot;17&quot;>
+94,18,2,17,"AlexAlb, l. 17",alexander,alexander,_,lat,,NOMcom,smn,Alexander,wiktionary,,,,
+95,18,3,17,"AlexAlb, l. 17",magnus,magnus,_,lat,,ADJqua,smn,magnus,wiktionary,,,,
+96,18,4,17,"AlexAlb, l. 17",fist,fist,.|,fro,,VERcjg,indpsp3,faire,DMF,faire,,</l>,
+97,19,1,18,"AlexAlb, l. 18",qui,qui,_,fro,,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;18&quot;>
+98,19,2,18,"AlexAlb, l. 18",fud,fud,_,fro,,VERcjg,indpsp3,être,DMF,être,,,
+99,19,3,18,"AlexAlb, l. 18",de,de,+,fro,,PRE,,de,DMF,de,,,
+100,19,4,18,"AlexAlb, l. 18",grecia,grecia,_,lat,,NOMcom,sfr,Graecia,wiktionary,,,,
+101,19,5,18,"AlexAlb, l. 18",natiz,natiz,;|,fro,,ADJqua,smn,natif,DMF,natif,,</l></lg>,
+102,20,1,19,"AlexAlb, l. 19",Rey,rey,_,fro,,NOMcom,pmn,roi,DMF,roi,,,<lg n=&quot;3&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;19&quot;>
+103,20,2,19,"AlexAlb, l. 19",furent,furent,_,fro,,VERcjg,indpsp6,être,DMF,être,,,
+104,20,3,19,"AlexAlb, l. 19",fort,fort,_,fro,,ADJqua,pmn,fort,DMF,fort,,,
+105,20,4,19,"AlexAlb, l. 19",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+106,20,5,19,"AlexAlb, l. 19",mul,mul,_,fro,,ADVgen,,moult,DMF,moult,,,
+107,20,6,19,"AlexAlb, l. 19",podent,podent,.|,fro,,VERppa,pmn,pouvoir2,DMF,pouvoir2,,</l>,
+108,21,1,20,"AlexAlb, l. 20",[et],et,_,fro,,CONcoo,,et,DMF,et,,,<l n=&quot;20&quot;>
+109,21,2,20,"AlexAlb, l. 20",de,de,_,fro,,PRE,,de,DMF,de,,,
+110,21,3,20,"AlexAlb, l. 20",pecunia,pecunia,_,lat,,NOMcom,sfr,pecunia,wiktionary,,,,
+111,21,4,20,"AlexAlb, l. 20",manent,manent,.,fro,,VERppa,pmn,manoir2,DMF,manoir2,,</l>,
+112,22,1,21,"AlexAlb, l. 21",rey,rey,_,fro,,NOMcom,pmn,roi,DMF,roi,,,<l n=&quot;21&quot;>
+113,22,2,21,"AlexAlb, l. 21",furent,furent,|,fro,,VERcjg,indpsp6,être,DMF,être,,,
+114,22,3,21,"AlexAlb, l. 21",sapi,sapi,_,fro,,ADJqua,pmn,sage,DMF,sage,,,
+115,22,4,21,"AlexAlb, l. 21",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+116,22,5,21,"AlexAlb, l. 21",prudent,prudent,.,fro,,ADJqua,pmn,prudent,DMF,prudent,,</l>,
+117,23,1,22,"AlexAlb, l. 22",[et],et,_,fro,,CONcoo,,et,DMF,et,,,<l n=&quot;22&quot;>
+118,23,2,22,"AlexAlb, l. 22",exaltat,exaltat,_,fro,,VERppe,pmn,exalter,DMF,exalter,,,
+119,23,3,22,"AlexAlb, l. 22",sur,sur,|,fro,,PRE,,sur,DMF,sur,,,
+120,23,4,22,"AlexAlb, l. 22",tota,tota,_,fro,,DETind,sfr,tout,DMF,tout,,,
+121,23,5,22,"AlexAlb, l. 22",gent,gent,.,fro,,NOMcom,sfr,gent,DMF,gent,,</l>,
+122,24,1,23,"AlexAlb, l. 23",mais,mais,_,fro,,CONcoo,,mais,DMF,mais,,,<l n=&quot;23&quot;>
+123,24,2,23,"AlexAlb, l. 23",non,non,_,fro,,ADVneg,,ne,DMF,ne,,,
+124,24,3,23,"AlexAlb, l. 23",i,i,+,fro,,PRCadv,,y2,DMF,y2,,,
+125,24,4,23,"AlexAlb, l. 23",ab,ab,|,fro,,VERcjg,indpsp0,avoir,DMF,avoir,morph_AlexAlbZ:405,,
+126,24,5,23,"AlexAlb, l. 23",un,un,_,fro,,DETndf,smr,un,DMF,un,,,
+127,24,6,23,"AlexAlb, l. 23",plus,plus,_,fro,,ADVgen,,plus,DMF,plus,,,
+128,24,7,23,"AlexAlb, l. 23",ualent,valent,.,fro,,VERppa,smr,valoir,DMF,valoir,,</l>,
+129,25,1,24,"AlexAlb, l. 24",de,de,+,fro,,PRE,,de,DMF,de,,,<l n=&quot;24&quot;>
+130,25,2,24,"AlexAlb, l. 24",chest,chest,_,fro,,PRNdem,smr,cist,DMF,cist,,,
+131,25,3,24,"AlexAlb, l. 24",du[n],dun,|,fro,,PRNrel,,dont,DMF,dont,,,
+132,25,4,24,"AlexAlb, l. 24",faz,faz,_,fro,,VERcjg,indpst1,faire,DMF,faire,,,
+133,25,5,24,"AlexAlb, l. 24",l,l,+,fro,,DETdef,smr,le,DMF,le,,,
+134,25,6,24,"AlexAlb, l. 24",aleuament,alevament,.,fro,,NOMcom,smr,alevamén,DOM,,,</l>,
+135,26,1,25,"AlexAlb, l. 25",contar,contar,_,fro,,VERinf,,conter,DMF,conter,,,<l n=&quot;25&quot;>
+136,26,2,25,"AlexAlb, l. 25",uos,vos,_,fro,,PRCper,5pmr,vous,DMF,vous,,,
+137,26,3,25,"AlexAlb, l. 25",ey,ey,|,fro,,VERcjg,indpst1,avoir,DMF,avoir,,,
+138,26,4,25,"AlexAlb, l. 25",pleneyrament,pleneyrament,.,fro,,ADVgen,,plénièrement,DMF,plénièrement,,</l>,
+139,27,1,26,"AlexAlb, l. 26",de,de,+,fro,,PRE,,de,DMF,de,,,<l n=&quot;26&quot;>
+140,27,2,26,"AlexAlb, l. 26",l,l,_,fro,,DETdef,smr,le,DMF,le,,,
+141,27,3,26,"AlexAlb, l. 26",alexandre,alexandre,|,fro,,NOMpro,smr,Alexandre,wikipedia.fr,,,,
+142,27,4,26,"AlexAlb, l. 26",mandament,mandament,;,fro,,NOMcom,smr,mandement,DMF,mandement,,</l></lg>,<cb n=&quot;b&quot;/>
 143,28,1,27,"AlexAlb, l. 27",Dicunt,dicunt,_,fro,,,,,,,,,<lg n=&quot;4&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;27&quot;>
 144,28,2,27,"AlexAlb, l. 27",alquant,alquant,|,fro,,,,,,,,,
 145,28,3,27,"AlexAlb, l. 27",estrobat_our,estrobatour,.,fro,,,,,,,,</l>,
