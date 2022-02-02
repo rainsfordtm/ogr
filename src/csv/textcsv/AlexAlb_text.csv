@@ -248,49 +248,49 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 247,46,1,45,"AlexAlb, l. 45",dun,dun,_,fro,,PRNrel,,dont,DMF,dont,,,<l n=&quot;45&quot;>
 248,46,2,45,"AlexAlb, l. 45",alexandre,alexandre,_,fro,,NOMpro,smr,Alexandre,wiktionary,,,,
 249,46,3,45,"AlexAlb, l. 45",genuit,genuit,;|,lat,,VERcjg,indpsp3,gigno,wiktionary,,,</l></lg>,
-250,47,1,46,"AlexAlb, l. 46",Reys,reys,_,fro,,,,,,,,,<lg n=&quot;7&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;46&quot;>
-251,47,2,46,"AlexAlb, l. 46",alexander,alexander,_,fro,,,,,,,,,
-252,47,3,46,"AlexAlb, l. 46",quant,quant,_,fro,,,,,,,,,
-253,47,4,46,"AlexAlb, l. 46",fud,fud,_,fro,,,,,,,,,
-254,47,5,46,"AlexAlb, l. 46",naz,naz,.|,fro,,,,,,,,</l>,
-255,48,1,47,"AlexAlb, l. 47",p[er],per,_,fro,,,,,,,,,<l n=&quot;47&quot;>
-256,48,2,47,"AlexAlb, l. 47",granz,granz,_,fro,,,,,,,,,
-257,48,3,47,"AlexAlb, l. 47",en_signes,ensignes,_,fro,,,,,,,,,
-258,48,4,47,"AlexAlb, l. 47",fud,fud,_,fro,,,,,,,,,
-259,48,5,47,"AlexAlb, l. 47",mostraz,mostraz,.|,fro,,,,,,,,</l>,
-260,49,1,48,"AlexAlb, l. 48",crollet,crollet,_,fro,,,,,,,,,<l n=&quot;48&quot;>
-261,49,2,48,"AlexAlb, l. 48",la,la,+,fro,,,,,,,,,
-262,49,3,48,"AlexAlb, l. 48",t[er]ra,terra,_,fro,,,,,,,,,
-263,49,4,48,"AlexAlb, l. 48",de,de,+,fro,,,,,,,,,
-264,49,5,48,"AlexAlb, l. 48",toz,toz,_,fro,,,,,,,,,
-265,49,6,48,"AlexAlb, l. 48",laz,laz,_,fro,,,,,,,,</l>,
-266,50,1,49,"AlexAlb, l. 49",toneyres,toneyres,_,fro,,,,,,,,,<l n=&quot;49&quot;>
-267,50,2,49,"AlexAlb, l. 49",fud,fud,|,fro,,,,,,,,,
-268,50,3,49,"AlexAlb, l. 49",[et],et,_,fro,,,,,,,,,
-269,50,4,49,"AlexAlb, l. 49",te[m]pestaz,tempestaz,.,fro,,,,,,,,</l>,
-270,51,1,50,"AlexAlb, l. 50",lo,lo,_,fro,,,,,,,,,<l n=&quot;50&quot;>
-271,51,2,50,"AlexAlb, l. 50",sol,sol,_,fro,,,,,,,,,
-272,51,3,50,"AlexAlb, l. 50",p[er]det,perdet,_,fro,,,,,,,,,
-273,51,4,50,"AlexAlb, l. 50",sas,sas,_,fro,,,,,,,,,
-274,51,5,50,"AlexAlb, l. 50",claritaz,claritaz,.|,fro,,,,,,,,</l>,
-275,52,1,51,"AlexAlb, l. 51",p[er],per,_,fro,,,,,,,,,<l n=&quot;51&quot;>
-276,52,2,51,"AlexAlb, l. 51",pauc,pauc,_,fro,,,,,,,,,
-277,52,3,51,"AlexAlb, l. 51",no,no,_,fro,,,,,,,,,
-278,52,4,51,"AlexAlb, l. 51",fud,fud,_,fro,,,,,,,,,
-279,52,5,51,"AlexAlb, l. 51",toz,toz,_,fro,,,,,,,,,
-280,52,6,51,"AlexAlb, l. 51",obscuraz,obscuraz,.,fro,,,,,,,,</l>,
-281,53,1,52,"AlexAlb, l. 52",ianget,janget,|,fro,,,,,,,,,<l n=&quot;52&quot;>
-282,53,2,52,"AlexAlb, l. 52",lo,lo,_,fro,,,,,,,,,
-283,53,3,52,"AlexAlb, l. 52",cels,cels,_,fro,,,,,,,,,
-284,53,4,52,"AlexAlb, l. 52",sas,sas,_,fro,,,,,,,,,
-285,53,5,52,"AlexAlb, l. 52",qualitaz,qualitaz,.,fro,,,,,,,,</l>,
-286,54,1,53,"AlexAlb, l. 53",que,que,+,fro,,,,,,,,,<l n=&quot;53&quot;>
-287,54,2,53,"AlexAlb, l. 53",reys,reys,_,fro,,,,,,,,,
-288,54,3,53,"AlexAlb, l. 53",est,est,_,fro,,,,,,,,,
-289,54,4,53,"AlexAlb, l. 53",forz,forz,|,fro,,,,,,,,,
-290,54,5,53,"AlexAlb, l. 53",en,en,+,fro,,,,,,,,,
-291,54,6,53,"AlexAlb, l. 53",terra,terra,_,fro,,,,,,,,,
-292,54,7,53,"AlexAlb, l. 53",naz,naz,;,fro,,,,,,,,</l></lg>,
+250,47,1,46,"AlexAlb, l. 46",Reys,reys,_,fro,,,,roi,DMF,roi,,,<lg n=&quot;7&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;46&quot;>
+251,47,2,46,"AlexAlb, l. 46",alexander,alexander,_,fro,,,,Alexandre,wiktionary,,,,
+252,47,3,46,"AlexAlb, l. 46",quant,quant,_,fro,,,,quand,DMF,quand,,,
+253,47,4,46,"AlexAlb, l. 46",fud,fud,_,fro,,,,être,DMF,être,,,
+254,47,5,46,"AlexAlb, l. 46",naz,naz,.|,fro,,,,naître,DMF,naître,,</l>,
+255,48,1,47,"AlexAlb, l. 47",p[er],per,_,fro,,,,par,DMF,par,,,<l n=&quot;47&quot;>
+256,48,2,47,"AlexAlb, l. 47",granz,granz,_,fro,,,,grand,DMF,grand,,,
+257,48,3,47,"AlexAlb, l. 47",en_signes,ensignes,_,fro,,,,enseigne,DMF,enseigne,,,
+258,48,4,47,"AlexAlb, l. 47",fud,fud,_,fro,,,,être,DMF,être,,,
+259,48,5,47,"AlexAlb, l. 47",mostraz,mostraz,.|,fro,,,,montrer,DMF,montrer,,</l>,
+260,49,1,48,"AlexAlb, l. 48",crollet,crollet,_,fro,,,,crouler,DMF,crouler,,,<l n=&quot;48&quot;>
+261,49,2,48,"AlexAlb, l. 48",la,la,+,fro,,,,le,DMF,le,,,
+262,49,3,48,"AlexAlb, l. 48",t[er]ra,terra,_,fro,,,,terre,DMF,terre,,,
+263,49,4,48,"AlexAlb, l. 48",de,de,+,fro,,,,de,DMF,de,,,
+264,49,5,48,"AlexAlb, l. 48",toz,toz,_,fro,,,,tout,DMF,tout,,,
+265,49,6,48,"AlexAlb, l. 48",laz,laz,_,fro,,,,lez,DMF,lez,,</l>,
+266,50,1,49,"AlexAlb, l. 49",toneyres,toneyres,_,fro,,,,tonnerre,DMF,tonnerre,,,<l n=&quot;49&quot;>
+267,50,2,49,"AlexAlb, l. 49",fud,fud,|,fro,,,,être,DMF,être,,,
+268,50,3,49,"AlexAlb, l. 49",[et],et,_,fro,,,,et,DMF,et,,,
+269,50,4,49,"AlexAlb, l. 49",te[m]pestaz,tempestaz,.,fro,,,,tempête,DMF,tempête,,</l>,
+270,51,1,50,"AlexAlb, l. 50",lo,lo,_,fro,,,,le,DMF,le,,,<l n=&quot;50&quot;>
+271,51,2,50,"AlexAlb, l. 50",sol,sol,_,fro,,,,sol2,TL,,,,
+272,51,3,50,"AlexAlb, l. 50",p[er]det,perdet,_,fro,,,,perdre,DMF,perdre,,,
+273,51,4,50,"AlexAlb, l. 50",sas,sas,_,fro,,,,son4,DMF,son4,,,
+274,51,5,50,"AlexAlb, l. 50",claritaz,claritaz,.|,fro,,,,clarité,DMF,clarité,,</l>,
+275,52,1,51,"AlexAlb, l. 51",p[er],per,_,fro,,,,per,DMF,per,,,<l n=&quot;51&quot;>
+276,52,2,51,"AlexAlb, l. 51",pauc,pauc,_,fro,,,,peu,DMF,peu,,,
+277,52,3,51,"AlexAlb, l. 51",no,no,_,fro,,,,ne,DMF,ne,,,
+278,52,4,51,"AlexAlb, l. 51",fud,fud,_,fro,,,,être,DMF,être,,,
+279,52,5,51,"AlexAlb, l. 51",toz,toz,_,fro,,,,tout,DMF,tout,,,
+280,52,6,51,"AlexAlb, l. 51",obscuraz,obscuraz,.,fro,,,,obscurer,DMF,obscurer,,</l>,
+281,53,1,52,"AlexAlb, l. 52",ianget,janget,|,fro,,,,changer,DMF,changer,,,<l n=&quot;52&quot;>
+282,53,2,52,"AlexAlb, l. 52",lo,lo,_,fro,,,,le,DMF,le,,,
+283,53,3,52,"AlexAlb, l. 52",cels,cels,_,fro,,,,ciel,DMF,ciel,,,
+284,53,4,52,"AlexAlb, l. 52",sas,sas,_,fro,,,,son4,DMF,son4,,,
+285,53,5,52,"AlexAlb, l. 52",qualitaz,qualitaz,.,fro,,,,qualité,DMF,qualité,,</l>,
+286,54,1,53,"AlexAlb, l. 53",que,que,+,fro,,,,que,DMF,que,,,<l n=&quot;53&quot;>
+287,54,2,53,"AlexAlb, l. 53",reys,reys,_,fro,,,,roi,DMF,roi,,,
+288,54,3,53,"AlexAlb, l. 53",est,est,_,fro,,,,être,DMF,être,,,
+289,54,4,53,"AlexAlb, l. 53",forz,forz,|,fro,,,,fort,DMF,fort,,,
+290,54,5,53,"AlexAlb, l. 53",en,en,+,fro,,,,en,DMF,en,,,
+291,54,6,53,"AlexAlb, l. 53",terra,terra,_,fro,,,,terre,DMF,terre,,,
+292,54,7,53,"AlexAlb, l. 53",naz,naz,;,fro,,,,naître,DMF,naître,,</l></lg>,
 293,55,1,54,"AlexAlb, l. 54",En,en,+,fro,,,,,,,,,<lg n=&quot;8&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;54&quot;>
 294,55,2,54,"AlexAlb, l. 54",tal,tal,_,fro,,,,,,,,,
 295,55,3,54,"AlexAlb, l. 54",forma,forma,|,fro,,,,,,,,,
