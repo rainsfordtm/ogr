@@ -457,37 +457,37 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 456,82,4,81,"AlexAlb, l. 81",ia,ja,_,fro,,ADVgen,,jà,DMF,jà,,,
 457,82,5,81,"AlexAlb, l. 81",l,l,+,fro,,DETdef,smr,le,DMF,le,,,
 458,82,6,81,"AlexAlb, l. 81",empeyr,empeyr,.,fro,,NOMcom,smr,empire,DMF,empire,,</l></lg>,
-459,83,1,82,"AlexAlb, l. 82",Magestres,magestres,_,fro,,,,,,,,,<lg n=&quot;12&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;82&quot;>
-460,83,2,82,"AlexAlb, l. 82",ab,ab,_,fro,,,,,,,,,
-461,83,3,82,"AlexAlb, l. 82",beyn,beyn,_,fro,,,,,,,,,
-462,83,4,82,"AlexAlb, l. 82",affactaz,affactaz,.,fro,,,,,,,,</l>,
-463,84,1,83,"AlexAlb, l. 83",de,de,|,fro,,,,,,,,,<l n=&quot;83&quot;>
-464,84,2,83,"AlexAlb, l. 83",totas,totas,_,fro,,,,,,,,,
-465,84,3,83,"AlexAlb, l. 83",arz,arz,_,fro,,,,,,,,,
-466,84,4,83,"AlexAlb, l. 83",beyn,beyn,_,fro,,,,,,,,,
-467,84,5,83,"AlexAlb, l. 83",enseynaz,enseynaz,.,fro,,,,,,,,</l>,
-468,85,1,84,"AlexAlb, l. 84",qui,qui,+,fro,,,,,,,,,<l n=&quot;84&quot;>
-469,85,2,84,"AlexAlb, l. 84",l,l,_,fro,,,,,,,,,
-470,85,3,84,"AlexAlb, l. 84",duystrent,duystrent,_,fro,,,,,,,,,
-471,85,4,84,"AlexAlb, l. 84",beyn,beyn,_,fro,,,,,,,,,
-472,85,5,84,"AlexAlb, l. 84",de,de,+,fro,,,,,,,,,
-473,85,6,84,"AlexAlb, l. 84",dignitaz,dignitaz,.,fro,,,,,,,,</l>,
-474,86,1,85,"AlexAlb, l. 85",[et],et,_,fro,,,,,,,,,<l n=&quot;85&quot;>
-475,86,2,85,"AlexAlb, l. 85",de,de,_,fro,,,,,,,,,
-476,86,3,85,"AlexAlb, l. 85",conseyl,conseyl,_,fro,,,,,,,,,
-477,86,4,85,"AlexAlb, l. 85",[et],et,_,fro,,,,,,,,,
-478,86,5,85,"AlexAlb, l. 85",de,de,|,fro,,,,,,,,,
-479,86,6,85,"AlexAlb, l. 85",bontaz,bontaz,.,fro,,,,,,,,</l>,
-480,87,1,86,"AlexAlb, l. 86",de,de,_,fro,,,,,,,,,<l n=&quot;86&quot;>
-481,87,2,86,"AlexAlb, l. 86",sapientia,sapientia,_,fro,,,,,,,,,
-482,87,3,86,"AlexAlb, l. 86",[et],et,_,fro,,,,,,,,,
-483,87,4,86,"AlexAlb, l. 86",d,d,+,fro,,,,,,,,,
-484,87,5,86,"AlexAlb, l. 86",onestaz,onestaz,.,fro,,,,,,,,</l>,
-485,88,1,87,"AlexAlb, l. 87",de,de,+,fro,,,,,,,,,<l n=&quot;87&quot;>
-486,88,2,87,"AlexAlb, l. 87",fayr,fayr,_,fro,,,,,,,,,
-487,88,3,87,"AlexAlb, l. 87",estorn,estorn,_,fro,,,,,,,,,
-488,88,4,87,"AlexAlb, l. 87",[et],et,_,fro,,,,,,,,,
-489,88,5,87,"AlexAlb, l. 87",prodeltaz,prodeltaz,.,fro,,,,,,,,</l></lg>,
+459,83,1,82,"AlexAlb, l. 82",Magestres,magestres,_,fro,,NOMcom,pmr,maître,DMF,maître,,,<lg n=&quot;12&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;82&quot;>
+460,83,2,82,"AlexAlb, l. 82",ab,ab,_,fro,,VERcjg,indpsp3,avoir,DMF,avoir,,,
+461,83,3,82,"AlexAlb, l. 82",beyn,beyn,_,fro,,ADVgen,,bien,DMF,bien,,,
+462,83,4,82,"AlexAlb, l. 82",affactaz,affactaz,.,fro,,VERppe,pmr,affaiter,DMF,affaiter,,</l>,
+463,84,1,83,"AlexAlb, l. 83",de,de,|,fro,,PRE,,de,DMF,de,,,<l n=&quot;83&quot;>
+464,84,2,83,"AlexAlb, l. 83",totas,totas,_,fro,,DETind,pfr,tout,DMF,tout,,,
+465,84,3,83,"AlexAlb, l. 83",arz,arz,_,fro,,NOMcom,pfr,art,DMF,art,,,
+466,84,4,83,"AlexAlb, l. 83",beyn,beyn,_,fro,,ADVgen,,bien,DMF,bien,,,
+467,84,5,83,"AlexAlb, l. 83",enseynaz,enseynaz,.,fro,,VERppe,pmr,enseigner,DMF,enseigner,,</l>,
+468,85,1,84,"AlexAlb, l. 84",qui,qui,+,fro,,PRNrel,pmn,qui,DMF,qui,,,<l n=&quot;84&quot;>
+469,85,2,84,"AlexAlb, l. 84",l,l,_,fro,,PRCper,3smr,le,DMF,le,,,
+470,85,3,84,"AlexAlb, l. 84",duystrent,duystrent,_,fro,,VERcjg,indpsp6,duire,DMF,duire,,,
+471,85,4,84,"AlexAlb, l. 84",beyn,beyn,_,fro,,ADVgen,,bien,DMF,bien,,,
+472,85,5,84,"AlexAlb, l. 84",de,de,+,fro,,PRE,,de,DMF,de,,,
+473,85,6,84,"AlexAlb, l. 84",dignitaz,dignitaz,.,fro,,NOMcom,sfr,dignité,DMF,dignité,,</l>,
+474,86,1,85,"AlexAlb, l. 85",[et],et,_,fro,,CONcoo,,et,DMF,et,,,<l n=&quot;85&quot;>
+475,86,2,85,"AlexAlb, l. 85",de,de,_,fro,,PRE,,de,DMF,de,,,
+476,86,3,85,"AlexAlb, l. 85",conseyl,conseyl,_,fro,,NOMcom,smr,conseil,DMF,conseil,,,
+477,86,4,85,"AlexAlb, l. 85",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+478,86,5,85,"AlexAlb, l. 85",de,de,|,fro,,PRE,,de,DMF,de,,,
+479,86,6,85,"AlexAlb, l. 85",bontaz,bontaz,.,fro,,NOMcom,sfr,bonté,DMF,bonté,,</l>,
+480,87,1,86,"AlexAlb, l. 86",de,de,_,fro,,PRE,,de,DMF,de,,,<l n=&quot;86&quot;>
+481,87,2,86,"AlexAlb, l. 86",sapientia,sapientia,_,fro,,NOMcom,sfr,sapience,DMF,sapience,lang_AlexAlbZ:392,,
+482,87,3,86,"AlexAlb, l. 86",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+483,87,4,86,"AlexAlb, l. 86",d,d,+,fro,,PRE,,de,DMF,de,,,
+484,87,5,86,"AlexAlb, l. 86",onestaz,onestaz,.,fro,,NOMcom,sfr,honnesté,DMF,honnesté,,</l>,
+485,88,1,87,"AlexAlb, l. 87",de,de,+,fro,,PRE,,de,DMF,de,,,<l n=&quot;87&quot;>
+486,88,2,87,"AlexAlb, l. 87",fayr,fayr,_,fro,,VERinf,,faire,DMF,faire,,,
+487,88,3,87,"AlexAlb, l. 87",estorn,estorn,_,fro,,NOMcom,smr,estour,DMF,estour,,,
+488,88,4,87,"AlexAlb, l. 87",[et],et,_,fro,,CONcoo,,et,DMF,et,,,
+489,88,5,87,"AlexAlb, l. 87",prodeltaz,prodeltaz,.,fro,,NOMcom,sfr,prodeltat,DOM,prodeltat,,</l></lg>,
 490,89,1,88,"AlexAlb, l. 88",L,l,+,fro,,,,,,,,,<lg n=&quot;13&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;88&quot;>
 491,89,2,88,"AlexAlb, l. 88",uns,uns,_,fro,,,,,,,,,
 492,89,3,88,"AlexAlb, l. 88",l,l,+,fro,,,,,,,,,
