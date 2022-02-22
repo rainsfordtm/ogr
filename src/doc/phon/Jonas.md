@@ -30,4 +30,23 @@ reconstruct the vowel \[u\], 〈ou〉 is transcribed as \[o\].
 ### 〈au〉 = [ɔ]
 
 The Latin \[au\] diphthong has flattened in *oieds*, *odit* so the 〈au〉 
-digraph in *repauser* is assumed to be Latinate. 
+digraph in *repauser* is assumed to be Latinate.
+
+Consonants
+----------
+
+* Extras: ʃ
+
+### [ʃ]
+
+Avalle [-@Avalle1967: 98] argues that Latin -skj-, -ks-, -sk- and -tj-
+give \[ʃ\] in this text, a common feature of Walloon, Lorraine and Burgundian
+dialects. This is denoted in the text by a 〈sc(i)〉 digraph. Also noted
+by [@Pope: §315] for the northern region.
+
+### [ʎ]
+
+Unusually, \[ʎ\] may be written 〈lg〉 in this text [@Avalle1967: 100] and
+this is notable with the palatalized form of prevocalic forms derived from
+ILLI, a north-eastern feature [@Pope: §1321.xv]. In *peril*, the palatal 
+is written as a simple 〈l〉 [@Avalle1967: 100].
