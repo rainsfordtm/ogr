@@ -49,4 +49,5 @@ by [@Pope: §315] for the northern region.
 Unusually, \[ʎ\] may be written 〈lg〉 in this text [@Avalle1967: 100] and
 this is notable with the palatalized form of prevocalic forms derived from
 ILLI, a north-eastern feature [@Pope: §1321.xv]. In *peril*, the palatal 
-is written as a simple 〈l〉 [@Avalle1967: 100].
+is written as a simple 〈l〉 [@Avalle1967: 100]; in *doliants* as 〈l〉
+[@Avalle1967: 81].

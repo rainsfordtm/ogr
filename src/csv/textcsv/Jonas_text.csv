@@ -197,7 +197,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 196,31,3,{si},si,_,,,,---,---,---,,---,---,"Jonas, recto, l. 31",,,
 197,31,4,ces,ces,_,,,,---,---,---,,---,---,"Jonas, recto, l. 31",,,<gap reason=&quot;illegible&quot;/>
 198,31,5,il,…il,_,,,,---,---,---,,---,---,"Jonas, recto, l. 31",,,<gap reason=&quot;illegible&quot;/>
-199,31,6,fi{sient},fisient,_,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, recto, l. 31",,,
+199,31,6,fi{sient},fisient,_,fiziəNT,f.i.s.i.e.n.t,f/i\.zi/ə\NT,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, recto, l. 31",morph_Avalle1967:105-108,,
 200,31,7,in,in,|,,,,---,---,---,,---,---,"Jonas, recto, l. 31",,<gap reason=&quot;illegible&quot;/></s>,
 201,32,1,l,l,_,,,,---,---,---,,---,---,"Jonas, recto, l. 32",,,<lb n=&quot;32&quot;/><s><gap reason=&quot;illegible&quot;/>
 202,32,2,lun,lun,_,,,,---,---,---,,---,---,"Jonas, recto, l. 32",,,<gap reason=&quot;illegible&quot;/>
@@ -565,7 +565,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 564,53,16,por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,"Jonas, verso, l. 17",,,
 565,53,17,els,els,|,eLS,e.l.s,/e\LS,fro,PRNper,PRNper,6pmr,eux,DMF,"Jonas, verso, l. 17",,,
 566,54,1,es[=prophetes],prophetes,_,prOfEtəS,p.r.o.ph.e.t.e.s,pr/O\.f/E\.t/ə\S,fro,NOMcom,NOMcom,smn,prophète,DMF,"Jonas, verso, l. 18",,,<lb n=&quot;18&quot;/><supplied reason=&quot;illegible&quot;>si erat ionas</supplied>
-567,54,2,doliants,doliants,.,doliANTS,d.o.l.i.a.n.t.s,d/o\.l/iA\NTS,fro,ADJqua,ADJqua,smn,dolant,DMF,"Jonas, verso, l. 18",,</s>,
+567,54,2,doliants,doliants,.,doʎANTS,d.o.li.a.n.t.s,d/o\.ʎ/A\NTS,fro,ADJqua,ADJqua,smn,dolant,DMF,"Jonas, verso, l. 18",phon_Avalle1967:81,</s>,
 568,54,3,car,car,_,kar,c.a.r,k/a\r,fro,CONcoo,CONcoo,,car,DMF,"Jonas, verso, l. 18",,,<s>
 569,54,4,{co},co,_,Çɔ,c.o,Ç/ɔ\,fro,PRNdem,PRNdem,snr,ce,DMF,"Jonas, verso, l. 18",,,
 570,54,5,{uidebat},videbat,_,,,,lat,VERcjg,VERcjg,indipf3,voir,DMF,"Jonas, verso, l. 18",,,
@@ -696,11 +696,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 695,59,19,cel,cel,_,Çel,c.e.l,Ç/e\l,fro,DETdem,DETdem,smr,cil,DMF,"Jonas, verso, l. 23",,,
 696,59,20,{triduanum},triduanum,|,,,,lat,NOMcom,NOMcom,smr,triduanus,wiktionary,"Jonas, verso, l. 23",,,
 697,60,1,on[=contrition],contrition,_,kONtriʦiOn,c.o.n.t.r.i.t.i.o.n,k/O\N.tr/i\.ʦ/i\./O\n,fro,NOMcom,NOMcom,sfr,contrition,DMF,"Jonas, verso, l. 24",,,<lb n=&quot;24&quot;/><supplied reason=&quot;illegible&quot;>jejunium si</supplied>
-698,60,2,fi{sient},fisient,.,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",,,
+698,60,2,fi{sient},fisient,.,fiziəNT,f.i.s.i.e.n.t,f/i\.zi/ə\NT,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",morph_Avalle1967:105-108,,
 699,60,3,e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 24",,,
 700,60,4,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 24",,,
 701,60,5,{corrovement},corrovement,_,korrovEmENT,c.o.r.r.o.v.e.m.e.n.t,k/o\r.r/o\.v/E\.m/E\NT,fro,NOMcom,NOMcom,smr,corrovement,JonasP,"Jonas, verso, l. 24",,,
-702,60,6,fi{sient},fisient,.,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",,</s>,
+702,60,6,fi{sient},fisient,.,fiziəNT,f.i.s.i.e.n.t,f/i\.zi/ə\NT,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 24",morph_Avalle1967:105-108,</s>,
 703,60,7,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 24",,,<s>
 704,60,8,ache{derent},achederent,_,AċEdærəNT,a.ch.e.d.e.r.e.n.t,/A\.ċ/E\.d/æ\.r/ə\NT,fro,VERcjg,VERcjg,indpsp6,acheter,DMF,"Jonas, verso, l. 24",,,
 705,60,9,{ueniam},veniam,_,,,,lat,ETR,ETR,,---,---,"Jonas, verso, l. 24",,,
@@ -774,7 +774,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 773,63,10,{cum},cum,_,kOm,c.u.m,k/O\m,fro,CONsub,CONsub,,comme,DMF,"Jonas, verso, l. 27",,,
 774,63,11,cil,cil,_,Çil,c.i.l,Ç/i\l,fro,PRNdem,PRNdem,pmn,cil,DMF,"Jonas, verso, l. 27",,,
 775,63,12,lo,lo,_,Lo,l.o,L/o\,fro,PRCper,PRCper,6smr,le,DMF,"Jonas, verso, l. 27",,,
-776,63,13,fi{sient},fisient,_,,,,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 27",,,
+776,63,13,fi{sient},fisient,_,fiziəNT,f.i.s.i.e.n.t,f/i\.zi/ə\NT,fro,VERcjg,VERcjg,indpsp6,faire,DMF,"Jonas, verso, l. 27",morph_Avalle1967:105-108,,
 777,63,14,dunt,dunt,_,dONT,d.u.n.t,d/O\NT,fro,PRNrel,PRNrel,---,dont,DMF,"Jonas, verso, l. 27",,,
 778,63,15,ore,ore,_,orə,o.r.e,/o\.r/ə\,fro,ADVgen,ADVgen,,or2,DMF,"Jonas, verso, l. 27",,,
 779,63,16,aueist,aveist,_,AvEiST,a.v.e.i.s.t,/A\.v/E\iST,fro,VERcjg,VERcjg,indpst5,avoir,DMF,"Jonas, verso, l. 27",,,
@@ -824,7 +824,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 823,66,2,{remunerati},remunerati,.,,,,lat,VERppe,VERppe,pmn,rémunérer,DMF,"Jonas, verso, l. 30",,</s>,
 824,66,3,fai{tes},faites,_,fAitəS,f.a.i.t.e.s,f/A\i.t/ə\S,fro,VERcjg,VERcjg,imp---5,faire,DMF,"Jonas, verso, l. 30",,,<s>
 825,66,4,uost,vost,_,voTS,v.o.st.,v/o\TS,fro,DETpos,DETpos,5pfr,votre,DMF,"Jonas, verso, l. 30",,,
-826,66,5,alsmos{nes},alsmosnes,_,ALSmɔSNəS,a.l.s.m.o.s.n.e.s,/A\LS.m/ɔ\S.N/ə\S,fro,NOMcom,NOMcom,pfr,aumône,DMF,"Jonas, verso, l. 30",,,
+826,66,5,alsmos{nes},alsmosnes,_,ALmɔSNəS,a.ls.m.o.s.n.e.s,/A\L.m/ɔ\S.N/ə\S,fro,NOMcom,NOMcom,pfr,aumône,DMF,"Jonas, verso, l. 30",phon_Avalle1967:101,,
 827,66,6,{nessi},nessi,_,,,,lat,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 30",,,<hi rend=&quot;underline&quot;>
 828,66,7,{cum},cum,_,kOm,c.u.m,k/O\m,fro,CONsub,CONsub,,comme,DMF,"Jonas, verso, l. 30",,,
 829,66,8,faire,faire,_,fAirə,f.a.i.r.e,f/A\i.r/ə\,fro,VERinf,VERinf,,faire,DMF,"Jonas, verso, l. 30",,,
@@ -945,19 +945,18 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 944,72,10,en,en,_,EN,e.n,/E\N,fro,PRE,PRE,,en,DMF,"Jonas, verso, l. 36",,,
 945,72,11,cele,cele,.,Çelə,c.e.l.e,Ç/e\.l/ə\,fro,DETdem,DETdem,sfr,cil,DMF,"Jonas, verso, l. 36",,,
 946,72,12,encredulitet,encredulitet,_,ENkrEdylitæð,e.n.c.r.e.d.u.l.i.t.e.t,/E\N.kr/E\.d/y\.l/i\.t/æ\ð,fro,NOMcom,NOMcom,sfr,incrédulité,DMF,"Jonas, verso, l. 36",,,
-947,72,13,p[er]mes,permes,_,pErmeS,p.e.r.m.e.s,p/E\r.m/e\S,fro,VERppe,VERppe,pmn,permettre,DMF,"Jonas, verso, l. 36",,,
-948,72,14,{sient},sient,.,,,,lat,VERcjg,VERcjg,subpst6,être,DMF,"Jonas, verso, l. 36",,</s>,
-949,72,15,{et},et,_,,,,lat,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 36",,,<s>
-950,72,16,{etiam},etiam,_,,,,lat,ADVgen,ADVgen,,etiam,wiktionary,"Jonas, verso, l. 36",,,
-951,72,17,plora,plora,_,pLora,p.l.o.r.a,pL/o\.r/a\,fro,VERcjg,VERcjg,indpsp3,pleurer,DMF,"Jonas, verso, l. 36",,,
-952,72,18,{les},les,_,LES,l.e.s,L/E\S,fro,PRCper,PRCper,6pma,le,DMF,"Jonas, verso, l. 36",,,
-953,72,19,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 36",,,
-954,72,20,{cum},cum,_,kOm,c.u.m,k/O\m,fro,CONsub,CONsub,,comme,DMF,"Jonas, verso, l. 36",,,
-955,72,21,dist,dist,_,diST,d.i.s.t,d/i\ST,fro,VERcjg,VERcjg,indpsp3,dire,DMF,"Jonas, verso, l. 36",,,
-956,72,22,e,e,_,e,e,/e\,fro,PRE,PRE,,en,DMF,"Jonas, verso, l. 36",,,
-957,72,23,le,le,_,LE,l.e,L/E\,fro,DETdef,DETdef,smr,le,DMF,"Jonas, verso, l. 36",,,
-958,72,24,{euangelio},evangelio,|,,,,lat,NOMcom,NOMcom,smr,évangile,DMF,"Jonas, verso, l. 36",,,
-959,73,1,meum,meum,_,,,,---,---,---,,---,---,"Jonas, verso, l. 37",,,<lb n=&quot;37&quot;/><gap reason=&quot;illegible&quot;/>
-960,73,2,en,en,_,EN,e.n,/E\N,fro,PRE,PRE,,en,DMF,"Jonas, verso, l. 37",,,
-961,73,3,auant,avant,_,AvANT,a.v.a.n.t,/A\.v/A\NT,fro,ADVgen,ADVgen,,avant,DMF,"Jonas, verso, l. 37",,,
-962,73,4,dist,dist,.|,diST,d.i.s.t,d/i\ST,fro,VERcjg,VERcjg,indpsp3,dire,DMF,"Jonas, verso, l. 37",,</s></secl></p></body></text>,
+947,72,13,p[er]mes_{sient},permessient,_,pErmesiəNT,p.e.r.m.e.ss.i.e.n.t,p/E\r.m/e\.si/ə\NT,fro,VERcjg,VERcjg,indpsp6,permettre,DMF,"Jonas, verso, l. 36",morph_Avalle1967:105-108,</s>,
+948,72,14,{et},et,_,,,,lat,CONcoo,CONcoo,,et,DMF,"Jonas, verso, l. 36",,,<s>
+949,72,15,{etiam},etiam,_,,,,lat,ADVgen,ADVgen,,etiam,wiktionary,"Jonas, verso, l. 36",,,
+950,72,16,plora,plora,_,pLora,p.l.o.r.a,pL/o\.r/a\,fro,VERcjg,VERcjg,indpsp3,pleurer,DMF,"Jonas, verso, l. 36",,,
+951,72,17,{les},les,_,LES,l.e.s,L/E\S,fro,PRCper,PRCper,6pma,le,DMF,"Jonas, verso, l. 36",,,
+952,72,18,{si},si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,"Jonas, verso, l. 36",,,
+953,72,19,{cum},cum,_,kOm,c.u.m,k/O\m,fro,CONsub,CONsub,,comme,DMF,"Jonas, verso, l. 36",,,
+954,72,20,dist,dist,_,diST,d.i.s.t,d/i\ST,fro,VERcjg,VERcjg,indpsp3,dire,DMF,"Jonas, verso, l. 36",,,
+955,72,21,e,e,_,e,e,/e\,fro,PRE,PRE,,en,DMF,"Jonas, verso, l. 36",,,
+956,72,22,le,le,_,LE,l.e,L/E\,fro,DETdef,DETdef,smr,le,DMF,"Jonas, verso, l. 36",,,
+957,72,23,{euangelio},evangelio,|,,,,lat,NOMcom,NOMcom,smr,évangile,DMF,"Jonas, verso, l. 36",,,
+958,73,1,meum,meum,_,,,,---,---,---,,---,---,"Jonas, verso, l. 37",,,<lb n=&quot;37&quot;/><gap reason=&quot;illegible&quot;/>
+959,73,2,en,en,_,EN,e.n,/E\N,fro,PRE,PRE,,en,DMF,"Jonas, verso, l. 37",,,
+960,73,3,auant,avant,_,AvANT,a.v.a.n.t,/A\.v/A\NT,fro,ADVgen,ADVgen,,avant,DMF,"Jonas, verso, l. 37",,,
+961,73,4,dist,dist,.|,diST,d.i.s.t,d/i\ST,fro,VERcjg,VERcjg,indpsp3,dire,DMF,"Jonas, verso, l. 37",,</s></secl></p></body></text>,
