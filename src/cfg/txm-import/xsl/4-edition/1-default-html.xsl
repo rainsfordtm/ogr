@@ -203,12 +203,26 @@
     <xsl:template match="tei:pb | tei:cb">
         <xsl:element name="span">
             <xsl:attribute name="class">milestone</xsl:attribute>
-            <xsl:text>[</xsl:text>
-            <xsl:value-of select="local-name()"/>
-            <xsl:text>:</xsl:text>
-            <xsl:value-of select="@n"/>
-            <xsl:text>] </xsl:text>
+            <xsl:choose>
+                <xsl:when test="@facs">
+                    <a href="{@facs}">
+                        <xsl:apply-templates select="." mode="string"/>
+                    </a>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:apply-templates select="." mode="string"/>
+                </xsl:otherwise>
+            </xsl:choose>
         </xsl:element>
+        <xsl:text> </xsl:text>
+    </xsl:template>
+    
+    <xsl:template match="tei:pb" mode="string">
+        <xsl:text>[</xsl:text>
+        <xsl:value-of select="local-name()"/>
+        <xsl:text>:</xsl:text>
+        <xsl:value-of select="@n"/>
+        <xsl:text>]</xsl:text>
     </xsl:template>
 
     <xsl:template match="tei:p">
