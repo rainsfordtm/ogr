@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr.Serments_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogr.Serments.line.xml">
+<feat xlink:href="#line_0" value="Serments, 13r, col. b, l. 3"/><!--  lodhuuicus quoniam maior natu erat prior -->
+<feat xlink:href="#line_1" value="Serments, 13r, col. b, l. 4"/><!--  haec deinde se servaturum testatus est -->
+<feat xlink:href="#line_2" value="Serments, 13r, col. b, l. 5"/><!--  pro deo amur et pro christian poblo et nostro commun -->
+<feat xlink:href="#line_3" value="Serments, 13r, col. b, l. 6"/><!--  salvament d ist di en avant in quant deus -->
+<feat xlink:href="#line_4" value="Serments, 13r, col. b, l. 7"/><!--  savir et podir me dunat si salverai eo -->
+<feat xlink:href="#line_5" value="Serments, 13r, col. b, l. 8"/><!--  cist meon fradre karlo et in aiudha -->
+<feat xlink:href="#line_6" value="Serments, 13r, col. b, l. 9"/><!--  et in cadhuna cosa si cum om per dreit son -->
+<feat xlink:href="#line_7" value="Serments, 13r, col. b, l. 10"/><!--  fradra salvar dift in o quid il mi altresi -->
+<feat xlink:href="#line_8" value="Serments, 13r, col. b, l. 11"/><!--  fazet et ab ludher nul plaid nunquam -->
+<feat xlink:href="#line_9" value="Serments, 13r, col. b, l. 12"/><!--  prindrai qui meon vol cist meon fradre -->
+<feat xlink:href="#line_10" value="Serments, 13r, col. b, l. 13"/><!--  karle in damno sit quod cum lodhuuicus -->
+<feat xlink:href="#line_11" value="Serments, 13r, col. b, l. 14"/><!--  explesset karolus teudisca lingua sic hec -->
+<feat xlink:href="#line_12" value="Serments, 13r, col. b, l. 15"/><!--  eadem verba testatus est -->
+<feat xlink:href="#line_13" value="Serments, 13r, col. b, l. 16"/><!--  in godes minna ind in thes christanes folches -->
+<feat xlink:href="#line_14" value="Serments, 13r, col. b, l. 17"/><!--  ind unser bedhero gealtnissi fon thesemo -->
+<feat xlink:href="#line_15" value="Serments, 13r, col. b, l. 18"/><!--  dage frammordes so fram so mir got -->
+<feat xlink:href="#line_16" value="Serments, 13r, col. b, l. 19"/><!--  geuuizci indi mahd furgibit so haldih tesan -->
+<feat xlink:href="#line_17" value="Serments, 13r, col. b, l. 20"/><!--  minan bruodher soso man mit rehtu -->
+<feat xlink:href="#line_18" value="Serments, 13r, col. b, l. 21"/><!--  sinan bruher scal in thiu thaz er mig so sama -->
+<feat xlink:href="#line_19" value="Serments, 13r, col. b, l. 22"/><!--  duo indi mit luheren in nohheiniu thing -->
+<feat xlink:href="#line_20" value="Serments, 13r, col. b, l. 23"/><!--  ne gegango the minan uuillon imo -->
+<feat xlink:href="#line_21" value="Serments, 13r, col. b, l. 24"/><!--  ce scadhen uuerdhen -->
+<feat xlink:href="#line_22" value="Serments, 13r, col. b, l. 25"/><!--  sacramentum autem quod utrorumque populus -->
+<feat xlink:href="#line_23" value="Serments, 13r, col. b, l. 26"/><!--  quique propria lingua testatus est -->
+<feat xlink:href="#line_24" value="Serments, 13r, col. b, l. 27"/><!--  romana lingua sic se habet si lodhuuigs -->
+<feat xlink:href="#line_25" value="Serments, 13r, col. b, l. 28"/><!--  sagrament que son fradre karlo -->
+<feat xlink:href="#line_26" value="Serments, 13r, col. b, l. 29"/><!--  jurat conservat et carlus meos sendra -->
+<feat xlink:href="#line_27" value="Serments, 13r, col. b, l. 30"/><!--  de suo part non lo s tanit si io returnar non -->
+<feat xlink:href="#line_28" value="Serments, 13r, col. b, l. 31"/><!--  l int pois ne io ne neuls cui eo returnar -->
+<feat xlink:href="#line_29" value="Serments, 13r, col. b, l. 32"/><!--  int pois in nulla aiudha contra lodhuwig -->
+<feat xlink:href="#line_30" value="Serments, 13r, col. b, l. 33"/><!--  nun li iu er teudisca autem lingua -->
+<feat xlink:href="#line_31" value="Serments, 13v, col. a, l. 1"/><!--  oba karl then eid then er sinemo bruodher -->
+<feat xlink:href="#line_32" value="Serments, 13v, col. a, l. 2"/><!--  ludhuuuige gesuor geleistit indi ludhuuuig -->
+<feat xlink:href="#line_33" value="Serments, 13v, col. a, l. 3"/><!--  min herro then er imo gesuor forbrihchit -->
+<feat xlink:href="#line_34" value="Serments, 13v, col. a, l. 4"/><!--  ob ih inan es iruuenden ne mag noh -->
+<feat xlink:href="#line_35" value="Serments, 13v, col. a, l. 5"/><!--  ih noh thero nohhein then ih es iruuenden mag -->
+<feat xlink:href="#line_36" value="Serments, 13v, col. a, l. 6"/><!--  uuidar karle imo ce follusti ne uuirdhit -->
+</featList>
+</paula>

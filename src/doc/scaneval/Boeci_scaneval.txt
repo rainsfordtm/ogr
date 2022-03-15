@@ -1,0 +1,69 @@
+Rules applied: R20, R21a
+Lines correct: 207 of 258
+Pass history:
+Tried rules R20; 206 lines correct.
+Tried rules R1; 203 lines correct.
+Tried rules R21a; 191 lines correct.
+Tried rules R21b; 149 lines correct.
+Tried rules R8; 189 lines correct.
+Tried rules R20, R1; 205 lines correct.
+Tried rules R20, R21a; 207 lines correct.
+Tried rules R20, R21b; 159 lines correct.
+Tried rules R20, R8; 205 lines correct.
+Tried rules R20, R21a, R1; 206 lines correct.
+Tried rules R20, R21a, R21b; 160 lines correct.
+Tried rules R20, R21a, R8; 206 lines correct.
+OPTIMIZED LINES
+3    --     qui nos soste tan quan per terra annam
+22    --     auvent la gent fazia en so sermo
+37    --     mas d una causa u nom avia genzor
+58    --     fez sos mes segre si lz fez metre e preso
+59    --     e l capitoli l endema a l dia clar
+65    --     a obs los grex roma volia tradar
+83    --     de tota roma l emperi aig a mandar
+133    --     si cobre avers lo cor a l xristia
+135    --     e deu no s fia ni deus e lui e no ma
+145    --     cel non es bos que a frebla scala s te
+148    --     e quals es l om qui a ferma schala s te
+153    --     e sanctum spiritum qui e bos omes desend
+154    --     que que l corps faca eu li vai l arma dozen
+163    --     ja no es obs fox i ssia alumnaz
+174    --     qui e leis se fia morz no l es a doptar
+187    --     ella se fez anz avia plus de mil
+193    --     ella ab boeci parlet ta dolzament
+195    --     que zo esperen que faza a lor talen
+205    --     zo signifiga la vita qui en ter es
+227    --     zo sun bon omne qui an redems lor peccaz
+245    --     e sa ma dextra la domna u libre te
+248    --     si l om o forfai e pois no s en repen
+252    --     cel bona i vai qui amor ab lei pren
+256    --     zo signifiga justici corporal
+
+BAD LINES
+7    --     que us non o preza si s trada son parent
+14    --     que eps lor forfazc sempre fai epsament
+15    --     laisa n deu lo grant omnipotent
+25    --     mas molt s en penet quar non i mes foiso
+27    --     donz fo boecis corps ag bo e pro
+67    --     sal el en estant e cuidet s en salvar
+69    --     cil li faliren que l solient ajudar
+81    --     e te m soli eu a toz dias fiar
+92    --     qui sapiencia compenre pogues
+95    --     lainz e las carcers o el jazia pres
+97    --     de sol e luna cel e terra mar cum es
+98    --     nos e molz libres o trobam legen
+102    --     com el es velz qui pois lo soste
+128    --     e dunc apella mort ta dolzament
+138    --     qui lui laudaven dereer e uz dias antix
+139    --     qu el era coms molt onraz e rix
+146    --     qui tota ora sempre vai chaden
+155    --     bos cristians qui a ital eschala s te
+164    --     veder ent pot l om per quaranta ciptaz
+183    --     ella smetessma ten las claus de paradis
+192    --     no comprari om ab mil livras d argent
+200    --     il sun ta bel e ta blanc e ta quandi
+206    --     sobre la schapla escript avia u tei grezesc
+225    --     cal sun li auzil qui sun a l tei montat
+230    --     cal an li auzil significacio
+254    --     quan se reguarda be bo merite l en rent
+257    --     de pec

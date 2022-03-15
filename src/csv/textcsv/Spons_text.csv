@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,textlineid,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,SPONS[US],sponsus,.,,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item&quot;/><lb/><docTitle>
+1,1,1,SPONS[US],sponsus,.,157,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item&quot;/><lb/><docTitle>
 2,2,1,Ad–est,adest,–,VQVQQ,a.d.e.s.t,'/V\.Q/V\QQ,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,<body xml:lang=&quot;pro&quot;><prologue><sp><lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;1&quot;>
 3,2,2,spo[n]sus,sponsus,–|,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,
 4,2,3,qui,qui,_,QRV,q.u.i,QR/V\,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,<pb n=&quot;53v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f114.item&quot;/><lb/>
@@ -117,7 +117,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 116,20,4,lauet,lavet,_,LAvɛT,l.a.v.e.t,L/A\.'v/ɛ\T,l-.a[.-w-.à[.-t-(o[),pro,18,VERppe,VERppe,smn,lavar,DOM,laver,"Spons, l. 18",,,<lb/>
 117,20,5,e,e,+,E,e,/E\,,pro,18,CONcoo,CONcoo,,e,DOM,et,"Spons, l. 18",,,
 118,20,6,ba–te_et,bateet,_,bAtEɛT,b.a.t.e.e.t,b/A\.t/E\.'/ɛ\T,b-.a](-p).t-.e](-dʣ-).à[.-t-(o[)(-s-),pro,18,VERppe,VERppe,smn,batejar,DOM,baptier,"Spons, l. 18",SponsusA:72-73,</l>,
-119,21,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,19,ADVgen,ADVgen,,gaire,DOM,guère,"Spons, l. 19",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l>,<l n=&quot;19&quot;>
+119,21,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,,pro,19,ADVgen,ADVgen,,gaire,DOM,guère,"Spons, l. 19",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l></lg>,<l n=&quot;19&quot;>
 120,22,1,Eu,eu,_,eu,e.u,/e\u,,pro,20,PRNper,PRNper,3smn,el2,DOM,il,"Spons, l. 20",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;20&quot;>
 121,22,2,fo,fo,_,fo,f.o,f/o\,f-.ó[(i[)(-t-),pro,20,VERcjg,VERcjg,indpsp3,èser,DOM,être,"Spons, l. 20",,,
 122,22,3,batut,batut,–,bAtyT,b.a.t.u.t,b/A\.'t/y\T,b-.a].-tt-.ù[.-t-(o[)(-s-),pro,20,VERppe,VERppe,smn,batre,DOM,battre,"Spons, l. 20",,,

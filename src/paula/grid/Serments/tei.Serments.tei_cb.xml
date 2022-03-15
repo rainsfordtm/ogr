@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Serments_tei_cb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_cb" xml:base="ogr.Serments.tok.xml">
+<mark id="tei_cb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_973')))"/><!-- lodhuuicus quoniam maior natu erat prior haec deinde se servaturum testatus est pro deo amur et pro christian poblo et nostro commun salvament d ist di en avant in quant deus savir et podir me dunat si salverai eo cist meon fradre karlo et in aiudha et in cadhuna cosa si cum om per dreit son fradra salvar dift in o quid il mi altresi fazet et ab ludher nul plaid nunquam prindrai qui meon vol cist meon fradre karle in damno sit quod cum lodhuuicus explesset karolus teudisca lingua sic hec eadem verba testatus est in godes minna ind in thes christanes folches ind unser bedhero gealtnissi fon thesemo dage frammordes so fram so mir got geuuizci indi mahd furgibit so haldih tesan minan bruodher soso man mit rehtu sinan bruher scal in thiu thaz er mig so sama duo indi mit luheren in nohheiniu thing ne gegango the minan uuillon imo ce scadhen uuerdhen sacramentum autem quod utrorumque populus quique propria lingua testatus est romana lingua sic se habet si lodhuuigs sagrament que son fradre karlo jurat conservat et carlus meos sendra de suo part non lo s tanit si io returnar non l int pois ne io ne neuls cui eo returnar int pois in nulla aiudha contra lodhuwig nun li iu er teudisca autem lingua  -->
+<mark id="tei_cb_1" xlink:href="#xpointer(id('tok_974')/range-to(id('tok_1177')))"/><!-- oba karl then eid then er sinemo bruodher ludhuuuige gesuor geleistit indi ludhuuuig min herro then er imo gesuor forbrihchit ob ih inan es iruuenden ne mag noh ih noh thero nohhein then ih es iruuenden mag uuidar karle imo ce follusti ne uuirdhit  -->
+</markList>
+</paula>

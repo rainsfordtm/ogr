@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.AlexisProl_tei_s_xml_lang"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_s_xml_lang" xml:base="tei.AlexisProl.tei_s.xml">
+<feat xlink:href="#tei_s_0" value="--"/><!--    -->
+<feat xlink:href="#tei_s_1" value="--"/><!--    -->
+<feat xlink:href="#tei_s_2" value="--"/><!--    -->
+<feat xlink:href="#tei_s_3" value="--"/><!--    -->
+<feat xlink:href="#tei_s_4" value="--"/><!--    -->
+<feat xlink:href="#tei_s_5" value="--"/><!--    -->
+</featList>
+</paula>

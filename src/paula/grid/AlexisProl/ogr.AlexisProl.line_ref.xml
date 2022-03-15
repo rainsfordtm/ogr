@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr.AlexisProl_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogr.AlexisProl.line.xml">
+<feat xlink:href="#line_0" value="AlexisProl, f. 29r, l. 1"/><!--  ici cumencet amiable cancun e spiritel raisun d iceol noble barun eufemien par num e de la vie de sum filz boneuret de l quel nus avum oit lire e canter -->
+<feat xlink:href="#line_1" value="AlexisProl, f. 29r, l. 3"/><!--  par le divine volentet il desirrables icel sul filz angendrat -->
+<feat xlink:href="#line_2" value="AlexisProl, f. 29r, l. 4"/><!--  apres le naisance co fut emfes de deu methime amet e de pere e de mere par grant certet nurrit -->
+<feat xlink:href="#line_3" value="AlexisProl, f. 29r, l. 6"/><!--  la sue juvente fut honeste e spiritel -->
+<feat xlink:href="#line_4" value="AlexisProl, f. 29r, l. 7"/><!--  par l amistet de l surerain pietet la sue spuse juvene cumandat a l spus vif de veritet ki est un sul faitur e regnet an trinitiet -->
+<feat xlink:href="#line_5" value="AlexisProl, f. 29r, l. 9"/><!--  icesta istorie est amiable grace e suverain consulaciun a cascun memorie spiritel les quels vivent purement sulunc castethet e dignement sei delitent e s goies de l ciel et e s noces virginels -->
+</featList>
+</paula>

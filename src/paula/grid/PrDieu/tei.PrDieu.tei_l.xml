@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrDieu_tei_l"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr.PrDieu.tok.xml">
+<mark id="tei_l_0" xlink:href="#xpointer(id('tok_7')/range-to(id('tok_33')))"/><!-- be deu hoi mais finir nostra razos  -->
+<mark id="tei_l_1" xlink:href="#xpointer(id('tok_34')/range-to(id('tok_61')))"/><!-- un pauc soi las que trop fo aut lo sos  -->
+<mark id="tei_l_2" xlink:href="#xpointer(id('tok_62')/range-to(id('tok_89')))"/><!-- leven doi clerc que diien lo respos  -->
+<mark id="tei_l_3" xlink:href="#xpointer(id('tok_90')/range-to(id('tok_115')))"/><!-- tu autem deus qui est paire glorios  -->
+<mark id="tei_l_4" xlink:href="#xpointer(id('tok_116')/range-to(id('tok_142')))"/><!-- nos te preiam que t remembre de nos  -->
+<mark id="tei_l_5" xlink:href="#xpointer(id('tok_143')/range-to(id('tok_172')))"/><!-- quant triaras los mals d antre los bos  -->
+</markList>
+</paula>

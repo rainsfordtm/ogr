@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.SGregPaint_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.SGregPaint.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_45')))"/><!-- este vus le respuns saint gregorie a secundin le reclus  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_46')/range-to(id('tok_77')))"/><!-- cum il demandout raison de s paintures  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_78')/range-to(id('tok_104')))"/><!-- altra cose est aurier la painture  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_105')/range-to(id('tok_149')))"/><!-- e altra cose est par le historie de la painture aprendre  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_150')/range-to(id('tok_195')))"/><!-- que la cose seit ad aurier kar ico que la scripture aprestet  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_196')/range-to(id('tok_251')))"/><!-- a s lisanz ico aprestet la painture a s ignoranz kar an icele veient  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_252')/range-to(id('tok_313')))"/><!-- les ignoranz quet il deivent sivre an icele lisent icels ki letres ne sevent  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_314')/range-to(id('tok_366')))"/><!-- ampur la quele cose maismement la peinture est pur leceun a s genz  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_367')/range-to(id('tok_429')))"/><!-- la quele cose tu qui habites entra les genz deuses antendra que tu n angendrasses  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_430')/range-to(id('tok_492')))"/><!-- scandale de crueles curages dementiers que tu esbraseras nient cuintement  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_493')/range-to(id('tok_548')))"/><!-- par dreit amvidie geres nient ne deut estra fruissiet ico que nient ne  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_549')/range-to(id('tok_604')))"/><!-- parmaint ad aurier an eglises mais ad anstruire sulement les penses  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_605')/range-to(id('tok_663')))"/><!-- de s nient savanz e ampur ico que l ancienetiet nient senz raisun cumandat  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_664')/range-to(id('tok_719')))"/><!-- les hystories estra depaint e s honurables lius de s sainz se tu feisses  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_720')/range-to(id('tok_784')))"/><!-- amvidie par discrecion senz dutance poeies salvablement purtenir les coses  -->
+<mark id="tei_lb_15" xlink:href="#xpointer(id('tok_785')/range-to(id('tok_844')))"/><!-- que tu attendeies e nient deperdra la cuileita folc mais maisment asemblier  -->
+<mark id="tei_lb_16" xlink:href="#xpointer(id('tok_845')/range-to(id('tok_904')))"/><!-- que le nient fraint num de pastur excellist e nient an i oust la culpa de l  -->
+<mark id="tei_lb_17" xlink:href="#xpointer(id('tok_905')/range-to(id('tok_914')))"/><!-- deperdethur  -->
+</markList>
+</paula>

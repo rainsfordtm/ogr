@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.AlexisProl_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.AlexisProl.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_48')))"/><!-- ici cumencet amiable cancun e spiritel raisun d iceol noble  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_49')/range-to(id('tok_92')))"/><!-- barun eufemien par num e de la vie de sum filz boneuret  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_93')/range-to(id('tok_130')))"/><!-- de l quel nus avum oit lire e canter par le divine  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_131')/range-to(id('tok_186')))"/><!-- volentet il desirrables icel sul filz angendrat apres le naisance  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_187')/range-to(id('tok_225')))"/><!-- co fut emfes de deu methime amet e de pere e de mere  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_226')/range-to(id('tok_275')))"/><!-- par grant certet nurrit la sue juvente fut honeste e spiritel  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_276')/range-to(id('tok_327')))"/><!-- par l amistet de l surerain pietet la sue spuse juvene cumandat  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_328')/range-to(id('tok_367')))"/><!-- a l spus vif de veritet ki est un sul faitur e regnet  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_368')/range-to(id('tok_415')))"/><!-- an trinitiet icesta istorie est amiable grace e suverain  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_416')/range-to(id('tok_461')))"/><!-- consulaciun a cascun memorie spiritel les quels vivent  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_462')/range-to(id('tok_503')))"/><!-- purement sulunc castethet e dignement sei delitent  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_504')/range-to(id('tok_535')))"/><!-- e s goies de l ciel et e s noces virginels  -->
+</markList>
+</paula>

@@ -6,6 +6,9 @@
     <xsl:output indent="yes"/>
 
     <xsl:param name="use-verse-lines">true</xsl:param>
+    
+    <!-- This parameter sets the names of the word ana attributes to include the TXM corpus -->
+    <xsl:param name="word-anas">line_id linewd dipl phon phon_map syllabified wd_div lang lemma lemma_src lemma_dmf pos pos_syn morph ref prosody metpos soptem line_met</xsl:param>
 
     <xsl:template match="/*">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">
@@ -42,11 +45,15 @@
 
     <xsl:template match="@ana">
         <xsl:variable name="anas" select="tokenize(., ' ')"/>
+        <xsl:variable name="parent" select="parent::node()/local-name()"/>
         <xsl:for-each select="$anas">
             <xsl:choose>
                 <xsl:when test="substring-before(., '£')='#ref'">
                     <!-- Reinstates spaces in the ref attribute -->
                     <xsl:attribute name="ref" select="replace(substring-after(., '£'), '_', ' ')"/>
+                </xsl:when>
+                <xsl:when test="$parent='w' and not(contains($word-anas, substring(substring-before(., '£'),2)))">
+                    <!-- This is a word-level annotation we do not want to export, so do nothing -->
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:attribute name="{substring(substring-before(., '£'),2)}" select="substring-after(., '£')"/>

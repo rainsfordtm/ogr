@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrVierge2_tei_pb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb" xml:base="ogr.PrVierge2.tok.xml">
+<mark id="tei_pb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_431')))"/><!-- in hoc anni circulo vita datur seculo nato nobis parvulo de virgine maria mei amic e mei fiel laisat estar lo gazel aprendet u so noel de virgine fons de suo rivulo nascitur pro populo necto mortis vinculo de virgine lais l om dire chi no u sab qu eu no l dirai ses nul gab mout n em issit a bo chab de virgine quod vetustas suffocat hoc ad vitam revocat nam se deus collocat de virgine so sabiat no chal c om s en desesper deus i ven per nos maner in te virgo maria sine viri copula florem dedit virgula qui manet in secula de virgine non perdrai  -->
+<mark id="tei_pb_1" xlink:href="#xpointer(id('tok_432')/range-to(id('tok_867')))"/><!-- virginitat tos temps aurai chastitat si cum es profetizat pois virgo maria summi patri filio datur in presepio sed volentes mansio e eu soi l angels gabriels apor vos salut fiels deus de sus de u cel in te animal impositum veneratur agnitum hunc infantem genitum e cum la reina l enten si l respon tam piamen aco sia a u so talent e o beata femina cujus ventris sarcina mundi luit crimina e cum la reina l auvit si l amet e si u jauvit aco sia a u so chausit in te illi laus et gloria honor virtus gratia decus et victoria e tu es mesatjes a l rei si  -->
+<mark id="tei_pb_2" xlink:href="#xpointer(id('tok_868')/range-to(id('tok_1090')))"/><!-- cum tu o dit o crei a lui me do e m autrei ego virgo ancela soi damrideu si cum tu o dit o cre eu maire serai damrideu e pois l angels es de u cel vengut e la dompna l a creut per tal n esmes erumbut de virgine eu vos ai dit mon talan e vos diiat en avan chaques vers nous ab nos jan de virgine  -->
+</markList>
+</paula>

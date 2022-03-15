@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrVierge2_tei_lg"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr.PrVierge2.tok.xml">
+<mark id="tei_lg_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_60')))"/><!-- in hoc anni circulo vita datur seculo nato nobis parvulo de virgine maria  -->
+<mark id="tei_lg_1" xlink:href="#xpointer(id('tok_61')/range-to(id('tok_117')))"/><!-- mei amic e mei fiel laisat estar lo gazel aprendet u so noel de virgine  -->
+<mark id="tei_lg_2" xlink:href="#xpointer(id('tok_118')/range-to(id('tok_176')))"/><!-- fons de suo rivulo nascitur pro populo necto mortis vinculo de virgine  -->
+<mark id="tei_lg_3" xlink:href="#xpointer(id('tok_177')/range-to(id('tok_241')))"/><!-- lais l om dire chi no u sab qu eu no l dirai ses nul gab mout n em issit a bo chab de virgine  -->
+<mark id="tei_lg_4" xlink:href="#xpointer(id('tok_242')/range-to(id('tok_304')))"/><!-- quod vetustas suffocat hoc ad vitam revocat nam se deus collocat de virgine  -->
+<mark id="tei_lg_5" xlink:href="#xpointer(id('tok_305')/range-to(id('tok_364')))"/><!-- so sabiat no chal c om s en desesper deus i ven per nos maner in te virgo maria  -->
+<mark id="tei_lg_6" xlink:href="#xpointer(id('tok_365')/range-to(id('tok_421')))"/><!-- sine viri copula florem dedit virgula qui manet in secula de virgine  -->
+<mark id="tei_lg_7" xlink:href="#xpointer(id('tok_422')/range-to(id('tok_493')))"/><!-- non perdrai virginitat tos temps aurai chastitat si cum es profetizat pois virgo maria  -->
+<mark id="tei_lg_8" xlink:href="#xpointer(id('tok_494')/range-to(id('tok_541')))"/><!-- summi patri filio datur in presepio sed volentes mansio e  -->
+<mark id="tei_lg_9" xlink:href="#xpointer(id('tok_542')/range-to(id('tok_597')))"/><!-- eu soi l angels gabriels apor vos salut fiels deus de sus de u cel in te  -->
+<mark id="tei_lg_10" xlink:href="#xpointer(id('tok_598')/range-to(id('tok_648')))"/><!-- animal impositum veneratur agnitum hunc infantem genitum e  -->
+<mark id="tei_lg_11" xlink:href="#xpointer(id('tok_649')/range-to(id('tok_699')))"/><!-- cum la reina l enten si l respon tam piamen aco sia a u so talent e  -->
+<mark id="tei_lg_12" xlink:href="#xpointer(id('tok_700')/range-to(id('tok_747')))"/><!-- o beata femina cujus ventris sarcina mundi luit crimina e  -->
+<mark id="tei_lg_13" xlink:href="#xpointer(id('tok_748')/range-to(id('tok_800')))"/><!-- cum la reina l auvit si l amet e si u jauvit aco sia a u so chausit in te  -->
+<mark id="tei_lg_14" xlink:href="#xpointer(id('tok_801')/range-to(id('tok_848')))"/><!-- illi laus et gloria honor virtus gratia decus et victoria e  -->
+<mark id="tei_lg_15" xlink:href="#xpointer(id('tok_849')/range-to(id('tok_905')))"/><!-- tu es mesatjes a l rei si cum tu o dit o crei a lui me do e m autrei ego virgo  -->
+<mark id="tei_lg_16" xlink:href="#xpointer(id('tok_906')/range-to(id('tok_962')))"/><!-- ancela soi damrideu si cum tu o dit o cre eu maire serai damrideu e pois  -->
+<mark id="tei_lg_17" xlink:href="#xpointer(id('tok_963')/range-to(id('tok_1027')))"/><!-- l angels es de u cel vengut e la dompna l a creut per tal n esmes erumbut de virgine  -->
+<mark id="tei_lg_18" xlink:href="#xpointer(id('tok_1028')/range-to(id('tok_1090')))"/><!-- eu vos ai dit mon talan e vos diiat en avan chaques vers nous ab nos jan de virgine  -->
+</markList>
+</paula>

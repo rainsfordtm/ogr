@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Serments_tei_s_tei_s"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_s" xml:base="tei.Serments.tei_s.xml">
+<feat xlink:href="#tei_s_0" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_1" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_2" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_3" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_4" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_5" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_6" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_7" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_8" value="tei_s"/><!-- tei_s -->
+<feat xlink:href="#tei_s_9" value="tei_s"/><!-- tei_s -->
+</featList>
+</paula>

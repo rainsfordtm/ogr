@@ -1,0 +1,19 @@
+Rules applied: R21c
+Lines correct: 6 of 7
+Pass history:
+Tried rules R20; 5 lines correct.
+Tried rules R1; 5 lines correct.
+Tried rules R2; 5 lines correct.
+Tried rules R21a; 5 lines correct.
+Tried rules R21c; 6 lines correct.
+Tried rules R21b; 6 lines correct.
+Tried rules R21c, R20; 6 lines correct.
+Tried rules R21c, R1; 6 lines correct.
+Tried rules R21c, R2; 6 lines correct.
+Tried rules R21c, R21a; 6 lines correct.
+Tried rules R21c, R21b; 6 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+0    --     tu autem

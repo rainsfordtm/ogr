@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Passion_tei_cb_n"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_cb_n" xml:base="tei.Passion.tei_cb.xml">
+<feat xlink:href="#tei_cb_0" value="a"/><!--    -->
+<feat xlink:href="#tei_cb_1" value="b"/><!--    -->
+<feat xlink:href="#tei_cb_2" value="c"/><!--    -->
+<feat xlink:href="#tei_cb_3" value="a"/><!--    -->
+<feat xlink:href="#tei_cb_4" value="b"/><!--    -->
+<feat xlink:href="#tei_cb_5" value="3"/><!--    -->
+<feat xlink:href="#tei_cb_6" value="a"/><!--    -->
+<feat xlink:href="#tei_cb_7" value="b"/><!--    -->
+<feat xlink:href="#tei_cb_8" value="c"/><!--    -->
+<feat xlink:href="#tei_cb_9" value="a"/><!--    -->
+<feat xlink:href="#tei_cb_10" value="b"/><!--    -->
+<feat xlink:href="#tei_cb_11" value="c"/><!--    -->
+</featList>
+</paula>

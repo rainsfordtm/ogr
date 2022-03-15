@@ -1,0 +1,39 @@
+Rules applied: R1
+Lines correct: 54 of 76
+Pass history:
+Tried rules R20; 52 lines correct.
+Tried rules R1; 54 lines correct.
+Tried rules R2; 52 lines correct.
+Tried rules R21a; 52 lines correct.
+Tried rules R21c; 52 lines correct.
+Tried rules R21b; 49 lines correct.
+Tried rules R1, R20; 54 lines correct.
+Tried rules R1, R2; 54 lines correct.
+Tried rules R1, R21a; 54 lines correct.
+Tried rules R1, R21c; 54 lines correct.
+Tried rules R1, R21b; 51 lines correct.
+OPTIMIZED LINES
+65    --     si cum tu o dit o cre eu
+
+BAD LINES
+3    --     de virgine maria
+7    --     de virgine
+11    --     de virgine
+15    --     de virgine
+19    --     de virgine
+20    --     so sabiat
+23    --     in te virgo maria
+27    --     de virgine
+31    --     pois virgo maria
+35    --     e
+38    --     deus de sus de u cel
+39    --     in te
+43    --     e
+47    --     e
+51    --     e
+55    --     in te
+59    --     e
+63    --     ego virgo
+67    --     e pois
+71    --     de virgine
+75    --     de virgine

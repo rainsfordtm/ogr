@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrDieu_tei_l_n"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l_n" xml:base="tei.PrDieu.tei_l.xml">
+<feat xlink:href="#tei_l_0" value="1"/><!--    -->
+<feat xlink:href="#tei_l_1" value="2"/><!--    -->
+<feat xlink:href="#tei_l_2" value="3"/><!--    -->
+<feat xlink:href="#tei_l_3" value="4"/><!--    -->
+<feat xlink:href="#tei_l_4" value="5"/><!--    -->
+<feat xlink:href="#tei_l_5" value="6"/><!--    -->
+</featList>
+</paula>

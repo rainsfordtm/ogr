@@ -93,6 +93,11 @@
                     <h2>
                         <xsl:value-of select="@n"/>
                     </h2>
+                    <xsl:if test="@facs">
+                        <span class="facslink">
+                            <a href="{@facs}">[Link to manuscript image]</a>
+                        </span>
+                    </xsl:if>
                     <xsl:choose>
                         <xsl:when test="following::tei:cb">
                             <!-- A one-row table -->

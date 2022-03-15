@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Spons_tei_s_xml_lang"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_s_xml_lang" xml:base="tei.Spons.tei_s.xml">
+<feat xlink:href="#tei_s_0" value="lat"/><!--    -->
+<feat xlink:href="#tei_s_1" value="lat"/><!--    -->
+</featList>
+</paula>
