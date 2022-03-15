@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.SLeger_tei_lg_rhyme"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg_rhyme" xml:base="tei.SLeger.tei_lg.xml">
+<feat xlink:href="#tei_lg_0" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_1" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_2" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_3" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_4" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_5" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_6" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_7" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_8" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_9" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_10" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_11" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_12" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_13" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_14" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_15" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_16" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_17" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_18" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_19" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_20" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_21" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_22" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_23" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_24" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_25" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_26" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_27" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_28" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_29" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_30" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_31" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_32" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_33" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_34" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_35" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_36" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_37" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_38" value="aabbcc"/><!--    -->
+<feat xlink:href="#tei_lg_39" value="aabbcc"/><!--    -->
+</featList>
+</paula>

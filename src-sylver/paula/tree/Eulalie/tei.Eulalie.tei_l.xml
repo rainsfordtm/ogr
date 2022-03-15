@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Eulalie_tei_l"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr.Eulalie.tok.xml">
+<mark id="tei_l_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_20')))"/><!-- buona pulcella fut eulalia  -->
+<mark id="tei_l_1" xlink:href="#xpointer(id('tok_21')/range-to(id('tok_46')))"/><!-- bel auret corps bellezour anima  -->
+<mark id="tei_l_2" xlink:href="#xpointer(id('tok_47')/range-to(id('tok_73')))"/><!-- voldrent la veintre li deo inimi  -->
+<mark id="tei_l_3" xlink:href="#xpointer(id('tok_74')/range-to(id('tok_100')))"/><!-- voldrent la faire diaule servir  -->
+<mark id="tei_l_4" xlink:href="#xpointer(id('tok_101')/range-to(id('tok_132')))"/><!-- elle no nt eskoltet les mals conselliers  -->
+<mark id="tei_l_5" xlink:href="#xpointer(id('tok_133')/range-to(id('tok_162')))"/><!-- qu elle deo raneiet chi maent sus en ciel  -->
+<mark id="tei_l_6" xlink:href="#xpointer(id('tok_163')/range-to(id('tok_189')))"/><!-- ne por or ned argent ne paramenz  -->
+<mark id="tei_l_7" xlink:href="#xpointer(id('tok_190')/range-to(id('tok_215')))"/><!-- por manatce regiel ne preiement  -->
+<mark id="tei_l_8" xlink:href="#xpointer(id('tok_216')/range-to(id('tok_245')))"/><!-- niule cose non la pouret omque pleier  -->
+<mark id="tei_l_9" xlink:href="#xpointer(id('tok_246')/range-to(id('tok_279')))"/><!-- la polle sempre non amast lo deo menestier  -->
+<mark id="tei_l_10" xlink:href="#xpointer(id('tok_280')/range-to(id('tok_306')))"/><!-- e por o fu presentede maximiien  -->
+<mark id="tei_l_11" xlink:href="#xpointer(id('tok_307')/range-to(id('tok_336')))"/><!-- chi rex eret a cels dis soure pagiens  -->
+<mark id="tei_l_12" xlink:href="#xpointer(id('tok_337')/range-to(id('tok_364')))"/><!-- il li enortet dont lei nonque chielt  -->
+<mark id="tei_l_13" xlink:href="#xpointer(id('tok_365')/range-to(id('tok_389')))"/><!-- qued elle fuiet lo nom christiien  -->
+<mark id="tei_l_14" xlink:href="#xpointer(id('tok_390')/range-to(id('tok_413')))"/><!-- ell ent adunet lo suon element  -->
+<mark id="tei_l_15" xlink:href="#xpointer(id('tok_414')/range-to(id('tok_443')))"/><!-- melz sostendreiet les empedementz  -->
+<mark id="tei_l_16" xlink:href="#xpointer(id('tok_444')/range-to(id('tok_466')))"/><!-- qu elle perdesse sa virginitet  -->
+<mark id="tei_l_17" xlink:href="#xpointer(id('tok_467')/range-to(id('tok_494')))"/><!-- por o s furet morte a grand honestet  -->
+<mark id="tei_l_18" xlink:href="#xpointer(id('tok_495')/range-to(id('tok_525')))"/><!-- enz en l fou lo getterent com arde tost  -->
+<mark id="tei_l_19" xlink:href="#xpointer(id('tok_526')/range-to(id('tok_554')))"/><!-- elle colpes non auret por o no s coist  -->
+<mark id="tei_l_20" xlink:href="#xpointer(id('tok_555')/range-to(id('tok_590')))"/><!-- a czo no s voldret concreidre li rex pagiens  -->
+<mark id="tei_l_21" xlink:href="#xpointer(id('tok_591')/range-to(id('tok_621')))"/><!-- ad une spede li roveret tolir lo chief  -->
+<mark id="tei_l_22" xlink:href="#xpointer(id('tok_622')/range-to(id('tok_653')))"/><!-- la domnizelle celle kose non contredist  -->
+<mark id="tei_l_23" xlink:href="#xpointer(id('tok_654')/range-to(id('tok_684')))"/><!-- volt lo seule lazsier si ruovet krist  -->
+<mark id="tei_l_24" xlink:href="#xpointer(id('tok_685')/range-to(id('tok_710')))"/><!-- in figure de colomb volat a ciel  -->
+<mark id="tei_l_25" xlink:href="#xpointer(id('tok_711')/range-to(id('tok_737')))"/><!-- tuit oram que per nos degnet preier  -->
+<mark id="tei_l_26" xlink:href="#xpointer(id('tok_738')/range-to(id('tok_765')))"/><!-- qued auwisset de nos christus mercit  -->
+<mark id="tei_l_27" xlink:href="#xpointer(id('tok_766')/range-to(id('tok_794')))"/><!-- post la mort et a lui nos laist venir  -->
+<mark id="tei_l_28" xlink:href="#xpointer(id('tok_795')/range-to(id('tok_811')))"/><!-- par souwe clementia  -->
+</markList>
+</paula>

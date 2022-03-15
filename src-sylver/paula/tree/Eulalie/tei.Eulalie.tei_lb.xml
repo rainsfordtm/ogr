@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Eulalie_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.Eulalie.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_46')))"/><!-- buona pulcella fut eulalia bel auret corps bellezour anima  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_47')/range-to(id('tok_100')))"/><!-- voldrent la veintre li deo inimi voldrent la faire diaule servir  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_101')/range-to(id('tok_162')))"/><!-- elle no nt eskoltet les mals conselliers qu elle deo raneiet chi maent sus en ciel  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_163')/range-to(id('tok_215')))"/><!-- ne por or ned argent ne paramenz por manatce regiel ne preiement  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_216')/range-to(id('tok_279')))"/><!-- niule cose non la pouret omque pleier la polle sempre non amast lo deo menestier  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_280')/range-to(id('tok_336')))"/><!-- e por o fu presentede maximiien chi rex eret a cels dis soure pagiens  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_337')/range-to(id('tok_389')))"/><!-- il li enortet dont lei nonque chielt qued elle fuiet lo nom christiien  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_390')/range-to(id('tok_443')))"/><!-- ell ent adunet lo suon element melz sostendreiet les empedementz  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_444')/range-to(id('tok_494')))"/><!-- qu elle perdesse sa virginitet por o s furet morte a grand honestet  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_495')/range-to(id('tok_554')))"/><!-- enz en l fou lo getterent com arde tost elle colpes non auret por o no s coist  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_555')/range-to(id('tok_621')))"/><!-- a czo no s voldret concreidre li rex pagiens ad une spede li roveret tolir lo chief  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_622')/range-to(id('tok_684')))"/><!-- la domnizelle celle kose non contredist volt lo seule lazsier si ruovet krist  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_685')/range-to(id('tok_737')))"/><!-- in figure de colomb volat a ciel tuit oram que per nos degnet preier  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_738')/range-to(id('tok_794')))"/><!-- qued auwisset de nos christus mercit post la mort et a lui nos laist venir  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_795')/range-to(id('tok_811')))"/><!-- par souwe clementia  -->
+</markList>
+</paula>

@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="meter.Passion_line_cat"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.Passion.meter.xml">
+<feat xlink:href="#line_0" value="line"/><!--  hora vos dic vera raizun -->
+<feat xlink:href="#line_1" value="line"/><!--  de jesu christi passiun -->
+<feat xlink:href="#line_2" value="line"/><!--  los sos affanz vol remembrar -->
+<feat xlink:href="#line_3" value="line"/><!--  per que cest mund tot a salvad -->
+<feat xlink:href="#line_4" value="line"/><!--  trenta tres ants et alques plus -->
+<feat xlink:href="#line_5" value="line"/><!--  des que carn pres in terra fu -->
+<feat xlink:href="#line_6" value="line"/><!--  per tot obred que verus deus -->
+<feat xlink:href="#line_7" value="line"/><!--  per tot sosteg que hom carnals -->
+<feat xlink:href="#line_8" value="line"/><!--  peccad negun unque non fez -->
+<feat xlink:href="#line_9" value="line"/><!--  per eps los nostres fu aucis -->
+<feat xlink:href="#line_10" value="line"/><!--  la sua morz vida nos rend -->
+<feat xlink:href="#line_11" value="line"/><!--  sa passiuns toz nos redenps -->
+<feat xlink:href="#line_12" value="line"/><!--  cum aproismed sa passiuns -->
+<feat xlink:href="#line_13" value="line"/><!--  cho fu nostra redemptions -->
+<feat xlink:href="#line_14" value="line"/><!--  aproismer vol a la ciutat -->
+<feat xlink:href="#line_15" value="line"/><!--  afanz per nos susteg mult granz -->
+<feat xlink:href="#line_16" value="line"/><!--  cum el perveing a betfage -->
+<feat xlink:href="#line_17" value="line"/><!--  vil es desoz mont olivet -->
+<feat xlink:href="#line_18" value="line"/><!--  avant de ls sos dos enveied -->
+<feat xlink:href="#line_19" value="line"/><!--  un asne adducere se roved -->
+<feat xlink:href="#line_20" value="line"/><!--  cum cel asnez fu amenaz -->
+<feat xlink:href="#line_21" value="line"/><!--  de lor mantelz ben l ant parad -->
+<feat xlink:href="#line_22" value="line"/><!--  de lor mantelz de lor vestit -->
+<feat xlink:href="#line_23" value="line"/><!--  ben li aprestunt o ss assis -->
+<feat xlink:href="#line_24" value="line"/><!--  per sua grand humilitad -->
+<feat xlink:href="#line_25" value="line"/><!--  jesus rex magnes sus monted -->
+<feat xlink:href="#line_26" value="line"/><!--  si cum prophetes anz mulz dis -->
+<feat xlink:href="#line_27" value="line"/><!--  canted aveien de jesu crist -->
+<feat xlink:href="#line_28" value="line"/><!--  anz petiz dis que cho fus fait -->
+<feat xlink:href="#line_29" value="line"/><!--  jesus lo lazer suscitat -->
+<feat xlink:href="#line_30" value="line"/><!--  chi quatre dis en moniment -->
+<feat xlink:href="#line_31" value="line"/><!--  jagud aveie toz pudenz -->
+<feat xlink:href="#line_32" value="line"/><!--  cum co audid tota la gent -->
+<feat xlink:href="#line_33" value="line"/><!--  que jesus ve lo reis podenz -->
+<feat xlink:href="#line_34" value="line"/><!--  chi eps lo morz fai se revivere -->
+<feat xlink:href="#line_35" value="line"/><!--  a grand honor encontra xirent -->
+<feat xlink:href="#line_36" value="line"/><!--  alquant de ls palmes prendent rams -->
+<feat xlink:href="#line_37" value="line"/><!--  de ls olivers alquant las branches -->
+<feat xlink:href="#line_38" value="line"/><!--  encontra l rei qui fez lo cel -->
+<feat xlink:href="#line_39" value="line"/><!--  issid lo dii le poples lez -->
+<feat xlink:href="#line_40" value="line"/><!--  canten li gran e li petit -->
+<feat xlink:href="#line_41" value="line"/><!--  fili davit fili davit -->
+<feat xlink:href="#line_42" value="line"/><!--  palis vestit palis mantenls -->
+<feat xlink:href="#line_43" value="line"/><!--  davant extendent a ssos pez -->
+<feat xlink:href="#line_44" value="line"/><!--  gran folcs aredre gran davan -->
+<feat xlink:href="#line_45" value="line"/><!--  gran e petit deu van laudant -->
+<feat xlink:href="#line_46" value="line"/><!--  ensobre tot petiz enfan -->
+<feat xlink:href="#line_47" value="line"/><!--  osanna semper van clamant -->
+<feat xlink:href="#line_48" value="line"/><!--  a la ciptad cum aproismet -->
+<feat xlink:href="#line_49" value="line"/><!--  et el la vid e lla sgarded -->
+<feat xlink:href="#line_50" value="line"/><!--  de son piu cor greu suspiret -->
+<feat xlink:href="#line_51" value="line"/><!--  de ssos sanz olz fort lagrimez -->
+<feat xlink:href="#line_52" value="line"/><!--  hjerussalem hjerussalem -->
+<feat xlink:href="#line_53" value="line"/><!--  gai te dis el per tos pechet -->
+<feat xlink:href="#line_54" value="line"/><!--  pensar non poz pensar no l vols -->
+<feat xlink:href="#line_55" value="line"/><!--  non t o permet tos granz orgolz -->
+<feat xlink:href="#line_56" value="line"/><!--  venrant li an venrant li di -->
+<feat xlink:href="#line_57" value="line"/><!--  que zt asaldran toi inimic -->
+<feat xlink:href="#line_58" value="line"/><!--  il tot entorn t arberiaran -->
+<feat xlink:href="#line_59" value="line"/><!--  et a terra crebantaran -->
+<feat xlink:href="#line_60" value="line"/><!--  los tos enfanz qui in te sunt -->
+<feat xlink:href="#line_61" value="line"/><!--  a males penas aucidrant -->
+<feat xlink:href="#line_62" value="line"/><!--  en tos belz murs en tas maisons -->
+<feat xlink:href="#line_63" value="line"/><!--  pedra ssubr altre non laiserant -->
+<feat xlink:href="#line_64" value="line"/><!--  li toi caitiu per totas genz -->
+<feat xlink:href="#line_65" value="line"/><!--  menad en eren a tormenz -->
+<feat xlink:href="#line_66" value="line"/><!--  quar eu te fiz nu m cognoguist -->
+<feat xlink:href="#line_67" value="line"/><!--  salvar te ving nu m receubist -->
+<feat xlink:href="#line_68" value="line"/><!--  cum cho ag dit et percuidat -->
+<feat xlink:href="#line_69" value="line"/><!--  en templum deu semper intret -->
+<feat xlink:href="#line_70" value="line"/><!--  los marchedant quae in trobed -->
+<feat xlink:href="#line_71" value="line"/><!--  a grand destreit fors los gitez -->
+<feat xlink:href="#line_72" value="line"/><!--  los sos talant ta fort monstred -->
+<feat xlink:href="#line_73" value="line"/><!--  que grant pavors pres a ls judeus -->
+<feat xlink:href="#line_74" value="line"/><!--  de dobpla corda lz vai firend -->
+<feat xlink:href="#line_75" value="line"/><!--  tot lor marched vai desfazend -->
+<feat xlink:href="#line_76" value="line"/><!--  felo judeu cum il cho vidren -->
+<feat xlink:href="#line_77" value="line"/><!--  enz lor cors grand an enveie -->
+<feat xlink:href="#line_78" value="line"/><!--  per mals conselz van demandan -->
+<feat xlink:href="#line_79" value="line"/><!--  nostre sennior cum tradissant -->
+<feat xlink:href="#line_80" value="line"/><!--  lo fel judes escarioth -->
+<feat xlink:href="#line_81" value="line"/><!--  a ls judeus vengra en rebost -->
+<feat xlink:href="#line_82" value="line"/><!--  que m en darez e l vos tradran -->
+<feat xlink:href="#line_83" value="line"/><!--  vostres talenz ademplirant -->
+<feat xlink:href="#line_84" value="line"/><!--  trenta deners dunc li en promesdrent -->
+<feat xlink:href="#line_85" value="line"/><!--  son bon sennior que lo tradisse -->
+<feat xlink:href="#line_86" value="line"/><!--  si chera merz ven si petit -->
+<feat xlink:href="#line_87" value="line"/><!--  hanc non fud hom qui magis l audis -->
+<feat xlink:href="#line_88" value="line"/><!--  et a cel di que dizen pasches -->
+<feat xlink:href="#line_89" value="line"/><!--  cum la cena jesus oc faita -->
+<feat xlink:href="#line_90" value="line"/><!--  el sus leved de l piu manjer -->
+<feat xlink:href="#line_91" value="line"/><!--  a ssos fedels laved lis ped -->
+<feat xlink:href="#line_92" value="line"/><!--  et per lo pan et per lo vin -->
+<feat xlink:href="#line_93" value="line"/><!--  fort saccrament lor commandez -->
+<feat xlink:href="#line_94" value="line"/><!--  per remembrar sa passiun -->
+<feat xlink:href="#line_95" value="line"/><!--  que faire rova a trestot -->
+<feat xlink:href="#line_96" value="line"/><!--  de pan et vin sanctificat -->
+<feat xlink:href="#line_97" value="line"/><!--  tot sos fidels i saciet -->
+<feat xlink:href="#line_98" value="line"/><!--  mais que judes escharioh -->
+<feat xlink:href="#line_99" value="line"/><!--  cui una sopa enflet lo cor -->
+<feat xlink:href="#line_100" value="line"/><!--  judas cum og manjed la sopa -->
+<feat xlink:href="#line_101" value="line"/><!--  diable sen enz en sa gola -->
+<feat xlink:href="#line_102" value="line"/><!--  semper leved de l piu manjer -->
+<feat xlink:href="#line_103" value="line"/><!--  tot a ls judeus o vai nuncer -->
+<feat xlink:href="#line_104" value="line"/><!--  jesus lo bons per sa pietad -->
+<feat xlink:href="#line_105" value="line"/><!--  tan dulcement pres a parler -->
+<feat xlink:href="#line_106" value="line"/><!--  sobre son peiz fez condurmir -->
+<feat xlink:href="#line_107" value="line"/><!--  sant johan lo son cher amic -->
+<feat xlink:href="#line_108" value="line"/><!--  a cel sopar un sermon fez -->
+<feat xlink:href="#line_109" value="line"/><!--  chi cel non sab tal non audid -->
+<feat xlink:href="#line_110" value="line"/><!--  contra ls afanz que an a pader -->
+<feat xlink:href="#line_111" value="line"/><!--  toz sos fidels ben en garnid -->
+<feat xlink:href="#line_112" value="line"/><!--  alo sanc pedre perchoindad -->
+<feat xlink:href="#line_113" value="line"/><!--  que cela noit lui neiara -->
+<feat xlink:href="#line_114" value="line"/><!--  pedres forment s en aduned -->
+<feat xlink:href="#line_115" value="line"/><!--  per epsa mort no l gurpira -->
+<feat xlink:href="#line_116" value="line"/><!--  christus jesus den s en leved -->
+<feat xlink:href="#line_117" value="line"/><!--  gehsesmani vil es n anez -->
+<feat xlink:href="#line_118" value="line"/><!--  toz sos fidels seder rovet -->
+<feat xlink:href="#line_119" value="line"/><!--  evan orar sols en anez -->
+<feat xlink:href="#line_120" value="line"/><!--  granz fu li dols fort marrimenz -->
+<feat xlink:href="#line_121" value="line"/><!--  si condormirent tuit ades -->
+<feat xlink:href="#line_122" value="line"/><!--  jesus cum veg los esveled -->
+<feat xlink:href="#line_123" value="line"/><!--  trestoz orar bien los manded -->
+<feat xlink:href="#line_124" value="line"/><!--  e dunc orar cum el anned -->
+<feat xlink:href="#line_125" value="line"/><!--  si fort sudor dunques suded -->
+<feat xlink:href="#line_126" value="line"/><!--  que cum lo sags a terra curr -->
+<feat xlink:href="#line_127" value="line"/><!--  de sa sudor las sanctas gutas -->
+<feat xlink:href="#line_128" value="line"/><!--  a l sos fidels cum repadred -->
+<feat xlink:href="#line_129" value="line"/><!--  tam benlement los conforted -->
+<feat xlink:href="#line_130" value="line"/><!--  li fel judeus ja s aproismed -->
+<feat xlink:href="#line_131" value="line"/><!--  ab gran compannie de ls judeus -->
+<feat xlink:href="#line_132" value="line"/><!--  jesus cum vidra los judeus -->
+<feat xlink:href="#line_133" value="line"/><!--  zo lor demandez que querent -->
+<feat xlink:href="#line_134" value="line"/><!--  il li respondent tuit adun -->
+<feat xlink:href="#line_135" value="line"/><!--  jesum querem nazarenum -->
+<feat xlink:href="#line_136" value="line"/><!--  eu soi aquel zo dis jesus -->
+<feat xlink:href="#line_137" value="line"/><!--  tuit li felun cadegrent jos -->
+<feat xlink:href="#line_138" value="line"/><!--  terce vez lor o demanded -->
+<feat xlink:href="#line_139" value="line"/><!--  a totas treis chedent envers -->
+<feat xlink:href="#line_140" value="line"/><!--  mais li felun tuit trassudad -->
+<feat xlink:href="#line_141" value="line"/><!--  vers nostre don son aproismad -->
+<feat xlink:href="#line_142" value="line"/><!--  judas li vel ensenna fei -->
+<feat xlink:href="#line_143" value="line"/><!--  celui prendet cui bassaerei -->
+<feat xlink:href="#line_144" value="line"/><!--  judas cum veggra a jesum -->
+<feat xlink:href="#line_145" value="line"/><!--  semper li tend lo son menton -->
+<feat xlink:href="#line_146" value="line"/><!--  jesus li bons no l refuded -->
+<feat xlink:href="#line_147" value="line"/><!--  a l tradetur baisair doned -->
+<feat xlink:href="#line_148" value="line"/><!--  amicx zo dis jesus lo bons -->
+<feat xlink:href="#line_149" value="line"/><!--  per que m trades in to baisol -->
+<feat xlink:href="#line_150" value="line"/><!--  melz ti fura non fusses naz -->
+<feat xlink:href="#line_151" value="line"/><!--  que me tradas per cobetad -->
+<feat xlink:href="#line_152" value="line"/><!--  armand esterent evirum -->
+<feat xlink:href="#line_153" value="line"/><!--  de totas part presdrent jesum -->
+<feat xlink:href="#line_154" value="line"/><!--  no s defended ne no ssusted -->
+<feat xlink:href="#line_155" value="line"/><!--  a la mort vai cum uns anel -->
+<feat xlink:href="#line_156" value="line"/><!--  sanct pedre sols venjiar lo vol -->
+<feat xlink:href="#line_157" value="line"/><!--  estrais lo fer que a l laz og -->
+<feat xlink:href="#line_158" value="line"/><!--  si consegued u serv fellon -->
+<feat xlink:href="#line_159" value="line"/><!--  la destre aurelia li excos -->
+<feat xlink:href="#line_160" value="line"/><!--  jesus li bons ben red per mal -->
+<feat xlink:href="#line_161" value="line"/><!--  l aurelia ad serv semper saned -->
+<feat xlink:href="#line_162" value="line"/><!--  liadens mans cume ladron -->
+<feat xlink:href="#line_163" value="line"/><!--  si l ent menen a passiun -->
+<feat xlink:href="#line_164" value="line"/><!--  donc lo en gurpissen sei fedel -->
+<feat xlink:href="#line_165" value="line"/><!--  cum el desanz diz lor aveia -->
+<feat xlink:href="#line_166" value="line"/><!--  sanz pedre sols segwen lo vai -->
+<feat xlink:href="#line_167" value="line"/><!--  quae sua fin veder voldrat -->
+<feat xlink:href="#line_168" value="line"/><!--  anna nomnavent le judeu -->
+<feat xlink:href="#line_169" value="line"/><!--  a cui jesus furet menez -->
+<feat xlink:href="#line_170" value="line"/><!--  donc s adunouent li felon -->
+<feat xlink:href="#line_171" value="line"/><!--  veder annouent pres jesum -->
+<feat xlink:href="#line_172" value="line"/><!--  de quant il querent le forsfait -->
+<feat xlink:href="#line_173" value="line"/><!--  cum il jesum oicisesant -->
+<feat xlink:href="#line_174" value="line"/><!--  non fud trovez ne envenguz -->
+<feat xlink:href="#line_175" value="line"/><!--  quar el forsfait non feist neul -->
+<feat xlink:href="#line_176" value="line"/><!--  davant l ested le pontifex -->
+<feat xlink:href="#line_177" value="line"/><!--  si conjuret per ipsum deu -->
+<feat xlink:href="#line_178" value="line"/><!--  que llor dissets per pura fied -->
+<feat xlink:href="#line_179" value="line"/><!--  si vers jesus fils deu est il -->
+<feat xlink:href="#line_180" value="line"/><!--  tu eps l as deit respon jesus -->
+<feat xlink:href="#line_181" value="line"/><!--  tuit li fellon crident adun -->
+<feat xlink:href="#line_182" value="line"/><!--  major forsfait que i querem -->
+<feat xlink:href="#line_183" value="line"/><!--  per loi medeps audit l avem -->
+<feat xlink:href="#line_184" value="line"/><!--  lo sos sans ols duncques cubrirent -->
+<feat xlink:href="#line_185" value="line"/><!--  a coleiar fellon lo presdent -->
+<feat xlink:href="#line_186" value="line"/><!--  ensobre tot si l escarnissent -->
+<feat xlink:href="#line_187" value="line"/><!--  di nos prophete chi t o fedre -->
+<feat xlink:href="#line_188" value="line"/><!--  fors en las estras estet petre -->
+<feat xlink:href="#line_189" value="line"/><!--  a l fog l useire l aeswardouet -->
+<feat xlink:href="#line_190" value="line"/><!--  de sa raison si l esfred -->
+<feat xlink:href="#line_191" value="line"/><!--  que lo deu fil li fai neier -->
+<feat xlink:href="#line_192" value="line"/><!--  anz quae la noit lo jalz cantes -->
+<feat xlink:href="#line_193" value="line"/><!--  terce vez petre lo neiez -->
+<feat xlink:href="#line_194" value="line"/><!--  jesus li bons lo reswardet -->
+<feat xlink:href="#line_195" value="line"/><!--  lui recognostre semper fit -->
+<feat xlink:href="#line_196" value="line"/><!--  petrus d alo fors s en aled -->
+<feat xlink:href="#line_197" value="line"/><!--  amarament mult se ploret -->
+<feat xlink:href="#line_198" value="line"/><!--  per cio laissed deus se neier -->
+<feat xlink:href="#line_199" value="line"/><!--  que de nos aiet pieted -->
+<feat xlink:href="#line_200" value="line"/><!--  cum le matins fud esclairez -->
+<feat xlink:href="#line_201" value="line"/><!--  davant pilat l en ant menet -->
+<feat xlink:href="#line_202" value="line"/><!--  fortment lo vant il acusand -->
+<feat xlink:href="#line_203" value="line"/><!--  la soa mort mult demandant -->
+<feat xlink:href="#line_204" value="line"/><!--  pilaz erod l en enviet -->
+<feat xlink:href="#line_205" value="line"/><!--  cui des abanz voliet mel -->
+<feat xlink:href="#line_206" value="line"/><!--  de jesu christi passion -->
+<feat xlink:href="#line_207" value="line"/><!--  am se paierent a ciel jorn -->
+<feat xlink:href="#line_208" value="line"/><!--  lo fel herodes cum lo vid -->
+<feat xlink:href="#line_209" value="line"/><!--  mult lez semper en esdevint -->
+<feat xlink:href="#line_210" value="line"/><!--  de lui long temps mult a audit -->
+<feat xlink:href="#line_211" value="line"/><!--  semper pensed vertuz feisis -->
+<feat xlink:href="#line_212" value="line"/><!--  de multes vises l apeled -->
+<feat xlink:href="#line_213" value="line"/><!--  jesus li bons mot no l soned -->
+<feat xlink:href="#line_214" value="line"/><!--  judeu l acusent el se tais -->
+<feat xlink:href="#line_215" value="line"/><!--  ad un respondre non denat -->
+<feat xlink:href="#line_216" value="line"/><!--  dunc lo despeis e l ecarnit -->
+<feat xlink:href="#line_217" value="line"/><!--  li fel herodes en cel di -->
+<feat xlink:href="#line_218" value="line"/><!--  blanc vestiment si l a vestit -->
+<feat xlink:href="#line_219" value="line"/><!--  fellon pilad lo retrames -->
+<feat xlink:href="#line_220" value="line"/><!--  pilaz que anz l en vol laisar -->
+<feat xlink:href="#line_221" value="line"/><!--  no l consentunt fellun judeu -->
+<feat xlink:href="#line_222" value="line"/><!--  vida perdonent a l ladrun -->
+<feat xlink:href="#line_223" value="line"/><!--  aucid aucid crident jesum -->
+<feat xlink:href="#line_224" value="line"/><!--  barrabant perdonent la vide -->
+<feat xlink:href="#line_225" value="line"/><!--  jesum in alta cruz claufrisdrent -->
+<feat xlink:href="#line_226" value="line"/><!--  crucifige crucifige -->
+<feat xlink:href="#line_227" value="line"/><!--  crident pilat trestuit ensems -->
+<feat xlink:href="#line_228" value="line"/><!--  cum aucidrai eu vostre rei -->
+<feat xlink:href="#line_229" value="line"/><!--  zo dis pilaz forsfaiz non es -->
+<feat xlink:href="#line_230" value="line"/><!--  rumpre l farai et flagellar -->
+<feat xlink:href="#line_231" value="line"/><!--  poisses laisarai l en annar -->
+<feat xlink:href="#line_232" value="line"/><!--  ensems crident tuit li fellunt -->
+<feat xlink:href="#line_233" value="line"/><!--  entro en cel en van las voz -->
+<feat xlink:href="#line_234" value="line"/><!--  si tu laises viure jesum -->
+<feat xlink:href="#line_235" value="line"/><!--  non es amics l emparador -->
+<feat xlink:href="#line_236" value="line"/><!--  pilaz sas mans dunques laved -->
+<feat xlink:href="#line_237" value="line"/><!--  que de sa mort posche s neger -->
+<feat xlink:href="#line_238" value="line"/><!--  ensems crident tuit li judeu -->
+<feat xlink:href="#line_239" value="line"/><!--  sobre nos sia toz li pechez -->
+<feat xlink:href="#line_240" value="line"/><!--  pilaz cum audid tals raisons -->
+<feat xlink:href="#line_241" value="line"/><!--  ja lor gurpis nostre sennior -->
+<feat xlink:href="#line_242" value="line"/><!--  donc lo recebent li fellun -->
+<feat xlink:href="#line_243" value="line"/><!--  fors l en conducent en la cort -->
+<feat xlink:href="#line_244" value="line"/><!--  de purpure donc lo vestirent -->
+<feat xlink:href="#line_245" value="line"/><!--  et en sa man un raus li mesdrent -->
+<feat xlink:href="#line_246" value="line"/><!--  corona prendent de las espines -->
+<feat xlink:href="#line_247" value="line"/><!--  et en son cab fellun l asisdrent -->
+<feat xlink:href="#line_248" value="line"/><!--  de davant lui tuit a genolz -->
+<feat xlink:href="#line_249" value="line"/><!--  si s excrebantent li fellon -->
+<feat xlink:href="#line_250" value="line"/><!--  dunc lo saludent cum senior -->
+<feat xlink:href="#line_251" value="line"/><!--  et ad escarn emperador -->
+<feat xlink:href="#line_252" value="line"/><!--  et cum asez l ont escarnid -->
+<feat xlink:href="#line_253" value="line"/><!--  dunc li vestent son vestiment -->
+<feat xlink:href="#line_254" value="line"/><!--  et el medeps si pres sa cruz -->
+<feat xlink:href="#line_255" value="line"/><!--  avan toz vai a pasiun -->
+<feat xlink:href="#line_256" value="line"/><!--  femnes lui van detras seguen -->
+<feat xlink:href="#line_257" value="line"/><!--  ploran lo van et gaimentan -->
+<feat xlink:href="#line_258" value="line"/><!--  jesus li pius redre garder -->
+<feat xlink:href="#line_259" value="line"/><!--  ab les femnes pres a parler -->
+<feat xlink:href="#line_260" value="line"/><!--  audez fillies jerusalem -->
+<feat xlink:href="#line_261" value="line"/><!--  per me non vos est ob plorer -->
+<feat xlink:href="#line_262" value="line"/><!--  mais per vos et per vostres filz -->
+<feat xlink:href="#line_263" value="line"/><!--  plorez assaz qu i obs vos es -->
+<feat xlink:href="#line_264" value="line"/><!--  cum el perveng a golgota -->
+<feat xlink:href="#line_265" value="line"/><!--  davan la porta de la ciptat -->
+<feat xlink:href="#line_266" value="line"/><!--  dunc lor gurpit soe chamisae -->
+<feat xlink:href="#line_267" value="line"/><!--  chi sens custurae fo faitice -->
+<feat xlink:href="#line_268" value="line"/><!--  il no l auseren deramar -->
+<feat xlink:href="#line_269" value="line"/><!--  mais aura sort an gitad -->
+<feat xlink:href="#line_270" value="line"/><!--  non fut partiz sos vestimenz -->
+<feat xlink:href="#line_271" value="line"/><!--  zo fu granz signa tot per ver -->
+<feat xlink:href="#line_272" value="line"/><!--  en huna fet huna vertet -->
+<feat xlink:href="#line_273" value="line"/><!--  tuit soi fidel devent ester -->
+<feat xlink:href="#line_274" value="line"/><!--  lo sos regnaz non es devis -->
+<feat xlink:href="#line_275" value="line"/><!--  en caritad toz es uniz -->
+<feat xlink:href="#line_276" value="line"/><!--  e de ls feluns qu eu vos dis anz -->
+<feat xlink:href="#line_277" value="line"/><!--  lai dei venir o eu laisei -->
+<feat xlink:href="#line_278" value="line"/><!--  quar il lo fel mesclen ab vin -->
+<feat xlink:href="#line_279" value="line"/><!--  nostrae senior lo tenden il -->
+<feat xlink:href="#line_280" value="line"/><!--  cum l an levad sus en la cruz -->
+<feat xlink:href="#line_281" value="line"/><!--  dos a sos laz penden lasruns -->
+<feat xlink:href="#line_282" value="line"/><!--  entre cels dos pendent jesum -->
+<feat xlink:href="#line_283" value="line"/><!--  il per escarn o fan trestot -->
+<feat xlink:href="#line_284" value="line"/><!--  cum il l an mes sus en la cruz -->
+<feat xlink:href="#line_285" value="line"/><!--  gran fan escarn gran cridaizun -->
+<feat xlink:href="#line_286" value="line"/><!--  ensobre toz uns de ls ladruns -->
+<feat xlink:href="#line_287" value="line"/><!--  el escarnie rei jesum -->
+<feat xlink:href="#line_288" value="line"/><!--  respondet l altre mal i diz -->
+<feat xlink:href="#line_289" value="line"/><!--  el mor a tort ren non forsfez -->
+<feat xlink:href="#line_290" value="line"/><!--  mais nos a dreit per colpas granz -->
+<feat xlink:href="#line_291" value="line"/><!--  esmes oidi en cest ahanz -->
+<feat xlink:href="#line_292" value="line"/><!--  envers jesum sos olz torned -->
+<feat xlink:href="#line_293" value="line"/><!--  si piament lui appelled -->
+<feat xlink:href="#line_294" value="line"/><!--  de me t membres per ta mercet -->
+<feat xlink:href="#line_295" value="line"/><!--  cu tu vendras crist en ton ren -->
+<feat xlink:href="#line_296" value="line"/><!--  respon li bons qui non mentid -->
+<feat xlink:href="#line_297" value="line"/><!--  chi en epsa mort semper fu pius -->
+<feat xlink:href="#line_298" value="line"/><!--  eu t o promet oi en cest di -->
+<feat xlink:href="#line_299" value="line"/><!--  ab me venras in paradis -->
+<feat xlink:href="#line_300" value="line"/><!--  o deus vers rex jesu crist -->
+<feat xlink:href="#line_301" value="line"/><!--  ci tal don fais per ta mercet -->
+<feat xlink:href="#line_302" value="line"/><!--  chi per huna confession -->
+<feat xlink:href="#line_303" value="line"/><!--  vide perdones a l ladrun -->
+<feat xlink:href="#line_304" value="line"/><!--  nos te laudam et noit e di -->
+<feat xlink:href="#line_305" value="line"/><!--  de nos aies vera mercet -->
+<feat xlink:href="#line_306" value="line"/><!--  tu nos perdone celz pecaz -->
+<feat xlink:href="#line_307" value="line"/><!--  qu e nos vetdest tua pietad -->
+<feat xlink:href="#line_308" value="line"/><!--  jusque nona des lo meidi -->
+<feat xlink:href="#line_309" value="line"/><!--  trestot cest mund granz noiz cubrid -->
+<feat xlink:href="#line_310" value="line"/><!--  fui lo solelz et fui la luna -->
+<feat xlink:href="#line_311" value="line"/><!--  post que deus filz suspensus fure -->
+<feat xlink:href="#line_312" value="line"/><!--  ad epsa nona cum perveng -->
+<feat xlink:href="#line_313" value="line"/><!--  dunc escrided jesus granz criz -->
+<feat xlink:href="#line_314" value="line"/><!--  hebraice fortment lo dis -->
+<feat xlink:href="#line_315" value="line"/><!--  heli heli per que m gulpist -->
+<feat xlink:href="#line_316" value="line"/><!--  uns de l felluns chi sta iki -->
+<feat xlink:href="#line_317" value="line"/><!--  sus en la cruz li ten l azet -->
+<feat xlink:href="#line_318" value="line"/><!--  jesus fortmen dunc recridet -->
+<feat xlink:href="#line_319" value="line"/><!--  le spiritus de lui anet -->
+<feat xlink:href="#line_320" value="line"/><!--  cum de jesu l anma n anet -->
+<feat xlink:href="#line_321" value="line"/><!--  tan durament terra crollet -->
+<feat xlink:href="#line_322" value="line"/><!--  roches fendient chedent munt -->
+<feat xlink:href="#line_323" value="line"/><!--  sepulcra sanz obrirent mult -->
+<feat xlink:href="#line_324" value="line"/><!--  et mult corps sanz en sun exit -->
+<feat xlink:href="#line_325" value="line"/><!--  et inter omns sunt vedud -->
+<feat xlink:href="#line_326" value="line"/><!--  qui in templum dei cortine pend -->
+<feat xlink:href="#line_327" value="line"/><!--  jusche la terra per mei fend -->
+<feat xlink:href="#line_328" value="line"/><!--  de laz la croz estet mariae -->
+<feat xlink:href="#line_329" value="line"/><!--  de cui jesus vera carn presdre -->
+<feat xlink:href="#line_330" value="line"/><!--  cum cela carn vidra murir -->
+<feat xlink:href="#line_331" value="line"/><!--  qual agre dol no l sab om vius -->
+<feat xlink:href="#line_332" value="line"/><!--  ela molt ben sab remembrar -->
+<feat xlink:href="#line_333" value="line"/><!--  de soa carn cum deus fu naz -->
+<feat xlink:href="#line_334" value="line"/><!--  ja l vedes ela si morir -->
+<feat xlink:href="#line_335" value="line"/><!--  el resurdra cho sab per ver -->
+<feat xlink:href="#line_336" value="line"/><!--  mais nempero granz fu li dols -->
+<feat xlink:href="#line_337" value="line"/><!--  chi traverset per lo son cor -->
+<feat xlink:href="#line_338" value="line"/><!--  nulz om mortalz no l pod penser -->
+<feat xlink:href="#line_339" value="line"/><!--  sanz symeonz lo i percogded -->
+<feat xlink:href="#line_340" value="line"/><!--  joseps pilat mult a preiat -->
+<feat xlink:href="#line_341" value="line"/><!--  lo corps jesu qu el li dones -->
+<feat xlink:href="#line_342" value="line"/><!--  a grand honor el l en portet -->
+<feat xlink:href="#line_343" value="line"/><!--  en sos chamsils l envolopet -->
+<feat xlink:href="#line_344" value="line"/><!--  nicodemus de ll altra part -->
+<feat xlink:href="#line_345" value="line"/><!--  mult unguement hi aportet -->
+<feat xlink:href="#line_346" value="line"/><!--  enter mirra et aloen -->
+<feat xlink:href="#line_347" value="line"/><!--  quasi cent liuras a doned -->
+<feat xlink:href="#line_348" value="line"/><!--  a grand honor de ces pimenc -->
+<feat xlink:href="#line_349" value="line"/><!--  l aromatizen cuschement -->
+<feat xlink:href="#line_350" value="line"/><!--  dunc lo pausen e l monument -->
+<feat xlink:href="#line_351" value="line"/><!--  o corps non jag anc a cel temps -->
+<feat xlink:href="#line_352" value="line"/><!--  la soa madre virgo fu -->
+<feat xlink:href="#line_353" value="line"/><!--  et sen peched si portet lui -->
+<feat xlink:href="#line_354" value="line"/><!--  sos munument fure toz nous -->
+<feat xlink:href="#line_355" value="line"/><!--  anz lui no i jag unque nulz om -->
+<feat xlink:href="#line_356" value="line"/><!--  non fud assaz anc a ls felluns -->
+<feat xlink:href="#line_357" value="line"/><!--  davant pilat trestuit en van -->
+<feat xlink:href="#line_358" value="line"/><!--  nos te praeiam per ta mercet -->
+<feat xlink:href="#line_359" value="line"/><!--  gardes i met non sia emblez -->
+<feat xlink:href="#line_360" value="line"/><!--  quar el zo dis que resurdra -->
+<feat xlink:href="#line_361" value="line"/><!--  et a l terz di vius pareistra -->
+<feat xlink:href="#line_362" value="line"/><!--  emblar l auran li soi fidel -->
+<feat xlink:href="#line_363" value="line"/><!--  a toz diran que revisquet -->
+<feat xlink:href="#line_364" value="line"/><!--  granz en avem agud errors -->
+<feat xlink:href="#line_365" value="line"/><!--  or en aurem pece majors -->
+<feat xlink:href="#line_366" value="line"/><!--  armaz vassalz dunc lor liuret -->
+<feat xlink:href="#line_367" value="line"/><!--  lo monument lor comandet -->
+<feat xlink:href="#line_368" value="line"/><!--  christus jesus qui deus es vers -->
+<feat xlink:href="#line_369" value="line"/><!--  qui semper fu et semper es -->
+<feat xlink:href="#line_370" value="line"/><!--  ja fos la charns de lui aucise -->
+<feat xlink:href="#line_371" value="line"/><!--  regnet pero cum anz se feira -->
+<feat xlink:href="#line_372" value="line"/><!--  qua e l enfern dunc asalit -->
+<feat xlink:href="#line_373" value="line"/><!--  fort satanan alo venquet -->
+<feat xlink:href="#line_374" value="line"/><!--  per soa mort si l a vencut -->
+<feat xlink:href="#line_375" value="line"/><!--  que contra omne non a vertud -->
+<feat xlink:href="#line_376" value="line"/><!--  etqui era li om primers -->
+<feat xlink:href="#line_377" value="line"/><!--  e l soi ensfant per son pecchiad -->
+<feat xlink:href="#line_378" value="line"/><!--  e li petit e li gran -->
+<feat xlink:href="#line_379" value="line"/><!--  etqui estevent per mulz anz -->
+<feat xlink:href="#line_380" value="line"/><!--  quar anc non fo nul om carnals -->
+<feat xlink:href="#line_381" value="line"/><!--  en cel enfern non fos anaz -->
+<feat xlink:href="#line_382" value="line"/><!--  usque vengues qui sens pecat -->
+<feat xlink:href="#line_383" value="line"/><!--  per toz solses comuna lei -->
+<feat xlink:href="#line_384" value="line"/><!--  argent ne aur non i donet -->
+<feat xlink:href="#line_385" value="line"/><!--  mas que son sang et soa carn -->
+<feat xlink:href="#line_386" value="line"/><!--  d eg cel enfern toz los liudret -->
+<feat xlink:href="#line_387" value="line"/><!--  en paradis los arberget -->
+<feat xlink:href="#line_388" value="line"/><!--  et a l terz di lo mattin clar -->
+<feat xlink:href="#line_389" value="line"/><!--  cum soleilz fo esclairaz -->
+<feat xlink:href="#line_390" value="line"/><!--  tres femnes van a l monument -->
+<feat xlink:href="#line_391" value="line"/><!--  molt cars portavent unguemenz -->
+<feat xlink:href="#line_392" value="line"/><!--  l angeles deu de cel dessend -->
+<feat xlink:href="#line_393" value="line"/><!--  si s aproismet a l monument -->
+<feat xlink:href="#line_394" value="line"/><!--  tal a regard cum focs ardenz -->
+<feat xlink:href="#line_395" value="line"/><!--  et cum la neus blanc vestimenz -->
+<feat xlink:href="#line_396" value="line"/><!--  en pas que l vidren les custodes -->
+<feat xlink:href="#line_397" value="line"/><!--  si s espauriren de pavor -->
+<feat xlink:href="#line_398" value="line"/><!--  que quaisses morz a terra vengren -->
+<feat xlink:href="#line_399" value="line"/><!--  de gran pavor que sobl el vengre -->
+<feat xlink:href="#line_400" value="line"/><!--  sus en la peddre l angel set -->
+<feat xlink:href="#line_401" value="line"/><!--  si parlet a las femnes dis -->
+<feat xlink:href="#line_402" value="line"/><!--  no s neient ci per que crement -->
+<feat xlink:href="#line_403" value="line"/><!--  que jesum christ ben requeret -->
+<feat xlink:href="#line_404" value="line"/><!--  anaz en es et non es ci -->
+<feat xlink:href="#line_405" value="line"/><!--  tot a complit quun que vos dis -->
+<feat xlink:href="#line_406" value="line"/><!--  venez veder lo loc voiant -->
+<feat xlink:href="#line_407" value="line"/><!--  o li sos corps jac des abanz -->
+<feat xlink:href="#line_408" value="line"/><!--  a sos fidel tot annuncaz -->
+<feat xlink:href="#line_409" value="line"/><!--  mas vos petdrun no i oblidez -->
+<feat xlink:href="#line_410" value="line"/><!--  en galilea avant en vai -->
+<feat xlink:href="#line_411" value="line"/><!--  allo l vetran o dit lor ad -->
+<feat xlink:href="#line_412" value="line"/><!--  elles d equi cum sunt tornades -->
+<feat xlink:href="#line_413" value="line"/><!--  jesus las a senpr encontradas -->
+<feat xlink:href="#line_414" value="line"/><!--  dunc reconnossent lo senior -->
+<feat xlink:href="#line_415" value="line"/><!--  si l adorent cum redemptor -->
+<feat xlink:href="#line_416" value="line"/><!--  lo nostrae seindrae en eps cel di -->
+<feat xlink:href="#line_417" value="line"/><!--  veduz furae veiades cinc -->
+<feat xlink:href="#line_418" value="line"/><!--  primera l vit sancta mariae -->
+<feat xlink:href="#line_419" value="line"/><!--  de cui sep diables forsmedre -->
+<feat xlink:href="#line_420" value="line"/><!--  empres lo vidren celles duaes -->
+<feat xlink:href="#line_421" value="line"/><!--  de l munument cum se retornent -->
+<feat xlink:href="#line_422" value="line"/><!--  petdres lo vit en eps cel di -->
+<feat xlink:href="#line_423" value="line"/><!--  ab lui parlet si l conjaudit -->
+<feat xlink:href="#line_424" value="line"/><!--  envers lo vesprae envers lo ser -->
+<feat xlink:href="#line_425" value="line"/><!--  dunc lo revidren soi fidel -->
+<feat xlink:href="#line_426" value="line"/><!--  castel emaus ab elz entret -->
+<feat xlink:href="#line_427" value="line"/><!--  ab el ensemble si sopet -->
+<feat xlink:href="#line_428" value="line"/><!--  ja s adunent li soi fidel -->
+<feat xlink:href="#line_429" value="line"/><!--  ja dicen tuit que vius era -->
+<feat xlink:href="#line_430" value="line"/><!--  cum il menaven tal raizon -->
+<feat xlink:href="#line_431" value="line"/><!--  jesus estet en me ttrestoz -->
+<feat xlink:href="#line_432" value="line"/><!--  pax vobis sit dis a trestoz -->
+<feat xlink:href="#line_433" value="line"/><!--  eu soi jesus qui passus soi -->
+<feat xlink:href="#line_434" value="line"/><!--  vedez mas mans vedez mos peds -->
+<feat xlink:href="#line_435" value="line"/><!--  vedez mo laz qu i fui plagas -->
+<feat xlink:href="#line_436" value="line"/><!--  fortment sun il espaventet -->
+<feat xlink:href="#line_437" value="line"/><!--  il li non credent que aia carn -->
+<feat xlink:href="#line_438" value="line"/><!--  zo pensent il que enter el -->
+<feat xlink:href="#line_439" value="line"/><!--  le spiritus aparegues -->
+<feat xlink:href="#line_440" value="line"/><!--  mel e peisons equi manget -->
+<feat xlink:href="#line_441" value="line"/><!--  en veritad los confirmet -->
+<feat xlink:href="#line_442" value="line"/><!--  sa passion peisons tostaz -->
+<feat xlink:href="#line_443" value="line"/><!--  lo mels signa deitat -->
+<feat xlink:href="#line_444" value="line"/><!--  alques vos ai deit de raizon -->
+<feat xlink:href="#line_445" value="line"/><!--  que jesus fez pos passion -->
+<feat xlink:href="#line_446" value="line"/><!--  tot no l vos posc eu ben comptar -->
+<feat xlink:href="#line_447" value="line"/><!--  no l pod nul om de madre naz -->
+<feat xlink:href="#line_448" value="line"/><!--  a sos fidel quaranta dis -->
+<feat xlink:href="#line_449" value="line"/><!--  per mulz semblanz -->
+<feat xlink:href="#line_450" value="line"/><!--  emsembl ab elz bec e manjed -->
+<feat xlink:href="#line_451" value="line"/><!--  de regnum deu semper parlet -->
+<feat xlink:href="#line_452" value="line"/><!--  e per es mund roa l allar -->
+<feat xlink:href="#line_453" value="line"/><!--  toz babzizar in trinitad -->
+<feat xlink:href="#line_454" value="line"/><!--  qui lui credran cil erent salv -->
+<feat xlink:href="#line_455" value="line"/><!--  qui no l cretran seran damnat -->
+<feat xlink:href="#line_456" value="line"/><!--  signes faran li soi fidel -->
+<feat xlink:href="#line_457" value="line"/><!--  quals el abanz faire soliae -->
+<feat xlink:href="#line_458" value="line"/><!--  lingues noves il parlaran -->
+<feat xlink:href="#line_459" value="line"/><!--  et diables encalceran -->
+<feat xlink:href="#line_460" value="line"/><!--  si alcuns d els beven veren -->
+<feat xlink:href="#line_461" value="line"/><!--  non aura mal zo sab per ver -->
+<feat xlink:href="#line_462" value="line"/><!--  sobrae malabdes mans metran -->
+<feat xlink:href="#line_463" value="line"/><!--  et sanitad a toz rendran -->
+<feat xlink:href="#line_464" value="line"/><!--  sus en u mont donches montet -->
+<feat xlink:href="#line_465" value="line"/><!--  que holivet numnat vos ai -->
+<feat xlink:href="#line_466" value="line"/><!--  levet sa man si l benedis -->
+<feat xlink:href="#line_467" value="line"/><!--  vengre la nuvols si l collit -->
+<feat xlink:href="#line_468" value="line"/><!--  e lor vedent montet en cel -->
+<feat xlink:href="#line_469" value="line"/><!--  ad dextris deu jesus es set -->
+<feat xlink:href="#line_470" value="line"/><!--  qui venra toz judicar -->
+<feat xlink:href="#line_471" value="line"/><!--  a toz rendra e ben e mal -->
+<feat xlink:href="#line_472" value="line"/><!--  li soi fidel en son tornat -->
+<feat xlink:href="#line_473" value="line"/><!--  a l dezen jorn ja cum perveng -->
+<feat xlink:href="#line_474" value="line"/><!--  spiritus sanctus sobr elz chad -->
+<feat xlink:href="#line_475" value="line"/><!--  d eg lo di dicent pentecostem -->
+<feat xlink:href="#line_476" value="line"/><!--  si ls enflamet cum fugs ardenz -->
+<feat xlink:href="#line_477" value="line"/><!--  il des abanz sunt aserad -->
+<feat xlink:href="#line_478" value="line"/><!--  de crist non sabent mot parlar -->
+<feat xlink:href="#line_479" value="line"/><!--  en pas che veng vertuz de cel -->
+<feat xlink:href="#line_480" value="line"/><!--  il non dobten negun judeu -->
+<feat xlink:href="#line_481" value="line"/><!--  per toz lengatges van parlan -->
+<feat xlink:href="#line_482" value="line"/><!--  las virtuz crist van annuncian -->
+<feat xlink:href="#line_483" value="line"/><!--  no lor pod om vius contrastar -->
+<feat xlink:href="#line_484" value="line"/><!--  signes fazen per podestad -->
+<feat xlink:href="#line_485" value="line"/><!--  spandut sunt per tot ces mund -->
+<feat xlink:href="#line_486" value="line"/><!--  regnum dei nuncent per tot -->
+<feat xlink:href="#line_487" value="line"/><!--  convertent gent et popu -->
+<feat xlink:href="#line_488" value="line"/><!--  christus jesus per tot ab elz -->
+<feat xlink:href="#line_489" value="line"/><!--  lo satanas dol en a grand -->
+<feat xlink:href="#line_490" value="line"/><!--  a ls deu fidels fai durs afanz -->
+<feat xlink:href="#line_491" value="line"/><!--  alcanz en cruz fai los levar -->
+<feat xlink:href="#line_492" value="line"/><!--  alquanz d espades degollar -->
+<feat xlink:href="#line_493" value="line"/><!--  e llos alquanz fai escorter -->
+<feat xlink:href="#line_494" value="line"/><!--  alquanz en fog vius trebucher -->
+<feat xlink:href="#line_495" value="line"/><!--  et en gradilie ls fai toster -->
+<feat xlink:href="#line_496" value="line"/><!--  alquanz a ppetdres lapider -->
+<feat xlink:href="#line_497" value="line"/><!--  lui que aiude nu ls vencera -->
+<feat xlink:href="#line_498" value="line"/><!--  cum peis lor fai il creisent mais -->
+<feat xlink:href="#line_499" value="line"/><!--  lo cap a crist esvegurad -->
+<feat xlink:href="#line_500" value="line"/><!--  per tot es mund es adhoraz -->
+<feat xlink:href="#line_501" value="line"/><!--  nos cestes pugnes non avem -->
+<feat xlink:href="#line_502" value="line"/><!--  contra nos eps pugnar devem -->
+<feat xlink:href="#line_503" value="line"/><!--  fraindre devem nostrae voluntaz -->
+<feat xlink:href="#line_504" value="line"/><!--  que part aiam ab nos deu fidels -->
+<feat xlink:href="#line_505" value="line"/><!--  quar finimunz non es mult lon -->
+<feat xlink:href="#line_506" value="line"/><!--  et regnum deu fortment es prob -->
+<feat xlink:href="#line_507" value="line"/><!--  drontre nos lez facam lo ben -->
+<feat xlink:href="#line_508" value="line"/><!--  gurpissem mund et som peccad -->
+<feat xlink:href="#line_509" value="line"/><!--  christus jesus qui man ensus -->
+<feat xlink:href="#line_510" value="line"/><!--  mercet aias de pechedors -->
+<feat xlink:href="#line_511" value="line"/><!--  en tals raizons si a mmespraes -->
+<feat xlink:href="#line_512" value="line"/><!--  per ta pitad lo m perdones -->
+<feat xlink:href="#line_513" value="line"/><!--  te posche retdrae graciae -->
+<feat xlink:href="#line_514" value="line"/><!--  davant to paire gloriae -->
+<feat xlink:href="#line_515" value="line"/><!--  sanz spiritum posche laudar -->
+<feat xlink:href="#line_516" value="line"/><!--  et nunc per tot in secula -->
+</featList>
+</paula>

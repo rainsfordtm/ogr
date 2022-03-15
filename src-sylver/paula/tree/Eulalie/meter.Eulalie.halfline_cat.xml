@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="meter.Eulalie_halfline_cat"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.Eulalie.meter.xml">
+<feat xlink:href="#halfline_0" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_1" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_2" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_3" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_4" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_5" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_6" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_7" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_8" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_9" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_10" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_11" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_12" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_13" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_14" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_15" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_16" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_17" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_18" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_19" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_20" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_21" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_22" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_23" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_24" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_25" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_26" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_27" value="hl"/><!-- 1 -->
+<feat xlink:href="#halfline_28" value="hl"/><!-- 1 -->
+</featList>
+</paula>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_struct.dtd">
+<paula version="1.0">
+<header paula_id="mycorpus.anno"/>
+<structList xmlns:xlink="http://www.w3.org/1999/xlink" type="annoSet">
+<struct id="anno_0">
+<rel id="rel_0" xlink:href="SFoi"/>
+<rel id="rel_1" xlink:href="Alexis"/>
+<rel id="rel_2" xlink:href="Boeci"/>
+<rel id="rel_3" xlink:href="Eulalie"/>
+<rel id="rel_4" xlink:href="Passion"/>
+<rel id="rel_5" xlink:href="SLeger"/>
+<rel id="rel_6" xlink:href="PrVierge2"/>
+</struct>
+</structList>
+</paula>

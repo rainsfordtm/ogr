@@ -110,8 +110,8 @@
         <xsl:variable name="this-ab" select="."/>
         <!-- Add language attribute and class from parent element to table -->
         <xsl:element name="table">
-            <xsl:if test="@xml:lang">
-                <xsl:attribute name="lang" select="@xml:lang"/>
+            <xsl:if test="@lang">
+                <xsl:attribute name="lang" select="@lang"/>
             </xsl:if>
             <xsl:attribute name="class" select="./parent::node()/local-name()"/>
             <tr>
@@ -145,8 +145,8 @@
             </td>
             <xsl:element name="td">
                 <xsl:attribute name="class">l</xsl:attribute>
-                <xsl:if test="@xml:lang">
-                    <xsl:attribute name="lang" select="@xml:lang"/>
+                <xsl:if test="@lang">
+                    <xsl:attribute name="lang" select="@lang"/>
                 </xsl:if>
                 <xsl:apply-templates/>
             </xsl:element>
@@ -168,7 +168,7 @@
             <xsl:attribute name="class">w</xsl:attribute>
             <!-- Place in italics any word whose lang tag does not correspond to the 
                 language of the closest ancestor node with a lang specification.-->
-            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()[@xml:lang != ''][position()=1]/@xml:lang">
+            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()[@lang != ''][position()=1]/@lang">
                 <xsl:attribute name="style">font-style: italic;</xsl:attribute>
             </xsl:if>
             <xsl:attribute name="title">
@@ -205,9 +205,9 @@
             <xsl:attribute name="class">milestone</xsl:attribute>
             <xsl:choose>
                 <xsl:when test="@facs">
-                    <a href="{@facs}">
+                    <!-- Deactivated link <a href="{@facs}"> -->
                         <xsl:apply-templates select="." mode="string"/>
-                    </a>
+                    <!-- Deactivated link </a> -->
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:apply-templates select="." mode="string"/>
@@ -228,8 +228,8 @@
     <xsl:template match="tei:p">
         <!-- Turn ps into an HTML p; add xml:lang if present; class inherited from parent element -->
         <xsl:element name="p">
-            <xsl:if test="@xml:lang">
-                <xsl:attribute name="lang" select="@xml:lang"/>
+            <xsl:if test="@lang">
+                <xsl:attribute name="lang" select="@lang"/>
             </xsl:if>
             <xsl:attribute name="class" select="./parent::node()/local-name()"/>
             <xsl:apply-templates/>
@@ -267,8 +267,8 @@
                 <!-- Spans if it doesn't contain abs, lgs or ps.-->
                 <xsl:element name="span">
                     <xsl:attribute name="class" select="local-name()"/>
-                    <xsl:if test="@xml:lang">
-                        <xsl:attribute name="lang" select="@xml:lang"/>
+                    <xsl:if test="@lang">
+                        <xsl:attribute name="lang" select="@lang"/>
                     </xsl:if>
                     <xsl:apply-templates/>
                 </xsl:element>
@@ -277,8 +277,8 @@
                 <!-- Use a div -->
                 <xsl:element name="div">
                     <xsl:attribute name="class" select="local-name()"/>
-                    <xsl:if test="@xml:lang">
-                        <xsl:attribute name="lang" select="@xml:lang"/>
+                    <xsl:if test="@lang">
+                        <xsl:attribute name="lang" select="@lang"/>
                     </xsl:if>
                     <xsl:apply-templates/>
                 </xsl:element>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Boeci_tei_l"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr.Boeci.tok.xml">
+<mark id="tei_l_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_27')))"/><!-- nos jove omne quandius que nos estam  -->
+<mark id="tei_l_1" xlink:href="#xpointer(id('tok_28')/range-to(id('tok_57')))"/><!-- de gran follia per folledat parllam  -->
+<mark id="tei_l_2" xlink:href="#xpointer(id('tok_58')/range-to(id('tok_89')))"/><!-- quar no nos membra per cui viuri esperam  -->
+<mark id="tei_l_3" xlink:href="#xpointer(id('tok_90')/range-to(id('tok_118')))"/><!-- qui nos soste tan quan per terra annam  -->
+<mark id="tei_l_4" xlink:href="#xpointer(id('tok_119')/range-to(id('tok_142')))"/><!-- e qui nos pais que no murem de fam  -->
+<mark id="tei_l_5" xlink:href="#xpointer(id('tok_143')/range-to(id('tok_176')))"/><!-- per cui salv esmes per pur tan que ll clamam  -->
+<mark id="tei_l_6" xlink:href="#xpointer(id('tok_177')/range-to(id('tok_203')))"/><!-- nos jove omne menam ta mal jovent  -->
+<mark id="tei_l_7" xlink:href="#xpointer(id('tok_204')/range-to(id('tok_233')))"/><!-- que us non o preza si s trada son parent  -->
+<mark id="tei_l_8" xlink:href="#xpointer(id('tok_234')/range-to(id('tok_259')))"/><!-- senor ni par si ll mena malament  -->
+<mark id="tei_l_9" xlink:href="#xpointer(id('tok_260')/range-to(id('tok_292')))"/><!-- ni l us vel l aitre si s fai fals sacrament  -->
+<mark id="tei_l_10" xlink:href="#xpointer(id('tok_293')/range-to(id('tok_317')))"/><!-- quant o a fait mija no s en repent  -->
+<mark id="tei_l_11" xlink:href="#xpointer(id('tok_318')/range-to(id('tok_343')))"/><!-- e ni vers deu no n fai emendament  -->
+<mark id="tei_l_12" xlink:href="#xpointer(id('tok_344')/range-to(id('tok_373')))"/><!-- pro non es gaigre si penedenza n pren  -->
+<mark id="tei_l_13" xlink:href="#xpointer(id('tok_374')/range-to(id('tok_398')))"/><!-- dis que l a bresa mija nonqua la te  -->
+<mark id="tei_l_14" xlink:href="#xpointer(id('tok_399')/range-to(id('tok_429')))"/><!-- que eps lor forfazc sempre fai epsament  -->
+<mark id="tei_l_15" xlink:href="#xpointer(id('tok_430')/range-to(id('tok_455')))"/><!-- laisa n deu lo grant omnipotent  -->
+<mark id="tei_l_16" xlink:href="#xpointer(id('tok_456')/range-to(id('tok_481')))"/><!-- ki l mort et vius tot a in jutjamen  -->
+<mark id="tei_l_17" xlink:href="#xpointer(id('tok_482')/range-to(id('tok_506')))"/><!-- eps li satan son en so mandamen  -->
+<mark id="tei_l_18" xlink:href="#xpointer(id('tok_507')/range-to(id('tok_537')))"/><!-- ses deu licencia ja non faran torment  -->
+<mark id="tei_l_19" xlink:href="#xpointer(id('tok_538')/range-to(id('tok_561')))"/><!-- en anzs en dies foren ome fello  -->
+<mark id="tei_l_20" xlink:href="#xpointer(id('tok_562')/range-to(id('tok_585')))"/><!-- mal ome foren aora sunt pejor  -->
+<mark id="tei_l_21" xlink:href="#xpointer(id('tok_586')/range-to(id('tok_609')))"/><!-- volg i boecis metre quastiazo  -->
+<mark id="tei_l_22" xlink:href="#xpointer(id('tok_610')/range-to(id('tok_635')))"/><!-- auvent la gent fazia en so sermo  -->
+<mark id="tei_l_23" xlink:href="#xpointer(id('tok_636')/range-to(id('tok_659')))"/><!-- creessen deu qui sostenc passio  -->
+<mark id="tei_l_24" xlink:href="#xpointer(id('tok_660')/range-to(id('tok_686')))"/><!-- per lui aurien trastut redemcio  -->
+<mark id="tei_l_25" xlink:href="#xpointer(id('tok_687')/range-to(id('tok_716')))"/><!-- mas molt s en penet quar non i mes foiso  -->
+<mark id="tei_l_26" xlink:href="#xpointer(id('tok_717')/range-to(id('tok_743')))"/><!-- anz per eveja lo mesdren e preiso  -->
+<mark id="tei_l_27" xlink:href="#xpointer(id('tok_744')/range-to(id('tok_768')))"/><!-- donz fo boecis corps ag bo e pro  -->
+<mark id="tei_l_28" xlink:href="#xpointer(id('tok_769')/range-to(id('tok_793')))"/><!-- cui tan amet torquator mallios  -->
+<mark id="tei_l_29" xlink:href="#xpointer(id('tok_794')/range-to(id('tok_818')))"/><!-- de sapiencia no fo trop nuallos  -->
+<mark id="tei_l_30" xlink:href="#xpointer(id('tok_819')/range-to(id('tok_846')))"/><!-- tant en retenc que de tot no n fo blos  -->
+<mark id="tei_l_31" xlink:href="#xpointer(id('tok_847')/range-to(id('tok_874')))"/><!-- tan bo essemple en laiset entre nos  -->
+<mark id="tei_l_32" xlink:href="#xpointer(id('tok_875')/range-to(id('tok_900')))"/><!-- no cuid qu e roma om de so saber fos  -->
+<mark id="tei_l_33" xlink:href="#xpointer(id('tok_901')/range-to(id('tok_926')))"/><!-- coms fo de roma e ac ta gran valor  -->
+<mark id="tei_l_34" xlink:href="#xpointer(id('tok_927')/range-to(id('tok_951')))"/><!-- aprob mallio lo rei emperador  -->
+<mark id="tei_l_35" xlink:href="#xpointer(id('tok_952')/range-to(id('tok_974')))"/><!-- el era l meler de tota la onor  -->
+<mark id="tei_l_36" xlink:href="#xpointer(id('tok_975')/range-to(id('tok_1001')))"/><!-- de tot l emperi l tenien per senor  -->
+<mark id="tei_l_37" xlink:href="#xpointer(id('tok_1002')/range-to(id('tok_1027')))"/><!-- mas d una causa u nom avia genzor  -->
+<mark id="tei_l_38" xlink:href="#xpointer(id('tok_1028')/range-to(id('tok_1054')))"/><!-- de sapiencia l apellaven doctor  -->
+<mark id="tei_l_39" xlink:href="#xpointer(id('tok_1055')/range-to(id('tok_1080')))"/><!-- quan veng la fis mallio torquator  -->
+<mark id="tei_l_40" xlink:href="#xpointer(id('tok_1081')/range-to(id('tok_1110')))"/><!-- donc venc boeci ta gran dolors a l cor  -->
+<mark id="tei_l_41" xlink:href="#xpointer(id('tok_1111')/range-to(id('tok_1137')))"/><!-- no cuid aprob altre dols li demor  -->
+<mark id="tei_l_42" xlink:href="#xpointer(id('tok_1138')/range-to(id('tok_1168')))"/><!-- morz fo mallios torquator dunt eu dig  -->
+<mark id="tei_l_43" xlink:href="#xpointer(id('tok_1169')/range-to(id('tok_1194')))"/><!-- ec vos e roma l emperador teiric  -->
+<mark id="tei_l_44" xlink:href="#xpointer(id('tok_1195')/range-to(id('tok_1218')))"/><!-- de l fiel deu no volg aver amig  -->
+<mark id="tei_l_45" xlink:href="#xpointer(id('tok_1219')/range-to(id('tok_1244')))"/><!-- no credet deu lo nostre creator  -->
+<mark id="tei_l_46" xlink:href="#xpointer(id('tok_1245')/range-to(id('tok_1268')))"/><!-- per zo no l volg boecis a senor  -->
+<mark id="tei_l_47" xlink:href="#xpointer(id('tok_1269')/range-to(id('tok_1295')))"/><!-- ni gens de lui no volg tener s onor  -->
+<mark id="tei_l_48" xlink:href="#xpointer(id('tok_1296')/range-to(id('tok_1318')))"/><!-- eu lo chastia ta be ab so sermo  -->
+<mark id="tei_l_49" xlink:href="#xpointer(id('tok_1319')/range-to(id('tok_1342')))"/><!-- e teirix col tot e mal sa razo  -->
+<mark id="tei_l_50" xlink:href="#xpointer(id('tok_1343')/range-to(id('tok_1371')))"/><!-- per grant evea de lui volg far fello  -->
+<mark id="tei_l_51" xlink:href="#xpointer(id('tok_1372')/range-to(id('tok_1399')))"/><!-- fez u breu faire per gran decepcio  -->
+<mark id="tei_l_52" xlink:href="#xpointer(id('tok_1400')/range-to(id('tok_1423')))"/><!-- e de boeci escrivre fez lo nom  -->
+<mark id="tei_l_53" xlink:href="#xpointer(id('tok_1424')/range-to(id('tok_1446')))"/><!-- e si l tramet e grecia la regio  -->
+<mark id="tei_l_54" xlink:href="#xpointer(id('tok_1447')/range-to(id('tok_1473')))"/><!-- de part boeci lor manda tal raizo  -->
+<mark id="tei_l_55" xlink:href="#xpointer(id('tok_1474')/range-to(id('tok_1500')))"/><!-- que passen mar guarnit de contenco  -->
+<mark id="tei_l_56" xlink:href="#xpointer(id('tok_1501')/range-to(id('tok_1523')))"/><!-- eu lor redra roma per traazo  -->
+<mark id="tei_l_57" xlink:href="#xpointer(id('tok_1524')/range-to(id('tok_1547')))"/><!-- lo senz teiric miga no fo de bo  -->
+<mark id="tei_l_58" xlink:href="#xpointer(id('tok_1548')/range-to(id('tok_1579')))"/><!-- fez sos mes segre si lz fez metre e preso  -->
+<mark id="tei_l_59" xlink:href="#xpointer(id('tok_1580')/range-to(id('tok_1605')))"/><!-- e l capitoli l endema a l dia clar  -->
+<mark id="tei_l_60" xlink:href="#xpointer(id('tok_1606')/range-to(id('tok_1634')))"/><!-- lai o solien las altras leis jutjar  -->
+<mark id="tei_l_61" xlink:href="#xpointer(id('tok_1635')/range-to(id('tok_1660')))"/><!-- lai veng lo reis sa felnia menar  -->
+<mark id="tei_l_62" xlink:href="#xpointer(id('tok_1661')/range-to(id('tok_1684')))"/><!-- lai fo boecis e foren i soi par  -->
+<mark id="tei_l_63" xlink:href="#xpointer(id('tok_1685')/range-to(id('tok_1711')))"/><!-- lo reis lo pres de felni a reptar  -->
+<mark id="tei_l_64" xlink:href="#xpointer(id('tok_1712')/range-to(id('tok_1740')))"/><!-- qu el trametia los breus ultra la mar  -->
+<mark id="tei_l_65" xlink:href="#xpointer(id('tok_1741')/range-to(id('tok_1767')))"/><!-- a obs los grex roma volia tradar  -->
+<mark id="tei_l_66" xlink:href="#xpointer(id('tok_1768')/range-to(id('tok_1791')))"/><!-- pero boeci anc no venc e pesat  -->
+<mark id="tei_l_67" xlink:href="#xpointer(id('tok_1792')/range-to(id('tok_1820')))"/><!-- sal el en estant e cuidet s en salvar  -->
+<mark id="tei_l_68" xlink:href="#xpointer(id('tok_1821')/range-to(id('tok_1847')))"/><!-- l om no l laiset a salvament annar  -->
+<mark id="tei_l_69" xlink:href="#xpointer(id('tok_1848')/range-to(id('tok_1875')))"/><!-- cil li faliren que l solient ajudar  -->
+<mark id="tei_l_70" xlink:href="#xpointer(id('tok_1876')/range-to(id('tok_1900')))"/><!-- fez lo lo reis e sa charcer gitar  -->
+<mark id="tei_l_71" xlink:href="#xpointer(id('tok_1901')/range-to(id('tok_1923')))"/><!-- ec vos boeci cadegut en afan  -->
+<mark id="tei_l_72" xlink:href="#xpointer(id('tok_1924')/range-to(id('tok_1952')))"/><!-- e granz kadenas qui l estan apesant  -->
+<mark id="tei_l_73" xlink:href="#xpointer(id('tok_1953')/range-to(id('tok_1979')))"/><!-- reclama deu de cel lo rei lo grant  -->
+<mark id="tei_l_74" xlink:href="#xpointer(id('tok_1980')/range-to(id('tok_2004')))"/><!-- domne pater e te m fiav eu tant  -->
+<mark id="tei_l_75" xlink:href="#xpointer(id('tok_2005')/range-to(id('tok_2030')))"/><!-- e cui marce tuit peccador estant  -->
+<mark id="tei_l_76" xlink:href="#xpointer(id('tok_2031')/range-to(id('tok_2060')))"/><!-- las mias musas qui ant perdut lor cant  -->
+<mark id="tei_l_77" xlink:href="#xpointer(id('tok_2061')/range-to(id('tok_2083')))"/><!-- de sapiencia anava eu ditan  -->
+<mark id="tei_l_78" xlink:href="#xpointer(id('tok_2084')/range-to(id('tok_2111')))"/><!-- plor tota dia faz cosdumna d efant  -->
+<mark id="tei_l_79" xlink:href="#xpointer(id('tok_2112')/range-to(id('tok_2139')))"/><!-- tuit a plorar repairen mei talant  -->
+<mark id="tei_l_80" xlink:href="#xpointer(id('tok_2140')/range-to(id('tok_2165')))"/><!-- domne pater tu qui m sols goernar  -->
+<mark id="tei_l_81" xlink:href="#xpointer(id('tok_2166')/range-to(id('tok_2189')))"/><!-- e te m soli eu a toz dias fiar  -->
+<mark id="tei_l_82" xlink:href="#xpointer(id('tok_2190')/range-to(id('tok_2218')))"/><!-- tu m fezist tant e gran riqueza star  -->
+<mark id="tei_l_83" xlink:href="#xpointer(id('tok_2219')/range-to(id('tok_2245')))"/><!-- de tota roma l emperi aig a mandar  -->
+<mark id="tei_l_84" xlink:href="#xpointer(id('tok_2246')/range-to(id('tok_2272')))"/><!-- los savis omnes en soli adornar  -->
+<mark id="tei_l_85" xlink:href="#xpointer(id('tok_2273')/range-to(id('tok_2301')))"/><!-- de la justicia que grant aig a mandar  -->
+<mark id="tei_l_86" xlink:href="#xpointer(id('tok_2302')/range-to(id('tok_2330')))"/><!-- no t servij be no la m volguist laisar  -->
+<mark id="tei_l_87" xlink:href="#xpointer(id('tok_2331')/range-to(id('tok_2356')))"/><!-- per aizo m fas e chaitiveza star  -->
+<mark id="tei_l_88" xlink:href="#xpointer(id('tok_2357')/range-to(id('tok_2384')))"/><!-- non ai que prenga ne no posg re donar  -->
+<mark id="tei_l_89" xlink:href="#xpointer(id('tok_2385')/range-to(id('tok_2411')))"/><!-- ni noit ni dia no faz que mal pensar  -->
+<mark id="tei_l_90" xlink:href="#xpointer(id('tok_2412')/range-to(id('tok_2439')))"/><!-- tuit mei talant repairen a plorar  -->
+<mark id="tei_l_91" xlink:href="#xpointer(id('tok_2440')/range-to(id('tok_2464')))"/><!-- hanc no fo om ta gran vertut agues  -->
+<mark id="tei_l_92" xlink:href="#xpointer(id('tok_2465')/range-to(id('tok_2488')))"/><!-- qui sapiencia compenre pogues  -->
+<mark id="tei_l_93" xlink:href="#xpointer(id('tok_2489')/range-to(id('tok_2515')))"/><!-- pero boecis no n fo de tot mespres  -->
+<mark id="tei_l_94" xlink:href="#xpointer(id('tok_2516')/range-to(id('tok_2541')))"/><!-- anc no n vist u qui tant en retegues  -->
+<mark id="tei_l_95" xlink:href="#xpointer(id('tok_2542')/range-to(id('tok_2570')))"/><!-- lainz e las carcers o el jazia pres  -->
+<mark id="tei_l_96" xlink:href="#xpointer(id('tok_2571')/range-to(id('tok_2599')))"/><!-- lainz comtava de l temporal cum es  -->
+<mark id="tei_l_97" xlink:href="#xpointer(id('tok_2600')/range-to(id('tok_2626')))"/><!-- de sol e luna cel e terra mar cum es  -->
+<mark id="tei_l_98" xlink:href="#xpointer(id('tok_2627')/range-to(id('tok_2653')))"/><!-- nos e molz libres o trobam legen  -->
+<mark id="tei_l_99" xlink:href="#xpointer(id('tok_2654')/range-to(id('tok_2679')))"/><!-- dis o boecis e sso gran marriment  -->
+<mark id="tei_l_100" xlink:href="#xpointer(id('tok_2680')/range-to(id('tok_2706')))"/><!-- quant e la carcer avia l cor dolent  -->
+<mark id="tei_l_101" xlink:href="#xpointer(id('tok_2707')/range-to(id('tok_2733')))"/><!-- molt val lo bes que l om fai e jovent  -->
+<mark id="tei_l_102" xlink:href="#xpointer(id('tok_2734')/range-to(id('tok_2757')))"/><!-- com el es velz qui pois lo soste  -->
+<mark id="tei_l_103" xlink:href="#xpointer(id('tok_2758')/range-to(id('tok_2786')))"/><!-- quan ve a l ora que l corps li vai franen  -->
+<mark id="tei_l_104" xlink:href="#xpointer(id('tok_2787')/range-to(id('tok_2812')))"/><!-- per be qu a fait deus a ssa part lo te  -->
+<mark id="tei_l_105" xlink:href="#xpointer(id('tok_2813')/range-to(id('tok_2839')))"/><!-- nos de molz omnes nos o avem veut  -->
+<mark id="tei_l_106" xlink:href="#xpointer(id('tok_2840')/range-to(id('tok_2864')))"/><!-- om per veltat non a lo pel chanut  -->
+<mark id="tei_l_107" xlink:href="#xpointer(id('tok_2865')/range-to(id('tok_2883')))"/><!-- o es eferms o a afan agut  -->
+<mark id="tei_l_108" xlink:href="#xpointer(id('tok_2884')/range-to(id('tok_2909')))"/><!-- cellui vai be qui tra mal e jovent  -->
+<mark id="tei_l_109" xlink:href="#xpointer(id('tok_2910')/range-to(id('tok_2936')))"/><!-- e cum es velz donc estai bonament  -->
+<mark id="tei_l_110" xlink:href="#xpointer(id('tok_2937')/range-to(id('tok_2960')))"/><!-- deus a mes e lui so chastiament  -->
+<mark id="tei_l_111" xlink:href="#xpointer(id('tok_2961')/range-to(id('tok_2990')))"/><!-- mas quant es joves et a onor molt grant  -->
+<mark id="tei_l_112" xlink:href="#xpointer(id('tok_2991')/range-to(id('tok_3015')))"/><!-- et evers deu no torna so talant  -->
+<mark id="tei_l_113" xlink:href="#xpointer(id('tok_3016')/range-to(id('tok_3044')))"/><!-- cum el es velz vai s onors descaptan  -->
+<mark id="tei_l_114" xlink:href="#xpointer(id('tok_3045')/range-to(id('tok_3073')))"/><!-- quant se reguarda no n a ne tan ne quant  -->
+<mark id="tei_l_115" xlink:href="#xpointer(id('tok_3074')/range-to(id('tok_3102')))"/><!-- la pelz li rua hec lo kap te tremblant  -->
+<mark id="tei_l_116" xlink:href="#xpointer(id('tok_3103')/range-to(id('tok_3127')))"/><!-- morir volria e es e gran masant  -->
+<mark id="tei_l_117" xlink:href="#xpointer(id('tok_3128')/range-to(id('tok_3155')))"/><!-- trastota dia vai la mort reclaman  -->
+<mark id="tei_l_118" xlink:href="#xpointer(id('tok_3156')/range-to(id('tok_3184')))"/><!-- ella no l pren ne no l en fai semblant  -->
+<mark id="tei_l_119" xlink:href="#xpointer(id('tok_3185')/range-to(id('tok_3209')))"/><!-- drez es e bes que l om e deu s esper  -->
+<mark id="tei_l_120" xlink:href="#xpointer(id('tok_3210')/range-to(id('tok_3233')))"/><!-- mas non es bes que s fi e son aver  -->
+<mark id="tei_l_121" xlink:href="#xpointer(id('tok_3234')/range-to(id('tok_3257')))"/><!-- ta mala fe nulz om no pot veder  -->
+<mark id="tei_l_122" xlink:href="#xpointer(id('tok_3258')/range-to(id('tok_3279')))"/><!-- l om l a a l ma miga no l a a l ser  -->
+<mark id="tei_l_123" xlink:href="#xpointer(id('tok_3280')/range-to(id('tok_3305')))"/><!-- cum l us lo pert a l altre ve tener  -->
+<mark id="tei_l_124" xlink:href="#xpointer(id('tok_3306')/range-to(id('tok_3328')))"/><!-- e la morz a epsament mala fe  -->
+<mark id="tei_l_125" xlink:href="#xpointer(id('tok_3329')/range-to(id('tok_3350')))"/><!-- l om ve u ome quaitiu e dolent  -->
+<mark id="tei_l_126" xlink:href="#xpointer(id('tok_3351')/range-to(id('tok_3375')))"/><!-- o es malaptes o altre pres lo te  -->
+<mark id="tei_l_127" xlink:href="#xpointer(id('tok_3376')/range-to(id('tok_3397')))"/><!-- non a aver ni amic ni parent  -->
+<mark id="tei_l_128" xlink:href="#xpointer(id('tok_3398')/range-to(id('tok_3423')))"/><!-- e dunc apella mort ta dolzament  -->
+<mark id="tei_l_129" xlink:href="#xpointer(id('tok_3424')/range-to(id('tok_3448')))"/><!-- crida e ucha morz a me quar no ves  -->
+<mark id="tei_l_130" xlink:href="#xpointer(id('tok_3449')/range-to(id('tok_3477')))"/><!-- ella s fen sorda gens a lui non atend  -->
+<mark id="tei_l_131" xlink:href="#xpointer(id('tok_3478')/range-to(id('tok_3513')))"/><!-- quant menz s en guarda no sap mot quan lo s prent  -->
+<mark id="tei_l_132" xlink:href="#xpointer(id('tok_3514')/range-to(id('tok_3542')))"/><!-- si cum la nibles cobre l jorn lo be ma  -->
+<mark id="tei_l_133" xlink:href="#xpointer(id('tok_3543')/range-to(id('tok_3568')))"/><!-- si cobre avers lo cor a l xristia  -->
+<mark id="tei_l_134" xlink:href="#xpointer(id('tok_3569')/range-to(id('tok_3591')))"/><!-- qui tant i pessa que al no fara ja  -->
+<mark id="tei_l_135" xlink:href="#xpointer(id('tok_3592')/range-to(id('tok_3616')))"/><!-- e deu no s fia ni deus e lui e no ma  -->
+<mark id="tei_l_136" xlink:href="#xpointer(id('tok_3617')/range-to(id('tok_3643')))"/><!-- quan se reguarda per o res no l rema  -->
+<mark id="tei_l_137" xlink:href="#xpointer(id('tok_3644')/range-to(id('tok_3673')))"/><!-- molt fort blasmava boecis sos amigs  -->
+<mark id="tei_l_138" xlink:href="#xpointer(id('tok_3674')/range-to(id('tok_3705')))"/><!-- qui lui laudaven dereer e uz dias antix  -->
+<mark id="tei_l_139" xlink:href="#xpointer(id('tok_3706')/range-to(id('tok_3730')))"/><!-- qu el era coms molt onraz e rix  -->
+<mark id="tei_l_140" xlink:href="#xpointer(id('tok_3731')/range-to(id('tok_3754')))"/><!-- et evers deu era tot sos afix  -->
+<mark id="tei_l_141" xlink:href="#xpointer(id('tok_3755')/range-to(id('tok_3780')))"/><!-- molt lo laudaven e amic e parent  -->
+<mark id="tei_l_142" xlink:href="#xpointer(id('tok_3781')/range-to(id('tok_3805')))"/><!-- c ab damrideu se tenia forment  -->
+<mark id="tei_l_143" xlink:href="#xpointer(id('tok_3806')/range-to(id('tok_3835')))"/><!-- pero boecis trastuz los en desment  -->
+<mark id="tei_l_144" xlink:href="#xpointer(id('tok_3836')/range-to(id('tok_3859')))"/><!-- no s es acsi cum anaven dicent  -->
+<mark id="tei_l_145" xlink:href="#xpointer(id('tok_3860')/range-to(id('tok_3888')))"/><!-- cel non es bos que a frebla scala s te  -->
+<mark id="tei_l_146" xlink:href="#xpointer(id('tok_3889')/range-to(id('tok_3911')))"/><!-- qui tota ora sempre vai chaden  -->
+<mark id="tei_l_147" xlink:href="#xpointer(id('tok_3912')/range-to(id('tok_3936')))"/><!-- aquel qui l a non estai fermament  -->
+<mark id="tei_l_148" xlink:href="#xpointer(id('tok_3937')/range-to(id('tok_3963')))"/><!-- e quals es l om qui a ferma schala s te  -->
+<mark id="tei_l_149" xlink:href="#xpointer(id('tok_3964')/range-to(id('tok_3991')))"/><!-- bos xristias qui cre perfeitament  -->
+<mark id="tei_l_150" xlink:href="#xpointer(id('tok_3992')/range-to(id('tok_4018')))"/><!-- deu la paterna lo rei omnipotent  -->
+<mark id="tei_l_151" xlink:href="#xpointer(id('tok_4019')/range-to(id('tok_4041')))"/><!-- et en jhesu que ac tan bo talent  -->
+<mark id="tei_l_152" xlink:href="#xpointer(id('tok_4042')/range-to(id('tok_4069')))"/><!-- chi nos redems de so sang dolzament  -->
+<mark id="tei_l_153" xlink:href="#xpointer(id('tok_4070')/range-to(id('tok_4101')))"/><!-- e sanctum spiritum qui e bos omes desend  -->
+<mark id="tei_l_154" xlink:href="#xpointer(id('tok_4102')/range-to(id('tok_4132')))"/><!-- que que l corps faca eu li vai l arma dozen  -->
+<mark id="tei_l_155" xlink:href="#xpointer(id('tok_4133')/range-to(id('tok_4160')))"/><!-- bos cristians qui a ital eschala s te  -->
+<mark id="tei_l_156" xlink:href="#xpointer(id('tok_4161')/range-to(id('tok_4187')))"/><!-- cel no n quaira ja per negu torment  -->
+<mark id="tei_l_157" xlink:href="#xpointer(id('tok_4188')/range-to(id('tok_4212')))"/><!-- cum jaz boecis e pena charceral  -->
+<mark id="tei_l_158" xlink:href="#xpointer(id('tok_4213')/range-to(id('tok_4240')))"/><!-- plan se sos dols e sos menuz pecaz  -->
+<mark id="tei_l_159" xlink:href="#xpointer(id('tok_4241')/range-to(id('tok_4268')))"/><!-- d una donzella fo lainz visitaz  -->
+<mark id="tei_l_160" xlink:href="#xpointer(id('tok_4269')/range-to(id('tok_4293')))"/><!-- filla s a l rei qui a gran poestat  -->
+<mark id="tei_l_161" xlink:href="#xpointer(id('tok_4294')/range-to(id('tok_4321')))"/><!-- ella s ta bella reluz ent lo palaz  -->
+<mark id="tei_l_162" xlink:href="#xpointer(id('tok_4322')/range-to(id('tok_4353')))"/><!-- lo mas o intra inz es granz claritaz  -->
+<mark id="tei_l_163" xlink:href="#xpointer(id('tok_4354')/range-to(id('tok_4378')))"/><!-- ja no es obs fox i ssia alumnaz  -->
+<mark id="tei_l_164" xlink:href="#xpointer(id('tok_4379')/range-to(id('tok_4409')))"/><!-- veder ent pot l om per quaranta ciptaz  -->
+<mark id="tei_l_165" xlink:href="#xpointer(id('tok_4410')/range-to(id('tok_4434')))"/><!-- qual ora s vol petita s fai asaz  -->
+<mark id="tei_l_166" xlink:href="#xpointer(id('tok_4435')/range-to(id('tok_4462')))"/><!-- cum ella s auca cel a de l cap polsat  -->
+<mark id="tei_l_167" xlink:href="#xpointer(id('tok_4463')/range-to(id('tok_4489')))"/><!-- quant be se dreca lo cel a pertusat  -->
+<mark id="tei_l_168" xlink:href="#xpointer(id('tok_4490')/range-to(id('tok_4512')))"/><!-- e ve lainz tota la majestat  -->
+<mark id="tei_l_169" xlink:href="#xpointer(id('tok_4513')/range-to(id('tok_4543')))"/><!-- bella s la domna e l vis a tant preclar  -->
+<mark id="tei_l_170" xlink:href="#xpointer(id('tok_4544')/range-to(id('tok_4570')))"/><!-- davan so vis nulz om no s pot celar  -->
+<mark id="tei_l_171" xlink:href="#xpointer(id('tok_4571')/range-to(id('tok_4596')))"/><!-- ne eps li omne qui sun ultra la mar  -->
+<mark id="tei_l_172" xlink:href="#xpointer(id('tok_4597')/range-to(id('tok_4624')))"/><!-- no potden tant e lor cors cobeetar  -->
+<mark id="tei_l_173" xlink:href="#xpointer(id('tok_4625')/range-to(id('tok_4647')))"/><!-- qu ella de tot no vea lor pessar  -->
+<mark id="tei_l_174" xlink:href="#xpointer(id('tok_4648')/range-to(id('tok_4676')))"/><!-- qui e leis se fia morz no l es a doptar  -->
+<mark id="tei_l_175" xlink:href="#xpointer(id('tok_4677')/range-to(id('tok_4709')))"/><!-- bella s la domna mas molt es de longs dis  -->
+<mark id="tei_l_176" xlink:href="#xpointer(id('tok_4710')/range-to(id('tok_4741')))"/><!-- no s pot rascundre nulz hom denant so vis  -->
+<mark id="tei_l_177" xlink:href="#xpointer(id('tok_4742')/range-to(id('tok_4769')))"/><!-- hanc no vist omne ta grant onor agues  -->
+<mark id="tei_l_178" xlink:href="#xpointer(id('tok_4770')/range-to(id('tok_4798')))"/><!-- s il forfez tan dont ella s rangures  -->
+<mark id="tei_l_179" xlink:href="#xpointer(id('tok_4799')/range-to(id('tok_4829')))"/><!-- sos corps ni s anma miga per ren guaris  -->
+<mark id="tei_l_180" xlink:href="#xpointer(id('tok_4830')/range-to(id('tok_4856')))"/><!-- quoras que s vol s en a lo corps aucis  -->
+<mark id="tei_l_181" xlink:href="#xpointer(id('tok_4857')/range-to(id('tok_4884')))"/><!-- e pois met l arma en effern e l somsis  -->
+<mark id="tei_l_182" xlink:href="#xpointer(id('tok_4885')/range-to(id('tok_4911')))"/><!-- tal li comanda qui tot dias la bris  -->
+<mark id="tei_l_183" xlink:href="#xpointer(id('tok_4912')/range-to(id('tok_4943')))"/><!-- ella smetessma ten las claus de paradis  -->
+<mark id="tei_l_184" xlink:href="#xpointer(id('tok_4944')/range-to(id('tok_4971')))"/><!-- quoras que s vol lainz col sos amigs  -->
+<mark id="tei_l_185" xlink:href="#xpointer(id('tok_4972')/range-to(id('tok_4999')))"/><!-- bel sun li drap no sai nomnar lo fil  -->
+<mark id="tei_l_186" xlink:href="#xpointer(id('tok_5000')/range-to(id('tok_5028')))"/><!-- mas molt per foren de bon e de sobtil  -->
+<mark id="tei_l_187" xlink:href="#xpointer(id('tok_5029')/range-to(id('tok_5053')))"/><!-- ella se fez anz avia plus de mil  -->
+<mark id="tei_l_188" xlink:href="#xpointer(id('tok_5054')/range-to(id('tok_5079')))"/><!-- tan no son vel miga lor prez a vil  -->
+<mark id="tei_l_189" xlink:href="#xpointer(id('tok_5080')/range-to(id('tok_5107')))"/><!-- ella medesma teiset so vestiment  -->
+<mark id="tei_l_190" xlink:href="#xpointer(id('tok_5108')/range-to(id('tok_5134')))"/><!-- que negus om no pot desfar neienz  -->
+<mark id="tei_l_191" xlink:href="#xpointer(id('tok_5135')/range-to(id('tok_5164')))"/><!-- pur l una fremna qui vers la terra pent  -->
+<mark id="tei_l_192" xlink:href="#xpointer(id('tok_5165')/range-to(id('tok_5195')))"/><!-- no comprari om ab mil livras d argent  -->
+<mark id="tei_l_193" xlink:href="#xpointer(id('tok_5196')/range-to(id('tok_5223')))"/><!-- ella ab boeci parlet ta dolzament  -->
+<mark id="tei_l_194" xlink:href="#xpointer(id('tok_5224')/range-to(id('tok_5254')))"/><!-- molt me derramen donzellet de jovent  -->
+<mark id="tei_l_195" xlink:href="#xpointer(id('tok_5255')/range-to(id('tok_5280')))"/><!-- que zo esperen que faza a lor talen  -->
+<mark id="tei_l_196" xlink:href="#xpointer(id('tok_5281')/range-to(id('tok_5307')))"/><!-- primas me amen pois me van aissent  -->
+<mark id="tei_l_197" xlink:href="#xpointer(id('tok_5308')/range-to(id('tok_5332')))"/><!-- la mia mort ta mal van deperden  -->
+<mark id="tei_l_198" xlink:href="#xpointer(id('tok_5333')/range-to(id('tok_5359')))"/><!-- bel sun li drap que la domna vestit  -->
+<mark id="tei_l_199" xlink:href="#xpointer(id('tok_5360')/range-to(id('tok_5382')))"/><!-- de caritat e de fe sun bastit  -->
+<mark id="tei_l_200" xlink:href="#xpointer(id('tok_5383')/range-to(id('tok_5408')))"/><!-- il sun ta bel e ta blanc e ta quandi  -->
+<mark id="tei_l_201" xlink:href="#xpointer(id('tok_5409')/range-to(id('tok_5432')))"/><!-- tant a boecis lo vis esvanuit  -->
+<mark id="tei_l_202" xlink:href="#xpointer(id('tok_5433')/range-to(id('tok_5456')))"/><!-- que el zo pensa uel sien amosit  -->
+<mark id="tei_l_203" xlink:href="#xpointer(id('tok_5457')/range-to(id('tok_5482')))"/><!-- e l vestiment en l or qui es repres  -->
+<mark id="tei_l_204" xlink:href="#xpointer(id('tok_5483')/range-to(id('tok_5510')))"/><!-- desoz avia escript u pei grezesc  -->
+<mark id="tei_l_205" xlink:href="#xpointer(id('tok_5511')/range-to(id('tok_5536')))"/><!-- zo signifiga la vita qui en ter es  -->
+<mark id="tei_l_206" xlink:href="#xpointer(id('tok_5537')/range-to(id('tok_5572')))"/><!-- sobre la schapla escript avia u tei grezesc  -->
+<mark id="tei_l_207" xlink:href="#xpointer(id('tok_5573')/range-to(id('tok_5598')))"/><!-- zo signifiga de cel la dreita lei  -->
+<mark id="tei_l_208" xlink:href="#xpointer(id('tok_5599')/range-to(id('tok_5628')))"/><!-- antr ellas doas depent sun l eschalo  -->
+<mark id="tei_l_209" xlink:href="#xpointer(id('tok_5629')/range-to(id('tok_5654')))"/><!-- d aur no sun ges mas nuallor no sun  -->
+<mark id="tei_l_210" xlink:href="#xpointer(id('tok_5655')/range-to(id('tok_5681')))"/><!-- per aqui monten cent miri auzello  -->
+<mark id="tei_l_211" xlink:href="#xpointer(id('tok_5682')/range-to(id('tok_5707')))"/><!-- alquant s en tornen aval arreuso  -->
+<mark id="tei_l_212" xlink:href="#xpointer(id('tok_5708')/range-to(id('tok_5736')))"/><!-- mas cil qui poden montar a l tei alcor  -->
+<mark id="tei_l_213" xlink:href="#xpointer(id('tok_5737')/range-to(id('tok_5762')))"/><!-- en epsa l ora se sun d altra color  -->
+<mark id="tei_l_214" xlink:href="#xpointer(id('tok_5763')/range-to(id('tok_5792')))"/><!-- ab la donzella pois an molt gran amor  -->
+<mark id="tei_l_215" xlink:href="#xpointer(id('tok_5793')/range-to(id('tok_5820')))"/><!-- cals es la schala de que sun li degra  -->
+<mark id="tei_l_216" xlink:href="#xpointer(id('tok_5821')/range-to(id('tok_5846')))"/><!-- fait sun d almosna e fe e caritat  -->
+<mark id="tei_l_217" xlink:href="#xpointer(id('tok_5847')/range-to(id('tok_5878')))"/><!-- contra felnia sunt fait de gran bontat  -->
+<mark id="tei_l_218" xlink:href="#xpointer(id('tok_5879')/range-to(id('tok_5904')))"/><!-- contra perjuri de bona feeltat  -->
+<mark id="tei_l_219" xlink:href="#xpointer(id('tok_5905')/range-to(id('tok_5935')))"/><!-- contr avaricia sun fait de largetat  -->
+<mark id="tei_l_220" xlink:href="#xpointer(id('tok_5936')/range-to(id('tok_5967')))"/><!-- contra tristicia sun fait d alegretat  -->
+<mark id="tei_l_221" xlink:href="#xpointer(id('tok_5968')/range-to(id('tok_5997')))"/><!-- contra menzonga sun fait de veritat  -->
+<mark id="tei_l_222" xlink:href="#xpointer(id('tok_5998')/range-to(id('tok_6028')))"/><!-- contra lucxuria sun fait de castitat  -->
+<mark id="tei_l_223" xlink:href="#xpointer(id('tok_6029')/range-to(id('tok_6058')))"/><!-- contra superbia sun fait d umilitat  -->
+<mark id="tei_l_224" xlink:href="#xpointer(id('tok_6059')/range-to(id('tok_6083')))"/><!-- quascus bos om si fai lo so degra  -->
+<mark id="tei_l_225" xlink:href="#xpointer(id('tok_6084')/range-to(id('tok_6112')))"/><!-- cal sun li auzil qui sun a l tei montat  -->
+<mark id="tei_l_226" xlink:href="#xpointer(id('tok_6113')/range-to(id('tok_6139')))"/><!-- qui e la scala ta ben an lor degras  -->
+<mark id="tei_l_227" xlink:href="#xpointer(id('tok_6140')/range-to(id('tok_6170')))"/><!-- zo sun bon omne qui an redems lor peccaz  -->
+<mark id="tei_l_228" xlink:href="#xpointer(id('tok_6171')/range-to(id('tok_6196')))"/><!-- qui tan se fien e sancta trinitat  -->
+<mark id="tei_l_229" xlink:href="#xpointer(id('tok_6197')/range-to(id('tok_6227')))"/><!-- d onor terrestri non an gran cobeetat  -->
+<mark id="tei_l_230" xlink:href="#xpointer(id('tok_6228')/range-to(id('tok_6250')))"/><!-- cal an li auzil significacio  -->
+<mark id="tei_l_231" xlink:href="#xpointer(id('tok_6251')/range-to(id('tok_6275')))"/><!-- qui de la schala tornen arreuso  -->
+<mark id="tei_l_232" xlink:href="#xpointer(id('tok_6276')/range-to(id('tok_6302')))"/><!-- zo sun tuit omne qui de joven sun bo  -->
+<mark id="tei_l_233" xlink:href="#xpointer(id('tok_6303')/range-to(id('tok_6328')))"/><!-- de sapiencia qui conmencen razo  -->
+<mark id="tei_l_234" xlink:href="#xpointer(id('tok_6329')/range-to(id('tok_6352')))"/><!-- e cum sun vell esdevenen fello  -->
+<mark id="tei_l_235" xlink:href="#xpointer(id('tok_6353')/range-to(id('tok_6379')))"/><!-- e fan perjuris e granz traicios  -->
+<mark id="tei_l_236" xlink:href="#xpointer(id('tok_6380')/range-to(id('tok_6409')))"/><!-- cum poisas cuida montar per l eschalo  -->
+<mark id="tei_l_237" xlink:href="#xpointer(id('tok_6410')/range-to(id('tok_6435')))"/><!-- cerqua que cerca no i ve miga de l so  -->
+<mark id="tei_l_238" xlink:href="#xpointer(id('tok_6436')/range-to(id('tok_6463')))"/><!-- ven lo diables qui guarda l baratro  -->
+<mark id="tei_l_239" xlink:href="#xpointer(id('tok_6464')/range-to(id('tok_6489')))"/><!-- ven acorren si l pren per lo talo  -->
+<mark id="tei_l_240" xlink:href="#xpointer(id('tok_6490')/range-to(id('tok_6512')))"/><!-- fai l acupar a guisa de lairo  -->
+<mark id="tei_l_241" xlink:href="#xpointer(id('tok_6513')/range-to(id('tok_6537')))"/><!-- fai l aparer de tot no l troba bo  -->
+<mark id="tei_l_242" xlink:href="#xpointer(id('tok_6538')/range-to(id('tok_6570')))"/><!-- bella s la domna e granz per co sedenz  -->
+<mark id="tei_l_243" xlink:href="#xpointer(id('tok_6571')/range-to(id('tok_6597')))"/><!-- no vist donzella de son evaiment  -->
+<mark id="tei_l_244" xlink:href="#xpointer(id('tok_6598')/range-to(id('tok_6626')))"/><!-- ella s ardida si s foren soi parent  -->
+<mark id="tei_l_245" xlink:href="#xpointer(id('tok_6627')/range-to(id('tok_6653')))"/><!-- e sa ma dextra la domna u libre te  -->
+<mark id="tei_l_246" xlink:href="#xpointer(id('tok_6654')/range-to(id('tok_6682')))"/><!-- toz aquel libres era de fog ardenz  -->
+<mark id="tei_l_247" xlink:href="#xpointer(id('tok_6683')/range-to(id('tok_6711')))"/><!-- zo s la justicia a l rei omnipotent  -->
+<mark id="tei_l_248" xlink:href="#xpointer(id('tok_6712')/range-to(id('tok_6738')))"/><!-- si l om o forfai e pois no s en repen  -->
+<mark id="tei_l_249" xlink:href="#xpointer(id('tok_6739')/range-to(id('tok_6764')))"/><!-- et evers deu no n faz amendament  -->
+<mark id="tei_l_250" xlink:href="#xpointer(id('tok_6765')/range-to(id('tok_6790')))"/><!-- quora que s vol ab aquel fog l encent  -->
+<mark id="tei_l_251" xlink:href="#xpointer(id('tok_6791')/range-to(id('tok_6817')))"/><!-- ab aquel fog s en pren so vengament  -->
+<mark id="tei_l_252" xlink:href="#xpointer(id('tok_6818')/range-to(id('tok_6843')))"/><!-- cel bona i vai qui amor ab lei pren  -->
+<mark id="tei_l_253" xlink:href="#xpointer(id('tok_6844')/range-to(id('tok_6866')))"/><!-- qui be la ama e per bontat la te  -->
+<mark id="tei_l_254" xlink:href="#xpointer(id('tok_6867')/range-to(id('tok_6896')))"/><!-- quan se reguarda be bo merite l en rent  -->
+<mark id="tei_l_255" xlink:href="#xpointer(id('tok_6897')/range-to(id('tok_6925')))"/><!-- e l ma senestre ten u sceptrum reial  -->
+<mark id="tei_l_256" xlink:href="#xpointer(id('tok_6926')/range-to(id('tok_6951')))"/><!-- zo signifiga justici corporal  -->
+<mark id="tei_l_257" xlink:href="#xpointer(id('tok_6952')/range-to(id('tok_6956')))"/><!-- de pec  -->
+</markList>
+</paula>

@@ -1,5 +1,5 @@
 wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,syntag,syntag2,lang,lemma,lemma_src,lemma_dmf,pos,pos_syn,morph,ref,tei_right,tei_left
-1,1,1,Hora,hora,orə,ho.r.a,'/o\.r/(ə)\,_,1,Adv,Adv,fro,or2,DMF,or2,ADVgen,ADVgen,,"Passion, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb facs=&quot;https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71611&quot; n=&quot;109v&quot;/><cb n=&quot;a&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
+1,1,1,Hora,hora,orə,ho.r.a,'/o\.r/(ə)\,_,1,Adv,Adv,fro,or2,DMF,or2,ADVgen,ADVgen,,"Passion, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;109v&quot;/><cb n=&quot;a&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
 2,1,2,uos,vos,voS,v.o.s,v/o\S,_,1,Prn,Prn$$,fro,vous,DMF,vous,PRCper,PRCper,5pmr,"Passion, l. 1",,
 3,1,3,dic,dic,diK,d.i.c,d/i\K,_,1,Vfin,Vfin,fro,dire,DMF,dire,VERcjg,VERcjg,indpst1,"Passion, l. 1",,
 4,1,4,uera,vera,verə,v.e.r.a,'v/e\.r/(ə)\,_,1,Adj,Adj,fro,voir2,DMF,voir2,ADJqua,ADJqua,sfr,"Passion, l. 1",,
@@ -751,7 +751,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 750,136,1,I[esu]m,jesum,QVQVQ,j.e.s.u.m,Q/V\.'Q/V\Q,_,136,N,N,lat,Jésus,wikipedia.fr,,NOMpro,NOMpro,smr,"Passion, l. 136",,<l n=&quot;136&quot;><q>
 751,136,2,querem,querem,kErEm,qu.e.r.e.m,k/E\.'r/E\m,_,136,Vfin,Vfin,fro,quérir,DMF,quérir,VERcjg,VERcjg,indpst4,"Passion, l. 136",,
 752,136,3,nazarenu[m],nazarenum,RVQVRVRVR,n.a.z.a.r.e.n.u.m,R/V\.Q/V\.R/V\.'R/V\R,|,136,N,N,lat,Nazareth,wikipedia.fr,,NOMpro,NOMpro,smr,"Passion, l. 136",</q></l></lg>,
-753,137,1,Eu,eu,ɛu,e.u,/ɛ\u,_,137,Prn,Prn$,fro,je,DMF,je,PRNper,PRNper,1smn,"Passion, l. 137",,<pb facs=&quot;https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71611&quot; n=&quot;110r&quot;/><cb n=&quot;a&quot;/><lb/><lg n=&quot;35&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;137&quot;><q>
+753,137,1,Eu,eu,ɛu,e.u,/ɛ\u,_,137,Prn,Prn$,fro,je,DMF,je,PRNper,PRNper,1smn,"Passion, l. 137",,<pb n=&quot;110r&quot;/><cb n=&quot;a&quot;/><lb/><lg n=&quot;35&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;137&quot;><q>
 754,137,2,soi,soi,Soi,s.o.i,S/o\i,_,137,Vfin,Vfin,fro,être,DMF,être,VERcjg,VERcjg,indpst1,"Passion, l. 137",,
 755,137,3,aquel,aquel,Akel,a.qu.e.l,/A\.'k/e\l,_,137,Dem,Dem,fro,aquél,DOM,,PRNdem,PRNdem,smn,"Passion, l. 137",</q>,
 756,137,4,zo,zo,Çɔ,z.o,Ç/ɔ\,+,137,Prn,Prn,fro,ce,DMF,ce,PRNdem,PRNdem,snr,"Passion, l. 137",,
@@ -1596,7 +1596,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1595,289,4,mal,mal,mæl,m.a.l,m/æ\l,_,289,N,N,fro,mal,DMF,mal,NOMcom,NOMcom,smr,"Passion, l. 289",,<q>
 1596,289,5,i,i,i,i,/i\,+,289,Prn,Prn$$,fro,y2,DMF,y2,PRCadv,PRCadv,,"Passion, l. 289",,
 1597,289,6,diz,diz,diZ,d.i.z,d/i\Z,.|,289,Vfin,Vfin,fro,dire,DMF,dire,VERcjg,VERcjg,indpst2,"Passion, l. 289",</q></l>,
-1598,290,1,el,el,el,e.l,/e\l,_,290,Prn,Prn$,fro,il,DMF,il,PRNper,PRNper,3smn,"Passion, l. 290",,<pb facs=&quot;https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71611&quot; n=&quot;110v&quot;/><cb n=&quot;a&quot;/><lb/><l n=&quot;290&quot;><q>
+1598,290,1,el,el,el,e.l,/e\l,_,290,Prn,Prn$,fro,il,DMF,il,PRNper,PRNper,3smn,"Passion, l. 290",,<pb n=&quot;110v&quot;/><cb n=&quot;a&quot;/><lb/><l n=&quot;290&quot;><q>
 1599,290,2,mor,mor,mOr,m.o.r,m/O\r,_,290,Vfin,Vfin,fro,mourir,DMF,mourir,VERcjg,VERcjg,indpst3,"Passion, l. 290",,
 1600,290,3,a,a,a,a,/a\,+,290,Pre,Pre,fro,à,DMF,à,PRE,PRE,,"Passion, l. 290",,
 1601,290,4,tort,tort,tɔrZ,t.o.r.t,t/ɔ\rZ,_,290,N,N,fro,tort,DMF,tort,NOMcom,NOMcom,smr,"Passion, l. 290",,
@@ -2358,7 +2358,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 2357,421,3,uidren,vidren,viðrən,v.i.d.r.e.n,'v/i\.ðr/ə\n,_,421,Vfin,Vfin,fro,voir,DMF,voir,VERcjg,VERcjg,indpsp6,"Passion, l. 421",,
 2358,421,4,celles,celles,ÇeləS,c.e.ll.e.s,'Ç/e\.l/ə\S,_,421,Dem,Dem,fro,celui,DMF,celui,DETdem,DETdem,pfn,"Passion, l. 421",,
 2359,421,5,duæs,duaes,doəS,d.u.ae.s,'d/o\./ə\S,|,421,QIs,QIs,fro,deux,DMF,deux,PRNcar,PRNcar,pfn,"Passion, l. 421",</l>,
-2360,422,1,de,de,dE,d.e,d/(E)\,+,422,Pre,Pre,fro,de,DMF,de,PRE,PRE,,"Passion, l. 422",,<pb facs=&quot;https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71611&quot; n=&quot;111r&quot;/><cb n=&quot;a&quot;/><lb/><l n=&quot;422&quot;>
+2360,422,1,de,de,dE,d.e,d/(E)\,+,422,Pre,Pre,fro,de,DMF,de,PRE,PRE,,"Passion, l. 422",,<pb n=&quot;111r&quot;/><cb n=&quot;a&quot;/><lb/><l n=&quot;422&quot;>
 2361,422,2,l,l,L,l,/\L,_,422,Det,Det,fro,le,DMF,le,DETdef,DETdef,smr,"Passion, l. 422",,
 2362,422,3,munument,munument,mOnymENZ,m.u.n.u.m.e.n.t,m/O\.n/y\.'m/E\NZ,_,422,N,N,fro,monument,DMF,monument,NOMcom,NOMcom,smr,"Passion, l. 422",,
 2363,422,4,cu[m],cum,kOm,c.u.m,k/O\m,_,422,Sub,Sub,fro,comme,DMF,comme,CONsub,CONsub,,"Passion, l. 422",,

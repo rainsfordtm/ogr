@@ -158,7 +158,8 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
-	 <change when="2022-01-21" resp="#TMR">Changed abbreviation to Spons (DOM).</change>
+         <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
+	      <change when="2022-01-21" resp="#TMR">Changed abbreviation to Spons (DOM).</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-13" resp="#TMR">Creation of this header</change>
       </revisionDesc>

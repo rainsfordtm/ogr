@@ -95,7 +95,8 @@
                     </h2>
                     <xsl:if test="@facs">
                         <span class="facslink">
-                            <a href="{@facs}">[Link to manuscript image]</a>
+                            <xsl:text>MS image: </xsl:text>
+                            <xsl:value-of select="@facs"/>
                         </span>
                     </xsl:if>
                     <xsl:choose>

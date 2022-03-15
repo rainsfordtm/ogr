@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="meter.PrVierge2_line_cat"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.PrVierge2.meter.xml">
+<feat xlink:href="#line_0" value="line"/><!--  in hoc anni circulo -->
+<feat xlink:href="#line_1" value="line"/><!--  vita datur seculo -->
+<feat xlink:href="#line_2" value="line"/><!--  nato nobis parvulo -->
+<feat xlink:href="#line_3" value="line"/><!--  de virgine maria -->
+<feat xlink:href="#line_4" value="line"/><!--  mei amic e mei fiel -->
+<feat xlink:href="#line_5" value="line"/><!--  laisat estar lo gazel -->
+<feat xlink:href="#line_6" value="line"/><!--  aprendet u so noel -->
+<feat xlink:href="#line_7" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_8" value="line"/><!--  fons de suo rivulo -->
+<feat xlink:href="#line_9" value="line"/><!--  nascitur pro populo -->
+<feat xlink:href="#line_10" value="line"/><!--  necto mortis vinculo -->
+<feat xlink:href="#line_11" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_12" value="line"/><!--  lais l om dire chi no u sab -->
+<feat xlink:href="#line_13" value="line"/><!--  qu eu no l dirai ses nul gab -->
+<feat xlink:href="#line_14" value="line"/><!--  mout n em issit a bo chab -->
+<feat xlink:href="#line_15" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_16" value="line"/><!--  quod vetustas suffocat -->
+<feat xlink:href="#line_17" value="line"/><!--  hoc ad vitam revocat -->
+<feat xlink:href="#line_18" value="line"/><!--  nam se deus collocat -->
+<feat xlink:href="#line_19" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_20" value="line"/><!--  so sabiat -->
+<feat xlink:href="#line_21" value="line"/><!--  no chal c om s en desesper -->
+<feat xlink:href="#line_22" value="line"/><!--  deus i ven per nos maner -->
+<feat xlink:href="#line_23" value="line"/><!--  in te virgo maria -->
+<feat xlink:href="#line_24" value="line"/><!--  sine viri copula -->
+<feat xlink:href="#line_25" value="line"/><!--  florem dedit virgula -->
+<feat xlink:href="#line_26" value="line"/><!--  qui manet in secula -->
+<feat xlink:href="#line_27" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_28" value="line"/><!--  non perdrai virginitat -->
+<feat xlink:href="#line_29" value="line"/><!--  tos temps aurai chastitat -->
+<feat xlink:href="#line_30" value="line"/><!--  si cum es profetizat -->
+<feat xlink:href="#line_31" value="line"/><!--  pois virgo maria -->
+<feat xlink:href="#line_32" value="line"/><!--  summi patri filio -->
+<feat xlink:href="#line_33" value="line"/><!--  datur in presepio -->
+<feat xlink:href="#line_34" value="line"/><!--  sed volentes mansio -->
+<feat xlink:href="#line_35" value="line"/><!--  e -->
+<feat xlink:href="#line_36" value="line"/><!--  eu soi l angels gabriels -->
+<feat xlink:href="#line_37" value="line"/><!--  apor vos salut fiels -->
+<feat xlink:href="#line_38" value="line"/><!--  deus de sus de u cel -->
+<feat xlink:href="#line_39" value="line"/><!--  in te -->
+<feat xlink:href="#line_40" value="line"/><!--  animal impositum -->
+<feat xlink:href="#line_41" value="line"/><!--  veneratur agnitum -->
+<feat xlink:href="#line_42" value="line"/><!--  hunc infantem genitum -->
+<feat xlink:href="#line_43" value="line"/><!--  e -->
+<feat xlink:href="#line_44" value="line"/><!--  cum la reina l enten -->
+<feat xlink:href="#line_45" value="line"/><!--  si l respon tam piamen -->
+<feat xlink:href="#line_46" value="line"/><!--  aco sia a u so talent -->
+<feat xlink:href="#line_47" value="line"/><!--  e -->
+<feat xlink:href="#line_48" value="line"/><!--  o beata femina -->
+<feat xlink:href="#line_49" value="line"/><!--  cujus ventris sarcina -->
+<feat xlink:href="#line_50" value="line"/><!--  mundi luit crimina -->
+<feat xlink:href="#line_51" value="line"/><!--  e -->
+<feat xlink:href="#line_52" value="line"/><!--  cum la reina l auvit -->
+<feat xlink:href="#line_53" value="line"/><!--  si l amet e si u jauvit -->
+<feat xlink:href="#line_54" value="line"/><!--  aco sia a u so chausit -->
+<feat xlink:href="#line_55" value="line"/><!--  in te -->
+<feat xlink:href="#line_56" value="line"/><!--  illi laus et gloria -->
+<feat xlink:href="#line_57" value="line"/><!--  honor virtus gratia -->
+<feat xlink:href="#line_58" value="line"/><!--  decus et victoria -->
+<feat xlink:href="#line_59" value="line"/><!--  e -->
+<feat xlink:href="#line_60" value="line"/><!--  tu es mesatjes a l rei -->
+<feat xlink:href="#line_61" value="line"/><!--  si cum tu o dit o crei -->
+<feat xlink:href="#line_62" value="line"/><!--  a lui me do e m autrei -->
+<feat xlink:href="#line_63" value="line"/><!--  ego virgo -->
+<feat xlink:href="#line_64" value="line"/><!--  ancela soi damrideu -->
+<feat xlink:href="#line_65" value="line"/><!--  si cum tu o dit o cre eu -->
+<feat xlink:href="#line_66" value="line"/><!--  maire serai damrideu -->
+<feat xlink:href="#line_67" value="line"/><!--  e pois -->
+<feat xlink:href="#line_68" value="line"/><!--  l angels es de u cel vengut -->
+<feat xlink:href="#line_69" value="line"/><!--  e la dompna l a creut -->
+<feat xlink:href="#line_70" value="line"/><!--  per tal n esmes erumbut -->
+<feat xlink:href="#line_71" value="line"/><!--  de virgine -->
+<feat xlink:href="#line_72" value="line"/><!--  eu vos ai dit mon talan -->
+<feat xlink:href="#line_73" value="line"/><!--  e vos diiat en avan -->
+<feat xlink:href="#line_74" value="line"/><!--  chaques vers nous ab nos jan -->
+<feat xlink:href="#line_75" value="line"/><!--  de virgine -->
+</featList>
+</paula>

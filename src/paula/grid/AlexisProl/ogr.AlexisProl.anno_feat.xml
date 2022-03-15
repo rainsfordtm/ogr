@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_multiFeat.dtd">
-<paula version="1.0">
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
 <multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.AlexisProl.anno.xml">
 <multiFeat xlink:href="#anno_0">
 <feat name="text" value="AlexisProl"/>
-</multiFeat>
+<feat name="lang" value="fro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="12"/><feat name="ms_origin" value="England"/><feat name="text_cent" value="12"/><feat name="text_origin" value="England"/><feat name="title_en" value="Prologue to the Life of Saint Alexis"/><feat name="title_fr" value="Prologue à la vie de saint Alexis"/><feat name="author" value="anonymous"/><feat name="ms" value="Hildesheim, Sankt Godehardi"/><feat name="form" value="prose"/><feat name="source" value="ms. image"/></multiFeat>
 </multiFeatList>
 </paula>

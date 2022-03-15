@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.SFoi_tei_pb_n"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb_n" xml:base="tei.SFoi.tei_pb.xml">
+<feat xlink:href="#tei_pb_0" value="14v"/><!--    -->
+<feat xlink:href="#tei_pb_1" value="15r"/><!--    -->
+<feat xlink:href="#tei_pb_2" value="15v"/><!--    -->
+<feat xlink:href="#tei_pb_3" value="16r"/><!--    -->
+<feat xlink:href="#tei_pb_4" value="16v"/><!--    -->
+<feat xlink:href="#tei_pb_5" value="17r"/><!--    -->
+<feat xlink:href="#tei_pb_6" value="17v"/><!--    -->
+<feat xlink:href="#tei_pb_7" value="18r"/><!--    -->
+<feat xlink:href="#tei_pb_8" value="18v"/><!--    -->
+<feat xlink:href="#tei_pb_9" value="19r"/><!--    -->
+<feat xlink:href="#tei_pb_10" value="19v"/><!--    -->
+<feat xlink:href="#tei_pb_11" value="20r"/><!--    -->
+<feat xlink:href="#tei_pb_12" value="20v"/><!--    -->
+<feat xlink:href="#tei_pb_13" value="21r"/><!--    -->
+<feat xlink:href="#tei_pb_14" value="21v"/><!--    -->
+<feat xlink:href="#tei_pb_15" value="22r"/><!--    -->
+<feat xlink:href="#tei_pb_16" value="22v"/><!--    -->
+<feat xlink:href="#tei_pb_17" value="23r"/><!--    -->
+</featList>
+</paula>

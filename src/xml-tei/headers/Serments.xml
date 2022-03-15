@@ -39,8 +39,8 @@
             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
-                  <bibl>Strasbourg Oaths (Serments). In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.3. Stuttgart,
-                     Institut für Linguistik/Romanistik, 2021.
+                  <bibl>Strasbourg Oaths (Serments). In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.4. Stuttgart,
+                     Institut für Linguistik/Romanistik, 2022.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
                </ab>
@@ -132,6 +132,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-07" resp="#TMR">OGR corpus version 0.3 created</change>
          <change when="2021-11-21" resp="#TMR">Creation of this header</change>

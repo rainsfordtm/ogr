@@ -138,6 +138,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
          <change when="2022-01-24" resp="#TMR">Text added to corpus, creation of this header</change>
       </revisionDesc>
    </teiHeader>

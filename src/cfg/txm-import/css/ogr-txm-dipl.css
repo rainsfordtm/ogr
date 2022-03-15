@@ -6,7 +6,7 @@
    @author sheiden
    @author tmr
 
-   OGR CSS 11-2021
+   OGR CSS 03-2022
 
 */
 .txmeditionpage {
@@ -53,6 +53,12 @@
 .w:hover {
     color: DarkGray;
     text-decoration: underline;
+}
+
+.facslink {
+    font-size: 10px;
+    text-align: center;
+    color: #802520;
 }
 
 h1 {
