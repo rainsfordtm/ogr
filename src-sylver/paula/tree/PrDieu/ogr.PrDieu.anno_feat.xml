@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
-<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.PrDieu.anno.xml">
-<multiFeat xlink:href="#anno_0">
-<feat name="text" value="PrDieu"/>
-<feat name="lang" value="pro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="11..12"/><feat name="ms_origin" value="Limousin"/><feat name="text_cent" value="11..12"/><feat name="text_origin" value="Limousin"/><feat name="title_en" value="Prayer to God in verse (Te Autem)"/><feat name="title_fr" value="Prière à Dieu en vers (Te Autem)"/><feat name="author" value="anonymous"/><feat name="ms" value="Paris, Bibliothèque nationale, lat. 1139"/><feat name="form" value="verse"/><feat name="source" value="ms. image"/></multiFeat>
-</multiFeatList>
-</paula>

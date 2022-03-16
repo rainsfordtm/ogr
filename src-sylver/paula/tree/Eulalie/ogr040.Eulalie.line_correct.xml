@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.Eulalie_line_correct"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_correct" xml:base="ogr040.Eulalie.line.xml">
+<feat xlink:href="#line_0" value="False"/><!--  buona pulcella fut eulalia -->
+<feat xlink:href="#line_1" value="False"/><!--  bel auret corps bellezour anima -->
+<feat xlink:href="#line_2" value="False"/><!--  voldrent la veintre li deo inimi -->
+<feat xlink:href="#line_3" value="False"/><!--  voldrent la faire diaule servir -->
+<feat xlink:href="#line_4" value="False"/><!--  elle no nt eskoltet les mals conselliers -->
+<feat xlink:href="#line_5" value="False"/><!--  qu elle deo raneiet chi maent sus en ciel -->
+<feat xlink:href="#line_6" value="False"/><!--  ne por or ned argent ne paramenz -->
+<feat xlink:href="#line_7" value="False"/><!--  por manatce regiel ne preiement -->
+<feat xlink:href="#line_8" value="False"/><!--  niule cose non la pouret omque pleier -->
+<feat xlink:href="#line_9" value="False"/><!--  la polle sempre non amast lo deo menestier -->
+<feat xlink:href="#line_10" value="False"/><!--  e por o fu presentede maximiien -->
+<feat xlink:href="#line_11" value="False"/><!--  chi rex eret a cels dis soure pagiens -->
+<feat xlink:href="#line_12" value="False"/><!--  il li enortet dont lei nonque chielt -->
+<feat xlink:href="#line_13" value="False"/><!--  qued elle fuiet lo nom christiien -->
+<feat xlink:href="#line_14" value="False"/><!--  ell ent adunet lo suon element -->
+<feat xlink:href="#line_15" value="False"/><!--  melz sostendreiet les empedementz -->
+<feat xlink:href="#line_16" value="False"/><!--  qu elle perdesse sa virginitet -->
+<feat xlink:href="#line_17" value="False"/><!--  por o s furet morte a grand honestet -->
+<feat xlink:href="#line_18" value="False"/><!--  enz en l fou lo getterent com arde tost -->
+<feat xlink:href="#line_19" value="False"/><!--  elle colpes non auret por o no s coist -->
+<feat xlink:href="#line_20" value="False"/><!--  a czo no s voldret concreidre li rex pagiens -->
+<feat xlink:href="#line_21" value="False"/><!--  ad une spede li roveret tolir lo chief -->
+<feat xlink:href="#line_22" value="False"/><!--  la domnizelle celle kose non contredist -->
+<feat xlink:href="#line_23" value="False"/><!--  volt lo seule lazsier si ruovet krist -->
+<feat xlink:href="#line_24" value="False"/><!--  in figure de colomb volat a ciel -->
+<feat xlink:href="#line_25" value="False"/><!--  tuit oram que per nos degnet preier -->
+<feat xlink:href="#line_26" value="False"/><!--  qued auwisset de nos christus mercit -->
+<feat xlink:href="#line_27" value="False"/><!--  post la mort et a lui nos laist venir -->
+<feat xlink:href="#line_28" value="False"/><!--  par souwe clementia -->
+</featList>
+</paula>

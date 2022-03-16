@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_struct.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.PrDieu_annoSet"/>
+<structList xmlns:xlink="http://www.w3.org/1999/xlink" type="annoSet">
+<struct id="anno_0">
+</struct><struct id="anno_1">
+<rel id="rel_0" xlink:href="ogr040.PrDieu.text.xml"/>
+</struct><struct id="anno_2">
+<rel id="rel_1" xlink:href="ogr040.PrDieu.tok.xml"/>
+</struct><struct id="anno_3">
+<rel id="rel_2" xlink:href="ogr040.PrDieu.anno_feat.xml"/>
+</struct><struct id="anno_4">
+<rel id="rel_3" xlink:href="ogr040.PrDieu.line"/>
+<rel id="rel_4" xlink:href="ogr040.PrDieu.line_line"/>
+<rel id="rel_5" xlink:href="ogr040.PrDieu.line_ref"/>
+<rel id="rel_6" xlink:href="ogr040.PrDieu.line_met"/>
+<rel id="rel_7" xlink:href="ogr040.PrDieu.line_correct"/>
+</struct><struct id="anno_5">
+<rel id="rel_8" xlink:href="ogr040.PrDieu.wd"/>
+<rel id="rel_9" xlink:href="ogr040.PrDieu.wd_word"/>
+<rel id="rel_10" xlink:href="ogr040.PrDieu.wd_dipl"/>
+<rel id="rel_11" xlink:href="ogr040.PrDieu.wd_wd_div"/>
+<rel id="rel_12" xlink:href="ogr040.PrDieu.wd_pos"/>
+<rel id="rel_13" xlink:href="ogr040.PrDieu.wd_pos_syn"/>
+<rel id="rel_14" xlink:href="ogr040.PrDieu.wd_morph"/>
+<rel id="rel_15" xlink:href="ogr040.PrDieu.wd_lang"/>
+<rel id="rel_16" xlink:href="ogr040.PrDieu.wd_lemma"/>
+<rel id="rel_17" xlink:href="ogr040.PrDieu.wd_lemma_dmf"/>
+</struct><struct id="anno_6">
+<rel id="rel_18" xlink:href="ogr040.PrDieu.seg"/>
+<rel id="rel_19" xlink:href="ogr040.PrDieu.seg_seg"/>
+<rel id="rel_20" xlink:href="ogr040.PrDieu.seg_plus"/>
+<rel id="rel_21" xlink:href="ogr040.PrDieu.seg_minus"/>
+<rel id="rel_22" xlink:href="ogr040.PrDieu.seg_matches"/>
+<rel id="rel_23" xlink:href="ogr040.PrDieu.seg_phoneme"/>
+</struct><struct id="anno_7">
+<rel id="rel_24" xlink:href="ogr040.PrDieu.syll"/>
+<rel id="rel_25" xlink:href="ogr040.PrDieu.syll_syll"/>
+<rel id="rel_26" xlink:href="ogr040.PrDieu.syll_lstress"/>
+<rel id="rel_27" xlink:href="ogr040.PrDieu.syll_metpos"/>
+</struct><struct id="anno_8">
+<rel id="rel_28" xlink:href="ogr040.PrDieu.onc"/>
+<rel id="rel_29" xlink:href="ogr040.PrDieu.onc_onc"/>
+</struct><struct id="anno_9">
+<rel id="rel_30" xlink:href="meter.PrDieu.meter"/>
+<rel id="rel_31" xlink:href="meter.PrDieu.meter_func"/>
+<rel id="rel_32" xlink:href="meter.PrDieu.line_cat"/>
+<rel id="rel_33" xlink:href="meter.PrDieu.halfline_cat"/>
+<rel id="rel_34" xlink:href="meter.PrDieu.syll_cat"/>
+<rel id="rel_35" xlink:href="meter.PrDieu.or_cat"/>
+<rel id="rel_36" xlink:href="meter.PrDieu.onc_cat"/>
+</struct><struct id="anno_10">
+<rel id="rel_37" xlink:href="tei.PrDieu.tei_pb"/>
+<rel id="rel_38" xlink:href="tei.PrDieu.tei_pb_tei_pb"/>
+<rel id="rel_39" xlink:href="tei.PrDieu.tei_pb_n"/>
+<rel id="rel_40" xlink:href="tei.PrDieu.tei_pb"/>
+<rel id="rel_41" xlink:href="tei.PrDieu.tei_pb_n"/>
+</struct><struct id="anno_11">
+<rel id="rel_42" xlink:href="tei.PrDieu.tei_lg"/>
+<rel id="rel_43" xlink:href="tei.PrDieu.tei_lg_tei_lg"/>
+<rel id="rel_44" xlink:href="tei.PrDieu.tei_lg_n"/>
+<rel id="rel_45" xlink:href="tei.PrDieu.tei_lg_rhyme"/>
+<rel id="rel_46" xlink:href="tei.PrDieu.tei_lg_type"/>
+<rel id="rel_47" xlink:href="tei.PrDieu.tei_lg"/>
+<rel id="rel_48" xlink:href="tei.PrDieu.tei_lg_n"/>
+<rel id="rel_49" xlink:href="tei.PrDieu.tei_lg_rhyme"/>
+<rel id="rel_50" xlink:href="tei.PrDieu.tei_lg_type"/>
+</struct><struct id="anno_12">
+<rel id="rel_51" xlink:href="tei.PrDieu.tei_l"/>
+<rel id="rel_52" xlink:href="tei.PrDieu.tei_l_tei_l"/>
+<rel id="rel_53" xlink:href="tei.PrDieu.tei_l_n"/>
+<rel id="rel_54" xlink:href="tei.PrDieu.tei_l"/>
+<rel id="rel_55" xlink:href="tei.PrDieu.tei_l_n"/>
+</struct><struct id="anno_13">
+<rel id="rel_56" xlink:href="tei.PrDieu.tei_lb"/>
+<rel id="rel_57" xlink:href="tei.PrDieu.tei_lb_tei_lb"/>
+</struct></structList>
+</paula>

@@ -1,4 +1,4 @@
-ogr	NULL	NULL	node	grid	ogr	visible	100	annos:/ogr::line_ref/,/ogr::word/,/ogr::dipl/,/ogr::wd_div/,/ogr::pos_syn/,/ogr::morph/,/ogr::lemma/,/ogr::lemma_dmf/,/ogr::syll_lstress/,/ogr::onc/,/ogr::seg_phoneme/,/ogr::seg_matches/
-ogr	NULL	NULL	node	grid	tei	hidden	101	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_p/,/tei::tei_l_n/,/tei::tei_s/,/tei::tei_s_xml_lang/,/tei::tei_q/,/ogr::word/
-ogr	NULL	NULL	node	html	text (norm)	hidden	102	config:ogr-norm-basic
-ogr	NULL	NULL	node	html	text (dipl)	hidden	103	config:ogr-dipl-basic
+ogr040	NULL	NULL	node	grid	ogr	visible	100	annos:/ogr::line_ref/,/ogr::word/,/ogr::dipl/,/ogr::wd_div/,/ogr::pos_syn/,/ogr::morph/,/ogr::lemma/,/ogr::lemma_dmf/,/ogr::syll_lstress/,/ogr::onc/,/ogr::seg_phoneme/,/ogr::seg_matches/
+ogr040	NULL	NULL	node	grid	tei	hidden	101	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_p/,/tei::tei_l_n/,/tei::tei_s/,/tei::tei_s_xml_lang/,/tei::tei_q/,/ogr::word/
+ogr040	NULL	NULL	node	html	text (norm)	hidden	102	config:ogr-norm-basic
+ogr040	NULL	NULL	node	html	text (dipl)	hidden	103	config:ogr-dipl-basic

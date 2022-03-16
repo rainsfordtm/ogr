@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.PrDieu_wd_morph"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="morph" xml:base="ogr040.PrDieu.wd.xml">
+<feat xlink:href="#wd_0" value="--"/><!-- tu -->
+<feat xlink:href="#wd_1" value="--"/><!-- autem -->
+<feat xlink:href="#wd_2" value="--"/><!-- be -->
+<feat xlink:href="#wd_3" value="indpst3"/><!-- deu -->
+<feat xlink:href="#wd_4" value="--"/><!-- hoi -->
+<feat xlink:href="#wd_5" value="--"/><!-- mais -->
+<feat xlink:href="#wd_6" value="--"/><!-- finir -->
+<feat xlink:href="#wd_7" value="sfn"/><!-- nostra -->
+<feat xlink:href="#wd_8" value="sfn"/><!-- razos -->
+<feat xlink:href="#wd_9" value="snr"/><!-- un -->
+<feat xlink:href="#wd_10" value="snr"/><!-- pauc -->
+<feat xlink:href="#wd_11" value="indpst1"/><!-- soi -->
+<feat xlink:href="#wd_12" value="smn"/><!-- las -->
+<feat xlink:href="#wd_13" value="--"/><!-- que -->
+<feat xlink:href="#wd_14" value="--"/><!-- trop -->
+<feat xlink:href="#wd_15" value="indpsp3"/><!-- fo -->
+<feat xlink:href="#wd_16" value="smn"/><!-- aut -->
+<feat xlink:href="#wd_17" value="smn"/><!-- lo -->
+<feat xlink:href="#wd_18" value="smn"/><!-- sos -->
+<feat xlink:href="#wd_19" value="indpst6"/><!-- leven -->
+<feat xlink:href="#wd_20" value="pmn"/><!-- doi -->
+<feat xlink:href="#wd_21" value="pmn"/><!-- clerc -->
+<feat xlink:href="#wd_22" value="pmn"/><!-- que -->
+<feat xlink:href="#wd_23" value="indpst6"/><!-- diien -->
+<feat xlink:href="#wd_24" value="smr"/><!-- lo -->
+<feat xlink:href="#wd_25" value="smr"/><!-- respos -->
+<feat xlink:href="#wd_26" value="smn"/><!-- tu -->
+<feat xlink:href="#wd_27" value="--"/><!-- autem -->
+<feat xlink:href="#wd_28" value="smn"/><!-- deus -->
+<feat xlink:href="#wd_29" value="smn"/><!-- qui -->
+<feat xlink:href="#wd_30" value="indpst2"/><!-- est -->
+<feat xlink:href="#wd_31" value="smn"/><!-- paire -->
+<feat xlink:href="#wd_32" value="smn"/><!-- glorios -->
+<feat xlink:href="#wd_33" value="4pmn"/><!-- nos -->
+<feat xlink:href="#wd_34" value="2smr"/><!-- te -->
+<feat xlink:href="#wd_35" value="indpst4"/><!-- preiam -->
+<feat xlink:href="#wd_36" value="--"/><!-- que -->
+<feat xlink:href="#wd_37" value="2smr"/><!-- t -->
+<feat xlink:href="#wd_38" value="indpst0"/><!-- remembre -->
+<feat xlink:href="#wd_39" value="--"/><!-- de -->
+<feat xlink:href="#wd_40" value="4pmr"/><!-- nos -->
+<feat xlink:href="#wd_41" value="--"/><!-- quant -->
+<feat xlink:href="#wd_42" value="indfut2"/><!-- triaras -->
+<feat xlink:href="#wd_43" value="pmr"/><!-- los -->
+<feat xlink:href="#wd_44" value="pmr"/><!-- mals -->
+<feat xlink:href="#wd_45" value="--"/><!-- d -->
+<feat xlink:href="#wd_46" value="--"/><!-- antre -->
+<feat xlink:href="#wd_47" value="pmr"/><!-- los -->
+<feat xlink:href="#wd_48" value="pmr"/><!-- bos -->
+</featList>
+</paula>

@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.Eulalie_tei_lg"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr.Eulalie.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr040.Eulalie.tok.xml">
 <mark id="tei_lg_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_46')))"/><!-- buona pulcella fut eulalia bel auret corps bellezour anima  -->
 <mark id="tei_lg_1" xlink:href="#xpointer(id('tok_47')/range-to(id('tok_100')))"/><!-- voldrent la veintre li deo inimi voldrent la faire diaule servir  -->
 <mark id="tei_lg_2" xlink:href="#xpointer(id('tok_101')/range-to(id('tok_162')))"/><!-- elle no nt eskoltet les mals conselliers qu elle deo raneiet chi maent sus en ciel  -->

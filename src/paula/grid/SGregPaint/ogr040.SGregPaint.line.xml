@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.SGregPaint_line"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="line" xml:base="ogr040.SGregPaint.tok.xml">
+<mark id="line_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_77')))"/><!-- estevuslerespunssaintgregorieasecundinlerecluscumildemandoutraisondespaintures -->
+<mark id="line_1" xlink:href="#xpointer(id('tok_78')/range-to(id('tok_168')))"/><!-- altracoseestaurierlapaintureealtracoseestparlehistoriedelapaintureaprendrequelacoseseitadaurier -->
+<mark id="line_2" xlink:href="#xpointer(id('tok_169')/range-to(id('tok_235')))"/><!-- karicoquelascriptureaprestetaslisanz icoaprestetlapaintureasignoranz  -->
+<mark id="line_3" xlink:href="#xpointer(id('tok_236')/range-to(id('tok_279')))"/><!-- karaniceleveientlesignoranz quetildeiventsivre -->
+<mark id="line_4" xlink:href="#xpointer(id('tok_280')/range-to(id('tok_338')))"/><!-- anicelelisenticelskiletresneseventampurlaquelecosemaismement -->
+<mark id="line_5" xlink:href="#xpointer(id('tok_339')/range-to(id('tok_366')))"/><!-- lapeintureestpurleceunasgenz  -->
+<mark id="line_6" xlink:href="#xpointer(id('tok_367')/range-to(id('tok_507')))"/><!-- laquelecosetuquihabitesentralesgenz deusesantendraquetunangendrassesscandaledecruelescuragesdementiersquetuesbraserasnientcuintementpardreitamvidie -->
+<mark id="line_7" xlink:href="#xpointer(id('tok_508')/range-to(id('tok_619')))"/><!-- geresnientnedeutestrafruissieticoquenientneparmaintadaurieraneglisesmaisadanstruiresulementlespensesdesnientsavanz  -->
+<mark id="line_8" xlink:href="#xpointer(id('tok_620')/range-to(id('tok_914')))"/><!-- eampuricoquelancienetienientsenzraisuncumandatleshystorieestradepainteshonurablesliusdessainz setufeissesamvidiepardiscrecionsenzdutancepoeiessalvablementpurtenirlescosesquetuattendeiesenientdeperdralacuileitafolcmaismaismentasemblierquelenientfraintrənumdepasturex cellistenientanioustlaculpadeldeperdethur -->
+</markList>
+</paula>

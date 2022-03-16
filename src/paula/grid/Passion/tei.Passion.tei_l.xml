@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.Passion_tei_l"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr.Passion.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr040.Passion.tok.xml">
 <mark id="tei_l_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_18')))"/><!-- hora vos dic vera raizun  -->
 <mark id="tei_l_1" xlink:href="#xpointer(id('tok_19')/range-to(id('tok_36')))"/><!-- de jesu christi passiun  -->
 <mark id="tei_l_2" xlink:href="#xpointer(id('tok_37')/range-to(id('tok_59')))"/><!-- los sos affanz vol remembrar  -->

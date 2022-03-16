@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.PrVierge2_tei_q"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr.PrVierge2.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr040.PrVierge2.tok.xml">
 <mark id="tei_q_0" xlink:href="#xpointer(id('tok_422')/range-to(id('tok_441')))"/><!-- non perdrai virginitat  -->
 <mark id="tei_q_1" xlink:href="#xpointer(id('tok_442')/range-to(id('tok_462')))"/><!-- tos temps aurai chastitat  -->
 <mark id="tei_q_2" xlink:href="#xpointer(id('tok_463')/range-to(id('tok_479')))"/><!-- si cum es profetizat  -->

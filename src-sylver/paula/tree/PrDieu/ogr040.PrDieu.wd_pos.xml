@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.PrDieu_wd_pos"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="pos" xml:base="ogr040.PrDieu.wd.xml">
+<feat xlink:href="#wd_0" value="ETR"/><!-- tu -->
+<feat xlink:href="#wd_1" value="ETR"/><!-- autem -->
+<feat xlink:href="#wd_2" value="ADVgen"/><!-- be -->
+<feat xlink:href="#wd_3" value="VERcjg"/><!-- deu -->
+<feat xlink:href="#wd_4" value="ADVgen"/><!-- hoi -->
+<feat xlink:href="#wd_5" value="ADVgen"/><!-- mais -->
+<feat xlink:href="#wd_6" value="VERinf"/><!-- finir -->
+<feat xlink:href="#wd_7" value="DETpos"/><!-- nostra -->
+<feat xlink:href="#wd_8" value="NOMcom"/><!-- razos -->
+<feat xlink:href="#wd_9" value="DETndf"/><!-- un -->
+<feat xlink:href="#wd_10" value="PRNind"/><!-- pauc -->
+<feat xlink:href="#wd_11" value="VERcjg"/><!-- soi -->
+<feat xlink:href="#wd_12" value="ADJqua"/><!-- las -->
+<feat xlink:href="#wd_13" value="CONsub"/><!-- que -->
+<feat xlink:href="#wd_14" value="ADVgen"/><!-- trop -->
+<feat xlink:href="#wd_15" value="VERcjg"/><!-- fo -->
+<feat xlink:href="#wd_16" value="ADJqua"/><!-- aut -->
+<feat xlink:href="#wd_17" value="DETdef"/><!-- lo -->
+<feat xlink:href="#wd_18" value="NOMcom"/><!-- sos -->
+<feat xlink:href="#wd_19" value="VERcjg"/><!-- leven -->
+<feat xlink:href="#wd_20" value="DETcar"/><!-- doi -->
+<feat xlink:href="#wd_21" value="NOMcom"/><!-- clerc -->
+<feat xlink:href="#wd_22" value="PRNrel"/><!-- que -->
+<feat xlink:href="#wd_23" value="VERcjg"/><!-- diien -->
+<feat xlink:href="#wd_24" value="DETdef"/><!-- lo -->
+<feat xlink:href="#wd_25" value="NOMcom"/><!-- respos -->
+<feat xlink:href="#wd_26" value="PRNper"/><!-- tu -->
+<feat xlink:href="#wd_27" value="ADJqua"/><!-- autem -->
+<feat xlink:href="#wd_28" value="NOMpro"/><!-- deus -->
+<feat xlink:href="#wd_29" value="PROrel"/><!-- qui -->
+<feat xlink:href="#wd_30" value="VERcjg"/><!-- est -->
+<feat xlink:href="#wd_31" value="NOMcom"/><!-- paire -->
+<feat xlink:href="#wd_32" value="ADJqua"/><!-- glorios -->
+<feat xlink:href="#wd_33" value="PRNper"/><!-- nos -->
+<feat xlink:href="#wd_34" value="PRCper"/><!-- te -->
+<feat xlink:href="#wd_35" value="VERcjg"/><!-- preiam -->
+<feat xlink:href="#wd_36" value="CONsub"/><!-- que -->
+<feat xlink:href="#wd_37" value="PRCper"/><!-- t -->
+<feat xlink:href="#wd_38" value="VERcjg"/><!-- remembre -->
+<feat xlink:href="#wd_39" value="PRE"/><!-- de -->
+<feat xlink:href="#wd_40" value="PRNper"/><!-- nos -->
+<feat xlink:href="#wd_41" value="CONsub"/><!-- quant -->
+<feat xlink:href="#wd_42" value="VERcjg"/><!-- triaras -->
+<feat xlink:href="#wd_43" value="DETdef"/><!-- los -->
+<feat xlink:href="#wd_44" value="ADJqua"/><!-- mals -->
+<feat xlink:href="#wd_45" value="PRE"/><!-- d -->
+<feat xlink:href="#wd_46" value="PRE"/><!-- antre -->
+<feat xlink:href="#wd_47" value="DETdef"/><!-- los -->
+<feat xlink:href="#wd_48" value="ADJqua"/><!-- bos -->
+</featList>
+</paula>

@@ -3,7 +3,6 @@
 <paula version="1.0">
 <header paula_id="meter.Spons_line_cat"/>
 <featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.Spons.meter.xml">
-<feat xlink:href="#line_0" value="line"/><!--  sponsus -->
 <feat xlink:href="#line_1" value="line"/><!--  adest sponsus qui est christus vigilate virgines -->
 <feat xlink:href="#line_2" value="line"/><!--  pro adventu cuius gaudent et gaudebunt homines -->
 <feat xlink:href="#line_3" value="line"/><!--  venit enim liberare gentium origines -->
@@ -14,7 +13,6 @@
 <feat xlink:href="#line_8" value="line"/><!--  ac de parte inimici liberos nos traheret -->
 <feat xlink:href="#line_9" value="line"/><!--  venit sponsus qui nostrorum scelerum piacula -->
 <feat xlink:href="#line_10" value="line"/><!--  morte lavit atque crucis sustulit patibula -->
-<feat xlink:href="#line_11" value="line"/><!--  prudentes -->
 <feat xlink:href="#line_12" value="line"/><!--  oiet virgines aiso que vos dirum -->
 <feat xlink:href="#line_13" value="line"/><!--  aisex presen que vos comandarum -->
 <feat xlink:href="#line_14" value="line"/><!--  atendet un espos jhesu salvaire a nom -->
@@ -32,7 +30,6 @@
 <feat xlink:href="#line_26" value="line"/><!--  gabriels soi eu trames aici -->
 <feat xlink:href="#line_27" value="line"/><!--  atendet lo que ja venra praici -->
 <feat xlink:href="#line_28" value="line"/><!--  gaire -->
-<feat xlink:href="#line_29" value="line"/><!--  fatue -->
 <feat xlink:href="#line_30" value="line"/><!--  nos virgines que ad vos venimus -->
 <feat xlink:href="#line_31" value="line"/><!--  negligenter oleum fudimus -->
 <feat xlink:href="#line_32" value="line"/><!--  ad vos orare sorores cupimus -->
@@ -48,7 +45,6 @@
 <feat xlink:href="#line_42" value="line"/><!--  pulse ne nos simus a foribus -->
 <feat xlink:href="#line_43" value="line"/><!--  cum vos sponsus vocet in sedibus -->
 <feat xlink:href="#line_44" value="line"/><!--  dolentas -->
-<feat xlink:href="#line_45" value="line"/><!--  prudentes -->
 <feat xlink:href="#line_46" value="line"/><!--  nos precari precamur amplius -->
 <feat xlink:href="#line_47" value="line"/><!--  desinite sorores otius -->
 <feat xlink:href="#line_48" value="line"/><!--  vobis enim nil erit melius -->
@@ -73,7 +69,6 @@
 <feat xlink:href="#line_67" value="line"/><!--  no n auret pont alet en achapter -->
 <feat xlink:href="#line_68" value="line"/><!--  de us merchaans que lai veet ester -->
 <feat xlink:href="#line_69" value="line"/><!--  dolentas -->
-<feat xlink:href="#line_70" value="line"/><!--  mercatores -->
 <feat xlink:href="#line_71" value="line"/><!--  domnas gentils no vos covent ester -->
 <feat xlink:href="#line_72" value="line"/><!--  ni lojamen aici a demorer -->
 <feat xlink:href="#line_73" value="line"/><!--  cosel queret no u vos poem doner -->
@@ -87,16 +82,13 @@
 <feat xlink:href="#line_81" value="line"/><!--  fatatum est et nos videbimus -->
 <feat xlink:href="#line_82" value="line"/><!--  ad nuptias numquam intrabimus -->
 <feat xlink:href="#line_83" value="line"/><!--  dolentas -->
-<feat xlink:href="#line_84" value="line"/><!--  modo veniat sponsus -->
 <feat xlink:href="#line_85" value="line"/><!--  audi sponse voces plangentium -->
 <feat xlink:href="#line_86" value="line"/><!--  aperire fac nobis ostium -->
 <feat xlink:href="#line_87" value="line"/><!--  cum sotiis prebe remedium -->
-<feat xlink:href="#line_88" value="line"/><!--  modo veniat sponsus christus -->
 <feat xlink:href="#line_89" value="line"/><!--  amen dico vos ignosco nam caretis lumine -->
 <feat xlink:href="#line_90" value="line"/><!--  quod qui perdunt procul pergunt huius aule limine -->
 <feat xlink:href="#line_91" value="line"/><!--  alet chaitivas alet malaureas -->
 <feat xlink:href="#line_92" value="line"/><!--  a tot jors mais vos so penas liureas -->
 <feat xlink:href="#line_93" value="line"/><!--  en efern ora seret meneias -->
-<feat xlink:href="#line_94" value="line"/><!--  modo accipiant eas demones et precipitentur in infernum -->
 </featList>
 </paula>

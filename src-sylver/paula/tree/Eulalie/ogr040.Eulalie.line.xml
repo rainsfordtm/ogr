@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.Eulalie_line"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="line" xml:base="ogr040.Eulalie.tok.xml">
+<mark id="line_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_20')))"/><!-- buonapulcellafuteulalia -->
+<mark id="line_1" xlink:href="#xpointer(id('tok_21')/range-to(id('tok_46')))"/><!-- belauretcorpsbellezouranima -->
+<mark id="line_2" xlink:href="#xpointer(id('tok_47')/range-to(id('tok_73')))"/><!-- voldrentlaveintrelideoinimi -->
+<mark id="line_3" xlink:href="#xpointer(id('tok_74')/range-to(id('tok_100')))"/><!-- voldrentlafairediauleservir -->
+<mark id="line_4" xlink:href="#xpointer(id('tok_101')/range-to(id('tok_132')))"/><!-- ellenonteskoltetlesmalsconselliers -->
+<mark id="line_5" xlink:href="#xpointer(id('tok_133')/range-to(id('tok_162')))"/><!-- quelledeoraneietchimaentsusenciel -->
+<mark id="line_6" xlink:href="#xpointer(id('tok_163')/range-to(id('tok_189')))"/><!-- neporornedargentneparamenz  -->
+<mark id="line_7" xlink:href="#xpointer(id('tok_190')/range-to(id('tok_215')))"/><!-- pormanatceregielnepreiement -->
+<mark id="line_8" xlink:href="#xpointer(id('tok_216')/range-to(id('tok_245')))"/><!-- niulecosenonlapouretomquepleier -->
+<mark id="line_9" xlink:href="#xpointer(id('tok_246')/range-to(id('tok_279')))"/><!-- lapollesemprenonamastlodeomenestier -->
+<mark id="line_10" xlink:href="#xpointer(id('tok_280')/range-to(id('tok_306')))"/><!-- eporofupresentedemax imiien -->
+<mark id="line_11" xlink:href="#xpointer(id('tok_307')/range-to(id('tok_336')))"/><!-- chirex eretacelsdissourepagiens -->
+<mark id="line_12" xlink:href="#xpointer(id('tok_337')/range-to(id('tok_364')))"/><!-- illienortetdontleinonquechielt -->
+<mark id="line_13" xlink:href="#xpointer(id('tok_365')/range-to(id('tok_389')))"/><!-- quedellefuietlonomchristiien -->
+<mark id="line_14" xlink:href="#xpointer(id('tok_390')/range-to(id('tok_413')))"/><!-- ellentadunetlosuonelement -->
+<mark id="line_15" xlink:href="#xpointer(id('tok_414')/range-to(id('tok_443')))"/><!-- melzsostendreietlesempedementz -->
+<mark id="line_16" xlink:href="#xpointer(id('tok_444')/range-to(id('tok_466')))"/><!-- quelleperdessesavirginitet -->
+<mark id="line_17" xlink:href="#xpointer(id('tok_467')/range-to(id('tok_494')))"/><!-- porosfuretmorteagrandhonestet -->
+<mark id="line_18" xlink:href="#xpointer(id('tok_495')/range-to(id('tok_525')))"/><!-- enz enlfoulogetterentcomardetost -->
+<mark id="line_19" xlink:href="#xpointer(id('tok_526')/range-to(id('tok_554')))"/><!-- ellecolpesnonauretporonoscoist -->
+<mark id="line_20" xlink:href="#xpointer(id('tok_555')/range-to(id('tok_590')))"/><!-- aczonosvoldretconcreidrelirex pagiens -->
+<mark id="line_21" xlink:href="#xpointer(id('tok_591')/range-to(id('tok_621')))"/><!-- adune spedeliroverettolirlochief -->
+<mark id="line_22" xlink:href="#xpointer(id('tok_622')/range-to(id('tok_653')))"/><!-- ladomnizellecellekosenoncontredist -->
+<mark id="line_23" xlink:href="#xpointer(id('tok_654')/range-to(id('tok_684')))"/><!-- voltloseulelazsiersiruovetkrist -->
+<mark id="line_24" xlink:href="#xpointer(id('tok_685')/range-to(id('tok_710')))"/><!-- infiguredecolombvolataciel -->
+<mark id="line_25" xlink:href="#xpointer(id('tok_711')/range-to(id('tok_737')))"/><!-- tuitoramquepernosdegnetpreier -->
+<mark id="line_26" xlink:href="#xpointer(id('tok_738')/range-to(id('tok_765')))"/><!-- quedauwissetdenoschristusmercit -->
+<mark id="line_27" xlink:href="#xpointer(id('tok_766')/range-to(id('tok_794')))"/><!-- postlamortetaluinoslaistvenir -->
+<mark id="line_28" xlink:href="#xpointer(id('tok_795')/range-to(id('tok_811')))"/><!-- parsouweclementia -->
+</markList>
+</paula>

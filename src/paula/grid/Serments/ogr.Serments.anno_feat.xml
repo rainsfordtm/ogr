@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
-<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.Serments.anno.xml">
-<multiFeat xlink:href="#anno_0">
-<feat name="text" value="Serments"/>
-<feat name="lang" value="fro"/><feat name="lang_other" value="lat|goh"/><feat name="ms_cent" value="10..11"/><feat name="ms_origin" value="Île-de-France"/><feat name="text_cent" value="9"/><feat name="text_origin" value="Poitou [?]"/><feat name="title_en" value="Strasbourg Oaths"/><feat name="title_fr" value="Serments de Strasbourg"/><feat name="ms" value="Paris, Bibliothèque nationale, lat. 9768"/><feat name="form" value="prose"/><feat name="source" value="ms. image"/></multiFeat>
-</multiFeatList>
-</paula>

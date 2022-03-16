@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.Boeci_tei_lb"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.Boeci.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr040.Boeci.tok.xml">
 <mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_39')))"/><!-- nos jove omne quandius que nos estam de gran follia  -->
 <mark id="tei_lb_1" xlink:href="#xpointer(id('tok_40')/range-to(id('tok_82')))"/><!-- per folledat parllam quar no nos membra per cui viuri  -->
 <mark id="tei_lb_2" xlink:href="#xpointer(id('tok_83')/range-to(id('tok_124')))"/><!-- esperam qui nos soste tan quan per terra annam e qui nos  -->

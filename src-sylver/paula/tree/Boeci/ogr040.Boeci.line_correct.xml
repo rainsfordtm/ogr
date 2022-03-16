@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.Boeci_line_correct"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_correct" xml:base="ogr040.Boeci.line.xml">
+<feat xlink:href="#line_0" value="True"/><!--  nos jove omne quandius que nos estam -->
+<feat xlink:href="#line_1" value="True"/><!--  de gran follia per folledat parllam -->
+<feat xlink:href="#line_2" value="True"/><!--  quar no nos membra per cui viuri esperam -->
+<feat xlink:href="#line_3" value="True"/><!--  qui nos soste tan quan per terra annam -->
+<feat xlink:href="#line_4" value="True"/><!--  e qui nos pais que no murem de fam -->
+<feat xlink:href="#line_5" value="True"/><!--  per cui salv esmes per pur tan que ll clamam -->
+<feat xlink:href="#line_6" value="True"/><!--  nos jove omne menam ta mal jovent -->
+<feat xlink:href="#line_7" value="False"/><!--  que us non o preza si s trada son parent -->
+<feat xlink:href="#line_8" value="True"/><!--  senor ni par si ll mena malament -->
+<feat xlink:href="#line_9" value="True"/><!--  ni l us vel l aitre si s fai fals sacrament -->
+<feat xlink:href="#line_10" value="True"/><!--  quant o a fait mija no s en repent -->
+<feat xlink:href="#line_11" value="True"/><!--  e ni vers deu no n fai emendament -->
+<feat xlink:href="#line_12" value="True"/><!--  pro non es gaigre si penedenza n pren -->
+<feat xlink:href="#line_13" value="True"/><!--  dis que l a bresa mija nonqua la te -->
+<feat xlink:href="#line_14" value="False"/><!--  que eps lor forfazc sempre fai epsament -->
+<feat xlink:href="#line_15" value="False"/><!--  laisa n deu lo grant omnipotent -->
+<feat xlink:href="#line_16" value="True"/><!--  ki l mort et vius tot a in jutjamen -->
+<feat xlink:href="#line_17" value="True"/><!--  eps li satan son en so mandamen -->
+<feat xlink:href="#line_18" value="True"/><!--  ses deu licencia ja non faran torment -->
+<feat xlink:href="#line_19" value="True"/><!--  en anzs en dies foren ome fello -->
+<feat xlink:href="#line_20" value="True"/><!--  mal ome foren aora sunt pejor -->
+<feat xlink:href="#line_21" value="True"/><!--  volg i boecis metre quastiazo -->
+<feat xlink:href="#line_22" value="True"/><!--  auvent la gent fazia en so sermo -->
+<feat xlink:href="#line_23" value="True"/><!--  creessen deu qui sostenc passio -->
+<feat xlink:href="#line_24" value="True"/><!--  per lui aurien trastut redemcio -->
+<feat xlink:href="#line_25" value="False"/><!--  mas molt s en penet quar non i mes foiso -->
+<feat xlink:href="#line_26" value="True"/><!--  anz per eveja lo mesdren e preiso -->
+<feat xlink:href="#line_27" value="False"/><!--  donz fo boecis corps ag bo e pro -->
+<feat xlink:href="#line_28" value="True"/><!--  cui tan amet torquator mallios -->
+<feat xlink:href="#line_29" value="True"/><!--  de sapiencia no fo trop nuallos -->
+<feat xlink:href="#line_30" value="True"/><!--  tant en retenc que de tot no n fo blos -->
+<feat xlink:href="#line_31" value="True"/><!--  tan bo essemple en laiset entre nos -->
+<feat xlink:href="#line_32" value="True"/><!--  no cuid qu e roma om de so saber fos -->
+<feat xlink:href="#line_33" value="True"/><!--  coms fo de roma e ac ta gran valor -->
+<feat xlink:href="#line_34" value="True"/><!--  aprob mallio lo rei emperador -->
+<feat xlink:href="#line_35" value="True"/><!--  el era l meler de tota la onor -->
+<feat xlink:href="#line_36" value="True"/><!--  de tot l emperi l tenien per senor -->
+<feat xlink:href="#line_37" value="True"/><!--  mas d una causa u nom avia genzor -->
+<feat xlink:href="#line_38" value="True"/><!--  de sapiencia l apellaven doctor -->
+<feat xlink:href="#line_39" value="True"/><!--  quan veng la fis mallio torquator -->
+<feat xlink:href="#line_40" value="True"/><!--  donc venc boeci ta gran dolors a l cor -->
+<feat xlink:href="#line_41" value="True"/><!--  no cuid aprob altre dols li demor -->
+<feat xlink:href="#line_42" value="True"/><!--  morz fo mallios torquator dunt eu dig -->
+<feat xlink:href="#line_43" value="True"/><!--  ec vos e roma l emperador teiric -->
+<feat xlink:href="#line_44" value="True"/><!--  de l fiel deu no volg aver amig -->
+<feat xlink:href="#line_45" value="True"/><!--  no credet deu lo nostre creator -->
+<feat xlink:href="#line_46" value="True"/><!--  per zo no l volg boecis a senor -->
+<feat xlink:href="#line_47" value="True"/><!--  ni gens de lui no volg tener s onor -->
+<feat xlink:href="#line_48" value="True"/><!--  eu lo chastia ta be ab so sermo -->
+<feat xlink:href="#line_49" value="True"/><!--  e teirix col tot e mal sa razo -->
+<feat xlink:href="#line_50" value="True"/><!--  per grant evea de lui volg far fello -->
+<feat xlink:href="#line_51" value="True"/><!--  fez u breu faire per gran decepcio -->
+<feat xlink:href="#line_52" value="True"/><!--  e de boeci escrivre fez lo nom -->
+<feat xlink:href="#line_53" value="True"/><!--  e si l tramet e grecia la regio -->
+<feat xlink:href="#line_54" value="True"/><!--  de part boeci lor manda tal raizo -->
+<feat xlink:href="#line_55" value="True"/><!--  que passen mar guarnit de contenco -->
+<feat xlink:href="#line_56" value="True"/><!--  eu lor redra roma per traazo -->
+<feat xlink:href="#line_57" value="True"/><!--  lo senz teiric miga no fo de bo -->
+<feat xlink:href="#line_58" value="True"/><!--  fez sos mes segre si lz fez metre e preso -->
+<feat xlink:href="#line_59" value="True"/><!--  e l capitoli l endema a l dia clar -->
+<feat xlink:href="#line_60" value="True"/><!--  lai o solien las altras leis jutjar -->
+<feat xlink:href="#line_61" value="True"/><!--  lai veng lo reis sa felnia menar -->
+<feat xlink:href="#line_62" value="True"/><!--  lai fo boecis e foren i soi par -->
+<feat xlink:href="#line_63" value="True"/><!--  lo reis lo pres de felni a reptar -->
+<feat xlink:href="#line_64" value="True"/><!--  qu el trametia los breus ultra la mar -->
+<feat xlink:href="#line_65" value="True"/><!--  a obs los grex roma volia tradar -->
+<feat xlink:href="#line_66" value="True"/><!--  pero boeci anc no venc e pesat -->
+<feat xlink:href="#line_67" value="False"/><!--  sal el en estant e cuidet s en salvar -->
+<feat xlink:href="#line_68" value="True"/><!--  l om no l laiset a salvament annar -->
+<feat xlink:href="#line_69" value="False"/><!--  cil li faliren que l solient ajudar -->
+<feat xlink:href="#line_70" value="True"/><!--  fez lo lo reis e sa charcer gitar -->
+<feat xlink:href="#line_71" value="True"/><!--  ec vos boeci cadegut en afan -->
+<feat xlink:href="#line_72" value="True"/><!--  e granz kadenas qui l estan apesant -->
+<feat xlink:href="#line_73" value="True"/><!--  reclama deu de cel lo rei lo grant -->
+<feat xlink:href="#line_74" value="True"/><!--  domne pater e te m fiav eu tant -->
+<feat xlink:href="#line_75" value="True"/><!--  e cui marce tuit peccador estant -->
+<feat xlink:href="#line_76" value="True"/><!--  las mias musas qui ant perdut lor cant -->
+<feat xlink:href="#line_77" value="True"/><!--  de sapiencia anava eu ditan -->
+<feat xlink:href="#line_78" value="True"/><!--  plor tota dia faz cosdumna d efant -->
+<feat xlink:href="#line_79" value="True"/><!--  tuit a plorar repairen mei talant -->
+<feat xlink:href="#line_80" value="True"/><!--  domne pater tu qui m sols goernar -->
+<feat xlink:href="#line_81" value="False"/><!--  e te m soli eu a toz dias fiar -->
+<feat xlink:href="#line_82" value="True"/><!--  tu m fezist tant e gran riqueza star -->
+<feat xlink:href="#line_83" value="True"/><!--  de tota roma l emperi aig a mandar -->
+<feat xlink:href="#line_84" value="True"/><!--  los savis omnes en soli adornar -->
+<feat xlink:href="#line_85" value="True"/><!--  de la justicia que grant aig a mandar -->
+<feat xlink:href="#line_86" value="True"/><!--  no t servij be no la m volguist laisar -->
+<feat xlink:href="#line_87" value="True"/><!--  per aizo m fas e chaitiveza star -->
+<feat xlink:href="#line_88" value="True"/><!--  non ai que prenga ne no posg re donar -->
+<feat xlink:href="#line_89" value="True"/><!--  ni noit ni dia no faz que mal pensar -->
+<feat xlink:href="#line_90" value="True"/><!--  tuit mei talant repairen a plorar -->
+<feat xlink:href="#line_91" value="True"/><!--  hanc no fo om ta gran vertut agues -->
+<feat xlink:href="#line_92" value="False"/><!--  qui sapiencia compenre pogues -->
+<feat xlink:href="#line_93" value="True"/><!--  pero boecis no n fo de tot mespres -->
+<feat xlink:href="#line_94" value="True"/><!--  anc no n vist u qui tant en retegues -->
+<feat xlink:href="#line_95" value="False"/><!--  lainz e las carcers o el jazia pres -->
+<feat xlink:href="#line_96" value="True"/><!--  lainz comtava de l temporal cum es -->
+<feat xlink:href="#line_97" value="False"/><!--  de sol e luna cel e terra mar cum es -->
+<feat xlink:href="#line_98" value="False"/><!--  nos e molz libres o trobam legen -->
+<feat xlink:href="#line_99" value="True"/><!--  dis o boecis e sso gran marriment -->
+<feat xlink:href="#line_100" value="True"/><!--  quant e la carcer avia l cor dolent -->
+<feat xlink:href="#line_101" value="True"/><!--  molt val lo bes que l om fai e jovent -->
+<feat xlink:href="#line_102" value="False"/><!--  com el es velz qui pois lo soste -->
+<feat xlink:href="#line_103" value="True"/><!--  quan ve a l ora que l corps li vai franen -->
+<feat xlink:href="#line_104" value="True"/><!--  per be qu a fait deus a ssa part lo te -->
+<feat xlink:href="#line_105" value="True"/><!--  nos de molz omnes nos o avem veut -->
+<feat xlink:href="#line_106" value="True"/><!--  om per veltat non a lo pel chanut -->
+<feat xlink:href="#line_107" value="True"/><!--  o es eferms o a afan agut -->
+<feat xlink:href="#line_108" value="True"/><!--  cellui vai be qui tra mal e jovent -->
+<feat xlink:href="#line_109" value="True"/><!--  e cum es velz donc estai bonament -->
+<feat xlink:href="#line_110" value="True"/><!--  deus a mes e lui so chastiament -->
+<feat xlink:href="#line_111" value="True"/><!--  mas quant es joves et a onor molt grant -->
+<feat xlink:href="#line_112" value="True"/><!--  et evers deu no torna so talant -->
+<feat xlink:href="#line_113" value="True"/><!--  cum el es velz vai s onors descaptan -->
+<feat xlink:href="#line_114" value="True"/><!--  quant se reguarda no n a ne tan ne quant -->
+<feat xlink:href="#line_115" value="True"/><!--  la pelz li rua hec lo kap te tremblant -->
+<feat xlink:href="#line_116" value="True"/><!--  morir volria e es e gran masant -->
+<feat xlink:href="#line_117" value="True"/><!--  trastota dia vai la mort reclaman -->
+<feat xlink:href="#line_118" value="True"/><!--  ella no l pren ne no l en fai semblant -->
+<feat xlink:href="#line_119" value="True"/><!--  drez es e bes que l om e deu s esper -->
+<feat xlink:href="#line_120" value="True"/><!--  mas non es bes que s fi e son aver -->
+<feat xlink:href="#line_121" value="True"/><!--  ta mala fe nulz om no pot veder -->
+<feat xlink:href="#line_122" value="True"/><!--  l om l a a l ma miga no l a a l ser -->
+<feat xlink:href="#line_123" value="True"/><!--  cum l us lo pert a l altre ve tener -->
+<feat xlink:href="#line_124" value="True"/><!--  e la morz a epsament mala fe -->
+<feat xlink:href="#line_125" value="True"/><!--  l om ve u ome quaitiu e dolent -->
+<feat xlink:href="#line_126" value="True"/><!--  o es malaptes o altre pres lo te -->
+<feat xlink:href="#line_127" value="True"/><!--  non a aver ni amic ni parent -->
+<feat xlink:href="#line_128" value="False"/><!--  e dunc apella mort ta dolzament -->
+<feat xlink:href="#line_129" value="True"/><!--  crida e ucha morz a me quar no ves -->
+<feat xlink:href="#line_130" value="True"/><!--  ella s fen sorda gens a lui non atend -->
+<feat xlink:href="#line_131" value="True"/><!--  quant menz s en guarda no sap mot quan lo s prent -->
+<feat xlink:href="#line_132" value="True"/><!--  si cum la nibles cobre l jorn lo be ma -->
+<feat xlink:href="#line_133" value="True"/><!--  si cobre avers lo cor a l xristia -->
+<feat xlink:href="#line_134" value="True"/><!--  qui tant i pessa que al no fara ja -->
+<feat xlink:href="#line_135" value="True"/><!--  e deu no s fia ni deus e lui e no ma -->
+<feat xlink:href="#line_136" value="True"/><!--  quan se reguarda per o res no l rema -->
+<feat xlink:href="#line_137" value="True"/><!--  molt fort blasmava boecis sos amigs -->
+<feat xlink:href="#line_138" value="False"/><!--  qui lui laudaven dereer e uz dias antix -->
+<feat xlink:href="#line_139" value="False"/><!--  qu el era coms molt onraz e rix -->
+<feat xlink:href="#line_140" value="True"/><!--  et evers deu era tot sos afix -->
+<feat xlink:href="#line_141" value="True"/><!--  molt lo laudaven e amic e parent -->
+<feat xlink:href="#line_142" value="True"/><!--  c ab damrideu se tenia forment -->
+<feat xlink:href="#line_143" value="True"/><!--  pero boecis trastuz los en desment -->
+<feat xlink:href="#line_144" value="True"/><!--  no s es acsi cum anaven dicent -->
+<feat xlink:href="#line_145" value="True"/><!--  cel non es bos que a frebla scala s te -->
+<feat xlink:href="#line_146" value="False"/><!--  qui tota ora sempre vai chaden -->
+<feat xlink:href="#line_147" value="True"/><!--  aquel qui l a non estai fermament -->
+<feat xlink:href="#line_148" value="True"/><!--  e quals es l om qui a ferma schala s te -->
+<feat xlink:href="#line_149" value="True"/><!--  bos xristias qui cre perfeitament -->
+<feat xlink:href="#line_150" value="True"/><!--  deu la paterna lo rei omnipotent -->
+<feat xlink:href="#line_151" value="True"/><!--  et en jhesu que ac tan bo talent -->
+<feat xlink:href="#line_152" value="True"/><!--  chi nos redems de so sang dolzament -->
+<feat xlink:href="#line_153" value="True"/><!--  e sanctum spiritum qui e bos omes desend -->
+<feat xlink:href="#line_154" value="True"/><!--  que que l corps faca eu li vai l arma dozen -->
+<feat xlink:href="#line_155" value="False"/><!--  bos cristians qui a ital eschala s te -->
+<feat xlink:href="#line_156" value="True"/><!--  cel no n quaira ja per negu torment -->
+<feat xlink:href="#line_157" value="True"/><!--  cum jaz boecis e pena charceral -->
+<feat xlink:href="#line_158" value="True"/><!--  plan se sos dols e sos menuz pecaz -->
+<feat xlink:href="#line_159" value="True"/><!--  d una donzella fo lainz visitaz -->
+<feat xlink:href="#line_160" value="True"/><!--  filla s a l rei qui a gran poestat -->
+<feat xlink:href="#line_161" value="True"/><!--  ella s ta bella reluz ent lo palaz -->
+<feat xlink:href="#line_162" value="True"/><!--  lo mas o intra inz es granz claritaz -->
+<feat xlink:href="#line_163" value="True"/><!--  ja no es obs fox i ssia alumnaz -->
+<feat xlink:href="#line_164" value="False"/><!--  veder ent pot l om per quaranta ciptaz -->
+<feat xlink:href="#line_165" value="True"/><!--  qual ora s vol petita s fai asaz -->
+<feat xlink:href="#line_166" value="True"/><!--  cum ella s auca cel a de l cap polsat -->
+<feat xlink:href="#line_167" value="True"/><!--  quant be se dreca lo cel a pertusat -->
+<feat xlink:href="#line_168" value="True"/><!--  e ve lainz tota la majestat -->
+<feat xlink:href="#line_169" value="True"/><!--  bella s la domna e l vis a tant preclar -->
+<feat xlink:href="#line_170" value="True"/><!--  davan so vis nulz om no s pot celar -->
+<feat xlink:href="#line_171" value="True"/><!--  ne eps li omne qui sun ultra la mar -->
+<feat xlink:href="#line_172" value="True"/><!--  no potden tant e lor cors cobeetar -->
+<feat xlink:href="#line_173" value="True"/><!--  qu ella de tot no vea lor pessar -->
+<feat xlink:href="#line_174" value="True"/><!--  qui e leis se fia morz no l es a doptar -->
+<feat xlink:href="#line_175" value="True"/><!--  bella s la domna mas molt es de longs dis -->
+<feat xlink:href="#line_176" value="True"/><!--  no s pot rascundre nulz hom denant so vis -->
+<feat xlink:href="#line_177" value="True"/><!--  hanc no vist omne ta grant onor agues -->
+<feat xlink:href="#line_178" value="True"/><!--  s il forfez tan dont ella s rangures -->
+<feat xlink:href="#line_179" value="True"/><!--  sos corps ni s anma miga per ren guaris -->
+<feat xlink:href="#line_180" value="True"/><!--  quoras que s vol s en a lo corps aucis -->
+<feat xlink:href="#line_181" value="True"/><!--  e pois met l arma en effern e l somsis -->
+<feat xlink:href="#line_182" value="True"/><!--  tal li comanda qui tot dias la bris -->
+<feat xlink:href="#line_183" value="False"/><!--  ella smetessma ten las claus de paradis -->
+<feat xlink:href="#line_184" value="True"/><!--  quoras que s vol lainz col sos amigs -->
+<feat xlink:href="#line_185" value="True"/><!--  bel sun li drap no sai nomnar lo fil -->
+<feat xlink:href="#line_186" value="True"/><!--  mas molt per foren de bon e de sobtil -->
+<feat xlink:href="#line_187" value="True"/><!--  ella se fez anz avia plus de mil -->
+<feat xlink:href="#line_188" value="True"/><!--  tan no son vel miga lor prez a vil -->
+<feat xlink:href="#line_189" value="True"/><!--  ella medesma teiset so vestiment -->
+<feat xlink:href="#line_190" value="True"/><!--  que negus om no pot desfar neienz -->
+<feat xlink:href="#line_191" value="True"/><!--  pur l una fremna qui vers la terra pent -->
+<feat xlink:href="#line_192" value="False"/><!--  no comprari om ab mil livras d argent -->
+<feat xlink:href="#line_193" value="True"/><!--  ella ab boeci parlet ta dolzament -->
+<feat xlink:href="#line_194" value="True"/><!--  molt me derramen donzellet de jovent -->
+<feat xlink:href="#line_195" value="True"/><!--  que zo esperen que faza a lor talen -->
+<feat xlink:href="#line_196" value="True"/><!--  primas me amen pois me van aissent -->
+<feat xlink:href="#line_197" value="True"/><!--  la mia mort ta mal van deperden -->
+<feat xlink:href="#line_198" value="True"/><!--  bel sun li drap que la domna vestit -->
+<feat xlink:href="#line_199" value="True"/><!--  de caritat e de fe sun bastit -->
+<feat xlink:href="#line_200" value="False"/><!--  il sun ta bel e ta blanc e ta quandi -->
+<feat xlink:href="#line_201" value="True"/><!--  tant a boecis lo vis esvanuit -->
+<feat xlink:href="#line_202" value="True"/><!--  que el zo pensa uel sien amosit -->
+<feat xlink:href="#line_203" value="True"/><!--  e l vestiment en l or qui es repres -->
+<feat xlink:href="#line_204" value="True"/><!--  desoz avia escript u pei grezesc -->
+<feat xlink:href="#line_205" value="True"/><!--  zo signifiga la vita qui en ter es -->
+<feat xlink:href="#line_206" value="False"/><!--  sobre la schapla escript avia u tei grezesc -->
+<feat xlink:href="#line_207" value="True"/><!--  zo signifiga de cel la dreita lei -->
+<feat xlink:href="#line_208" value="True"/><!--  antr ellas doas depent sun l eschalo -->
+<feat xlink:href="#line_209" value="True"/><!--  d aur no sun ges mas nuallor no sun -->
+<feat xlink:href="#line_210" value="True"/><!--  per aqui monten cent miri auzello -->
+<feat xlink:href="#line_211" value="True"/><!--  alquant s en tornen aval arreuso -->
+<feat xlink:href="#line_212" value="True"/><!--  mas cil qui poden montar a l tei alcor -->
+<feat xlink:href="#line_213" value="True"/><!--  en epsa l ora se sun d altra color -->
+<feat xlink:href="#line_214" value="True"/><!--  ab la donzella pois an molt gran amor -->
+<feat xlink:href="#line_215" value="True"/><!--  cals es la schala de que sun li degra -->
+<feat xlink:href="#line_216" value="True"/><!--  fait sun d almosna e fe e caritat -->
+<feat xlink:href="#line_217" value="True"/><!--  contra felnia sunt fait de gran bontat -->
+<feat xlink:href="#line_218" value="True"/><!--  contra perjuri de bona feeltat -->
+<feat xlink:href="#line_219" value="True"/><!--  contr avaricia sun fait de largetat -->
+<feat xlink:href="#line_220" value="True"/><!--  contra tristicia sun fait d alegretat -->
+<feat xlink:href="#line_221" value="True"/><!--  contra menzonga sun fait de veritat -->
+<feat xlink:href="#line_222" value="True"/><!--  contra lucxuria sun fait de castitat -->
+<feat xlink:href="#line_223" value="True"/><!--  contra superbia sun fait d umilitat -->
+<feat xlink:href="#line_224" value="True"/><!--  quascus bos om si fai lo so degra -->
+<feat xlink:href="#line_225" value="False"/><!--  cal sun li auzil qui sun a l tei montat -->
+<feat xlink:href="#line_226" value="True"/><!--  qui e la scala ta ben an lor degras -->
+<feat xlink:href="#line_227" value="True"/><!--  zo sun bon omne qui an redems lor peccaz -->
+<feat xlink:href="#line_228" value="True"/><!--  qui tan se fien e sancta trinitat -->
+<feat xlink:href="#line_229" value="True"/><!--  d onor terrestri non an gran cobeetat -->
+<feat xlink:href="#line_230" value="False"/><!--  cal an li auzil significacio -->
+<feat xlink:href="#line_231" value="True"/><!--  qui de la schala tornen arreuso -->
+<feat xlink:href="#line_232" value="True"/><!--  zo sun tuit omne qui de joven sun bo -->
+<feat xlink:href="#line_233" value="True"/><!--  de sapiencia qui conmencen razo -->
+<feat xlink:href="#line_234" value="True"/><!--  e cum sun vell esdevenen fello -->
+<feat xlink:href="#line_235" value="True"/><!--  e fan perjuris e granz traicios -->
+<feat xlink:href="#line_236" value="True"/><!--  cum poisas cuida montar per l eschalo -->
+<feat xlink:href="#line_237" value="True"/><!--  cerqua que cerca no i ve miga de l so -->
+<feat xlink:href="#line_238" value="True"/><!--  ven lo diables qui guarda l baratro -->
+<feat xlink:href="#line_239" value="True"/><!--  ven acorren si l pren per lo talo -->
+<feat xlink:href="#line_240" value="True"/><!--  fai l acupar a guisa de lairo -->
+<feat xlink:href="#line_241" value="True"/><!--  fai l aparer de tot no l troba bo -->
+<feat xlink:href="#line_242" value="True"/><!--  bella s la domna e granz per co sedenz -->
+<feat xlink:href="#line_243" value="True"/><!--  no vist donzella de son evaiment -->
+<feat xlink:href="#line_244" value="True"/><!--  ella s ardida si s foren soi parent -->
+<feat xlink:href="#line_245" value="True"/><!--  e sa ma dextra la domna u libre te -->
+<feat xlink:href="#line_246" value="True"/><!--  toz aquel libres era de fog ardenz -->
+<feat xlink:href="#line_247" value="True"/><!--  zo s la justicia a l rei omnipotent -->
+<feat xlink:href="#line_248" value="True"/><!--  si l om o forfai e pois no s en repen -->
+<feat xlink:href="#line_249" value="True"/><!--  et evers deu no n faz amendament -->
+<feat xlink:href="#line_250" value="True"/><!--  quora que s vol ab aquel fog l encent -->
+<feat xlink:href="#line_251" value="True"/><!--  ab aquel fog s en pren so vengament -->
+<feat xlink:href="#line_252" value="True"/><!--  cel bona i vai qui amor ab lei pren -->
+<feat xlink:href="#line_253" value="True"/><!--  qui be la ama e per bontat la te -->
+<feat xlink:href="#line_254" value="False"/><!--  quan se reguarda be bo merite l en rent -->
+<feat xlink:href="#line_255" value="True"/><!--  e l ma senestre ten u sceptrum reial -->
+<feat xlink:href="#line_256" value="True"/><!--  zo signifiga justici corporal -->
+<feat xlink:href="#line_257" value="False"/><!--  de pec -->
+</featList>
+</paula>

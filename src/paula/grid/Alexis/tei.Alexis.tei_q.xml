@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.Alexis_tei_q"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr.Alexis.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_q" xml:base="ogr040.Alexis.tok.xml">
 <mark id="tei_q_0" xlink:href="#xpointer(id('tok_668')/range-to(id('tok_696')))"/><!-- e reis celeste par ton cumandement  -->
 <mark id="tei_q_1" xlink:href="#xpointer(id('tok_697')/range-to(id('tok_725')))"/><!-- amfant nus done ki seit a tun talent  -->
 <mark id="tei_q_2" xlink:href="#xpointer(id('tok_1516')/range-to(id('tok_1534')))"/><!-- filz quar t en vas colcer  -->

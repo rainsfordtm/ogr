@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.Boeci_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogr040.Boeci.line.xml">
+<feat xlink:href="#line_0" value="Boeci, l. 1"/><!--  nos jove omne quandius que nos estam -->
+<feat xlink:href="#line_1" value="Boeci, l. 2"/><!--  de gran follia per folledat parllam -->
+<feat xlink:href="#line_2" value="Boeci, l. 3"/><!--  quar no nos membra per cui viuri esperam -->
+<feat xlink:href="#line_3" value="Boeci, l. 4"/><!--  qui nos soste tan quan per terra annam -->
+<feat xlink:href="#line_4" value="Boeci, l. 5"/><!--  e qui nos pais que no murem de fam -->
+<feat xlink:href="#line_5" value="Boeci, l. 6"/><!--  per cui salv esmes per pur tan que ll clamam -->
+<feat xlink:href="#line_6" value="Boeci, l. 7"/><!--  nos jove omne menam ta mal jovent -->
+<feat xlink:href="#line_7" value="Boeci, l. 8"/><!--  que us non o preza si s trada son parent -->
+<feat xlink:href="#line_8" value="Boeci, l. 9"/><!--  senor ni par si ll mena malament -->
+<feat xlink:href="#line_9" value="Boeci, l. 10"/><!--  ni l us vel l aitre si s fai fals sacrament -->
+<feat xlink:href="#line_10" value="Boeci, l. 11"/><!--  quant o a fait mija no s en repent -->
+<feat xlink:href="#line_11" value="Boeci, l. 12"/><!--  e ni vers deu no n fai emendament -->
+<feat xlink:href="#line_12" value="Boeci, l. 13"/><!--  pro non es gaigre si penedenza n pren -->
+<feat xlink:href="#line_13" value="Boeci, l. 14"/><!--  dis que l a bresa mija nonqua la te -->
+<feat xlink:href="#line_14" value="Boeci, l. 15"/><!--  que eps lor forfazc sempre fai epsament -->
+<feat xlink:href="#line_15" value="Boeci, l. 16"/><!--  laisa n deu lo grant omnipotent -->
+<feat xlink:href="#line_16" value="Boeci, l. 17"/><!--  ki l mort et vius tot a in jutjamen -->
+<feat xlink:href="#line_17" value="Boeci, l. 18"/><!--  eps li satan son en so mandamen -->
+<feat xlink:href="#line_18" value="Boeci, l. 19"/><!--  ses deu licencia ja non faran torment -->
+<feat xlink:href="#line_19" value="Boeci, l. 20"/><!--  en anzs en dies foren ome fello -->
+<feat xlink:href="#line_20" value="Boeci, l. 21"/><!--  mal ome foren aora sunt pejor -->
+<feat xlink:href="#line_21" value="Boeci, l. 22"/><!--  volg i boecis metre quastiazo -->
+<feat xlink:href="#line_22" value="Boeci, l. 23"/><!--  auvent la gent fazia en so sermo -->
+<feat xlink:href="#line_23" value="Boeci, l. 24"/><!--  creessen deu qui sostenc passio -->
+<feat xlink:href="#line_24" value="Boeci, l. 25"/><!--  per lui aurien trastut redemcio -->
+<feat xlink:href="#line_25" value="Boeci, l. 26"/><!--  mas molt s en penet quar non i mes foiso -->
+<feat xlink:href="#line_26" value="Boeci, l. 27"/><!--  anz per eveja lo mesdren e preiso -->
+<feat xlink:href="#line_27" value="Boeci, l. 28"/><!--  donz fo boecis corps ag bo e pro -->
+<feat xlink:href="#line_28" value="Boeci, l. 29"/><!--  cui tan amet torquator mallios -->
+<feat xlink:href="#line_29" value="Boeci, l. 30"/><!--  de sapiencia no fo trop nuallos -->
+<feat xlink:href="#line_30" value="Boeci, l. 31"/><!--  tant en retenc que de tot no n fo blos -->
+<feat xlink:href="#line_31" value="Boeci, l. 32"/><!--  tan bo essemple en laiset entre nos -->
+<feat xlink:href="#line_32" value="Boeci, l. 33"/><!--  no cuid qu e roma om de so saber fos -->
+<feat xlink:href="#line_33" value="Boeci, l. 34"/><!--  coms fo de roma e ac ta gran valor -->
+<feat xlink:href="#line_34" value="Boeci, l. 35"/><!--  aprob mallio lo rei emperador -->
+<feat xlink:href="#line_35" value="Boeci, l. 36"/><!--  el era l meler de tota la onor -->
+<feat xlink:href="#line_36" value="Boeci, l. 37"/><!--  de tot l emperi l tenien per senor -->
+<feat xlink:href="#line_37" value="Boeci, l. 38"/><!--  mas d una causa u nom avia genzor -->
+<feat xlink:href="#line_38" value="Boeci, l. 39"/><!--  de sapiencia l apellaven doctor -->
+<feat xlink:href="#line_39" value="Boeci, l. 40"/><!--  quan veng la fis mallio torquator -->
+<feat xlink:href="#line_40" value="Boeci, l. 41"/><!--  donc venc boeci ta gran dolors a l cor -->
+<feat xlink:href="#line_41" value="Boeci, l. 42"/><!--  no cuid aprob altre dols li demor -->
+<feat xlink:href="#line_42" value="Boeci, l. 43"/><!--  morz fo mallios torquator dunt eu dig -->
+<feat xlink:href="#line_43" value="Boeci, l. 44"/><!--  ec vos e roma l emperador teiric -->
+<feat xlink:href="#line_44" value="Boeci, l. 45"/><!--  de l fiel deu no volg aver amig -->
+<feat xlink:href="#line_45" value="Boeci, l. 46"/><!--  no credet deu lo nostre creator -->
+<feat xlink:href="#line_46" value="Boeci, l. 47"/><!--  per zo no l volg boecis a senor -->
+<feat xlink:href="#line_47" value="Boeci, l. 48"/><!--  ni gens de lui no volg tener s onor -->
+<feat xlink:href="#line_48" value="Boeci, l. 49"/><!--  eu lo chastia ta be ab so sermo -->
+<feat xlink:href="#line_49" value="Boeci, l. 50"/><!--  e teirix col tot e mal sa razo -->
+<feat xlink:href="#line_50" value="Boeci, l. 51"/><!--  per grant evea de lui volg far fello -->
+<feat xlink:href="#line_51" value="Boeci, l. 52"/><!--  fez u breu faire per gran decepcio -->
+<feat xlink:href="#line_52" value="Boeci, l. 53"/><!--  e de boeci escrivre fez lo nom -->
+<feat xlink:href="#line_53" value="Boeci, l. 54"/><!--  e si l tramet e grecia la regio -->
+<feat xlink:href="#line_54" value="Boeci, l. 55"/><!--  de part boeci lor manda tal raizo -->
+<feat xlink:href="#line_55" value="Boeci, l. 56"/><!--  que passen mar guarnit de contenco -->
+<feat xlink:href="#line_56" value="Boeci, l. 57"/><!--  eu lor redra roma per traazo -->
+<feat xlink:href="#line_57" value="Boeci, l. 58"/><!--  lo senz teiric miga no fo de bo -->
+<feat xlink:href="#line_58" value="Boeci, l. 59"/><!--  fez sos mes segre si lz fez metre e preso -->
+<feat xlink:href="#line_59" value="Boeci, l. 60"/><!--  e l capitoli l endema a l dia clar -->
+<feat xlink:href="#line_60" value="Boeci, l. 61"/><!--  lai o solien las altras leis jutjar -->
+<feat xlink:href="#line_61" value="Boeci, l. 62"/><!--  lai veng lo reis sa felnia menar -->
+<feat xlink:href="#line_62" value="Boeci, l. 63"/><!--  lai fo boecis e foren i soi par -->
+<feat xlink:href="#line_63" value="Boeci, l. 64"/><!--  lo reis lo pres de felni a reptar -->
+<feat xlink:href="#line_64" value="Boeci, l. 65"/><!--  qu el trametia los breus ultra la mar -->
+<feat xlink:href="#line_65" value="Boeci, l. 66"/><!--  a obs los grex roma volia tradar -->
+<feat xlink:href="#line_66" value="Boeci, l. 67"/><!--  pero boeci anc no venc e pesat -->
+<feat xlink:href="#line_67" value="Boeci, l. 68"/><!--  sal el en estant e cuidet s en salvar -->
+<feat xlink:href="#line_68" value="Boeci, l. 69"/><!--  l om no l laiset a salvament annar -->
+<feat xlink:href="#line_69" value="Boeci, l. 70"/><!--  cil li faliren que l solient ajudar -->
+<feat xlink:href="#line_70" value="Boeci, l. 71"/><!--  fez lo lo reis e sa charcer gitar -->
+<feat xlink:href="#line_71" value="Boeci, l. 72"/><!--  ec vos boeci cadegut en afan -->
+<feat xlink:href="#line_72" value="Boeci, l. 73"/><!--  e granz kadenas qui l estan apesant -->
+<feat xlink:href="#line_73" value="Boeci, l. 74"/><!--  reclama deu de cel lo rei lo grant -->
+<feat xlink:href="#line_74" value="Boeci, l. 75"/><!--  domne pater e te m fiav eu tant -->
+<feat xlink:href="#line_75" value="Boeci, l. 76"/><!--  e cui marce tuit peccador estant -->
+<feat xlink:href="#line_76" value="Boeci, l. 77"/><!--  las mias musas qui ant perdut lor cant -->
+<feat xlink:href="#line_77" value="Boeci, l. 78"/><!--  de sapiencia anava eu ditan -->
+<feat xlink:href="#line_78" value="Boeci, l. 79"/><!--  plor tota dia faz cosdumna d efant -->
+<feat xlink:href="#line_79" value="Boeci, l. 80"/><!--  tuit a plorar repairen mei talant -->
+<feat xlink:href="#line_80" value="Boeci, l. 81"/><!--  domne pater tu qui m sols goernar -->
+<feat xlink:href="#line_81" value="Boeci, l. 82"/><!--  e te m soli eu a toz dias fiar -->
+<feat xlink:href="#line_82" value="Boeci, l. 83"/><!--  tu m fezist tant e gran riqueza star -->
+<feat xlink:href="#line_83" value="Boeci, l. 84"/><!--  de tota roma l emperi aig a mandar -->
+<feat xlink:href="#line_84" value="Boeci, l. 85"/><!--  los savis omnes en soli adornar -->
+<feat xlink:href="#line_85" value="Boeci, l. 86"/><!--  de la justicia que grant aig a mandar -->
+<feat xlink:href="#line_86" value="Boeci, l. 87"/><!--  no t servij be no la m volguist laisar -->
+<feat xlink:href="#line_87" value="Boeci, l. 88"/><!--  per aizo m fas e chaitiveza star -->
+<feat xlink:href="#line_88" value="Boeci, l. 89"/><!--  non ai que prenga ne no posg re donar -->
+<feat xlink:href="#line_89" value="Boeci, l. 90"/><!--  ni noit ni dia no faz que mal pensar -->
+<feat xlink:href="#line_90" value="Boeci, l. 91"/><!--  tuit mei talant repairen a plorar -->
+<feat xlink:href="#line_91" value="Boeci, l. 92"/><!--  hanc no fo om ta gran vertut agues -->
+<feat xlink:href="#line_92" value="Boeci, l. 93"/><!--  qui sapiencia compenre pogues -->
+<feat xlink:href="#line_93" value="Boeci, l. 94"/><!--  pero boecis no n fo de tot mespres -->
+<feat xlink:href="#line_94" value="Boeci, l. 95"/><!--  anc no n vist u qui tant en retegues -->
+<feat xlink:href="#line_95" value="Boeci, l. 96"/><!--  lainz e las carcers o el jazia pres -->
+<feat xlink:href="#line_96" value="Boeci, l. 97"/><!--  lainz comtava de l temporal cum es -->
+<feat xlink:href="#line_97" value="Boeci, l. 98"/><!--  de sol e luna cel e terra mar cum es -->
+<feat xlink:href="#line_98" value="Boeci, l. 99"/><!--  nos e molz libres o trobam legen -->
+<feat xlink:href="#line_99" value="Boeci, l. 100"/><!--  dis o boecis e sso gran marriment -->
+<feat xlink:href="#line_100" value="Boeci, l. 101"/><!--  quant e la carcer avia l cor dolent -->
+<feat xlink:href="#line_101" value="Boeci, l. 102"/><!--  molt val lo bes que l om fai e jovent -->
+<feat xlink:href="#line_102" value="Boeci, l. 103"/><!--  com el es velz qui pois lo soste -->
+<feat xlink:href="#line_103" value="Boeci, l. 104"/><!--  quan ve a l ora que l corps li vai franen -->
+<feat xlink:href="#line_104" value="Boeci, l. 105"/><!--  per be qu a fait deus a ssa part lo te -->
+<feat xlink:href="#line_105" value="Boeci, l. 106"/><!--  nos de molz omnes nos o avem veut -->
+<feat xlink:href="#line_106" value="Boeci, l. 107"/><!--  om per veltat non a lo pel chanut -->
+<feat xlink:href="#line_107" value="Boeci, l. 108"/><!--  o es eferms o a afan agut -->
+<feat xlink:href="#line_108" value="Boeci, l. 109"/><!--  cellui vai be qui tra mal e jovent -->
+<feat xlink:href="#line_109" value="Boeci, l. 110"/><!--  e cum es velz donc estai bonament -->
+<feat xlink:href="#line_110" value="Boeci, l. 111"/><!--  deus a mes e lui so chastiament -->
+<feat xlink:href="#line_111" value="Boeci, l. 112"/><!--  mas quant es joves et a onor molt grant -->
+<feat xlink:href="#line_112" value="Boeci, l. 113"/><!--  et evers deu no torna so talant -->
+<feat xlink:href="#line_113" value="Boeci, l. 114"/><!--  cum el es velz vai s onors descaptan -->
+<feat xlink:href="#line_114" value="Boeci, l. 115"/><!--  quant se reguarda no n a ne tan ne quant -->
+<feat xlink:href="#line_115" value="Boeci, l. 116"/><!--  la pelz li rua hec lo kap te tremblant -->
+<feat xlink:href="#line_116" value="Boeci, l. 117"/><!--  morir volria e es e gran masant -->
+<feat xlink:href="#line_117" value="Boeci, l. 118"/><!--  trastota dia vai la mort reclaman -->
+<feat xlink:href="#line_118" value="Boeci, l. 119"/><!--  ella no l pren ne no l en fai semblant -->
+<feat xlink:href="#line_119" value="Boeci, l. 120"/><!--  drez es e bes que l om e deu s esper -->
+<feat xlink:href="#line_120" value="Boeci, l. 121"/><!--  mas non es bes que s fi e son aver -->
+<feat xlink:href="#line_121" value="Boeci, l. 122"/><!--  ta mala fe nulz om no pot veder -->
+<feat xlink:href="#line_122" value="Boeci, l. 123"/><!--  l om l a a l ma miga no l a a l ser -->
+<feat xlink:href="#line_123" value="Boeci, l. 124"/><!--  cum l us lo pert a l altre ve tener -->
+<feat xlink:href="#line_124" value="Boeci, l. 125"/><!--  e la morz a epsament mala fe -->
+<feat xlink:href="#line_125" value="Boeci, l. 126"/><!--  l om ve u ome quaitiu e dolent -->
+<feat xlink:href="#line_126" value="Boeci, l. 127"/><!--  o es malaptes o altre pres lo te -->
+<feat xlink:href="#line_127" value="Boeci, l. 128"/><!--  non a aver ni amic ni parent -->
+<feat xlink:href="#line_128" value="Boeci, l. 129"/><!--  e dunc apella mort ta dolzament -->
+<feat xlink:href="#line_129" value="Boeci, l. 130"/><!--  crida e ucha morz a me quar no ves -->
+<feat xlink:href="#line_130" value="Boeci, l. 131"/><!--  ella s fen sorda gens a lui non atend -->
+<feat xlink:href="#line_131" value="Boeci, l. 132"/><!--  quant menz s en guarda no sap mot quan lo s prent -->
+<feat xlink:href="#line_132" value="Boeci, l. 133"/><!--  si cum la nibles cobre l jorn lo be ma -->
+<feat xlink:href="#line_133" value="Boeci, l. 134"/><!--  si cobre avers lo cor a l xristia -->
+<feat xlink:href="#line_134" value="Boeci, l. 135"/><!--  qui tant i pessa que al no fara ja -->
+<feat xlink:href="#line_135" value="Boeci, l. 136"/><!--  e deu no s fia ni deus e lui e no ma -->
+<feat xlink:href="#line_136" value="Boeci, l. 137"/><!--  quan se reguarda per o res no l rema -->
+<feat xlink:href="#line_137" value="Boeci, l. 138"/><!--  molt fort blasmava boecis sos amigs -->
+<feat xlink:href="#line_138" value="Boeci, l. 139"/><!--  qui lui laudaven dereer e uz dias antix -->
+<feat xlink:href="#line_139" value="Boeci, l. 140"/><!--  qu el era coms molt onraz e rix -->
+<feat xlink:href="#line_140" value="Boeci, l. 141"/><!--  et evers deu era tot sos afix -->
+<feat xlink:href="#line_141" value="Boeci, l. 142"/><!--  molt lo laudaven e amic e parent -->
+<feat xlink:href="#line_142" value="Boeci, l. 143"/><!--  c ab damrideu se tenia forment -->
+<feat xlink:href="#line_143" value="Boeci, l. 144"/><!--  pero boecis trastuz los en desment -->
+<feat xlink:href="#line_144" value="Boeci, l. 145"/><!--  no s es acsi cum anaven dicent -->
+<feat xlink:href="#line_145" value="Boeci, l. 146"/><!--  cel non es bos que a frebla scala s te -->
+<feat xlink:href="#line_146" value="Boeci, l. 147"/><!--  qui tota ora sempre vai chaden -->
+<feat xlink:href="#line_147" value="Boeci, l. 148"/><!--  aquel qui l a non estai fermament -->
+<feat xlink:href="#line_148" value="Boeci, l. 149"/><!--  e quals es l om qui a ferma schala s te -->
+<feat xlink:href="#line_149" value="Boeci, l. 150"/><!--  bos xristias qui cre perfeitament -->
+<feat xlink:href="#line_150" value="Boeci, l. 151"/><!--  deu la paterna lo rei omnipotent -->
+<feat xlink:href="#line_151" value="Boeci, l. 152"/><!--  et en jhesu que ac tan bo talent -->
+<feat xlink:href="#line_152" value="Boeci, l. 153"/><!--  chi nos redems de so sang dolzament -->
+<feat xlink:href="#line_153" value="Boeci, l. 154"/><!--  e sanctum spiritum qui e bos omes desend -->
+<feat xlink:href="#line_154" value="Boeci, l. 155"/><!--  que que l corps faca eu li vai l arma dozen -->
+<feat xlink:href="#line_155" value="Boeci, l. 156"/><!--  bos cristians qui a ital eschala s te -->
+<feat xlink:href="#line_156" value="Boeci, l. 157"/><!--  cel no n quaira ja per negu torment -->
+<feat xlink:href="#line_157" value="Boeci, l. 158"/><!--  cum jaz boecis e pena charceral -->
+<feat xlink:href="#line_158" value="Boeci, l. 159"/><!--  plan se sos dols e sos menuz pecaz -->
+<feat xlink:href="#line_159" value="Boeci, l. 160"/><!--  d una donzella fo lainz visitaz -->
+<feat xlink:href="#line_160" value="Boeci, l. 161"/><!--  filla s a l rei qui a gran poestat -->
+<feat xlink:href="#line_161" value="Boeci, l. 162"/><!--  ella s ta bella reluz ent lo palaz -->
+<feat xlink:href="#line_162" value="Boeci, l. 163"/><!--  lo mas o intra inz es granz claritaz -->
+<feat xlink:href="#line_163" value="Boeci, l. 164"/><!--  ja no es obs fox i ssia alumnaz -->
+<feat xlink:href="#line_164" value="Boeci, l. 165"/><!--  veder ent pot l om per quaranta ciptaz -->
+<feat xlink:href="#line_165" value="Boeci, l. 166"/><!--  qual ora s vol petita s fai asaz -->
+<feat xlink:href="#line_166" value="Boeci, l. 167"/><!--  cum ella s auca cel a de l cap polsat -->
+<feat xlink:href="#line_167" value="Boeci, l. 168"/><!--  quant be se dreca lo cel a pertusat -->
+<feat xlink:href="#line_168" value="Boeci, l. 169"/><!--  e ve lainz tota la majestat -->
+<feat xlink:href="#line_169" value="Boeci, l. 170"/><!--  bella s la domna e l vis a tant preclar -->
+<feat xlink:href="#line_170" value="Boeci, l. 171"/><!--  davan so vis nulz om no s pot celar -->
+<feat xlink:href="#line_171" value="Boeci, l. 172"/><!--  ne eps li omne qui sun ultra la mar -->
+<feat xlink:href="#line_172" value="Boeci, l. 173"/><!--  no potden tant e lor cors cobeetar -->
+<feat xlink:href="#line_173" value="Boeci, l. 174"/><!--  qu ella de tot no vea lor pessar -->
+<feat xlink:href="#line_174" value="Boeci, l. 175"/><!--  qui e leis se fia morz no l es a doptar -->
+<feat xlink:href="#line_175" value="Boeci, l. 176"/><!--  bella s la domna mas molt es de longs dis -->
+<feat xlink:href="#line_176" value="Boeci, l. 177"/><!--  no s pot rascundre nulz hom denant so vis -->
+<feat xlink:href="#line_177" value="Boeci, l. 178"/><!--  hanc no vist omne ta grant onor agues -->
+<feat xlink:href="#line_178" value="Boeci, l. 179"/><!--  s il forfez tan dont ella s rangures -->
+<feat xlink:href="#line_179" value="Boeci, l. 180"/><!--  sos corps ni s anma miga per ren guaris -->
+<feat xlink:href="#line_180" value="Boeci, l. 181"/><!--  quoras que s vol s en a lo corps aucis -->
+<feat xlink:href="#line_181" value="Boeci, l. 182"/><!--  e pois met l arma en effern e l somsis -->
+<feat xlink:href="#line_182" value="Boeci, l. 183"/><!--  tal li comanda qui tot dias la bris -->
+<feat xlink:href="#line_183" value="Boeci, l. 184"/><!--  ella smetessma ten las claus de paradis -->
+<feat xlink:href="#line_184" value="Boeci, l. 185"/><!--  quoras que s vol lainz col sos amigs -->
+<feat xlink:href="#line_185" value="Boeci, l. 186"/><!--  bel sun li drap no sai nomnar lo fil -->
+<feat xlink:href="#line_186" value="Boeci, l. 187"/><!--  mas molt per foren de bon e de sobtil -->
+<feat xlink:href="#line_187" value="Boeci, l. 188"/><!--  ella se fez anz avia plus de mil -->
+<feat xlink:href="#line_188" value="Boeci, l. 189"/><!--  tan no son vel miga lor prez a vil -->
+<feat xlink:href="#line_189" value="Boeci, l. 190"/><!--  ella medesma teiset so vestiment -->
+<feat xlink:href="#line_190" value="Boeci, l. 191"/><!--  que negus om no pot desfar neienz -->
+<feat xlink:href="#line_191" value="Boeci, l. 192"/><!--  pur l una fremna qui vers la terra pent -->
+<feat xlink:href="#line_192" value="Boeci, l. 193"/><!--  no comprari om ab mil livras d argent -->
+<feat xlink:href="#line_193" value="Boeci, l. 194"/><!--  ella ab boeci parlet ta dolzament -->
+<feat xlink:href="#line_194" value="Boeci, l. 195"/><!--  molt me derramen donzellet de jovent -->
+<feat xlink:href="#line_195" value="Boeci, l. 196"/><!--  que zo esperen que faza a lor talen -->
+<feat xlink:href="#line_196" value="Boeci, l. 197"/><!--  primas me amen pois me van aissent -->
+<feat xlink:href="#line_197" value="Boeci, l. 198"/><!--  la mia mort ta mal van deperden -->
+<feat xlink:href="#line_198" value="Boeci, l. 199"/><!--  bel sun li drap que la domna vestit -->
+<feat xlink:href="#line_199" value="Boeci, l. 200"/><!--  de caritat e de fe sun bastit -->
+<feat xlink:href="#line_200" value="Boeci, l. 201"/><!--  il sun ta bel e ta blanc e ta quandi -->
+<feat xlink:href="#line_201" value="Boeci, l. 202"/><!--  tant a boecis lo vis esvanuit -->
+<feat xlink:href="#line_202" value="Boeci, l. 203"/><!--  que el zo pensa uel sien amosit -->
+<feat xlink:href="#line_203" value="Boeci, l. 204"/><!--  e l vestiment en l or qui es repres -->
+<feat xlink:href="#line_204" value="Boeci, l. 205"/><!--  desoz avia escript u pei grezesc -->
+<feat xlink:href="#line_205" value="Boeci, l. 206"/><!--  zo signifiga la vita qui en ter es -->
+<feat xlink:href="#line_206" value="Boeci, l. 207"/><!--  sobre la schapla escript avia u tei grezesc -->
+<feat xlink:href="#line_207" value="Boeci, l. 208"/><!--  zo signifiga de cel la dreita lei -->
+<feat xlink:href="#line_208" value="Boeci, l. 209"/><!--  antr ellas doas depent sun l eschalo -->
+<feat xlink:href="#line_209" value="Boeci, l. 210"/><!--  d aur no sun ges mas nuallor no sun -->
+<feat xlink:href="#line_210" value="Boeci, l. 211"/><!--  per aqui monten cent miri auzello -->
+<feat xlink:href="#line_211" value="Boeci, l. 212"/><!--  alquant s en tornen aval arreuso -->
+<feat xlink:href="#line_212" value="Boeci, l. 213"/><!--  mas cil qui poden montar a l tei alcor -->
+<feat xlink:href="#line_213" value="Boeci, l. 214"/><!--  en epsa l ora se sun d altra color -->
+<feat xlink:href="#line_214" value="Boeci, l. 215"/><!--  ab la donzella pois an molt gran amor -->
+<feat xlink:href="#line_215" value="Boeci, l. 216"/><!--  cals es la schala de que sun li degra -->
+<feat xlink:href="#line_216" value="Boeci, l. 217"/><!--  fait sun d almosna e fe e caritat -->
+<feat xlink:href="#line_217" value="Boeci, l. 218"/><!--  contra felnia sunt fait de gran bontat -->
+<feat xlink:href="#line_218" value="Boeci, l. 219"/><!--  contra perjuri de bona feeltat -->
+<feat xlink:href="#line_219" value="Boeci, l. 220"/><!--  contr avaricia sun fait de largetat -->
+<feat xlink:href="#line_220" value="Boeci, l. 221"/><!--  contra tristicia sun fait d alegretat -->
+<feat xlink:href="#line_221" value="Boeci, l. 222"/><!--  contra menzonga sun fait de veritat -->
+<feat xlink:href="#line_222" value="Boeci, l. 223"/><!--  contra lucxuria sun fait de castitat -->
+<feat xlink:href="#line_223" value="Boeci, l. 224"/><!--  contra superbia sun fait d umilitat -->
+<feat xlink:href="#line_224" value="Boeci, l. 225"/><!--  quascus bos om si fai lo so degra -->
+<feat xlink:href="#line_225" value="Boeci, l. 226"/><!--  cal sun li auzil qui sun a l tei montat -->
+<feat xlink:href="#line_226" value="Boeci, l. 227"/><!--  qui e la scala ta ben an lor degras -->
+<feat xlink:href="#line_227" value="Boeci, l. 228"/><!--  zo sun bon omne qui an redems lor peccaz -->
+<feat xlink:href="#line_228" value="Boeci, l. 229"/><!--  qui tan se fien e sancta trinitat -->
+<feat xlink:href="#line_229" value="Boeci, l. 230"/><!--  d onor terrestri non an gran cobeetat -->
+<feat xlink:href="#line_230" value="Boeci, l. 231"/><!--  cal an li auzil significacio -->
+<feat xlink:href="#line_231" value="Boeci, l. 232"/><!--  qui de la schala tornen arreuso -->
+<feat xlink:href="#line_232" value="Boeci, l. 233"/><!--  zo sun tuit omne qui de joven sun bo -->
+<feat xlink:href="#line_233" value="Boeci, l. 234"/><!--  de sapiencia qui conmencen razo -->
+<feat xlink:href="#line_234" value="Boeci, l. 235"/><!--  e cum sun vell esdevenen fello -->
+<feat xlink:href="#line_235" value="Boeci, l. 236"/><!--  e fan perjuris e granz traicios -->
+<feat xlink:href="#line_236" value="Boeci, l. 237"/><!--  cum poisas cuida montar per l eschalo -->
+<feat xlink:href="#line_237" value="Boeci, l. 238"/><!--  cerqua que cerca no i ve miga de l so -->
+<feat xlink:href="#line_238" value="Boeci, l. 239"/><!--  ven lo diables qui guarda l baratro -->
+<feat xlink:href="#line_239" value="Boeci, l. 240"/><!--  ven acorren si l pren per lo talo -->
+<feat xlink:href="#line_240" value="Boeci, l. 241"/><!--  fai l acupar a guisa de lairo -->
+<feat xlink:href="#line_241" value="Boeci, l. 242"/><!--  fai l aparer de tot no l troba bo -->
+<feat xlink:href="#line_242" value="Boeci, l. 243"/><!--  bella s la domna e granz per co sedenz -->
+<feat xlink:href="#line_243" value="Boeci, l. 244"/><!--  no vist donzella de son evaiment -->
+<feat xlink:href="#line_244" value="Boeci, l. 245"/><!--  ella s ardida si s foren soi parent -->
+<feat xlink:href="#line_245" value="Boeci, l. 246"/><!--  e sa ma dextra la domna u libre te -->
+<feat xlink:href="#line_246" value="Boeci, l. 247"/><!--  toz aquel libres era de fog ardenz -->
+<feat xlink:href="#line_247" value="Boeci, l. 248"/><!--  zo s la justicia a l rei omnipotent -->
+<feat xlink:href="#line_248" value="Boeci, l. 249"/><!--  si l om o forfai e pois no s en repen -->
+<feat xlink:href="#line_249" value="Boeci, l. 250"/><!--  et evers deu no n faz amendament -->
+<feat xlink:href="#line_250" value="Boeci, l. 251"/><!--  quora que s vol ab aquel fog l encent -->
+<feat xlink:href="#line_251" value="Boeci, l. 252"/><!--  ab aquel fog s en pren so vengament -->
+<feat xlink:href="#line_252" value="Boeci, l. 253"/><!--  cel bona i vai qui amor ab lei pren -->
+<feat xlink:href="#line_253" value="Boeci, l. 254"/><!--  qui be la ama e per bontat la te -->
+<feat xlink:href="#line_254" value="Boeci, l. 255"/><!--  quan se reguarda be bo merite l en rent -->
+<feat xlink:href="#line_255" value="Boeci, l. 256"/><!--  e l ma senestre ten u sceptrum reial -->
+<feat xlink:href="#line_256" value="Boeci, l. 257"/><!--  zo signifiga justici corporal -->
+<feat xlink:href="#line_257" value="Boeci, l. 258"/><!--  de pec -->
+</featList>
+</paula>

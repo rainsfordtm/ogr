@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.AlexisProl_tei_pb"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb" xml:base="ogr.AlexisProl.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb" xml:base="ogr040.AlexisProl.tok.xml">
 <mark id="tei_pb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_535')))"/><!-- ici cumencet amiable cancun e spiritel raisun d iceol noble barun eufemien par num e de la vie de sum filz boneuret de l quel nus avum oit lire e canter par le divine volentet il desirrables icel sul filz angendrat apres le naisance co fut emfes de deu methime amet e de pere e de mere par grant certet nurrit la sue juvente fut honeste e spiritel par l amistet de l surerain pietet la sue spuse juvene cumandat a l spus vif de veritet ki est un sul faitur e regnet an trinitiet icesta istorie est amiable grace e suverain consulaciun a cascun memorie spiritel les quels vivent purement sulunc castethet e dignement sei delitent e s goies de l ciel et e s noces virginels  -->
 </markList>
 </paula>

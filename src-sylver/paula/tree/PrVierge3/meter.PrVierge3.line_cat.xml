@@ -3,7 +3,6 @@
 <paula version="1.0">
 <header paula_id="meter.PrVierge3_line_cat"/>
 <featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.PrVierge3.meter.xml">
-<feat xlink:href="#line_0" value="line"/><!--  versus sancte marie -->
 <feat xlink:href="#line_1" value="line"/><!--  o maria deu maire -->
 <feat xlink:href="#line_2" value="line"/><!--  deu t es e fils e paire -->
 <feat xlink:href="#line_3" value="line"/><!--  domna preia per nos -->

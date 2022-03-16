@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.SLeger_tei_lb"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.SLeger.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr040.SLeger.tok.xml">
 <mark id="tei_lb_0" xlink:href="#xpointer(id('tok_15')/range-to(id('tok_31')))"/><!-- lauder et a sos sancz  -->
 <mark id="tei_lb_1" xlink:href="#xpointer(id('tok_32')/range-to(id('tok_57')))"/><!-- honor porter in su amor cantomps  -->
 <mark id="tei_lb_2" xlink:href="#xpointer(id('tok_58')/range-to(id('tok_79')))"/><!-- de l sanz quae por lui augrent  -->

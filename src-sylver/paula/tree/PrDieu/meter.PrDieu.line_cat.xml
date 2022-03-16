@@ -3,7 +3,6 @@
 <paula version="1.0">
 <header paula_id="meter.PrDieu_line_cat"/>
 <featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.PrDieu.meter.xml">
-<feat xlink:href="#line_0" value="line"/><!--  tu autem -->
 <feat xlink:href="#line_1" value="line"/><!--  be deu hoi mais finir nostra razos -->
 <feat xlink:href="#line_2" value="line"/><!--  un pauc soi las que trop fo aut lo sos -->
 <feat xlink:href="#line_3" value="line"/><!--  leven doi clerc que diien lo respos -->

@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.Alexis_tei_lg"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr.Alexis.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg" xml:base="ogr040.Alexis.tok.xml">
 <mark id="tei_lg_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_140')))"/><!-- bons fut li secles a l tens ancienur quer feit i ert e justise et amur si ert creance dunt ore n i at nul prut tut est muez perdut ad sa colur ja mais n iert tel cum fut a s anceisurs  -->
 <mark id="tei_lg_1" xlink:href="#xpointer(id('tok_141')/range-to(id('tok_288')))"/><!-- a l tens noe et a l tens abraham et a l david qui deus par amat tant bons fut li secles jamais n ert si vailant velz est e frailes tut s en vat remanant si st ampairet tut bien vait remanant  -->
 <mark id="tei_lg_2" xlink:href="#xpointer(id('tok_289')/range-to(id('tok_430')))"/><!-- puis icel tens que deus nus vint salver nostra anceisur ourent cristientet si fut un sire de rome la citet rices hom fud de grant nobilitet pur hoc vus di d un son filz voil parler  -->

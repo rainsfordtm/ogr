@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
-<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.Eulalie.anno.xml">
-<multiFeat xlink:href="#anno_0">
-<feat name="text" value="Eulalie"/>
-<feat name="lang" value="fro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="9"/><feat name="ms_origin" value="Hainaut"/><feat name="text_cent" value="9"/><feat name="text_origin" value="Hainaut"/><feat name="title_en" value="Sequence of Saint Eulalia"/><feat name="title_fr" value="Séquence de sainte Eulalie"/><feat name="author" value="anonymous"/><feat name="ms" value="Valenciennes, Bibliothèque municipale, 150"/><feat name="form" value="verse"/><feat name="source" value="ms. image"/></multiFeat>
-</multiFeatList>
-</paula>

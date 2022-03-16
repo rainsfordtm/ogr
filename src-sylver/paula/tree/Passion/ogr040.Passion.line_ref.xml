@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr040.Passion_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogr040.Passion.line.xml">
+<feat xlink:href="#line_0" value="Passion, l. 1"/><!--  hora vos dic vera raizun -->
+<feat xlink:href="#line_1" value="Passion, l. 2"/><!--  de jesu christi passiun -->
+<feat xlink:href="#line_2" value="Passion, l. 3"/><!--  los sos affanz vol remembrar -->
+<feat xlink:href="#line_3" value="Passion, l. 4"/><!--  per que cest mund tot a salvad -->
+<feat xlink:href="#line_4" value="Passion, l. 5"/><!--  trenta tres ants et alques plus -->
+<feat xlink:href="#line_5" value="Passion, l. 6"/><!--  des que carn pres in terra fu -->
+<feat xlink:href="#line_6" value="Passion, l. 7"/><!--  per tot obred que verus deus -->
+<feat xlink:href="#line_7" value="Passion, l. 8"/><!--  per tot sosteg que hom carnals -->
+<feat xlink:href="#line_8" value="Passion, l. 9"/><!--  peccad negun unque non fez -->
+<feat xlink:href="#line_9" value="Passion, l. 10"/><!--  per eps los nostres fu aucis -->
+<feat xlink:href="#line_10" value="Passion, l. 11"/><!--  la sua morz vida nos rend -->
+<feat xlink:href="#line_11" value="Passion, l. 12"/><!--  sa passiuns toz nos redenps -->
+<feat xlink:href="#line_12" value="Passion, l. 13"/><!--  cum aproismed sa passiuns -->
+<feat xlink:href="#line_13" value="Passion, l. 14"/><!--  cho fu nostra redemptions -->
+<feat xlink:href="#line_14" value="Passion, l. 15"/><!--  aproismer vol a la ciutat -->
+<feat xlink:href="#line_15" value="Passion, l. 16"/><!--  afanz per nos susteg mult granz -->
+<feat xlink:href="#line_16" value="Passion, l. 17"/><!--  cum el perveing a betfage -->
+<feat xlink:href="#line_17" value="Passion, l. 18"/><!--  vil es desoz mont olivet -->
+<feat xlink:href="#line_18" value="Passion, l. 19"/><!--  avant de ls sos dos enveied -->
+<feat xlink:href="#line_19" value="Passion, l. 20"/><!--  un asne adducere se roved -->
+<feat xlink:href="#line_20" value="Passion, l. 21"/><!--  cum cel asnez fu amenaz -->
+<feat xlink:href="#line_21" value="Passion, l. 22"/><!--  de lor mantelz ben l ant parad -->
+<feat xlink:href="#line_22" value="Passion, l. 23"/><!--  de lor mantelz de lor vestit -->
+<feat xlink:href="#line_23" value="Passion, l. 24"/><!--  ben li aprestunt o ss assis -->
+<feat xlink:href="#line_24" value="Passion, l. 25"/><!--  per sua grand humilitad -->
+<feat xlink:href="#line_25" value="Passion, l. 26"/><!--  jesus rex magnes sus monted -->
+<feat xlink:href="#line_26" value="Passion, l. 27"/><!--  si cum prophetes anz mulz dis -->
+<feat xlink:href="#line_27" value="Passion, l. 28"/><!--  canted aveien de jesu crist -->
+<feat xlink:href="#line_28" value="Passion, l. 29"/><!--  anz petiz dis que cho fus fait -->
+<feat xlink:href="#line_29" value="Passion, l. 30"/><!--  jesus lo lazer suscitat -->
+<feat xlink:href="#line_30" value="Passion, l. 31"/><!--  chi quatre dis en moniment -->
+<feat xlink:href="#line_31" value="Passion, l. 32"/><!--  jagud aveie toz pudenz -->
+<feat xlink:href="#line_32" value="Passion, l. 33"/><!--  cum co audid tota la gent -->
+<feat xlink:href="#line_33" value="Passion, l. 34"/><!--  que jesus ve lo reis podenz -->
+<feat xlink:href="#line_34" value="Passion, l. 35"/><!--  chi eps lo morz fai se revivere -->
+<feat xlink:href="#line_35" value="Passion, l. 36"/><!--  a grand honor encontra xirent -->
+<feat xlink:href="#line_36" value="Passion, l. 37"/><!--  alquant de ls palmes prendent rams -->
+<feat xlink:href="#line_37" value="Passion, l. 38"/><!--  de ls olivers alquant las branches -->
+<feat xlink:href="#line_38" value="Passion, l. 39"/><!--  encontra l rei qui fez lo cel -->
+<feat xlink:href="#line_39" value="Passion, l. 40"/><!--  issid lo dii le poples lez -->
+<feat xlink:href="#line_40" value="Passion, l. 41"/><!--  canten li gran e li petit -->
+<feat xlink:href="#line_41" value="Passion, l. 42"/><!--  fili davit fili davit -->
+<feat xlink:href="#line_42" value="Passion, l. 43"/><!--  palis vestit palis mantenls -->
+<feat xlink:href="#line_43" value="Passion, l. 44"/><!--  davant extendent a ssos pez -->
+<feat xlink:href="#line_44" value="Passion, l. 45"/><!--  gran folcs aredre gran davan -->
+<feat xlink:href="#line_45" value="Passion, l. 46"/><!--  gran e petit deu van laudant -->
+<feat xlink:href="#line_46" value="Passion, l. 47"/><!--  ensobre tot petiz enfan -->
+<feat xlink:href="#line_47" value="Passion, l. 48"/><!--  osanna semper van clamant -->
+<feat xlink:href="#line_48" value="Passion, l. 49"/><!--  a la ciptad cum aproismet -->
+<feat xlink:href="#line_49" value="Passion, l. 50"/><!--  et el la vid e lla sgarded -->
+<feat xlink:href="#line_50" value="Passion, l. 51"/><!--  de son piu cor greu suspiret -->
+<feat xlink:href="#line_51" value="Passion, l. 52"/><!--  de ssos sanz olz fort lagrimez -->
+<feat xlink:href="#line_52" value="Passion, l. 53"/><!--  hjerussalem hjerussalem -->
+<feat xlink:href="#line_53" value="Passion, l. 54"/><!--  gai te dis el per tos pechet -->
+<feat xlink:href="#line_54" value="Passion, l. 55"/><!--  pensar non poz pensar no l vols -->
+<feat xlink:href="#line_55" value="Passion, l. 56"/><!--  non t o permet tos granz orgolz -->
+<feat xlink:href="#line_56" value="Passion, l. 57"/><!--  venrant li an venrant li di -->
+<feat xlink:href="#line_57" value="Passion, l. 58"/><!--  que zt asaldran toi inimic -->
+<feat xlink:href="#line_58" value="Passion, l. 59"/><!--  il tot entorn t arberiaran -->
+<feat xlink:href="#line_59" value="Passion, l. 60"/><!--  et a terra crebantaran -->
+<feat xlink:href="#line_60" value="Passion, l. 61"/><!--  los tos enfanz qui in te sunt -->
+<feat xlink:href="#line_61" value="Passion, l. 62"/><!--  a males penas aucidrant -->
+<feat xlink:href="#line_62" value="Passion, l. 63"/><!--  en tos belz murs en tas maisons -->
+<feat xlink:href="#line_63" value="Passion, l. 64"/><!--  pedra ssubr altre non laiserant -->
+<feat xlink:href="#line_64" value="Passion, l. 65"/><!--  li toi caitiu per totas genz -->
+<feat xlink:href="#line_65" value="Passion, l. 66"/><!--  menad en eren a tormenz -->
+<feat xlink:href="#line_66" value="Passion, l. 67"/><!--  quar eu te fiz nu m cognoguist -->
+<feat xlink:href="#line_67" value="Passion, l. 68"/><!--  salvar te ving nu m receubist -->
+<feat xlink:href="#line_68" value="Passion, l. 69"/><!--  cum cho ag dit et percuidat -->
+<feat xlink:href="#line_69" value="Passion, l. 70"/><!--  en templum deu semper intret -->
+<feat xlink:href="#line_70" value="Passion, l. 71"/><!--  los marchedant quae in trobed -->
+<feat xlink:href="#line_71" value="Passion, l. 72"/><!--  a grand destreit fors los gitez -->
+<feat xlink:href="#line_72" value="Passion, l. 73"/><!--  los sos talant ta fort monstred -->
+<feat xlink:href="#line_73" value="Passion, l. 74"/><!--  que grant pavors pres a ls judeus -->
+<feat xlink:href="#line_74" value="Passion, l. 75"/><!--  de dobpla corda lz vai firend -->
+<feat xlink:href="#line_75" value="Passion, l. 76"/><!--  tot lor marched vai desfazend -->
+<feat xlink:href="#line_76" value="Passion, l. 77"/><!--  felo judeu cum il cho vidren -->
+<feat xlink:href="#line_77" value="Passion, l. 78"/><!--  enz lor cors grand an enveie -->
+<feat xlink:href="#line_78" value="Passion, l. 79"/><!--  per mals conselz van demandan -->
+<feat xlink:href="#line_79" value="Passion, l. 80"/><!--  nostre sennior cum tradissant -->
+<feat xlink:href="#line_80" value="Passion, l. 81"/><!--  lo fel judes escarioth -->
+<feat xlink:href="#line_81" value="Passion, l. 82"/><!--  a ls judeus vengra en rebost -->
+<feat xlink:href="#line_82" value="Passion, l. 83"/><!--  que m en darez e l vos tradran -->
+<feat xlink:href="#line_83" value="Passion, l. 84"/><!--  vostres talenz ademplirant -->
+<feat xlink:href="#line_84" value="Passion, l. 85"/><!--  trenta deners dunc li en promesdrent -->
+<feat xlink:href="#line_85" value="Passion, l. 86"/><!--  son bon sennior que lo tradisse -->
+<feat xlink:href="#line_86" value="Passion, l. 87"/><!--  si chera merz ven si petit -->
+<feat xlink:href="#line_87" value="Passion, l. 88"/><!--  hanc non fud hom qui magis l audis -->
+<feat xlink:href="#line_88" value="Passion, l. 89"/><!--  et a cel di que dizen pasches -->
+<feat xlink:href="#line_89" value="Passion, l. 90"/><!--  cum la cena jesus oc faita -->
+<feat xlink:href="#line_90" value="Passion, l. 91"/><!--  el sus leved de l piu manjer -->
+<feat xlink:href="#line_91" value="Passion, l. 92"/><!--  a ssos fedels laved lis ped -->
+<feat xlink:href="#line_92" value="Passion, l. 93"/><!--  et per lo pan et per lo vin -->
+<feat xlink:href="#line_93" value="Passion, l. 94"/><!--  fort saccrament lor commandez -->
+<feat xlink:href="#line_94" value="Passion, l. 95"/><!--  per remembrar sa passiun -->
+<feat xlink:href="#line_95" value="Passion, l. 96"/><!--  que faire rova a trestot -->
+<feat xlink:href="#line_96" value="Passion, l. 97"/><!--  de pan et vin sanctificat -->
+<feat xlink:href="#line_97" value="Passion, l. 98"/><!--  tot sos fidels i saciet -->
+<feat xlink:href="#line_98" value="Passion, l. 99"/><!--  mais que judes escharioh -->
+<feat xlink:href="#line_99" value="Passion, l. 100"/><!--  cui una sopa enflet lo cor -->
+<feat xlink:href="#line_100" value="Passion, l. 101"/><!--  judas cum og manjed la sopa -->
+<feat xlink:href="#line_101" value="Passion, l. 102"/><!--  diable sen enz en sa gola -->
+<feat xlink:href="#line_102" value="Passion, l. 103"/><!--  semper leved de l piu manjer -->
+<feat xlink:href="#line_103" value="Passion, l. 104"/><!--  tot a ls judeus o vai nuncer -->
+<feat xlink:href="#line_104" value="Passion, l. 105"/><!--  jesus lo bons per sa pietad -->
+<feat xlink:href="#line_105" value="Passion, l. 106"/><!--  tan dulcement pres a parler -->
+<feat xlink:href="#line_106" value="Passion, l. 107"/><!--  sobre son peiz fez condurmir -->
+<feat xlink:href="#line_107" value="Passion, l. 108"/><!--  sant johan lo son cher amic -->
+<feat xlink:href="#line_108" value="Passion, l. 109"/><!--  a cel sopar un sermon fez -->
+<feat xlink:href="#line_109" value="Passion, l. 110"/><!--  chi cel non sab tal non audid -->
+<feat xlink:href="#line_110" value="Passion, l. 111"/><!--  contra ls afanz que an a pader -->
+<feat xlink:href="#line_111" value="Passion, l. 112"/><!--  toz sos fidels ben en garnid -->
+<feat xlink:href="#line_112" value="Passion, l. 113"/><!--  alo sanc pedre perchoindad -->
+<feat xlink:href="#line_113" value="Passion, l. 114"/><!--  que cela noit lui neiara -->
+<feat xlink:href="#line_114" value="Passion, l. 115"/><!--  pedres forment s en aduned -->
+<feat xlink:href="#line_115" value="Passion, l. 116"/><!--  per epsa mort no l gurpira -->
+<feat xlink:href="#line_116" value="Passion, l. 117"/><!--  christus jesus den s en leved -->
+<feat xlink:href="#line_117" value="Passion, l. 118"/><!--  gehsesmani vil es n anez -->
+<feat xlink:href="#line_118" value="Passion, l. 119"/><!--  toz sos fidels seder rovet -->
+<feat xlink:href="#line_119" value="Passion, l. 120"/><!--  evan orar sols en anez -->
+<feat xlink:href="#line_120" value="Passion, l. 121"/><!--  granz fu li dols fort marrimenz -->
+<feat xlink:href="#line_121" value="Passion, l. 122"/><!--  si condormirent tuit ades -->
+<feat xlink:href="#line_122" value="Passion, l. 123"/><!--  jesus cum veg los esveled -->
+<feat xlink:href="#line_123" value="Passion, l. 124"/><!--  trestoz orar bien los manded -->
+<feat xlink:href="#line_124" value="Passion, l. 125"/><!--  e dunc orar cum el anned -->
+<feat xlink:href="#line_125" value="Passion, l. 126"/><!--  si fort sudor dunques suded -->
+<feat xlink:href="#line_126" value="Passion, l. 127"/><!--  que cum lo sags a terra curr -->
+<feat xlink:href="#line_127" value="Passion, l. 128"/><!--  de sa sudor las sanctas gutas -->
+<feat xlink:href="#line_128" value="Passion, l. 129"/><!--  a l sos fidels cum repadred -->
+<feat xlink:href="#line_129" value="Passion, l. 130"/><!--  tam benlement los conforted -->
+<feat xlink:href="#line_130" value="Passion, l. 131"/><!--  li fel judeus ja s aproismed -->
+<feat xlink:href="#line_131" value="Passion, l. 132"/><!--  ab gran compannie de ls judeus -->
+<feat xlink:href="#line_132" value="Passion, l. 133"/><!--  jesus cum vidra los judeus -->
+<feat xlink:href="#line_133" value="Passion, l. 134"/><!--  zo lor demandez que querent -->
+<feat xlink:href="#line_134" value="Passion, l. 135"/><!--  il li respondent tuit adun -->
+<feat xlink:href="#line_135" value="Passion, l. 136"/><!--  jesum querem nazarenum -->
+<feat xlink:href="#line_136" value="Passion, l. 137"/><!--  eu soi aquel zo dis jesus -->
+<feat xlink:href="#line_137" value="Passion, l. 138"/><!--  tuit li felun cadegrent jos -->
+<feat xlink:href="#line_138" value="Passion, l. 139"/><!--  terce vez lor o demanded -->
+<feat xlink:href="#line_139" value="Passion, l. 140"/><!--  a totas treis chedent envers -->
+<feat xlink:href="#line_140" value="Passion, l. 141"/><!--  mais li felun tuit trassudad -->
+<feat xlink:href="#line_141" value="Passion, l. 142"/><!--  vers nostre don son aproismad -->
+<feat xlink:href="#line_142" value="Passion, l. 143"/><!--  judas li vel ensenna fei -->
+<feat xlink:href="#line_143" value="Passion, l. 144"/><!--  celui prendet cui bassaerei -->
+<feat xlink:href="#line_144" value="Passion, l. 145"/><!--  judas cum veggra a jesum -->
+<feat xlink:href="#line_145" value="Passion, l. 146"/><!--  semper li tend lo son menton -->
+<feat xlink:href="#line_146" value="Passion, l. 147"/><!--  jesus li bons no l refuded -->
+<feat xlink:href="#line_147" value="Passion, l. 148"/><!--  a l tradetur baisair doned -->
+<feat xlink:href="#line_148" value="Passion, l. 149"/><!--  amicx zo dis jesus lo bons -->
+<feat xlink:href="#line_149" value="Passion, l. 150"/><!--  per que m trades in to baisol -->
+<feat xlink:href="#line_150" value="Passion, l. 151"/><!--  melz ti fura non fusses naz -->
+<feat xlink:href="#line_151" value="Passion, l. 152"/><!--  que me tradas per cobetad -->
+<feat xlink:href="#line_152" value="Passion, l. 153"/><!--  armand esterent evirum -->
+<feat xlink:href="#line_153" value="Passion, l. 154"/><!--  de totas part presdrent jesum -->
+<feat xlink:href="#line_154" value="Passion, l. 155"/><!--  no s defended ne no ssusted -->
+<feat xlink:href="#line_155" value="Passion, l. 156"/><!--  a la mort vai cum uns anel -->
+<feat xlink:href="#line_156" value="Passion, l. 157"/><!--  sanct pedre sols venjiar lo vol -->
+<feat xlink:href="#line_157" value="Passion, l. 158"/><!--  estrais lo fer que a l laz og -->
+<feat xlink:href="#line_158" value="Passion, l. 159"/><!--  si consegued u serv fellon -->
+<feat xlink:href="#line_159" value="Passion, l. 160"/><!--  la destre aurelia li excos -->
+<feat xlink:href="#line_160" value="Passion, l. 161"/><!--  jesus li bons ben red per mal -->
+<feat xlink:href="#line_161" value="Passion, l. 162"/><!--  l aurelia ad serv semper saned -->
+<feat xlink:href="#line_162" value="Passion, l. 163"/><!--  liadens mans cume ladron -->
+<feat xlink:href="#line_163" value="Passion, l. 164"/><!--  si l ent menen a passiun -->
+<feat xlink:href="#line_164" value="Passion, l. 165"/><!--  donc lo en gurpissen sei fedel -->
+<feat xlink:href="#line_165" value="Passion, l. 166"/><!--  cum el desanz diz lor aveia -->
+<feat xlink:href="#line_166" value="Passion, l. 167"/><!--  sanz pedre sols segwen lo vai -->
+<feat xlink:href="#line_167" value="Passion, l. 168"/><!--  quae sua fin veder voldrat -->
+<feat xlink:href="#line_168" value="Passion, l. 169"/><!--  anna nomnavent le judeu -->
+<feat xlink:href="#line_169" value="Passion, l. 170"/><!--  a cui jesus furet menez -->
+<feat xlink:href="#line_170" value="Passion, l. 171"/><!--  donc s adunouent li felon -->
+<feat xlink:href="#line_171" value="Passion, l. 172"/><!--  veder annouent pres jesum -->
+<feat xlink:href="#line_172" value="Passion, l. 173"/><!--  de quant il querent le forsfait -->
+<feat xlink:href="#line_173" value="Passion, l. 174"/><!--  cum il jesum oicisesant -->
+<feat xlink:href="#line_174" value="Passion, l. 175"/><!--  non fud trovez ne envenguz -->
+<feat xlink:href="#line_175" value="Passion, l. 176"/><!--  quar el forsfait non feist neul -->
+<feat xlink:href="#line_176" value="Passion, l. 177"/><!--  davant l ested le pontifex -->
+<feat xlink:href="#line_177" value="Passion, l. 178"/><!--  si conjuret per ipsum deu -->
+<feat xlink:href="#line_178" value="Passion, l. 179"/><!--  que llor dissets per pura fied -->
+<feat xlink:href="#line_179" value="Passion, l. 180"/><!--  si vers jesus fils deu est il -->
+<feat xlink:href="#line_180" value="Passion, l. 181"/><!--  tu eps l as deit respon jesus -->
+<feat xlink:href="#line_181" value="Passion, l. 182"/><!--  tuit li fellon crident adun -->
+<feat xlink:href="#line_182" value="Passion, l. 183"/><!--  major forsfait que i querem -->
+<feat xlink:href="#line_183" value="Passion, l. 184"/><!--  per loi medeps audit l avem -->
+<feat xlink:href="#line_184" value="Passion, l. 185"/><!--  lo sos sans ols duncques cubrirent -->
+<feat xlink:href="#line_185" value="Passion, l. 186"/><!--  a coleiar fellon lo presdent -->
+<feat xlink:href="#line_186" value="Passion, l. 187"/><!--  ensobre tot si l escarnissent -->
+<feat xlink:href="#line_187" value="Passion, l. 188"/><!--  di nos prophete chi t o fedre -->
+<feat xlink:href="#line_188" value="Passion, l. 189"/><!--  fors en las estras estet petre -->
+<feat xlink:href="#line_189" value="Passion, l. 190"/><!--  a l fog l useire l aeswardouet -->
+<feat xlink:href="#line_190" value="Passion, l. 191"/><!--  de sa raison si l esfred -->
+<feat xlink:href="#line_191" value="Passion, l. 192"/><!--  que lo deu fil li fai neier -->
+<feat xlink:href="#line_192" value="Passion, l. 193"/><!--  anz quae la noit lo jalz cantes -->
+<feat xlink:href="#line_193" value="Passion, l. 194"/><!--  terce vez petre lo neiez -->
+<feat xlink:href="#line_194" value="Passion, l. 195"/><!--  jesus li bons lo reswardet -->
+<feat xlink:href="#line_195" value="Passion, l. 196"/><!--  lui recognostre semper fit -->
+<feat xlink:href="#line_196" value="Passion, l. 197"/><!--  petrus d alo fors s en aled -->
+<feat xlink:href="#line_197" value="Passion, l. 198"/><!--  amarament mult se ploret -->
+<feat xlink:href="#line_198" value="Passion, l. 199"/><!--  per cio laissed deus se neier -->
+<feat xlink:href="#line_199" value="Passion, l. 200"/><!--  que de nos aiet pieted -->
+<feat xlink:href="#line_200" value="Passion, l. 201"/><!--  cum le matins fud esclairez -->
+<feat xlink:href="#line_201" value="Passion, l. 202"/><!--  davant pilat l en ant menet -->
+<feat xlink:href="#line_202" value="Passion, l. 203"/><!--  fortment lo vant il acusand -->
+<feat xlink:href="#line_203" value="Passion, l. 204"/><!--  la soa mort mult demandant -->
+<feat xlink:href="#line_204" value="Passion, l. 205"/><!--  pilaz erod l en enviet -->
+<feat xlink:href="#line_205" value="Passion, l. 206"/><!--  cui des abanz voliet mel -->
+<feat xlink:href="#line_206" value="Passion, l. 207"/><!--  de jesu christi passion -->
+<feat xlink:href="#line_207" value="Passion, l. 208"/><!--  am se paierent a ciel jorn -->
+<feat xlink:href="#line_208" value="Passion, l. 209"/><!--  lo fel herodes cum lo vid -->
+<feat xlink:href="#line_209" value="Passion, l. 210"/><!--  mult lez semper en esdevint -->
+<feat xlink:href="#line_210" value="Passion, l. 211"/><!--  de lui long temps mult a audit -->
+<feat xlink:href="#line_211" value="Passion, l. 212"/><!--  semper pensed vertuz feisis -->
+<feat xlink:href="#line_212" value="Passion, l. 213"/><!--  de multes vises l apeled -->
+<feat xlink:href="#line_213" value="Passion, l. 214"/><!--  jesus li bons mot no l soned -->
+<feat xlink:href="#line_214" value="Passion, l. 215"/><!--  judeu l acusent el se tais -->
+<feat xlink:href="#line_215" value="Passion, l. 216"/><!--  ad un respondre non denat -->
+<feat xlink:href="#line_216" value="Passion, l. 217"/><!--  dunc lo despeis e l ecarnit -->
+<feat xlink:href="#line_217" value="Passion, l. 218"/><!--  li fel herodes en cel di -->
+<feat xlink:href="#line_218" value="Passion, l. 219"/><!--  blanc vestiment si l a vestit -->
+<feat xlink:href="#line_219" value="Passion, l. 220"/><!--  fellon pilad lo retrames -->
+<feat xlink:href="#line_220" value="Passion, l. 221"/><!--  pilaz que anz l en vol laisar -->
+<feat xlink:href="#line_221" value="Passion, l. 222"/><!--  no l consentunt fellun judeu -->
+<feat xlink:href="#line_222" value="Passion, l. 223"/><!--  vida perdonent a l ladrun -->
+<feat xlink:href="#line_223" value="Passion, l. 224"/><!--  aucid aucid crident jesum -->
+<feat xlink:href="#line_224" value="Passion, l. 225"/><!--  barrabant perdonent la vide -->
+<feat xlink:href="#line_225" value="Passion, l. 226"/><!--  jesum in alta cruz claufrisdrent -->
+<feat xlink:href="#line_226" value="Passion, l. 227"/><!--  crucifige crucifige -->
+<feat xlink:href="#line_227" value="Passion, l. 228"/><!--  crident pilat trestuit ensems -->
+<feat xlink:href="#line_228" value="Passion, l. 229"/><!--  cum aucidrai eu vostre rei -->
+<feat xlink:href="#line_229" value="Passion, l. 230"/><!--  zo dis pilaz forsfaiz non es -->
+<feat xlink:href="#line_230" value="Passion, l. 231"/><!--  rumpre l farai et flagellar -->
+<feat xlink:href="#line_231" value="Passion, l. 232"/><!--  poisses laisarai l en annar -->
+<feat xlink:href="#line_232" value="Passion, l. 233"/><!--  ensems crident tuit li fellunt -->
+<feat xlink:href="#line_233" value="Passion, l. 234"/><!--  entro en cel en van las voz -->
+<feat xlink:href="#line_234" value="Passion, l. 235"/><!--  si tu laises viure jesum -->
+<feat xlink:href="#line_235" value="Passion, l. 236"/><!--  non es amics l emparador -->
+<feat xlink:href="#line_236" value="Passion, l. 237"/><!--  pilaz sas mans dunques laved -->
+<feat xlink:href="#line_237" value="Passion, l. 238"/><!--  que de sa mort posche s neger -->
+<feat xlink:href="#line_238" value="Passion, l. 239"/><!--  ensems crident tuit li judeu -->
+<feat xlink:href="#line_239" value="Passion, l. 240"/><!--  sobre nos sia toz li pechez -->
+<feat xlink:href="#line_240" value="Passion, l. 241"/><!--  pilaz cum audid tals raisons -->
+<feat xlink:href="#line_241" value="Passion, l. 242"/><!--  ja lor gurpis nostre sennior -->
+<feat xlink:href="#line_242" value="Passion, l. 243"/><!--  donc lo recebent li fellun -->
+<feat xlink:href="#line_243" value="Passion, l. 244"/><!--  fors l en conducent en la cort -->
+<feat xlink:href="#line_244" value="Passion, l. 245"/><!--  de purpure donc lo vestirent -->
+<feat xlink:href="#line_245" value="Passion, l. 246"/><!--  et en sa man un raus li mesdrent -->
+<feat xlink:href="#line_246" value="Passion, l. 247"/><!--  corona prendent de las espines -->
+<feat xlink:href="#line_247" value="Passion, l. 248"/><!--  et en son cab fellun l asisdrent -->
+<feat xlink:href="#line_248" value="Passion, l. 249"/><!--  de davant lui tuit a genolz -->
+<feat xlink:href="#line_249" value="Passion, l. 250"/><!--  si s excrebantent li fellon -->
+<feat xlink:href="#line_250" value="Passion, l. 251"/><!--  dunc lo saludent cum senior -->
+<feat xlink:href="#line_251" value="Passion, l. 252"/><!--  et ad escarn emperador -->
+<feat xlink:href="#line_252" value="Passion, l. 253"/><!--  et cum asez l ont escarnid -->
+<feat xlink:href="#line_253" value="Passion, l. 254"/><!--  dunc li vestent son vestiment -->
+<feat xlink:href="#line_254" value="Passion, l. 255"/><!--  et el medeps si pres sa cruz -->
+<feat xlink:href="#line_255" value="Passion, l. 256"/><!--  avan toz vai a pasiun -->
+<feat xlink:href="#line_256" value="Passion, l. 257"/><!--  femnes lui van detras seguen -->
+<feat xlink:href="#line_257" value="Passion, l. 258"/><!--  ploran lo van et gaimentan -->
+<feat xlink:href="#line_258" value="Passion, l. 259"/><!--  jesus li pius redre garder -->
+<feat xlink:href="#line_259" value="Passion, l. 260"/><!--  ab les femnes pres a parler -->
+<feat xlink:href="#line_260" value="Passion, l. 261"/><!--  audez fillies jerusalem -->
+<feat xlink:href="#line_261" value="Passion, l. 262"/><!--  per me non vos est ob plorer -->
+<feat xlink:href="#line_262" value="Passion, l. 263"/><!--  mais per vos et per vostres filz -->
+<feat xlink:href="#line_263" value="Passion, l. 264"/><!--  plorez assaz qu i obs vos es -->
+<feat xlink:href="#line_264" value="Passion, l. 265"/><!--  cum el perveng a golgota -->
+<feat xlink:href="#line_265" value="Passion, l. 266"/><!--  davan la porta de la ciptat -->
+<feat xlink:href="#line_266" value="Passion, l. 267"/><!--  dunc lor gurpit soe chamisae -->
+<feat xlink:href="#line_267" value="Passion, l. 268"/><!--  chi sens custurae fo faitice -->
+<feat xlink:href="#line_268" value="Passion, l. 269"/><!--  il no l auseren deramar -->
+<feat xlink:href="#line_269" value="Passion, l. 270"/><!--  mais aura sort an gitad -->
+<feat xlink:href="#line_270" value="Passion, l. 271"/><!--  non fut partiz sos vestimenz -->
+<feat xlink:href="#line_271" value="Passion, l. 272"/><!--  zo fu granz signa tot per ver -->
+<feat xlink:href="#line_272" value="Passion, l. 273"/><!--  en huna fet huna vertet -->
+<feat xlink:href="#line_273" value="Passion, l. 274"/><!--  tuit soi fidel devent ester -->
+<feat xlink:href="#line_274" value="Passion, l. 275"/><!--  lo sos regnaz non es devis -->
+<feat xlink:href="#line_275" value="Passion, l. 276"/><!--  en caritad toz es uniz -->
+<feat xlink:href="#line_276" value="Passion, l. 277"/><!--  e de ls feluns qu eu vos dis anz -->
+<feat xlink:href="#line_277" value="Passion, l. 278"/><!--  lai dei venir o eu laisei -->
+<feat xlink:href="#line_278" value="Passion, l. 279"/><!--  quar il lo fel mesclen ab vin -->
+<feat xlink:href="#line_279" value="Passion, l. 280"/><!--  nostrae senior lo tenden il -->
+<feat xlink:href="#line_280" value="Passion, l. 281"/><!--  cum l an levad sus en la cruz -->
+<feat xlink:href="#line_281" value="Passion, l. 282"/><!--  dos a sos laz penden lasruns -->
+<feat xlink:href="#line_282" value="Passion, l. 283"/><!--  entre cels dos pendent jesum -->
+<feat xlink:href="#line_283" value="Passion, l. 284"/><!--  il per escarn o fan trestot -->
+<feat xlink:href="#line_284" value="Passion, l. 285"/><!--  cum il l an mes sus en la cruz -->
+<feat xlink:href="#line_285" value="Passion, l. 286"/><!--  gran fan escarn gran cridaizun -->
+<feat xlink:href="#line_286" value="Passion, l. 287"/><!--  ensobre toz uns de ls ladruns -->
+<feat xlink:href="#line_287" value="Passion, l. 288"/><!--  el escarnie rei jesum -->
+<feat xlink:href="#line_288" value="Passion, l. 289"/><!--  respondet l altre mal i diz -->
+<feat xlink:href="#line_289" value="Passion, l. 290"/><!--  el mor a tort ren non forsfez -->
+<feat xlink:href="#line_290" value="Passion, l. 291"/><!--  mais nos a dreit per colpas granz -->
+<feat xlink:href="#line_291" value="Passion, l. 292"/><!--  esmes oidi en cest ahanz -->
+<feat xlink:href="#line_292" value="Passion, l. 293"/><!--  envers jesum sos olz torned -->
+<feat xlink:href="#line_293" value="Passion, l. 294"/><!--  si piament lui appelled -->
+<feat xlink:href="#line_294" value="Passion, l. 295"/><!--  de me t membres per ta mercet -->
+<feat xlink:href="#line_295" value="Passion, l. 296"/><!--  cu tu vendras crist en ton ren -->
+<feat xlink:href="#line_296" value="Passion, l. 297"/><!--  respon li bons qui non mentid -->
+<feat xlink:href="#line_297" value="Passion, l. 298"/><!--  chi en epsa mort semper fu pius -->
+<feat xlink:href="#line_298" value="Passion, l. 299"/><!--  eu t o promet oi en cest di -->
+<feat xlink:href="#line_299" value="Passion, l. 300"/><!--  ab me venras in paradis -->
+<feat xlink:href="#line_300" value="Passion, l. 301"/><!--  o deus vers rex jesu crist -->
+<feat xlink:href="#line_301" value="Passion, l. 302"/><!--  ci tal don fais per ta mercet -->
+<feat xlink:href="#line_302" value="Passion, l. 303"/><!--  chi per huna confession -->
+<feat xlink:href="#line_303" value="Passion, l. 304"/><!--  vide perdones a l ladrun -->
+<feat xlink:href="#line_304" value="Passion, l. 305"/><!--  nos te laudam et noit e di -->
+<feat xlink:href="#line_305" value="Passion, l. 306"/><!--  de nos aies vera mercet -->
+<feat xlink:href="#line_306" value="Passion, l. 307"/><!--  tu nos perdone celz pecaz -->
+<feat xlink:href="#line_307" value="Passion, l. 308"/><!--  qu e nos vetdest tua pietad -->
+<feat xlink:href="#line_308" value="Passion, l. 309"/><!--  jusque nona des lo meidi -->
+<feat xlink:href="#line_309" value="Passion, l. 310"/><!--  trestot cest mund granz noiz cubrid -->
+<feat xlink:href="#line_310" value="Passion, l. 311"/><!--  fui lo solelz et fui la luna -->
+<feat xlink:href="#line_311" value="Passion, l. 312"/><!--  post que deus filz suspensus fure -->
+<feat xlink:href="#line_312" value="Passion, l. 313"/><!--  ad epsa nona cum perveng -->
+<feat xlink:href="#line_313" value="Passion, l. 314"/><!--  dunc escrided jesus granz criz -->
+<feat xlink:href="#line_314" value="Passion, l. 315"/><!--  hebraice fortment lo dis -->
+<feat xlink:href="#line_315" value="Passion, l. 316"/><!--  heli heli per que m gulpist -->
+<feat xlink:href="#line_316" value="Passion, l. 317"/><!--  uns de l felluns chi sta iki -->
+<feat xlink:href="#line_317" value="Passion, l. 318"/><!--  sus en la cruz li ten l azet -->
+<feat xlink:href="#line_318" value="Passion, l. 319"/><!--  jesus fortmen dunc recridet -->
+<feat xlink:href="#line_319" value="Passion, l. 320"/><!--  le spiritus de lui anet -->
+<feat xlink:href="#line_320" value="Passion, l. 321"/><!--  cum de jesu l anma n anet -->
+<feat xlink:href="#line_321" value="Passion, l. 322"/><!--  tan durament terra crollet -->
+<feat xlink:href="#line_322" value="Passion, l. 323"/><!--  roches fendient chedent munt -->
+<feat xlink:href="#line_323" value="Passion, l. 324"/><!--  sepulcra sanz obrirent mult -->
+<feat xlink:href="#line_324" value="Passion, l. 325"/><!--  et mult corps sanz en sun exit -->
+<feat xlink:href="#line_325" value="Passion, l. 326"/><!--  et inter omns sunt vedud -->
+<feat xlink:href="#line_326" value="Passion, l. 327"/><!--  qui in templum dei cortine pend -->
+<feat xlink:href="#line_327" value="Passion, l. 328"/><!--  jusche la terra per mei fend -->
+<feat xlink:href="#line_328" value="Passion, l. 329"/><!--  de laz la croz estet mariae -->
+<feat xlink:href="#line_329" value="Passion, l. 330"/><!--  de cui jesus vera carn presdre -->
+<feat xlink:href="#line_330" value="Passion, l. 331"/><!--  cum cela carn vidra murir -->
+<feat xlink:href="#line_331" value="Passion, l. 332"/><!--  qual agre dol no l sab om vius -->
+<feat xlink:href="#line_332" value="Passion, l. 333"/><!--  ela molt ben sab remembrar -->
+<feat xlink:href="#line_333" value="Passion, l. 334"/><!--  de soa carn cum deus fu naz -->
+<feat xlink:href="#line_334" value="Passion, l. 335"/><!--  ja l vedes ela si morir -->
+<feat xlink:href="#line_335" value="Passion, l. 336"/><!--  el resurdra cho sab per ver -->
+<feat xlink:href="#line_336" value="Passion, l. 337"/><!--  mais nempero granz fu li dols -->
+<feat xlink:href="#line_337" value="Passion, l. 338"/><!--  chi traverset per lo son cor -->
+<feat xlink:href="#line_338" value="Passion, l. 339"/><!--  nulz om mortalz no l pod penser -->
+<feat xlink:href="#line_339" value="Passion, l. 340"/><!--  sanz symeonz lo i percogded -->
+<feat xlink:href="#line_340" value="Passion, l. 341"/><!--  joseps pilat mult a preiat -->
+<feat xlink:href="#line_341" value="Passion, l. 342"/><!--  lo corps jesu qu el li dones -->
+<feat xlink:href="#line_342" value="Passion, l. 343"/><!--  a grand honor el l en portet -->
+<feat xlink:href="#line_343" value="Passion, l. 344"/><!--  en sos chamsils l envolopet -->
+<feat xlink:href="#line_344" value="Passion, l. 345"/><!--  nicodemus de ll altra part -->
+<feat xlink:href="#line_345" value="Passion, l. 346"/><!--  mult unguement hi aportet -->
+<feat xlink:href="#line_346" value="Passion, l. 347"/><!--  enter mirra et aloen -->
+<feat xlink:href="#line_347" value="Passion, l. 348"/><!--  quasi cent liuras a doned -->
+<feat xlink:href="#line_348" value="Passion, l. 349"/><!--  a grand honor de ces pimenc -->
+<feat xlink:href="#line_349" value="Passion, l. 350"/><!--  l aromatizen cuschement -->
+<feat xlink:href="#line_350" value="Passion, l. 351"/><!--  dunc lo pausen e l monument -->
+<feat xlink:href="#line_351" value="Passion, l. 352"/><!--  o corps non jag anc a cel temps -->
+<feat xlink:href="#line_352" value="Passion, l. 353"/><!--  la soa madre virgo fu -->
+<feat xlink:href="#line_353" value="Passion, l. 354"/><!--  et sen peched si portet lui -->
+<feat xlink:href="#line_354" value="Passion, l. 355"/><!--  sos munument fure toz nous -->
+<feat xlink:href="#line_355" value="Passion, l. 356"/><!--  anz lui no i jag unque nulz om -->
+<feat xlink:href="#line_356" value="Passion, l. 357"/><!--  non fud assaz anc a ls felluns -->
+<feat xlink:href="#line_357" value="Passion, l. 358"/><!--  davant pilat trestuit en van -->
+<feat xlink:href="#line_358" value="Passion, l. 359"/><!--  nos te praeiam per ta mercet -->
+<feat xlink:href="#line_359" value="Passion, l. 360"/><!--  gardes i met non sia emblez -->
+<feat xlink:href="#line_360" value="Passion, l. 361"/><!--  quar el zo dis que resurdra -->
+<feat xlink:href="#line_361" value="Passion, l. 362"/><!--  et a l terz di vius pareistra -->
+<feat xlink:href="#line_362" value="Passion, l. 363"/><!--  emblar l auran li soi fidel -->
+<feat xlink:href="#line_363" value="Passion, l. 364"/><!--  a toz diran que revisquet -->
+<feat xlink:href="#line_364" value="Passion, l. 365"/><!--  granz en avem agud errors -->
+<feat xlink:href="#line_365" value="Passion, l. 366"/><!--  or en aurem pece majors -->
+<feat xlink:href="#line_366" value="Passion, l. 367"/><!--  armaz vassalz dunc lor liuret -->
+<feat xlink:href="#line_367" value="Passion, l. 368"/><!--  lo monument lor comandet -->
+<feat xlink:href="#line_368" value="Passion, l. 369"/><!--  christus jesus qui deus es vers -->
+<feat xlink:href="#line_369" value="Passion, l. 370"/><!--  qui semper fu et semper es -->
+<feat xlink:href="#line_370" value="Passion, l. 371"/><!--  ja fos la charns de lui aucise -->
+<feat xlink:href="#line_371" value="Passion, l. 372"/><!--  regnet pero cum anz se feira -->
+<feat xlink:href="#line_372" value="Passion, l. 373"/><!--  qua e l enfern dunc asalit -->
+<feat xlink:href="#line_373" value="Passion, l. 374"/><!--  fort satanan alo venquet -->
+<feat xlink:href="#line_374" value="Passion, l. 375"/><!--  per soa mort si l a vencut -->
+<feat xlink:href="#line_375" value="Passion, l. 376"/><!--  que contra omne non a vertud -->
+<feat xlink:href="#line_376" value="Passion, l. 377"/><!--  etqui era li om primers -->
+<feat xlink:href="#line_377" value="Passion, l. 378"/><!--  e l soi ensfant per son pecchiad -->
+<feat xlink:href="#line_378" value="Passion, l. 379"/><!--  e li petit e li gran -->
+<feat xlink:href="#line_379" value="Passion, l. 380"/><!--  etqui estevent per mulz anz -->
+<feat xlink:href="#line_380" value="Passion, l. 381"/><!--  quar anc non fo nul om carnals -->
+<feat xlink:href="#line_381" value="Passion, l. 382"/><!--  en cel enfern non fos anaz -->
+<feat xlink:href="#line_382" value="Passion, l. 383"/><!--  usque vengues qui sens pecat -->
+<feat xlink:href="#line_383" value="Passion, l. 384"/><!--  per toz solses comuna lei -->
+<feat xlink:href="#line_384" value="Passion, l. 385"/><!--  argent ne aur non i donet -->
+<feat xlink:href="#line_385" value="Passion, l. 386"/><!--  mas que son sang et soa carn -->
+<feat xlink:href="#line_386" value="Passion, l. 387"/><!--  d eg cel enfern toz los liudret -->
+<feat xlink:href="#line_387" value="Passion, l. 388"/><!--  en paradis los arberget -->
+<feat xlink:href="#line_388" value="Passion, l. 389"/><!--  et a l terz di lo mattin clar -->
+<feat xlink:href="#line_389" value="Passion, l. 390"/><!--  cum soleilz fo esclairaz -->
+<feat xlink:href="#line_390" value="Passion, l. 391"/><!--  tres femnes van a l monument -->
+<feat xlink:href="#line_391" value="Passion, l. 392"/><!--  molt cars portavent unguemenz -->
+<feat xlink:href="#line_392" value="Passion, l. 393"/><!--  l angeles deu de cel dessend -->
+<feat xlink:href="#line_393" value="Passion, l. 394"/><!--  si s aproismet a l monument -->
+<feat xlink:href="#line_394" value="Passion, l. 395"/><!--  tal a regard cum focs ardenz -->
+<feat xlink:href="#line_395" value="Passion, l. 396"/><!--  et cum la neus blanc vestimenz -->
+<feat xlink:href="#line_396" value="Passion, l. 397"/><!--  en pas que l vidren les custodes -->
+<feat xlink:href="#line_397" value="Passion, l. 398"/><!--  si s espauriren de pavor -->
+<feat xlink:href="#line_398" value="Passion, l. 399"/><!--  que quaisses morz a terra vengren -->
+<feat xlink:href="#line_399" value="Passion, l. 400"/><!--  de gran pavor que sobl el vengre -->
+<feat xlink:href="#line_400" value="Passion, l. 401"/><!--  sus en la peddre l angel set -->
+<feat xlink:href="#line_401" value="Passion, l. 402"/><!--  si parlet a las femnes dis -->
+<feat xlink:href="#line_402" value="Passion, l. 403"/><!--  no s neient ci per que crement -->
+<feat xlink:href="#line_403" value="Passion, l. 404"/><!--  que jesum christ ben requeret -->
+<feat xlink:href="#line_404" value="Passion, l. 405"/><!--  anaz en es et non es ci -->
+<feat xlink:href="#line_405" value="Passion, l. 406"/><!--  tot a complit quun que vos dis -->
+<feat xlink:href="#line_406" value="Passion, l. 407"/><!--  venez veder lo loc voiant -->
+<feat xlink:href="#line_407" value="Passion, l. 408"/><!--  o li sos corps jac des abanz -->
+<feat xlink:href="#line_408" value="Passion, l. 409"/><!--  a sos fidel tot annuncaz -->
+<feat xlink:href="#line_409" value="Passion, l. 410"/><!--  mas vos petdrun no i oblidez -->
+<feat xlink:href="#line_410" value="Passion, l. 411"/><!--  en galilea avant en vai -->
+<feat xlink:href="#line_411" value="Passion, l. 412"/><!--  allo l vetran o dit lor ad -->
+<feat xlink:href="#line_412" value="Passion, l. 413"/><!--  elles d equi cum sunt tornades -->
+<feat xlink:href="#line_413" value="Passion, l. 414"/><!--  jesus las a senpr encontradas -->
+<feat xlink:href="#line_414" value="Passion, l. 415"/><!--  dunc reconnossent lo senior -->
+<feat xlink:href="#line_415" value="Passion, l. 416"/><!--  si l adorent cum redemptor -->
+<feat xlink:href="#line_416" value="Passion, l. 417"/><!--  lo nostrae seindrae en eps cel di -->
+<feat xlink:href="#line_417" value="Passion, l. 418"/><!--  veduz furae veiades cinc -->
+<feat xlink:href="#line_418" value="Passion, l. 419"/><!--  primera l vit sancta mariae -->
+<feat xlink:href="#line_419" value="Passion, l. 420"/><!--  de cui sep diables forsmedre -->
+<feat xlink:href="#line_420" value="Passion, l. 421"/><!--  empres lo vidren celles duaes -->
+<feat xlink:href="#line_421" value="Passion, l. 422"/><!--  de l munument cum se retornent -->
+<feat xlink:href="#line_422" value="Passion, l. 423"/><!--  petdres lo vit en eps cel di -->
+<feat xlink:href="#line_423" value="Passion, l. 424"/><!--  ab lui parlet si l conjaudit -->
+<feat xlink:href="#line_424" value="Passion, l. 425"/><!--  envers lo vesprae envers lo ser -->
+<feat xlink:href="#line_425" value="Passion, l. 426"/><!--  dunc lo revidren soi fidel -->
+<feat xlink:href="#line_426" value="Passion, l. 427"/><!--  castel emaus ab elz entret -->
+<feat xlink:href="#line_427" value="Passion, l. 428"/><!--  ab el ensemble si sopet -->
+<feat xlink:href="#line_428" value="Passion, l. 429"/><!--  ja s adunent li soi fidel -->
+<feat xlink:href="#line_429" value="Passion, l. 430"/><!--  ja dicen tuit que vius era -->
+<feat xlink:href="#line_430" value="Passion, l. 431"/><!--  cum il menaven tal raizon -->
+<feat xlink:href="#line_431" value="Passion, l. 432"/><!--  jesus estet en me ttrestoz -->
+<feat xlink:href="#line_432" value="Passion, l. 433"/><!--  pax vobis sit dis a trestoz -->
+<feat xlink:href="#line_433" value="Passion, l. 434"/><!--  eu soi jesus qui passus soi -->
+<feat xlink:href="#line_434" value="Passion, l. 435"/><!--  vedez mas mans vedez mos peds -->
+<feat xlink:href="#line_435" value="Passion, l. 436"/><!--  vedez mo laz qu i fui plagas -->
+<feat xlink:href="#line_436" value="Passion, l. 437"/><!--  fortment sun il espaventet -->
+<feat xlink:href="#line_437" value="Passion, l. 438"/><!--  il li non credent que aia carn -->
+<feat xlink:href="#line_438" value="Passion, l. 439"/><!--  zo pensent il que enter el -->
+<feat xlink:href="#line_439" value="Passion, l. 440"/><!--  le spiritus aparegues -->
+<feat xlink:href="#line_440" value="Passion, l. 441"/><!--  mel e peisons equi manget -->
+<feat xlink:href="#line_441" value="Passion, l. 442"/><!--  en veritad los confirmet -->
+<feat xlink:href="#line_442" value="Passion, l. 443"/><!--  sa passion peisons tostaz -->
+<feat xlink:href="#line_443" value="Passion, l. 444"/><!--  lo mels signa deitat -->
+<feat xlink:href="#line_444" value="Passion, l. 445"/><!--  alques vos ai deit de raizon -->
+<feat xlink:href="#line_445" value="Passion, l. 446"/><!--  que jesus fez pos passion -->
+<feat xlink:href="#line_446" value="Passion, l. 447"/><!--  tot no l vos posc eu ben comptar -->
+<feat xlink:href="#line_447" value="Passion, l. 448"/><!--  no l pod nul om de madre naz -->
+<feat xlink:href="#line_448" value="Passion, l. 449"/><!--  a sos fidel quaranta dis -->
+<feat xlink:href="#line_449" value="Passion, l. 450"/><!--  per mulz semblanz -->
+<feat xlink:href="#line_450" value="Passion, l. 451"/><!--  emsembl ab elz bec e manjed -->
+<feat xlink:href="#line_451" value="Passion, l. 452"/><!--  de regnum deu semper parlet -->
+<feat xlink:href="#line_452" value="Passion, l. 453"/><!--  e per es mund roa l allar -->
+<feat xlink:href="#line_453" value="Passion, l. 454"/><!--  toz babzizar in trinitad -->
+<feat xlink:href="#line_454" value="Passion, l. 455"/><!--  qui lui credran cil erent salv -->
+<feat xlink:href="#line_455" value="Passion, l. 456"/><!--  qui no l cretran seran damnat -->
+<feat xlink:href="#line_456" value="Passion, l. 457"/><!--  signes faran li soi fidel -->
+<feat xlink:href="#line_457" value="Passion, l. 458"/><!--  quals el abanz faire soliae -->
+<feat xlink:href="#line_458" value="Passion, l. 459"/><!--  lingues noves il parlaran -->
+<feat xlink:href="#line_459" value="Passion, l. 460"/><!--  et diables encalceran -->
+<feat xlink:href="#line_460" value="Passion, l. 461"/><!--  si alcuns d els beven veren -->
+<feat xlink:href="#line_461" value="Passion, l. 462"/><!--  non aura mal zo sab per ver -->
+<feat xlink:href="#line_462" value="Passion, l. 463"/><!--  sobrae malabdes mans metran -->
+<feat xlink:href="#line_463" value="Passion, l. 464"/><!--  et sanitad a toz rendran -->
+<feat xlink:href="#line_464" value="Passion, l. 465"/><!--  sus en u mont donches montet -->
+<feat xlink:href="#line_465" value="Passion, l. 466"/><!--  que holivet numnat vos ai -->
+<feat xlink:href="#line_466" value="Passion, l. 467"/><!--  levet sa man si l benedis -->
+<feat xlink:href="#line_467" value="Passion, l. 468"/><!--  vengre la nuvols si l collit -->
+<feat xlink:href="#line_468" value="Passion, l. 469"/><!--  e lor vedent montet en cel -->
+<feat xlink:href="#line_469" value="Passion, l. 470"/><!--  ad dextris deu jesus es set -->
+<feat xlink:href="#line_470" value="Passion, l. 471"/><!--  qui venra toz judicar -->
+<feat xlink:href="#line_471" value="Passion, l. 472"/><!--  a toz rendra e ben e mal -->
+<feat xlink:href="#line_472" value="Passion, l. 473"/><!--  li soi fidel en son tornat -->
+<feat xlink:href="#line_473" value="Passion, l. 474"/><!--  a l dezen jorn ja cum perveng -->
+<feat xlink:href="#line_474" value="Passion, l. 475"/><!--  spiritus sanctus sobr elz chad -->
+<feat xlink:href="#line_475" value="Passion, l. 475a"/><!--  d eg lo di dicent pentecostem -->
+<feat xlink:href="#line_476" value="Passion, l. 476"/><!--  si ls enflamet cum fugs ardenz -->
+<feat xlink:href="#line_477" value="Passion, l. 477"/><!--  il des abanz sunt aserad -->
+<feat xlink:href="#line_478" value="Passion, l. 478"/><!--  de crist non sabent mot parlar -->
+<feat xlink:href="#line_479" value="Passion, l. 479"/><!--  en pas che veng vertuz de cel -->
+<feat xlink:href="#line_480" value="Passion, l. 480"/><!--  il non dobten negun judeu -->
+<feat xlink:href="#line_481" value="Passion, l. 481"/><!--  per toz lengatges van parlan -->
+<feat xlink:href="#line_482" value="Passion, l. 482"/><!--  las virtuz crist van annuncian -->
+<feat xlink:href="#line_483" value="Passion, l. 483"/><!--  no lor pod om vius contrastar -->
+<feat xlink:href="#line_484" value="Passion, l. 484"/><!--  signes fazen per podestad -->
+<feat xlink:href="#line_485" value="Passion, l. 485"/><!--  spandut sunt per tot ces mund -->
+<feat xlink:href="#line_486" value="Passion, l. 486"/><!--  regnum dei nuncent per tot -->
+<feat xlink:href="#line_487" value="Passion, l. 487"/><!--  convertent gent et popu -->
+<feat xlink:href="#line_488" value="Passion, l. 488"/><!--  christus jesus per tot ab elz -->
+<feat xlink:href="#line_489" value="Passion, l. 489"/><!--  lo satanas dol en a grand -->
+<feat xlink:href="#line_490" value="Passion, l. 490"/><!--  a ls deu fidels fai durs afanz -->
+<feat xlink:href="#line_491" value="Passion, l. 491"/><!--  alcanz en cruz fai los levar -->
+<feat xlink:href="#line_492" value="Passion, l. 492"/><!--  alquanz d espades degollar -->
+<feat xlink:href="#line_493" value="Passion, l. 493"/><!--  e llos alquanz fai escorter -->
+<feat xlink:href="#line_494" value="Passion, l. 494"/><!--  alquanz en fog vius trebucher -->
+<feat xlink:href="#line_495" value="Passion, l. 495"/><!--  et en gradilie ls fai toster -->
+<feat xlink:href="#line_496" value="Passion, l. 496"/><!--  alquanz a ppetdres lapider -->
+<feat xlink:href="#line_497" value="Passion, l. 497"/><!--  lui que aiude nu ls vencera -->
+<feat xlink:href="#line_498" value="Passion, l. 498"/><!--  cum peis lor fai il creisent mais -->
+<feat xlink:href="#line_499" value="Passion, l. 499"/><!--  lo cap a crist esvegurad -->
+<feat xlink:href="#line_500" value="Passion, l. 500"/><!--  per tot es mund es adhoraz -->
+<feat xlink:href="#line_501" value="Passion, l. 501"/><!--  nos cestes pugnes non avem -->
+<feat xlink:href="#line_502" value="Passion, l. 502"/><!--  contra nos eps pugnar devem -->
+<feat xlink:href="#line_503" value="Passion, l. 503"/><!--  fraindre devem nostrae voluntaz -->
+<feat xlink:href="#line_504" value="Passion, l. 504"/><!--  que part aiam ab nos deu fidels -->
+<feat xlink:href="#line_505" value="Passion, l. 505"/><!--  quar finimunz non es mult lon -->
+<feat xlink:href="#line_506" value="Passion, l. 506"/><!--  et regnum deu fortment es prob -->
+<feat xlink:href="#line_507" value="Passion, l. 507"/><!--  drontre nos lez facam lo ben -->
+<feat xlink:href="#line_508" value="Passion, l. 508"/><!--  gurpissem mund et som peccad -->
+<feat xlink:href="#line_509" value="Passion, l. 509"/><!--  christus jesus qui man ensus -->
+<feat xlink:href="#line_510" value="Passion, l. 510"/><!--  mercet aias de pechedors -->
+<feat xlink:href="#line_511" value="Passion, l. 511"/><!--  en tals raizons si a mmespraes -->
+<feat xlink:href="#line_512" value="Passion, l. 512"/><!--  per ta pitad lo m perdones -->
+<feat xlink:href="#line_513" value="Passion, l. 513"/><!--  te posche retdrae graciae -->
+<feat xlink:href="#line_514" value="Passion, l. 514"/><!--  davant to paire gloriae -->
+<feat xlink:href="#line_515" value="Passion, l. 515"/><!--  sanz spiritum posche laudar -->
+<feat xlink:href="#line_516" value="Passion, l. 516"/><!--  et nunc per tot in secula -->
+</featList>
+</paula>

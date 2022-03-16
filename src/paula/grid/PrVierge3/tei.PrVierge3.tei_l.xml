@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.PrVierge3_tei_l"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr.PrVierge3.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_l" xml:base="ogr040.PrVierge3.tok.xml">
 <mark id="tei_l_0" xlink:href="#xpointer(id('tok_17')/range-to(id('tok_30')))"/><!-- o maria deu maire  -->
 <mark id="tei_l_1" xlink:href="#xpointer(id('tok_31')/range-to(id('tok_47')))"/><!-- deu t es e fils e paire  -->
 <mark id="tei_l_2" xlink:href="#xpointer(id('tok_48')/range-to(id('tok_63')))"/><!-- domna preia per nos  -->

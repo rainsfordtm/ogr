@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.SGregPaint_tei_s"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_s" xml:base="ogr.SGregPaint.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_s" xml:base="ogr040.SGregPaint.tok.xml">
 <mark id="tei_s_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_77')))"/><!-- este vus le respuns saint gregorie a secundin le reclus cum il demandout raison de s paintures  -->
 <mark id="tei_s_1" xlink:href="#xpointer(id('tok_78')/range-to(id('tok_168')))"/><!-- altra cose est aurier la painture e altra cose est par le historie de la painture aprendre que la cose seit ad aurier  -->
 <mark id="tei_s_2" xlink:href="#xpointer(id('tok_169')/range-to(id('tok_235')))"/><!-- kar ico que la scripture aprestet a s lisanz ico aprestet la painture a s ignoranz  -->
