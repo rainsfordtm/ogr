@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_multiFeat.dtd">
-<paula version="1.0">
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
 <multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.Boeci.anno.xml">
 <multiFeat xlink:href="#anno_0">
 <feat name="text" value="Boeci"/>
-</multiFeat>
+<feat name="lang" value="pro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="11..12"/><feat name="ms_origin" value="Burgundy"/><feat name="text_cent" value="11"/><feat name="text_origin" value="Limousin"/><feat name="title_en" value="Boeci fragment"/><feat name="title_fr" value="Fragment d'une paraphrase de Boèce"/><feat name="author" value="anonymous"/><feat name="ms" value="Orleans, Bibliothèque municipale, 444"/><feat name="form" value="verse"/><feat name="source" value="ms. image"/></multiFeat>
 </multiFeatList>
 </paula>

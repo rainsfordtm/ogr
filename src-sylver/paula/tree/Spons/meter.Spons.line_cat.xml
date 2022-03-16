@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="meter.Spons_line_cat"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.Spons.meter.xml">
+<feat xlink:href="#line_0" value="line"/><!--  sponsus -->
+<feat xlink:href="#line_1" value="line"/><!--  adest sponsus qui est christus vigilate virgines -->
+<feat xlink:href="#line_2" value="line"/><!--  pro adventu cuius gaudent et gaudebunt homines -->
+<feat xlink:href="#line_3" value="line"/><!--  venit enim liberare gentium origines -->
+<feat xlink:href="#line_4" value="line"/><!--  quas per primam sibi matrem subiugarunt demones -->
+<feat xlink:href="#line_5" value="line"/><!--  hic est adam qui secundus per propheta dicitur -->
+<feat xlink:href="#line_6" value="line"/><!--  per quem scelus primi ade a nobis diluitur -->
+<feat xlink:href="#line_7" value="line"/><!--  hic pependit ut celesti patrie nos redderet -->
+<feat xlink:href="#line_8" value="line"/><!--  ac de parte inimici liberos nos traheret -->
+<feat xlink:href="#line_9" value="line"/><!--  venit sponsus qui nostrorum scelerum piacula -->
+<feat xlink:href="#line_10" value="line"/><!--  morte lavit atque crucis sustulit patibula -->
+<feat xlink:href="#line_11" value="line"/><!--  prudentes -->
+<feat xlink:href="#line_12" value="line"/><!--  oiet virgines aiso que vos dirum -->
+<feat xlink:href="#line_13" value="line"/><!--  aisex presen que vos comandarum -->
+<feat xlink:href="#line_14" value="line"/><!--  atendet un espos jhesu salvaire a nom -->
+<feat xlink:href="#line_15" value="line"/><!--  gaire no i dormet -->
+<feat xlink:href="#line_16" value="line"/><!--  aisel espos que vos hor atendet -->
+<feat xlink:href="#line_17" value="line"/><!--  venit en terra per los vostres pechet -->
+<feat xlink:href="#line_18" value="line"/><!--  de la virgine en betleem fo net -->
+<feat xlink:href="#line_19" value="line"/><!--  e flum jorda lavet e bateet -->
+<feat xlink:href="#line_20" value="line"/><!--  gaire -->
+<feat xlink:href="#line_21" value="line"/><!--  eu fo batut gablet e laidenjet -->
+<feat xlink:href="#line_22" value="line"/><!--  sus e la crot batut e claufiget -->
+<feat xlink:href="#line_23" value="line"/><!--  e u monument desoentre pauset -->
+<feat xlink:href="#line_24" value="line"/><!--  gaire -->
+<feat xlink:href="#line_25" value="line"/><!--  e resors es la scriptura o dii -->
+<feat xlink:href="#line_26" value="line"/><!--  gabriels soi eu trames aici -->
+<feat xlink:href="#line_27" value="line"/><!--  atendet lo que ja venra praici -->
+<feat xlink:href="#line_28" value="line"/><!--  gaire -->
+<feat xlink:href="#line_29" value="line"/><!--  fatue -->
+<feat xlink:href="#line_30" value="line"/><!--  nos virgines que ad vos venimus -->
+<feat xlink:href="#line_31" value="line"/><!--  negligenter oleum fudimus -->
+<feat xlink:href="#line_32" value="line"/><!--  ad vos orare sorores cupimus -->
+<feat xlink:href="#line_33" value="line"/><!--  ut et illas quibus nos credimus -->
+<feat xlink:href="#line_34" value="line"/><!--  dolentas chaitivas trop i avem dormit -->
+<feat xlink:href="#line_35" value="line"/><!--  nos comites huius itineris -->
+<feat xlink:href="#line_36" value="line"/><!--  et sorores eiusdem generis -->
+<feat xlink:href="#line_37" value="line"/><!--  quamvis male contigit miseris -->
+<feat xlink:href="#line_38" value="line"/><!--  potestis nos reddere superis -->
+<feat xlink:href="#line_39" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_40" value="line"/><!--  partimini lumen lampadibus -->
+<feat xlink:href="#line_41" value="line"/><!--  pie sitis insipientibus -->
+<feat xlink:href="#line_42" value="line"/><!--  pulse ne nos simus a foribus -->
+<feat xlink:href="#line_43" value="line"/><!--  cum vos sponsus vocet in sedibus -->
+<feat xlink:href="#line_44" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_45" value="line"/><!--  prudentes -->
+<feat xlink:href="#line_46" value="line"/><!--  nos precari precamur amplius -->
+<feat xlink:href="#line_47" value="line"/><!--  desinite sorores otius -->
+<feat xlink:href="#line_48" value="line"/><!--  vobis enim nil erit melius -->
+<feat xlink:href="#line_49" value="line"/><!--  dare preces pro hoc ulterius -->
+<feat xlink:href="#line_50" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_51" value="line"/><!--  ac ite nunc ite celeriter -->
+<feat xlink:href="#line_52" value="line"/><!--  ac vendentes rogate dulciter -->
+<feat xlink:href="#line_53" value="line"/><!--  ut oleum vestris lampadibus -->
+<feat xlink:href="#line_54" value="line"/><!--  dent equidem vobis inertibus -->
+<feat xlink:href="#line_55" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_56" value="line"/><!--  a misere nos hic quid facimus -->
+<feat xlink:href="#line_57" value="line"/><!--  vigilare numquid potuimus -->
+<feat xlink:href="#line_58" value="line"/><!--  hunc laborem que nunc perferimus -->
+<feat xlink:href="#line_59" value="line"/><!--  nobis nosmed contulimus -->
+<feat xlink:href="#line_60" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_61" value="line"/><!--  et de nobis mercator otius -->
+<feat xlink:href="#line_62" value="line"/><!--  quas habeat merces quas sotius -->
+<feat xlink:href="#line_63" value="line"/><!--  oleum nunc querere venimus -->
+<feat xlink:href="#line_64" value="line"/><!--  negligenter quod nosme fudimus -->
+<feat xlink:href="#line_65" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_66" value="line"/><!--  de nostr oli queret nos a doner -->
+<feat xlink:href="#line_67" value="line"/><!--  no n auret pont alet en achapter -->
+<feat xlink:href="#line_68" value="line"/><!--  de us merchaans que lai veet ester -->
+<feat xlink:href="#line_69" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_70" value="line"/><!--  mercatores -->
+<feat xlink:href="#line_71" value="line"/><!--  domnas gentils no vos covent ester -->
+<feat xlink:href="#line_72" value="line"/><!--  ni lojamen aici a demorer -->
+<feat xlink:href="#line_73" value="line"/><!--  cosel queret no u vos poem doner -->
+<feat xlink:href="#line_74" value="line"/><!--  queret lo deu chi vos pot coseler -->
+<feat xlink:href="#line_75" value="line"/><!--  alet areir a vostras sinc seros -->
+<feat xlink:href="#line_76" value="line"/><!--  e preiat las per deu lo glorios -->
+<feat xlink:href="#line_77" value="line"/><!--  de oleo fasen socors a vos -->
+<feat xlink:href="#line_78" value="line"/><!--  faites o tost que ja venra l espos -->
+<feat xlink:href="#line_79" value="line"/><!--  a misere nos ad quid venimus -->
+<feat xlink:href="#line_80" value="line"/><!--  nil est enim illut quod querimus -->
+<feat xlink:href="#line_81" value="line"/><!--  fatatum est et nos videbimus -->
+<feat xlink:href="#line_82" value="line"/><!--  ad nuptias numquam intrabimus -->
+<feat xlink:href="#line_83" value="line"/><!--  dolentas -->
+<feat xlink:href="#line_84" value="line"/><!--  modo veniat sponsus -->
+<feat xlink:href="#line_85" value="line"/><!--  audi sponse voces plangentium -->
+<feat xlink:href="#line_86" value="line"/><!--  aperire fac nobis ostium -->
+<feat xlink:href="#line_87" value="line"/><!--  cum sotiis prebe remedium -->
+<feat xlink:href="#line_88" value="line"/><!--  modo veniat sponsus christus -->
+<feat xlink:href="#line_89" value="line"/><!--  amen dico vos ignosco nam caretis lumine -->
+<feat xlink:href="#line_90" value="line"/><!--  quod qui perdunt procul pergunt huius aule limine -->
+<feat xlink:href="#line_91" value="line"/><!--  alet chaitivas alet malaureas -->
+<feat xlink:href="#line_92" value="line"/><!--  a tot jors mais vos so penas liureas -->
+<feat xlink:href="#line_93" value="line"/><!--  en efern ora seret meneias -->
+<feat xlink:href="#line_94" value="line"/><!--  modo accipiant eas demones et precipitentur in infernum -->
+</featList>
+</paula>

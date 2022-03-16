@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.Spons_tei_lg_rhyme"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg_rhyme" xml:base="tei.Spons.tei_lg.xml">
+<feat xlink:href="#tei_lg_0" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_1" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_2" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_3" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_4" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_5" value="aaab"/><!--    -->
+<feat xlink:href="#tei_lg_6" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_7" value="aaab"/><!--    -->
+<feat xlink:href="#tei_lg_8" value="aaab"/><!--    -->
+<feat xlink:href="#tei_lg_9" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_10" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_11" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_12" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_13" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_14" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_15" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_16" value="aaab"/><!--    -->
+<feat xlink:href="#tei_lg_17" value="aaaa"/><!--    -->
+<feat xlink:href="#tei_lg_18" value="aaaa"/><!--    -->
+<feat xlink:href="#tei_lg_19" value="aaaab"/><!--    -->
+<feat xlink:href="#tei_lg_20" value="aaa"/><!--    -->
+<feat xlink:href="#tei_lg_21" value="aa"/><!--    -->
+<feat xlink:href="#tei_lg_22" value="aaa"/><!--    -->
+</featList>
+</paula>

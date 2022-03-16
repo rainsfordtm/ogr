@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="meter.PrDieu_syll_cat"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="cat" xml:base="meter.PrDieu.meter.xml">
+<feat xlink:href="#syll_0" value="sy"/><!-- b/e\ -->
+<feat xlink:href="#syll_1" value="sy"/><!-- d/ɛ\u -->
+<feat xlink:href="#syll_2" value="sy"/><!-- /ɔ\i -->
+<feat xlink:href="#syll_3" value="sy"/><!-- m/A\iS -->
+<feat xlink:href="#syll_4" value="sy"/><!-- f/i\ -->
+<feat xlink:href="#syll_5" value="sy"/><!-- n/i\r -->
+<feat xlink:href="#syll_6" value="sy"/><!-- n/ɔ\S -->
+<feat xlink:href="#syll_7" value="sy"/><!-- tr/A\ -->
+<feat xlink:href="#syll_8" value="sy"/><!-- r/A\ -->
+<feat xlink:href="#syll_9" value="sy"/><!-- z/o\S -->
+<feat xlink:href="#syll_10" value="sy"/><!-- /y\n -->
+<feat xlink:href="#syll_11" value="sy"/><!-- p/A\uK -->
+<feat xlink:href="#syll_12" value="sy"/><!-- S/o\i -->
+<feat xlink:href="#syll_13" value="sy"/><!-- L/A\S -->
+<feat xlink:href="#syll_14" value="sy"/><!-- k/E\ -->
+<feat xlink:href="#syll_15" value="sy"/><!-- tr/ɔ\P -->
+<feat xlink:href="#syll_16" value="sy"/><!-- f/o\ -->
+<feat xlink:href="#syll_17" value="sy"/><!-- /A\uT -->
+<feat xlink:href="#syll_18" value="sy"/><!-- L/O\ -->
+<feat xlink:href="#syll_19" value="sy"/><!-- S/o\S -->
+<feat xlink:href="#syll_20" value="sy"/><!-- L/ɛ\ -->
+<feat xlink:href="#syll_21" value="sy"/><!-- v/E\n -->
+<feat xlink:href="#syll_22" value="sy"/><!-- d/o\i -->
+<feat xlink:href="#syll_23" value="sy"/><!-- kL/ɛ\rK -->
+<feat xlink:href="#syll_24" value="sy"/><!-- k/E\ -->
+<feat xlink:href="#syll_25" value="sy"/><!-- d/i\i -->
+<feat xlink:href="#syll_26" value="sy"/><!-- /E\n -->
+<feat xlink:href="#syll_27" value="sy"/><!-- L/O\ -->
+<feat xlink:href="#syll_28" value="sy"/><!-- r/E\S -->
+<feat xlink:href="#syll_29" value="sy"/><!-- p/o\S -->
+<feat xlink:href="#syll_30" value="sy"/><!-- Q/V\ -->
+<feat xlink:href="#syll_31" value="sy"/><!-- /V\ -->
+<feat xlink:href="#syll_32" value="sy"/><!-- Q/V\N -->
+<feat xlink:href="#syll_33" value="sy"/><!-- Q/V\Q -->
+<feat xlink:href="#syll_34" value="el"/><!-- k/i\ -->
+<feat xlink:href="#syll_35" value="sy"/><!-- /E\ST -->
+<feat xlink:href="#syll_36" value="sy"/><!-- p/A\i -->
+<feat xlink:href="#syll_37" value="sy"/><!-- r/E\ -->
+<feat xlink:href="#syll_38" value="sy"/><!-- gL/O\ -->
+<feat xlink:href="#syll_39" value="sy"/><!-- r/i\ -->
+<feat xlink:href="#syll_40" value="sy"/><!-- /o\S -->
+<feat xlink:href="#syll_41" value="sy"/><!-- n/o\S -->
+<feat xlink:href="#syll_42" value="sy"/><!-- t/E\ -->
+<feat xlink:href="#syll_43" value="sy"/><!-- pr/E\i -->
+<feat xlink:href="#syll_44" value="sy"/><!-- /A\m -->
+<feat xlink:href="#syll_45" value="sy"/><!-- k/E\T -->
+<feat xlink:href="#syll_46" value="sy"/><!-- r/E\ -->
+<feat xlink:href="#syll_47" value="sy"/><!-- m/E\N -->
+<feat xlink:href="#syll_48" value="sy"/><!-- br/E\ -->
+<feat xlink:href="#syll_49" value="sy"/><!-- d/E\ -->
+<feat xlink:href="#syll_50" value="sy"/><!-- n/o\S -->
+<feat xlink:href="#syll_51" value="sy"/><!-- k/A\NT -->
+<feat xlink:href="#syll_52" value="sy"/><!-- tr/i\ -->
+<feat xlink:href="#syll_53" value="sy"/><!-- /A\ -->
+<feat xlink:href="#syll_54" value="sy"/><!-- r/A\S -->
+<feat xlink:href="#syll_55" value="sy"/><!-- L/O\S -->
+<feat xlink:href="#syll_56" value="sy"/><!-- m/A\LS -->
+<feat xlink:href="#syll_57" value="sy"/><!-- d/A\N -->
+<feat xlink:href="#syll_58" value="sy"/><!-- tr/E\ -->
+<feat xlink:href="#syll_59" value="sy"/><!-- L/O\S -->
+<feat xlink:href="#syll_60" value="sy"/><!-- b/o\S -->
+</featList>
+</paula>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogr.PrDieu_line_met"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_met" xml:base="ogr.PrDieu.line.xml">
+<feat xlink:href="#line_0" value="----"/><!--  tu autem -->
+<feat xlink:href="#line_1" value="10mn4"/><!--  be deu hoi mais finir nostra razos -->
+<feat xlink:href="#line_2" value="10mn4"/><!--  un pauc soi las que trop fo aut lo sos -->
+<feat xlink:href="#line_3" value="10mn4"/><!--  leven doi clerc que diien lo respos -->
+<feat xlink:href="#line_4" value="10mn4"/><!--  tu autem deus qui est paire glorios -->
+<feat xlink:href="#line_5" value="10mn4"/><!--  nos te preiam que t remembre de nos -->
+<feat xlink:href="#line_6" value="10mn4"/><!--  quant triaras los mals d antre los bos -->
+</featList>
+</paula>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrVierge3_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.PrVierge3.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_16')))"/><!-- versus sancte marie  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_17')/range-to(id('tok_63')))"/><!-- o maria deu maire deu t es e fils e paire domna preia per nos  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_64')/range-to(id('tok_121')))"/><!-- to fil lo glorios e lo pair aissamen preia per tota jen e c el no nos socor  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_122')/range-to(id('tok_167')))"/><!-- tornat nos es a plor eva creet serpen un agel resplanden  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_168')/range-to(id('tok_215')))"/><!-- per so nos en vai gen deus n es om veramen car de femna nasquet  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_216')/range-to(id('tok_258')))"/><!-- deus la femna salvet e pre quo nasquet hom que garit en fos  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_259')/range-to(id('tok_302')))"/><!-- hom eva moler adam quar creet lo setam nos mes en tal afan  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_303')/range-to(id('tok_347')))"/><!-- per qu avem set e fam eva mot foleet quar de queu frut manjet  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_348')/range-to(id('tok_398')))"/><!-- que deus li devedet e cel que la creet e c el no l an crees e de u fruit  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_399')/range-to(id('tok_443')))"/><!-- no manjes ja no murira hom chi ames nostre don mas tan fora  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_444')/range-to(id('tok_491')))"/><!-- de gen ch avera garimen cil chi perdut seran ja per re no foran  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_492')/range-to(id('tok_537')))"/><!-- adam menjet lo fruit per que fom tuit perdut adam no creet  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_538')/range-to(id('tok_589')))"/><!-- deu a tot nos en vai greu deus receubt per lui mort e la crot a gran  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_590')/range-to(id('tok_634')))"/><!-- tort e resors a l tert dia si cum o dii maria a ut apostols  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_635')/range-to(id('tok_687')))"/><!-- cumtet e dis c ap deu parlet qu e u poi de galilea viu lo verem angera  -->
+<mark id="tei_lb_15" xlink:href="#xpointer(id('tok_688')/range-to(id('tok_733')))"/><!-- vida qui mort aucis nos donet paradis gloria aisamen nos  -->
+<mark id="tei_lb_16" xlink:href="#xpointer(id('tok_734')/range-to(id('tok_746')))"/><!-- do deus veramen  -->
+</markList>
+</paula>

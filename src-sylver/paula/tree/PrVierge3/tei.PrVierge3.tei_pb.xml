@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.PrVierge3_tei_pb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb" xml:base="ogr.PrVierge3.tok.xml">
+<mark id="tei_pb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_215')))"/><!-- versus sancte marie o maria deu maire deu t es e fils e paire domna preia per nos to fil lo glorios e lo pair aissamen preia per tota jen e c el no nos socor tornat nos es a plor eva creet serpen un agel resplanden per so nos en vai gen deus n es om veramen car de femna nasquet  -->
+<mark id="tei_pb_1" xlink:href="#xpointer(id('tok_216')/range-to(id('tok_634')))"/><!-- deus la femna salvet e pre quo nasquet hom que garit en fos hom eva moler adam quar creet lo setam nos mes en tal afan per qu avem set e fam eva mot foleet quar de queu frut manjet que deus li devedet e cel que la creet e c el no l an crees e de u fruit no manjes ja no murira hom chi ames nostre don mas tan fora de gen ch avera garimen cil chi perdut seran ja per re no foran adam menjet lo fruit per que fom tuit perdut adam no creet deu a tot nos en vai greu deus receubt per lui mort e la crot a gran tort e resors a l tert dia si cum o dii maria a ut apostols  -->
+<mark id="tei_pb_2" xlink:href="#xpointer(id('tok_635')/range-to(id('tok_746')))"/><!-- cumtet e dis c ap deu parlet qu e u poi de galilea viu lo verem angera vida qui mort aucis nos donet paradis gloria aisamen nos do deus veramen  -->
+</markList>
+</paula>

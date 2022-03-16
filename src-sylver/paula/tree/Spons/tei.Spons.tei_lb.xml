@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="tei.Spons_tei_lb"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr.Spons.tok.xml">
+<mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_18')))"/><!-- sponsus adest sponsus  -->
+<mark id="tei_lb_1" xlink:href="#xpointer(id('tok_19')/range-to(id('tok_78')))"/><!-- qui est christus vigilate virgines pro adventu cuius gaudent et gaudebunt  -->
+<mark id="tei_lb_2" xlink:href="#xpointer(id('tok_79')/range-to(id('tok_124')))"/><!-- homines venit enim liberare gentium origines quas per  -->
+<mark id="tei_lb_3" xlink:href="#xpointer(id('tok_125')/range-to(id('tok_179')))"/><!-- primam sibi matrem subiugarunt demones hic est adam qui secundus  -->
+<mark id="tei_lb_4" xlink:href="#xpointer(id('tok_180')/range-to(id('tok_231')))"/><!-- per propheta dicitur per quem scelus primi ade a nobis diluitur  -->
+<mark id="tei_lb_5" xlink:href="#xpointer(id('tok_232')/range-to(id('tok_284')))"/><!-- hic pependit ut celesti patrie nos redderet ac de parte inimici  -->
+<mark id="tei_lb_6" xlink:href="#xpointer(id('tok_285')/range-to(id('tok_341')))"/><!-- liberos nos traheret venit sponsus qui nostrorum scelerum piacula  -->
+<mark id="tei_lb_7" xlink:href="#xpointer(id('tok_342')/range-to(id('tok_387')))"/><!-- morte lavit atque crucis sustulit patibula prudentes  -->
+<mark id="tei_lb_8" xlink:href="#xpointer(id('tok_388')/range-to(id('tok_439')))"/><!-- oiet virgines aiso que vos dirum aisex presen que vos comandarum  -->
+<mark id="tei_lb_9" xlink:href="#xpointer(id('tok_440')/range-to(id('tok_477')))"/><!-- atendet un espos jhesu salvaire a nom gaire no i  -->
+<mark id="tei_lb_10" xlink:href="#xpointer(id('tok_478')/range-to(id('tok_525')))"/><!-- dormet aisel espos que vos hor atendet venit en terra per los  -->
+<mark id="tei_lb_11" xlink:href="#xpointer(id('tok_526')/range-to(id('tok_537')))"/><!-- vostres pechet  -->
+<mark id="tei_lb_12" xlink:href="#xpointer(id('tok_538')/range-to(id('tok_572')))"/><!-- de la virgine en betleem fo net e flum jorda  -->
+<mark id="tei_lb_13" xlink:href="#xpointer(id('tok_573')/range-to(id('tok_614')))"/><!-- lavet e bateet gaire eu fo batut gablet e laidenjet  -->
+<mark id="tei_lb_14" xlink:href="#xpointer(id('tok_615')/range-to(id('tok_664')))"/><!-- sus e la crot batut e claufiget e u monument desoentre pauset  -->
+<mark id="tei_lb_15" xlink:href="#xpointer(id('tok_665')/range-to(id('tok_712')))"/><!-- gaire e resors es la scriptura o dii gabriels soi eu trames  -->
+<mark id="tei_lb_16" xlink:href="#xpointer(id('tok_713')/range-to(id('tok_750')))"/><!-- aici atendet lo que ja venra praici gaire fatue  -->
+<mark id="tei_lb_17" xlink:href="#xpointer(id('tok_751')/range-to(id('tok_792')))"/><!-- nos virgines que ad vos venimus negligenter oleum  -->
+<mark id="tei_lb_18" xlink:href="#xpointer(id('tok_793')/range-to(id('tok_841')))"/><!-- fudimus ad vos orare sorores cupimus ut et illas quibus nos  -->
+<mark id="tei_lb_19" xlink:href="#xpointer(id('tok_842')/range-to(id('tok_890')))"/><!-- credimus dolentas chaitivas trop i avem dormit nos comites  -->
+<mark id="tei_lb_20" xlink:href="#xpointer(id('tok_891')/range-to(id('tok_937')))"/><!-- huius itineris et sorores eiusdem generis quamvis male  -->
+<mark id="tei_lb_21" xlink:href="#xpointer(id('tok_938')/range-to(id('tok_999')))"/><!-- contigit miseris potestis nos reddere superis dolentas partimini lumen  -->
+<mark id="tei_lb_22" xlink:href="#xpointer(id('tok_1000')/range-to(id('tok_1053')))"/><!-- lampadibus pie sitis insipientibus pulse ne nos simus a foribus  -->
+<mark id="tei_lb_23" xlink:href="#xpointer(id('tok_1054')/range-to(id('tok_1097')))"/><!-- cum vos sponsus vocet in sedibus dolentas prudentes  -->
+<mark id="tei_lb_24" xlink:href="#xpointer(id('tok_1098')/range-to(id('tok_1142')))"/><!-- nos precari precamur amplius desinite sorores otius  -->
+<mark id="tei_lb_25" xlink:href="#xpointer(id('tok_1143')/range-to(id('tok_1196')))"/><!-- vobis enim nil erit melius dare preces pro hoc ulterius dolentas  -->
+<mark id="tei_lb_26" xlink:href="#xpointer(id('tok_1197')/range-to(id('tok_1234')))"/><!-- ac ite nunc ite celeriter ac vendentes rogate  -->
+<mark id="tei_lb_27" xlink:href="#xpointer(id('tok_1235')/range-to(id('tok_1299')))"/><!-- dulciter ut oleum vestris lampadibus dent equidem vobis inertibus dolentas  -->
+<mark id="tei_lb_28" xlink:href="#xpointer(id('tok_1300')/range-to(id('tok_1346')))"/><!-- a misere nos hic quid facimus vigilare numquid potuimus  -->
+<mark id="tei_lb_29" xlink:href="#xpointer(id('tok_1347')/range-to(id('tok_1395')))"/><!-- hunc laborem que nunc perferimus nobis nosmed contulimus  -->
+<mark id="tei_lb_30" xlink:href="#xpointer(id('tok_1396')/range-to(id('tok_1441')))"/><!-- dolentas et de nobis mercator otius quas habeat merces  -->
+<mark id="tei_lb_31" xlink:href="#xpointer(id('tok_1442')/range-to(id('tok_1489')))"/><!-- quas sotius oleum nunc querere venimus negligenter quod  -->
+<mark id="tei_lb_32" xlink:href="#xpointer(id('tok_1490')/range-to(id('tok_1542')))"/><!-- nosme fudimus dolentas de nostr oli queret nos a doner no n auret  -->
+<mark id="tei_lb_33" xlink:href="#xpointer(id('tok_1543')/range-to(id('tok_1603')))"/><!-- pont alet en achapter de us merchaans que lai veet ester dolentas mercatores  -->
+<mark id="tei_lb_34" xlink:href="#xpointer(id('tok_1604')/range-to(id('tok_1653')))"/><!-- domnas gentils no vos covent ester ni lojamen aici a demorer  -->
+<mark id="tei_lb_35" xlink:href="#xpointer(id('tok_1654')/range-to(id('tok_1693')))"/><!-- cosel queret no u vos poem doner queret lo deu chi vos  -->
+<mark id="tei_lb_36" xlink:href="#xpointer(id('tok_1694')/range-to(id('tok_1745')))"/><!-- pot coseler alet areir a vostras sinc seros e preiat las per deu  -->
+<mark id="tei_lb_37" xlink:href="#xpointer(id('tok_1746')/range-to(id('tok_1801')))"/><!-- lo glorios de oleo fasen socors a vos faites o tost que ja venra l espos  -->
+<mark id="tei_lb_38" xlink:href="#xpointer(id('tok_1802')/range-to(id('tok_1851')))"/><!-- a misere nos ad quid venimus nil est enim illut quod querimus  -->
+<mark id="tei_lb_39" xlink:href="#xpointer(id('tok_1852')/range-to(id('tok_1909')))"/><!-- fatatum est et nos videbimus ad nuptias numquam intrabimus dolentas  -->
+<mark id="tei_lb_40" xlink:href="#xpointer(id('tok_1910')/range-to(id('tok_1975')))"/><!-- modo veniat sponsus audi sponse voces plangentium aperire fac nobis ostium cum  -->
+<mark id="tei_lb_41" xlink:href="#xpointer(id('tok_1976')/range-to(id('tok_2037')))"/><!-- sotiis prebe remedium modo veniat sponsus christus amen dico vos ignosco  -->
+<mark id="tei_lb_42" xlink:href="#xpointer(id('tok_2038')/range-to(id('tok_2088')))"/><!-- nam caretis lumine quod qui perdunt procul pergunt huius aule  -->
+<mark id="tei_lb_43" xlink:href="#xpointer(id('tok_2089')/range-to(id('tok_2134')))"/><!-- limine alet chaitivas alet malaureas a tot jors mais vos  -->
+<mark id="tei_lb_44" xlink:href="#xpointer(id('tok_2135')/range-to(id('tok_2192')))"/><!-- so penas liureas en efern ora seret meneias modo accipiant eas demones  -->
+<mark id="tei_lb_45" xlink:href="#xpointer(id('tok_2193')/range-to(id('tok_2217')))"/><!-- et precipitentur in infernum  -->
+</markList>
+</paula>
