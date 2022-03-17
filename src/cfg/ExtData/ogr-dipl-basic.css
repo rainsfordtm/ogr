@@ -2,9 +2,9 @@
 font-family: Arial, sans-serif;
 }
 div.line{display: block; white-space:nowrap; counter-increment: line ; height: 22px}
-.wd_div[wd_div*="_"]::after{content: " "}
 .wd_div[wd_div*="."]::after{content: ". "}
+.wd_div[wd_div*="\2013"]::after{content: ". "}
 .wd_div[wd_div*=","]::after{content: ". "}
 .wd_div[wd_div*=";"]::after{content: "; "}
 .wd_div[wd_div*="!"]::after{content: "; "}
-.wd_div[wd_div*="–"]::after{content: "– "}
+.wd_div:not([wd_div*="+"])::after{content: " "}
