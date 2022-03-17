@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="tei.SLeger_tei_lg_met"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lg_met" xml:base="tei.SLeger.tei_lg.xml">
+<feat xlink:href="#tei_lg_0" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_1" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_2" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_3" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_4" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_5" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_6" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_7" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_8" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_9" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_10" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_11" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_12" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_13" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_14" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_15" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_16" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_17" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_18" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_19" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_20" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_21" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_22" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_23" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_24" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_25" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_26" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_27" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_28" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_29" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_30" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_31" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_32" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_33" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_34" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_35" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_36" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_37" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_38" value="octosyllable"/><!--    -->
+<feat xlink:href="#tei_lg_39" value="octosyllable"/><!--    -->
+</featList>
+</paula>

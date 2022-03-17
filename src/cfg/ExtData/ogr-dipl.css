@@ -12,4 +12,5 @@ div.pb{border-style:solid; vertical-align: top; counter-reset: line 0}
 .wd_div[wd_div*=","]::after{content: ". "}
 .wd_div[wd_div*=";"]::after{content: "; "}
 .wd_div[wd_div*="!"]::after{content: "; "}
+.wd_div[wd_div*="–"]::after{content: "– "}
 .norm:hover{color: grey}

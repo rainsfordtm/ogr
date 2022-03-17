@@ -57,8 +57,5 @@
 </struct><struct id="anno_12">
 <rel id="rel_39" xlink:href="tei.SGregPaint.tei_s"/>
 <rel id="rel_40" xlink:href="tei.SGregPaint.tei_s_tei_s"/>
-<rel id="rel_41" xlink:href="tei.SGregPaint.tei_s_xml_lang"/>
-<rel id="rel_42" xlink:href="tei.SGregPaint.tei_s"/>
-<rel id="rel_43" xlink:href="tei.SGregPaint.tei_s_xml_lang"/>
 </struct></structList>
 </paula>

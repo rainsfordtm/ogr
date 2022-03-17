@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
+<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogrsv040.SFoi.anno.xml">
+<multiFeat xlink:href="#anno_0">
+<feat name="text" value="SFoi"/>
+<feat name="lang" value="pro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="11..12"/><feat name="ms_origin" value="Burgundy"/><feat name="text_cent" value="11"/><feat name="text_origin" value="between Narbonne and the Pyrenees"/><feat name="title_en" value="Song of Saint Faith"/><feat name="title_fr" value="Chanson de sainte Foi"/><feat name="author" value="anonymous"/><feat name="ms" value="Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"/><feat name="form" value="verse"/><feat name="source" value="ms. image"/></multiFeat>
+</multiFeatList>
+</paula>

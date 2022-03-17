@@ -2,7 +2,7 @@
 <!DOCTYPE paula SYSTEM "paula_mark.dtd">
 <paula version="1.0">
 <header paula_id="tei.PrDieu_tei_lb"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogr040.PrDieu.tok.xml">
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_lb" xml:base="ogrsv040.PrDieu.tok.xml">
 <mark id="tei_lb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_6')))"/><!-- tu autem  -->
 <mark id="tei_lb_1" xlink:href="#xpointer(id('tok_7')/range-to(id('tok_47')))"/><!-- be deu hoi mais finir nostra razos un pauc soi las que  -->
 <mark id="tei_lb_2" xlink:href="#xpointer(id('tok_48')/range-to(id('tok_95')))"/><!-- trop fo aut lo sos leven doi clerc que diien lo respos tu autem  -->

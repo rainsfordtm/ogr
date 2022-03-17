@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.Alexis_line_met"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_met" xml:base="ogrsv040.Alexis.line.xml">
+<feat xlink:href="#line_0" value="10me4"/><!--  bons fut li secles a l tens ancienur -->
+<feat xlink:href="#line_1" value="10mn4"/><!--  quer feit i ert e justise et amur -->
+<feat xlink:href="#line_2" value="10me4"/><!--  si ert creance dunt ore n i at nul prut -->
+<feat xlink:href="#line_3" value="10mn4"/><!--  tut est muez perdut ad sa colur -->
+<feat xlink:href="#line_4" value="10mn4"/><!--  ja mais n iert tel cum fut a s anceisurs -->
+<feat xlink:href="#line_5" value="10mn4"/><!--  a l tens noe et a l tens abraham -->
+<feat xlink:href="#line_6" value="10mn4"/><!--  et a l david qui deus par amat tant -->
+<feat xlink:href="#line_7" value="10me4"/><!--  bons fut li secles jamais n ert si vailant -->
+<feat xlink:href="#line_8" value="10me4"/><!--  velz est e frailes tut s en vat remanant -->
+<feat xlink:href="#line_9" value="10mn4"/><!--  si st ampairet tut bien vait remanant -->
+<feat xlink:href="#line_10" value="10mn4"/><!--  puis icel tens que deus nus vint salver -->
+<feat xlink:href="#line_11" value="10mn4"/><!--  nostra anceisur ourent cristientet -->
+<feat xlink:href="#line_12" value="10me4"/><!--  si fut un sire de rome la citet -->
+<feat xlink:href="#line_13" value="10mn4"/><!--  rices hom fud de grant nobilitet -->
+<feat xlink:href="#line_14" value="10mn4"/><!--  pur hoc vus di d un son filz voil parler -->
+<feat xlink:href="#line_15" value="10fn4"/><!--  eufemien si out a nnum li pedre -->
+<feat xlink:href="#line_16" value="10fe4"/><!--  cons fut de rome de s melz ki dunc i eret -->
+<feat xlink:href="#line_17" value="10fn4"/><!--  sur tuz ses pers l amat li emperere -->
+<feat xlink:href="#line_18" value="10fn4"/><!--  dunc prist muiler vailante et honurede -->
+<feat xlink:href="#line_19" value="10fn4"/><!--  de s melz gentils de tuta la cuntretha -->
+<feat xlink:href="#line_20" value="10me4"/><!--  puis converserent ansemble longament -->
+<feat xlink:href="#line_21" value="10mn4"/><!--  n ourent amfant peiset lur en forment -->
+<feat xlink:href="#line_22" value="10me4"/><!--  e deu apelent andui parfitement -->
+<feat xlink:href="#line_23" value="10me4"/><!--  e reis celeste par ton cumandement -->
+<feat xlink:href="#line_24" value="10me4"/><!--  amfant nus done ki seit a tun talent -->
+<feat xlink:href="#line_25" value="10me4"/><!--  tant li prierent par grant humilitet -->
+<feat xlink:href="#line_26" value="10mn4"/><!--  que la muiler dunat fecunditet -->
+<feat xlink:href="#line_27" value="10me4"/><!--  un filz lur dunet si l en sourent bont gret -->
+<feat xlink:href="#line_28" value="10me4"/><!--  de sain batesma l unt fait regenerer -->
+<feat xlink:href="#line_29" value="10me4"/><!--  bel num li metent sur la cristientet -->
+<feat xlink:href="#line_30" value="10mn4"/><!--  fud baptizet si out num alexis -->
+<feat xlink:href="#line_31" value="10mn4"/><!--  ki lui portat suef le fist nurrir -->
+<feat xlink:href="#line_32" value="10me4"/><!--  puis ad escole li bons pedre le mist -->
+<feat xlink:href="#line_33" value="10me4"/><!--  tant aprist letres que bien en fut guarnit -->
+<feat xlink:href="#line_34" value="10me4"/><!--  puis vait li emfes l emperethur servir -->
+<feat xlink:href="#line_35" value="10me4"/><!--  quant veit li pedre que mais n avrat amfant -->
+<feat xlink:href="#line_36" value="10mn4"/><!--  mais que cel sul que il par amat tant -->
+<feat xlink:href="#line_37" value="10me4"/><!--  dunc se purpenset de l secle an avant -->
+<feat xlink:href="#line_38" value="10me4"/><!--  or volt que prenget moyler a sun vivant -->
+<feat xlink:href="#line_39" value="10me4"/><!--  dunc li acatet filie d un noble franc -->
+<feat xlink:href="#line_40" value="12---"/><!--  fud la pulcela nethe de halt parentet -->
+<feat xlink:href="#line_41" value="10me4"/><!--  fille ad un conpta de rome la ciptet -->
+<feat xlink:href="#line_42" value="10mn4"/><!--  n at mais amfant lui volt mult honurer -->
+<feat xlink:href="#line_43" value="10mn4"/><!--  ansemble an vunt li dui pedre parler -->
+<feat xlink:href="#line_44" value="10mn4"/><!--  lur dous amfanz volent faire asembler -->
+<feat xlink:href="#line_45" value="10me4"/><!--  donnent lur terme de lur adaisement -->
+<feat xlink:href="#line_46" value="10me4"/><!--  quant vint a l fare dunc le funt gentement -->
+<feat xlink:href="#line_47" value="10mn4"/><!--  danz alexis l espuset belament -->
+<feat xlink:href="#line_48" value="10mn4"/><!--  mais co est tel plait dunt ne volsist nient -->
+<feat xlink:href="#line_49" value="10mn4"/><!--  de tut an tut ad a deu sun talent -->
+<feat xlink:href="#line_50" value="10me4"/><!--  quant li jurz passet et il fut anuitet -->
+<feat xlink:href="#line_51" value="10me4"/><!--  co dist li pedres filz quar t en vas colcer -->
+<feat xlink:href="#line_52" value="10mn4"/><!--  avoc ta spuse a l cumand deu de l ciel -->
+<feat xlink:href="#line_53" value="10me4"/><!--  ne volt li emfes sum pedre corocier -->
+<feat xlink:href="#line_54" value="10---"/><!--  vint en la cambra ou ert sa muiler -->
+<feat xlink:href="#line_55" value="10fn4"/><!--  cum veit le lit esguardat la pulcela -->
+<feat xlink:href="#line_56" value="10fe4"/><!--  dunc li remembret de sun seinor celeste -->
+<feat xlink:href="#line_57" value="10fn4"/><!--  que plus ad cher que tut aveir terrestre -->
+<feat xlink:href="#line_58" value="10fn4"/><!--  e deus dist il cum fort pecet m apresset -->
+<feat xlink:href="#line_59" value="10fn4"/><!--  se or ne m en fui mult criem que ne t em perde -->
+<feat xlink:href="#line_60" value="10me4"/><!--  quant an la cambra furent tut sul remes -->
+<feat xlink:href="#line_61" value="10mn4"/><!--  danz alexis la prist ad apeler -->
+<feat xlink:href="#line_62" value="10me4"/><!--  la mortel vithe li prist mult a blasmer -->
+<feat xlink:href="#line_63" value="10me4"/><!--  de la celeste li mostret veritet -->
+<feat xlink:href="#line_64" value="10mn4"/><!--  mais lui est tart quet il s en seit turnet -->
+<feat xlink:href="#line_65" value="10me4"/><!--  oz mei pulcele celui tien ad espus -->
+<feat xlink:href="#line_66" value="10mn4"/><!--  ki nus raens de sun sanc precius -->
+<feat xlink:href="#line_67" value="10me4"/><!--  an ices secle nen at parfit amor -->
+<feat xlink:href="#line_68" value="10me4"/><!--  la vithe est fraisle n i ad durable honur -->
+<feat xlink:href="#line_69" value="10me4"/><!--  cesta lethece revert a grant tristur -->
+<feat xlink:href="#line_70" value="10fn4"/><!--  quant sa raisun li ad tute mustrethe -->
+<feat xlink:href="#line_71" value="10fe4"/><!--  pois li cumandet les renges de s espethe -->
+<feat xlink:href="#line_72" value="12---"/><!--  et un anel a deu li ad comandethe -->
+<feat xlink:href="#line_73" value="10fn4"/><!--  dunc en eissit de la cambre sum pedre -->
+<feat xlink:href="#line_74" value="10fn4"/><!--  ensur nuit s en fuit de la contrethe -->
+<feat xlink:href="#line_75" value="10mn4"/><!--  dunc vint errant dreitement a la mer -->
+<feat xlink:href="#line_76" value="10mn4"/><!--  la nef est preste ou il deveit entrer -->
+<feat xlink:href="#line_77" value="10mn4"/><!--  dunet sum pris et enz est alöet -->
+<feat xlink:href="#line_78" value="10me4"/><!--  drecent lur sigle laisent curre par mer -->
+<feat xlink:href="#line_79" value="10mn4"/><!--  la pristrent terre o deus les volt mener -->
+<feat xlink:href="#line_80" value="10fe4"/><!--  dreit a lalice co fut citet mult bele -->
+<feat xlink:href="#line_81" value="10fe4"/><!--  iloec arivet sainement la nacele -->
+<feat xlink:href="#line_82" value="10fn4"/><!--  dunc an eisit danz alexis acertes -->
+<feat xlink:href="#line_83" value="10fn4"/><!--  co ne sai jo cum longes i converset -->
+<feat xlink:href="#line_84" value="10fn4"/><!--  ou que il seit de deu servir ne cesset -->
+<feat xlink:href="#line_85" value="10mn4"/><!--  d iloc alat an alsis la ciptet -->
+<feat xlink:href="#line_86" value="10me4"/><!--  pur une imagine dunt il oit parler -->
+<feat xlink:href="#line_87" value="10me4"/><!--  qued angeles firent par cumandement deu -->
+<feat xlink:href="#line_88" value="10me4"/><!--  e l num la virgine ki portat salvetet -->
+<feat xlink:href="#line_89" value="10me4"/><!--  sainta marie ki portat damnedeu -->
+<feat xlink:href="#line_90" value="10mn4"/><!--  tut sun aver qu od sei en ad portet -->
+<feat xlink:href="#line_91" value="10mn4"/><!--  tut le depart par alsis la citet -->
+<feat xlink:href="#line_92" value="10me4"/><!--  larges almosnes que gens ne l en remest -->
+<feat xlink:href="#line_93" value="10me4"/><!--  dunet a s povres u qu il les pout trover -->
+<feat xlink:href="#line_94" value="10mn4"/><!--  pur nul aver ne volt estra ancumbret -->
+<feat xlink:href="#line_95" value="10mn4"/><!--  quant sun aver lur ad tot departit -->
+<feat xlink:href="#line_96" value="10me4"/><!--  entra les povres se sist danz alexis -->
+<feat xlink:href="#line_97" value="10me4"/><!--  recut l almosne quant deus la li tramist -->
+<feat xlink:href="#line_98" value="10mn4"/><!--  tant an retint dunt ses cors puet guarir -->
+<feat xlink:href="#line_99" value="10mn4"/><!--  se lui n remaint si l rent a s poverins -->
+<feat xlink:href="#line_100" value="10fn4"/><!--  or revendrai a l pedra et a la medra -->
+<feat xlink:href="#line_101" value="10fe4"/><!--  et a la spuse qued il out espusethe -->
+<feat xlink:href="#line_102" value="10me4"/><!--  quant il co sourent qued il fud si alet -->
+<feat xlink:href="#line_103" value="10mn4"/><!--  co fut granz dols quet il unt demenet -->
+<feat xlink:href="#line_104" value="10mn4"/><!--  e granz deplainz par tuta la citiet -->
+<feat xlink:href="#line_105" value="10me4"/><!--  co dist li pedres cher filz cum t ai perdut -->
+<feat xlink:href="#line_106" value="12---"/><!--  respont la medre lasse qued est devenut -->
+<feat xlink:href="#line_107" value="10me4"/><!--  co dist la spuse pechet le m at tolut -->
+<feat xlink:href="#line_108" value="10mn4"/><!--  e chers amis si pou vus ai out -->
+<feat xlink:href="#line_109" value="10me4"/><!--  or sui si graime que ne puis estra plus -->
+<feat xlink:href="#line_110" value="10me4"/><!--  dunc prent li pedre de se meilurs serganz -->
+<feat xlink:href="#line_111" value="10me4"/><!--  par multes terres fait querre sun amfant -->
+<feat xlink:href="#line_112" value="10mn4"/><!--  jusque en alsis en vindrent dui errant -->
+<feat xlink:href="#line_113" value="10me4"/><!--  iloc truverent danz alexis sedant -->
+<feat xlink:href="#line_114" value="10me4"/><!--  mais n aconurent sum vis ne sum semblant -->
+<feat xlink:href="#line_115" value="10fe4"/><!--  des at li emfes sa tendra carn mudede -->
+<feat xlink:href="#line_116" value="10fe4"/><!--  ne l reconurent li dui sergant sum pedre -->
+<feat xlink:href="#line_117" value="10fn4"/><!--  a lui medisme unt l almosne dunethe -->
+<feat xlink:href="#line_118" value="10fn4"/><!--  il la receut cume li altre frere -->
+<feat xlink:href="#line_119" value="10fe4"/><!--  ne l reconurent sempres s en returnerent -->
+<feat xlink:href="#line_120" value="10me4"/><!--  ne l reconurent ne ne l unt anterciet -->
+<feat xlink:href="#line_121" value="10mn4"/><!--  danz alexis an lothet deu de l ciel -->
+<feat xlink:href="#line_122" value="10mn4"/><!--  d icez sons sers qui il est provenders -->
+<feat xlink:href="#line_123" value="10mn4"/><!--  il fut lur sire or est lur almosners -->
+<feat xlink:href="#line_124" value="10me4"/><!--  ne vus sai dire cum il s en firet liez -->
+<feat xlink:href="#line_125" value="10me4"/><!--  cil s en repairent a rome la citet -->
+<feat xlink:href="#line_126" value="10me4"/><!--  nuncent a l pedre que ne l pourent truver -->
+<feat xlink:href="#line_127" value="10mn4"/><!--  set il fut graim ne l estot demander -->
+<feat xlink:href="#line_128" value="10me4"/><!--  la bone medre s em prist a dementer -->
+<feat xlink:href="#line_129" value="10mn4"/><!--  e sun ker filz suvent a regreter -->
+<feat xlink:href="#line_130" value="10fn4"/><!--  filz aleis pur quei portat ta medre -->
+<feat xlink:href="#line_131" value="10fn4"/><!--  tu m ies fuit dolente an sui remese -->
+<feat xlink:href="#line_132" value="10fn4"/><!--  ne sai le leu ne n en sai la contrede -->
+<feat xlink:href="#line_133" value="10fe4"/><!--  u t alge querre tute en sui esguarethe -->
+<feat xlink:href="#line_134" value="10fe4"/><!--  jamais n ierc lede kers filz nu l ert tun pedre -->
+<feat xlink:href="#line_135" value="10me4"/><!--  vint en la cambre plaine de marrement -->
+<feat xlink:href="#line_136" value="10me4"/><!--  si la despeiret que n i remest nient -->
+<feat xlink:href="#line_137" value="10me4"/><!--  n i remest palie ne neul ornement -->
+<feat xlink:href="#line_138" value="10mn4"/><!--  a tel tristur aturnat sun talent -->
+<feat xlink:href="#line_139" value="12---"/><!--  unches puis cel di ne se contint ledement -->
+<feat xlink:href="#line_140" value="10fe4"/><!--  cambra dist ela jamais n estras parede -->
+<feat xlink:href="#line_141" value="10fe4"/><!--  ne ja ledece n ert an tei demenede -->
+<feat xlink:href="#line_142" value="13---"/><!--  si l at destruite cum dis l ait host depredethe -->
+<feat xlink:href="#line_143" value="10fe4"/><!--  sas i fait pendre curtines deramedes -->
+<feat xlink:href="#line_144" value="12---"/><!--  sa grant honur a grant dol ad aturnede -->
+<feat xlink:href="#line_145" value="10fn4"/><!--  de l duel s asist la medre jusque a terre -->
+<feat xlink:href="#line_146" value="10fe4"/><!--  si fist la spuse danz alexis acertes -->
+<feat xlink:href="#line_147" value="10fe4"/><!--  dama dist ele jo i ai si grant perte -->
+<feat xlink:href="#line_148" value="10fn4"/><!--  ore vivrai an guise de turtrele -->
+<feat xlink:href="#line_149" value="10fn4"/><!--  quant n ai tun filz ansembl ot tei voil estra -->
+<feat xlink:href="#line_150" value="10me4"/><!--  co di la medre se a mei te vols tenir -->
+<feat xlink:href="#line_151" value="10mn4"/><!--  si t guardarai pur amur alexis -->
+<feat xlink:href="#line_152" value="10mn4"/><!--  ja n avras mal dunt te puisse guarir -->
+<feat xlink:href="#line_153" value="10me4"/><!--  plainums ansemble le doel de nostre ami -->
+<feat xlink:href="#line_154" value="10---"/><!--  tu de tun seinur jo l frai pur mun filz -->
+<feat xlink:href="#line_155" value="10me4"/><!--  ne poet estra altra turnent e l consirrer -->
+<feat xlink:href="#line_156" value="10mn4"/><!--  mais la dolur ne pothent ublier -->
+<feat xlink:href="#line_157" value="10mn4"/><!--  danz alexis an alsis la citet -->
+<feat xlink:href="#line_158" value="10mn4"/><!--  sert sun seinur par bone volentet -->
+<feat xlink:href="#line_159" value="09---"/><!--  ses enemis ne l poet anganer -->
+<feat xlink:href="#line_160" value="10fn4"/><!--  dis e seat anz n en fut nient a dire -->
+<feat xlink:href="#line_161" value="10fn4"/><!--  penat sun cors e l damnedeu servise -->
+<feat xlink:href="#line_162" value="10fn4"/><!--  pur amistet ne d ami ne d amie -->
+<feat xlink:href="#line_163" value="10fn4"/><!--  ne pur honurs ki l en fussent tramise -->
+<feat xlink:href="#line_164" value="10fn4"/><!--  n en volt turner tant cum il ad a vivre -->
+<feat xlink:href="#line_165" value="10mn4"/><!--  quant tut sun quor en ad si afermet -->
+<feat xlink:href="#line_166" value="10mn4"/><!--  que ja sum voil n istrat de la citied -->
+<feat xlink:href="#line_167" value="10me4"/><!--  deus fist l imagine pur sue amur parler -->
+<feat xlink:href="#line_168" value="10mn4"/><!--  a l servitor ki serveit a l alter -->
+<feat xlink:href="#line_169" value="10me4"/><!--  co li cumandet apele l ume deu -->
+<feat xlink:href="#line_170" value="10me4"/><!--  co dist l imagena fai l ume deu venir -->
+<feat xlink:href="#line_171" value="10mn4"/><!--  quar il ad deu bien servit et a gret -->
+<feat xlink:href="#line_172" value="10me4"/><!--  et il est dignes d entrer en paradis -->
+<feat xlink:href="#line_173" value="10mn4"/><!--  cil vait si l quert mais il ne l set coisir -->
+<feat xlink:href="#line_174" value="10me4"/><!--  icel saint home de cui l imagene dist -->
+<feat xlink:href="#line_175" value="10mn4"/><!--  revint li costre a l imagine e l muster -->
+<feat xlink:href="#line_176" value="10mn4"/><!--  certes dist il ne sai cui antercier -->
+<feat xlink:href="#line_177" value="10me4"/><!--  respont l imagine co est cil qui tres l us set -->
+<feat xlink:href="#line_178" value="10mn4"/><!--  pres est de deu e de s regnes de l ciel -->
+<feat xlink:href="#line_179" value="10me4"/><!--  par nule guise ne s en volt esluiner -->
+<feat xlink:href="#line_180" value="10mn4"/><!--  cil vait si l quert fait l e l muster venir -->
+<feat xlink:href="#line_181" value="10me4"/><!--  est vus l esample par trestut le pais -->
+<feat xlink:href="#line_182" value="10me4"/><!--  que cele imagine parlat pur alexis -->
+<feat xlink:href="#line_183" value="10me4"/><!--  trestuit l onurent li grant e li petit -->
+<feat xlink:href="#line_184" value="10me4"/><!--  e tuit le prient que de els ait mercit -->
+<feat xlink:href="#line_185" value="10mn4"/><!--  quant il co veit qu il volent onurer -->
+<feat xlink:href="#line_186" value="10mn4"/><!--  certes dist il n i ai mais ad ester -->
+<feat xlink:href="#line_187" value="10mn4"/><!--  d icest honur ne n revoil ancumbrer -->
+<feat xlink:href="#line_188" value="10mn4"/><!--  ensur nuit s en fuit de la ciptet -->
+<feat xlink:href="#line_189" value="10me4"/><!--  dreit a lalice revint li sons edrers -->
+<feat xlink:href="#line_190" value="10mn4"/><!--  danz alexis entrat en une nef -->
+<feat xlink:href="#line_191" value="10mn4"/><!--  ourent lur vent laisent curre par mer -->
+<feat xlink:href="#line_192" value="10mn4"/><!--  andreit tarson espeiret ariver -->
+<feat xlink:href="#line_193" value="10mn4"/><!--  mais ne puet estra ailurs l estot aler -->
+<feat xlink:href="#line_194" value="10me4"/><!--  andreit a rome les portet li orez -->
+<feat xlink:href="#line_195" value="10fn4"/><!--  a un de s porz ki plus est pres de rome -->
+<feat xlink:href="#line_196" value="13---"/><!--  iloec arivet la nef a icel saint home -->
+<feat xlink:href="#line_197" value="10fe4"/><!--  quant vit sun regne durement s en redutet -->
+<feat xlink:href="#line_198" value="10fn4"/><!--  de ses parenz qued il ne l recunuissent -->
+<feat xlink:href="#line_199" value="10fn4"/><!--  e de l honur de l secle ne l encumbrent -->
+<feat xlink:href="#line_200" value="13---"/><!--  e deus dist il bels sire reis qui tut guvernes -->
+<feat xlink:href="#line_201" value="10fn4"/><!--  se tei ploust ci ne volisse estra -->
+<feat xlink:href="#line_202" value="13---"/><!--  s or me conuissent mi parent d icesta terre -->
+<feat xlink:href="#line_203" value="10fn4"/><!--  il me prendrunt par pri ou par poeste -->
+<feat xlink:href="#line_204" value="10fn4"/><!--  se jo s an creid il me trairunt a perdra -->
+<feat xlink:href="#line_205" value="10fn4"/><!--  mais ne pur huec mun pedre me desirret -->
+<feat xlink:href="#line_206" value="10fe4"/><!--  si fait ma medra plus que femme qui vivet -->
+<feat xlink:href="#line_207" value="10fe4"/><!--  avoc ma spuse que jo lur ai guerpide -->
+<feat xlink:href="#line_208" value="10fn4"/><!--  or ne lairai ne n mete an lur bailie -->
+<feat xlink:href="#line_209" value="10fn4"/><!--  ne n conuistrunt tanz jurz ad que ne n virent -->
+<feat xlink:href="#line_210" value="10fn4"/><!--  eist de la nef e vint andreit a rome -->
+<feat xlink:href="#line_211" value="10fe4"/><!--  vait par les rues dunt il ja bien fut cointe -->
+<feat xlink:href="#line_212" value="10fe4"/><!--  n altra pur altre mais sun pedre i ancuntret -->
+<feat xlink:href="#line_213" value="10fn4"/><!--  ansembl ot lui grant masse de ses humes -->
+<feat xlink:href="#line_214" value="10fn4"/><!--  si l reconut par sun dreit num le numet -->
+<feat xlink:href="#line_215" value="10mn4"/><!--  eufemien bel sire riches hom -->
+<feat xlink:href="#line_216" value="12---"/><!--  quar me herberges pur deu an tue maison -->
+<feat xlink:href="#line_217" value="10mn4"/><!--  suz tun degret me fai un grabatum -->
+<feat xlink:href="#line_218" value="10mn4"/><!--  empur tun filz dunt tu as tel dolur -->
+<feat xlink:href="#line_219" value="10mn4"/><!--  tut soi amferm si m pais pur sue amor -->
+<feat xlink:href="#line_220" value="10me4"/><!--  quant ot li pedre le clamor de sun filz -->
+<feat xlink:href="#line_221" value="10mn4"/><!--  plurent si oil ne s en puet astenir -->
+<feat xlink:href="#line_222" value="10mn4"/><!--  por amor deu e pur mun cher ami -->
+<feat xlink:href="#line_223" value="10mn4"/><!--  tut te durai boens hom quanque m as quis -->
+<feat xlink:href="#line_224" value="10mn4"/><!--  lit et ostel e pain e carn e vin -->
+<feat xlink:href="#line_225" value="10mn4"/><!--  e deus dist il quer ousse un sergant -->
+<feat xlink:href="#line_226" value="10mn4"/><!--  ki l me guardrat jo l en fereie franc -->
+<feat xlink:href="#line_227" value="10mn4"/><!--  un en i out ki sempres vint avant -->
+<feat xlink:href="#line_228" value="10mn4"/><!--  as me dist il ki l guard pur ton cumand -->
+<feat xlink:href="#line_229" value="10mn4"/><!--  pur tue amur an soferai l ahan -->
+<feat xlink:href="#line_230" value="10mn4"/><!--  dunc le menat andreit suz le degret -->
+<feat xlink:href="#line_231" value="10mn4"/><!--  fait li sun lit o il pot reposer -->
+<feat xlink:href="#line_232" value="10me4"/><!--  tut li amanvet quanque bosuinz li ert -->
+<feat xlink:href="#line_233" value="10mn4"/><!--  contra seinur ne s en volt mesaler -->
+<feat xlink:href="#line_234" value="10me4"/><!--  par nule guise ne l em puet hom blasmer -->
+<feat xlink:href="#line_235" value="10fe4"/><!--  sovent le virent e le pedre e le medra -->
+<feat xlink:href="#line_236" value="10fe4"/><!--  e la pulcele quet li ert espusede -->
+<feat xlink:href="#line_237" value="10fn4"/><!--  par nule guise unces ne l aviserent -->
+<feat xlink:href="#line_238" value="10---"/><!--  n il ne lur dist n els ne l demanderent -->
+<feat xlink:href="#line_239" value="10fn4"/><!--  quels hom esteit ne de quel terre il eret -->
+<feat xlink:href="#line_240" value="10mn4"/><!--  soventes feiz lur veit grant duel mener -->
+<feat xlink:href="#line_241" value="10mn4"/><!--  e de lur oilz mult tendrement plurer -->
+<feat xlink:href="#line_242" value="10mn4"/><!--  e tut pur lui unces nient pur eil -->
+<feat xlink:href="#line_243" value="10mn4"/><!--  danz alexis le met e l consirrer -->
+<feat xlink:href="#line_244" value="10mn4"/><!--  ne l en est rien issi est aturnet -->
+<feat xlink:href="#line_245" value="10fn4"/><!--  soz le degret ou il gist sur sa nate -->
+<feat xlink:href="#line_246" value="10fn4"/><!--  iluec paist l um de l relef de la tabla -->
+<feat xlink:href="#line_247" value="10fe4"/><!--  a grant poverte deduit sun grant parage -->
+<feat xlink:href="#line_248" value="10fn4"/><!--  co ne volt il que sa mere le sacet -->
+<feat xlink:href="#line_249" value="10---"/><!--  plus aimet deu que tut sun linage -->
+<feat xlink:href="#line_250" value="10me4"/><!--  de la viande ki de l herberc li vint -->
+<feat xlink:href="#line_251" value="10mn4"/><!--  tant an retint dunt sun cors an sustint -->
+<feat xlink:href="#line_252" value="10---"/><!--  se lui en remaint si l rent a s povrins -->
+<feat xlink:href="#line_253" value="10me4"/><!--  n en fait musgode pur sun cors engraisser -->
+<feat xlink:href="#line_254" value="10me4"/><!--  en sainte eglise converset volenters -->
+<feat xlink:href="#line_255" value="12---"/><!--  cascune feste se fait acomunier -->
+<feat xlink:href="#line_256" value="10me4"/><!--  sainte escriture co ert ses conseilers -->
+<feat xlink:href="#line_257" value="10me4"/><!--  de l deu servise se volt mult esforcer -->
+<feat xlink:href="#line_258" value="10me4"/><!--  par nule guise ne s en volt esluiner -->
+<feat xlink:href="#line_259" value="10fn4"/><!--  suz le degret ou il gist e converset -->
+<feat xlink:href="#line_260" value="10fn4"/><!--  iloc deduit ledement sa poverte -->
+<feat xlink:href="#line_261" value="10fe4"/><!--  li serf sum pedre ki la maisnede servent -->
+<feat xlink:href="#line_262" value="10fe4"/><!--  lur lavadures li getent sur la teste -->
+<feat xlink:href="#line_263" value="10fe4"/><!--  ne s en corucet net il ne s en apelet -->
+<feat xlink:href="#line_264" value="10me4"/><!--  tuz l escarnissent si l tenent pur bricun -->
+<feat xlink:href="#line_265" value="10me4"/><!--  l egua li getent si moilent sun lincol -->
+<feat xlink:href="#line_266" value="10me4"/><!--  ne s en corucet giens cil saintismes hom -->
+<feat xlink:href="#line_267" value="10mn4"/><!--  ainz priet deu quet il le lur parduinst -->
+<feat xlink:href="#line_268" value="10mn4"/><!--  par sa mercit quer ne sevent que funt -->
+<feat xlink:href="#line_269" value="10me4"/><!--  iloc converset eisi dis e set anz -->
+<feat xlink:href="#line_270" value="10mn4"/><!--  ne l reconut nuls sons apartenanz -->
+<feat xlink:href="#line_271" value="10mn4"/><!--  ne nuls hom ne sout les sons ahanz -->
+<feat xlink:href="#line_272" value="10mn4"/><!--  trente quatre anz ad si sun cors penet -->
+<feat xlink:href="#line_273" value="10me4"/><!--  deus sun servise li volt guereduner -->
+<feat xlink:href="#line_274" value="10me4"/><!--  mult li angreget la sue anfermetet -->
+<feat xlink:href="#line_275" value="10mn4"/><!--  or set il bien qued il s en deit aler -->
+<feat xlink:href="#line_276" value="10mn4"/><!--  cel son servant ad a sei apelet -->
+<feat xlink:href="#line_277" value="10mn4"/><!--  quer mei bel frere et enca e parcamin -->
+<feat xlink:href="#line_278" value="10me4"/><!--  et une penne co pri tue mercit -->
+<feat xlink:href="#line_279" value="10me4"/><!--  cil li aportet receit le aleis -->
+<feat xlink:href="#line_280" value="10fe4"/><!--  escrit la cartra tute de sei medisme -->
+<feat xlink:href="#line_281" value="10mn4"/><!--  cum s en alat e cum il s en revint -->
+<feat xlink:href="#line_282" value="10mn4"/><!--  tres sei la tint ne la volt demustrer -->
+<feat xlink:href="#line_283" value="10me4"/><!--  ne reconuissent usque il s en seit alet -->
+<feat xlink:href="#line_284" value="10mn4"/><!--  parfitement se ad a deu cumandet -->
+<feat xlink:href="#line_285" value="10me4"/><!--  sa fin aproismet ses cors est agravet -->
+<feat xlink:href="#line_286" value="10mn4"/><!--  de tut an tut recesset de l parler -->
+<feat xlink:href="#line_287" value="10me4"/><!--  an la sameine qued il s en dut aler -->
+<feat xlink:href="#line_288" value="10mn4"/><!--  vint une voiz treis feiz en la citet -->
+<feat xlink:href="#line_289" value="10me4"/><!--  hors de l sacrarie par cumandement deu -->
+<feat xlink:href="#line_290" value="10mn4"/><!--  ki ses fedeilz li ad tuz amviet -->
+<feat xlink:href="#line_291" value="10me4"/><!--  prest est la glorie qued il li volt duner -->
+<feat xlink:href="#line_292" value="10fn4"/><!--  en l altra voiz lur dist altra summunse -->
+<feat xlink:href="#line_293" value="10fn4"/><!--  que l ume deu quergent ki est an rome -->
+<feat xlink:href="#line_294" value="11---"/><!--  si depreient que la citet ne fundet -->
+<feat xlink:href="#line_295" value="10fe4"/><!--  ne ne perissent la gent ki enz fregundent -->
+<feat xlink:href="#line_296" value="10fn4"/><!--  ki l un oid remainent en grant dute -->
+<feat xlink:href="#line_297" value="10fn4"/><!--  sainz innocenz ert idunc apostolie -->
+<feat xlink:href="#line_298" value="10fe4"/><!--  a lui repairent e li rice e li povre -->
+<feat xlink:href="#line_299" value="10fe4"/><!--  si li requerent conseil d icele cose -->
+<feat xlink:href="#line_300" value="10fn4"/><!--  qu il unt oit ki mult les desconfortet -->
+<feat xlink:href="#line_301" value="10fe4"/><!--  ne guardent l ure que terre ne s anglutet -->
+<feat xlink:href="#line_302" value="10mn4"/><!--  li apostolie e li empereör -->
+<feat xlink:href="#line_303" value="13---"/><!--  li uns acharies li altre anories out num -->
+<feat xlink:href="#line_304" value="10me4"/><!--  e tut le pople par commune oraisun -->
+<feat xlink:href="#line_305" value="10mn4"/><!--  depreient deu que conseil lur an duins -->
+<feat xlink:href="#line_306" value="10me4"/><!--  d icel saint hume par qui il guarirunt -->
+<feat xlink:href="#line_307" value="10me4"/><!--  co li deprient la sue pietet -->
+<feat xlink:href="#line_308" value="10me4"/><!--  que lur anseinet o l poissent recovrer -->
+<feat xlink:href="#line_309" value="10mn4"/><!--  vint une voiz ki lur ad anditet -->
+<feat xlink:href="#line_310" value="10mn4"/><!--  an la maisun eufemien quereiz -->
+<feat xlink:href="#line_311" value="11---"/><!--  quer iloec est et iloc le trovereiz -->
+<feat xlink:href="#line_312" value="10me4"/><!--  tuz s en returnent sur dam eufemien -->
+<feat xlink:href="#line_313" value="10me4"/><!--  alquanz l i prennent forment a blastenger -->
+<feat xlink:href="#line_314" value="10me4"/><!--  iceste cose nus douses nuncier -->
+<feat xlink:href="#line_315" value="10me4"/><!--  a tut le pople ki ert desconseilet -->
+<feat xlink:href="#line_316" value="10mn4"/><!--  tant l as celet mult i as grant pechet -->
+<feat xlink:href="#line_317" value="10mn4"/><!--  il l escondit cume cil ki ne l set -->
+<feat xlink:href="#line_318" value="10me4"/><!--  mais ne l en creient a l helberc sunt alet -->
+<feat xlink:href="#line_319" value="10mn4"/><!--  il vat avant la maisun aprester -->
+<feat xlink:href="#line_320" value="10mn4"/><!--  forment l enquer a tuz ses menestrels -->
+<feat xlink:href="#line_321" value="10me4"/><!--  icil respondent que neuls d els ne l set -->
+<feat xlink:href="#line_322" value="10mn4"/><!--  li apostolie e li empereur -->
+<feat xlink:href="#line_323" value="09---"/><!--  sedent e s bans pensis e plurus -->
+<feat xlink:href="#line_324" value="10me4"/><!--  iloc esguardent tuit cil altre seinors -->
+<feat xlink:href="#line_325" value="10mn4"/><!--  si preient deu que conseil lur an duins -->
+<feat xlink:href="#line_326" value="10me4"/><!--  d icel saint hume par qui il guarirunt -->
+<feat xlink:href="#line_327" value="10me4"/><!--  an tant dementres cum il iloec unt sis -->
+<feat xlink:href="#line_328" value="10me4"/><!--  deseivret l aneme de l cors sainz alexis -->
+<feat xlink:href="#line_329" value="10mn4"/><!--  tut dreitement en vait en paradis -->
+<feat xlink:href="#line_330" value="10mn4"/><!--  a sun seinor qu il aveit tant servit -->
+<feat xlink:href="#line_331" value="10me4"/><!--  e reis celeste tu nus i fai venir -->
+<feat xlink:href="#line_332" value="10mn4"/><!--  li boens serganz ki l serveit volentiers -->
+<feat xlink:href="#line_333" value="10mn4"/><!--  il le nuncat sum pedre eufemien -->
+<feat xlink:href="#line_334" value="10me4"/><!--  suef l apelet si li ad conseilet -->
+<feat xlink:href="#line_335" value="10mn4"/><!--  sire dist il morz est tes provenders -->
+<feat xlink:href="#line_336" value="10me4"/><!--  e co sai dire qu il fut bons cristiens -->
+<feat xlink:href="#line_337" value="10mn4"/><!--  mult lungament ai a lui converset -->
+<feat xlink:href="#line_338" value="10me4"/><!--  de nule cose certes ne l sai blasmer -->
+<feat xlink:href="#line_339" value="10mn4"/><!--  e co m est vis que co est l ume deu -->
+<feat xlink:href="#line_340" value="10mn4"/><!--  tut sul s en est eufemien turnet -->
+<feat xlink:href="#line_341" value="11---"/><!--  vint a sun filz ou il gist suz lu degret -->
+<feat xlink:href="#line_342" value="10me4"/><!--  les dras suzlevet dum il esteit cuvert -->
+<feat xlink:href="#line_343" value="10me4"/><!--  vit de l sain home le vis e cler e bel -->
+<feat xlink:href="#line_344" value="10mn4"/><!--  en sum puing tint le cartre le deu serf -->
+<feat xlink:href="#line_345" value="10mn4"/><!--  eufemien volt saveir quet espelt -->
+<feat xlink:href="#line_346" value="10me4"/><!--  il la volt prendra cil ne li volt guerpir -->
+<feat xlink:href="#line_347" value="10me4"/><!--  a l apostolie revint tuz esmeriz -->
+<feat xlink:href="#line_348" value="10mn4"/><!--  ore ai trovet co que tant avums quis -->
+<feat xlink:href="#line_349" value="10mn4"/><!--  suz mun degret gist uns morz pelerins -->
+<feat xlink:href="#line_350" value="10me4"/><!--  tent une cartre mais n a li puis tolir -->
+<feat xlink:href="#line_351" value="10mn4"/><!--  li apostolie e li empereör -->
+<feat xlink:href="#line_352" value="11---"/><!--  venent devant jetent sei an ureisuns -->
+<feat xlink:href="#line_353" value="10mn4"/><!--  metent lur cors en granz afflictiuns -->
+<feat xlink:href="#line_354" value="10mn4"/><!--  mercit mercit mercit saintismes hom -->
+<feat xlink:href="#line_355" value="13---"/><!--  ne n coneumes net uncore ne n conuissum -->
+<feat xlink:href="#line_356" value="10mn4"/><!--  ci devant tei estunt dui pechethuor -->
+<feat xlink:href="#line_357" value="10me4"/><!--  par la deu grace vocet amperedor -->
+<feat xlink:href="#line_358" value="10mn4"/><!--  co est sa merci qu il nus consent l onor -->
+<feat xlink:href="#line_359" value="09---"/><!--  de tut cest mund sumes jugedor -->
+<feat xlink:href="#line_360" value="10mn4"/><!--  de l ton conseil sumes tut busuinus -->
+<feat xlink:href="#line_361" value="10me4"/><!--  cist apostolies deit les anames baillir -->
+<feat xlink:href="#line_362" value="10mn4"/><!--  co est ses mesters dunt il ad a servir -->
+<feat xlink:href="#line_363" value="11---"/><!--  dune li la cartre par tue mercit -->
+<feat xlink:href="#line_364" value="09---"/><!--  co nus dirrat qu enz trovrat escrit -->
+<feat xlink:href="#line_365" value="10mn4"/><!--  e co duinst deus qu or en puisum grarir -->
+<feat xlink:href="#line_366" value="10fe4"/><!--  li apostolie tent sa main a la cartre -->
+<feat xlink:href="#line_367" value="10fn4"/><!--  sainz alexis la sue li alascet -->
+<feat xlink:href="#line_368" value="10fn4"/><!--  lui le consent ki de rome esteit pape -->
+<feat xlink:href="#line_369" value="10fn4"/><!--  il ne la list ne il dedenz ne guardet -->
+<feat xlink:href="#line_370" value="10fn4"/><!--  avant la tent ad un boen clerc e savie -->
+<feat xlink:href="#line_371" value="10fn4"/><!--  li cancelers cui li mesters an eret -->
+<feat xlink:href="#line_372" value="10fe4"/><!--  cil list le cartre li altra l esculterent -->
+<feat xlink:href="#line_373" value="10fn4"/><!--  le num lur dist de l pedre e de la medre -->
+<feat xlink:href="#line_374" value="10fn4"/><!--  e co lur dist de quels parenz il eret -->
+<feat xlink:href="#line_375" value="10fe4"/><!--  d icele gemme qued iloc unt truvede -->
+<feat xlink:href="#line_376" value="10mn4"/><!--  e co lur dist cum s en fuit par mer -->
+<feat xlink:href="#line_377" value="10mn4"/><!--  e cum il fut en alsis la citet -->
+<feat xlink:href="#line_378" value="10me4"/><!--  e que l imagine deus fist pur lui parler -->
+<feat xlink:href="#line_379" value="10mn4"/><!--  e pur l onor dunt ne s volt ancumbrer -->
+<feat xlink:href="#line_380" value="10mn4"/><!--  s en refuit en rome la citet -->
+<feat xlink:href="#line_381" value="10fe4"/><!--  quant ot li pedre co que dit ad la cartre -->
+<feat xlink:href="#line_382" value="12---"/><!--  ad ambes mains derumpet sa blance barbe -->
+<feat xlink:href="#line_383" value="10fn4"/><!--  e filz dist il cum dolerus message -->
+<feat xlink:href="#line_384" value="10fn4"/><!--  jo atendi quet a mei repairasses -->
+<feat xlink:href="#line_385" value="10fn4"/><!--  par deu merci que tu n reconfortasses -->
+<feat xlink:href="#line_386" value="10mn4"/><!--  a halte voiz prist li pedra a crier -->
+<feat xlink:href="#line_387" value="11---"/><!--  filz alexis quels dols m est apresentet -->
+<feat xlink:href="#line_388" value="12---"/><!--  malveise guarde t ai faite suz mun degret -->
+<feat xlink:href="#line_389" value="10me4"/><!--  a las pecables cum par fui avoglet -->
+<feat xlink:href="#line_390" value="10mn4"/><!--  tant l ai vedud si ne l poi aviser -->
+<feat xlink:href="#line_391" value="10fn4"/><!--  filz alexis de ta dolenta medra -->
+<feat xlink:href="#line_392" value="10fn4"/><!--  tantes dolurs ad pur tei andurede -->
+<feat xlink:href="#line_393" value="10fn4"/><!--  e tantes fains e tantes consireres -->
+<feat xlink:href="#line_394" value="10fe4"/><!--  e tantes lermes pur le ton cors pluredes -->
+<feat xlink:href="#line_395" value="10fn4"/><!--  cist dols l avrat enquor par acurede -->
+<feat xlink:href="#line_396" value="10me4"/><!--  o filz cui erent mes granz ereditez -->
+<feat xlink:href="#line_397" value="10me4"/><!--  mes larges terres dunt jo aveie asez -->
+<feat xlink:href="#line_398" value="10mn4"/><!--  mes granz paleis de rome la citet -->
+<feat xlink:href="#line_399" value="10mn4"/><!--  puis mun deces en fusses enoret -->
+<feat xlink:href="#line_400" value="10mn4"/><!--  et enpur tei m en esteie penet -->
+<feat xlink:href="#line_401" value="10fn4"/><!--  blanc ai le chef e le barbe ai canuthe -->
+<feat xlink:href="#line_402" value="10fn4"/><!--  ma grant honur t aveie retenude -->
+<feat xlink:href="#line_403" value="10fn4"/><!--  et anpur tei mais n en aveies cure -->
+<feat xlink:href="#line_404" value="10fn4"/><!--  si grant dolur or m est aparude -->
+<feat xlink:href="#line_405" value="10fn4"/><!--  filz la tue aname e l ciel seit absoluthe -->
+<feat xlink:href="#line_406" value="10mn4"/><!--  tei cuvenist helme e brunie a porter -->
+<feat xlink:href="#line_407" value="10me4"/><!--  espede ceindra cume tui altre per -->
+<feat xlink:href="#line_408" value="10me4"/><!--  e grant maisnede douses guverner -->
+<feat xlink:href="#line_409" value="10mn4"/><!--  cum fist tis pedre e li tons parentez -->
+<feat xlink:href="#line_410" value="10mn4"/><!--  le gunfanun l emperedur porter -->
+<feat xlink:href="#line_411" value="10fn4"/><!--  a tel dolur et a si grant poverte -->
+<feat xlink:href="#line_412" value="10fn4"/><!--  filz t ies deduit par alienes terres -->
+<feat xlink:href="#line_413" value="10---"/><!--  e d icel bien ki toen doust estra -->
+<feat xlink:href="#line_414" value="10fe4"/><!--  quer am perneies en ta povre herberge -->
+<feat xlink:href="#line_415" value="12---"/><!--  se deu ploust servit en dousses estra -->
+<feat xlink:href="#line_416" value="10fn4"/><!--  de la dolur qu en demenat li pedra -->
+<feat xlink:href="#line_417" value="10fn4"/><!--  grant fut li dols si l antendit la medre -->
+<feat xlink:href="#line_418" value="10fe4"/><!--  la vint curante cum femme forsenede -->
+<feat xlink:href="#line_419" value="10fe4"/><!--  batant ses palmes criant eschevelede -->
+<feat xlink:href="#line_420" value="10fn4"/><!--  vit mort sum filz a terre chet pasmede -->
+<feat xlink:href="#line_421" value="10mn4"/><!--  chi dunt li vit sun grant dol demener -->
+<feat xlink:href="#line_422" value="10mn4"/><!--  sum piz debatre e sun cors dejeter -->
+<feat xlink:href="#line_423" value="10mn4"/><!--  ses crins derumpre e sen vis maiseler -->
+<feat xlink:href="#line_424" value="10mn4"/><!--  sun mort amfant detraire et acoler -->
+<feat xlink:href="#line_425" value="10mn4"/><!--  mult fust il dur ki n estoust plurer -->
+<feat xlink:href="#line_426" value="10fn4"/><!--  trait ses chevels e debat sa peitrine -->
+<feat xlink:href="#line_427" value="10fn4"/><!--  a grant duel met la sue carn medisme -->
+<feat xlink:href="#line_428" value="10fe4"/><!--  e filz dist ele cum m ous enhadithe -->
+<feat xlink:href="#line_429" value="10fe4"/><!--  e jo dolente cum par fui avoglie -->
+<feat xlink:href="#line_430" value="10fe4"/><!--  ne l cunuisseie plus que unches ne l vedisse -->
+<feat xlink:href="#line_431" value="10mn4"/><!--  plurent si oil e si jetet granz criz -->
+<feat xlink:href="#line_432" value="10me4"/><!--  sempres regretet mar te portai bels filz -->
+<feat xlink:href="#line_433" value="10me4"/><!--  e de ta medra quer aveies mercit -->
+<feat xlink:href="#line_434" value="10me4"/><!--  pur que m vedeies desirrer a murir -->
+<feat xlink:href="#line_435" value="13---"/><!--  co est grant merveile que pietet ne t en prist -->
+<feat xlink:href="#line_436" value="10fe4"/><!--  a lasse mezre cum oi fort aventure -->
+<feat xlink:href="#line_437" value="10fe4"/><!--  or vei jo morte tute ma porteure -->
+<feat xlink:href="#line_438" value="10fn4"/><!--  ma lunga atente a grant duel est venude -->
+<feat xlink:href="#line_439" value="10fn4"/><!--  pur quei portai dolente malfeude -->
+<feat xlink:href="#line_440" value="10fe4"/><!--  co est granz merveile que li mens quors tant duret -->
+<feat xlink:href="#line_441" value="10fn4"/><!--  filz alexis mult ous dur curage -->
+<feat xlink:href="#line_442" value="10fn4"/><!--  cum avilas tut tun gentil linage -->
+<feat xlink:href="#line_443" value="10fe4"/><!--  set a mei sole vels une feiz parlasses -->
+<feat xlink:href="#line_444" value="11---"/><!--  ta lasse medre si la confortasses -->
+<feat xlink:href="#line_445" value="10fe4"/><!--  ki si st dolente cher fiz bor i alasses -->
+<feat xlink:href="#line_446" value="10fn4"/><!--  filz alexis de la tue carn tendra -->
+<feat xlink:href="#line_447" value="10fn4"/><!--  a quel dolur deduit as ta juventa -->
+<feat xlink:href="#line_448" value="12---"/><!--  pur que m fuis ja te portai en men ventre -->
+<feat xlink:href="#line_449" value="10fn4"/><!--  e deus le set que tute sui dolente -->
+<feat xlink:href="#line_450" value="10fe4"/><!--  jamais n erc lede pur home ne pur femme -->
+<feat xlink:href="#line_451" value="12---"/><!--  ainz que tei vedisse fui mult desirruse -->
+<feat xlink:href="#line_452" value="10fe4"/><!--  ainz que ned fusses si n fui mult angussuse -->
+<feat xlink:href="#line_453" value="10fn4"/><!--  quant jo vid ned si n fui lede e goiuse -->
+<feat xlink:href="#line_454" value="10fn4"/><!--  or te vei mort tute en sui doleruse -->
+<feat xlink:href="#line_455" value="10fn4"/><!--  co peiset mei que ma fins tant domoret -->
+<feat xlink:href="#line_456" value="10me4"/><!--  seinurs de rome pur amur deu mercit -->
+<feat xlink:href="#line_457" value="12---"/><!--  aidiez mei a plaindra le duel de mun ami -->
+<feat xlink:href="#line_458" value="10me4"/><!--  ne puis tant faire que mes quors s en sazit -->
+<feat xlink:href="#line_459" value="10mn4"/><!--  granz est li dols ki sor mai est vertiz -->
+<feat xlink:href="#line_460" value="10---"/><!--  n est merveile n ai mais filie ne filz -->
+<feat xlink:href="#line_461" value="10fn4"/><!--  entre le dol de l pedra e de la medre -->
+<feat xlink:href="#line_462" value="10fe4"/><!--  vint la pulcele que il out espusede -->
+<feat xlink:href="#line_463" value="10fe4"/><!--  sire dist ela cum longa demurere -->
+<feat xlink:href="#line_464" value="10fn4"/><!--  ai atendude an la maisun tun pedra -->
+<feat xlink:href="#line_465" value="10fn4"/><!--  ou tu n laisas dolente et eguarede -->
+<feat xlink:href="#line_466" value="10mn4"/><!--  sire alexis tanz jurz t ai desirret -->
+<feat xlink:href="#line_467" value="10mn4"/><!--  e tantes feiz pur tei an luinz guardet -->
+<feat xlink:href="#line_468" value="10me4"/><!--  si revenisses ta spuse conforter -->
+<feat xlink:href="#line_469" value="10me4"/><!--  pur felunie nient ne pur lastet -->
+<feat xlink:href="#line_470" value="10fn4"/><!--  o kiers amis de ta juvente bela -->
+<feat xlink:href="#line_471" value="10fn4"/><!--  co peiset mai que si purirat terre -->
+<feat xlink:href="#line_472" value="10fn4"/><!--  e gentils hom cum dolente puis estra -->
+<feat xlink:href="#line_473" value="10fe4"/><!--  jo atendeie de te bones noveles -->
+<feat xlink:href="#line_474" value="10fn4"/><!--  mais ore les vei si dures e si pesmes -->
+<feat xlink:href="#line_475" value="10fe4"/><!--  o bele buce bel vis bele faiture -->
+<feat xlink:href="#line_476" value="10fe4"/><!--  cum est mudede vostra bela figure -->
+<feat xlink:href="#line_477" value="10fn4"/><!--  plus vos amai que nule creature -->
+<feat xlink:href="#line_478" value="10fn4"/><!--  si grant dolur or m est aparude -->
+<feat xlink:href="#line_479" value="10fn4"/><!--  melz me venist amis que morte fusse -->
+<feat xlink:href="#line_480" value="10me4"/><!--  se jo sousse la jus suz lu degret -->
+<feat xlink:href="#line_481" value="10mn4"/><!--  ou as geud de lung amfermetet -->
+<feat xlink:href="#line_482" value="11---"/><!--  ja tute gent ne m en sousent turner -->
+<feat xlink:href="#line_483" value="10me4"/><!--  qu a tei ansemble n ousse converset -->
+<feat xlink:href="#line_484" value="11---"/><!--  si me leust si t ousse bien guardet -->
+<feat xlink:href="#line_485" value="10fe4"/><!--  ore sui jo vedve sire dist la pulcela -->
+<feat xlink:href="#line_486" value="10fe4"/><!--  jamais ledece n avrai quar ne pot estra -->
+<feat xlink:href="#line_487" value="10fe4"/><!--  ne jamais hume n avrai an tute terre -->
+<feat xlink:href="#line_488" value="10fn4"/><!--  deu servirei le rei ki tot guvernet -->
+<feat xlink:href="#line_489" value="10fn4"/><!--  il ne n faldrat s il veit que jo lui serve -->
+<feat xlink:href="#line_490" value="10fn4"/><!--  tant i plurat e le pedra e la medra -->
+<feat xlink:href="#line_491" value="10fe4"/><!--  e la pulcela que tuz s en alasserent -->
+<feat xlink:href="#line_492" value="10fe4"/><!--  en tant dementres le saint cors conreierent -->
+<feat xlink:href="#line_493" value="10fn4"/><!--  tuit cil seinur e bel l acustumerent -->
+<feat xlink:href="#line_494" value="10fn4"/><!--  com felix cels ki par feit l enorerent -->
+<feat xlink:href="#line_495" value="10fe4"/><!--  seignors que faites co dist li apostolie -->
+<feat xlink:href="#line_496" value="10fn4"/><!--  que valt cist crit cist dols ne cesta noise -->
+<feat xlink:href="#line_497" value="10fe4"/><!--  chi chi se doilet a nostr os est il goie -->
+<feat xlink:href="#line_498" value="10fn4"/><!--  quar par cestui avrum boen adjutorie -->
+<feat xlink:href="#line_499" value="10fn4"/><!--  si li preiuns que de tuz mals nos tolget -->
+<feat xlink:href="#line_500" value="10me4"/><!--  trestuz li preient ki pourent avenir -->
+<feat xlink:href="#line_501" value="10me4"/><!--  cantant en portent le cors saint alexis -->
+<feat xlink:href="#line_502" value="10me4"/><!--  e tuit li preient que d els aiet mercit -->
+<feat xlink:href="#line_503" value="10mn4"/><!--  n estot somondre icels ki l unt oit -->
+<feat xlink:href="#line_504" value="10me4"/><!--  tuit i acorent li grant e li petit -->
+<feat xlink:href="#line_505" value="10fe4"/><!--  si s en commourent tota la gent de rome -->
+<feat xlink:href="#line_506" value="10fn4"/><!--  plus tost i vint ki plus tost i pout curre -->
+<feat xlink:href="#line_507" value="10fe4"/><!--  par mi les rues an venent si granz turbes -->
+<feat xlink:href="#line_508" value="10fn4"/><!--  ne reis ne quons n i poet faire entrarote -->
+<feat xlink:href="#line_509" value="10fn4"/><!--  ne le saint cors ne pourent passer ultra -->
+<feat xlink:href="#line_510" value="10me4"/><!--  entr els an prennent cil seinor a parler -->
+<feat xlink:href="#line_511" value="10me4"/><!--  granz est la presse nus n i poduns passer -->
+<feat xlink:href="#line_512" value="09---"/><!--  cest saint cors que deus nus ad donet -->
+<feat xlink:href="#line_513" value="10me4"/><!--  liez est li poples ki tant l at desirret -->
+<feat xlink:href="#line_514" value="10me4"/><!--  tuit i acorent nuls ne s en volt turner -->
+<feat xlink:href="#line_515" value="10fe4"/><!--  cil an respondent ki l ampirie bailissent -->
+<feat xlink:href="#line_516" value="10fn4"/><!--  mercit seniurs nus an querreuns mecine -->
+<feat xlink:href="#line_517" value="12---"/><!--  de noz aveirs feruns largas departies -->
+<feat xlink:href="#line_518" value="10fe4"/><!--  la main menude ki l almosne desiret -->
+<feat xlink:href="#line_519" value="14---"/><!--  s il nus funt presse uncore an ermes delivres -->
+<feat xlink:href="#line_520" value="10mn4"/><!--  de lur tresors prenent l or e l argent -->
+<feat xlink:href="#line_521" value="10mn4"/><!--  si l funt jeter devant la povre gent -->
+<feat xlink:href="#line_522" value="10me4"/><!--  par ico quident aver discumbrement -->
+<feat xlink:href="#line_523" value="10me4"/><!--  mais ne puet estra cil n en rovent nient -->
+<feat xlink:href="#line_524" value="10me4"/><!--  a cel saint hume trestut est lur talent -->
+<feat xlink:href="#line_525" value="10fn4"/><!--  ad une voiz crient la gent menude -->
+<feat xlink:href="#line_526" value="10fn4"/><!--  de cest aveir certes nus n avum cure -->
+<feat xlink:href="#line_527" value="10fe4"/><!--  si grant ledece nus est aparude -->
+<feat xlink:href="#line_528" value="10fn4"/><!--  d icest saint cors que avum am bailide -->
+<feat xlink:href="#line_529" value="10fn4"/><!--  par lui avrum se deu plaist bone aiude -->
+<feat xlink:href="#line_530" value="10fe4"/><!--  unches en rome n en out si grant ledece -->
+<feat xlink:href="#line_531" value="10fn4"/><!--  cun out le jurn a s povres et a s riches -->
+<feat xlink:href="#line_532" value="10fn4"/><!--  pur cel saint cors qu il unt en lur bailie -->
+<feat xlink:href="#line_533" value="10fn4"/><!--  co lur est vis que tengent deu medisme -->
+<feat xlink:href="#line_534" value="10fe4"/><!--  trestut le pople lodet deu e graciet -->
+<feat xlink:href="#line_535" value="10mn4"/><!--  sainz alexis out bone volentet -->
+<feat xlink:href="#line_536" value="10mn4"/><!--  pur oec en est oi cest jurn oneuret -->
+<feat xlink:href="#line_537" value="10mn4"/><!--  le cors an est an rome la citet -->
+<feat xlink:href="#line_538" value="10mn4"/><!--  e l anema en est enz e l paradis deu -->
+<feat xlink:href="#line_539" value="10me4"/><!--  bien poet liez estra chi si est aluez -->
+<feat xlink:href="#line_540" value="11---"/><!--  ki fait ad pechet bien s en pot recorder -->
+<feat xlink:href="#line_541" value="10me4"/><!--  par penitence s en pot tres bien salver -->
+<feat xlink:href="#line_542" value="10me4"/><!--  bries est cist secles plus durable atendeiz -->
+<feat xlink:href="#line_543" value="10mn4"/><!--  co preiums deu la sainte trinitet -->
+<feat xlink:href="#line_544" value="10me4"/><!--  que deu ansemble poissum e l ciel regner -->
+<feat xlink:href="#line_545" value="10me4"/><!--  surz ne avogles ne contraiz ne leprus -->
+<feat xlink:href="#line_546" value="10mn4"/><!--  ne muz ne orbs ne neuls palazinus -->
+<feat xlink:href="#line_547" value="10mn4"/><!--  ensur tut ne nuls languerus -->
+<feat xlink:href="#line_548" value="10mn4"/><!--  nuls n en i at ki n alget malendus -->
+<feat xlink:href="#line_549" value="10mn4"/><!--  cel n enn i at ki n report sa dolur -->
+<feat xlink:href="#line_550" value="10mn4"/><!--  n i vint amferm de nul amfermetet -->
+<feat xlink:href="#line_551" value="10me4"/><!--  quant il l apelet sempres nen ait sanctet -->
+<feat xlink:href="#line_552" value="10mn4"/><!--  alquant i vunt aquant se funt porter -->
+<feat xlink:href="#line_553" value="10---"/><!--  si veirs miracles lur ad deus mustret -->
+<feat xlink:href="#line_554" value="10mn4"/><!--  ki vint plurant cantant l en fait raler -->
+<feat xlink:href="#line_555" value="10fn4"/><!--  cil dui seniur ki l empirie guvernent -->
+<feat xlink:href="#line_556" value="10fe4"/><!--  quant il i veient les vertuz si apertes -->
+<feat xlink:href="#line_557" value="10fe4"/><!--  il le receivent si l plorent e si l servent -->
+<feat xlink:href="#line_558" value="10fn4"/><!--  alques par pri e le plus par podeste -->
+<feat xlink:href="#line_559" value="10fn4"/><!--  vunt en avant si derumpent la presse -->
+<feat xlink:href="#line_560" value="10fe4"/><!--  sainz boneface que l um martir apelet -->
+<feat xlink:href="#line_561" value="10fn4"/><!--  aveit an rome un eglise mult bele -->
+<feat xlink:href="#line_562" value="10fe4"/><!--  iloec an portent danz alexis acertes -->
+<feat xlink:href="#line_563" value="10fn4"/><!--  et attement le posent a la terre -->
+<feat xlink:href="#line_564" value="10fn4"/><!--  felix le liu u sun saint cors herberget -->
+<feat xlink:href="#line_565" value="10me4"/><!--  la gent de rome ki tant l unt desirret -->
+<feat xlink:href="#line_566" value="10me4"/><!--  seat jurz le tenent sor terre a podestet -->
+<feat xlink:href="#line_567" value="10me4"/><!--  grant est la presse ne l estuet demander -->
+<feat xlink:href="#line_568" value="10mn4"/><!--  de tutes parz l unt si avirunet -->
+<feat xlink:href="#line_569" value="10me4"/><!--  c est avis unches hom n i poet habiter -->
+<feat xlink:href="#line_570" value="10fn4"/><!--  a l sedme jurn fut faite la herberge -->
+<feat xlink:href="#line_571" value="10fn4"/><!--  a cel saint cors a la gemme celeste -->
+<feat xlink:href="#line_572" value="10fe4"/><!--  en sus s en traient si alascet la presse -->
+<feat xlink:href="#line_573" value="10fn4"/><!--  voillent o nun si l laissent metra an terre -->
+<feat xlink:href="#line_574" value="10fn4"/><!--  co peiset els mais altre ne puet estra -->
+<feat xlink:href="#line_575" value="10fn4"/><!--  ad ancensers ad ories candelabres -->
+<feat xlink:href="#line_576" value="10fn4"/><!--  clers revestuz an albes et an capes -->
+<feat xlink:href="#line_577" value="10fn4"/><!--  metent le cors enz en sarqueu de marbre -->
+<feat xlink:href="#line_578" value="10fe4"/><!--  alquant i cantent li pluisur jetent lermes -->
+<feat xlink:href="#line_579" value="10fn4"/><!--  ja le lur voil de lui ne desevrassent -->
+<feat xlink:href="#line_580" value="10me4"/><!--  d or e de gemmes fut li sarqueus parez -->
+<feat xlink:href="#line_581" value="10mn4"/><!--  pur cel saint cors qu il i deivent poser -->
+<feat xlink:href="#line_582" value="10me4"/><!--  en terre el metent par vive poestet -->
+<feat xlink:href="#line_583" value="10me4"/><!--  pluret li poples de rome la citet -->
+<feat xlink:href="#line_584" value="10me4"/><!--  suz ciel n at home ki s puisset atarger -->
+<feat xlink:href="#line_585" value="10fe4"/><!--  or n estot dire de l pedra e de la medra -->
+<feat xlink:href="#line_586" value="10fe4"/><!--  e de la spuse cum il s en doloserent -->
+<feat xlink:href="#line_587" value="10fn4"/><!--  quer tuit en unt lor voiz si atempredes -->
+<feat xlink:href="#line_588" value="10fe4"/><!--  que tuit le plainstrent e tuit le doloserent -->
+<feat xlink:href="#line_589" value="10fn4"/><!--  cel jurn i out cent mil lairmes pluredes -->
+<feat xlink:href="#line_590" value="10me4"/><!--  desur terre ne l pourent mais tenir -->
+<feat xlink:href="#line_591" value="10mn4"/><!--  voilent o non si l laissent enfodir -->
+<feat xlink:href="#line_592" value="10mn4"/><!--  prenent conget a l cors saint alexis -->
+<feat xlink:href="#line_593" value="10---"/><!--  e si li preient que d els ait mercit -->
+<feat xlink:href="#line_594" value="10mn4"/><!--  a l son seignor il lur seit boens plaidiz -->
+<feat xlink:href="#line_595" value="10fe4"/><!--  vait s en li pople le pere e la medra -->
+<feat xlink:href="#line_596" value="10fn4"/><!--  e la pulcela unches ne desevrerent -->
+<feat xlink:href="#line_597" value="10fe4"/><!--  ansemble furent jusqu a deu s en ralerent -->
+<feat xlink:href="#line_598" value="10fe4"/><!--  lur cumpainie fut bone et honorethe -->
+<feat xlink:href="#line_599" value="10fn4"/><!--  par cel saint cors sunt lur anames salvedes -->
+<feat xlink:href="#line_600" value="10fn4"/><!--  sainz alexis est e l ciel senz dutance -->
+<feat xlink:href="#line_601" value="10ln4"/><!--  ensembl ot deu e la compaignie a s angeles -->
+<feat xlink:href="#line_602" value="13---"/><!--  od la pulcela dunt il se fist si estranges -->
+<feat xlink:href="#line_603" value="10ln4"/><!--  or l at od sei ansemble sunt lur anames -->
+<feat xlink:href="#line_604" value="10fe4"/><!--  ne vus sai dirre cum lur ledece est grande -->
+<feat xlink:href="#line_605" value="10fe4"/><!--  cum bone peine deus e si boen servise -->
+<feat xlink:href="#line_606" value="10fn4"/><!--  fist cel saint homo en cesta mortel vide -->
+<feat xlink:href="#line_607" value="10fe4"/><!--  quer or est s aname de glorie replenithe -->
+<feat xlink:href="#line_608" value="10---"/><!--  co ad que s volt nient n est a dire -->
+<feat xlink:href="#line_609" value="10fn4"/><!--  ensor tut e si veit deu medisme -->
+<feat xlink:href="#line_610" value="10mn4"/><!--  las malfeuz cum esmes avoglez -->
+<feat xlink:href="#line_611" value="10mn4"/><!--  quer co veduns que tuit sumes desvez -->
+<feat xlink:href="#line_612" value="10mn4"/><!--  de noz pechez sumes si ancumbrez -->
+<feat xlink:href="#line_613" value="10me4"/><!--  la dreite vide nus funt tres oblier -->
+<feat xlink:href="#line_614" value="10me4"/><!--  par cest saint home doussum ralumer -->
+<feat xlink:href="#line_615" value="10fn4"/><!--  aiuns seignors cel saint home en memorie -->
+<feat xlink:href="#line_616" value="10fn4"/><!--  si li preiuns que de toz mals nos tolget -->
+<feat xlink:href="#line_617" value="10fe4"/><!--  en icest siecle nus acat pais e glorie -->
+<feat xlink:href="#line_618" value="10fe4"/><!--  et en cel altra la plus durable glorie -->
+<feat xlink:href="#line_619" value="10fe4"/><!--  en ipse verbe si n dimes pater noster -->
+<feat xlink:href="#line_620" value="02---"/><!--  amen -->
+</featList>
+</paula>

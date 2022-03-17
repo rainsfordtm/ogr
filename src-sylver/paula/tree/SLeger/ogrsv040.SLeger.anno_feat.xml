@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
+<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogrsv040.SLeger.anno.xml">
+<multiFeat xlink:href="#anno_0">
+<feat name="text" value="SLeger"/>
+<feat name="lang" value="fro"/><feat name="lang_other" value="---"/><feat name="ms_cent" value="10..11"/><feat name="ms_origin" value="Limousin [?]"/><feat name="text_cent" value="10"/><feat name="text_origin" value="Picardy|Wallonia [?]"/><feat name="title_en" value="Life of Saint Leger"/><feat name="title_fr" value="Vie de saint Léger"/><feat name="author" value="anonymous"/><feat name="ms" value="Clermont-Ferrand, Bibliothèque municipale, 240"/><feat name="form" value="verse"/><feat name="source" value="transcription"/></multiFeat>
+</multiFeatList>
+</paula>

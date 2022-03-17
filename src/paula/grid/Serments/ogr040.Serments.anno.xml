@@ -66,8 +66,5 @@
 </struct><struct id="anno_14">
 <rel id="rel_46" xlink:href="tei.Serments.tei_s"/>
 <rel id="rel_47" xlink:href="tei.Serments.tei_s_tei_s"/>
-<rel id="rel_48" xlink:href="tei.Serments.tei_s_xml_lang"/>
-<rel id="rel_49" xlink:href="tei.Serments.tei_s"/>
-<rel id="rel_50" xlink:href="tei.Serments.tei_s_xml_lang"/>
 </struct></structList>
 </paula>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.PrVierge3_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogrsv040.PrVierge3.line.xml">
+<feat xlink:href="#line_0" value="PrVierge3, title"/><!--  versus sancte marie -->
+<feat xlink:href="#line_1" value="PrVierge3, l. 1"/><!--  o maria deu maire -->
+<feat xlink:href="#line_2" value="PrVierge3, l. 2"/><!--  deu t es e fils e paire -->
+<feat xlink:href="#line_3" value="PrVierge3, l. 3"/><!--  domna preia per nos -->
+<feat xlink:href="#line_4" value="PrVierge3, l. 4"/><!--  to fil lo glorios -->
+<feat xlink:href="#line_5" value="PrVierge3, l. 5"/><!--  e lo pair aissamen -->
+<feat xlink:href="#line_6" value="PrVierge3, l. 6"/><!--  preia per tota jen -->
+<feat xlink:href="#line_7" value="PrVierge3, l. 7"/><!--  e c el no nos socor -->
+<feat xlink:href="#line_8" value="PrVierge3, l. 8"/><!--  tornat nos es a plor -->
+<feat xlink:href="#line_9" value="PrVierge3, l. 9"/><!--  eva creet serpen -->
+<feat xlink:href="#line_10" value="PrVierge3, l. 10"/><!--  un agel resplanden -->
+<feat xlink:href="#line_11" value="PrVierge3, l. 11"/><!--  per so nos en vai gen -->
+<feat xlink:href="#line_12" value="PrVierge3, l. 12"/><!--  deus n es om veramen -->
+<feat xlink:href="#line_13" value="PrVierge3, l. 13"/><!--  car de femna nasquet -->
+<feat xlink:href="#line_14" value="PrVierge3, l. 14"/><!--  deus la femna salvet -->
+<feat xlink:href="#line_15" value="PrVierge3, l. 15"/><!--  e pre quo nasquet hom -->
+<feat xlink:href="#line_16" value="PrVierge3, l. 16"/><!--  que garit en fos hom -->
+<feat xlink:href="#line_17" value="PrVierge3, l. 17"/><!--  eva moler adam -->
+<feat xlink:href="#line_18" value="PrVierge3, l. 18"/><!--  quar creet lo setam -->
+<feat xlink:href="#line_19" value="PrVierge3, l. 19"/><!--  nos mes en tal afan -->
+<feat xlink:href="#line_20" value="PrVierge3, l. 20"/><!--  per qu avem set e fam -->
+<feat xlink:href="#line_21" value="PrVierge3, l. 21"/><!--  eva mot foleet -->
+<feat xlink:href="#line_22" value="PrVierge3, l. 22"/><!--  quar de queu frut manjet -->
+<feat xlink:href="#line_23" value="PrVierge3, l. 23"/><!--  que deus li devedet -->
+<feat xlink:href="#line_24" value="PrVierge3, l. 24"/><!--  e cel que la creet -->
+<feat xlink:href="#line_25" value="PrVierge3, l. 25"/><!--  e c el no l an crees -->
+<feat xlink:href="#line_26" value="PrVierge3, l. 26"/><!--  e de u fruit no manjes -->
+<feat xlink:href="#line_27" value="PrVierge3, l. 27"/><!--  ja no murira hom -->
+<feat xlink:href="#line_28" value="PrVierge3, l. 28"/><!--  chi ames nostre don -->
+<feat xlink:href="#line_29" value="PrVierge3, l. 29"/><!--  mas tan fora de gen -->
+<feat xlink:href="#line_30" value="PrVierge3, l. 30"/><!--  ch avera garimen -->
+<feat xlink:href="#line_31" value="PrVierge3, l. 31"/><!--  cil chi perdut seran -->
+<feat xlink:href="#line_32" value="PrVierge3, l. 32"/><!--  ja per re no foran -->
+<feat xlink:href="#line_33" value="PrVierge3, l. 33"/><!--  adam menjet lo fruit -->
+<feat xlink:href="#line_34" value="PrVierge3, l. 34"/><!--  per que fom tuit perdut -->
+<feat xlink:href="#line_35" value="PrVierge3, l. 35"/><!--  adam no creet deu -->
+<feat xlink:href="#line_36" value="PrVierge3, l. 36"/><!--  a tot nos en vai greu -->
+<feat xlink:href="#line_37" value="PrVierge3, l. 37"/><!--  deus receubt per lui mort -->
+<feat xlink:href="#line_38" value="PrVierge3, l. 38"/><!--  e la crot a gran tort -->
+<feat xlink:href="#line_39" value="PrVierge3, l. 39"/><!--  e resors a l tert dia -->
+<feat xlink:href="#line_40" value="PrVierge3, l. 40"/><!--  si cum o dii maria -->
+<feat xlink:href="#line_41" value="PrVierge3, l. 41"/><!--  a ut apostols cumtet -->
+<feat xlink:href="#line_42" value="PrVierge3, l. 42"/><!--  e dis c ap deu parlet -->
+<feat xlink:href="#line_43" value="PrVierge3, l. 43"/><!--  qu e u poi de galilea -->
+<feat xlink:href="#line_44" value="PrVierge3, l. 44"/><!--  viu lo verem angera -->
+<feat xlink:href="#line_45" value="PrVierge3, l. 45"/><!--  vida qui mort aucis -->
+<feat xlink:href="#line_46" value="PrVierge3, l. 46"/><!--  nos donet paradis -->
+<feat xlink:href="#line_47" value="PrVierge3, l. 47"/><!--  gloria aisamen -->
+<feat xlink:href="#line_48" value="PrVierge3, l. 48"/><!--  nos do deus veramen -->
+</featList>
+</paula>

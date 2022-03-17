@@ -8,5 +8,5 @@ div.title{font-size: 150%; font-weight: bold; height: 40px; margin-bottom: 20px}
 .line_ref:hover{color: grey}
 .heading{font-weight:bold}
 .q{background-color: Azure}
-.lang[lang="lat"]{background-color: Lightgrey}
-.lang[lang="goh"]{background-color: Lightgrey; font-style: italic}
+.lang[lang="lat"]{font-style: italic}
+.lang[lang="goh"]{font-style: italic}

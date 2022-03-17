@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.PrDieu_syll_metpos"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="syll_metpos" xml:base="ogrsv040.PrDieu.syll.xml">
+<feat xlink:href="#syll_0" value="0110-"/><!-- b/e\ -->
+<feat xlink:href="#syll_1" value="0209-"/><!-- d/ɛ\u -->
+<feat xlink:href="#syll_2" value="0308-"/><!-- /ɔ\i -->
+<feat xlink:href="#syll_3" value="0407c"/><!-- m/A\iS -->
+<feat xlink:href="#syll_4" value="0506-"/><!-- f/i\ -->
+<feat xlink:href="#syll_5" value="0605-"/><!-- n/i\r -->
+<feat xlink:href="#syll_6" value="0704-"/><!-- n/ɔ\S -->
+<feat xlink:href="#syll_7" value="0803-"/><!-- tr/A\ -->
+<feat xlink:href="#syll_8" value="0902-"/><!-- r/A\ -->
+<feat xlink:href="#syll_9" value="1001r"/><!-- z/o\S -->
+<feat xlink:href="#syll_10" value="0110-"/><!-- /y\n -->
+<feat xlink:href="#syll_11" value="0209-"/><!-- p/A\uK -->
+<feat xlink:href="#syll_12" value="0308-"/><!-- S/o\i -->
+<feat xlink:href="#syll_13" value="0407c"/><!-- L/A\S -->
+<feat xlink:href="#syll_14" value="0506-"/><!-- k/E\ -->
+<feat xlink:href="#syll_15" value="0605-"/><!-- tr/ɔ\P -->
+<feat xlink:href="#syll_16" value="0704-"/><!-- f/o\ -->
+<feat xlink:href="#syll_17" value="0803-"/><!-- /A\uT -->
+<feat xlink:href="#syll_18" value="0902-"/><!-- L/O\ -->
+<feat xlink:href="#syll_19" value="1001r"/><!-- S/o\S -->
+<feat xlink:href="#syll_20" value="0110-"/><!-- L/ɛ\ -->
+<feat xlink:href="#syll_21" value="0209-"/><!-- v/E\n -->
+<feat xlink:href="#syll_22" value="0308-"/><!-- d/o\i -->
+<feat xlink:href="#syll_23" value="0407c"/><!-- kL/ɛ\rK -->
+<feat xlink:href="#syll_24" value="0506-"/><!-- k/E\ -->
+<feat xlink:href="#syll_25" value="0605-"/><!-- d/i\i -->
+<feat xlink:href="#syll_26" value="0704-"/><!-- /E\n -->
+<feat xlink:href="#syll_27" value="0803-"/><!-- L/O\ -->
+<feat xlink:href="#syll_28" value="0902-"/><!-- r/E\S -->
+<feat xlink:href="#syll_29" value="1001r"/><!-- p/o\S -->
+<feat xlink:href="#syll_30" value="0110-"/><!-- Q/V\ -->
+<feat xlink:href="#syll_31" value="0209-"/><!-- /V\ -->
+<feat xlink:href="#syll_32" value="0308-"/><!-- Q/V\N -->
+<feat xlink:href="#syll_33" value="0407c"/><!-- Q/V\Q -->
+<feat xlink:href="#syll_34" value="----c"/><!-- k/i\ -->
+<feat xlink:href="#syll_35" value="0506-"/><!-- /E\ST -->
+<feat xlink:href="#syll_36" value="0605-"/><!-- p/A\i -->
+<feat xlink:href="#syll_37" value="0704-"/><!-- r/E\ -->
+<feat xlink:href="#syll_38" value="0803-"/><!-- gL/O\ -->
+<feat xlink:href="#syll_39" value="0902-"/><!-- r/i\ -->
+<feat xlink:href="#syll_40" value="1001r"/><!-- /o\S -->
+<feat xlink:href="#syll_41" value="0110-"/><!-- n/o\S -->
+<feat xlink:href="#syll_42" value="0209-"/><!-- t/E\ -->
+<feat xlink:href="#syll_43" value="0308-"/><!-- pr/E\i -->
+<feat xlink:href="#syll_44" value="0407c"/><!-- /A\m -->
+<feat xlink:href="#syll_45" value="0506-"/><!-- k/E\T -->
+<feat xlink:href="#syll_46" value="0605-"/><!-- r/E\ -->
+<feat xlink:href="#syll_47" value="0704-"/><!-- m/E\N -->
+<feat xlink:href="#syll_48" value="0803-"/><!-- br/E\ -->
+<feat xlink:href="#syll_49" value="0902-"/><!-- d/E\ -->
+<feat xlink:href="#syll_50" value="1001r"/><!-- n/o\S -->
+<feat xlink:href="#syll_51" value="0110-"/><!-- k/A\NT -->
+<feat xlink:href="#syll_52" value="0209-"/><!-- tr/i\ -->
+<feat xlink:href="#syll_53" value="0308-"/><!-- /A\ -->
+<feat xlink:href="#syll_54" value="0407c"/><!-- r/A\S -->
+<feat xlink:href="#syll_55" value="0506-"/><!-- L/O\S -->
+<feat xlink:href="#syll_56" value="0605-"/><!-- m/A\LS -->
+<feat xlink:href="#syll_57" value="0704-"/><!-- d/A\N -->
+<feat xlink:href="#syll_58" value="0803-"/><!-- tr/E\ -->
+<feat xlink:href="#syll_59" value="0902-"/><!-- L/O\S -->
+<feat xlink:href="#syll_60" value="1001r"/><!-- b/o\S -->
+</featList>
+</paula>

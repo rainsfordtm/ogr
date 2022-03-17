@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.PrDieu_line"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="line" xml:base="ogrsv040.PrDieu.tok.xml">
+<mark id="line_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_6')))"/><!-- tuautem -->
+<mark id="line_1" xlink:href="#xpointer(id('tok_7')/range-to(id('tok_33')))"/><!-- bedeuhoimaisfinirnostrarazos -->
+<mark id="line_2" xlink:href="#xpointer(id('tok_34')/range-to(id('tok_61')))"/><!-- unpaucsoilasquetropfoautlosos -->
+<mark id="line_3" xlink:href="#xpointer(id('tok_62')/range-to(id('tok_89')))"/><!-- levendoiclercquediienlorespos -->
+<mark id="line_4" xlink:href="#xpointer(id('tok_90')/range-to(id('tok_115')))"/><!-- tuautemdeusquiestpaireglorios -->
+<mark id="line_5" xlink:href="#xpointer(id('tok_116')/range-to(id('tok_142')))"/><!-- nostepreiamquetremembredenos -->
+<mark id="line_6" xlink:href="#xpointer(id('tok_143')/range-to(id('tok_172')))"/><!-- quanttriaraslosmalsdantrelosbos -->
+</markList>
+</paula>

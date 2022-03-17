@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_mark.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.PrDieu_syll"/>
+<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="syll" xml:base="ogrsv040.PrDieu.tok.xml">
+<mark id="syll_0" xlink:href="#xpointer(id('tok_7')/range-to(id('tok_8')))"/><!-- be -->
+<mark id="syll_1" xlink:href="#xpointer(id('tok_9')/range-to(id('tok_11')))"/><!-- deu -->
+<mark id="syll_2" xlink:href="#xpointer(id('tok_12')/range-to(id('tok_13')))"/><!-- hoi -->
+<mark id="syll_3" xlink:href="#xpointer(id('tok_14')/range-to(id('tok_17')))"/><!-- mais -->
+<mark id="syll_4" xlink:href="#xpointer(id('tok_18')/range-to(id('tok_19')))"/><!-- fi -->
+<mark id="syll_5" xlink:href="#xpointer(id('tok_20')/range-to(id('tok_22')))"/><!-- nir -->
+<mark id="syll_6" xlink:href="#xpointer(id('tok_23')/range-to(id('tok_25')))"/><!-- nos -->
+<mark id="syll_7" xlink:href="#xpointer(id('tok_26')/range-to(id('tok_28')))"/><!-- tra -->
+<mark id="syll_8" xlink:href="#xpointer(id('tok_29')/range-to(id('tok_30')))"/><!-- ra -->
+<mark id="syll_9" xlink:href="#xpointer(id('tok_31')/range-to(id('tok_33')))"/><!-- zos -->
+<mark id="syll_10" xlink:href="#xpointer(id('tok_34')/range-to(id('tok_35')))"/><!-- un -->
+<mark id="syll_11" xlink:href="#xpointer(id('tok_36')/range-to(id('tok_39')))"/><!-- pauc -->
+<mark id="syll_12" xlink:href="#xpointer(id('tok_40')/range-to(id('tok_42')))"/><!-- soi -->
+<mark id="syll_13" xlink:href="#xpointer(id('tok_43')/range-to(id('tok_45')))"/><!-- las -->
+<mark id="syll_14" xlink:href="#xpointer(id('tok_46')/range-to(id('tok_47')))"/><!-- que -->
+<mark id="syll_15" xlink:href="#xpointer(id('tok_48')/range-to(id('tok_51')))"/><!-- trop -->
+<mark id="syll_16" xlink:href="#xpointer(id('tok_52')/range-to(id('tok_53')))"/><!-- fo -->
+<mark id="syll_17" xlink:href="#xpointer(id('tok_54')/range-to(id('tok_56')))"/><!-- aut -->
+<mark id="syll_18" xlink:href="#xpointer(id('tok_57')/range-to(id('tok_58')))"/><!-- lo -->
+<mark id="syll_19" xlink:href="#xpointer(id('tok_59')/range-to(id('tok_61')))"/><!-- sos -->
+<mark id="syll_20" xlink:href="#xpointer(id('tok_62')/range-to(id('tok_63')))"/><!-- le -->
+<mark id="syll_21" xlink:href="#xpointer(id('tok_64')/range-to(id('tok_66')))"/><!-- ven -->
+<mark id="syll_22" xlink:href="#xpointer(id('tok_67')/range-to(id('tok_69')))"/><!-- doi -->
+<mark id="syll_23" xlink:href="#xpointer(id('tok_70')/range-to(id('tok_74')))"/><!-- clerc -->
+<mark id="syll_24" xlink:href="#xpointer(id('tok_75')/range-to(id('tok_76')))"/><!-- que -->
+<mark id="syll_25" xlink:href="#xpointer(id('tok_77')/range-to(id('tok_79')))"/><!-- dii -->
+<mark id="syll_26" xlink:href="#xpointer(id('tok_80')/range-to(id('tok_81')))"/><!-- en -->
+<mark id="syll_27" xlink:href="#xpointer(id('tok_82')/range-to(id('tok_83')))"/><!-- lo -->
+<mark id="syll_28" xlink:href="#xpointer(id('tok_84')/range-to(id('tok_86')))"/><!-- res -->
+<mark id="syll_29" xlink:href="#xpointer(id('tok_87')/range-to(id('tok_89')))"/><!-- pos -->
+<mark id="syll_30" xlink:href="#xpointer(id('tok_90')/range-to(id('tok_91')))"/><!-- tu -->
+<mark id="syll_31" xlink:href="#tok_92"/><!-- au -->
+<mark id="syll_32" xlink:href="#xpointer(id('tok_93')/range-to(id('tok_95')))"/><!-- tem -->
+<mark id="syll_33" xlink:href="#xpointer(id('tok_96')/range-to(id('tok_98')))"/><!-- deus -->
+<mark id="syll_34" xlink:href="#xpointer(id('tok_99')/range-to(id('tok_100')))"/><!-- qui -->
+<mark id="syll_35" xlink:href="#xpointer(id('tok_101')/range-to(id('tok_103')))"/><!-- est -->
+<mark id="syll_36" xlink:href="#xpointer(id('tok_104')/range-to(id('tok_106')))"/><!-- pai -->
+<mark id="syll_37" xlink:href="#xpointer(id('tok_107')/range-to(id('tok_108')))"/><!-- re -->
+<mark id="syll_38" xlink:href="#xpointer(id('tok_109')/range-to(id('tok_111')))"/><!-- glo -->
+<mark id="syll_39" xlink:href="#xpointer(id('tok_112')/range-to(id('tok_113')))"/><!-- ri -->
+<mark id="syll_40" xlink:href="#xpointer(id('tok_114')/range-to(id('tok_115')))"/><!-- os -->
+<mark id="syll_41" xlink:href="#xpointer(id('tok_116')/range-to(id('tok_118')))"/><!-- nos -->
+<mark id="syll_42" xlink:href="#xpointer(id('tok_119')/range-to(id('tok_120')))"/><!-- te -->
+<mark id="syll_43" xlink:href="#xpointer(id('tok_121')/range-to(id('tok_124')))"/><!-- prei -->
+<mark id="syll_44" xlink:href="#xpointer(id('tok_125')/range-to(id('tok_126')))"/><!-- am -->
+<mark id="syll_45" xlink:href="#xpointer(id('tok_127')/range-to(id('tok_129')))"/><!-- quet -->
+<mark id="syll_46" xlink:href="#xpointer(id('tok_130')/range-to(id('tok_131')))"/><!-- re -->
+<mark id="syll_47" xlink:href="#xpointer(id('tok_132')/range-to(id('tok_134')))"/><!-- mem -->
+<mark id="syll_48" xlink:href="#xpointer(id('tok_135')/range-to(id('tok_137')))"/><!-- bre -->
+<mark id="syll_49" xlink:href="#xpointer(id('tok_138')/range-to(id('tok_139')))"/><!-- de -->
+<mark id="syll_50" xlink:href="#xpointer(id('tok_140')/range-to(id('tok_142')))"/><!-- nos -->
+<mark id="syll_51" xlink:href="#xpointer(id('tok_143')/range-to(id('tok_146')))"/><!-- quant -->
+<mark id="syll_52" xlink:href="#xpointer(id('tok_147')/range-to(id('tok_149')))"/><!-- tri -->
+<mark id="syll_53" xlink:href="#tok_150"/><!-- a -->
+<mark id="syll_54" xlink:href="#xpointer(id('tok_151')/range-to(id('tok_153')))"/><!-- ras -->
+<mark id="syll_55" xlink:href="#xpointer(id('tok_154')/range-to(id('tok_156')))"/><!-- los -->
+<mark id="syll_56" xlink:href="#xpointer(id('tok_157')/range-to(id('tok_160')))"/><!-- mals -->
+<mark id="syll_57" xlink:href="#xpointer(id('tok_161')/range-to(id('tok_163')))"/><!-- dan -->
+<mark id="syll_58" xlink:href="#xpointer(id('tok_164')/range-to(id('tok_166')))"/><!-- tre -->
+<mark id="syll_59" xlink:href="#xpointer(id('tok_167')/range-to(id('tok_169')))"/><!-- los -->
+<mark id="syll_60" xlink:href="#xpointer(id('tok_170')/range-to(id('tok_172')))"/><!-- bos -->
+</markList>
+</paula>

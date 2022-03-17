@@ -72,8 +72,5 @@
 </struct><struct id="anno_15">
 <rel id="rel_51" xlink:href="tei.Alexis.tei_s"/>
 <rel id="rel_52" xlink:href="tei.Alexis.tei_s_tei_s"/>
-<rel id="rel_53" xlink:href="tei.Alexis.tei_s_xml_lang"/>
-<rel id="rel_54" xlink:href="tei.Alexis.tei_s"/>
-<rel id="rel_55" xlink:href="tei.Alexis.tei_s_xml_lang"/>
 </struct></structList>
 </paula>

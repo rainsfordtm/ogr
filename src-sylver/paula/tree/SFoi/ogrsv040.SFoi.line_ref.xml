@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE paula SYSTEM "paula_feat.dtd">
+<paula version="1.0">
+<header paula_id="ogrsv040.SFoi_line_ref"/>
+<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="line_ref" xml:base="ogrsv040.SFoi.line.xml">
+<feat xlink:href="#line_0" value="SFoi, l. 1"/><!--  legir audi sotz eiss un pin -->
+<feat xlink:href="#line_1" value="SFoi, l. 2"/><!--  de l vell temps un libre latin -->
+<feat xlink:href="#line_2" value="SFoi, l. 3"/><!--  tot l escoltei tro a la fin -->
+<feat xlink:href="#line_3" value="SFoi, l. 4"/><!--  hanc non fo senz q el non l declin -->
+<feat xlink:href="#line_4" value="SFoi, l. 5"/><!--  parled de l pair a l rei licin -->
+<feat xlink:href="#line_5" value="SFoi, l. 6"/><!--  e de l linnadg a l maximin -->
+<feat xlink:href="#line_6" value="SFoi, l. 7"/><!--  cel meiro ls saintz en tal train -->
+<feat xlink:href="#line_7" value="SFoi, l. 8"/><!--  con fa l venaire ls cervs matin -->
+<feat xlink:href="#line_8" value="SFoi, l. 9"/><!--  a clusa ls menan et a fin -->
+<feat xlink:href="#line_9" value="SFoi, l. 10"/><!--  mortz los laissavan en sopin -->
+<feat xlink:href="#line_10" value="SFoi, l. 11"/><!--  jazon e ls camps cuma fradin -->
+<feat xlink:href="#line_11" value="SFoi, l. 12"/><!--  no lz sebelliron lur vizin -->
+<feat xlink:href="#line_12" value="SFoi, l. 13"/><!--  czo fo prob de l temps constantin -->
+<feat xlink:href="#line_13" value="SFoi, l. 14"/><!--  canczon audi q es bella ntresca -->
+<feat xlink:href="#line_14" value="SFoi, l. 15"/><!--  que fo de razo espanesca -->
+<feat xlink:href="#line_15" value="SFoi, l. 16"/><!--  non fo de paraulla grezesca -->
+<feat xlink:href="#line_16" value="SFoi, l. 17"/><!--  ne de lengua serrazinesca -->
+<feat xlink:href="#line_17" value="SFoi, l. 18"/><!--  dolz e suaus es plus que bresca -->
+<feat xlink:href="#line_18" value="SFoi, l. 19"/><!--  e plus qe nulz pimentz q om mesca -->
+<feat xlink:href="#line_19" value="SFoi, l. 20"/><!--  qui ben la diz a lei francesca -->
+<feat xlink:href="#line_20" value="SFoi, l. 21"/><!--  cuig me qe sos granz pros l en cresca -->
+<feat xlink:href="#line_21" value="SFoi, l. 22"/><!--  e q en est segle l en paresca -->
+<feat xlink:href="#line_22" value="SFoi, l. 23"/><!--  tota basconn et aragons -->
+<feat xlink:href="#line_23" value="SFoi, l. 24"/><!--  e l encontrada de lz gascons -->
+<feat xlink:href="#line_24" value="SFoi, l. 25"/><!--  sabon quals es aqist canczons -->
+<feat xlink:href="#line_25" value="SFoi, l. 26"/><!--  e ss es ben vera sta razons -->
+<feat xlink:href="#line_26" value="SFoi, l. 27"/><!--  eu l audi legir a clerczons -->
+<feat xlink:href="#line_27" value="SFoi, l. 28"/><!--  et a gramadis a molt bons -->
+<feat xlink:href="#line_28" value="SFoi, l. 29"/><!--  si qon o monstra l passions -->
+<feat xlink:href="#line_29" value="SFoi, l. 30"/><!--  en que om lig estas leiczons -->
+<feat xlink:href="#line_30" value="SFoi, l. 31"/><!--  e si vos plaz est nostre sons -->
+<feat xlink:href="#line_31" value="SFoi, l. 32"/><!--  aisi con l guida l primers tons -->
+<feat xlink:href="#line_32" value="SFoi, l. 33"/><!--  eu la vos cantarei en dons -->
+<feat xlink:href="#line_33" value="SFoi, l. 34"/><!--  totz temps avez audid asaz -->
+<feat xlink:href="#line_34" value="SFoi, l. 35"/><!--  q agenz fo molt rica ciutaz -->
+<feat xlink:href="#line_35" value="SFoi, l. 36"/><!--  clausa ab murs et ab vallaz -->
+<feat xlink:href="#line_36" value="SFoi, l. 37"/><!--  garonna l corr per cell un laz -->
+<feat xlink:href="#line_37" value="SFoi, l. 38"/><!--  la gentz d achi fo mal assaz -->
+<feat xlink:href="#line_38" value="SFoi, l. 39"/><!--  en oz esteron et en paz -->
+<feat xlink:href="#line_39" value="SFoi, l. 40"/><!--  non s pars neguns de ls granz peccaz -->
+<feat xlink:href="#line_40" value="SFoi, l. 41"/><!--  plus cel q es folz q etz mel membraz -->
+<feat xlink:href="#line_41" value="SFoi, l. 42"/><!--  entro en pres deu pietaz -->
+<feat xlink:href="#line_42" value="SFoi, l. 43"/><!--  et en la croz los ag salvaz -->
+<feat xlink:href="#line_43" value="SFoi, l. 44"/><!--  e de diable deliuraz -->
+<feat xlink:href="#line_44" value="SFoi, l. 45"/><!--  bella fo il gentz si fosson san -->
+<feat xlink:href="#line_45" value="SFoi, l. 46"/><!--  enferm so ll cor quar son pagan -->
+<feat xlink:href="#line_46" value="SFoi, l. 47"/><!--  guerpiron deu corron a l fan -->
+<feat xlink:href="#line_47" value="SFoi, l. 48"/><!--  cubergro l tot d aur cordoan -->
+<feat xlink:href="#line_48" value="SFoi, l. 49"/><!--  proferg l unsquegs l anel de l man -->
+<feat xlink:href="#line_49" value="SFoi, l. 50"/><!--  qui mais non pod pecza de pan -->
+<feat xlink:href="#line_50" value="SFoi, l. 51"/><!--  melz estera qi l dess a z can -->
+<feat xlink:href="#line_51" value="SFoi, l. 52"/><!--  tota lur obra fant en van -->
+<feat xlink:href="#line_52" value="SFoi, l. 53"/><!--  e quar non s foron cristian -->
+<feat xlink:href="#line_53" value="SFoi, l. 54"/><!--  proverbi diss reiz salamon -->
+<feat xlink:href="#line_54" value="SFoi, l. 55"/><!--  de l pomer qi naiss e l boisson -->
+<feat xlink:href="#line_55" value="SFoi, l. 56"/><!--  cui clau la spina e l cardon -->
+<feat xlink:href="#line_56" value="SFoi, l. 57"/><!--  e ll albespin in eviron -->
+<feat xlink:href="#line_57" value="SFoi, l. 58"/><!--  achi met flors sus e l somjon -->
+<feat xlink:href="#line_58" value="SFoi, l. 59"/><!--  e pois las pomas de sazon -->
+<feat xlink:href="#line_59" value="SFoi, l. 60"/><!--  mal forun li pagan gascon -->
+<feat xlink:href="#line_60" value="SFoi, l. 61"/><!--  qi desconnogron deu de l tron -->
+<feat xlink:href="#line_61" value="SFoi, l. 62"/><!--  lur umbra streins aqest planczon -->
+<feat xlink:href="#line_62" value="SFoi, l. 63"/><!--  de cui cantam esta canczon -->
+<feat xlink:href="#line_63" value="SFoi, l. 64"/><!--  e pres en deus dolz fruit e bon -->
+<feat xlink:href="#line_64" value="SFoi, l. 65"/><!--  lo seinner d aqesta ciutad -->
+<feat xlink:href="#line_65" value="SFoi, l. 66"/><!--  ag granz honors ab ampledad -->
+<feat xlink:href="#line_66" value="SFoi, l. 67"/><!--  parti ss qant pog d aquel peccad -->
+<feat xlink:href="#line_67" value="SFoi, l. 68"/><!--  et amed deu fort a celad -->
+<feat xlink:href="#line_68" value="SFoi, l. 69"/><!--  audirez qo ll a deus honrad -->
+<feat xlink:href="#line_69" value="SFoi, l. 70"/><!--  e quan car aver l a donad -->
+<feat xlink:href="#line_70" value="SFoi, l. 71"/><!--  filla l doned de tan bon grad -->
+<feat xlink:href="#line_71" value="SFoi, l. 72"/><!--  fides a nom per deu mandad -->
+<feat xlink:href="#line_72" value="SFoi, l. 73"/><!--  e fo nuirid ab castitad -->
+<feat xlink:href="#line_73" value="SFoi, l. 74"/><!--  e teg salva virginitad -->
+<feat xlink:href="#line_74" value="SFoi, l. 75"/><!--  fort d ell a deus est segl onrad -->
+<feat xlink:href="#line_75" value="SFoi, l. 76"/><!--  lo corps es belz e paucs l estaz -->
+<feat xlink:href="#line_76" value="SFoi, l. 77"/><!--  lo sen es gencer qe dinz jaz -->
+<feat xlink:href="#line_77" value="SFoi, l. 78"/><!--  los oilz a gentz e blanca faz -->
+<feat xlink:href="#line_78" value="SFoi, l. 79"/><!--  e l senz de l cor es mais prezaz -->
+<feat xlink:href="#line_79" value="SFoi, l. 80"/><!--  antz qe doz anz agges passaz -->
+<feat xlink:href="#line_80" value="SFoi, l. 81"/><!--  tal obra fez qe deu molt plaz -->
+<feat xlink:href="#line_81" value="SFoi, l. 82"/><!--  martiri pres e fort assaz -->
+<feat xlink:href="#line_82" value="SFoi, l. 83"/><!--  tal con ligez e con cantaz -->
+<feat xlink:href="#line_83" value="SFoi, l. 84"/><!--  o deus tant n es est monz honradz -->
+<feat xlink:href="#line_84" value="SFoi, l. 85"/><!--  honor qe d aqest segle ag -->
+<feat xlink:href="#line_85" value="SFoi, l. 86"/><!--  atretant non prezed d etz brac -->
+<feat xlink:href="#line_86" value="SFoi, l. 87"/><!--  en deu de cel lo quors li jag -->
+<feat xlink:href="#line_87" value="SFoi, l. 88"/><!--  e l seus servizis molt li plag -->
+<feat xlink:href="#line_88" value="SFoi, l. 89"/><!--  non pausara ja czo m adag -->
+<feat xlink:href="#line_89" value="SFoi, l. 90"/><!--  entro eiss deu de ssa mort pag -->
+<feat xlink:href="#line_90" value="SFoi, l. 91"/><!--  czo ss mes diables en esmag -->
+<feat xlink:href="#line_91" value="SFoi, l. 92"/><!--  vilas ag granz e fortz castelz -->
+<feat xlink:href="#line_92" value="SFoi, l. 93"/><!--  e pelz salvadgas e noelz -->
+<feat xlink:href="#line_93" value="SFoi, l. 94"/><!--  et en sos dez ginnos anelz -->
+<feat xlink:href="#line_94" value="SFoi, l. 95"/><!--  d aur e d argent ben faitz vaiselz -->
+<feat xlink:href="#line_95" value="SFoi, l. 96"/><!--  d aqo ss tems qe fos mals cembelz -->
+<feat xlink:href="#line_96" value="SFoi, l. 97"/><!--  qe ill facza l diables nielz -->
+<feat xlink:href="#line_97" value="SFoi, l. 98"/><!--  los paupres en pag e ls meselz -->
+<feat xlink:href="#line_98" value="SFoi, l. 99"/><!--  paupras laissed cuma fradelz -->
+<feat xlink:href="#line_99" value="SFoi, l. 100"/><!--  e teg s ab deu qe ll es plus belz -->
+<feat xlink:href="#line_100" value="SFoi, l. 101"/><!--  pos ag blidall ab braczaleira -->
+<feat xlink:href="#line_101" value="SFoi, l. 102"/><!--  per deu se mes en gran paupeira -->
+<feat xlink:href="#line_102" value="SFoi, l. 103"/><!--  laissed las altras de sa teira -->
+<feat xlink:href="#line_103" value="SFoi, l. 104"/><!--  e pres ardin qonsi deu queira -->
+<feat xlink:href="#line_104" value="SFoi, l. 105"/><!--  ja no ns cujez qe ll non l o meira -->
+<feat xlink:href="#line_105" value="SFoi, l. 106"/><!--  q ancsen volg esser sa obreira -->
+<feat xlink:href="#line_106" value="SFoi, l. 107"/><!--  et sua fidels camareira -->
+<feat xlink:href="#line_107" value="SFoi, l. 108"/><!--  et attended con s li profeira -->
+<feat xlink:href="#line_108" value="SFoi, l. 109"/><!--  qe czo s la via dreitureira -->
+<feat xlink:href="#line_109" value="SFoi, l. 110"/><!--  dizer vos ei d aqelz pagans -->
+<feat xlink:href="#line_110" value="SFoi, l. 111"/><!--  quan fort menero ls cristians -->
+<feat xlink:href="#line_111" value="SFoi, l. 112"/><!--  quan fo aucis sainz adrians -->
+<feat xlink:href="#line_112" value="SFoi, l. 113"/><!--  reiz era dioclicians -->
+<feat xlink:href="#line_113" value="SFoi, l. 114"/><!--  de grex fo reiz e de romans -->
+<feat xlink:href="#line_114" value="SFoi, l. 115"/><!--  hespainna teg e ls montz cerdans -->
+<feat xlink:href="#line_115" value="SFoi, l. 116"/><!--  licins fo sos filz sobeirans -->
+<feat xlink:href="#line_116" value="SFoi, l. 117"/><!--  e quan fo naz ded li letrans -->
+<feat xlink:href="#line_117" value="SFoi, l. 118"/><!--  ers se vas deu aqell veilz can -->
+<feat xlink:href="#line_118" value="SFoi, l. 119"/><!--  aucis li l sainz ab ambas mans -->
+<feat xlink:href="#line_119" value="SFoi, l. 120"/><!--  ara n esta totz soteirans -->
+<feat xlink:href="#line_120" value="SFoi, l. 121"/><!--  sotz mil diables cabespans -->
+<feat xlink:href="#line_121" value="SFoi, l. 122"/><!--  d aqest fo pars maximians -->
+<feat xlink:href="#line_122" value="SFoi, l. 123"/><!--  ensems concordan lur afar -->
+<feat xlink:href="#line_123" value="SFoi, l. 124"/><!--  idolas tegrun nemias car -->
+<feat xlink:href="#line_124" value="SFoi, l. 125"/><!--  mandan las colre et honrar -->
+<feat xlink:href="#line_125" value="SFoi, l. 126"/><!--  e per la terra e per mar -->
+<feat xlink:href="#line_126" value="SFoi, l. 127"/><!--  e preiron un fellon avar -->
+<feat xlink:href="#line_127" value="SFoi, l. 128"/><!--  czo s dacians cui deus non guar -->
+<feat xlink:href="#line_128" value="SFoi, l. 129"/><!--  trameirun lo q est regn antpar -->
+<feat xlink:href="#line_129" value="SFoi, l. 130"/><!--  e ls cristians prend et eschar -->
+<feat xlink:href="#line_130" value="SFoi, l. 131"/><!--  e ls destrenga fort et amar -->
+<feat xlink:href="#line_131" value="SFoi, l. 132"/><!--  ve ll vos vengud inz en agen -->
+<feat xlink:href="#line_132" value="SFoi, l. 133"/><!--  aqo fo hom non ag bon sen -->
+<feat xlink:href="#line_133" value="SFoi, l. 134"/><!--  tals obras va pertot fazen -->
+<feat xlink:href="#line_134" value="SFoi, l. 135"/><!--  per que sabem qe deu offen -->
+<feat xlink:href="#line_135" value="SFoi, l. 136"/><!--  diabl ador et homens ven -->
+<feat xlink:href="#line_136" value="SFoi, l. 137"/><!--  e lz cristians aguait e pren -->
+<feat xlink:href="#line_137" value="SFoi, l. 138"/><!--  los uns aucid e ls altres pen -->
+<feat xlink:href="#line_138" value="SFoi, l. 139"/><!--  et en la flamma moltz n encen -->
+<feat xlink:href="#line_139" value="SFoi, l. 140"/><!--  e czo vol far nemias soen -->
+<feat xlink:href="#line_140" value="SFoi, l. 141"/><!--  con audun q intra dacians -->
+<feat xlink:href="#line_141" value="SFoi, l. 142"/><!--  aqo fo granz gauiz a lz pagans -->
+<feat xlink:href="#line_142" value="SFoi, l. 143"/><!--  ydolas erzon sobre ls fans -->
+<feat xlink:href="#line_143" value="SFoi, l. 144"/><!--  e ls paramentz tradun e lz plans -->
+<feat xlink:href="#line_144" value="SFoi, l. 145"/><!--  czo fo conres avols e vans -->
+<feat xlink:href="#line_145" value="SFoi, l. 146"/><!--  e trobed lo folz e bazans -->
+<feat xlink:href="#line_146" value="SFoi, l. 147"/><!--  e dunc parlan de ls cristians -->
+<feat xlink:href="#line_147" value="SFoi, l. 148"/><!--  don qe us avez aitan tarzad -->
+<feat xlink:href="#line_148" value="SFoi, l. 149"/><!--  pos est regn aggestz acaptad -->
+<feat xlink:href="#line_149" value="SFoi, l. 150"/><!--  degraz l aver antz revisdad -->
+<feat xlink:href="#line_150" value="SFoi, l. 151"/><!--  qe nostra gent aggess bauzad -->
+<feat xlink:href="#line_151" value="SFoi, l. 152"/><!--  una donzella nz a laudad -->
+<feat xlink:href="#line_152" value="SFoi, l. 153"/><!--  q uns deus es bons en trinitad -->
+<feat xlink:href="#line_153" value="SFoi, l. 154"/><!--  qi preg aqestz d est vizinad -->
+<feat xlink:href="#line_154" value="SFoi, l. 155"/><!--  apella l foll e dessennad -->
+<feat xlink:href="#line_155" value="SFoi, l. 156"/><!--  s aiczo non es fort castiad -->
+<feat xlink:href="#line_156" value="SFoi, l. 157"/><!--  perdrez n est aiz e sta ciutad -->
+<feat xlink:href="#line_157" value="SFoi, l. 158"/><!--  qe tot es seun per parentad -->
+<feat xlink:href="#line_158" value="SFoi, l. 159"/><!--  aiczo q est nostra gentz vos diz -->
+<feat xlink:href="#line_159" value="SFoi, l. 160"/><!--  no ns tolla ira ni obliz -->
+<feat xlink:href="#line_160" value="SFoi, l. 161"/><!--  aqist donzella nz a vilziz -->
+<feat xlink:href="#line_161" value="SFoi, l. 162"/><!--  qe nz fa estar de lei marriz -->
+<feat xlink:href="#line_162" value="SFoi, l. 163"/><!--  sos linz nos a totz temps nuiriz -->
+<feat xlink:href="#line_163" value="SFoi, l. 164"/><!--  e lle per mal anz relinquiz -->
+<feat xlink:href="#line_164" value="SFoi, l. 165"/><!--  ja non aia en vos raiz -->
+<feat xlink:href="#line_165" value="SFoi, l. 166"/><!--  si l deu cui cred laid non desdiz -->
+<feat xlink:href="#line_166" value="SFoi, l. 167"/><!--  per ver nos a a folz causiz -->
+<feat xlink:href="#line_167" value="SFoi, l. 168"/><!--  mal nos destorba l seus estriz -->
+<feat xlink:href="#line_168" value="SFoi, l. 169"/><!--  e vos estz mortz e totz auniz -->
+<feat xlink:href="#line_169" value="SFoi, l. 170"/><!--  si no ll ne sagnan las cerviz -->
+<feat xlink:href="#line_170" value="SFoi, l. 171"/><!--  si qon fezestz far saint feliz -->
+<feat xlink:href="#line_171" value="SFoi, l. 172"/><!--  trames per ella molt viatz -->
+<feat xlink:href="#line_172" value="SFoi, l. 173"/><!--  e castied q uns no ll menatz -->
+<feat xlink:href="#line_173" value="SFoi, l. 174"/><!--  gentet la m n aduzed per l bratz -->
+<feat xlink:href="#line_174" value="SFoi, l. 175"/><!--  e dizez li qed eu czai fatz -->
+<feat xlink:href="#line_175" value="SFoi, l. 176"/><!--  e ll prometrai tan gran escaz -->
+<feat xlink:href="#line_176" value="SFoi, l. 177"/><!--  qe tot lo mal telant l esfazz -->
+<feat xlink:href="#line_177" value="SFoi, l. 178"/><!--  de czo son eu ben savis mazz -->
+<feat xlink:href="#line_178" value="SFoi, l. 179"/><!--  a quals antz corrun achil drud -->
+<feat xlink:href="#line_179" value="SFoi, l. 180"/><!--  aqi o era son vengud -->
+<feat xlink:href="#line_180" value="SFoi, l. 181"/><!--  non l dizun neiss un bon salud -->
+<feat xlink:href="#line_181" value="SFoi, l. 182"/><!--  antz li menaczan molt menud -->
+<feat xlink:href="#line_182" value="SFoi, l. 183"/><!--  et ella s ten que ll cors non l mud -->
+<feat xlink:href="#line_183" value="SFoi, l. 184"/><!--  q aqell a ben prod et agud -->
+<feat xlink:href="#line_184" value="SFoi, l. 185"/><!--  e prega deu per sa vertud -->
+<feat xlink:href="#line_185" value="SFoi, l. 186"/><!--  q ad aqesta coita l aiud -->
+<feat xlink:href="#line_186" value="SFoi, l. 187"/><!--  qu en lui a tot lo seun permud -->
+<feat xlink:href="#line_187" value="SFoi, l. 188"/><!--  en alt leved la sua voz -->
+<feat xlink:href="#line_188" value="SFoi, l. 189"/><!--  e comanded se sainta croz -->
+<feat xlink:href="#line_189" value="SFoi, l. 190"/><!--  non preza llz folz totz una noz -->
+<feat xlink:href="#line_190" value="SFoi, l. 191"/><!--  ne lur mercad ne lur neoz -->
+<feat xlink:href="#line_191" value="SFoi, l. 192"/><!--  q intz en enfern e ll maior poz -->
+<feat xlink:href="#line_192" value="SFoi, l. 193"/><!--  mals lur venra per aqest oz -->
+<feat xlink:href="#line_193" value="SFoi, l. 194"/><!--  q aqi a molt amara doz -->
+<feat xlink:href="#line_194" value="SFoi, l. 195"/><!--  dunc se signed ab los tres dez -->
+<feat xlink:href="#line_195" value="SFoi, l. 196"/><!--  e pregged deu q est segle fez -->
+<feat xlink:href="#line_196" value="SFoi, l. 197"/><!--  deus qi m guardestz de tot mal vez -->
+<feat xlink:href="#line_197" value="SFoi, l. 198"/><!--  s ara m valez ben o farez -->
+<feat xlink:href="#line_198" value="SFoi, l. 199"/><!--  q a ls teus dissist quan coit aurez -->
+<feat xlink:href="#line_199" value="SFoi, l. 200"/><!--  si m o dizez sempre m veirez -->
+<feat xlink:href="#line_200" value="SFoi, l. 201"/><!--  seinner preg vos qe m aiudez -->
+<feat xlink:href="#line_201" value="SFoi, l. 202"/><!--  de vos voill molt qe mi guidez -->
+<feat xlink:href="#line_202" value="SFoi, l. 203"/><!--  qe czo m cuid don l anma n menez -->
+<feat xlink:href="#line_203" value="SFoi, l. 204"/><!--  prendun la l baille datian -->
+<feat xlink:href="#line_204" value="SFoi, l. 205"/><!--  e menan la ill e mei lo plan -->
+<feat xlink:href="#line_205" value="SFoi, l. 206"/><!--  e ll apelled un puplican -->
+<feat xlink:href="#line_206" value="SFoi, l. 207"/><!--  qi fo vestiz de barracan -->
+<feat xlink:href="#line_207" value="SFoi, l. 208"/><!--  vai gent la pren per l destre man -->
+<feat xlink:href="#line_208" value="SFoi, l. 209"/><!--  e mena la entro a l fan -->
+<feat xlink:href="#line_209" value="SFoi, l. 210"/><!--  profeira ncens a l deu selvan -->
+<feat xlink:href="#line_210" value="SFoi, l. 211"/><!--  e preg diana e l deu jan -->
+<feat xlink:href="#line_211" value="SFoi, l. 212"/><!--  ill non prezed aqo un can -->
+<feat xlink:href="#line_212" value="SFoi, l. 213"/><!--  ne non ag soin d aqel pagan -->
+<feat xlink:href="#line_213" value="SFoi, l. 214"/><!--  lo cor ag ferm e fort e san -->
+<feat xlink:href="#line_214" value="SFoi, l. 215"/><!--  e deu de cel teg sobeiran -->
+<feat xlink:href="#line_215" value="SFoi, l. 216"/><!--  czo devon far tuit cristian -->
+<feat xlink:href="#line_216" value="SFoi, l. 217"/><!--  co ll dia s pres ad asserir -->
+<feat xlink:href="#line_217" value="SFoi, l. 218"/><!--  manded la batre e ferir -->
+<feat xlink:href="#line_218" value="SFoi, l. 219"/><!--  la plus fort carcer fez obrir -->
+<feat xlink:href="#line_219" value="SFoi, l. 220"/><!--  e diz qe l om laintz la n tir -->
+<feat xlink:href="#line_220" value="SFoi, l. 221"/><!--  dunc mog lo folz aital suspir -->
+<feat xlink:href="#line_221" value="SFoi, l. 222"/><!--  con fa vilans quan vol morir -->
+<feat xlink:href="#line_222" value="SFoi, l. 223"/><!--  colged s en leit non pog dormir -->
+<feat xlink:href="#line_223" value="SFoi, l. 224"/><!--  plus q om qe sempre vol fugir -->
+<feat xlink:href="#line_224" value="SFoi, l. 225"/><!--  grand ainsa mog qi l fez nuirir -->
+<feat xlink:href="#line_225" value="SFoi, l. 226"/><!--  pres s a l matin de l plai guarnir -->
+<feat xlink:href="#line_226" value="SFoi, l. 227"/><!--  e manded la ant se venir -->
+<feat xlink:href="#line_227" value="SFoi, l. 228"/><!--  ara donzella voill audir -->
+<feat xlink:href="#line_228" value="SFoi, l. 229"/><!--  de qual paradge vols servir -->
+<feat xlink:href="#line_229" value="SFoi, l. 230"/><!--  ella parled e saub l o dir -->
+<feat xlink:href="#line_230" value="SFoi, l. 231"/><!--  de nostre don me voill aizir -->
+<feat xlink:href="#line_231" value="SFoi, l. 232"/><!--  et en czo q eu sei meilz causir -->
+<feat xlink:href="#line_232" value="SFoi, l. 233"/><!--  res mais non es q eu tant amir -->
+<feat xlink:href="#line_233" value="SFoi, l. 234"/><!--  si llui non ei non poiss guerir -->
+<feat xlink:href="#line_234" value="SFoi, l. 235"/><!--  ren tant non am non voill mentir -->
+<feat xlink:href="#line_235" value="SFoi, l. 236"/><!--  ab lui voil ridre e gaudir -->
+<feat xlink:href="#line_236" value="SFoi, l. 237"/><!--  dunc l apelled ab grand amor -->
+<feat xlink:href="#line_237" value="SFoi, l. 238"/><!--  tota us tolled d aital error -->
+<feat xlink:href="#line_238" value="SFoi, l. 239"/><!--  causez una cabal honor -->
+<feat xlink:href="#line_239" value="SFoi, l. 240"/><!--  aqell aurez e pois maior -->
+<feat xlink:href="#line_240" value="SFoi, l. 241"/><!--  corps avez de genta tenor -->
+<feat xlink:href="#line_241" value="SFoi, l. 242"/><!--  filla semblaz d emperador -->
+<feat xlink:href="#line_242" value="SFoi, l. 243"/><!--  respon la donzella de porr -->
+<feat xlink:href="#line_243" value="SFoi, l. 244"/><!--  au vos ischern e deshonor -->
+<feat xlink:href="#line_244" value="SFoi, l. 245"/><!--  non queir cambiar altre sennor -->
+<feat xlink:href="#line_245" value="SFoi, l. 246"/><!--  lo don qi m fez cred et ador -->
+<feat xlink:href="#line_246" value="SFoi, l. 247"/><!--  qi lui perd po n aver paor -->
+<feat xlink:href="#line_247" value="SFoi, l. 248"/><!--  aujaz de l traitor fraudolent -->
+<feat xlink:href="#line_248" value="SFoi, l. 249"/><!--  si ll mog ben grand afollament -->
+<feat xlink:href="#line_249" value="SFoi, l. 250"/><!--  diana colgrun tei parent -->
+<feat xlink:href="#line_250" value="SFoi, l. 251"/><!--  e ll homen tuit de nostra gent -->
+<feat xlink:href="#line_251" value="SFoi, l. 252"/><!--  si laissaz aqest foll jovent -->
+<feat xlink:href="#line_252" value="SFoi, l. 253"/><!--  e volez faire l meu talent -->
+<feat xlink:href="#line_253" value="SFoi, l. 254"/><!--  d aur vos farei lo liament -->
+<feat xlink:href="#line_254" value="SFoi, l. 255"/><!--  de vera purpra l vestiment -->
+<feat xlink:href="#line_255" value="SFoi, l. 256"/><!--  segre vos aun donzellas cent -->
+<feat xlink:href="#line_256" value="SFoi, l. 257"/><!--  mil cavaller ab guarniment -->
+<feat xlink:href="#line_257" value="SFoi, l. 258"/><!--  ella l respon si qe non ment -->
+<feat xlink:href="#line_258" value="SFoi, l. 259"/><!--  ja deu non placza folz me tent -->
+<feat xlink:href="#line_259" value="SFoi, l. 260"/><!--  mais voil morir o pendr a l vent -->
+<feat xlink:href="#line_260" value="SFoi, l. 261"/><!--  qe prenda st vostre nuiriment -->
+<feat xlink:href="#line_261" value="SFoi, l. 262"/><!--  deu a perdud qi czo consent -->
+<feat xlink:href="#line_262" value="SFoi, l. 263"/><!--  eu si m son sana o si m doill -->
+<feat xlink:href="#line_263" value="SFoi, l. 264"/><!--  tenrei m ab deu ab cui mi soill -->
+<feat xlink:href="#line_264" value="SFoi, l. 265"/><!--  per czo nu m cant nulz hom ni m foill -->
+<feat xlink:href="#line_265" value="SFoi, l. 266"/><!--  diana ne jovi non voil -->
+<feat xlink:href="#line_266" value="SFoi, l. 267"/><!--  ne minerva gens non acoill -->
+<feat xlink:href="#line_267" value="SFoi, l. 268"/><!--  ne nun lai queir tornar mon oill -->
+<feat xlink:href="#line_268" value="SFoi, l. 269"/><!--  quan los levestz en est cabdoill -->
+<feat xlink:href="#line_269" value="SFoi, l. 270"/><!--  e lur mesestz aital escoill -->
+<feat xlink:href="#line_270" value="SFoi, l. 271"/><!--  aiczo fezestz tot per orgoill -->
+<feat xlink:href="#line_271" value="SFoi, l. 272"/><!--  mais valgran sengle trau de troill -->
+<feat xlink:href="#line_272" value="SFoi, l. 273"/><!--  qe l om aggess dolaz enz broil -->
+<feat xlink:href="#line_273" value="SFoi, l. 274"/><!--  si son malaveda o sana -->
+<feat xlink:href="#line_274" value="SFoi, l. 275"/><!--  non pregarei vostra diana -->
+<feat xlink:href="#line_275" value="SFoi, l. 276"/><!--  ja non o facza cristiana -->
+<feat xlink:href="#line_276" value="SFoi, l. 277"/><!--  qe czo s per ver traciuns plana -->
+<feat xlink:href="#line_277" value="SFoi, l. 278"/><!--  unqeg dia de la setmana -->
+<feat xlink:href="#line_278" value="SFoi, l. 279"/><!--  diables manbes la us apana -->
+<feat xlink:href="#line_279" value="SFoi, l. 280"/><!--  si l proferez quegs una rana -->
+<feat xlink:href="#line_280" value="SFoi, l. 281"/><!--  e l faiz encens de fum de lana -->
+<feat xlink:href="#line_281" value="SFoi, l. 282"/><!--  mostrar vos a enfern czo s vana -->
+<feat xlink:href="#line_282" value="SFoi, l. 283"/><!--  con au lo mendix pudolentz -->
+<feat xlink:href="#line_283" value="SFoi, l. 284"/><!--  qe leis non cambia sos talentz -->
+<feat xlink:href="#line_284" value="SFoi, l. 285"/><!--  irasc tan fort con fa serpentz -->
+<feat xlink:href="#line_285" value="SFoi, l. 286"/><!--  trastorna ls oilz lima las dentz -->
+<feat xlink:href="#line_286" value="SFoi, l. 287"/><!--  e dunc jured sos sagramentz -->
+<feat xlink:href="#line_287" value="SFoi, l. 288"/><!--  czo vostre cabs n er totz sanglentz -->
+<feat xlink:href="#line_288" value="SFoi, l. 289"/><!--  o us cremara la flamm ardentz -->
+<feat xlink:href="#line_289" value="SFoi, l. 290"/><!--  con audistz qe fez saint laurentz -->
+<feat xlink:href="#line_290" value="SFoi, l. 291"/><!--  ella non n pres nulz espaventz -->
+<feat xlink:href="#line_291" value="SFoi, l. 292"/><!--  e diss en motz ben convinentz -->
+<feat xlink:href="#line_292" value="SFoi, l. 293"/><!--  fell sias tu si mot m en mentz -->
+<feat xlink:href="#line_293" value="SFoi, l. 294"/><!--  ja deus nu m laiss veder lo jorn -->
+<feat xlink:href="#line_294" value="SFoi, l. 295"/><!--  q ador asclepi ne satorn -->
+<feat xlink:href="#line_295" value="SFoi, l. 296"/><!--  q intz en enfern e ll maior forn -->
+<feat xlink:href="#line_296" value="SFoi, l. 297"/><!--  ab altres moltz qe son d eiss dorn -->
+<feat xlink:href="#line_297" value="SFoi, l. 298"/><!--  intz en la flamma fan estorn -->
+<feat xlink:href="#line_298" value="SFoi, l. 299"/><!--  gens non lai prendun bon sojorn -->
+<feat xlink:href="#line_299" value="SFoi, l. 300"/><!--  nun voill eu aital deu cabdorn -->
+<feat xlink:href="#line_300" value="SFoi, l. 301"/><!--  deus nostre donz lo glorios -->
+<feat xlink:href="#line_301" value="SFoi, l. 302"/><!--  de totas res es poderos -->
+<feat xlink:href="#line_302" value="SFoi, l. 303"/><!--  de l cel czai deissended per nos -->
+<feat xlink:href="#line_303" value="SFoi, l. 304"/><!--  e fez de ss homen molt ginnos -->
+<feat xlink:href="#line_304" value="SFoi, l. 305"/><!--  gueri lz malaves e ls lebros -->
+<feat xlink:href="#line_305" value="SFoi, l. 306"/><!--  baptisme nz ded en l agua jos -->
+<feat xlink:href="#line_306" value="SFoi, l. 307"/><!--  pres fo l seus corps lo precios -->
+<feat xlink:href="#line_307" value="SFoi, l. 308"/><!--  judeu l aucidrun enveios -->
+<feat xlink:href="#line_308" value="SFoi, l. 309"/><!--  destruiss enfern lo tenebros -->
+<feat xlink:href="#line_309" value="SFoi, l. 310"/><!--  los seus en traiss qe connog pros -->
+<feat xlink:href="#line_310" value="SFoi, l. 311"/><!--  aqel volri aver espos -->
+<feat xlink:href="#line_311" value="SFoi, l. 312"/><!--  qualque plaid m en fezess ab vos -->
+<feat xlink:href="#line_312" value="SFoi, l. 313"/><!--  q el si m es belz et amoros -->
+<feat xlink:href="#line_313" value="SFoi, l. 314"/><!--  lo seus noms es adonai -->
+<feat xlink:href="#line_314" value="SFoi, l. 315"/><!--  aital lo diss a moysi -->
+<feat xlink:href="#line_315" value="SFoi, l. 316"/><!--  poderos es per ver aissi -->
+<feat xlink:href="#line_316" value="SFoi, l. 317"/><!--  de quant manded res non n falli -->
+<feat xlink:href="#line_317" value="SFoi, l. 318"/><!--  e qi per bon cor li servi -->
+<feat xlink:href="#line_318" value="SFoi, l. 319"/><!--  non teg lo guadardon ab si -->
+<feat xlink:href="#line_319" value="SFoi, l. 320"/><!--  humilitad e ben quesi -->
+<feat xlink:href="#line_320" value="SFoi, l. 321"/><!--  et a sos drudz honor aizi -->
+<feat xlink:href="#line_321" value="SFoi, l. 322"/><!--  e qi vas lui ben se causi -->
+<feat xlink:href="#line_322" value="SFoi, l. 323"/><!--  sa part e l cel li divedi -->
+<feat xlink:href="#line_323" value="SFoi, l. 324"/><!--  e quan mor l anma l paus achi -->
+<feat xlink:href="#line_324" value="SFoi, l. 325"/><!--  aisi m considr o facz a mi -->
+<feat xlink:href="#line_325" value="SFoi, l. 326"/><!--  q ancsen l amei pos mot n audi -->
+<feat xlink:href="#line_326" value="SFoi, l. 327"/><!--  audir podez de l averser -->
+<feat xlink:href="#line_327" value="SFoi, l. 328"/><!--  consi ll respon e l cab primer -->
+<feat xlink:href="#line_328" value="SFoi, l. 329"/><!--  jur vos per ls deus d aqest clocher -->
+<feat xlink:href="#line_329" value="SFoi, l. 330"/><!--  e per aquelz cui eu profer -->
+<feat xlink:href="#line_330" value="SFoi, l. 331"/><!--  car comprarez est reprober -->
+<feat xlink:href="#line_331" value="SFoi, l. 332"/><!--  d etz cab ne perdrez un quarter -->
+<feat xlink:href="#line_332" value="SFoi, l. 333"/><!--  dunc fez venir un seun obreir -->
+<feat xlink:href="#line_333" value="SFoi, l. 334"/><!--  q una gratigla ll fez d acer -->
+<feat xlink:href="#line_334" value="SFoi, l. 335"/><!--  sus la paused sobre l foger -->
+<feat xlink:href="#line_335" value="SFoi, l. 336"/><!--  lo corps tot nud cast et enter -->
+<feat xlink:href="#line_336" value="SFoi, l. 337"/><!--  fa ill fog de legna de noger -->
+<feat xlink:href="#line_337" value="SFoi, l. 338"/><!--  e de l altra de l verdier -->
+<feat xlink:href="#line_338" value="SFoi, l. 339"/><!--  czo lle non prezed un diner -->
+<feat xlink:href="#line_339" value="SFoi, l. 340"/><!--  q en deu a tot son consider -->
+<feat xlink:href="#line_340" value="SFoi, l. 341"/><!--  e fo filla de cavaller -->
+<feat xlink:href="#line_341" value="SFoi, l. 342"/><!--  plora s la gentz e son marid -->
+<feat xlink:href="#line_342" value="SFoi, l. 343"/><!--  per la donzella fan gran crid -->
+<feat xlink:href="#line_343" value="SFoi, l. 344"/><!--  e tal jovent tan leu delid -->
+<feat xlink:href="#line_344" value="SFoi, l. 345"/><!--  sens tot forsfait q aiam audid -->
+<feat xlink:href="#line_345" value="SFoi, l. 346"/><!--  e dunc se sun molt penedid -->
+<feat xlink:href="#line_346" value="SFoi, l. 347"/><!--  de l mal q aun fait deu per oblid -->
+<feat xlink:href="#line_347" value="SFoi, l. 348"/><!--  et a llui se sun convertid -->
+<feat xlink:href="#line_348" value="SFoi, l. 349"/><!--  e per martyri mult fenid -->
+<feat xlink:href="#line_349" value="SFoi, l. 350"/><!--  e pregan lo q ell eiss los guid -->
+<feat xlink:href="#line_350" value="SFoi, l. 351"/><!--  imple de dol tota l ciutaz -->
+<feat xlink:href="#line_351" value="SFoi, l. 352"/><!--  fujun l bon homen a totz laz -->
+<feat xlink:href="#line_352" value="SFoi, l. 353"/><!--  eiss saintz caprasis cui non plaz -->
+<feat xlink:href="#line_353" value="SFoi, l. 354"/><!--  sus en la rocha sta celaz -->
+<feat xlink:href="#line_354" value="SFoi, l. 355"/><!--  d aqi vi gran virtud assaz -->
+<feat xlink:href="#line_355" value="SFoi, l. 356"/><!--  qe deus fez sobre la fornaz -->
+<feat xlink:href="#line_356" value="SFoi, l. 357"/><!--  o ll corps d aquella sancta jaz -->
+<feat xlink:href="#line_357" value="SFoi, l. 358"/><!--  raustiz e l ferr et escaraz -->
+<feat xlink:href="#line_358" value="SFoi, l. 359"/><!--  angels i veng de cel pennaz -->
+<feat xlink:href="#line_359" value="SFoi, l. 360"/><!--  blancs qon colums q eiss l an foss naz -->
+<feat xlink:href="#line_360" value="SFoi, l. 361"/><!--  quan sobre l fog fo eissalaz -->
+<feat xlink:href="#line_361" value="SFoi, l. 362"/><!--  l encendis fo refrejuraz -->
+<feat xlink:href="#line_362" value="SFoi, l. 363"/><!--  ja meilz de re uns no m credaz -->
+<feat xlink:href="#line_363" value="SFoi, l. 364"/><!--  aqell angels qe i es venguz -->
+<feat xlink:href="#line_364" value="SFoi, l. 365"/><!--  aujaz qual deintad i aduz -->
+<feat xlink:href="#line_365" value="SFoi, l. 366"/><!--  corona d aur qe plus reluz -->
+<feat xlink:href="#line_366" value="SFoi, l. 367"/><!--  non fa l soleilz quand es creguz -->
+<feat xlink:href="#line_367" value="SFoi, l. 368"/><!--  cuberg li l corps q era totz nuz -->
+<feat xlink:href="#line_368" value="SFoi, l. 369"/><!--  d un pali q es ab aur batuz -->
+<feat xlink:href="#line_369" value="SFoi, l. 370"/><!--  czo nun vi jovens ni canuz -->
+<feat xlink:href="#line_370" value="SFoi, l. 371"/><!--  fos saintz caprasis lo seus druz -->
+<feat xlink:href="#line_371" value="SFoi, l. 372"/><!--  qu anc sempre s es ab deu teguz -->
+<feat xlink:href="#line_372" value="SFoi, l. 373"/><!--  con vi l culvertz l encendi mort -->
+<feat xlink:href="#line_373" value="SFoi, l. 374"/><!--  e ll fog de lla fornaz estort -->
+<feat xlink:href="#line_374" value="SFoi, l. 375"/><!--  dunc s i mes molt grand desconort -->
+<feat xlink:href="#line_375" value="SFoi, l. 376"/><!--  quar le o ten en tal deport -->
+<feat xlink:href="#line_376" value="SFoi, l. 377"/><!--  et escrided a l seus molt fort -->
+<feat xlink:href="#line_377" value="SFoi, l. 378"/><!--  donzeill mija de l cab no n port -->
+<feat xlink:href="#line_378" value="SFoi, l. 379"/><!--  qe totz nos mena a grand tort -->
+<feat xlink:href="#line_379" value="SFoi, l. 380"/><!--  suspira l gentz per tal affan -->
+<feat xlink:href="#line_380" value="SFoi, l. 381"/><!--  qe ll vedon durar sens engan -->
+<feat xlink:href="#line_381" value="SFoi, l. 382"/><!--  hom cui fosson cregud cent ann -->
+<feat xlink:href="#line_382" value="SFoi, l. 383"/><!--  nonca l sofergra ja plus gran -->
+<feat xlink:href="#line_383" value="SFoi, l. 384"/><!--  cisclan l bascon qe son d aran -->
+<feat xlink:href="#line_384" value="SFoi, l. 385"/><!--  dizon per ren viva non n an -->
+<feat xlink:href="#line_385" value="SFoi, l. 386"/><!--  levan la n pes de l fog tiran -->
+<feat xlink:href="#line_386" value="SFoi, l. 387"/><!--  erss l uns la spada flameian -->
+<feat xlink:href="#line_387" value="SFoi, l. 388"/><!--  tal li doned e l cab de l bran -->
+<feat xlink:href="#line_388" value="SFoi, l. 389"/><!--  tota la testa n mog taillan -->
+<feat xlink:href="#line_389" value="SFoi, l. 390"/><!--  con fez heros far saint johan -->
+<feat xlink:href="#line_390" value="SFoi, l. 391"/><!--  remas lo corps truncs e rezis -->
+<feat xlink:href="#line_391" value="SFoi, l. 392"/><!--  aissi con l gladis l a aucis -->
+<feat xlink:href="#line_392" value="SFoi, l. 393"/><!--  de l anma son l angel gavis -->
+<feat xlink:href="#line_393" value="SFoi, l. 394"/><!--  ab gaui la n portan et ab ris -->
+<feat xlink:href="#line_394" value="SFoi, l. 395"/><!--  totz n es alegres paradis -->
+<feat xlink:href="#line_395" value="SFoi, l. 396"/><!--  e l saint qe dintz eran assis -->
+<feat xlink:href="#line_396" value="SFoi, l. 397"/><!--  non dig menczonga czo m es vis -->
+<feat xlink:href="#line_397" value="SFoi, l. 398"/><!--  si per oblid non i mespris -->
+<feat xlink:href="#line_398" value="SFoi, l. 399"/><!--  q a savis homens o requis -->
+<feat xlink:href="#line_399" value="SFoi, l. 400"/><!--  e de gramadis o apris -->
+<feat xlink:href="#line_400" value="SFoi, l. 401"/><!--  autor vos en trag saint daunis -->
+<feat xlink:href="#line_401" value="SFoi, l. 402"/><!--  ar audirez un mot eschiu -->
+<feat xlink:href="#line_402" value="SFoi, l. 403"/><!--  lo sangs en terra fez gran riu -->
+<feat xlink:href="#line_403" value="SFoi, l. 404"/><!--  non l ausan sebellir li viu -->
+<feat xlink:href="#line_404" value="SFoi, l. 405"/><!--  qe l fell o veda per son briu -->
+<feat xlink:href="#line_405" value="SFoi, l. 406"/><!--  en terra l feiron aital niu -->
+<feat xlink:href="#line_406" value="SFoi, l. 407"/><!--  con fa l estrucis en estiu -->
+<feat xlink:href="#line_407" value="SFoi, l. 408"/><!--  e dunc se ploravan molt piu -->
+<feat xlink:href="#line_408" value="SFoi, l. 409"/><!--  quar non lur era meilz aiziu -->
+<feat xlink:href="#line_409" value="SFoi, l. 410"/><!--  dolent remanun e caitiu -->
+<feat xlink:href="#line_410" value="SFoi, l. 411"/><!--  paor an gran qe l mals reziu -->
+<feat xlink:href="#line_411" value="SFoi, l. 412"/><!--  et ains ant con homen fugdiu -->
+<feat xlink:href="#line_412" value="SFoi, l. 413"/><!--  tant teg achella seboltura -->
+<feat xlink:href="#line_413" value="SFoi, l. 414"/><!--  tro a remas achist rancura -->
+<feat xlink:href="#line_414" value="SFoi, l. 415"/><!--  la carnz ol bon con plus madura -->
+<feat xlink:href="#line_415" value="SFoi, l. 416"/><!--  no i fez hanc verms neiss rasgadura -->
+<feat xlink:href="#line_416" value="SFoi, l. 417"/><!--  de l sang en l cab par la peintura -->
+<feat xlink:href="#line_417" value="SFoi, l. 418"/><!--  vermeill l a tot per la jointura -->
+<feat xlink:href="#line_418" value="SFoi, l. 419"/><!--  mortz fo achel hom follatura -->
+<feat xlink:href="#line_419" value="SFoi, l. 420"/><!--  qe deu laizava sa dreitura -->
+<feat xlink:href="#line_420" value="SFoi, l. 421"/><!--  recobra l segles per natura -->
+<feat xlink:href="#line_421" value="SFoi, l. 422"/><!--  totz bens torned en sa mesura -->
+<feat xlink:href="#line_422" value="SFoi, l. 423"/><!--  e l folz sofer sa gran ardura -->
+<feat xlink:href="#line_423" value="SFoi, l. 424"/><!--  con a lz pagans lur faitz pejura -->
+<feat xlink:href="#line_424" value="SFoi, l. 425"/><!--  a ls cristians de tot meillura -->
+<feat xlink:href="#line_425" value="SFoi, l. 426"/><!--  dunc en pres saintz dulcidis cura -->
+<feat xlink:href="#line_426" value="SFoi, l. 427"/><!--  e de l biscbad per deu s apura -->
+<feat xlink:href="#line_427" value="SFoi, l. 428"/><!--  addobar fez la marmre dura -->
+<feat xlink:href="#line_428" value="SFoi, l. 429"/><!--  o la sainta colggess segura -->
+<feat xlink:href="#line_429" value="SFoi, l. 430"/><!--  encis ginnos la cobertura -->
+<feat xlink:href="#line_430" value="SFoi, l. 431"/><!--  fa i de l martiri tailladura -->
+<feat xlink:href="#line_431" value="SFoi, l. 432"/><!--  poiss per una noit molt escura -->
+<feat xlink:href="#line_432" value="SFoi, l. 433"/><!--  feiroin dui monge obertura -->
+<feat xlink:href="#line_433" value="SFoi, l. 434"/><!--  traissun lo corps per gran gentura -->
+<feat xlink:href="#line_434" value="SFoi, l. 435"/><!--  a conchas l aun sainta e pura -->
+<feat xlink:href="#line_435" value="SFoi, l. 436"/><!--  e lijun o en escriptura -->
+<feat xlink:href="#line_436" value="SFoi, l. 437"/><!--  ben es achell aitz ereubuz -->
+<feat xlink:href="#line_437" value="SFoi, l. 438"/><!--  o deus tan rica saint aduz -->
+<feat xlink:href="#line_438" value="SFoi, l. 439"/><!--  q el fa per ella granz vertuz -->
+<feat xlink:href="#line_439" value="SFoi, l. 440"/><!--  e plaiz molt gentz e jogs menuz -->
+<feat xlink:href="#line_440" value="SFoi, l. 441"/><!--  giralz uns preire mal tunduz -->
+<feat xlink:href="#line_441" value="SFoi, l. 442"/><!--  los oilz traiss guidbert q es sos druz -->
+<feat xlink:href="#line_442" value="SFoi, l. 443"/><!--  pois pos los ag un an perduz -->
+<feat xlink:href="#line_443" value="SFoi, l. 444"/><!--  deus li redded per leis la luz -->
+<feat xlink:href="#line_444" value="SFoi, l. 445"/><!--  s ad ella ven hom cegs o muz -->
+<feat xlink:href="#line_445" value="SFoi, l. 446"/><!--  o passions molt lo trauz -->
+<feat xlink:href="#line_446" value="SFoi, l. 447"/><!--  o s em preison es reteguz -->
+<feat xlink:href="#line_447" value="SFoi, l. 448"/><!--  o per guerra decadeguz -->
+<feat xlink:href="#line_448" value="SFoi, l. 449"/><!--  pos denant ella n er tenduz -->
+<feat xlink:href="#line_449" value="SFoi, l. 450"/><!--  o sia jovens o canuz -->
+<feat xlink:href="#line_450" value="SFoi, l. 451"/><!--  si de peccaz es peneduz -->
+<feat xlink:href="#line_451" value="SFoi, l. 452"/><!--  sempre l venra gauiz e saluz -->
+<feat xlink:href="#line_452" value="SFoi, l. 453"/><!--  ara t preg donna qe m aiuz -->
+<feat xlink:href="#line_453" value="SFoi, l. 454"/><!--  dizer vos voill enant qe m paus -->
+<feat xlink:href="#line_454" value="SFoi, l. 455"/><!--  con deus aucis estz homens braus -->
+<feat xlink:href="#line_455" value="SFoi, l. 456"/><!--  d est segle volrun vanas laus -->
+<feat xlink:href="#line_456" value="SFoi, l. 457"/><!--  czo fo lur gauiz e lur suaus -->
+<feat xlink:href="#line_457" value="SFoi, l. 458"/><!--  lur obra fo enganz e fraus -->
+<feat xlink:href="#line_458" value="SFoi, l. 459"/><!--  pejor forun q aici non aus -->
+<feat xlink:href="#line_459" value="SFoi, l. 460"/><!--  cest desfeirun castel emaus -->
+<feat xlink:href="#line_460" value="SFoi, l. 461"/><!--  e czo qe fez saintz nicolaus -->
+<feat xlink:href="#line_461" value="SFoi, l. 462"/><!--  manderun lz portz o sun las naus -->
+<feat xlink:href="#line_462" value="SFoi, l. 463"/><!--  e per terr en fo lur l esclaus -->
+<feat xlink:href="#line_463" value="SFoi, l. 464"/><!--  enfernz los pres q es nemias caus -->
+<feat xlink:href="#line_464" value="SFoi, l. 465"/><!--  priun lai jazun con fa traus -->
+<feat xlink:href="#line_465" value="SFoi, l. 466"/><!--  ab elz es dacians enclaus -->
+<feat xlink:href="#line_466" value="SFoi, l. 467"/><!--  e l reis heros et archelaus -->
+<feat xlink:href="#line_467" value="SFoi, l. 468"/><!--  fums los aucid de l solphre blaus -->
+<feat xlink:href="#line_468" value="SFoi, l. 469"/><!--  ad aqestz homens peccadors -->
+<feat xlink:href="#line_469" value="SFoi, l. 470"/><!--  deptaz es enfernz e calors -->
+<feat xlink:href="#line_470" value="SFoi, l. 471"/><!--  mais per czo deus teg los maiors -->
+<feat xlink:href="#line_471" value="SFoi, l. 472"/><!--  e lz consenti emperadors -->
+<feat xlink:href="#line_472" value="SFoi, l. 473"/><!--  mes los d est segle judgadors -->
+<feat xlink:href="#line_473" value="SFoi, l. 474"/><!--  q aucidan los homens meillors -->
+<feat xlink:href="#line_474" value="SFoi, l. 475"/><!--  si ll poder non dess a ls pejors -->
+<feat xlink:href="#line_475" value="SFoi, l. 476"/><!--  de lz saintz non fora tals laudors -->
+<feat xlink:href="#line_476" value="SFoi, l. 477"/><!--  cist l en trameiron aitals flors -->
+<feat xlink:href="#line_477" value="SFoi, l. 478"/><!--  q en cel es bella lur colors -->
+<feat xlink:href="#line_478" value="SFoi, l. 479"/><!--  dolcz e suaus es lor olors -->
+<feat xlink:href="#line_479" value="SFoi, l. 480"/><!--  e qi la sent pren l en amors -->
+<feat xlink:href="#line_480" value="SFoi, l. 481"/><!--  et en sun corps creiss l en vigors -->
+<feat xlink:href="#line_481" value="SFoi, l. 482"/><!--  maximians fo fell vas deu -->
+<feat xlink:href="#line_482" value="SFoi, l. 483"/><!--  e diuclicians quains leu -->
+<feat xlink:href="#line_483" value="SFoi, l. 484"/><!--  pejor foron q altre judeu -->
+<feat xlink:href="#line_484" value="SFoi, l. 485"/><!--  e feirun peiz qe filisteu -->
+<feat xlink:href="#line_485" value="SFoi, l. 486"/><!--  ab elz concordan hiebuseu -->
+<feat xlink:href="#line_486" value="SFoi, l. 487"/><!--  et arabid e ferezeu -->
+<feat xlink:href="#line_487" value="SFoi, l. 488"/><!--  hermini n tegrun tot lur feu -->
+<feat xlink:href="#line_488" value="SFoi, l. 489"/><!--  et amazonas e pigmeu -->
+<feat xlink:href="#line_489" value="SFoi, l. 490"/><!--  hermafroditas et hebreu -->
+<feat xlink:href="#line_490" value="SFoi, l. 491"/><!--  e corbarin et amorreu -->
+<feat xlink:href="#line_491" value="SFoi, l. 492"/><!--  dolentz son molt per aiczo eu -->
+<feat xlink:href="#line_492" value="SFoi, l. 493"/><!--  quar nun s regnavan l machabeu -->
+<feat xlink:href="#line_493" value="SFoi, l. 494"/><!--  qu ill lur breugeran aqest treu -->
+<feat xlink:href="#line_494" value="SFoi, l. 495"/><!--  maximians ag cor avar -->
+<feat xlink:href="#line_495" value="SFoi, l. 496"/><!--  et hom en lui non s pog fidar -->
+<feat xlink:href="#line_496" value="SFoi, l. 497"/><!--  ded constantin sa fill a par -->
+<feat xlink:href="#line_497" value="SFoi, l. 498"/><!--  ab que l poggess meilz afollar -->
+<feat xlink:href="#line_498" value="SFoi, l. 499"/><!--  cell teg mansella sobre mar -->
+<feat xlink:href="#line_499" value="SFoi, l. 500"/><!--  et ag gran vizi e fo bar -->
+<feat xlink:href="#line_500" value="SFoi, l. 501"/><!--  la donn amed e teg la car -->
+<feat xlink:href="#line_501" value="SFoi, l. 502"/><!--  et ill nun pog lui plus amar -->
+<feat xlink:href="#line_502" value="SFoi, l. 503"/><!--  dunc pres lo veilz a considrar -->
+<feat xlink:href="#line_503" value="SFoi, l. 504"/><!--  consi lz pogges de l rein jetar -->
+<feat xlink:href="#line_504" value="SFoi, l. 505"/><!--  mais czo fo mal ad adobar -->
+<feat xlink:href="#line_505" value="SFoi, l. 506"/><!--  fez maximin son fill armar -->
+<feat xlink:href="#line_506" value="SFoi, l. 507"/><!--  diss li q el an sa ost mandar -->
+<feat xlink:href="#line_507" value="SFoi, l. 508"/><!--  guarniss la gentz d aquell afar -->
+<feat xlink:href="#line_508" value="SFoi, l. 509"/><!--  dainesc i vengrun e navarr -->
+<feat xlink:href="#line_509" value="SFoi, l. 510"/><!--  niell e maur e ll fill agar -->
+<feat xlink:href="#line_510" value="SFoi, l. 511"/><!--  e cill de tribu isachar -->
+<feat xlink:href="#line_511" value="SFoi, l. 512"/><!--  vengron ill homen de cedar -->
+<feat xlink:href="#line_512" value="SFoi, l. 513"/><!--  e tuit de l reinn salmanasar -->
+<feat xlink:href="#line_513" value="SFoi, l. 514"/><!--  prendun ensems a cavalgar -->
+<feat xlink:href="#line_514" value="SFoi, l. 515"/><!--  e lor ardid a concordar -->
+<feat xlink:href="#line_515" value="SFoi, l. 516"/><!--  q annun mansella peciar -->
+<feat xlink:href="#line_516" value="SFoi, l. 517"/><!--  trames sas letras e ls correus -->
+<feat xlink:href="#line_517" value="SFoi, l. 518"/><!--  manded aqelz q en tenun feus -->
+<feat xlink:href="#line_518" value="SFoi, l. 519"/><!--  bolgres manded grex e caldeus -->
+<feat xlink:href="#line_519" value="SFoi, l. 520"/><!--  marcomanins e machrobeus -->
+<feat xlink:href="#line_520" value="SFoi, l. 521"/><!--  van i satir ab idumeus -->
+<feat xlink:href="#line_521" value="SFoi, l. 522"/><!--  engl et escot ab canineus -->
+<feat xlink:href="#line_522" value="SFoi, l. 523"/><!--  saintz maurizis l aduiss thebeus -->
+<feat xlink:href="#line_523" value="SFoi, l. 524"/><!--  aqo sun homen q ama deus -->
+<feat xlink:href="#line_524" value="SFoi, l. 525"/><!--  traciunn fez lo fell judeus -->
+<feat xlink:href="#line_525" value="SFoi, l. 526"/><!--  lui eiss aucis czo es motz reus -->
+<feat xlink:href="#line_526" value="SFoi, l. 527"/><!--  s achi foss judas machabeus -->
+<feat xlink:href="#line_527" value="SFoi, l. 528"/><!--  heliazars o timotheus -->
+<feat xlink:href="#line_528" value="SFoi, l. 529"/><!--  o i foss samson lo nazareus -->
+<feat xlink:href="#line_529" value="SFoi, l. 530"/><!--  o josue o ll paucs zacheus -->
+<feat xlink:href="#line_530" value="SFoi, l. 531"/><!--  czo m cuid nun foss totz lo jogs seus -->
+<feat xlink:href="#line_531" value="SFoi, l. 532"/><!--  achi aucis saintz a talent -->
+<feat xlink:href="#line_532" value="SFoi, l. 533"/><!--  seis mil n i morun e seis cent -->
+<feat xlink:href="#line_533" value="SFoi, l. 534"/><!--  viraz lo camp roi e cruent -->
+<feat xlink:href="#line_534" value="SFoi, l. 535"/><!--  massa i guirpiron lur jovent -->
+<feat xlink:href="#line_535" value="SFoi, l. 536"/><!--  rodens en creg de l sang corrent -->
+<feat xlink:href="#line_536" value="SFoi, l. 537"/><!--  alta s la riba qe no n sent -->
+<feat xlink:href="#line_537" value="SFoi, l. 538"/><!--  aunta don deus a l veill pudent -->
+<feat xlink:href="#line_538" value="SFoi, l. 539"/><!--  poiss mes aguait molt fraudolent -->
+<feat xlink:href="#line_539" value="SFoi, l. 540"/><!--  qi constantin l facza prendent -->
+<feat xlink:href="#line_540" value="SFoi, l. 541"/><!--  el connog son viziament -->
+<feat xlink:href="#line_541" value="SFoi, l. 542"/><!--  e mesc li d atretal piment -->
+<feat xlink:href="#line_542" value="SFoi, l. 543"/><!--  fez lor cenbell tot a present -->
+<feat xlink:href="#line_543" value="SFoi, l. 544"/><!--  lo veill tolg ad achella gent -->
+<feat xlink:href="#line_544" value="SFoi, l. 545"/><!--  mes l en manssella lor vedent -->
+<feat xlink:href="#line_545" value="SFoi, l. 546"/><!--  geted l en carcer con dolent -->
+<feat xlink:href="#line_546" value="SFoi, l. 547"/><!--  sa filla l fez tal guarniment -->
+<feat xlink:href="#line_547" value="SFoi, l. 548"/><!--  q om non deu far a sun parent -->
+<feat xlink:href="#line_548" value="SFoi, l. 549"/><!--  mort lo lor fez pausar a ll vent -->
+<feat xlink:href="#line_549" value="SFoi, l. 550"/><!--  diuclicians es a ll pedrun -->
+<feat xlink:href="#line_550" value="SFoi, l. 551"/><!--  esta iraz e non sab con -->
+<feat xlink:href="#line_551" value="SFoi, l. 552"/><!--  jogan an lui mil esclavon -->
+<feat xlink:href="#line_552" value="SFoi, l. 553"/><!--  tuit a scrim en environ -->
+<feat xlink:href="#line_553" value="SFoi, l. 554"/><!--  enflad a l cor et a l fellon -->
+<feat xlink:href="#line_554" value="SFoi, l. 555"/><!--  res de quant fan lui non es bon -->
+<feat xlink:href="#line_555" value="SFoi, l. 556"/><!--  guarded molt loin en un cambun -->
+<feat xlink:href="#line_556" value="SFoi, l. 557"/><!--  vi cavalgar un dunzellun -->
+<feat xlink:href="#line_557" value="SFoi, l. 558"/><!--  con fo ant lui mes l a razon -->
+<feat xlink:href="#line_558" value="SFoi, l. 559"/><!--  el de quant saub no ll diss de non -->
+<feat xlink:href="#line_559" value="SFoi, l. 560"/><!--  q irad lo vi cumma leon -->
+<feat xlink:href="#line_560" value="SFoi, l. 561"/><!--  perdud avez lo compannon -->
+<feat xlink:href="#line_561" value="SFoi, l. 562"/><!--  per que us prezavan li baron -->
+<feat xlink:href="#line_562" value="SFoi, l. 563"/><!--  mort l an per ver en la preison -->
+<feat xlink:href="#line_563" value="SFoi, l. 564"/><!--  eissa sa filla n tration -->
+<feat xlink:href="#line_564" value="SFoi, l. 565"/><!--  el con audid aitan fer son -->
+<feat xlink:href="#line_565" value="SFoi, l. 566"/><!--  pres s a lla barb et a l grennun -->
+<feat xlink:href="#line_566" value="SFoi, l. 567"/><!--  rumped li l cors prob lo polmun -->
+<feat xlink:href="#line_567" value="SFoi, l. 568"/><!--  l anm ag fraitura de guidun -->
+<feat xlink:href="#line_568" value="SFoi, l. 569"/><!--  ve lz vos ambs dos ab pharaun -->
+<feat xlink:href="#line_569" value="SFoi, l. 570"/><!--  e n sun liad cuma lairon -->
+<feat xlink:href="#line_570" value="SFoi, l. 571"/><!--  lur baille sunt molt mal dragun -->
+<feat xlink:href="#line_571" value="SFoi, l. 572"/><!--  queg dia lz creman quains tizun -->
+<feat xlink:href="#line_572" value="SFoi, l. 573"/><!--  lor noms non coven en canczun -->
+<feat xlink:href="#line_573" value="SFoi, l. 574"/><!--  fos quant en fabla de cuczun -->
+<feat xlink:href="#line_574" value="SFoi, l. 575"/><!--  qe traitor forun e fellun -->
+<feat xlink:href="#line_575" value="SFoi, l. 576"/><!--  folz es qi nemias se trebailla -->
+<feat xlink:href="#line_576" value="SFoi, l. 577"/><!--  qe per mal far sos linz mais valla -->
+<feat xlink:href="#line_577" value="SFoi, l. 578"/><!--  a ls filz d achestz ded deus tal tailla -->
+<feat xlink:href="#line_578" value="SFoi, l. 579"/><!--  pauc dia sun quegs non s asailla -->
+<feat xlink:href="#line_579" value="SFoi, l. 580"/><!--  intz en roma diss una grailla -->
+<feat xlink:href="#line_580" value="SFoi, l. 581"/><!--  qe ll dui farian gran batailla -->
+<feat xlink:href="#line_581" value="SFoi, l. 582"/><!--  mescled l estorns en la plancalla -->
+<feat xlink:href="#line_582" value="SFoi, l. 583"/><!--  no i valg alsbergs s ag fort la malla -->
+<feat xlink:href="#line_583" value="SFoi, l. 584"/><!--  ni elms laczaz n altra serralla -->
+<feat xlink:href="#line_584" value="SFoi, l. 585"/><!--  qi i fo feriz per la ventalla -->
+<feat xlink:href="#line_585" value="SFoi, l. 586"/><!--  totz lo sangs n eiss per la cabczalla -->
+<feat xlink:href="#line_586" value="SFoi, l. 587"/><!--  ve us ambs los reiz mortz e lla palla -->
+<feat xlink:href="#line_587" value="SFoi, l. 588"/><!--  unqueg faissad d una toalla -->
+<feat xlink:href="#line_588" value="SFoi, l. 589"/><!--  arss deus cell lin con fogs fa falla -->
+<feat xlink:href="#line_589" value="SFoi, l. 590"/><!--  ja non veidrez neiss la curalla -->
+<feat xlink:href="#line_590" value="SFoi, l. 591"/><!--  e si s sun mort vos nunqua n calla -->
+<feat xlink:href="#line_591" value="SFoi, l. 592"/><!--  q eu noc o prez una medalla -->
+<feat xlink:href="#line_592" value="SFoi, l. 593"/><!--  de llor cantar ja m pren nualla -->
+</featList>
+</paula>

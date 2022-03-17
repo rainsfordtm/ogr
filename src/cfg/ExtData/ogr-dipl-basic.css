@@ -7,3 +7,4 @@ div.line{display: block; white-space:nowrap; counter-increment: line ; height: 2
 .wd_div[wd_div*=","]::after{content: ". "}
 .wd_div[wd_div*=";"]::after{content: "; "}
 .wd_div[wd_div*="!"]::after{content: "; "}
+.wd_div[wd_div*="–"]::after{content: "– "}

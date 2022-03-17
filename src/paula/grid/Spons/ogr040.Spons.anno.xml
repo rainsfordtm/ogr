@@ -69,8 +69,8 @@
 </struct><struct id="anno_14">
 <rel id="rel_49" xlink:href="tei.Spons.tei_s"/>
 <rel id="rel_50" xlink:href="tei.Spons.tei_s_tei_s"/>
-<rel id="rel_51" xlink:href="tei.Spons.tei_s_xml_lang"/>
-<rel id="rel_52" xlink:href="tei.Spons.tei_s"/>
-<rel id="rel_53" xlink:href="tei.Spons.tei_s_xml_lang"/>
+</struct><struct id="anno_15">
+<rel id="rel_51" xlink:href="tei.Spons.tei_speaker"/>
+<rel id="rel_52" xlink:href="tei.Spons.tei_speaker_tei_speaker"/>
 </struct></structList>
 </paula>

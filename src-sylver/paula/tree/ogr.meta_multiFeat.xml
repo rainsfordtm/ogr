@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!DOCTYPE paula  SYSTEM 'paula_multiFeat.dtd'><paula version="1.0">
-<header paula_id="ogr.meta_multiFeat"/>
-<multiFeatList xmlns:xlink="http://www.w3.org/1999/xlink" type="multiFeat" xml:base="ogr.anno.xml">
-<multiFeat xlink:href="#anno_0">
-<feat name="format" value="SylVA-PAULA with metrical tree"/>
-<feat name="date" value="2022-03-16"/>
-<feat name="name" value="Old Gallo-Romance (OGR) Corpus, ANNIS edition"/><feat name="creator" value="T. M. Rainsford"/><feat name="email" value="thomas.rainsford@ling.uni-stuttgart.de"/><feat name="website" value="http://www.ogr-corpus.org"/><feat name="citation" value="Rainsford, Thomas M. 2022. Old Gallo-Romance Corpus: ANNIS edition, version 0.4. Stuttgart: Institut für Linguistik/Romanistik. &lt;http://www.ogr-corpus.org&gt;"/></multiFeat>
-</multiFeatList>
-</paula>
