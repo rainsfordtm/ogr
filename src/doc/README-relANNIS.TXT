@@ -10,8 +10,8 @@ SETUP
 
 This .zip contains two versions of the OGR corpus in relANNIS and PAULA XML
 format:
-- ogr (Standard version, all texts)
-- ogr-sylver (Metrically annotated, syllabic verse texts only)
+- ogr040 (Standard version, all texts)
+- ogrsv040 (Metrically annotated, syllabic verse texts only)
 
 To use the relANNIS corpus, you will need administrative rights on an ANNIS
 3.6 server, or you'll need to install PostgreSQL and ANNIS Kickstarter on your
