@@ -1,6 +1,6 @@
 ###############################################################################
-# Old Gallo-Romance Corpus (OGR), version 0.3
-# © Thomas M. Rainsford, ILR, Universität Stuttgart, 7th December 2021
+# Old Gallo-Romance Corpus (OGR), version 0.4
+# © Thomas M. Rainsford, ILR, Universität Stuttgart, 18th March 2022
 # http://www.ogr-corpus.org
 ###############################################################################
 
@@ -28,8 +28,8 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 * You are free to share this .zip file.
 
 * You must give credit to the author by citing the corpus in the following way:
-	Rainsford, Thomas M. 2021. Old Gallo-Romance Corpus, TXM edition, 
-		version 0.3. Stuttgart: Institut für Linguistik/Romanistik. 
+	Rainsford, Thomas M. 2022. Old Gallo-Romance Corpus, TEI edition, 
+		version 0.4. Stuttgart: Institut für Linguistik/Romanistik. 
 		<http://www.ogr-corpus.org>.
 		
 * You may not use this material for commercial purposes.

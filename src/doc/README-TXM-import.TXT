@@ -1,7 +1,7 @@
 ###############################################################################
 # Metadata, XSLT and CSS files for the TXM import of the Old Gallo-Romance (OGR) 
-# Corpus, version 0.3.
-# © Thomas M. Rainsford, ILR, Universität Stuttgart, 7th December 2021
+# Corpus, version 0.4.
+# © Thomas M. Rainsford, ILR, Universität Stuttgart, 18th March 2022
 # http://www.ogr-corpus.org
 ###############################################################################
 
@@ -39,7 +39,7 @@ FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 *************************
 COPYRIGHT AND ATTRIBUTION
 *************************
-Copyright T. M. Rainsford, ILR/University of Stuttgart, 2021.
+Copyright T. M. Rainsford, ILR/University of Stuttgart, 2022.
 
 The XSL and CSS files are adapted from those provided with the installation
 of the TXM software at https://sourceforge.net/projects/txm/.

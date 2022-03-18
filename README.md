@@ -1,6 +1,6 @@
 Old Gallo-Romance Corpus (OGR) source repository
 ================================================
-© Thomas M. Rainsford, ILR, Universität Stuttgart, 7th December 2021
+© Thomas M. Rainsford, ILR, Universität Stuttgart, 18th March 2022
 
 http://www.ogr-corpus.org
 

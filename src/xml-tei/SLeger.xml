@@ -39,7 +39,7 @@
             <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
-                  <bibl>Life of Saint Leger (SLeger). In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.3. Stuttgart, Institut für Linguistik/Romanistik, 2021.
+                  <bibl>Life of Saint Leger (SLeger). In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.4. Stuttgart, Institut für Linguistik/Romanistik, 2022.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
                </ab>
@@ -144,11 +144,12 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-07" resp="#TMR">OGR corpus version 0.3 created</change>
          <change when="2021-11-21" resp="#TMR">Creation of this header</change>
       </revisionDesc>
-   </teiHeader><text><body xml:lang="fro"><pb facs="https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71595" n="159v"/><cb n="c"/><lg n="1" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="1">
+   </teiHeader><text><body xml:lang="fro"><pb n="159v"/><cb n="c"/><lg n="1" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="1">
 <w xml:id="SLeger_w_1" lemma="Damedieu" pos="NOMpro" msd="smr" join="no" ana="#line_id£1 #linewd£1 #dipl£Domine_deu #phon£QVRVRVQV #phon_map£d.o.m.i.n.e.d.eu #syllabified£Q/V\.R/V\.R/V\.'Q/V\ #wd_div£_ #textlineid£1 #lang£lat #syntag£N #syntag2£N #lemma£Damedieu #lemma_src£DMF #lemma_dmf£Damedieu #pos£NOMpro #pos_syn£NOMpro #morph£smr #phil_note£-- #ref£SLeger,_l._1 #prosody£4ox #metpos£01.02.03.04.- #soptem£08.07.06.05.- #line_met£08m--" met="01.02.03.04.-"><seg xml:id="SLeger_seg_0" type="segment" ana="#plus£cons #minus£lat,nas,son #matches£QC #phoneme£Q #onc£O"><c>d</c></seg><seg xml:id="SLeger_seg_1" type="segment" ana="#plus£son #minus£cons #matches£V #phoneme£V #onc£N"><c>o</c></seg><seg xml:id="SLeger_seg_2" type="segment" ana="#plus£cons,cont,son,voice #minus£lat,nas #matches£RC #phoneme£R #onc£O"><c>m</c></seg><seg xml:id="SLeger_seg_3" type="segment" ana="#plus£son #minus£cons #matches£V #phoneme£V #onc£N"><c>i</c></seg><seg xml:id="SLeger_seg_4" type="segment" ana="#plus£cons,cont,son,voice #minus£lat,nas #matches£RC #phoneme£R #onc£O"><c>n</c></seg><seg xml:id="SLeger_seg_5" type="segment" ana="#plus£son #minus£cons #matches£V #phoneme£V #onc£N"><c>e</c></seg><seg xml:id="SLeger_seg_6" type="segment" ana="#plus£cons #minus£lat,nas,son #matches£QC #phoneme£Q #onc£O"><c>d</c></seg><seg xml:id="SLeger_seg_7" type="segment" ana="#plus£son #minus£cons #matches£V #phoneme£V #onc£N"><c>e</c><c>u</c></seg></w>
 
 
@@ -432,7 +433,7 @@
 <w xml:id="SLeger_w_71" lemma="ocire" pos="VERcjg" msd="indpsp3" join="right" ana="#line_id£12 #linewd£6 #dipl£occist #phon£OʦiST #phon_map£o.cc.i.s.t #syllabified£/O\.'ʦ/i\ST #wd_div£; #textlineid£12 #lang£fro #syntag£Vfin #syntag2£Vfin #lemma£ocire #lemma_src£DMF #lemma_dmf£ocire #pos£VERcjg #pos_syn£VERcjg #morph£indpsp3 #phil_note£SLégerL:121 #ref£SLeger,_l._12 #prosody£2ox #metpos£07.08.r #soptem£02.01.r #line_met£08m--" met="07.08.r"><seg xml:id="SLeger_seg_277" type="segment" ana="#plus£back,DORSAL,LABIAL,round,son,voice #minus£cons,nas #matches£OV #phoneme£O #onc£N"><c>o</c></seg><seg xml:id="SLeger_seg_278" type="segment" ana="#plus£ant,cons,CORONAL,strident #minus£cont,dist,lat,nas,son,voice #matches£ʦÇZQC #phoneme£ʦ #onc£O"><c>c</c><c>c</c></seg><seg xml:id="SLeger_seg_279" type="segment" ana="#plus£atr,DORSAL,high,son,voice #minus£back,cons,low,nas #matches£iV #phoneme£i #onc£N"><c>i</c></seg><seg xml:id="SLeger_seg_280" type="segment" ana="#plus£ant,cons,cont,CORONAL,strident #minus£dist,lat,nas,son #matches£SZQC #phoneme£S #onc£C"><c>s</c></seg><seg xml:id="SLeger_seg_281" type="segment" ana="#plus£ant,cons,CORONAL #minus£cont,lat,nas,son,strident #matches£TDZQC #phoneme£T #onc£C"><c>t</c></seg></w>
 <pc join="left">;</pc>
 </l></lg>
-<pb facs="https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71595" n="160r"/><cb n="a"/><lb/><lg n="3" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="13">
+<pb n="160r"/><cb n="a"/><lb/><lg n="3" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="13">
 <w xml:id="SLeger_w_72" lemma="quand" pos="CONsub" msd="" join="no" ana="#line_id£13 #linewd£1 #dipl£Quant #phon£kANT #phon_map£qu.a.n.t #syllabified£k/A\NT #wd_div£_ #textlineid£13 #lang£fro #syntag£Sub #syntag2£Sub #lemma£quand #lemma_src£DMF #lemma_dmf£quand #pos£CONsub #pos_syn£CONsub #morph£-- #phil_note£-- #ref£SLeger,_l._13 #prosody£1ox #metpos£01.- #soptem£08.- #line_met£08m--" met="01.-"><seg xml:id="SLeger_seg_282" type="segment" ana="#plus£back,cons,DORSAL #minus£cont,lat,nas,son,strident,voice #matches£kKċGĊQC #phoneme£k #onc£O"><c>q</c><c>u</c></seg><seg xml:id="SLeger_seg_283" type="segment" ana="#plus£DORSAL,low,son,voice #minus£back,cons,high,nas #matches£AÆV #phoneme£A #onc£N"><c>a</c></seg><seg xml:id="SLeger_seg_284" type="segment" ana="#plus£cons,nas,son,voice #minus£cont,lat #matches£NC #phoneme£N #onc£C"><c>n</c></seg><seg xml:id="SLeger_seg_285" type="segment" ana="#plus£ant,cons,CORONAL #minus£cont,lat,nas,son,strident #matches£TDZQC #phoneme£T #onc£C"><c>t</c></seg></w>
 
 
@@ -3724,7 +3725,7 @@
 <w xml:id="SLeger_w_894" lemma="faire" pos="VERcjg" msd="indpsp3" join="both" ana="#line_id£150 #linewd£6 #dipl£fist #phon£fiST #phon_map£f.i.s.t #syllabified£f/i\ST #wd_div£:| #textlineid£150 #lang£fro #syntag£Vfin #syntag2£Vfin #lemma£faire #lemma_src£DMF #lemma_dmf£faire #pos£VERcjg #pos_syn£VERcjg #morph£indpsp3 #phil_note£-- #ref£SLeger,_l._150 #prosody£1ox #metpos£08.r #soptem£01.r #line_met£08m--" met="08.r"><seg xml:id="SLeger_seg_3352" type="segment" ana="#plus£cons,cont,LABIAL,strident #minus£lat,nas,son,voice #matches£fFBQC #phoneme£f #onc£O"><c>f</c></seg><seg xml:id="SLeger_seg_3353" type="segment" ana="#plus£atr,DORSAL,high,son,voice #minus£back,cons,low,nas #matches£iV #phoneme£i #onc£N"><c>i</c></seg><seg xml:id="SLeger_seg_3354" type="segment" ana="#plus£ant,cons,cont,CORONAL,strident #minus£dist,lat,nas,son #matches£SZQC #phoneme£S #onc£C"><c>s</c></seg><seg xml:id="SLeger_seg_3355" type="segment" ana="#plus£ant,cons,CORONAL #minus£cont,lat,nas,son,strident #matches£TDZQC #phoneme£T #onc£C"><c>t</c></seg></w>
 <pc join="left">:</pc>
 </l></lg>
-<pb facs="https://www.bibliotheques-clermontmetropole.eu/overnia/notice.php?q=id:71595" n="160v"/><cb n="a"/><lb/><lg n="26" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="151">
+<pb n="160v"/><cb n="a"/><lb/><lg n="26" rhyme="aabbcc" type="stanza" met="octosyllable"><l n="151">
 <w xml:id="SLeger_w_895" lemma="or2" pos="ADVgen" msd="" join="no" ana="#line_id£151 #linewd£1 #dipl£HOR #phon£ɔr #phon_map£ho.r #syllabified£/ɔ\r #wd_div£_ #textlineid£151 #lang£fro #syntag£Adv #syntag2£Adv #lemma£or2 #lemma_src£DMF #lemma_dmf£or2 #pos£ADVgen #pos_syn£ADVgen #morph£-- #phil_note£-- #ref£SLeger,_l._151 #prosody£1ox #metpos£01.- #soptem£08.- #line_met£08m--" met="01.-"><seg xml:id="SLeger_seg_3356" type="segment" ana="#plus£back,DORSAL,LABIAL,round,son,voice #minus£atr,cons,high,low,nas #matches£ɔOV #phoneme£ɔ #onc£N"><c>h</c><c>o</c></seg><seg xml:id="SLeger_seg_3357" type="segment" ana="#plus£cons,cont,CORONAL,son,voice #minus£lat,nas #matches£rRC #phoneme£r #onc£C"><c>r</c></seg></w>
 
 
