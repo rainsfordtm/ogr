@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_mark.dtd">
-<paula version="1.0">
-<header paula_id="tei.PrDieu_tei_pb"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb" xml:base="ogr040.PrDieu.tok.xml">
-<mark id="tei_pb_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_172')))"/><!-- tu autem be deu hoi mais finir nostra razos un pauc soi las que trop fo aut lo sos leven doi clerc que diien lo respos tu autem deus qui est paire glorios nos te preiam que t remembre de nos quant triaras los mals d antre los bos  -->
-</markList>
-</paula>

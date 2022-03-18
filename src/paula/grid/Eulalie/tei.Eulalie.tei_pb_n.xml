@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_feat.dtd">
-<paula version="1.0">
-<header paula_id="tei.Eulalie_tei_pb_n"/>
-<featList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_pb_n" xml:base="tei.Eulalie.tei_pb.xml">
-<feat xlink:href="#tei_pb_0" value="141v"/><!--    -->
-</featList>
-</paula>

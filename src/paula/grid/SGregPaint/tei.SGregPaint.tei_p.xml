@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE paula SYSTEM "paula_mark.dtd">
-<paula version="1.0">
-<header paula_id="tei.SGregPaint_tei_p"/>
-<markList xmlns:xlink="http://www.w3.org/1999/xlink" type="tei_p" xml:base="ogr040.SGregPaint.tok.xml">
-<mark id="tei_p_0" xlink:href="#xpointer(id('tok_0')/range-to(id('tok_77')))"/><!-- este vus le respuns saint gregorie a secundin le reclus cum il demandout raison de s paintures  -->
-<mark id="tei_p_1" xlink:href="#xpointer(id('tok_78')/range-to(id('tok_914')))"/><!-- altra cose est aurier la painture e altra cose est par le historie de la painture aprendre que la cose seit ad aurier kar ico que la scripture aprestet a s lisanz ico aprestet la painture a s ignoranz kar an icele veient les ignoranz quet il deivent sivre an icele lisent icels ki letres ne sevent ampur la quele cose maismement la peinture est pur leceun a s genz la quele cose tu qui habites entra les genz deuses antendra que tu n angendrasses scandale de crueles curages dementiers que tu esbraseras nient cuintement par dreit amvidie geres nient ne deut estra fruissiet ico que nient ne parmaint ad aurier an eglises mais ad anstruire sulement les penses de s nient savanz e ampur ico que l ancienetiet nient senz raisun cumandat les hystories estra depaint e s honurables lius de s sainz se tu feisses amvidie par discrecion senz dutance poeies salvablement purtenir les coses que tu attendeies e nient deperdra la cuileita folc mais maisment asemblier que le nient fraint num de pastur excellist e nient an i oust la culpa de l deperdethur  -->
-</markList>
-</paula>
