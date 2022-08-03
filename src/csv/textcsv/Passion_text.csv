@@ -300,7 +300,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 299,55,7,vols,vols,vOLS,v.o.l.s,v/O\LS,_,55,Vfin,Vfin,fro,vouloir,DMF,vouloir,VERcjg,VERcjg,indpst2,"Passion, l. 55",</q></l>,<lb/>
 300,56,1,non,non,nON,n.o.n,n/O\N,_,56,Neg,Neg$$,fro,ne,DMF,ne,ADVneg,ADVneg,,"Passion, l. 56",,<l n=&quot;56&quot;><q>
 301,56,2,t,t,t,t,t/\,+,56,Prn,Prn$$,fro,te,DMF,te,PRCper,PRCper,2smr,"Passion, l. 56",,
-302,56,3,o,o,o,o,/o\,_,56,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 56",,
+302,56,3,o,o,o,o,/o\,_,56,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 56",,
 303,56,4,per_met,permet,pErmeT,p.e.r.m.e.t,p/E\r.'m/e\T,_,56,Vfin,Vfin,fro,permettre,DMF,permettre,VERcjg,VERcjg,indpst3,"Passion, l. 56",,
 304,56,5,tos,tos,toS,t.o.s,t/o\S,_,56,Det,Det,fro,ton,DMF,ton,DETpos,DETpos,2pmr,"Passion, l. 56",,
 305,56,6,granz,granz,grANZ,g.r.a.n.z,gr/A\NZ,|,56,Adj,Adj,fro,grand,DMF,grand,ADJqua,ADJqua,pmr,"Passion, l. 56",,
@@ -575,7 +575,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 574,104,2,a,a,a,a,/a\,+,104,Pre,Pre,fro,à,DMF,à,PRE,PRE,,"Passion, l. 104",,
 575,104,3,ls,ls,LS,l.s,/\LS,_,104,Det,Det,fro,le,DMF,le,DETdef,DETdef,pmr,"Passion, l. 104",,
 576,104,4,iudeus,judeus,ʤydɛuS,j.u.d.e.u.s,ʤ/y\.'d/ɛ\uS,|,104,N,N,fro,Juif,DMF,Juif,NOMcom,NOMcom,pmr,"Passion, l. 104",,
-577,104,5,o,o,o,o,/o\,_,104,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 104",,<lb/>
+577,104,5,o,o,o,o,/o\,_,104,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 104",,<lb/>
 578,104,6,uai,vai,vAi,v.a.i,v/A\i,_,104,Vfin,Vfin,fro,aller,DMF,aller,VERcjg,VERcjg,indpst3,"Passion, l. 104",,
 579,104,7,nuncer,nuncer,nONÇEr,n.u.n.c.e.r,n/O\N.'Ç/E\r,.,104,Vinf,Vinf,fro,noncer,DMF,noncer,VERinf,VERinf,,"Passion, l. 104",</l></lg>,
 580,105,1,I[esu]s,jesus,ʤEzUS,j.e.s.u.s,ʤ/E\.'z/U\S,_,105,N,N,fro,Jésus,wikipedia.fr,,NOMpro,NOMpro,smn,"Passion, l. 105",,<lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;105&quot;>
@@ -765,7 +765,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 764,139,1,terce,terce,tErÇə,t.e.r.c.e,'t/E\r.Ç/(ə)\,_,139,Adj,Adj,fro,tierce,DMF,tierce,DETcar,DETcar,sfr,"Passion, l. 139",,<l n=&quot;139&quot;>
 765,139,2,uez,vez,veZ,v.e.z,v/e\Z,_,139,N,N,fro,fois,DMF,fois,NOMcom,NOMcom,sfr,"Passion, l. 139",,
 766,139,3,lor,lor,Lor,l.o.r,L/o\r,_,139,Prn,Prn$$,fro,leur,DMF,leur,PRCper,PRCper,6pmi,"Passion, l. 139",,
-767,139,4,o,o,o,o,/o\,+,139,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 139",,
+767,139,4,o,o,o,o,/o\,+,139,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 139",,
 768,139,5,de|manded,demanded,dEmaNdɛD,d.e.m.a.n.d.e.d,d/E\.m/a\N.'d/ɛ\D,_,139,Vfin,Vfin,fro,demander,DMF,demander,VERcjg,VERcjg,indpsp3,"Passion, l. 139",</l>,
 769,140,1,a,a,a,a,/a\,+,140,Pre,Pre,fro,à,DMF,à,PRE,PRE,,"Passion, l. 140",,<lb/><l n=&quot;140&quot;>
 770,140,2,totas,totas,totəS,t.o.t.a.s,'t/o\.t/ə\S,_,140,QIs,QIs,fro,tous,DMF,tous,DETind,DETind,pfr,"Passion, l. 140",,
@@ -1034,7 +1034,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1033,188,3,p[ro]phete,prophete,prOfɛtə,p.r.o.ph.e.t.e,pr/O\.'f/ɛ\.t/(ə)\,_,188,N,N,fro,prophète,DMF,prophète,NOMcom,NOMcom,smr,"Passion, l. 188",,<lb/>
 1034,188,4,chi,chi,ki,ch.i,k/i\,+,188,Qux,Qux,fro,qui,DMF,qui,PRNint,PRNint,snn,"Passion, l. 188",,
 1035,188,5,t,t,t,t,t/\,+,188,Prn,Prn$$,fro,te,DMF,te,PRCper,PRCper,2smr,"Passion, l. 188",,
-1036,188,6,o,o,o,o,/o\,_,188,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 188",,
+1036,188,6,o,o,o,o,/o\,_,188,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 188",,
 1037,188,7,fedre,fedre,feðrə,f.e.d.r.e,'f/e\.ðr/(ə)\,;|,188,Vfin,Vfin,fro,faire,DMF,faire,VERcjg,VERcjg,indpqp3,"Passion, l. 188",</q></l></lg>,
 1038,189,1,Fors,fors,fɔrS,f.o.r.s,f/ɔ\rS,_,189,PrA,PrA,fro,hors,DMF,hors,ADVgen,ADVgen,,"Passion, l. 189",,<lb/><lg n=&quot;48&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;189&quot;>
 1039,189,2,en,en,EN,e.n,/E\N,_,189,Pre,Pre,fro,en,DMF,en,PRE,PRE,,"Passion, l. 189",,
@@ -1563,7 +1563,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1562,284,1,il,il,il,i.l,/i\l,_,284,Prn,Prn,fro,il,DMF,il,PRNper,PRNper,6pmn,"Passion, l. 284",,<l n=&quot;284&quot;>
 1563,284,2,p[er],per,pEr,p.e.r,p/E\r,_,284,Pre,Pre,fro,par,DMF,par,PRE,PRE,,"Passion, l. 284",,
 1564,284,3,escarn,escarn,ESċarn,e.s.c.a.r.n,/E\S.'ċ/a\rn,_,284,N,N,fro,escharn,DMF,escharn,NOMcom,NOMcom,smr,"Passion, l. 284",,
-1565,284,4,o,o,o,o,/o\,_,284,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 284",,
+1565,284,4,o,o,o,o,/o\,_,284,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 284",,
 1566,284,5,fan,fan,fAn,f.a.n,f/A\n,|,284,Vfin,Vfin,fro,faire,DMF,faire,VERcjg,VERcjg,indpst6,"Passion, l. 284",,
 1567,284,6,tres_tot,trestot,trEStoZ,t.r.e.s.t.o.t,tr/E\S.'t/o\Z,;|,284,QIs,QIs,fro,trèstout,DMF,trèstout,PRNind,PRNind,snr,"Passion, l. 284",</l></lg>,<lb/>
 1568,285,1,Cu[m],cum,kOm,c.u.m,k/O\m,_,285,Sub,Sub,fro,comme,DMF,comme,CONsub,CONsub,,"Passion, l. 285",,<lb/><lg n=&quot;72&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;285&quot;>
@@ -1653,7 +1653,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 1652,298,7,pius,pius,piuS,p.i.u.s,p/i\uS,_,298,Adj,Adj,fro,piu,DMF,piu,ADJqua,ADJqua,smn,"Passion, l. 298",</l>,<lb/>
 1653,299,1,eu,eu,ɛu,e.u,/ɛ\u,+,299,Prn,Prn$,fro,je,DMF,je,PRNper,PRNper,1smn,"Passion, l. 299",,<l n=&quot;299&quot;><q>
 1654,299,2,t,t,t,t,t/\,+,299,Prn,Prn$$,fro,te,DMF,te,PRCper,PRCper,2smr,"Passion, l. 299",,
-1655,299,3,o,o,o,o,/o\,_,299,Prn,Prn$$,fro,o2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 299",,
+1655,299,3,o,o,o,o,/o\,_,299,Prn,Prn$$,fro,ó2,DOM,,PRNdem,PRNdem,snr,"Passion, l. 299",,
 1656,299,4,prom[et],promet,prOmeT,p.r.o.m.e.t,pr/O\.'m/e\T,_,299,Vfin,Vfin,fro,promettre,DMF,promettre,VERcjg,VERcjg,indpst1,"Passion, l. 299",,
 1657,299,5,oi,oi,Oi,o.i,/O\i,_,299,Adv,Adv,fro,hui,DMF,hui,ADVgen,ADVgen,,"Passion, l. 299",,
 1658,299,6,en,en,EN,e.n,/E\N,_,299,Pre,Pre,fro,en,DMF,en,PRE,PRE,,"Passion, l. 299",,

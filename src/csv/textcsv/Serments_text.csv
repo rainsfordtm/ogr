@@ -59,7 +59,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,para_id,sy
 58,8,2,saluar,salvar,SALvAr,s.a.l.v.a.r,S/A\L.'v/A\r,_,fro,2,Vinf,Vinf,sauver,DMF,sauver,VERinf,VERinf,,"Serments, 13r, col. b, l. 10",,
 59,8,3,dift,dift,deFT,d.i.f.t,d/e\FT,.,fro,2,Vfin,Vfin,devoir2,DMF,devoir2,VERcjg,VERcjg,indpst3,"Serments, 13r, col. b, l. 10",,
 60,8,4,In,in,EN,i.n,/E\N,+,fro,2,Pre,Pre,en,DMF,en,PRE,PRE,,"Serments, 13r, col. b, l. 10",,
-61,8,5,o,o,ɔ,o,/ɔ\,_,fro,2,Dem,Dem,o4,DMF,o4,PRNdem,PRNdem,snr,"Serments, 13r, col. b, l. 10",,
+61,8,5,o,o,ɔ,o,/ɔ\,_,fro,2,Dem,Dem,ó2,DOM,,PRNdem,PRNdem,snr,"Serments, 13r, col. b, l. 10",,
 62,8,6,quid,quid,kEð,qu.i.d,k/E\ð,_,fro,2,Sub,Sub,que,DMF,que,CONsub,CONsub,,"Serments, 13r, col. b, l. 10",,
 63,8,7,il,il,il,i.l,/i\l,_,fro,2,Prn,Prn,il,DMF,il,PRNper,PRNper,3smn,"Serments, 13r, col. b, l. 10",,
 64,8,8,mi,mi,me,m.i,m/e\,+,fro,2,Prn,Prn,moi,DMF,moi,PRNper,PRNper,1smr,"Serments, 13r, col. b, l. 10",,

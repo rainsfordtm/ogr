@@ -186,7 +186,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_sy
 185,40,6,dia,dia,–,diA,d.i.a,'d/i\./(A)\,pro,NOMcom,NOMcom,smr,dia,DOM,di,39,"PrVierge3, l. 39",,</l>,
 186,41,1,si,si,+,Si,s.i,S/i\,pro,ADVgen,ADVgen,---,si2,DOM,si4,40,"PrVierge3, l. 40",,,<l n=&quot;40&quot;>
 187,41,2,cum,cum,–,kOm,c.u.m,k/O\m,pro,CONsub,CONsub,---,cóm,DOM,comme,40,"PrVierge3, l. 40",,,
-188,41,3,o,o,+,O,o,/O\,pro,PRCdem,PRCdem,snr,o2,DOM,,40,"PrVierge3, l. 40",,,
+188,41,3,o,o,+,O,o,/O\,pro,PRCdem,PRCdem,snr,ó2,DOM,,40,"PrVierge3, l. 40",,,
 189,41,4,dii,dii,_,dii,d.i.i,d/i\i,pro,VERcjg,VERcjg,indpst3,dire,DOM,dire,40,"PrVierge3, l. 40",,,
 190,41,5,maria,maria,_,mAriA,m.a.r.i.a,m/A\.'r/i\./(A)\,pro,NOMpro,NOMpro,sfn,Marie,wikipedia.fr,,40,"PrVierge3, l. 40",,</l></lg>,
 191,42,1,A,a,+,A,a,/A\,pro,PRE,PRE,---,a2,DOM,à,41,"PrVierge3, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>

@@ -1933,7 +1933,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,pos_syn
 1932,249,1,si,+,si,Si,s.i,S/<i>\,pro,CONsub,CONsub,,CONJS,Sub,Sub,si,DOM,si3,"Boeci, l. 249",,<lb/><l n=&quot;249&quot;>
 1933,249,2,l,+,l,L,l,L/\,pro,DETdef,DETdef,smn,D,Det,Det,lo2,DOM,le,"Boeci, l. 249",,
 1934,249,3,om,_,om,Om,o.m,/O\m,pro,PRNind,PRNind,smn,NCS,Prn,Prn$,óme,DOM,on,"Boeci, l. 249",,
-1935,249,4,o,+,o,O,o,/O\,pro,PRCdem,PRCdem,snr,PRO,Prn,Prn$$,o2,DOM,,"Boeci, l. 249",,
+1935,249,4,o,+,o,O,o,/O\,pro,PRCdem,PRCdem,snr,PRO,Prn,Prn$$,ó2,DOM,,"Boeci, l. 249",,
 1936,249,5,forfái,_,forfai,fOrfAi,f.o.r.f.a.i,f/O\r.'f/A\i,pro,VERcjg,VERcjg,indpst3,VJ,Vfin,Vfin,forfaire,DOM,forfaire,"Boeci, l. 249",,
 1937,249,6,e,+,e,e,e,/e\,pro,CONcoo,CONcoo,,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 249",,
 1938,249,7,pois,_,pois,pɔiS,p.o.i.s,p/ɔ\iS,pro,ADVgen,ADVgen,,ADV,Adv,Adv,pòis,DOM,puis,"Boeci, l. 249",,
