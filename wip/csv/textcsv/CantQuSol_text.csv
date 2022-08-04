@@ -442,81 +442,81 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 441,71,5,71,"CantQuSol, l. 71",abinma|lec,abinmalec,_,fro,,NOMpro,smn,Abimelech,wikipedia.fr,,,</q></l>,
 442,72,1,72,"CantQuSol, l. 72",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;72&quot;><q>
 443,72,2,72,"CantQuSol, l. 72",samuel,samuel,;,fro,,NOMpro,smn,Samuel,wiktionary,,,</q></l></lg>,
-444,73,1,73,"CantQuSol, l. 73",De,de,+,fro,,,,,,,,,"<lg n=&quot;25&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;73&quot;>"
-445,73,2,73,"CantQuSol, l. 73",l,l,+,fro,,,,,,,,,
-446,73,3,73,"CantQuSol, l. 73",quart,quart,_,fro,,,,,,,,,
-447,73,4,73,"CantQuSol, l. 73",ede,ede,_,fro,,,,,,,,,
-448,73,5,73,"CantQuSol, l. 73",pois,pois,|,fro,,,,,,,,,
-449,73,6,73,"CantQuSol, l. 73",i,i,+,fro,,,,,,,,,
-450,73,7,73,"CantQuSol, l. 73",uint,vint,_,fro,,,,,,,,,
-451,73,8,73,"CantQuSol, l. 73",reiz,reiz,_,fro,,,,,,,,,
-452,73,9,73,"CantQuSol, l. 73",dauid,david,_,fro,,,,,,,,</l>,
-453,74,1,74,"CantQuSol, l. 74",[et],et,_,fro,,,,,,,,,<l n=&quot;74&quot;>
-454,74,2,74,"CantQuSol, l. 74",salamon,salamon,_,fro,,,,,,,,,
-455,74,3,74,"CantQuSol, l. 74",[et],et,_,fro,,,,,,,,,
-456,74,4,74,"CantQuSol, l. 74",roboam,roboam,|,fro,,,,,,,,,
-457,74,5,74,"CantQuSol, l. 74",ses,ses,_,fro,,,,,,,,,
-458,74,6,74,"CantQuSol, l. 74",fiz,fiz,_,fro,,,,,,,,</l>,
-459,75,1,75,"CantQuSol, l. 75",[et],et,_,fro,,,,,,,,,<l n=&quot;75&quot;>
-460,75,2,75,"CantQuSol, l. 75",abia,abia,;,fro,,,,,,,,</l></lg>,
-461,76,1,76,"CantQuSol, l. 76",[Et],et,_,fro,,,,,,,,,"<lg n=&quot;26&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;76&quot;>"
-462,76,2,76,"CantQuSol, l. 76",ab,ab,_,fro,,,,,,,,,
-463,76,3,76,"CantQuSol, l. 76",i,i,_,fro,,,,,,,,,
-464,76,4,76,"CantQuSol, l. 76",uint,vint,_,fro,,,,,,,,,
-465,76,5,76,"CantQuSol, l. 76",issias,issias,_,fro,,,,,,,,,
-466,76,6,76,"CantQuSol, l. 76",amos,amos,|,fro,,,,,,,,</l>,
-467,77,1,77,"CantQuSol, l. 77",ieu,jeu,+,fro,,,,,,,,,<l n=&quot;77&quot;>
-468,77,2,77,"CantQuSol, l. 77",ioel,joel,_,fro,,,,,,,,,
-469,77,3,77,"CantQuSol, l. 77",[et],et,_,fro,,,,,,,,,
-470,77,4,77,"CantQuSol, l. 77",dam,dam,_,fro,,,,,,,,,
-471,77,5,77,"CantQuSol, l. 77",azarias,azarias,_,fro,,,,,,,,</l>,
-472,78,1,78,"CantQuSol, l. 78",[et],et,_,fro,,,,,,,,,<l n=&quot;78&quot;>
-473,78,2,78,"CantQuSol, l. 78",io_atam,joatam,;|,fro,,,,,,,,</l></lg>,
-474,79,1,79,"CantQuSol, l. 79",Achaz,achaz,_,fro,,,,,,,,,"<lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;79&quot;>"
-475,79,2,79,"CantQuSol, l. 79",i,i,_,fro,,,,,,,,,
-476,79,3,79,"CantQuSol, l. 79",uint,vint,_,fro,,,,,,,,,
-477,79,4,79,"CantQuSol, l. 79",adunc,adunc,_,fro,,,,,,,,,
-478,79,5,79,"CantQuSol, l. 79",fud,fud,_,fro,,,,,,,,,
-479,79,6,79,"CantQuSol, l. 79",faitet,faitet,|,fro,,,,,,,,,
-480,79,7,79,"CantQuSol, l. 79",rome,rome,_,fro,,,,,,,,</l>,
-481,80,1,80,"CantQuSol, l. 80",quel,quel,_,fro,,,,,,,,,<l n=&quot;80&quot;>
-482,80,2,80,"CantQuSol, l. 80",part,part,_,fro,,,,,,,,,
-483,80,3,80,"CantQuSol, l. 80",q[ue],que,_,fro,,,,,,,,,
-484,80,4,80,"CantQuSol, l. 80",alget,alget,_,fro,,,,,,,,,
-485,80,5,80,"CantQuSol, l. 80",iluoc,iluoc,_,fro,,,,,,,,,
-486,80,6,80,"CantQuSol, l. 80",[est],est,|,fro,,,,,,,,,
-487,80,7,80,"CantQuSol, l. 80",ma,ma,+,fro,,,,,,,,,
-488,80,8,80,"CantQuSol, l. 80",coronet,coronet,_,fro,,,,,,,,</l>,
-489,81,1,81,"CantQuSol, l. 81",[et],et,_,fro,,,,,,,,,<l n=&quot;81&quot;>
-490,81,2,81,"CantQuSol, l. 81",mes,mes,_,fro,,,,,,,,,
-491,81,3,81,"CantQuSol, l. 81",tresors,tresors,;,fro,,,,,,,,</l></lg>,
-492,82,1,82,"CantQuSol, l. 82",Ezelcias,ezelcias,|,fro,,,,,,,,,"<lg n=&quot;28&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;82&quot;>"
-493,82,2,82,"CantQuSol, l. 82",manases,manases,_,fro,,,,,,,,,
-494,82,3,82,"CantQuSol, l. 82",iosias,josias,_,fro,,,,,,,,</l>,
-495,83,1,83,"CantQuSol, l. 83",[et],et,_,fro,,,,,,,,,<l n=&quot;83&quot;>
-496,83,2,83,"CantQuSol, l. 83",ioa_chim,joachim,_,fro,,,,,,,,,
-497,83,3,83,"CantQuSol, l. 83",[et],et,_,fro,,,,,,,,,
-498,83,4,83,"CantQuSol, l. 83",dam,dam,|,fro,,,,,,,,,
-499,83,5,83,"CantQuSol, l. 83",nazarias,nazarias,_,fro,,,,,,,,</l>,
-500,84,1,84,"CantQuSol, l. 84",de,de,+,fro,,,,,,,,,<l n=&quot;84&quot;>
-501,84,2,84,"CantQuSol, l. 84",l,l,+,fro,,,,,,,,,
-502,84,3,84,"CantQuSol, l. 84",quart,quart,_,fro,,,,,,,,,
-503,84,4,84,"CantQuSol, l. 84",ede,ede,;,fro,,,,,,,,</l></lg>,
-504,85,1,85,"CantQuSol, l. 85",De,de,+,fro,,,,,,,,,"<lg n=&quot;29&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;85&quot;>"
-505,85,2,85,"CantQuSol, l. 85",l,l,+,fro,,,,,,,,,
-506,85,3,85,"CantQuSol, l. 85",quint,quint,|,fro,,,,,,,,,
-507,85,4,85,"CantQuSol, l. 85",ede,ede,_,fro,,,,,,,,,
-508,85,5,85,"CantQuSol, l. 85",i,i,_,fro,,,,,,,,,
-509,85,6,85,"CantQuSol, l. 85",uint,vint,_,fro,,,,,,,,,
-510,85,7,85,"CantQuSol, l. 85",ananias,ananias,_,fro,,,,,,,,</l>,
-511,86,1,86,"CantQuSol, l. 86",ę,e,+,fro,,,,,,,,,<l n=&quot;86&quot;>
-512,86,2,86,"CantQuSol, l. 86",misael,misael,|,fro,,,,,,,,,
-513,86,3,86,"CantQuSol, l. 86",[et],et,_,fro,,,,,,,,,
-514,86,4,86,"CantQuSol, l. 86",dam,dam,_,fro,,,,,,,,,
-515,86,5,86,"CantQuSol, l. 86",zacharias,zacharias,_,fro,,,,,,,,</l>,
-516,87,1,87,"CantQuSol, l. 87",[et],et,_,fro,,,,,,,,,<l n=&quot;87&quot;>
-517,87,2,87,"CantQuSol, l. 87",pl[us]sors,plussors,_,fro,,,,,,,,,
-518,87,3,87,"CantQuSol, l. 87",altresz,altresz,;|,fro,,,,,,,,</l></lg>,
+444,73,1,73,"CantQuSol, l. 73",De,de,+,fro,,PRE,,de,,,,,"<lg n=&quot;25&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;73&quot;><q>"
+445,73,2,73,"CantQuSol, l. 73",l,l,+,fro,,DETdef,smr,le,,,,,
+446,73,3,73,"CantQuSol, l. 73",quart,quart,_,fro,,ADJord,smr,quart,,,,,
+447,73,4,73,"CantQuSol, l. 73",ede,ede,_,fro,,NOMcom,smr,aé,,,,,
+448,73,5,73,"CantQuSol, l. 73",pois,pois,|,fro,,ADVgen,,puis,,,,,
+449,73,6,73,"CantQuSol, l. 73",i,i,+,fro,,PRCadv,,y2,,,,,
+450,73,7,73,"CantQuSol, l. 73",uint,vint,_,fro,,VERcjg,indpsp3,venir,,,,,
+451,73,8,73,"CantQuSol, l. 73",reiz,reiz,_,fro,,NOMcom,smn,roi,,,,,
+452,73,9,73,"CantQuSol, l. 73",dauid,david,_,fro,,NOMpro,smn,David,wiktionary,,,</q></l>,
+453,74,1,74,"CantQuSol, l. 74",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;74&quot;><q>
+454,74,2,74,"CantQuSol, l. 74",salamon,salamon,_,fro,,NOMpro,smn,Salomon,wiktionary,,,,
+455,74,3,74,"CantQuSol, l. 74",[et],et,_,fro,,CONcoo,,et,,,,,
+456,74,4,74,"CantQuSol, l. 74",roboam,roboam,|,fro,,NOMpro,smn,Roboam,wikipedia.fr,,,,
+457,74,5,74,"CantQuSol, l. 74",ses,ses,_,fro,,DETpos,3smn,son4,,,,,
+458,74,6,74,"CantQuSol, l. 74",fiz,fiz,_,fro,,NOMcom,smn,fils,,,,</q></l>,
+459,75,1,75,"CantQuSol, l. 75",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;75&quot;><q>
+460,75,2,75,"CantQuSol, l. 75",abia,abia,;,fro,,NOMcom,smn,Abijam,wikipedia.fr,,,</q></l></lg>,
+461,76,1,76,"CantQuSol, l. 76",[Et],et,_,fro,,CONcoo,,et,,,,,"<lg n=&quot;26&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;76&quot;><q>"
+462,76,2,76,"CantQuSol, l. 76",ab,ab,_,fro,,ADVgen,,o,,,,,
+463,76,3,76,"CantQuSol, l. 76",i,i,_,fro,,PRCadv,,y2,,,,,
+464,76,4,76,"CantQuSol, l. 76",uint,vint,_,fro,,VERcjg,indpsp3,venir,,,,,
+465,76,5,76,"CantQuSol, l. 76",issias,issias,_,fro,,NOMpro,smn,Isaïe,wiktionary,,,,
+466,76,6,76,"CantQuSol, l. 76",amos,amos,|,fro,,NOMpro,smn,Amos,wiktionary,,,</q></l>,
+467,77,1,77,"CantQuSol, l. 77",ieu,jeu,+,fro,,NOMpro,smn,Jéhu,wikipedia.fr,,,,<l n=&quot;77&quot;><q>
+468,77,2,77,"CantQuSol, l. 77",ioel,joel,_,fro,,NOMpro,smn,Joël,wiktionary,,,,
+469,77,3,77,"CantQuSol, l. 77",[et],et,_,fro,,CONcoo,,et,,,,,
+470,77,4,77,"CantQuSol, l. 77",dam,dam,_,fro,,NOMcom,smr,dan,,,,,
+471,77,5,77,"CantQuSol, l. 77",azarias,azarias,_,fro,,NOMpro,smr,Azarias,wikipedia.fr,,,</q></l>,
+472,78,1,78,"CantQuSol, l. 78",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;78&quot;><q>
+473,78,2,78,"CantQuSol, l. 78",io_atam,joatam,;|,fro,,NOMpro,smr,Jotham,wikipedia.fr,,,</q></l></lg>,
+474,79,1,79,"CantQuSol, l. 79",Achaz,achaz,_,fro,,NOMpro,smn,Achaz,wikipedia.fr,,,,"<lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;79&quot;><q>"
+475,79,2,79,"CantQuSol, l. 79",i,i,_,fro,,PRCadv,,y2,,,,,
+476,79,3,79,"CantQuSol, l. 79",uint,vint,_,fro,,VERcjg,indpsp3,venir,,,,,
+477,79,4,79,"CantQuSol, l. 79",adunc,adunc,_,fro,,ADVgen,,adonc,,,,,
+478,79,5,79,"CantQuSol, l. 79",fud,fud,_,fro,,VERcjg,indpsp3,être,,,,,
+479,79,6,79,"CantQuSol, l. 79",faitet,faitet,|,fro,,VERppe,sfn,faire,,,,,
+480,79,7,79,"CantQuSol, l. 79",rome,rome,_,fro,,NOMpro,sfn,Rome,wiktionary,,,</q></l>,
+481,80,1,80,"CantQuSol, l. 80",quel,quel,_,fro,,DETind,sfr,quel,,,,,<l n=&quot;80&quot;><q>
+482,80,2,80,"CantQuSol, l. 80",part,part,_,fro,,NOMcom,sfr,part,,,,,
+483,80,3,80,"CantQuSol, l. 80",q[ue],que,_,fro,,PRNrel,---,que,,,,,
+484,80,4,80,"CantQuSol, l. 80",alget,alget,_,fro,,VERcjg,subpst3,aller,,,,,
+485,80,5,80,"CantQuSol, l. 80",iluoc,iluoc,_,fro,,ADVgen,,illuec,,,,,
+486,80,6,80,"CantQuSol, l. 80",[est],est,|,fro,,VERcjg,indpst3,être,,,,,
+487,80,7,80,"CantQuSol, l. 80",ma,ma,+,fro,,DETpos,1sfn,mon,,,,,
+488,80,8,80,"CantQuSol, l. 80",coronet,coronet,_,fro,,NOMcom,sfn,couronne,,,,</q></l>,
+489,81,1,81,"CantQuSol, l. 81",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;81&quot;><q>
+490,81,2,81,"CantQuSol, l. 81",mes,mes,_,fro,,DETpos,1smn,mon,,,,,
+491,81,3,81,"CantQuSol, l. 81",tresors,tresors,;,fro,,NOMcom,smn,trésor,,,,</q></l></lg>,
+492,82,1,82,"CantQuSol, l. 82",Ezelcias,ezelcias,|,fro,,NOMpro,smr,Ézéchias,wikipedia.fr,,,,"<lg n=&quot;28&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;82&quot;><q>"
+493,82,2,82,"CantQuSol, l. 82",manases,manases,_,fro,,NOMpro,smr,Manassé,wikipedia.fr,,,,
+494,82,3,82,"CantQuSol, l. 82",iosias,josias,_,fro,,NOMpro,smr,Josias,wikipedia.fr,,,</q></l>,
+495,83,1,83,"CantQuSol, l. 83",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;83&quot;><q>
+496,83,2,83,"CantQuSol, l. 83",ioa_chim,joachim,_,fro,,NOMpro,smr,Joiaqim,wikipedia.fr,,,,
+497,83,3,83,"CantQuSol, l. 83",[et],et,_,fro,,CONcoo,,et,,,,,
+498,83,4,83,"CantQuSol, l. 83",dam,dam,|,fro,,NOMcom,smr,dan,,,,,
+499,83,5,83,"CantQuSol, l. 83",nazarias,nazarias,_,fro,,NOMpro,smr,Azarias,wikipedia.fr,,,</q></l>,
+500,84,1,84,"CantQuSol, l. 84",de,de,+,fro,,PRE,,de,,,,,<l n=&quot;84&quot;><q>
+501,84,2,84,"CantQuSol, l. 84",l,l,+,fro,,DETdef,smr,le,,,,,
+502,84,3,84,"CantQuSol, l. 84",quart,quart,_,fro,,ADJord,smr,quart,,,,,
+503,84,4,84,"CantQuSol, l. 84",ede,ede,;,fro,,NOMcom,smr,aé,,,,</q></l></lg>,
+504,85,1,85,"CantQuSol, l. 85",De,de,+,fro,,PRE,,de,,,,,"<lg n=&quot;29&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;85&quot;><q>"
+505,85,2,85,"CantQuSol, l. 85",l,l,+,fro,,DETdef,smr,le,,,,,
+506,85,3,85,"CantQuSol, l. 85",quint,quint,|,fro,,ADJord,smr,quint,,,,,
+507,85,4,85,"CantQuSol, l. 85",ede,ede,_,fro,,NOMcom,smr,aé,,,,,
+508,85,5,85,"CantQuSol, l. 85",i,i,_,fro,,PRCadv,,y2,,,,,
+509,85,6,85,"CantQuSol, l. 85",uint,vint,_,fro,,VERcjg,indpsp3,venir,,,,,
+510,85,7,85,"CantQuSol, l. 85",ananias,ananias,_,fro,,NOMpro,smn,Ananias,wikipedia.fr,,,</q></l>,
+511,86,1,86,"CantQuSol, l. 86",ę,e,+,fro,,CONcoo,,et,,,,,<l n=&quot;86&quot;><q>
+512,86,2,86,"CantQuSol, l. 86",misael,misael,|,fro,,NOMpro,smn,Misaël,wikipedia.fr,,,,
+513,86,3,86,"CantQuSol, l. 86",[et],et,_,fro,,CONcoo,,et,,,,,
+514,86,4,86,"CantQuSol, l. 86",dam,dam,_,fro,,NOMcom,smr,dan,,,,,
+515,86,5,86,"CantQuSol, l. 86",zacharias,zacharias,_,fro,,NOMpro,smr,Zacharie,wikipedia.fr,,,</q></l>,
+516,87,1,87,"CantQuSol, l. 87",[et],et,_,fro,,CONcoo,,et,,,,,<l n=&quot;87&quot;><q>
+517,87,2,87,"CantQuSol, l. 87",pl[us]sors,plussors,_,fro,,DETind,pmr,plusieurs,,,,,
+518,87,3,87,"CantQuSol, l. 87",altresz,altresz,;|,fro,,PRNind,pmr,autre,,,,</q></l></lg>,
 519,88,1,88,"CantQuSol, l. 88",Enpres,enpres,_,fro,,,,,,,,,"<lg n=&quot;30&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;88&quot;>"
 520,88,2,88,"CantQuSol, l. 88",icelsz,icelsz,_,fro,,,,,,,,,
 521,88,3,88,"CantQuSol, l. 88",[et],et,_,fro,,,,,,,,,
