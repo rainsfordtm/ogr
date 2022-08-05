@@ -33,5 +33,42 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 ,,,,,oratiuns,oratiuns,.,fro,,,,oration,,,,,
 ,,,,,[et],et,_,lat,,,,et,wiktionary,,,,
 ,,,,,aqua,aqua,_,lat,,,,aqua,wiktionary,,,,
-,,,,,benedicta,benedicta,.,lat,,,,benedictus,wiktionary,,,</s>,
-,,,,,A[men],amen,.,fro,,,,amen,,,,</s>,<s xml:lang=&quot;fro&quot;>
+,,,,,benedicta,benedicta,.,lat,,,,benedictus,wiktionary,,,</s></p>,
+,,,,,A',a.,.,lat,,,,---,---,,introit/antiphon,</s>,<p><s xml:lang=&quot;lat&quot;>
+,,,,,N'os,nos,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,aute[m],autem,_,lat,,,,---,---,,,,
+,,,,,gloriam,gloriam,.,lat,,,,---,---,,,</s>,
+,,,,,p's,ps.,.,lat,,,,---,---,,psalm,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,d[eu]s,deus,_,lat,,,,---,---,,,,
+,,,,,misereat[ur],misereatur,.,lat,,,,---,---,,,</s>,
+,,,,,or',or.,.,lat,,,,---,---,,prayer,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,D[eu]s,deus,|,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,q[ui],qui,+,lat,,,,---,---,,,,
+,,,,,in,in,_,lat,,,,---,---,,,,
+,,,,,p[re]clara,preclara,.,lat,,,,---,---,,,</s>,
+,,,,,epl',epl.,.,lat,,,,---,---,,epistle to the Galatians,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Fr[atre]s,fratres,",",lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,Confido,confido,_,lat,,,,---,---,,,,
+,,,,,in,in,_,lat,,,,---,---,,,,
+,,,,,uob[is],vobis,.,lat,,,,---,---,,,</s>,
+,,,,,All,all.,.,lat,,,,---,---,,alleluia,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Nos,nos,+,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,aute[m],autem,.,lat,,,,---,---,,,</s>,
+,,,,,All,all.,.,lat,,,,---,---,,alleluia,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Dulce,dulce,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,lignum,lignum,.|,lat,,,,---,---,,,</s>,
+,,,,,Ev'g,evg.,.,lat,,,,---,---,,evangile,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Erat,erat,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,homo,homo,_,lat,,,,---,---,,,,
+,,,,,ex,ex,_,lat,,,,---,---,,,,
+,,,,,phariseis,phariseis,.,lat,,,,---,---,,,</s>,
+,,,,,of',of.,.,lat,,,,---,---,,offerenda,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Protege,protege,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,d[omi]ne,domine,.,lat,,,,---,---,,,</s>,
+,,,,,SECRETA,secreta,.,lat,,,,---,---,,secreta,</s>,<s xml:lang=&quot;lat&quot;>
+,,,,,Sacrifitiu[m],sacrifitium,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,d[omi]ne,domine,.|,lat,,,,---,---,,,</s>,
+,,,,,Agn[us],agnus,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,d[e]i,dei,.,lat,,,,---,---,,,</s>,
+,,,,,Agn[us],agnus,_,lat,,,,---,---,,,,<s xml:lang=&quot;lat&quot;>
+,,,,,d[e]i,dei,.,lat,,,,---,---,,,</s></p>,
