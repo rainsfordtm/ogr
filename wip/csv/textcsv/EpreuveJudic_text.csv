@@ -23,7 +23,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 22,,,,,orer,orer,.,fro,,,,orer,DMF,orer,,,
 23,,,,,e,e,+,fro,,,,et,DMF,et,,,
 24,,,,,ses,ses,_,fro,,,,son4,DMF,son4,,,
-25,,,,,VII,set,_,fro,,,,sept,DMF,sept,dipl_{te^s^ above line},,
+25,,,,,VIIte[m],septem,_,lat,,,,septem,wiktionary,sept,,,
 26,,,,,psalmes,psalmes,.,fro,,,,psaume,DMF,psaume,,,
 27,,,,,e,e,+,fro,,,,et,DMF,et,,,
 28,,,,,sa,sa,_,fro,,,,son4,DMF,son4,,,
@@ -34,35 +34,35 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 33,,,,,[et],et,_,lat,,,,et,wiktionary,et,,,
 34,,,,,aqua,aqua,_,lat,,,,aqua,wiktionary,eau,,,
 35,,,,,benedicta,benedicta,.,lat,,,,benedico,wiktionary,bénir,,</s></p>,
-36,,,,,A',antiphona,.,lat,,,,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
-37,,,,,N'os,nos,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
+36,,,,,A[ntiphona],antiphona,.,lat,,,,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+37,,,,,Nos,nos,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 38,,,,,aute[m],autem,_,lat,,,,---,---,---,,,
-39,,,,,gloriam,gloriam,.,lat,,,,---,---,---,,</s></item>,
-40,,,,,p's,psalmus,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+39,,,,,gloriari,gloriari,.,lat,,,,---,---,---,,</s></item>,
+40,,,,,ps[almus],psalmus,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 41,,,,,d[eu]s,deus,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 42,,,,,misereat[ur],misereatur,.,lat,,,,---,---,---,,</s></item>,
-43,,,,,or',oratio,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+43,,,,,or[atio],oratio,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 44,,,,,D[eu]s,deus,|,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 45,,,,,q[ui],qui,+,lat,,,,---,---,---,,,
 46,,,,,in,in,_,lat,,,,---,---,---,,,
-47,,,,,p[re]clara,preclara,.,lat,,,,---,---,---,,</s></item>,
-48,,,,,epl',epistula,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+47,,,,,p[rae]clara,praeclara,.,lat,,,,---,---,---,,</s></item>,
+48,,,,,ep[istola],epistola,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 49,,,,,Fr[atre]s,fratres,",",lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 50,,,,,Confido,confido,_,lat,,,,---,---,---,,,
 51,,,,,in,in,_,lat,,,,---,---,---,,,
 52,,,,,uob[is],vobis,.,lat,,,,---,---,---,,</s></item>,
-53,,,,,All,alleluia,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+53,,,,,All[eluia],alleluia,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 54,,,,,Nos,nos,+,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 55,,,,,aute[m],autem,.,lat,,,,---,---,---,,</s></item>,
-56,,,,,All,alleluia,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+56,,,,,All[eluia],alleluia,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 57,,,,,Dulce,dulce,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 58,,,,,lignum,lignum,.|,lat,,,,---,---,---,,</s></item>,
-59,,,,,Ev'g,evangelium,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+59,,,,,Ev[an]g[elium],evangelium,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 60,,,,,Erat,erat,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 61,,,,,homo,homo,_,lat,,,,---,---,---,,,
 62,,,,,ex,ex,_,lat,,,,---,---,---,,,
 63,,,,,phariseis,phariseis,.,lat,,,,---,---,---,,</s></item>,
-64,,,,,of',offerenda,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+64,,,,,of[fertorium],offertorium,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 65,,,,,Protege,protege,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 66,,,,,d[omi]ne,domine,.,lat,,,,---,---,---,,</s></item>,
 67,,,,,SECRETA,secreta,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
@@ -77,7 +77,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 76,,,,,deuine,devine,_,fro,,,,divin,DMF,divin,,,
 77,,,,,misericordie,misericordie,.,fro,,,,miséricorde,DMF,miséricorde,,</s>,
 78,,,,,o,o,_,fro,,,,ô,DMF,ô,,,<s xml:lang=&quot;fro&quot;>
-79,,,,,m'a,ma,+,fro,,,,mon,DMF,mon,,,
+79,,,,,ma,ma,+,fro,,,,mon,DMF,mon,,,
 80,,,,,da[m]ne,damne,_,fro,,,,dame,DMF,dame,,,
 81,,,,,s[an]c[t]a,sancta,_,lat,,,,sanctus,wiktionary,saint,,,
 82,,,,,maria,maria,.|,lat,,,,Maria,wiktionary,---,,,
@@ -147,7 +147,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 146,,,,,une,une,_,fro,,,,un,DMF,un,,,
 147,,,,,rotele,rotele,.|,fro,,,,rouelle,DMF,rouelle,,,
 148,,,,,[et],et,_,fro,,,,et,DMF,et,,,
-149,,,,,ensansunt,,_,,,,,,,,,,
+149,,,,,ensansunt,ensansunt,_,fro,,,,,,,,,
 150,,,,,en,en,_,fro,,,,en,DMF,en,,,
 151,,,,,un,un,_,fro,,,,un,DMF,un,,,
 152,,,,,fust,fust,.,fro,,,,fût,DMF,fût,,,
@@ -158,7 +158,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 157,,,,,ensz,ensz,_,fro,,,,ens,DMF,ens,,,
 158,,,,,e,e,+,fro,,,,en,DMF,en,,,
 159,,,,,l,l,+,fro,,,,le,DMF,le,,,
-160,,,,,liua,,_,,,,,,,,,,
+160,,,,,liua[=liure],livre,_,fro,,,,livre,DMF,livre,,,
 161,,,,,e,e,+,fro,,,,et,DMF,et,,,
 162,,,,,lier,lier,+,fro,,,,lier,DMF,lier,,,
 163,,,,,bien,bien,_,fro,,,,bien,DMF,bien,,,
@@ -172,9 +172,9 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 171,,,,,par,par,_,fro,,,,par,DMF,par,,,
 172,,,,,la,la,_,fro,,,,le,DMF,le,,,
 173,,,,,rotele,rotele,_,fro,,,,rouelle,DMF,rouelle,,,
-174,,,,,ad,,_,fro,,,,,,,,,
-175,,,,,uos,,_,,,,,,,,,,
-176,,,,,deenz,,.,,,,,,,,,,
+174,,,,,a,a,+,fro,,,,,,,,,
+175,,,,,d_uos,duos,_,fro,,,,,,,,,
+176,,,,,deenz,deenz,.,fro,,,,,,,,,
 177,,,,,[et],et,_,fro,,,,et,DMF,et,,,
 178,,,,,ius,jus,_,fro,,,,jus,DMF,jus,,,
 179,,,,,prendre,prendre,.,fro,,,,prendre,DMF,prendre,,</s></p>,
@@ -193,7 +193,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 192,,,,,cruce,cruce,.,lat,,,,---,---,---,,,
 193,,,,,[et],et,_,lat,,,,---,---,---,,,
 194,,,,,nos,nos,_,lat,,,,---,---,---,,,
-195,,,,,om[ine]s,omines,_,lat,,,,---,---,---,,,
+195,,,,,om[ne]s,omnes,_,lat,,,,---,---,---,,,
 196,,,,,tua,tua,_,lat,,,,---,---,---,,,
 197,,,,,p[re]tioso,pretioso,_,lat,,,,---,---,---,,,
 198,,,,,sanguine,sanguine,_,lat,,,,---,---,---,,,
@@ -226,9 +226,9 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 225,,,,,homo,homo,_,lat,,,,---,---,---,,,
 226,,,,,aliq[u]id,aliquid,_,lat,,,,---,---,---,,,
 227,,,,,qui,qui,|,lat,,,,---,---,---,,,
-228,,,,,t'e[=tenet],tenet,_,lat,,,,---,---,---,CHECK,,
-229,,,,,nom[en],nomen,.,lat,,,,---,---,---,CHECK,,
-230,,,,,ill,ill,.,lat,,,,---,---,---,,,
+228,,,,,te',te.,_,lat,,,,---,---,---,,,
+229,,,,,nom',nom.,.,lat,,,,---,---,---,,,
+230,,,,,ill',ill.,.,lat,,,,---,---,---,,,
 231,,,,,si,si,_,lat,,,,---,---,---,,,
 232,,,,,ille,ille,_,lat,,,,---,---,---,,,
 233,,,,,furtu[m],furtum,_,lat,,,,---,---,---,,,
@@ -331,26 +331,26 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 330,,,,,enq[u]irere,enquirere,_,fro,,,,inquirier,DMF,inquirier,,,
 331,,,,,Agn[us],agnus,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 332,,,,,d[e]i,dei,.,lat,,,,---,---,---,,</s></item>,
-333,,,,,co',,.|,lat,,,,---,---,---,collect? communion,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+333,,,,,co[mmunio],communio,.|,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 334,,,,,Rede[m]ptor,redemptor,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 335,,,,,mundi,mundi,.,lat,,,,---,---,---,,</s></item>,
-336,,,,,p'co',,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+336,,,,,p[ost]co[mmunio],postcommunio,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 337,,,,,Repleti,repleti,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
-338,,,,,alimonia,alimonia,.,lat,,,,---,---,---,,</s></item></list></p>,
-339,,,,,p',,_,lat,,,,---,---,---,,,<p><s xml:lang=&quot;lat&quot;>
-340,,,,,p[ro]fitiat,profitiat,.,lat,,,,---,---,---,,</s>,
-341,,,,,missa,missa,_,lat,,,,missa,wiktionary,messe,,,<s xml:lang=&quot;fro&quot;>
+338,,,,,alimonia,alimonia,.,lat,,,,---,---,---,,</s></item>,
+339,,,,,p[salmus],psalmus,_,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+340,,,,,p[ro]fitiat,profitiat,.,lat,,,,---,---,---,,</s></item></list></p>,<item><s xml:lang=&quot;lat&quot;>
+341,,,,,missa,missa,_,lat,,,,missa,wiktionary,messe,,,<p><s xml:lang=&quot;fro&quot;>
 342,,,,,de,de,_,fro,,,,de,DMF,de,,,
 343,,,,,nat[a]li,natali,_,lat,,,,natalis,wiktionary,noël,,,
 344,,,,,d[omi]ni,domini,_,lat,,,,dominus,wiktionary,dan,,,
 345,,,,,deit,deit,_,fro,,,,devoir2,DMF,devoir2,,,
 346,,,,,odir,odir,|,fro,,,,ouïr,DMF,ouïr,,,
 347,,,,,chi,chi,_,fro,,,,qui,DMF,qui,,,
-348,,,,,ca[m]pist,campist,.,fro,,,,champir,DMF,champir,,</s>,
-349,,,,,d[eus],deus,_,lat,,,,---,---,---,,,<s xml:lang=&quot;lat&quot;>
-350,,,,,lux,lux,_,lat,,,,---,---,---,,,
-351,,,,,fulgebit,fulgebit,.,lat,,,,---,---,---,,</s></p>,
-352,,,,,p[salmus],psalmus,.,lat,,,,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+348,,,,,ca[m]pist,campist,.,fro,,,,champir,DMF,champir,,</s></p>,
+349,,,,,a[ntiphona],antiphona,_,lat,,,,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+350,,,,,lux,lux,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
+351,,,,,fulgebit,fulgebit,.,lat,,,,---,---,---,,</s></item>,
+352,,,,,p[salmus],psalmus,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 353,,,,,d[omi]n[u]s,dominus,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 354,,,,,regnauit,regnavit,.,lat,,,,---,---,---,,</s></item>,
 355,,,,,or[atio],oratio,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
@@ -361,16 +361,16 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,lang,pos,pos_syn,morph,lem
 360,,,,,ut,ut,+,lat,,,,---,---,---,,,
 361,,,,,q[u]i,qui,_,lat,,,,---,---,---,,,
 362,,,,,noua,nova,.,lat,,,,---,---,---,,</s></item>,
-363,,,,,epla',,.|,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+363,,,,,ep[isto]la,epistola,.|,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 364,,,,,A_pparuit,apparuit,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 365,,,,,benignitas,benignitas,.,lat,,,,---,---,---,,</s></item>,
-366,,,,,R[esponsorium],responsorium,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+366,,,,,R[esponsum],responsum,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 367,,,,,Benedict[us],benedictus,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 368,,,,,q[u]i,qui,_,lat,,,,---,---,---,,,
 369,,,,,uenit,venit,.,lat,,,,---,---,---,,</s></item>,
-370,,,,,V',,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
-371,,,,,d,,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
-372,,,,,d[omi]no,,.,lat,,,,---,---,---,,</s></item>,
+370,,,,,V[ersus],versus,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
+371,,,,,A,a,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
+372,,,,,d[omi]no,domino,.,lat,,,,---,---,---,,</s></item>,
 373,,,,,All[eluia],alleluia,.,lat,,,,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 374,,,,,D[omi]n[u]s,dominus,_,lat,,,,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 375,,,,,regnauit,regnavit,.,lat,,,,---,---,---,,</s></item>,
