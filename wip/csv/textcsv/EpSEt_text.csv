@@ -1,28 +1,31 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+1,1,1,---,"EpSEt, heading I",leccio,leccio,---,---,_,lat,---,---,,---,---,---,,,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;208r&quot; facs=&quot;https://bvmm.irht.cnrs.fr/iiif/31976/canvas/canvas-2796038/view&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+2,1,2,---,"EpSEt, heading I",actuum,actuum,---,---,_,lat,---,---,,---,---,---,,,
+3,1,3,---,"EpSEt, heading I",apostoloru[m],apostolorum,---,---,¶,lat,---,---,,---,---,---,,</head>,
 4,2,1,1,"EpSEt, l. 1",por,por,por,p.o.r,_,fro,PRE,PRE,,pour,DMF,pour,,,<l n=&quot;1&quot;>
 5,2,2,1,"EpSEt, l. 1",amor,amor,Amor,a.m.o.r,_,fro,NOMcom,NOMcom,smr,amour,DMF,amour,,,
-6,2,3,1,"EpSEt, l. 1",de,de,dæ,d.e,_,fro,NOMpro,NOMpro,smr,de,DMF,de,,,
+6,2,3,1,"EpSEt, l. 1",de,de,dæ,d.e,_,fro,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,,,
 7,2,4,1,"EpSEt, l. 1",uos,vos,voS,v.o.s,_,fro,PRCper,PRCper,5pmr,vous,DMF,vous,,,
 8,2,5,1,"EpSEt, l. 1",pri,pri,pri,p.r.i,_,fro,VERcjg,VERcjg,indpst1,prier,DMF,prier,,,
 9,2,6,1,"EpSEt, l. 1",saignos,saignos,SÆɲoS,s.a.ign.o.s,_,fro,NOMcom,NOMcom,pmn,seigneur,DMF,seigneur,,,
 10,2,7,1,"EpSEt, l. 1",baru[n],barun,bArOn,b.a.r.u.n,.,fro,NOMcom,NOMcom,pmn,baron,DMF,baron,,</l>,
-11,3,1,2,"EpSEt, l. 2",Seet,seet,SEèT,s.e.e.t,_,fro,VERcjg,VERcjg,imp---5,seoir,DMF,seoir,,,<l n=&quot;2&quot;>
+11,3,1,2,"EpSEt, l. 2",Seet,seet,SEɛT,s.e.e.t,_,fro,VERcjg,VERcjg,imp---5,seoir,DMF,seoir,,,<l n=&quot;2&quot;>
 12,3,2,2,"EpSEt, l. 2",uos,vos,voS,v.o.s,_,fro,PRCper,PRCper,5pmr,vous,DMF,vous,,,
 13,3,3,2,"EpSEt, l. 2",tuít,tuit,tyiT,t.u.i.t,|,fro,PRNind,PRNind,pmn,tout,DMF,tout,,,
-14,3,4,2,"EpSEt, l. 2",escotet,escotet,ESkotæT,e.s.c.o.t.e.t,_,fro,VERcjg,VERcjg,imp---5,écouter,DMF,écouter,,,<lb/>
+14,3,4,2,"EpSEt, l. 2",escotet,escotet,ESkotɛT,e.s.c.o.t.e.t,_,fro,VERcjg,VERcjg,imp---5,écouter,DMF,écouter,,,<lb/>
 15,3,5,2,"EpSEt, l. 2",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
 16,3,6,2,"EpSEt, l. 2",lecu[n],lecun,LEʦOn,l.e.c.u.n,.,fro,NOMcom,NOMcom,sfr,leçon,DMF,leçon,,</l>,
 17,4,1,3,"EpSEt, l. 3",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,<l n=&quot;3&quot;>
 18,4,2,3,"EpSEt, l. 3",saint,saint,SÆiNT,s.a.i.n.t,_,fro,ADJqua,ADJqua,smr,saint,DMF,saint,,,
-19,4,3,3,"EpSEt, l. 3",esteure,estevre,EStèvrə,e.s.t.e.v.r.e,.,fro,NOMpro,NOMpro,smr,Étienne,DMF,Étienne,,,
+19,4,3,3,"EpSEt, l. 3",esteure,estevre,EStɛvrə,e.s.t.e.v.r.e,.,fro,NOMpro,NOMpro,smr,Étienne,DMF,Étienne,,,
 20,4,4,3,"EpSEt, l. 3",lo,lo,Lo,l.o,+,fro,DETdet,DETdet,smr,le,DMF,le,,,
 21,4,5,3,"EpSEt, l. 3",glorius,glorius,glorioS,g.l.o.r.i.u.s,_,fro,ADJqua,ADJqua,smr,glorieux,DMF,glorieux,,,
 22,4,6,3,"EpSEt, l. 3",baru[n],barun,bArOn,b.a.r.u.n,.,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,</l>,
-23,5,1,4,"EpSEt, l. 4",escotet,escotet,ESkotèT,e.s.c.o.t.e.t,_,fro,VERcjg,VERcjg,imp---5,écouter,DMF,écouter,,,<l n=&quot;4&quot;>
+23,5,1,4,"EpSEt, l. 4",escotet,escotet,ESkotɛT,e.s.c.o.t.e.t,_,fro,VERcjg,VERcjg,imp---5,écouter,DMF,écouter,,,<l n=&quot;4&quot;>
 24,5,2,4,"EpSEt, l. 4",la,la,LA,l.a,_,fro,PRCper,PRCper,3sfa,le,DMF,le,,,
 25,5,3,4,"EpSEt, l. 4",par,par,pAr,p.a.r,_,fro,PRE,PRE,,par,DMF,par,,,
-26,5,4,4,"EpSEt, l. 4",be[n]ne[n],bennen,bEnEn,b.e.nn.e.n,_,fro,ADJqua,ADJqua,sfr,bénin,DMF,bénin,,,
-27,5,5,4,"EpSEt, l. 4",ente[n]ciu[n],entenciun,ENtENʦiOn,e.n.t.e.n.c.i.u.n,;|,fro,NOMcom,NOMcom,sfr,entention,DMF,entention,,</l>,
+26,5,4,4,"EpSEt, l. 4",be[n]ne[n],bennen,bEnÆn,b.e.nn.e.n,_,fro,ADJqua,ADJqua,sfr,bénin,DMF,bénin,,,
+27,5,5,4,"EpSEt, l. 4",ente[n]ciu[n],entenciun,ÆNtÆNʦiOn,e.n.t.e.n.c.i.u.n,;|,fro,NOMcom,NOMcom,sfr,entention,DMF,entention,,</l>,
 28,6,1,5,"EpSEt, l. 5",q[u]i,qui,ki,qu.i,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<lb/><l n=&quot;5&quot;>
 29,6,2,5,"EpSEt, l. 5",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 30,6,3,5,"EpSEt, l. 5",ce,ce,ʦE,c.e,+,fro,DETdem,DETdem,smr,ce2,DMF,ce2,,,
@@ -30,74 +33,82 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 32,6,5,5,"EpSEt, l. 5",recut,recut,rEʦyð,r.e.c.u.t,_,fro,VERcjg,VERcjg,indpsp3,recevoir,DMF,recevoir,,,
 33,6,6,5,"EpSEt, l. 5",sa,sa,SA,s.a,+,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,
 34,6,7,5,"EpSEt, l. 5",pasiu[n],pasiun,pAsiOn,p.a.s.i.u.n,.,fro,NOMcom,NOMcom,sfr,passion,DMF,passion,,</l></lg>,
+35,7,1,---,"EpSEt, heading II",In,in,---,---,+,lat,---,---,,---,---,---,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+36,7,2,---,"EpSEt, heading II",diebus,diebus,---,---,_,lat,---,---,,---,---,---,,,
+37,7,3,---,"EpSEt, heading II",illis,illis,---,---,¶,lat,---,---,,---,---,---,,,
+38,7,4,---,"EpSEt, heading II",Stephan[us],stephanus,---,---,¶,lat,---,---,,---,---,---,,</head>,
 39,8,1,6,"EpSEt, l. 6",Seint,seint,SÆiNT,s.e.i.n.t,_,fro,ADJqua,ADJqua,smn,saint,DMF,saint,,,<l n=&quot;6&quot;>
-40,8,2,6,"EpSEt, l. 6",esteures,estevres,EStèvrəS,e.s.t.e.v.r.e.s,_,fro,NOMpro,NOMpro,smn,Étienne,DMF,Étienne,,,
+40,8,2,6,"EpSEt, l. 6",esteures,estevres,EStɛvrəS,e.s.t.e.v.r.e.s,_,fro,NOMpro,NOMpro,smn,Étienne,DMF,Étienne,,,
 41,8,3,6,"EpSEt, l. 6",fut,fut,fyð,f.u.t,_,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
 42,8,4,6,"EpSEt, l. 6",plaíns,plains,pLÆiNS,p.l.a.i.n.s,|,fro,ADJqua,ADJqua,smn,plein,DMF,plein,,,
 43,8,5,6,"EpSEt, l. 6",de,de,dE,d.e,_,fro,PRE,PRE,,de,DMF,de,,,<lb/>
-44,8,6,6,"EpSEt, l. 6",gra[n]t,grant,grANT,g.r.a.n.t,_,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,,
+44,8,6,6,"EpSEt, l. 6",gra[n]t,grant,grÆNT,g.r.a.n.t,_,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,,
 45,8,7,6,"EpSEt, l. 6",bo[n]te,bonte,bONtæ,b.o.n.t.e,.,fro,NOMcom,NOMcom,sfr,bonté,DMF,bonté,,</l>,
 46,9,1,7,"EpSEt, l. 7",e[n]ma[=ama],ama,Ama,a.m.a,_,fro,VERcjg,VERcjg,indpsp3,aimer,DMF,aimer,,,<l n=&quot;7&quot;>
 47,9,2,7,"EpSEt, l. 7",tot,tot,toT,t.o.t,_,fro,DETind,DETind,pmr,tout,DMF,tout,,,
 48,9,3,7,"EpSEt, l. 7",cels,cels,ʦeLS,c.e.l.s,_,fro,PRNdem,PRNdem,pmr,cil,DMF,cil,,,
 49,9,4,7,"EpSEt, l. 7",qui,qui,ki,qu.i,_,fro,PRNrel,PRNrel,pmn,qui,DMF,qui,,,
-50,9,5,7,"EpSEt, l. 7",creínent,creinent,krEinəNT,c.r.e.i.n.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,croire,DMF,croire,,,
-51,9,6,7,"EpSEt, l. 7",en,en,En,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
+50,9,5,7,"EpSEt, l. 7",creínent,creinent,krÆinəNT,c.r.e.i.n.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,croire,DMF,croire,,,
+51,9,6,7,"EpSEt, l. 7",en,en,Æn,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
 52,9,7,7,"EpSEt, l. 7",de,de,dæ,d.e,_,fro,NOMpro,NOMpro,smr,Dieu,DMF,Dieu,,</l>,
 53,10,1,8,"EpSEt, l. 8",feseit,feseit,fEzEiT,f.e.s.e.i.t,_,fro,VERcjg,VERcjg,indipf3,faire,DMF,faire,,,<l n=&quot;8&quot;>
 54,10,2,8,"EpSEt, l. 8",miracles,miracles,mirakLəS,m.i.r.a.c.l.e.s,_,fro,NOMcom,NOMcom,pmr,miracle,DMF,miracle,,,
-55,10,3,8,"EpSEt, l. 8",o,o,V,o,+,fro,PRE,PRE,,en,DMF,en,,,
+55,10,3,8,"EpSEt, l. 8",o,o,o,o,+,fro,PRE,PRE,,en,DMF,en,,,
 56,10,4,8,"EpSEt, l. 8",non,non,nOn,n.o.n,_,fro,NOMcom,NOMcom,smr,nom,DMF,nom,,,
 57,10,5,8,"EpSEt, l. 8",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
-58,10,6,8,"EpSEt, l. 8",de[m]mede,demmede,dEmEdæ,d.e.mm.e.d.e,.|,fro,NOMpro,NOMpro,smr,Damedieu,DMF,Damedieu,,</l>,
+58,10,6,8,"EpSEt, l. 8",de[m]mede,demmede,dÆmEdæ,d.e.mm.e.d.e,.|,fro,NOMpro,NOMpro,smr,Damedieu,DMF,Damedieu,,</l>,
 59,11,1,9,"EpSEt, l. 9",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,<lb/><l n=&quot;9&quot;>
 60,11,2,9,"EpSEt, l. 9",s,s,S,s,+,fro,DETdef,DETdef,pmr,le,DMF,le,,,
 61,11,3,9,"EpSEt, l. 9",cu[n]trat,cuntrat,kONtraT,c.u.n.t.r.a.t,_,fro,ADJqua,NOMcom,pmr,contrait,DMF,contrait,,,
-62,11,4,9,"EpSEt, l. 9",[et],et,E,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,
+62,11,4,9,"EpSEt, l. 9",[et],et,e,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,
 63,11,5,9,"EpSEt, l. 9",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 64,11,6,9,"EpSEt, l. 9",u[=s],s,S,s,+,fro,DETdef,DETdef,pmr,le,DMF,le,,,
-65,11,7,9,"EpSEt, l. 9",ces,ces,ʦèS,c.e.s,_,fro,ADJqua,NOMcom,pmr,cieu,DMF,cieu,,,
+65,11,7,9,"EpSEt, l. 9",ces,ces,ʦɛS,c.e.s,_,fro,ADJqua,NOMcom,pmr,cieu,DMF,cieu,,,
 66,11,8,9,"EpSEt, l. 9",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 67,11,9,9,"EpSEt, l. 9",tot,tot,toT,t.o.t,_,fro,PRNind,PRNind,pmr,tout,DMF,tout,,,
 68,11,10,9,"EpSEt, l. 9",dona,dona,dOna,d.o.n.a,_,fro,VERcjg,VERcjg,indpsp3,donner,DMF,donner,,,
-69,11,11,9,"EpSEt, l. 9",sa[n]te,sante,SANtæ,s.a.n.t.e,;,fro,NOMcom,NOMcom,sfr,santé,DMF,santé,,</l>,
+69,11,11,9,"EpSEt, l. 9",sa[n]te,sante,SÆNtæ,s.a.n.t.e,;,fro,NOMcom,NOMcom,sfr,santé,DMF,santé,,</l>,
 70,12,1,10,"EpSEt, l. 10",por,por,por,p.o.r,+,fro,PRE,PRE,,pour,DMF,pour,,,<l n=&quot;10&quot;>
 71,12,2,10,"EpSEt, l. 10",ce,ce,ʦE,c.e,_,fro,PRNdem,PRNdem,snr,ce,DMF,ce,,,
-72,12,3,10,"EpSEt, l. 10",haiere[n]t,haierent,hAièrəNT,h.a.i.e.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,haïr,DMF,haïr,,,
-73,12,4,10,"EpSEt, l. 10",aute[n]s,autens,AutENS,a.u.t.e.n.s,_,fro,ADVgen,ADVgen,,autant,DMF,autant,,,
+72,12,3,10,"EpSEt, l. 10",haiere[n]t,haierent,hAiærəNT,h.a.i.e.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,haïr,DMF,haïr,,,
+73,12,4,10,"EpSEt, l. 10",aute[n]s,autens,AutÆNS,a.u.t.e.n.s,_,fro,ADVgen,ADVgen,,autant,DMF,autant,,,
 74,12,5,10,"EpSEt, l. 10",li,li,Li,l.i,+,fro,DETdef,DETdef,pmn,le,DMF,le,,,
 75,12,6,10,"EpSEt, l. 10",íue,jue,ʤyæ,j.u.e,¶,fro,NOMcom,NOMcom,pmn,juif,DMF,juif,,</l></lg>,
-77,14,1,11,"EpSEt, l. 11",enco[n]tre,encontre,ENkONtrə,e.n.c.o.n.t.r.e,+,fro,PRE,PRE,,encontre,DMF,encontre,,,<lb/><l n=&quot;11&quot;>
+76,13,1,---,"EpSEt, heading III",Surreserunt,surreserunt,---,---,.|¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+77,14,1,11,"EpSEt, l. 11",enco[n]tre,encontre,ÆNkONtrə,e.n.c.o.n.t.r.e,+,fro,PRE,PRE,,encontre,DMF,encontre,,,<lb/><l n=&quot;11&quot;>
 78,14,2,11,"EpSEt, l. 11",luí,lui,Lyi,l.u.i,_,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,
 79,14,3,11,"EpSEt, l. 11",se,se,SE,s.e,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 80,14,4,11,"EpSEt, l. 11",s,s,S,s,_,fro,PRCper,PRCper,6pmr,se,DMF,se,,,
-81,14,5,11,"EpSEt, l. 11",drecerent,drecerent,drEʦèrəNT,d.r.e.c.e.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,dresser,DMF,dresser,,,
+81,14,5,11,"EpSEt, l. 11",drecerent,drecerent,drEʦærəNT,d.r.e.c.e.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,dresser,DMF,dresser,,,
 82,14,6,11,"EpSEt, l. 11",trestuít,trestuit,trEStyiT,t.r.e.s.t.u.i.t,.,fro,PRNind,PRNind,pmn,trèstout,DMF,trèstout,,</l>,
 83,15,1,12,"EpSEt, l. 12",distrent,distrent,diStrəNT,d.i.s.t.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,dire,DMF,dire,,,<l n=&quot;12&quot;>
-84,15,2,12,"EpSEt, l. 12",ense[m]ble,ensemble,ENSENbLə,e.n.s.e.m.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
-85,15,3,12,"EpSEt, l. 12",mau,mau,mAu,m.a.u,_,fro,ADVgen,ADVgen,,mal3,DMF,mal3,,,<q>
-86,15,4,12,"EpSEt, l. 12",ueis_mes,veismes,vEiSməS,v.e.i.s.m.e.s,_,fro,VERcjg,VERcjg,indpsp4,voir,DMF,voir,,,
-87,15,5,12,"EpSEt, l. 12",cetui,cetui,ʦEtyi,c.e.t.u.i,.|,fro,PRNdem,PRNdem,smr,cist,DMF,cist,,</q></l>,
+84,15,2,12,"EpSEt, l. 12",ense[m]ble,ensemble,ÆNSÆNbLə,e.n.s.e.m.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
+85,15,3,12,"EpSEt, l. 12",mau_ueis,mauveis,mAuvɛS,m.a.u.v.ei.s,_,fro,ADJqua,ADJqua,smn,mauvais,DMF,mauvais,,,<q>
+86,15,4,12,"EpSEt, l. 12",mes,mes,mes,m.e.s,_,fro,NOMcom,NOMcom,smn,mes,DMF,mes,,,
+87,15,6,12,"EpSEt, l. 12",cetui,cetui,ʦEtyi,c.e.t.u.i,.|,fro,PRNdem,PRNdem,smr,cist,DMF,cist,,</q></l>,
 88,16,1,13,"EpSEt, l. 13",il,il,il,i.l,+,fro,PRNimp,PRNimp,0smn,il,DMF,il,,,<lb/><l n=&quot;13&quot;><q>
 89,16,2,13,"EpSEt, l. 13",a,a,a,a,+,fro,VERcjg,VERcjg,indpst0,avoir,DMF,avoir,,,
 90,16,3,13,"EpSEt, l. 13",deable,deable,dEabLə,d.e.a.b.l.e,_,fro,NOMcom,NOMcom,smr,diable,DMF,diable,,,
 91,16,4,13,"EpSEt, l. 13",qui,qui,ki,qu.i,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
-92,16,5,13,"EpSEt, l. 13",parole,parole,pAròlə,p.a.r.o.l.e,_,fro,VERcjg,VERcjg,indpst3,parler,DMF,parler,,,
-93,16,6,13,"EpSEt, l. 13",en,en,En,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
+92,16,5,13,"EpSEt, l. 13",parole,parole,pArɔlə,p.a.r.o.l.e,_,fro,VERcjg,VERcjg,indpst3,parler,DMF,parler,,,
+93,16,6,13,"EpSEt, l. 13",en,en,Æn,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
 94,16,7,13,"EpSEt, l. 13",luí,lui,Lyi,l.u.i,.,fro,PRNper,PRNper,3smr,lui,DMF,lui,,</q></l>,
 95,17,1,14,"EpSEt, l. 14",iotu[n],jotun,ʤotOn,j.o.t.u.n,_,fro,VERcjg,VERcjg,indpst4,jouter,DMF,jouter,lemma_Foerster1879:14,,<l n=&quot;14&quot;><q>
-96,17,2,14,"EpSEt, l. 14",ense[m]ble,ensemble,ENSENbLə,e.n.s.e.m.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
+96,17,2,14,"EpSEt, l. 14",ense[m]ble,ensemble,ÆNSÆNbLə,e.n.s.e.m.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
 97,17,3,14,"EpSEt, l. 14",por,por,por,p.o.r,+,fro,PRE,PRE,,pour,DMF,pour,,,
 98,17,4,14,"EpSEt, l. 14",deputer,deputer,dEpytær,d.e.p.u.t.e.r,_,fro,VERinf,VERinf,,députer,DMF,députer,,,
-99,17,5,14,"EpSEt, l. 14",o,o,ò,o,+,fro,PRE,PRE,,o,DMF,o,,,
+99,17,5,14,"EpSEt, l. 14",o,o,ɔ,o,+,fro,PRE,PRE,,o,DMF,o,,,
 100,17,6,14,"EpSEt, l. 14",lue[=lui],lui,Lyi,l.u.i,;,fro,PRNper,PRNper,3smr,lui,DMF,lui,,</q></l>,
-101,18,1,15,"EpSEt, l. 15",[et],et,E,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;15&quot;><q>
+101,18,1,15,"EpSEt, l. 15",[et],et,e,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;15&quot;><q>
 102,18,2,15,"EpSEt, l. 15",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 103,18,3,15,"EpSEt, l. 15",ar_ru[n],arrun,ArrOn,a.r.r.u.n,_,fro,VERcjg,VERcjg,indfut4,avoir,DMF,avoir,,,
 104,18,4,15,"EpSEt, l. 15",l,l,L,l,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-105,18,5,15,"EpSEt, l. 15",escience,escience,EsiENʦə,e.sc.i.e.n.c.e,|,fro,NOMcom,NOMcom,sfr,escience,DMF,escience,,,
+105,18,5,15,"EpSEt, l. 15",escience,escience,EsiÆNʦə,e.sc.i.e.n.c.e,|,fro,NOMcom,NOMcom,sfr,escience,DMF,escience,,,
 106,18,6,15,"EpSEt, l. 15",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,<lb/>
 107,18,7,15,"EpSEt, l. 15",luí,lui,Lyi,l.u.i,¶,fro,PRNper,PRNper,3smr,lui,DMF,lui,,</q></l></lg>,
+108,19,1,---,"EpSEt, heading IV",et,et,---,---,_,lat,---,---,,---,---,---,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+109,19,2,---,"EpSEt, heading IV",no[n],non,---,---,_,lat,---,---,,---,---,---,,,
+110,19,3,---,"EpSEt, heading IV",poterant,poterant,---,---,¶,lat,---,---,,---,---,---,,</head>,
 111,20,1,16,"EpSEt, l. 16",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,<l n=&quot;16&quot;>
 112,20,2,16,"EpSEt, l. 16",u,u,u,u,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 113,20,3,16,"EpSEt, l. 16",deputer,deputer,dEpytær,d.e.p.u.t.e.r,_,fro,VERinf,NOMcom,smr,députer,DMF,députer,,,
@@ -105,25 +116,25 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 115,20,5,16,"EpSEt, l. 16",cil,cil,ʦil,c.i.l,_,fro,PRNdem,PRNdem,pmn,cil,DMF,cil,,,
 116,20,6,16,"EpSEt, l. 16",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 117,20,7,16,"EpSEt, l. 16",libie,libie,Libiə,l.i.b.i.e,.,fro,NOMpro,NOMpro,sfr,Libye,DMF,Libye,,</l>,
-118,21,1,17,"EpSEt, l. 17",e,e,E,e,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;17&quot;>
+118,21,1,17,"EpSEt, l. 17",e,e,e,e,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;17&quot;>
 119,21,2,17,"EpSEt, l. 17",cil,cil,ʦil,c.i.l,_,fro,PRNdem,PRNdem,pmn,cil,DMF,cil,,,
 120,21,3,17,"EpSEt, l. 17",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 121,21,4,17,"EpSEt, l. 17",sire,sire,Sirə,s.i.r.e,_,fro,NOMpro,NOMpro,sfr,Cyrène,DMF,Cyrène,,,
-122,21,5,17,"EpSEt, l. 17",e,e,E,e,+,fro,CONcoo,CONcoo,,et,DMF,et,,,
+122,21,5,17,"EpSEt, l. 17",e,e,e,e,+,fro,CONcoo,CONcoo,,et,DMF,et,,,
 123,21,6,17,"EpSEt, l. 17",cil,cil,ʦil,c.i.l,_,fro,PRNdem,PRNdem,pmn,cil,DMF,cil,,,
 124,21,7,17,"EpSEt, l. 17",d,d,d,d,+,fro,PRE,PRE,,de,DMF,de,,,
-125,21,8,17,"EpSEt, l. 17",alesa[n]dríé,alesandrie,AlEsANdriə,a.l.e.s.a.n.d.r.i.e,.|,fro,NOMpro,NOMpro,sfr,Alexandrie,DMF,Alexandrie,,</l>,
-126,22,1,18,"EpSEt, l. 18",[et],et,E,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;18&quot;>
+125,21,8,17,"EpSEt, l. 17",alesa[n]dríé,alesandrie,AlEsÆNdriə,a.l.e.s.a.n.d.r.i.e,.|,fro,NOMpro,NOMpro,sfr,Alexandrie,DMF,Alexandrie,,</l>,
+126,22,1,18,"EpSEt, l. 18",[et],et,e,et,_,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;18&quot;>
 127,22,2,18,"EpSEt, l. 18",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 128,22,3,18,"EpSEt, l. 18",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,la,DMF,la,,,
-129,22,4,18,"EpSEt, l. 18",terre,terre,tèrrə,t.e.r.r.e,_,fro,NOMcom,NOMcom,sfr,terre,DMF,terre,,,
+129,22,4,18,"EpSEt, l. 18",terre,terre,tɛrrə,t.e.r.r.e,_,fro,NOMcom,NOMcom,sfr,terre,DMF,terre,,,
 130,22,5,18,"EpSEt, l. 18",qu,qu,k,qu,+,fro,PRNrel,PRNrel,sfn,que,DMF,que,,,
-131,22,6,18,"EpSEt, l. 18",est,est,èST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-132,22,7,18,"EpSEt, l. 18",e[n]me,enme,Enmè,e.n.m.e,_,fro,PRE,PRE,,enmi,DMF,enmi,,,
+131,22,6,18,"EpSEt, l. 18",est,est,ɛST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
+132,22,7,18,"EpSEt, l. 18",e[n]me,enme,Ænmɛ,e.n.m.e,_,fro,PRE,PRE,,enmi,DMF,enmi,,,
 133,22,8,18,"EpSEt, l. 18",celicie,celicie,ʦEliʦiə,c.e.l.i.c.i.e,.,fro,NOMpro,NOMpro,sfr,Cilicie,DMF,Cilicie,,</l>,
 134,23,1,19,"EpSEt, l. 19",tuít,tuit,tyiT,t.u.i.t,_,fro,DETind,DETind,pmn,tout,DMF,tout,,,<l n=&quot;19&quot;>
 135,23,2,19,"EpSEt, l. 19",li,li,Li,l.i,_,fro,DETdef,DETdef,pmn,le,DMF,le,,,
-136,23,3,19,"EpSEt, l. 19",íuef,juef,ʤyèf,j.u.e.f,_,fro,NOMcom,NOMcom,pmn,juif,DMF,juif,,,
+136,23,3,19,"EpSEt, l. 19",íuef,juef,ʤyæf,j.u.e.f,_,fro,NOMcom,NOMcom,pmn,juif,DMF,juif,,,
 137,23,4,19,"EpSEt, l. 19",li,li,Li,l.i,+,fro,DETdef,DETdef,pmn,le,DMF,le,,,
 138,23,5,19,"EpSEt, l. 19",plus,plus,pLyS,p.l.u.s,_,fro,ADVgen,ADVgen,,plus,DMF,plus,,,
 139,23,6,19,"EpSEt, l. 19",sauė,save,Savə,s.a.v.e,_,fro,ADJqua,ADJqua,pmn,sage,DMF,sage,,,
@@ -138,7 +149,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 148,24,7,20,"EpSEt, l. 20",toldrunt,toldrunt,toLdrONT,t.o.l.d.r.u.n.t,_,fro,VERcjg,VERcjg,indfut6,tolir,DMF,tolir,,,
 149,24,8,20,"EpSEt, l. 20",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
 150,24,9,20,"EpSEt, l. 20",uie,vie,viə,v.i.e,¶,fro,NOMcom,NOMcom,sfr,vie,DMF,vie,,</l></lg>,
-152,26,1,21,"EpSEt, l. 21",Mes,mes,mèS,m.e.s,_,fro,CONcoo,CONcoo,,mais,DMF,mais,,,<l n=&quot;21&quot;>
+151,25,1,---,"EpSEt, heading V",audientes,audientes,---,---,¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+152,26,1,21,"EpSEt, l. 21",Mes,mes,mɛS,m.e.s,_,fro,CONcoo,CONcoo,,mais,DMF,mais,,,<l n=&quot;21&quot;>
 153,26,2,21,"EpSEt, l. 21",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 154,26,3,21,"EpSEt, l. 21",u,u,u,u,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 155,26,4,21,"EpSEt, l. 21",baru[n],barun,bArOn,b.a.r.u.n,_,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,,
@@ -147,130 +159,138 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 158,26,7,21,"EpSEt, l. 21",[con]_trester,contrester,kONtrEStær,c.o.n.t.r.e.s.t.e.r,.,fro,VERinf,VERinf,,contrester,DMF,contrester,,</l>,
 159,27,1,22,"EpSEt, l. 22",ne,ne,nE,n.e,+,fro,CONcoo,CONcoo,,ne2,DMF,ne2,,,<l n=&quot;22&quot;>
 160,27,2,22,"EpSEt, l. 22",d,d,d,d,+,fro,PRE,PRE,,de,DMF,de,,,
-161,27,3,22,"EpSEt, l. 22",ecie[n]cie,eciencie,EsiENʦjə,e.c.i.e.n.c.i.e,|,fro,NOMcom,NOMcom,sfr,science,DMF,science,,,
+161,27,3,22,"EpSEt, l. 22",ecie[n]cie,eciencie,EsiÆNʦə,e.c.i.e.n.ci.e,|,fro,NOMcom,NOMcom,sfr,science,DMF,science,,,
 162,27,4,22,"EpSEt, l. 22",ne,ne,nE,n.e,_,fro,CONcoo,CONcoo,,ne2,DMF,ne2,,,<lb/>
 163,27,5,22,"EpSEt, l. 22",de,de,dE,d.e,_,fro,PRE,PRE,,de,DMF,de,,,
 164,27,6,22,"EpSEt, l. 22",clergíl,clergil,kLErʤil,c.l.e.r.g.i.l,_,fro,ADJqua,ADJqua,smr,clergil,TL,---,,,
-165,27,7,22,"EpSEt, l. 22",mester,mester,mEStèr,m.e.s.t.e.r,.,fro,NOMcom,NOMcom,smr,métier,DMF,métier,,</l>,
+165,27,7,22,"EpSEt, l. 22",mester,mester,mEStær,m.e.s.t.e.r,.,fro,NOMcom,NOMcom,smr,métier,DMF,métier,,</l>,
 166,28,1,23,"EpSEt, l. 23",il,il,il,i.l,_,fro,PRNper,PRNper,3smn,il,DMF,il,,,<l n=&quot;23&quot;>
 167,28,2,23,"EpSEt, l. 23",fut,fut,fyð,f.u.t,_,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
 168,28,3,23,"EpSEt, l. 23",bons,bons,bONS,b.o.n.s,_,fro,ADJqua,ADJqua,smn,bon,DMF,bon,,,
-169,28,4,23,"EpSEt, l. 23",clers,clers,klèrS,c.l.e.r.s,_,fro,NOMcom,NOMcom,smn,clerc,DMF,clerc,,,
+169,28,4,23,"EpSEt, l. 23",clers,clers,kLɛrS,c.l.e.r.s,_,fro,NOMcom,NOMcom,smn,clerc,DMF,clerc,,,
 170,28,5,23,"EpSEt, l. 23",bie[n],bien,biEn,b.i.e.n,_,fro,ADVgen,ADVgen,,bien,DMF,bien,,,
 171,28,6,23,"EpSEt, l. 23",se,se,SE,s.e,+,fro,PRCper,PRCper,3smr,se,DMF,se,,,
-172,28,7,23,"EpSEt, l. 23",sot,sot,SòT,s.o.t,_,fro,VERcjg,VERcjg,indpsp3,savoir,DMF,savoir,,,
-173,28,8,23,"EpSEt, l. 23",deraisner,deraisner,dErÆiSnèr,d.e.r.a.i.s.n.e.r,.,fro,VERinf,VERinf,,déraisner,DMF,déraisner,,</l>,
+172,28,7,23,"EpSEt, l. 23",sot,sot,SɔT,s.o.t,_,fro,VERcjg,VERcjg,indpsp3,savoir,DMF,savoir,,,
+173,28,8,23,"EpSEt, l. 23",deraisner,deraisner,dErÆiSnær,d.e.r.a.i.s.n.e.r,.,fro,VERinf,VERinf,,déraisner,DMF,déraisner,,</l>,
 174,29,1,24,"EpSEt, l. 24",vn_ques,unques,ONkəS,u.n.qu.e.s,_,fro,ADVgen,ADVgen,,onques,DMF,onques,,,<l n=&quot;24&quot;>
-175,29,2,24,"EpSEt, l. 24",uers,vers,vèrS,v.e.r.s,_,fro,PRE,PRE,,vers3,DMF,vers3,,,
+175,29,2,24,"EpSEt, l. 24",uers,vers,vɛrS,v.e.r.s,_,fro,PRE,PRE,,vers3,DMF,vers3,,,
 176,29,3,24,"EpSEt, l. 24",luí,lui,Lyi,l.u.i,|,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,
 177,29,4,24,"EpSEt, l. 24",ne,ne,nE,n.e,+,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
 178,29,5,24,"EpSEt, l. 24",porent,porent,porəNT,p.o.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp3,pouvoir,DMF,pouvoir,,,
-179,29,6,24,"EpSEt, l. 24",mot,mot,mòT,m.o.t,_,fro,NOMcom,NOMcom,smr,mot,DMF,mot,,,
-180,29,7,24,"EpSEt, l. 24",soner,soner,SOnær,s.o.n.e.r,;,fro,VERinf,VERinf,,sonner,DMF,sonner,,</l>,
-181,30,1,25,"EpSEt, l. 25",entreos,entreos,ENtruES,e.n.t.r.e.o.s,_,fro,ADVgen,ADVgen,,entruès,DMF,entruès,,,<l n=&quot;25&quot;>
-182,30,2,25,"EpSEt, l. 25",porpe[n]sent,porpensent,porpENSəNT,p.o.r.p.e.n.s.e.n.t,_,fro,VERcjg,VERcjg,indpst6,pourpenser,DMF,pourpenser,,,
-183,30,3,25,"EpSEt, l. 25",[con],con,kON,c.o.n,_,fro,CONsub,CONsub,,comme,DMF,comme,,,
+179,29,6,24,"EpSEt, l. 24",mot,mot,mɔT,m.o.t,_,fro,NOMcom,NOMcom,smr,mot,DMF,mot,,,
+180,29,7,24,"EpSEt, l. 24",soner,soner,Sonær,s.o.n.e.r,;,fro,VERinf,VERinf,,sonner,DMF,sonner,,</l>,
+181,30,1,25,"EpSEt, l. 25",entreos,entreos,ÆNtruES,e.n.t.r.e.o.s,_,fro,ADVgen,ADVgen,,entruès,DMF,entruès,,,<l n=&quot;25&quot;>
+182,30,2,25,"EpSEt, l. 25",porpe[n]sent,porpensent,porpÆNSəNT,p.o.r.p.e.n.s.e.n.t,_,fro,VERcjg,VERcjg,indpst6,pourpenser,DMF,pourpenser,,,
+183,30,3,25,"EpSEt, l. 25",[con],con,kOn,c.o.n,_,fro,CONsub,CONsub,,comme,DMF,comme,,,
 184,30,4,25,"EpSEt, l. 25",le,le,LE,l.e,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
 185,30,5,25,"EpSEt, l. 25",porru[n]t,porrunt,porrONT,p.o.r.r.u.n.t,_,fro,VERcjg,VERcjg,indfut6,pouvoir,DMF,pouvoir,,,
-186,30,6,25,"EpSEt, l. 25",danner,danner,dAnær,d.a.nn.e.r,¶,fro,VERinf,VERinf,,damner,DMF,damner,,</l></lg>,
+186,30,6,25,"EpSEt, l. 25",danner,danner,dÆnær,d.a.nn.e.r,¶,fro,VERinf,VERinf,,damner,DMF,damner,,</l></lg>,
+187,31,1,---,"EpSEt, heading VI",co[m][=cum],cum,---,---,_,lat,---,---,,---,---,---,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+188,31,2,---,"EpSEt, heading VI",a[utem],autem,---,---,_,lat,---,---,,---,---,---,,,
+189,31,3,---,"EpSEt, heading VI",e[ss]et,esset,---,---,|¶,lat,---,---,,---,---,---,,</head>,
 190,32,1,26,"EpSEt, l. 26",M[u]lt,mult,moLT,m.u.l.t,_,fro,ADVgen,ADVgen,,moult,DMF,moult,,,<lb/><l n=&quot;26&quot;>
 191,32,2,26,"EpSEt, l. 26",s[un]t,sunt,SONT,s.u.n.t,_,fro,VERcjg,VERcjg,indpst6,être,DMF,être,,,
 192,32,3,26,"EpSEt, l. 26",ire,ire,iræ,i.r.e,_,fro,ADJqua,ADJqua,pmn,iré,DMF,iré,,,
 193,32,4,26,"EpSEt, l. 26",li,li,Li,l.i,+,fro,DETdef,DETdef,pmn,le,DMF,le,,,
-194,32,5,26,"EpSEt, l. 26",íue,jue,ʤyè,j.u.e,_,fro,NOMcom,NOMcom,pmn,juif,DMF,juif,,,
+194,32,5,26,"EpSEt, l. 26",íue,jue,ʤyæ,j.u.e,_,fro,NOMcom,NOMcom,pmn,juif,DMF,juif,,,
 195,32,6,26,"EpSEt, l. 26",li,li,Li,l.i,_,fro,DETdef,DETdef,pmn,le,DMF,le,,,
 196,32,7,26,"EpSEt, l. 26",felu[n],felun,fElOn,f.e.l.u.n,_,fro,ADJqua,NOMcom,pmn,félon,DMF,félon,,</l>,
 197,33,1,27,"EpSEt, l. 27",croisent,croisent,kroizəNT,c.r.o.i.s.e.n.t,_,fro,VERcjg,VERcjg,indpst6,creuser,DMF,creuser,,,<l n=&quot;27&quot;>
 198,33,2,27,"EpSEt, l. 27",les,les,LES,l.e.s,+,fro,DETdef,DETdef,pfr,le,DMF,le,,,
-199,33,3,27,"EpSEt, l. 27",dent,dent,dENT,d.e.n.t,_,fro,NOMcom,NOMcom,pfr,dent,DMF,dent,,,
-200,33,4,27,"EpSEt, l. 27",e[n][con]tre,encontre,ENkONtrə,e.n.c.o.n.t.r.e,_,fro,PRE,PRE,,encontre,DMF,encontre,,,
+199,33,3,27,"EpSEt, l. 27",dent,dent,dÆNT,d.e.n.t,_,fro,NOMcom,NOMcom,pfr,dent,DMF,dent,,,
+200,33,4,27,"EpSEt, l. 27",e[n][con]tre,encontre,ÆNkONtrə,e.n.c.o.n.t.r.e,_,fro,PRE,PRE,,encontre,DMF,encontre,,,
 201,33,5,27,"EpSEt, l. 27",lo,lo,Lo,l.o,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 202,33,6,27,"EpSEt, l. 27",baru[n],barun,bArOn,b.a.r.u.n,.,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,</l>,
-203,34,1,28,"EpSEt, l. 28",[con],con,kON,c.o.n,+,fro,CONsub,CONsub,,comme,DMF,comme,,,<l n=&quot;28&quot;>
-204,34,2,28,"EpSEt, l. 28",fait,fait,fAiT,f.a.i.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
+203,34,1,28,"EpSEt, l. 28",[con],con,kOn,c.o.n,+,fro,CONsub,CONsub,,comme,DMF,comme,,,<l n=&quot;28&quot;>
+204,34,2,28,"EpSEt, l. 28",fait,fait,fɛT,f.ai.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
 205,34,3,28,"EpSEt, l. 28",li,li,Li,l.i,_,fro,DETdef,DETdef,smn,le,DMF,le,,,
-206,34,4,28,"EpSEt, l. 28",chi_ens,chiens,kiENS,ch.i.e.n.s,_,fro,NOMcom,NOMcom,smn,chien,DMF,chien,,,
-207,34,5,28,"EpSEt, l. 28",e[n][con]treo,encontreo,ENkONtrə,e.n.c.o.n.t.r.eo,|,fro,PRE,PRE,,encontre,DMF,encontre,,,
+206,34,4,28,"EpSEt, l. 28",chi_ens,chiens,ʧiENS,ch.i.e.n.s,_,fro,NOMcom,NOMcom,smn,chien,DMF,chien,,,
+207,34,5,28,"EpSEt, l. 28",e[n][con]treo,encontreo,ÆNkONtrə,e.n.c.o.n.t.r.eo,|,fro,PRE,PRE,,encontre,DMF,encontre,,,
 208,34,6,28,"EpSEt, l. 28",lo,lo,Lo,l.o,+,fro,DETdef,DETdef,smr,le,DMF,le,,,<lb/>
-209,34,7,28,"EpSEt, l. 28",laru[n],larun,lArOn,l.a.r.u.n,.,fro,NOMcom,NOMcom,smr,larron,DMF,larron,,</l>,
+209,34,7,28,"EpSEt, l. 28",laru[n],larun,LArOn,l.a.r.u.n,.,fro,NOMcom,NOMcom,smr,larron,DMF,larron,,</l>,
 210,35,1,29,"EpSEt, l. 29",M[u]lt,mult,moLT,m.u.l.t,_,fro,ADVgen,ADVgen,,moult,DMF,moult,,,<l n=&quot;29&quot;>
-211,35,2,29,"EpSEt, l. 29",uo_le[n]_tiers,volentiers,vOlENtiErS,v.o.l.e.n.t.i.e.r.s,_,fro,ADVgen,ADVgen,,volentiers,DMF,volentiers,,,
+211,35,2,29,"EpSEt, l. 29",uo_le[n]_tiers,volentiers,volÆNtiErS,v.o.l.e.n.t.i.e.r.s,_,fro,ADVgen,ADVgen,,volentiers,DMF,volentiers,,,
 212,35,3,29,"EpSEt, l. 29",da[n]nasse[n]t,dannassent,dAnasəNT,d.a.nn.a.ss.e.n.t,_,fro,VERcjg,VERcjg,subipf6,damner,DMF,damner,,,
 213,35,4,29,"EpSEt, l. 29",le,le,LE,l.e,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 214,35,5,29,"EpSEt, l. 29",baru[n],barun,bArOn,b.a.r.u.n,;,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,</l>,
 215,36,1,30,"EpSEt, l. 30",se,se,SE,s.e,_,fro,CONsub,CONsub,,se2,DMF,se2,,,<l n=&quot;30&quot;>
 216,36,2,30,"EpSEt, l. 30",il,il,il,i.l,+,fro,PRNper,PRNper,6pmn,il,DMF,il,,,
-217,36,3,30,"EpSEt, l. 30",en,en,EN,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
+217,36,3,30,"EpSEt, l. 30",en,en,Æn,e.n,+,fro,PRE,PRE,,en,DMF,en,,,
 218,36,4,30,"EpSEt, l. 30",luj,lui,Lyi,l.u.i,_,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,
 219,36,5,30,"EpSEt, l. 30",tro_uassent,trovassent,trovasəNT,t.r.o.v.a.ss.e.n.t,_,fro,VERcjg,VERcjg,subipf6,trouver,DMF,trouver,,,
 220,36,6,30,"EpSEt, l. 30",l,l,L,l,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
 221,36,7,30,"EpSEt, l. 30",achisu[n],achisun,AkizOn,a.ch.i.s.u.n,.¶|,fro,NOMcom,NOMcom,sfr,ochaison,DMF,ochaison,,</l></lg>,
+222,37,1,---,"EpSEt, heading VII",ecce,ecce,---,---,_,lat,---,---,,---,---,---,,,<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+223,37,2,---,"EpSEt, heading VII",uídeo,video,---,---,¶,lat,---,---,,---,---,---,,</head>,
 224,38,1,31,"EpSEt, l. 31",Vnq[ue]s,unques,ONkəS,u.n.qu.e.s,_,fro,ADVgen,ADVgen,,onques,DMF,onques,,,<l n=&quot;31&quot;>
 225,38,2,31,"EpSEt, l. 31",p[er],per,pEr,p.e.r,_,fro,PRE,PRE,,par,DMF,par,,,
-226,38,3,31,"EpSEt, l. 31",els,els,èLS,e.l.s,_,fro,PRNper,PRNper,6pmr,eux,DMF,eux,,,
+226,38,3,31,"EpSEt, l. 31",els,els,ɛLS,e.l.s,_,fro,PRNper,PRNper,6pmr,eux,DMF,eux,,,
 227,38,4,31,"EpSEt, l. 31",ne,ne,nE,n.e,+,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
 228,38,5,31,"EpSEt, l. 31",se,se,SE,s.e,+,fro,PRCper,PRCper,3smr,se,DMF,se,,,
-229,38,6,31,"EpSEt, l. 31",uolt,volt,vòLT,v.o.l.t,_,fro,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
-230,38,7,31,"EpSEt, l. 31",desme[n]tir,desmentir,dESmENtir,d.e.s.m.e.n.t.i.r,.,fro,VERinf,VERinf,,démentir,DMF,démentir,,</l>,
+229,38,6,31,"EpSEt, l. 31",uolt,volt,vɔLT,v.o.l.t,_,fro,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
+230,38,7,31,"EpSEt, l. 31",desme[n]tir,desmentir,dESmÆNtir,d.e.s.m.e.n.t.i.r,.,fro,VERinf,VERinf,,démentir,DMF,démentir,,</l>,
 231,39,1,32,"EpSEt, l. 32",p[er],per,pEr,p.e.r,_,fro,PRE,PRE,,par,DMF,par,,,<l n=&quot;32&quot;>
 232,39,2,32,"EpSEt, l. 32",nule,nule,nylə,n.u.l.e,_,fro,DETind,DETind,sfr,nul,DMF,nul,,,
-233,39,3,32,"EpSEt, l. 32",chose,chose,kòzə,ch.o.s.e,_,fro,NOMcom,NOMcom,sfr,chose,DMF,chose,,,
+233,39,3,32,"EpSEt, l. 32",chose,chose,ʧɔzə,ch.o.s.e,_,fro,NOMcom,NOMcom,sfr,chose,DMF,chose,,,
 234,39,4,32,"EpSEt, l. 32",que,que,kE,qu.e,_,fro,PRNrel,PRNrel,sfr,que,DMF,que,,,
 235,39,5,32,"EpSEt, l. 32",negu[n]t,negunt,nEgyNT,n.e.g.u.n.t,_,fro,PRNind,PRNind,smn,negun,DMF,negun,,,
 236,39,6,32,"EpSEt, l. 32",li,li,Li,l.i,+,fro,PRCper,PRCper,3smi,li,DMF,li,,,
 237,39,7,32,"EpSEt, l. 32",deit,deit,dEiT,d.e.i.t,.|,fro,VERcjg,VERcjg,subipf3,dire,DMF,dire,,</l>,
-238,40,1,33,"EpSEt, l. 33",esgarde,esgarde,ESgArdə,e.s.g.a.r.d.e,_,fro,VERcjg,VERcjg,indpst3,égarder,DMF,égarder,,,<lb/><l n=&quot;33&quot;>
+238,40,1,33,"EpSEt, l. 33",esgarde,esgarde,ESgardə,e.s.g.a.r.d.e,_,fro,VERcjg,VERcjg,indpst3,égarder,DMF,égarder,,,<lb/><l n=&quot;33&quot;>
 239,40,2,33,"EpSEt, l. 33",e,e,E,e,+,fro,PRE,PRE,,en,DMF,en,,,
 240,40,3,33,"EpSEt, l. 33",l,l,L,l,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
-241,40,4,33,"EpSEt, l. 33",cel,cel,ʦèl,c.e.l,_,fro,NOMcom,NOMcom,smr,ciel,DMF,ciel,,,
+241,40,4,33,"EpSEt, l. 33",cel,cel,ʦɛl,c.e.l,_,fro,NOMcom,NOMcom,smr,ciel,DMF,ciel,,,
 242,40,5,33,"EpSEt, l. 33",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 243,40,6,33,"EpSEt, l. 33",í,i,i,i,+,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
 244,40,7,33,"EpSEt, l. 33",uit,vit,viT,v.i.t,_,fro,VERcjg,VERcjg,indpsp3,voir,DMF,voir,,,
 245,40,8,33,"EpSEt, l. 33",ih[es]u,jhesu,ʤEzy,jh.e.s.u,_,fro,NOMpro,NOMpro,smr,Jésus,DMF,Jésus,,,
 246,40,9,33,"EpSEt, l. 33",[christ],christ,kriST,ch.r.i.s.t,.,fro,NOMpro,NOMpro,smr,Christ,DMF,Christ,,</l>,
-247,41,1,34,"EpSEt, l. 34",pois,pois,poiS,p.o.i.s,+,fro,ADVgen,ADVgen,,puis,DMF,puis,,,<l n=&quot;34&quot;>
+247,41,1,34,"EpSEt, l. 34",pois,pois,pɔiS,p.o.i.s,+,fro,ADVgen,ADVgen,,puis,DMF,puis,phon_Foerster1879:10,,<l n=&quot;34&quot;>
 248,41,2,34,"EpSEt, l. 34",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 249,41,3,34,"EpSEt, l. 34",s,s,S,s,+,fro,DETdef,DETdef,pmr,le,DMF,le,,,
-250,41,4,34,"EpSEt, l. 34",íues,jues,ʤyèS,j.u.e.s,_,fro,NOMcom,NOMcom,pmr,juif,DMF,juif,,,
+250,41,4,34,"EpSEt, l. 34",íues,jues,ʤyæS,j.u.e.s,_,fro,NOMcom,NOMcom,pmr,juif,DMF,juif,,,
 251,41,5,34,"EpSEt, l. 34",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 252,41,6,34,"EpSEt, l. 34",felu[n]s,feluns,fElONS,f.e.l.u.n.s,.,fro,ADJqua,NOMcom,pmr,félon,DMF,félon,,,
 253,41,7,34,"EpSEt, l. 34",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 254,41,8,34,"EpSEt, l. 34",lor,lor,Lor,l.o.r,+,fro,PRCper,PRCper,6pmi,leur,DMF,leur,,,
 255,41,9,34,"EpSEt, l. 34",dit,dit,diT,d.i.t,.¶,fro,VERcjg,VERcjg,indpsp3,dire,DMF,dire,,</l><l n=&quot;35&quot;><gap unit=&quot;line&quot; reason=&quot;missing&quot;/></l></lg>,
-257,43,1,36,"EpSEt, l. 36",qa[n]t,qant,kANT,q.a.n.t,_,fro,CONsub,CONsub,,quand,DMF,quand,,,<lb/><l n=&quot;36&quot;>
+256,42,1,---,"EpSEt, heading VIII",ex_clama[n]tes,exclamantes,---,---,.|¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+257,43,1,36,"EpSEt, l. 36",qa[n]t,qant,kÆNT,q.a.n.t,_,fro,CONsub,CONsub,,quand,DMF,quand,,,<lb/><l n=&quot;36&quot;>
 258,43,2,36,"EpSEt, l. 36",ce,ce,ʦE,c.e,+,fro,PRNdem,PRNdem,snr,ce,DMF,ce,,,
 259,43,3,36,"EpSEt, l. 36",oirent,oirent,oirəNT,o.i.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,ouïr,DMF,ouïr,,,
-260,43,4,36,"EpSEt, l. 36",e[n]_senble,ensenble,ENSENbLə,e.n.s.e.n.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
+260,43,4,36,"EpSEt, l. 36",e[n]_senble,ensenble,ÆNSÆNbLə,e.n.s.e.n.b.l.e,_,fro,ADVgen,ADVgen,,ensemble,DMF,ensemble,,,
 261,43,5,36,"EpSEt, l. 36",s,s,S,s,+,fro,PRCper,PRCper,6pmr,se,DMF,se,,,
 262,43,6,36,"EpSEt, l. 36",ecriiert[=ecriierent],ecriierent,EkriiErəNT,e.c.r.i.i.e.r.e.n.t,.,fro,VERcjg,VERcjg,indpsp6,écrier,DMF,écrier,,</l>,
-263,44,1,37,"EpSEt, l. 37",ta[n],tan,tAn,t.a.n,+,fro,ADVgen,ADVgen,,tant,DMF,tant,,,<l n=&quot;37&quot;>
-264,44,2,37,"EpSEt, l. 37",dolent,dolent,dolENT,d.o.l.e.n.t,_,fro,ADJqua,ADJqua,pmn,dolent,DMF,dolent,,,
+263,44,1,37,"EpSEt, l. 37",ta[n],tan,tÆn,t.a.n,+,fro,ADVgen,ADVgen,,tant,DMF,tant,,,<l n=&quot;37&quot;>
+264,44,2,37,"EpSEt, l. 37",dolent,dolent,dolÆNT,d.o.l.e.n.t,_,fro,ADJqua,ADJqua,pmn,dolent,DMF,dolent,,,
 265,44,3,37,"EpSEt, l. 37",furu[n]t,furunt,fyrəNT,f.u.r.u.n.t,_,fro,VERcjg,VERcjg,indpsp6,être,DMF,être,,,
 266,44,4,37,"EpSEt, l. 37",por,por,por,p.o.r,_,fro,PRE,PRE,,pour,DMF,pour,,,
-267,44,5,37,"EpSEt, l. 37",poi,poi,pòi,p.o.i,_,fro,PRNind,PRNind,snr,peu,DMF,peu,,,
+267,44,5,37,"EpSEt, l. 37",poi,poi,pɔi,p.o.i,_,fro,PRNind,PRNind,snr,peu,DMF,peu,,,
 268,44,6,37,"EpSEt, l. 37",ne,ne,nE,n.e,_,fro,ADVgen,ADVgen,,ne,DMF,ne,,,
 269,44,7,37,"EpSEt, l. 37",s,s,S,s,+,fro,PRCper,PRCper,6pmr,se,DMF,se,,,
-270,44,8,37,"EpSEt, l. 37",esrageret[=esragerent],esragerent,ESrAʤèrəNT,e.s.r.a.g.e.r.e.n.t,.,fro,VERcjg,VERcjg,indpsp6,esrager,DMF,esrager,,</l>,
+270,44,8,37,"EpSEt, l. 37",esrageret[=esragerent],esragerent,ESrAʤærəNT,e.s.r.a.g.e.r.e.n.t,.,fro,VERcjg,VERcjg,indpsp6,esrager,DMF,esrager,,</l>,
 271,45,1,38,"EpSEt, l. 38",lo,lo,Lo,l.o,_,fro,DETdef,DETdef,smr,le,DMF,le,,,<l n=&quot;38&quot;>
 272,45,2,38,"EpSEt, l. 38",baru[n],barun,bArOn,b.a.r.u.n,|,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,,
 273,45,3,38,"EpSEt, l. 38",p[r]itrent,pritrent,pritrəNT,p.r.i.t.r.e.n.t,_,fro,VERcjg,VERcjg,indpsp6,prendre,DMF,prendre,,,<lb/>
-274,45,4,38,"EpSEt, l. 38",lede_m[en]t,ledement,LEðEmENT,l.e.d.e.m.e.n.t,_,fro,ADVgen,ADVgen,,laidement,DMF,laidement,,,
+274,45,4,38,"EpSEt, l. 38",lede_m[en]t,ledement,LEðEmÆNT,l.e.d.e.m.e.n.t,_,fro,ADVgen,ADVgen,,laidement,DMF,laidement,,,
 275,45,5,38,"EpSEt, l. 38",le,le,LE,l.e,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-276,45,6,38,"EpSEt, l. 38",baterent,baterent,bAtèrəNT,b.a.t.e.r.e.n.t,.,fro,VERcjg,VERcjg,indpsp6,battre,DMF,battre,,</l>,
-277,46,1,39,"EpSEt, l. 39",fors,fors,fòrS,f.o.r.s,_,fro,ADVgen,ADVgen,,hors,DMF,hors,,,<l n=&quot;39&quot;>
+276,45,6,38,"EpSEt, l. 38",baterent,baterent,bAtærəNT,b.a.t.e.r.e.n.t,.,fro,VERcjg,VERcjg,indpsp6,battre,DMF,battre,,</l>,
+277,46,1,39,"EpSEt, l. 39",fors,fors,fɔrS,f.o.r.s,_,fro,ADVgen,ADVgen,,hors,DMF,hors,,,<l n=&quot;39&quot;>
 278,46,2,39,"EpSEt, l. 39",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 279,46,3,39,"EpSEt, l. 39",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
 280,46,4,39,"EpSEt, l. 39",uíle,vile,vilə,v.i.l.e,_,fro,NOMcom,NOMcom,sfr,ville,DMF,ville,,,
-281,46,5,39,"EpSEt, l. 39",ledem[en]t,ledement,LEðEmENT,l.e.d.e.m.e.n.t,_,fro,ADVgen,ADVgen,,laidement,DMF,laidement,,,
+281,46,5,39,"EpSEt, l. 39",ledem[en]t,ledement,LEðEmÆNT,l.e.d.e.m.e.n.t,_,fro,ADVgen,ADVgen,,laidement,DMF,laidement,,,
 282,46,6,39,"EpSEt, l. 39",le,le,LE,l.e,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
 283,46,7,39,"EpSEt, l. 39",gitere[n]t,giterent,ʤitærəNT,g.i.t.e.r.e.n.t,;,fro,VERcjg,VERcjg,indpsp6,jeter,DMF,jeter,,</l>,
-284,47,1,40,"EpSEt, l. 40",pois,pois,poiS,p.o.i.s,_,fro,ADVgen,ADVgen,,puis,DMF,puis,,,<l n=&quot;40&quot;>
+284,47,1,40,"EpSEt, l. 40",pois,pois,pɔiS,p.o.i.s,_,fro,ADVgen,ADVgen,,puis,DMF,puis,phon_Foerster1879:10,,<l n=&quot;40&quot;>
 285,47,2,40,"EpSEt, l. 40",le,le,LE,l.e,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 286,47,3,40,"EpSEt, l. 40",baru[n],barun,bArOn,b.a.r.u.n,|,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,,
-287,47,4,40,"EpSEt, l. 40",entros,entros,ENtrOS,e.n.t.r.o.s,_,fro,ADVgen,ADVgen,,entruès,DMF,entruès,,,<lb/>
+287,47,4,40,"EpSEt, l. 40",entros,entros,ÆNtroS,e.n.t.r.o.s,_,fro,ADVgen,ADVgen,,entruès,DMF,entruès,,,<lb/>
 288,47,5,40,"EpSEt, l. 40",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 289,47,6,40,"EpSEt, l. 40",lapidere[n]t,lapiderent,LApidærəNT,l.a.p.i.d.e.r.e.n.t,.¶,fro,VERcjg,VERcjg,indpsp6,lapider,DMF,lapider,,</l></lg>,
-292,49,1,41,"EpSEt, l. 41",Mes,mes,mèS,m.e.s,_,fro,CONcoo,CONcoo,,mais,DMF,mais,,,<l n=&quot;41&quot;>
+290,48,1,---,"EpSEt, heading IX",et,et,---,---,+,lat,---,---,,---,---,---,,,<lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+291,48,2,---,"EpSEt, heading IX",testes,testes,---,---,.¶,lat,---,---,,---,---,---,,</head>,
+292,49,1,41,"EpSEt, l. 41",Mes,mes,mɛS,m.e.s,_,fro,CONcoo,CONcoo,,mais,DMF,mais,,,<l n=&quot;41&quot;>
 293,49,2,41,"EpSEt, l. 41",ce,ce,ʦE,c.e,+,fro,PRNdem,PRNdem,snr,ce,DMF,ce,,,
 294,49,3,41,"EpSEt, l. 41",trouu[n],trovun,trovOn,t.r.o.v.u.n,_,fro,VERcjg,VERcjg,indpst4,trouver,DMF,trouver,,,
 295,49,4,41,"EpSEt, l. 41",q[ue],que,kE,qu.e,_,fro,CONsub,CONsub,,que,DMF,que,,,
@@ -279,7 +299,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 298,49,7,41,"EpSEt, l. 41",piet,piet,piET,p.i.e.t,_,fro,NOMcom,NOMcom,pmr,pied,DMF,pied,,,
 299,49,8,41,"EpSEt, l. 41",d,d,d,d,+,fro,PRE,PRE,,de,DMF,de,,,
 300,49,9,41,"EpSEt, l. 41",u[n],un,yn,u.n,_,fro,DETndf,DETndf,smr,un,DMF,un,,,
-301,49,10,41,"EpSEt, l. 41",enfant,enfant,ENfANT,e.n.f.a.n.t,_,fro,NOMcom,NOMcom,smr,enfant,DMF,enfant,,</l>,
+301,49,10,41,"EpSEt, l. 41",enfant,enfant,ÆNfÆNT,e.n.f.a.n.t,_,fro,NOMcom,NOMcom,smr,enfant,DMF,enfant,,</l>,
 302,50,1,42,"EpSEt, l. 42",mistrent,mistrent,miStrəNT,m.i.s.t.r.e.n.t,|,fro,VERcjg,VERcjg,indpsp6,mettre,DMF,mettre,,,<l n=&quot;42&quot;>
 303,50,2,42,"EpSEt, l. 42",lor,lor,Lor,l.o.r,_,fro,DETpos,DETpos,6pmr,leur,DMF,leur,,,<lb/>
 304,50,3,42,"EpSEt, l. 42",dras,dras,draS,d.r.a.s,_,fro,NOMcom,NOMcom,pmr,drap,DMF,drap,,,
@@ -287,80 +307,86 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 306,50,5,42,"EpSEt, l. 42",q[u]i,qui,ki,qu.i,_,fro,PRNrel,PRNrel,pmn,qui,DMF,qui,,,
 307,50,6,42,"EpSEt, l. 42",le,le,LE,l.e,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
 308,50,7,42,"EpSEt, l. 42",segueie[n]t,segueient,SEguEiəNT,s.e.g.u.e.i.e.n.t,.,fro,VERcjg,VERcjg,indipf6,suivre,DMF,suivre,,</l>,
-309,51,1,43,"EpSEt, l. 43",saulus,saulus,SaulyS,s.a.u.l.u.s,_,fro,NOMpro,NOMpro,smn,Saul,DMF,Saul,,,<l n=&quot;43&quot;>
-310,51,2,43,"EpSEt, l. 43",ot,ot,òT,o.t,_,fro,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,,,
+309,51,1,43,"EpSEt, l. 43",saulus,saulus,SAulyS,s.a.u.l.u.s,_,fro,NOMpro,NOMpro,smn,Saul,DMF,Saul,,,<l n=&quot;43&quot;>
+310,51,2,43,"EpSEt, l. 43",ot,ot,ɔT,o.t,_,fro,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,,,
 311,51,3,43,"EpSEt, l. 43",n[on],non,nOn,n.o.n,_,fro,NOMcom,NOMcom,smr,nom,DMF,nom,,,
 312,51,4,43,"EpSEt, l. 43",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 313,51,5,43,"EpSEt, l. 43",damassa,damassa,dAmasə,d.a.m.a.ss.a,_,fro,NOMpro,NOMpro,sfr,Damas,wikipedia,---,,,
 314,51,6,43,"EpSEt, l. 43",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-315,51,7,43,"EpSEt, l. 43",grant,grant,grANT,g.r.a.n.t,.,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,</l>,
-316,52,1,44,"EpSEt, l. 44",pois,pois,poiS,p.o.i.s,_,fro,ADVgen,ADVgen,,puis,DMF,puis,,,<l n=&quot;44&quot;>
+315,51,7,43,"EpSEt, l. 43",grant,grant,grÆNT,g.r.a.n.t,.,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,</l>,
+316,52,1,44,"EpSEt, l. 44",pois,pois,pɔiS,p.o.i.s,_,fro,ADVgen,ADVgen,,puis,DMF,puis,phon_Foerster1879:10,,<l n=&quot;44&quot;>
 317,52,2,44,"EpSEt, l. 44",fut,fut,fyð,f.u.t,_,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
-318,52,3,44,"EpSEt, l. 44",apotres,apotres,ApòtrəS,a.p.o.t.r.e.s,|,fro,NOMcom,NOMcom,smn,apôtre,DMF,apôtre,,,
+318,52,3,44,"EpSEt, l. 44",apotres,apotres,ApɔtrəS,a.p.o.t.r.e.s,|,fro,NOMcom,NOMcom,smn,apôtre,DMF,apôtre,,,
 319,52,4,44,"EpSEt, l. 44",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,<lb/>
-320,52,5,44,"EpSEt, l. 44",co[n],con,kON,c.o.n,+,fro,CONsub,CONsub,,comme,DMF,comme,,,
+320,52,5,44,"EpSEt, l. 44",co[n],con,kOn,c.o.n,+,fro,CONsub,CONsub,,comme,DMF,comme,,,
 321,52,6,44,"EpSEt, l. 44",trouu[n],trovun,trovOn,t.r.o.v.u.n,_,fro,VERcjg,VERcjg,indpst4,trouver,DMF,trouver,,,
-322,52,7,44,"EpSEt, l. 44",lésant,lesant,LEzANT,l.e.s.a.n.t,;,fro,VERppa,VERppa,,lire,DMF,lire,,</l>,
+322,52,7,44,"EpSEt, l. 44",lésant,lesant,LEzÆNT,l.e.s.a.n.t,;,fro,VERppa,VERppa,,lire,DMF,lire,,</l>,
 323,53,1,45,"EpSEt, l. 45",saínt,saint,SÆiNT,s.a.i.n.t,_,fro,ADJqua,ADJqua,smr,saint,DMF,saint,,,<l n=&quot;45&quot;>
-324,53,2,45,"EpSEt, l. 45",pol,pol,pòl,p.o.l,_,fro,NOMcom,NOMcom,smr,Paul,wiktionary,---,,,
+324,53,2,45,"EpSEt, l. 45",pol,pol,pɔl,p.o.l,_,fro,NOMcom,NOMcom,smr,Paul,wiktionary,---,,,
 325,53,3,45,"EpSEt, l. 45",l,l,L,l,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-326,53,4,45,"EpSEt, l. 45",apelle[n]t,apellent,ApèləNT,a.p.e.ll.e.n.t,_,fro,VERcjg,VERcjg,indpst6,appeler,DMF,appeler,,,
+326,53,4,45,"EpSEt, l. 45",apelle[n]t,apellent,ApɛləNT,a.p.e.ll.e.n.t,_,fro,VERcjg,VERcjg,indpst6,appeler,DMF,appeler,,,
 327,53,5,45,"EpSEt, l. 45",la,la,LA,l.a,_,fro,DETdef,DETdef,sfn,le,DMF,le,,,
 328,53,6,45,"EpSEt, l. 45",crestiane,crestiane,krEStiAnə,c.r.e.s.t.i.a.n.e,_,fro,ADJqua,ADJqua,sfn,chrétien,DMF,chrétien,,,
-329,53,7,45,"EpSEt, l. 45",gent,gent,ʤENT,g.e.n.t,.¶,fro,NOMcom,NOMcom,sfn,gent,DMF,gent,,</l></lg>,
+329,53,7,45,"EpSEt, l. 45",gent,gent,ʤÆNT,g.e.n.t,.¶,fro,NOMcom,NOMcom,sfn,gent,DMF,gent,,</l></lg>,
+330,54,1,---,"EpSEt, heading X",[et],et,---,---,_,lat,---,---,,---,---,---,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+331,54,2,---,"EpSEt, heading X",lapidabant,lapidabant,---,---,.¶,lat,---,---,,---,---,---,,</head>,
 332,55,1,46,"EpSEt, l. 46",lo,lo,Lo,l.o,_,fro,DETdef,DETdef,smr,le,DMF,le,,,<l n=&quot;46&quot;>
 333,55,2,46,"EpSEt, l. 46",baru[n],barun,bArOn,b.a.r.u.n,|,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,,
-334,55,3,46,"EpSEt, l. 46",segue[n]t,seguent,SèguəNT,s.e.g.u.e.n.t,_,fro,VERcjg,VERcjg,indpst6,suivre,DMF,suivre,,,<lb/>
+334,55,3,46,"EpSEt, l. 46",segue[n]t,seguent,SɛguəNT,s.e.g.u.e.n.t,_,fro,VERcjg,VERcjg,indpst6,suivre,DMF,suivre,,,<lb/>
 335,55,4,46,"EpSEt, l. 46",m[u]lt,mult,moLT,m.u.l.t,_,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-336,55,5,46,"EpSEt, l. 46",gant[=grant],grant,grANT,g.r.a.n.t,_,fro,ADJqua,ADJqua,sfn,grand,DMF,grand,,,
+336,55,5,46,"EpSEt, l. 46",gant[=grant],grant,grÆNT,g.r.a.n.t,_,fro,ADJqua,ADJqua,sfn,grand,DMF,grand,,,
 337,55,6,46,"EpSEt, l. 46",torbe,torbe,torbə,t.o.r.b.e,_,fro,NOMcom,NOMcom,sfn,tourbe,DMF,tourbe,,,
 338,55,7,46,"EpSEt, l. 46",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
-339,55,8,46,"EpSEt, l. 46",gent,gent,ʤENT,g.e.n.t,.,fro,NOMcom,NOMcom,sfr,gent,DMF,gent,,</l>,
+339,55,8,46,"EpSEt, l. 46",gent,gent,ʤÆNT,g.e.n.t,.,fro,NOMcom,NOMcom,sfr,gent,DMF,gent,,</l>,
 340,56,1,47,"EpSEt, l. 47",plaient,plaient,pLÆiəNT,p.l.a.i.e.n.t,_,fro,VERcjg,VERcjg,indpst6,player,DMF,player,,,<l n=&quot;47&quot;>
 341,56,2,47,"EpSEt, l. 47",lo,lo,Lo,l.o,+,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-342,56,3,47,"EpSEt, l. 47",for,for,fòr,f.o.r,_,fro,ADJqua,ADVgen,,fort,DMF,fort,,,
+342,56,3,47,"EpSEt, l. 47",for,for,fɔr,f.o.r,_,fro,ADJqua,ADVgen,,fort,DMF,fort,,,
 343,56,4,47,"EpSEt, l. 47",lo,lo,Lo,l.o,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
-344,56,5,47,"EpSEt, l. 47",scant,scant,SANT,sc.a.n.t,_,fro,NOMcom,NOMcom,smr,sang,DMF,sang,,,
-345,56,6,47,"EpSEt, l. 47",uet,vet,vèT,v.e.t,_,fro,VERcjg,VERcjg,indpst3,aller,DMF,aller,,,
-346,56,7,47,"EpSEt, l. 47",espa[n]dant,espandant,ESpANdANT,e.s.p.a.n.d.a.n.t,.,fro,VERppa,VERppa,,épandre,DMF,épandre,,</l>,
+344,56,5,47,"EpSEt, l. 47",scant,scant,SÆNT,sc.a.n.t,_,fro,NOMcom,NOMcom,smr,sang,DMF,sang,,,
+345,56,6,47,"EpSEt, l. 47",uet,vet,vɛT,v.e.t,_,fro,VERcjg,VERcjg,indpst3,aller,DMF,aller,,,
+346,56,7,47,"EpSEt, l. 47",espa[n]dant,espandant,ESpÆNdÆNT,e.s.p.a.n.d.a.n.t,.,fro,VERppa,VERppa,,épandre,DMF,épandre,,</l>,
 347,57,1,48,"EpSEt, l. 48",li,li,Li,l.i,+,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;48&quot;>
 348,57,2,48,"EpSEt, l. 48",curs,curs,korS,c.u.r.s,|,fro,NOMcom,NOMcom,smn,coeur,DMF,coeur,,,
 349,57,3,48,"EpSEt, l. 48",li,li,Li,l.i,+,fro,PRCper,PRCper,3smi,le,DMF,le,,,<lb/>
 350,57,4,48,"EpSEt, l. 48",faut,faut,fAuT,f.a.u.t,_,fro,VERcjg,VERcjg,indpst3,faillir,DMF,faillir,,,
-351,57,5,48,"EpSEt, l. 48",uait,vait,vAiT,v.a.i.t,_,fro,VERcjg,VERcjg,indpst3,aller,DMF,aller,,,
+351,57,5,48,"EpSEt, l. 48",uait,vait,vɛT,v.ai.t,_,fro,VERcjg,VERcjg,indpst3,aller,DMF,aller,,,
 352,57,6,48,"EpSEt, l. 48",sei,sei,SEi,s.e.i,_,fro,PRCper,PRCper,3smr,soi,DMF,soi,,,
-353,57,7,48,"EpSEt, l. 48",afebleant,afebleant,AfEbLEANT,a.f.e.b.l.e.a.n.t,.,fro,VERppa,VERppa,,affaiblir,DMF,affaiblir,,</l>,
-354,58,1,49,"EpSEt, l. 49",damede,damede,dAmEdæ,d.a.m.e.d.e,_,fro,NOMpro,NOMpro,smr,Damedieu,DMF,Damedieu,,,<l n=&quot;49&quot;>
+353,57,7,48,"EpSEt, l. 48",afebleant,afebleant,AfEbLEÆNT,a.f.e.b.l.e.a.n.t,.,fro,VERppa,VERppa,,affaiblir,DMF,affaiblir,,</l>,
+354,58,1,49,"EpSEt, l. 49",damede,damede,dÆmEdæ,d.a.m.e.d.e,_,fro,NOMpro,NOMpro,smr,Damedieu,DMF,Damedieu,,,<l n=&quot;49&quot;>
 355,58,2,49,"EpSEt, l. 49",p[r]ie,prie,priə,p.r.i.e,_,fro,VERcjg,VERcjg,indpst3,prier,DMF,prier,,,
 356,58,3,49,"EpSEt, l. 49",o,o,o,o,+,fro,PRE,PRE,,o,DMF,o,,,
-357,58,4,49,"EpSEt, l. 49",be[n],ben,bEn,b.e.n,_,fro,ADVgen,ADVgen,,bien,DMF,bien,,,
+357,58,4,49,"EpSEt, l. 49",be[n],ben,bÆn,b.e.n,_,fro,ADVgen,ADVgen,,bien,DMF,bien,,,
 358,58,5,49,"EpSEt, l. 49",cor,cor,kor,c.o.r,_,fro,NOMcom,NOMcom,smr,coeur,DMF,coeur,,,
-359,58,6,49,"EpSEt, l. 49",docem[en]t,docement,doʦEmENT,d.o.c.e.m.e.n.t,;,fro,ADVgen,ADVgen,,doucement,DMF,doucement,,</l>,
+359,58,6,49,"EpSEt, l. 49",docem[en]t,docement,doʦEmÆNT,d.o.c.e.m.e.n.t,;,fro,ADVgen,ADVgen,,doucement,DMF,doucement,,</l>,
 360,59,1,50,"EpSEt, l. 50",sire,sire,Sirə,s.i.r.e,_,fro,NOMcom,NOMcom,smn,sire,DMF,sire,,</q>,<l n=&quot;50&quot;><q>
-361,59,2,50,"EpSEt, l. 50",fæt,faet,fèT,f.ae.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
+361,59,2,50,"EpSEt, l. 50",fæt,faet,fɛT,f.ae.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
 362,59,3,50,"EpSEt, l. 50",il,il,il,i.l,_,fro,PRNper,PRNper,3smn,il,DMF,il,,,
 363,59,4,50,"EpSEt, l. 50",mo[n],mon,mOn,m.o.n,_,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,<q>
 364,59,5,50,"EpSEt, l. 50",esp[er]ite,esperite,ESpEritə,e.s.p.e.r.i.t.e,|,fro,NOMcom,NOMcom,smr,esprit,DMF,esprit,,,
-365,59,6,50,"EpSEt, l. 50",pre[n],pren,prEn,p.r.e.n,.¶,fro,VERcjg,VERcjg,imp---2,prendre,DMF,prendre,,</q></l></lg>,<lb/>
-370,61,1,51,"EpSEt, l. 51",qua[n]t,quant,kANT,qu.a.n.t,_,fro,CONsub,CONsub,,quand,DMF,quand,,,<l n=&quot;51&quot;>
-371,61,2,51,"EpSEt, l. 51",uolt,volt,vòLT,v.o.l.t,_,fro,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
+365,59,6,50,"EpSEt, l. 50",pre[n],pren,prÆn,p.r.e.n,.¶,fro,VERcjg,VERcjg,imp---2,prendre,DMF,prendre,,</q></l></lg>,<lb/>
+366,60,1,---,"EpSEt, heading XI",positis,positis,---,---,_,lat,---,---,,---,---,---,,,<lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+367,60,2,---,"EpSEt, heading XI",aute[m],autem,---,---,.,lat,---,---,,---,---,---,,,
+368,60,3,---,"EpSEt, heading XI",d[omi]ne,domine,---,---,_,lat,---,---,,---,---,---,,,
+369,60,4,---,"EpSEt, heading XI",ne,ne,---,---,¶,lat,---,---,,---,---,---,,</head>,
+370,61,1,51,"EpSEt, l. 51",qua[n]t,quant,kÆNT,qu.a.n.t,_,fro,CONsub,CONsub,,quand,DMF,quand,,,<l n=&quot;51&quot;>
+371,61,2,51,"EpSEt, l. 51",uolt,volt,vɔLT,v.o.l.t,_,fro,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
 372,61,3,51,"EpSEt, l. 51",fenir,fenir,fEnir,f.e.n.i.r,_,fro,VERinf,VERinf,,finir,DMF,finir,,,
 373,61,4,51,"EpSEt, l. 51",se,se,SE,s.e,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 374,61,5,51,"EpSEt, l. 51",s,s,S,s,+,fro,PRCper,PRCper,3smr,se,DMF,se,,,
-375,61,6,51,"EpSEt, l. 51",est,est,èST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-376,61,7,51,"EpSEt, l. 51",aione_let,ajonelet,AʤOnElèT,a.j.o.n.e.l.e.t,_,fro,VERppe,VERppe,smn,agenouiller,DMF,agenouiller,,</l>,
-377,62,1,52,"EpSEt, l. 52",n[ost]re,nostre,nòStrə,n.o.s.t.r.e,_,fro,DETpos,DETpos,4smr,notre,DMF,notre,,,<l n=&quot;52&quot;>
-378,62,2,52,"EpSEt, l. 52",saignor,saignor,SÆiɲor,s.a.i.gn.o.r,_,fro,NOMcom,NOMcom,smr,seigneur,DMF,seigneur,,,
-379,62,3,52,"EpSEt, l. 52",de|rećchief,derecchief,dErEkiEF,d.e.r.e.cch.i.e.f,_,fro,ADVgen,ADVgen,,derechef,DMF,derechef,,,
+375,61,6,51,"EpSEt, l. 51",est,est,ɛST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
+376,61,7,51,"EpSEt, l. 51",aione_let,ajonelet,AʤOnElæT,a.j.o.n.e.l.e.t,_,fro,VERppe,VERppe,smn,agenouiller,DMF,agenouiller,,</l>,
+377,62,1,52,"EpSEt, l. 52",n[ost]re,nostre,nɔStrə,n.o.s.t.r.e,_,fro,DETpos,DETpos,4smr,notre,DMF,notre,,,<l n=&quot;52&quot;>
+378,62,2,52,"EpSEt, l. 52",saignor,saignor,SÆɲor,s.a.ign.o.r,_,fro,NOMcom,NOMcom,smr,seigneur,DMF,seigneur,,,
+379,62,3,52,"EpSEt, l. 52",de|rećchief,derecchief,dErEʧiEF,d.e.r.e.cch.i.e.f,_,fro,ADVgen,ADVgen,,derechef,DMF,derechef,,,
 380,62,4,52,"EpSEt, l. 52",a,a,a,a,+,fro,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,,,<lb/>
-381,62,5,52,"EpSEt, l. 52",prie,prie,priè,p.r.i.e,.,fro,VERppe,VERppe,smr,prier,DMF,prier,,</l>,
+381,62,5,52,"EpSEt, l. 52",prie,prie,priæ,p.r.i.e,.,fro,VERppe,VERppe,smr,prier,DMF,prier,,</l>,
 382,63,1,53,"EpSEt, l. 53",Sire,sire,Sirə,s.i.r.e,_,fro,NOMcom,NOMcom,smn,sire,DMF,sire,,</q>,<l n=&quot;53&quot;><q>
-383,63,2,53,"EpSEt, l. 53",fet,fet,fèT,f.e.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
+383,63,2,53,"EpSEt, l. 53",fet,fet,fɛT,f.e.t,_,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
 384,63,3,53,"EpSEt, l. 53",il,il,il,i.l,_,fro,PRNper,PRNper,3smn,il,DMF,il,,,
 385,63,4,53,"EpSEt, l. 53",por,por,por,p.o.r,_,fro,PRE,PRE,,pour,DMF,pour,,,<q>
 386,63,5,53,"EpSEt, l. 53",la,la,LA,l.a,+,fro,DETdef,DETdef,sfr,la,DMF,la,,,
 387,63,6,53,"EpSEt, l. 53",meie,meie,mEiə,m.e.i.e,_,fro,ADJpos,ADJpos,1sfr,mien,DMF,mien,,,
-388,63,7,53,"EpSEt, l. 53",amite,amite,Amitè,a.m.i.t.e,.,fro,NOMcom,NOMcom,sfr,amitié,DMF,amitié,,</q></l>,
+388,63,7,53,"EpSEt, l. 53",amite,amite,Amitæ,a.m.i.t.e,.,fro,NOMcom,NOMcom,sfr,amitié,DMF,amitié,,</q></l>,
 389,64,1,54,"EpSEt, l. 54",pardone,pardone,pArdOnə,p.a.r.d.o.n.e,_,fro,VERcjg,VERcjg,imp---2,pardonner,DMF,pardonner,,,<l n=&quot;54&quot;><q>
 390,64,2,54,"EpSEt, l. 54",a,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,
 391,64,3,54,"EpSEt, l. 54",cet,cet,ʦeT,c.e.t,_,fro,PRNdem,PRNdem,pmr,cist,DMF,cist,,,
@@ -368,37 +394,42 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 393,64,5,54,"EpSEt, l. 54",ci,ci,ʦi,c.i,+,fro,ADVgen,ADVgen,,ci,DMF,ci,,,
 394,64,6,54,"EpSEt, l. 54",m,m,m,m,+,fro,PRCper,PRCper,1smr,me,DMF,me,,,
 395,64,7,54,"EpSEt, l. 54",u[n]t,unt,ONT,u.n.t,|,fro,VERcjg,VERcjg,indpst6,avoir,DMF,avoir,,,
-396,64,8,54,"EpSEt, l. 54",lapie,lapie,lApiæ,l.a.p.i.e,.,fro,VERppe,VERppe,smr,lapider,DMF,lapider,,</q></l>,<lb/>
+396,64,8,54,"EpSEt, l. 54",lapie,lapie,LApiæ,l.a.p.i.e,.,fro,VERppe,VERppe,smr,lapider,DMF,lapider,,</q></l>,<lb/>
 397,65,1,55,"EpSEt, l. 55",q[ue],que,kE,qu.e,_,fro,CONsub,CONsub,,que,DMF,que,,,<l n=&quot;55&quot;><q>
 398,65,2,55,"EpSEt, l. 55",ia,ja,ʤa,j.a,_,fro,ADVgen,ADVgen,,jà,DMF,jà,,,
 399,65,3,55,"EpSEt, l. 55",p[or],por,por,p.o.r,_,fro,PRE,PRE,,pour,DMF,pour,,,
 400,65,4,55,"EpSEt, l. 55",mei,mei,mEi,m.e.i,_,fro,PRNper,PRNper,1smr,moi,DMF,moi,,,
 401,65,5,55,"EpSEt, l. 55",ne,ne,nE,n.e,+,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-402,65,6,55,"EpSEt, l. 55",p[er]de[n]t,perdent,pèrdəNT,p.e.r.d.e.n.t,_,fro,VERcjg,VERcjg,subpst6,perdre,DMF,perdre,,,
+402,65,6,55,"EpSEt, l. 55",p[er]de[n]t,perdent,pɛrdəNT,p.e.r.d.e.n.t,_,fro,VERcjg,VERcjg,subpst6,perdre,DMF,perdre,,,
 403,65,7,55,"EpSEt, l. 55",t,t,t,t,+,fro,DETpos,DETpos,2sfr,ton,DMF,ton,,,
-404,65,8,55,"EpSEt, l. 55",amíste,amiste,AmiStè,a.m.i.s.t.e,¶,fro,NOMcom,NOMcom,sfr,amitié,DMF,amitié,,</q></l></lg>,
+404,65,8,55,"EpSEt, l. 55",amíste,amiste,AmiStæ,a.m.i.s.t.e,¶,fro,NOMcom,NOMcom,sfr,amitié,DMF,amitié,,</q></l></lg>,
+405,66,1,---,"EpSEt, heading XII",et,et,---,---,_,lat,---,---,,---,---,---,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+406,66,2,---,"EpSEt, heading XII",[cum],cum,---,---,_,lat,---,---,,---,---,---,,,
+407,66,3,---,"EpSEt, heading XII",[hoc],hoc,---,---,_,lat,---,---,,---,---,---,,,
+408,66,4,---,"EpSEt, heading XII",dixisset,dixisset,---,---,¶.,lat,---,---,,---,---,---,,</head>,
 409,67,1,56,"EpSEt, l. 56",A,a,A,a,+,fro,PRE,PRE,,à,DMF,à,,,<l n=&quot;56&quot;>
 410,67,2,56,"EpSEt, l. 56",i_cest,icest,iʦeST,i.c.e.s.t,_,fro,DETdem,DETdem,smr,cist,DMF,cist,,,
-411,67,3,56,"EpSEt, l. 56",mot,mot,mòT,m.o.t,_,fro,NOMcom,NOMcom,smr,mot,DMF,mot,,,
+411,67,3,56,"EpSEt, l. 56",mot,mot,mɔT,m.o.t,_,fro,NOMcom,NOMcom,smr,mot,DMF,mot,,,
 412,67,4,56,"EpSEt, l. 56",li,li,Li,l.i,+,fro,DETdef,DETdef,smn,le,DMF,le,,,
 413,67,5,56,"EpSEt, l. 56",se[n],sen,SÆn,s.e.n,|,fro,ADJqua,ADJqua,smn,saint,DMF,saint,,,
 414,67,6,56,"EpSEt, l. 56",de,de,dæ,d.e,_,fro,NOMcom,NOMcom,smn,Dieu,DMF,Dieu,,,<lb/>
 415,67,7,56,"EpSEt, l. 56",fu,fu,fy,f.u,_,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
 416,67,8,56,"EpSEt, l. 56",fení,feni,fEni,f.e.n.i,.,fro,VERppe,VERppe,smn,finir,DMF,finir,,</l>,
 417,68,1,57,"EpSEt, l. 57",s,s,S,s,+,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,<l n=&quot;57&quot;>
-418,68,2,57,"EpSEt, l. 57",erme,erme,èrmə,e.r.m.e,_,fro,NOMcom,NOMcom,sfr,âme,DMF,âme,,,
+418,68,2,57,"EpSEt, l. 57",erme,erme,ɛrmə,e.r.m.e,_,fro,NOMcom,NOMcom,sfr,âme,DMF,âme,,,
 419,68,3,57,"EpSEt, l. 57",recut,recut,rEʦyð,r.e.c.u.t,_,fro,VERcjg,VERcjg,indpsp3,recevoir,DMF,recevoir,,,
+420,68,4,57,"EpSEt, l. 57",ih[esu]m,jhesum,ʤEzym,jh.e.s.u.m,_,lat,NOMpro,NOMpro,smr,Jésus,DMF,Jésus,,,
 421,68,5,57,"EpSEt, l. 57",q[ue],que,kE,qu.e,_,fro,PRNrel,PRNrel,smr,que,DMF,que,,,
 422,68,6,57,"EpSEt, l. 57",il,il,il,i.l,+,fro,PRNper,PRNper,3smn,il,DMF,il,,,
 423,68,7,57,"EpSEt, l. 57",a,a,a,a,_,fro,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,,,
 424,68,8,57,"EpSEt, l. 57",seruí,servi,SErvi,s.e.r.v.i,.,fro,VERppe,VERppe,smr,servir,DMF,servir,,</l>,
-425,69,1,58,"EpSEt, l. 58",oi,oi,oi,o.i,_,fro,ADVgen,ADVgen,,hui,DMF,hui,,,<l n=&quot;58&quot;>
-426,69,2,58,"EpSEt, l. 58",[est],est,èST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
+425,69,1,58,"EpSEt, l. 58",oi,oi,ɔi,o.i,_,fro,ADVgen,ADVgen,,hui,DMF,hui,,,<l n=&quot;58&quot;>
+426,69,2,58,"EpSEt, l. 58",[est],est,ɛST,e.s.t,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
 427,69,3,58,"EpSEt, l. 58",la,la,LA,l.a,+,fro,DETdef,DETdef,sfn,le,DMF,le,,,
-428,69,4,58,"EpSEt, l. 58",ste[=feste],feste,fèStə,f.e.s.t.e,_,fro,NOMcom,NOMcom,sfn,fête,DMF,fête,,,
+428,69,4,58,"EpSEt, l. 58",ste[=feste],feste,fɛStə,f.e.s.t.e,_,fro,NOMcom,NOMcom,sfn,fête,DMF,fête,,,
 429,69,5,58,"EpSEt, l. 58",si,si,Si,s.i,+,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
 430,69,6,58,"EpSEt, l. 58",cu[m],cum,kOm,c.u.m,_,fro,CONsub,CONsub,,comme,DMF,comme,,,
-431,69,7,58,"EpSEt, l. 58",auet,avet,AvèT,a.v.e.t,_,fro,VERcjg,VERcjg,indpst5,avoir,DMF,avoir,,,
+431,69,7,58,"EpSEt, l. 58",auet,avet,AvɛT,a.v.e.t,_,fro,VERcjg,VERcjg,indpst5,avoir,DMF,avoir,,,
 432,69,8,58,"EpSEt, l. 58",oi,oi,oi,o.i,.|,fro,VERppe,VERppe,snr,ouïr,DMF,ouïr,,</l>,
 433,70,1,59,"EpSEt, l. 59",p[r]iu[n],priun,priOn,p.r.i.u.n,_,fro,VERcjg,VERcjg,indpst4,prier,DMF,prier,,,<lb/><l n=&quot;59&quot;>
 434,70,2,59,"EpSEt, l. 59",li,li,Li,l.i,+,fro,PRCper,PRCper,3smi,le,DMF,le,,,
@@ -413,38 +444,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,wd_div,lang,pos,pos_syn,
 443,71,4,60,"EpSEt, l. 60",de,de,dæ,d.e,_,fro,NOMcom,NOMcom,smr,Dieu,DMF,Dieu,,,
 444,71,5,60,"EpSEt, l. 60",q[u]i,qui,ki,qu.i,_,fro,CONsub,CONsub,,que,DMF,que,,,
 445,71,6,60,"EpSEt, l. 60",il,il,il,i.l,+,fro,PRNper,PRNper,3smn,il,DMF,il,,,
-446,71,7,60,"EpSEt, l. 60",ait,ait,AiT,a.i.t,_,fro,VERcjg,VERcjg,subpst3,avoir,DMF,avoir,,,
+446,71,7,60,"EpSEt, l. 60",ait,ait,ɛT,ai.t,_,fro,VERcjg,VERcjg,subpst3,avoir,DMF,avoir,,,
 447,71,8,60,"EpSEt, l. 60",de,de,dE,d.e,+,fro,PRE,PRE,,de,DMF,de,,,
 448,71,9,60,"EpSEt, l. 60",nos,nos,noS,n.o.s,_,fro,PRNper,PRNper,4pmr,nous,DMF,nous,,,
 449,71,10,60,"EpSEt, l. 60",m[er]ci,merci,mErʦi,m.e.r.c.i,_,fro,NOMcom,NOMcom,sfr,merci,DMF,merci,,</l></lg></body></text>,
-1,1,1,---,"EpSEt, l. heading I",leccio,leccio,,,_,lat,---,---,,---,---,---,,,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;208r&quot; facs=&quot;https://bvmm.irht.cnrs.fr/iiif/31976/canvas/canvas-2796038/view&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-2,1,2,---,"EpSEt, l. heading I",actuum,actuum,,,_,lat,---,---,,---,---,---,,,
-3,1,3,---,"EpSEt, l. heading I",apostoloru[m],apostolorum,,,¶,lat,---,---,,---,---,---,,</head>,
-35,7,1,---,"EpSEt, heading II",In,in,,,+,lat,---,---,,---,---,---,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-36,7,2,---,"EpSEt, heading II",diebus,diebus,,,_,lat,---,---,,---,---,---,,,
-37,7,3,---,"EpSEt, heading II",illis,illis,,,¶,lat,---,---,,---,---,---,,,
-38,7,4,---,"EpSEt, heading II",Stephan[us],stephanus,,,¶,lat,---,---,,---,---,---,,</head>,
-76,13,1,---,"EpSEt, heading III",Surreserunt,surreserunt,,,.|¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-108,19,1,---,"EpSEt, heading IV",et,et,,,_,lat,---,---,,---,---,---,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-109,19,2,---,"EpSEt, heading IV",no[n],non,,,_,lat,---,---,,---,---,---,,,
-110,19,3,---,"EpSEt, heading IV",poterant,poterant,,,¶,lat,---,---,,---,---,---,,</head>,
-151,25,1,---,"EpSEt, heading V",audientes,audientes,,,¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-187,31,1,---,"EpSEt, heading VI",co[m][=cum],cum,,,_,lat,---,---,,---,---,---,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-188,31,2,---,"EpSEt, heading VI",a[utem],autem,,,_,lat,---,---,,---,---,---,,,
-189,31,3,---,"EpSEt, heading VI",e[ss]et,esset,,,|¶,lat,---,---,,---,---,---,,</head>,
-222,37,1,---,"EpSEt, heading VII",ecce,ecce,,,_,lat,---,---,,---,---,---,,,<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-223,37,2,---,"EpSEt, heading VII",uídeo,video,,,¶,lat,---,---,,---,---,---,,</head>,
-256,42,1,---,"EpSEt, heading VIII",ex_clama[n]tes,exclamantes,,,.|¶,lat,---,---,,---,---,---,,</head>,<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-290,48,1,---,"EpSEt, heading IX",et,et,,,+,lat,---,---,,---,---,---,,,<lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-291,48,2,---,"EpSEt, heading IX",testes,testes,,,.¶,lat,---,---,,---,---,---,,</head>,
-330,54,1,---,"EpSEt, heading X",[et],et,,,_,lat,---,---,,---,---,---,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-331,54,2,---,"EpSEt, heading X",lapidabant,lapidabant,,,.¶,lat,---,---,,---,---,---,,</head>,
-366,60,1,---,"EpSEt, heading XI",positis,positis,,,_,lat,---,---,,---,---,---,,,<lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-367,60,2,---,"EpSEt, heading XI",aute[m],autem,,,.,lat,---,---,,---,---,---,,,
-368,60,3,---,"EpSEt, heading XI",d[omi]ne,domine,,,_,lat,---,---,,---,---,---,,,
-369,60,4,---,"EpSEt, heading XI",ne,ne,,,¶,lat,---,---,,---,---,---,,</head>,
-405,66,1,---,"EpSEt, heading XII",et,et,,,_,lat,---,---,,---,---,---,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-406,66,2,---,"EpSEt, heading XII",[cum],cum,,,_,lat,---,---,,---,---,---,,,
-407,66,3,---,"EpSEt, heading XII",[hoc],hoc,,,_,lat,---,---,,---,---,---,,,
-408,66,4,---,"EpSEt, heading XII",dixisset,dixisset,,,¶.,lat,---,---,,---,---,---,,</head>,
-420,68,4,57,"EpSEt, l. 57",ih[esu]m,jhesum,,,_,lat,NOMpro,NOMpro,smr,Jésus,DMF,Jésus,,,
