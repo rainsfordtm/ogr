@@ -471,3 +471,12 @@ problem:
 Consonants:
 	- /ɣ/ is used in <sagrament>
 			
+-------------------------------------------------------------------------------
+Notes on symbols used in CantQuSol
+
+The degree of hypercorrection in final graphical consonants shows
+clearly that many have become unpronounced. As a consequence, the
+following sound changes, despite the presence of a consonant in the
+written form, have been modeled:
+	- <et>: final <t> is always unpronounced. The digraph typically
+	denotes /ə/.
