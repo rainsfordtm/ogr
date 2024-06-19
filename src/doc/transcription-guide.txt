@@ -478,5 +478,11 @@ The degree of hypercorrection in final graphical consonants shows
 clearly that many have become unpronounced. As a consequence, the
 following sound changes, despite the presence of a consonant in the
 written form, have been modeled:
-	- <et>: final <t> is always unpronounced. The digraph typically
-	denotes /ə/.
+	- final orthographic <d>, <dz>, <t>, <tz>, and <z> after simple vowels
+	are unpronounced (unsupported dentals)
+	- elsewhere, final <z>, <s>, <sz> denote final [s]. Final <z> can
+	also denote final [Ç], where it's etymologically justified.
+	- a couple of forms indicate that final <rt> could be used for final
+	[r]; however, this has not been transcribed more generally.
+	- finally, the <ei> digraph, or more particularly the <eiz> trigraph,
+	is very difficult to interpret and has been annotated etymologically.
