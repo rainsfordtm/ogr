@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,textlineid,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,SPONS[US],sponsus,.,157,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item&quot;/><lb/><docTitle>
+1,1,1,SPONS[US],sponsus,.,,,,,lat,---,ETR,ETR,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item&quot;/><lb/><docTitle>
 2,2,1,Ad–est,adest,–,VQVQQ,a.d.e.s.t,'/V\.Q/V\QQ,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,<body xml:lang=&quot;pro&quot;><prologue><sp><lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;1&quot;>
 3,2,2,spo[n]sus,sponsus,–|,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,
 4,2,3,qui,qui,_,QRV,q.u.i,QR/V\,,lat,1,ETR,ETR,---,---,---,---,"Spons, l. 1",,,<pb n=&quot;53v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f114.item&quot;/><lb/>
