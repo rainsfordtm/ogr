@@ -1,0 +1,37 @@
+wd_id,line_id,line_wd,ref,dipl,word,wd_div,phon,map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+1,1,1,"PassAugs, l. 1",a,a,+,A,a,/A\,fro,PRE,,o,DMF,o,,,<text><body xml:lang=&quot;fro&quot;><pb/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot;><l n=&quot;1&quot;>
+2,1,2,"PassAugs, l. 1",le,le,+,LE,l.e,L/E\,fro,DETdef,pfr,le,DMF,le,,,
+3,1,3,"PassAugs, l. 1",spins,spins,_,SpiNS,s.p.i.n.s,Sp/i\NS,fro,NOMcom,pfr,épine,DMF,épine,,,
+4,1,4,"PassAugs, l. 1",batraunt,batraunt,_,bAtrAuNT,b.a.t.r.a.u.n.t,b/A\.'tr/A\uNT,fro,VERcjg,indfut6,battre,DMF,battre,,,
+5,1,5,"PassAugs, l. 1",sos,sos,_,SoS,s.o.s,S/o\S,fro,DETpos,3smr,son4,DMF,son4,,,
+6,1,6,"PassAugs, l. 1",caus,caus,_,ċAuS,c.a.u.s,ċ/A\uS,fro,NOMcom,smr,chef,DMF,chef,,</l>,
+7,2,1,"PassAugs, l. 2",et,et,+,eð,e.t,/e\ð,fro,CONcoo,,et,DMF,et,,,<l n=&quot;2&quot;>
+8,2,2,"PassAugs, l. 2",ab,ab,+,AP,a.b,/A\P,fro,PRE,,o,DMF,o,,,
+9,2,3,"PassAugs, l. 2",es,es,_,ES,e.s,/E\S,fro,DETdef,pfr,le,DMF,le,,,
+10,2,4,"PassAugs, l. 2",lan,lan,_,LAn,l.a.n,L/A\n,fro,NOMcom,pfr,lance,DMF,lance,lemma_Berschin81:262,,
+11,2,5,"PassAugs, l. 2",staudiraunt,staudiraunt,_,StAudirAuNT,s.t.a.u.d.i.r.a.u.n.t,St/A\u.d/i\.'r/A\uNT,fro,VERcjg,indfut6,estaudir,Berschin81,---,lemma_Berschin81:263,,
+12,2,6,"PassAugs, l. 2",sos,sos,_,SoS,s.o.s,S/o\S,fro,DETpos,3smr,son4,DMF,son4,,,
+13,2,7,"PassAugs, l. 2",lad,lad,_,Læð,l.a.d,L/æ\ð,fro,NOMcom,smr,lez,DMF,lez,,</l>,
+14,3,1,"PassAugs, l. 3",[et],et,_,eð,e.t,/e\ð,fro,CONcoo,,et,DMF,et,,,<l n=&quot;3&quot;>
+15,3,2,"PassAugs, l. 3",en,en,+,En,e.n,/E\n,fro,PRE,,en,DMF,en,,,
+16,3,3,"PassAugs, l. 3",la,la,+,LA,l.a,L/A\,fro,DETdef,sfr,le,DMF,le,,,
+17,3,4,"PassAugs, l. 3",crux,crux,_,kroiÇ,c.r.u.x.,kr/o\iÇ,fro,NOMcom,sfr,croix,DMF,croix,,,
+18,3,5,"PassAugs, l. 3",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
+19,3,6,"PassAugs, l. 3",apenderaunt,apenderaunt,_,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.'r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l>,
+20,4,1,"PassAugs, l. 4",et,et,,eð,e.t,/e\ð,fro,CONcoo,,et,DMF,et,,,<lg n=&quot;2&quot; type=&quot;stanza&quot;><l n=&quot;4&quot;> 
+21,4,2,"PassAugs, l. 4",ob,ob,+,ɔP,o.b,/ɔ\P,fro,PRE,,o,DMF,o,,,
+22,4,3,"PassAugs, l. 4",l,l,+,L,l,L/\,fro,DETdef,smr,le,DMF,le,,,
+23,4,4,"PassAugs, l. 4",aeid[=acid],acid,_,Aʦið,a.c.i.d,/A\.'ʦ/i\ð,fro,NOMcom,smr,aisil,DMF,aisil,dipl_Berschin81:263,,
+24,4,5,"PassAugs, l. 4",lo,lo,+,Lo,l.o,L/o\,fro,PRCper,3sma,le,DMF,le,,,
+25,4,6,"PassAugs, l. 4",potaraunt,potaraunt,_,potArAuNT,p.o.t.a.r.a.u.n.t,p/o\.t/A\.'r/A\uNT,fro,VERcjg,indfut6,poto,wiktionary,---,lemma_Berschin81:263,</l>,
+26,5,1,"PassAugs, l. 5",si,si,_,Si,s.i,S/i\,fro,ADVgen,,si4,DMF,si4,,,<l n=&quot;5&quot;> 
+27,5,2,"PassAugs, l. 5",greu,greu,_,græu,g.r.e.u,gr/æ\u,fro,ADJqua,snn,grief2,DMF,grief2,,,
+28,5,3,"PassAugs, l. 5",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+29,5,4,"PassAugs, l. 5",a,a,+,A,a,/A\,fro,PRE,,à,DMF,à,,,
+30,5,5,"PassAugs, l. 5",pærlær,paerlaer,_,pArLær,p.ae.r.l.ae.r,p/A\r.'L/æ\r,fro,VERinf,,parler,DMF,parler,,</l>,
+31,6,1,"PassAugs, l. 6",et,et,+,eð,e.t,/e\ð,fro,CONcoo,,et,DMF,et,,,<l n=&quot;6&quot;> 
+32,6,2,"PassAugs, l. 6",en,en,+,En,e.n,/E\n,fro,PRE,,en,DMF,en,,,
+33,6,3,"PassAugs, l. 6",la,la,+,LA,l.a,L/A\,fro,DETdef,sfr,le,DMF,le,,,
+34,6,4,"PassAugs, l. 6",crux,crux,_,kroiÇ,c.r.u.x.,kr/o\iÇ,fro,NOMcom,sfr,croix,DMF,croix,,,
+35,6,5,"PassAugs, l. 6",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
+36,6,6,"PassAugs, l. 6",apenderat[=apenderaunt],apenderaunt,|,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l></lg></body></text>,
