@@ -1,11 +1,11 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
-1,1,1,---,"AlexAlb, l. 1 (f. 115r)",Dit,dit,diT,d.i.t,d/i\T,_,fro,VERcjg,VERcjg,indpst3,dire,DMF,dire,,,<text><body xml:lang=&quot;fro&quot;><pb facs=&quot;http://mss.bmlonline.it/s.aspx?Id=AWOItZ95I1A4r7GxMMFZ&amp;c=Q.%20Curtius#/oro/237&quot; n=&quot;115r&quot;/><cb n=&quot;b&quot;/><lg><l n=&quot;1 (f. 115r)&quot;>
+1,1,1,---,"AlexAlb, l. 1 (f. 115r)",Dit,dit,diT,d.i.t,d/i\T,_,fro,VERcjg,VERcjg,indpst3,dire,DMF,dire,,,<text><body xml:lang=&quot;fro&quot;><pb  facs=&quot;http://mss.bmlonline.it/s.aspx?Id=AWOItZ95I1A4r7GxMMFZ&amp;c=Q.%20Curtius#/oro/237&quot; n=&quot;115r&quot;/><cb n=&quot;b&quot;/><lg><l n=&quot;1 (f. 115r)&quot;>
 2,1,2,---,"AlexAlb, l. 1 (f. 115r)",salomon,salomon,SAlomOn,s.a.l.o.m.o.n,S/A\.l/o\.'m/O\n,_,fro,NOMpro,NOMpro,smn,Salomon,DMF,Salomon,,,
 3,1,3,---,"AlexAlb, l. 1 (f. 115r)",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,
 4,1,4,---,"AlexAlb, l. 1 (f. 115r)",l,l,l,l,/\L,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
 5,1,5,---,"AlexAlb, l. 1 (f. 115r)",primyer,primyer,primiEr,p.r.i.m.y.e.r,pr/i\.'m/iE\r,_,fro,ADJord,ADJord,smr,premier,DMF,premier,,,
 6,1,6,---,"AlexAlb, l. 1 (f. 115r)",pas,pas,pAS,p.a.s,p/A\S,.|,fro,NOMcom,NOMcom,smr,pas2,DMF,pas2,,</l></lg>,
-7,2,1,1,"AlexAlb, l. 1 (f. 115v)",Dit,dit,diT,d.i.t,d/i\T,_,fro,VERcjg,VERcjg,indpst3,dire,DMF,dire,,,<pb facs=&quot;http://mss.bmlonline.it/s.aspx?Id=AWOItZ95I1A4r7GxMMFZ&amp;c=Q.%20Curtius#/oro/238&quot; n=&quot;115v&quot;/><cb n=&quot;a&quot;/><lg n=&quot;1&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;1 (f. 115v)&quot;>
+7,2,1,1,"AlexAlb, l. 1 (f. 115v)",Dit,dit,diT,d.i.t,d/i\T,_,fro,VERcjg,VERcjg,indpst3,dire,DMF,dire,,,<pb n=&quot;115v&quot;/><cb n=&quot;a&quot;/><lg n=&quot;1&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;1 (f. 115v)&quot;>
 8,2,2,1,"AlexAlb, l. 1 (f. 115v)",salomon,salomon,SAlomOn,s.a.l.o.m.o.n,S/A\.l/o\.'m/O\n,_,fro,NOMpro,NOMpro,smn,Salomon,DMF,Salomon,,,
 9,2,3,1,"AlexAlb, l. 1 (f. 115v)",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,
 10,2,4,1,"AlexAlb, l. 1 (f. 115v)",l,l,l,l,/\L,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
@@ -70,7 +70,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 69,13,5,12,"AlexAlb, l. 12",rey,rey,rEi,r.e.y,r/E\i,_,fro,NOMcom,NOMcom,smr,roi,DMF,roi,,,
 70,13,6,12,"AlexAlb, l. 12",tan,tan,tAn,t.a.n,t/A\n,_,fro,ADVgen,ADVgen,---,tant,DMF,tant,,,
 71,13,7,12,"AlexAlb, l. 12",ric,ric,rik,r.i.c,r/i\k,.,fro,ADJqua,ADJqua,smr,riche,DMF,riche,,</l>,
-72,14,1,13,"AlexAlb, l. 13",chi,chi,ki,ch.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;13&quot;>
+72,14,1,13,"AlexAlb, l. 13",chi,chi,ki,ch.i,k/<i>\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;13&quot;>
 73,14,2,13,"AlexAlb, l. 13",p[er],per,pEr,p.e.r,p/E\r,_,fro,PRE,PRE,---,par,DMF,par,,,
 74,14,3,13,"AlexAlb, l. 13",batalle,batalle,bAtAʎE,b.a.t.a.ll.e,b/A\.'t/A\.ʎ/(E)\,|,fro,NOMcom,NOMcom,sfr,bataille,DMF,bataille,,,
 75,14,4,13,"AlexAlb, l. 13",[et],e,e,e,/e\,_,fro,CONcoo,CONcoo,---,et,DMF,et,,,
@@ -95,7 +95,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 94,18,2,17,"AlexAlb, l. 17",alexander,alexander,AlEKSANdEr,a.l.e.x..a.n.d.e.r,/A\.l/E\K.'S/A\N.d/E\r,_,lat,NOMcom,NOMcom,smn,Alexander,wiktionary,,,,
 95,18,3,17,"AlexAlb, l. 17",magnus,magnus,mAɲyS,m.a.gn.u.s,m/A\.'ɲ/y\S,_,lat,ADJqua,ADJqua,smn,magnus,wiktionary,,,,
 96,18,4,17,"AlexAlb, l. 17",fist,fist,fiST,f.i.s.t,f/i\ST,.|,fro,VERcjg,VERcjg,indpsp3,faire,DMF,faire,,</l>,
-97,19,1,18,"AlexAlb, l. 18",qui,qui,ki,qu.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;18&quot;>
+97,19,1,18,"AlexAlb, l. 18",qui,qui,ki,qu.i,k/<i>\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;18&quot;>
 98,19,2,18,"AlexAlb, l. 18",fud,fud,fyð,f.u.d,f/y\ð,_,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
 99,19,3,18,"AlexAlb, l. 18",de,de,dE,d.e,d/(E)\,+,fro,PRE,PRE,---,de,DMF,de,,,
 100,19,4,18,"AlexAlb, l. 18",grecia,grecia,grEʦiA,g.r.e.c.i.a,'gr/E\.ʦ/i\./(A)\,_,lat,NOMcom,NOMcom,sfr,Graecia,wiktionary,,,,
@@ -139,7 +139,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 138,26,4,25,"AlexAlb, l. 25",pleneyrament,pleneyrament,pLEnEirAmENT,p.l.e.n.e.y.r.a.m.e.n.t,pL/E\.n/E\i.r/A\.'m/E\NT,.,fro,ADVgen,ADVgen,---,plénièrement,DMF,plénièrement,,</l>,
 139,27,1,26,"AlexAlb, l. 26",de,de,dE,d.e,d/(E)\,+,fro,PRE,PRE,---,de,DMF,de,,,<l n=&quot;26&quot;>
 140,27,2,26,"AlexAlb, l. 26",l,l,l,l,L/\,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
-141,27,3,26,"AlexAlb, l. 26",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/E\,|,fro,NOMpro,NOMpro,smr,Alexandre,wikipedia.fr,,,,
+141,27,3,26,"AlexAlb, l. 26",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/(E)\,|,fro,NOMpro,NOMpro,smr,Alexandre,wikipedia.fr,,,,
 142,27,4,26,"AlexAlb, l. 26",mandament,mandament,mANdAmENT,m.a.n.d.a.m.e.n.t,m/A\N.d/A\.'m/E\NT,;,fro,NOMcom,NOMcom,smr,mandement,DMF,mandement,,</l></lg>,<cb n=&quot;b&quot;/>
 143,28,1,27,"AlexAlb, l. 27",Dicunt,dicunt,dikONT,d.i.c.u.n.t,'d/i\.k/O\NT,_,lat,VERcjg,VERcjg,indpst6,dire,DMF,dire,,,<lg n=&quot;4&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;27&quot;>
 144,28,2,27,"AlexAlb, l. 27",alquant,alquant,ALkANT,a.l.qu.a.n.t,/A\L.'k/A\NT,|,fro,PRNind,PRNind,pmn,auquant,DMF,auquant,,,
@@ -186,9 +186,9 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 185,35,6,34,"AlexAlb, l. 34",hom,hom,hOm,h.o.m,h/O\m,.,fro,NOMcom,NOMcom,smn,homme,DMF,homme,,</l>,
 186,36,1,35,"AlexAlb, l. 35",echel,echel,Ekel,e.ch.e.l,/E\.'k/e\l,_,fro,PRNdem,PRNdem,smn,aquél,DOM,,lemma_AlexAlbZ:400,,<l n=&quot;35&quot;>
 187,36,2,35,"AlexAlb, l. 35",ten,ten,tEn,t.e.n,t/E\n,|,fro,VERcjg,VERcjg,indpsp3,tenir,DMF,tenir,,,
-188,36,3,35,"AlexAlb, l. 35",gretia,gretia,grEʦiA,g.r.e.t.i.a,'gr/E\.ʦ/i\./(A)\,_,fro,NOMcom,NOMcom,sfr,Grèce,wiktionary,,,,
+188,36,3,35,"AlexAlb, l. 35",gretia,gretia,grEʦiA,g.r.e.t.i.a,'gr/E\.ʦ/<i>\./(A)\,_,fro,NOMcom,NOMcom,sfr,Grèce,wiktionary,,,,
 189,36,4,35,"AlexAlb, l. 35",la,la,LA,l.a,L/(A)\,+,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-190,36,5,35,"AlexAlb, l. 35",region,region,rEʤiOn,r.e.g.i.o.n,r/E\.ʤ/i\.'/O\n,.,fro,NOMcom,NOMcom,sfr,région,DMF,région,,</l>,
+190,36,5,35,"AlexAlb, l. 35",region,region,rEʤOn,r.e.gi.o.n,r/E\.'ʤ/O\n,.,fro,NOMcom,NOMcom,sfr,région,DMF,région,,</l>,
 191,37,1,36,"AlexAlb, l. 36",e,e,e,e,/e\,+,fro,CONcoo,CONcoo,---,et,DMF,et,,,<l n=&quot;36&quot;>
 192,37,2,36,"AlexAlb, l. 36",ls,ls,LS,l.s,/\LS,_,fro,DETdef,DETdef,pmr,le,DMF,le,,,
 193,37,3,36,"AlexAlb, l. 36",por_z,porz,pɔrÇ,p.o.r.z,p/ɔ\rÇ,_,fro,NOMcom,NOMcom,pmr,port,DMF,port,,,
@@ -203,7 +203,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 202,38,5,37,"AlexAlb, l. 37",l,l,l,l,/\L,+,fro,DETdef,DETdef,smr,le,DMF,le,,,
 203,38,6,37,"AlexAlb, l. 37",rey,rey,rEi,r.e.y,r/E\i,|,fro,NOMcom,NOMcom,smr,roi,DMF,roi,,,
 204,38,7,37,"AlexAlb, l. 37",baron,baron,bArOn,b.a.r.o.n,b/A\.'r/O\n,.,fro,NOMcom,NOMcom,smr,baron,DMF,baron,,</l>,
-205,39,1,38,"AlexAlb, l. 38",qui,qui,ki,qu.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;38&quot;>
+205,39,1,38,"AlexAlb, l. 38",qui,qui,ki,qu.i,k/<i>\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;38&quot;>
 206,39,2,38,"AlexAlb, l. 38",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,
 207,39,3,38,"AlexAlb, l. 38",l,l,l,l,/\L,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
 208,39,4,38,"AlexAlb, l. 38",rey,rey,rEi,r.e.y,r/E\i,_,fro,NOMcom,NOMcom,smr,roi,DMF,roi,,,
@@ -225,13 +225,13 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 224,41,5,40,"AlexAlb, l. 40",genzor,genzor,ʤENÇor,g.e.n.z.o.r,ʤ/E\N.'Ç/o\r,_,fro,ADJqua,ADJqua,sfr,gent2,DMF,gent2,,,
 225,41,6,40,"AlexAlb, l. 40",iausir,jausir,ċAuzir,j.a.u.s.i.r,ċ/A\u.'z/i\r,.,fro,VERinf,VERinf,---,choisir,DMF,choisir,,</l>,
 226,42,1,41,"AlexAlb, l. 41",sor,sor,Sor,s.o.r,S/o\r,|,fro,NOMcom,NOMcom,sfr,soeur,DMF,soeur,phon_AlexAlbZ:399,,<l n=&quot;41&quot;>
-227,42,2,41,"AlexAlb, l. 41",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/E\,_,fro,NOMpro,NOMpro,smr,Alexandre,wiktionary,,,,
+227,42,2,41,"AlexAlb, l. 41",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/(E)\,_,fro,NOMpro,NOMpro,smr,Alexandre,wiktionary,,,,
 228,42,3,41,"AlexAlb, l. 41",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,
 229,42,4,41,"AlexAlb, l. 41",l,l,l,l,/\L,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
 230,42,5,41,"AlexAlb, l. 41",rey,rey,rEi,r.e.y,r/E\i,_,fro,NOMcom,NOMcom,smr,roi,DMF,roi,,,
 231,42,6,41,"AlexAlb, l. 41",d,d,d,d,d/\,+,fro,PRE,PRE,---,de,DMF,de,,,
 232,42,7,41,"AlexAlb, l. 41",epir,epir,Epir,e.p.i.r,/E\.'p/i\r,.,fro,NOMpro,NOMpro,sfr,Épire,wiktionary,,,</l>,
-233,43,1,42,"AlexAlb, l. 42",qui,qui,ki,qu.i,k/i\,+,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;42&quot;>
+233,43,1,42,"AlexAlb, l. 42",qui,qui,ki,qu.i,k/<i>\,+,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<l n=&quot;42&quot;>
 234,43,2,42,"AlexAlb, l. 42",hanc,hanc,ANK,ha.n.c,/A\NK,|,fro,ADVgen,ADVgen,---,ains,DMF,ains,,,
 235,43,3,42,"AlexAlb, l. 42",no,no,no,n.o,n/o\,_,fro,ADVneg,ADVneg,---,ne,DMF,ne,,,
 236,43,4,42,"AlexAlb, l. 42",degnet,degnet,dEɲɛT,d.e.gn.e.t,d/E\.'ɲ/ɛ\T,_,fro,VERcjg,VERcjg,indpsp3,daigner,DMF,daigner,,,
@@ -246,7 +246,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 245,45,2,44,"AlexAlb, l. 44",donna,donna,dOnA,d.o.nn.a,'d/O\.n/(A)\,|,fro,NOMcom,NOMcom,sfr,dame,DMF,dame,,,
 246,45,3,44,"AlexAlb, l. 44",gentil,gentil,ʤENtil,g.e.n.t.i.l,ʤ/E\N.'t/i\l,.,fro,ADJqua,ADJqua,sfr,gentil,DMF,gentil,,</l>,
 247,46,1,45,"AlexAlb, l. 45",dun,dun,dOn,d.u.n,d/O\n,_,fro,PRNrel,PRNrel,---,dont,DMF,dont,,,<l n=&quot;45&quot;>
-248,46,2,45,"AlexAlb, l. 45",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/E\,_,fro,NOMpro,NOMpro,smr,Alexandre,wiktionary,,,,
+248,46,2,45,"AlexAlb, l. 45",alexandre,alexandre,AlEKSANdrE,a.l.e.x..a.n.d.r.e,/A\.l/E\K.'S/A\N.dr/(E)\,_,fro,NOMpro,NOMpro,smr,Alexandre,wiktionary,,,,
 249,46,3,45,"AlexAlb, l. 45",genuit,genuit,ʤEnyiT,g.e.n.u.i.t,ʤ/E\.n/y\.'/i\T,;|,lat,VERcjg,VERcjg,indpsp3,gigno,wiktionary,,,</l></lg>,
 250,47,1,46,"AlexAlb, l. 46",Reys,reys,rEiS,r.e.y.s,r/E\iS,_,fro,NOMcom,NOMcom,smn,roi,DMF,roi,,,<lg n=&quot;7&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;46&quot;>
 251,47,2,46,"AlexAlb, l. 46",alexander,alexander,AlEKSANdEr,a.l.e.x..a.n.d.e.r,/A\.l/E\K.'S/A\N.d/E\r,_,fro,NOMpro,NOMpro,smn,Alexandre,wiktionary,,,,
@@ -308,7 +308,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 307,57,2,56,"AlexAlb, l. 56",ab,ab,AP,a.b,/A\P,_,fro,VERcjg,VERcjg,indpsp3,avoir,DMF,avoir,,,
 308,57,3,56,"AlexAlb, l. 56",uirtud,virtud,virtyð,v.i.r.t.u.d,v/i\r.'t/y\ð,_,fro,NOMcom,NOMcom,sfr,vertu,DMF,vertu,,,
 309,57,4,56,"AlexAlb, l. 56",de,de,dE,d.e,d/(E)\,_,fro,PRE,PRE,---,de,DMF,de,,,
-310,57,5,56,"AlexAlb, l. 56",dies,dies,diES,d.i.e.s,'d/i\./E\S,_,fro,NOMcom,NOMcom,pmr,di,DMF,di,,,
+310,57,5,56,"AlexAlb, l. 56",dies,dies,diES,d.i.e.s,'d/<i>\./E\S,_,fro,NOMcom,NOMcom,pmr,di,DMF,di,,,
 311,57,6,56,"AlexAlb, l. 56",treys,treys,trEiS,t.r.e.y.s,tr/E\iS,.|,fro,ADJcar,ADJcar,pmr,trois,DMF,trois,,</l>,
 312,58,1,57,"AlexAlb, l. 57",que,que,kE,qu.e,k/(E)\,_,fro,CONsub,CONsub,---,que,DMF,que,,,<l n=&quot;57&quot;>
 313,58,2,57,"AlexAlb, l. 57",altre,altre,ALtrE,a.l.t.r.e,'/A\L.tr/(E)\,_,fro,ADJind,ADJind,smn,autre,DMF,autre,,,
@@ -320,7 +320,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 319,59,2,58,"AlexAlb, l. 58",l,l,l,l,/\L,_,fro,PRCper,PRCper,3smr,le,DMF,le,,,
 320,59,3,58,"AlexAlb, l. 58",to_ca,toca,toċA,t.o.c.a,'t/o\.ċ/(A)\,_,fro,VERcjg,VERcjg,indpst3,toucher,DMF,toucher,,,
 321,59,4,58,"AlexAlb, l. 58",res,res,rɛS,r.e.s,r/ɛ\S,_,fro,PRNind,PRNind,smn,rien,DMF,rien,,,
-322,59,5,58,"AlexAlb, l. 58",chi,chi,ki,ch.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
+322,59,5,58,"AlexAlb, l. 58",chi,chi,ki,ch.i,k/<i>\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
 323,59,6,58,"AlexAlb, l. 58",mi_cha,micha,mikA,m.i.ch.a,'m/i\.k/(A)\,_,fro,ADVgen,ADVgen,---,mie3,DMF,mie3,,,
 324,59,7,58,"AlexAlb, l. 58",peys,peys,pEiS,p.e.y.s,p/E\iS,.,fro,VERcjg,VERcjg,subpst3,peser,DMF,peser,,</l>,
 325,60,1,59,"AlexAlb, l. 59",tal,tal,tAl,t.a.l,t/A\l,_,fro,DETind,DETind,smr,tel,DMF,tel,,,<l n=&quot;59&quot;>
@@ -328,7 +328,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 327,60,3,59,"AlexAlb, l. 59",fay,fay,fAi,f.a.y,f/A\i,|,fro,VERcjg,VERcjg,indpst3,faire,DMF,faire,,,
 328,60,4,59,"AlexAlb, l. 59",cu[m],cum,kOm,c.u.m,k/O\m,_,fro,CONsub,CONsub,---,comme,DMF,comme,,,
 329,60,5,59,"AlexAlb, l. 59",leu,leu,LEu,l.e.u,L/E\u,_,fro,NOMcom,NOMcom,smn,lion,DMF,lion,,,
-330,60,6,59,"AlexAlb, l. 59",qui,qui,ki,qu.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
+330,60,6,59,"AlexAlb, l. 59",qui,qui,ki,qu.i,k/<i>\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
 331,60,7,59,"AlexAlb, l. 59",est,est,ɛST,e.s.t,/ɛ\ST,_,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
 332,60,8,59,"AlexAlb, l. 59",preys,preys,prEiS,p.r.e.y.s,pr/E\iS,.,fro,VERppe,VERppe,smn,prendre,DMF,prendre,,</l></lg>,
 333,61,1,60,"AlexAlb, l. 60",Saur,saur,SAur,s.a.u.r,S/A\ur,+,fro,ADJqua,ADJqua,smr,sor,DMF,sor,lemma_MölkHoltus1999:613,,<lg n=&quot;9&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;60&quot;>
@@ -466,7 +466,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 465,84,3,83,"AlexAlb, l. 83",arz,arz,ArÇ,a.r.z,/A\rÇ,_,fro,NOMcom,NOMcom,pfr,art,DMF,art,,,
 466,84,4,83,"AlexAlb, l. 83",beyn,beyn,bEn,b.ey.n,b/E\n,_,fro,ADVgen,ADVgen,---,bien,DMF,bien,phon_AlexAlbZ:399,,
 467,84,5,83,"AlexAlb, l. 83",enseynaz,enseynaz,ENSEɲAÇ,e.n.s.e.yn.a.z,/E\N.S/E\.'ɲ/A\Ç,.,fro,VERppe,VERppe,pmr,enseigner,DMF,enseigner,,</l>,
-468,85,1,84,"AlexAlb, l. 84",qui,qui,ki,qu.i,k/i\,+,fro,PRNrel,PRNrel,pmn,qui,DMF,qui,,,<l n=&quot;84&quot;>
+468,85,1,84,"AlexAlb, l. 84",qui,qui,ki,qu.i,k/<i>\,+,fro,PRNrel,PRNrel,pmn,qui,DMF,qui,,,<l n=&quot;84&quot;>
 469,85,2,84,"AlexAlb, l. 84",l,l,L,l,/\L,_,fro,PRCper,PRCper,3smr,le,DMF,le,,,
 470,85,3,84,"AlexAlb, l. 84",duystrent,duystrent,dyiStrENT,d.u.y.s.t.r.e.n.t,'d/y\iS.tr/E\NT,_,fro,VERcjg,VERcjg,indpsp6,duire,DMF,duire,,,
 471,85,4,84,"AlexAlb, l. 84",beyn,beyn,bEn,b.ey.n,b/E\n,_,fro,ADVgen,ADVgen,---,bien,DMF,bien,phon_AlexAlbZ:399,,
@@ -479,7 +479,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 478,86,5,85,"AlexAlb, l. 85",de,de,dE,d.e,d/(E)\,|,fro,PRE,PRE,---,de,DMF,de,,,
 479,86,6,85,"AlexAlb, l. 85",bontaz,bontaz,bONtAÇ,b.o.n.t.a.z,b/O\N.'t/A\Ç,.,fro,NOMcom,NOMcom,sfr,bonté,DMF,bonté,,</l>,
 480,87,1,86,"AlexAlb, l. 86",de,de,dE,d.e,d/(E)\,_,fro,PRE,PRE,---,de,DMF,de,,,<l n=&quot;86&quot;>
-481,87,2,86,"AlexAlb, l. 86",sapientia,sapientia,SApiENʦiA,s.a.p.i.e.n.t.i.a,S/A\.p/i\.'/E\N.ʦ/i\./(A)\,_,fro,NOMcom,NOMcom,sfr,sapience,DMF,sapience,lang_AlexAlbZ:392,,
+481,87,2,86,"AlexAlb, l. 86",sapientia,sapientia,SApiENʦiA,s.a.p.i.e.n.t.i.a,S/A\.p/i\.'/E\N.ʦ/<i>\./(A)\,_,fro,NOMcom,NOMcom,sfr,sapience,DMF,sapience,lang_AlexAlbZ:392,,
 482,87,3,86,"AlexAlb, l. 86",[et],e,e,e,/e\,_,fro,CONcoo,CONcoo,---,et,DMF,et,,,
 483,87,4,86,"AlexAlb, l. 86",d,d,d,d,d/\,+,fro,PRE,PRE,---,de,DMF,de,,,
 484,87,5,86,"AlexAlb, l. 86",onestaz,onestaz,OnEStAÇ,o.n.e.s.t.a.z,/O\.n/E\S.'t/A\Ç,.,fro,NOMcom,NOMcom,sfr,honnesté,DMF,honnesté,,</l>,
@@ -539,16 +539,16 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 538,97,1,96,"AlexAlb, l. 96",[et],e,e,e,/e\,_,fro,CONcoo,CONcoo,---,et,DMF,et,,,<l n=&quot;96&quot;>
 539,97,2,96,"AlexAlb, l. 96",de,de,dE,d.e,d/(E)\,_,fro,PRE,PRE,---,de,DMF,de,,,
 540,97,3,96,"AlexAlb, l. 96",sa,sa,SA,s.a,S/A\,_,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,
-541,97,4,96,"AlexAlb, l. 96",lanci,lanci,LANʦi,l.a.n.c.i,'L/A\N.ʦ/i\,_,fro,NOMcom,NOMcom,sfr,lance,DMF,lance,,,
+541,97,4,96,"AlexAlb, l. 96",lanci,lanci,LANʦi,l.a.n.c.i,'L/A\N.ʦ/<i>\,_,fro,NOMcom,NOMcom,sfr,lance,DMF,lance,,,
 542,97,5,96,"AlexAlb, l. 96",en,en,En,e.n,/E\n,+,fro,PRE,PRE,---,en,DMF,en,,,
 543,97,6,96,"AlexAlb, l. 96",loyn,loyn,LOɲ,l.o.yn,L/O\ɲ,|,fro,ADVgen,ADVgen,---,loin,DMF,loin,,,
 544,97,7,96,"AlexAlb, l. 96",iausir,jausir,ċAuzir,j.a.u.s.i.r,ċ/A\u.'z/i\r,.,fro,VERinf,VERinf,---,choisir,DMF,choisir,,</l>,
 545,98,1,97,"AlexAlb, l. 97",[et],e,e,e,/e\,_,fro,CONcoo,CONcoo,---,et,DMF,et,,,<l n=&quot;97&quot;>
 546,98,2,97,"AlexAlb, l. 97",senz,senz,SENÇ,s.e.n.z,S/E\NÇ,_,fro,PRE,PRE,---,sans,DMF,sans,,,
-547,98,3,97,"AlexAlb, l. 97",fayllenti,fayllenti,fAʎENÇi,f.a.yll.e.n.t.i,f/A\.'ʎ/E\N.Ç/i\,_,fro,NOMcom,NOMcom,sfr,faillance,DMF,faillance,,,
+547,98,3,97,"AlexAlb, l. 97",fayllenti,fayllenti,fAʎENÇi,f.a.yll.e.n.t.i,f/A\.'ʎ/E\N.Ç/<i>\,_,fro,NOMcom,NOMcom,sfr,faillance,DMF,faillance,,,
 548,98,4,97,"AlexAlb, l. 97",altet,altet,ALtɛð,a.l.t.e.t,/A\L.'t/ɛ\ð,_,fro,NOMcom,NOMcom,sfr,hauté,DMF,hauté,,,
 549,98,5,97,"AlexAlb, l. 97",ferir,ferir,fErir,f.e.r.i.r,f/E\.'r/i\r,.,fro,VERinf,VERinf,---,férir,DMF,férir,,</l>,
-550,99,1,98,"AlexAlb, l. 98",li,li,Li,l.i,L/i\,+,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;98&quot;>
+550,99,1,98,"AlexAlb, l. 98",li,li,Li,l.i,L/<i>\,+,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;98&quot;>
 551,99,2,98,"AlexAlb, l. 98",terz,terz,tɛrÇ,t.e.r.z,t/ɛ\rÇ,_,fro,PRNord,PRNord,smn,tiers,DMF,tiers,,,
 552,99,3,98,"AlexAlb, l. 98",ley,ley,LEi,l.e.y,L/E\i,_,fro,NOMcom,NOMcom,sfr,loi,DMF,loi,,,
 553,99,4,98,"AlexAlb, l. 98",leyre,leyre,LEirE,l.e.y.r.e,'L/E\i.r/(E)\,_,fro,VERinf,VERinf,---,lire,DMF,lire,,,
@@ -563,7 +563,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 562,100,6,99,"AlexAlb, l. 99",tort,tort,tɔrT,t.o.r.t,t/ɔ\rT,_,fro,NOMcom,NOMcom,smr,tort,DMF,tort,,,
 563,100,7,99,"AlexAlb, l. 99",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,
 564,100,8,99,"AlexAlb, l. 99",discernir,discernir,diʦErnir,d.i.sc.e.r.n.i.r,d/i\.ʦ/E\r.'n/i\r,.,fro,VERinf,VERinf,---,discernir,TL,,,</l></lg>,
-565,101,1,100,"AlexAlb, l. 100",Li,li,Li,l.i,L/i\,+,fro,DETdef,DETdef,smn,le,DMF,le,,,<lg n=&quot;15&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;100&quot;>
+565,101,1,100,"AlexAlb, l. 100",Li,li,Li,l.i,L/<i>\,+,fro,DETdef,DETdef,smn,le,DMF,le,,,<lg n=&quot;15&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;100&quot;>
 566,101,2,100,"AlexAlb, l. 100",quarz,quarz,kArÇ,qu.a.r.z,k/A\rÇ,_,fro,PRNord,PRNord,smn,quart,DMF,quart,,,
 567,101,3,100,"AlexAlb, l. 100",lo,lo,Lo,l.o,L/(o)\,_,fro,PRCper,PRCper,3sma,le,DMF,le,,,
 568,101,4,100,"AlexAlb, l. 100",duyst,duyst,dyiST,d.u.y.s.t,d/y\iST,_,fro,VERcjg,VERcjg,indpsp3,duire,DMF,duire,,,
@@ -582,12 +582,12 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 581,103,5,102,"AlexAlb, l. 102",corda,corda,kɔrdA,c.o.r.d.a,'k/ɔ\r.d/(A)\,_,fro,NOMcom,NOMcom,sfr,corde,DMF,corde,,,
 582,103,6,102,"AlexAlb, l. 102",temprar,temprar,tENprAr,t.e.m.p.r.a.r,t/E\N.'pr/A\r,.,fro,VERinf,VERinf,---,temprer,DMF,temprer,,</l>,
 583,104,1,103,"AlexAlb, l. 103",p[er],per,pEr,p.e.r,p/E\r,_,fro,PRE,PRE,---,par,DMF,par,,,<l n=&quot;103&quot;>
-584,104,2,103,"AlexAlb, l. 103",se,se,SE,s.e,S/E\,+,fro,PRNper,PRNper,3smr,soi,DMF,soi,,,
+584,104,2,103,"AlexAlb, l. 103",se,se,SE,s.e,S/(E)\,+,fro,PRNper,PRNper,3smr,soi,DMF,soi,,,
 585,104,3,103,"AlexAlb, l. 103",medips,medips,mEðiPS,m.e.d.i.p.s,m/E\.'ð/i\PS,_,fro,ADJind,ADJind,smr,même,DMF,même,,,
 586,104,4,103,"AlexAlb, l. 103",cant,cant,kANT,c.a.n.t,k/A\NT,_,fro,NOMcom,NOMcom,smr,chant,DMF,chant,,,
 587,104,5,103,"AlexAlb, l. 103",ad,ad,Að,a.d,/A\ð,+,fro,PRE,PRE,---,à,DMF,à,,,
 588,104,6,103,"AlexAlb, l. 103",leuar,levar,LEvAr,l.e.v.a.r,L/E\.'v/A\r,.,fro,VERinf,VERinf,---,lever,DMF,lever,,</l>,
-589,105,1,104,"AlexAlb, l. 104",li,li,Li,l.i,L/i\,_,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;104&quot;>
+589,105,1,104,"AlexAlb, l. 104",li,li,Li,l.i,L/<i>\,_,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;104&quot;>
 590,105,2,104,"AlexAlb, l. 104",quinz,quinz,kiNÇ,qu.i.n.z,k/i\NÇ,|,fro,PRNord,PRNord,smn,quint,DMF,quint,,,
 591,105,3,104,"AlexAlb, l. 104",des,des,dES,d.e.s,d/E\S,+,fro,PRE,PRE,---,dès,DMF,dès,,,
 592,105,4,104,"AlexAlb, l. 104",terra,terra,tɛrrA,t.e.r.r.a,'t/ɛ\r.r/(A)\,_,fro,NOMcom,NOMcom,sfr,terre,DMF,terre,,,
