@@ -1,42 +1,42 @@
-a2	PRE
-ab	PRE
-si2	ADVgen
-nóN	ADVneg
-e	CONcoo
-que2	CONsub
-si	CONsub
-et	DETdef
-la	DETdef
-las3	DETdef
-li2	DETdef
-lo2	DETdef
-lor	DETpos
-los	DETdef
-uN	DETndf
-mon	DETpos
-sa	DETpos
-sóN2	DETpos
-sos	DETpos
-de	PRE
-én	PRE
-pér	PRE
-én3	PRCadv
-i	PRCadv
-ó2	PRCdem
-il2	PRCper
-il3	PRCper
-la2	PRCper
-las4	PRCper
-li3	PRCper
-li4	PRCper
-lo3	PRCper
-lor	PRCper
-los2PRCper
-me	PRCper
-nós	PRCper
-sé	PRCper
-te	PRCper
-vos	PRCper
-ó	PRNrel
-que	PRNrel
-qui	PRNrel
+.*	a2	PRE
+.*	ab	PRE
+.*	si2	ADVgen
+.*	nóN	ADVneg
+.*	e	CONcoo
+.*	que2	CONsub
+.*	si	CONsub
+.*	et	DETdef
+.*	la	DETdef
+.*	las3	DETdef
+.*	li2	DETdef
+.*	lo2	DETdef
+.*	lor	DETpos
+.*	los	DETdef
+.*	uN	DETndf
+.*	mon	DETpos
+.*	sa	DETpos
+.*	sóN2	DETpos
+.*	sos	DETpos
+.*	de	PRE
+.*	én	PRE
+.*	pér	PRE
+.*	én3	PRCadv
+.*	i	PRCadv
+.*	ó2	PRCdem
+.*	il2	PRCper
+.*	il3	PRCper
+.*	la2	PRCper
+.*	las4	PRCper
+.*	li3	PRCper
+.*	li4	PRCper
+.*	lo3	PRCper
+.*	lor	PRCper
+.*	los2	PRCper
+.*	me	PRCper
+.*	nós	PRCper
+.*	sé	PRCper
+.*	te	PRCper
+.*	vos	PRCper
+.*	ó	PRNrel
+.*	que	PRNrel
+.*	qui	PRNrel

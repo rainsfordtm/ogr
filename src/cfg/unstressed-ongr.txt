@@ -1,35 +1,35 @@
-à	PRE
-par	ADVgen
-si4	ADVgen
-ne	ADVneg
-et	CONcoo
-ne2	CONcoo
-ou	CONcoo
-que	CONsub
-si3	CONsub
-le	DETdef
-un	DETndf
-uN	DETndf
-mon	DETpos
-son4	DETpos
-ton2	DETpos
-de	PRE
-en	PRE
-o	PRE
-par	PRE
-pour	PRE
-sur	PRE
-en2	PRCadv
-y2	PRCadv
-que2	PRNint
-le	PRCper
-leur	PRCper
-li	PRCper
-me	PRCper
-nous	PRCper
-se	PRCper
-te	PRCper
-vous	PRCper
-où	PRNrel
-que	PRNrel
-qui	PRNrel
+.*,à,PRE
+.*,par,ADVgen
+.*,si4,ADVgen
+.*,ne,ADVneg
+.*,et,CONcoo
+.*,ne2,CONcoo
+.*,ou,CONcoo
+.*,que,CONsub
+.*,si3,CONsub
+.*,le,DETdef
+.*,un,DETndf
+.*,uN,DETndf
+.*,mon,DETpos
+.*,son4,DETpos
+.*,ton2,DETpos
+.*,de,PRE
+.*,en,PRE
+.*,o,PRE
+.*,par,PRE
+.*,pour,PRE
+.*,sur,PRE
+.*,en2,PRCadv
+.*,y2,PRCadv
+.*,que2,PRNint
+.*,le,PRCper
+.*,leur,PRCper
+.*,li,PRCper
+.*,me,PRCper
+.*,nous,PRCper
+.*,se,PRCper
+.*,te,PRCper
+.*,vous,PRCper
+.*,où,PRNrel
+.*,que,PRNrel
+.*,qui,PRNrel
