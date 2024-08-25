@@ -17,7 +17,7 @@ wd_id,line_id,line_wd,ref,dipl,word,wd_div,phon,map,syllabified,lang,pos,morph,l
 16,3,3,"PassAugs, l. 3",la,la,+,LA,l.a,L/A\,fro,DETdef,sfr,le,DMF,le,,,
 17,3,4,"PassAugs, l. 3",crux,crux,_,kroiÇ,c.r.u.x.,kr/o\iÇ,fro,NOMcom,sfr,croix,DMF,croix,,,
 18,3,5,"PassAugs, l. 3",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
-19,3,6,"PassAugs, l. 3",apenderaunt,apenderaunt,_,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.'r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l>,
+19,3,6,"PassAugs, l. 3",apenderaunt,apenderaunt,_,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.'r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l></lg>,
 20,4,1,"PassAugs, l. 4",et,et,,eð,e.t,/e\ð,fro,CONcoo,,et,DMF,et,,,<lg n=&quot;2&quot; type=&quot;stanza&quot;><l n=&quot;4&quot;> 
 21,4,2,"PassAugs, l. 4",ob,ob,+,ɔP,o.b,/ɔ\P,fro,PRE,,o,DMF,o,,,
 22,4,3,"PassAugs, l. 4",l,l,+,L,l,L/\,fro,DETdef,smr,le,DMF,le,,,

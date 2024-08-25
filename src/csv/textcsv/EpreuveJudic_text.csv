@@ -5,7 +5,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 4,1,4,1,"EpreuveJudic, l. 1",deit,deit,dEiT,d.e.i.t,d/E\iT,_,fro,VERcjg,VERcjg,indpst3,devoir2,DMF,devoir2,,,
 5,1,5,1,"EpreuveJudic, l. 1",enquerre,enquerre,ENkɛrrə,e.n.qu.e.r.r.e,/E\N.'k/ɛ\r.r/(ə)\,.,fro,VERinf,VERinf,---,enquérir,DMF,enquérir,,,
 6,1,6,1,"EpreuveJudic, l. 1",Ses,ses,SES,s.e.s,S/E\S,+,fro,DETpos,DETpos,pmr,son4,DMF,son4,,,
-7,1,7,1,"EpreuveJudic, l. 1",iunies,junies,ʤOnjəS,j.u.n.i.e.s,'ʤ/O\.nj/ə\S,_,fro,NOMcom,NOMcom,pmr,jeûne,DMF,jeûne,,,
+7,1,7,1,"EpreuveJudic, l. 1",iunies,junies,ʤOniəS,j.u.n.i.e.s,'ʤ/O\.ni/ə\S,_,fro,NOMcom,NOMcom,pmr,jeûne,DMF,jeûne,,,
 8,1,8,1,"EpreuveJudic, l. 1",deit,deit,dEiT,d.e.i.t,d/E\iT,_,fro,VERcjg,VERcjg,indpst3,devoir2,DMF,devoir2,,,
 9,1,9,1,"EpreuveJudic, l. 1",faire,faire,fAirə,f.a.i.r.e,'f/A\i.r/(ə)\,.,fro,VERinf,VERinf,---,faire,DMF,faire,,,
 10,1,10,1,"EpreuveJudic, l. 1",e,e,e,e,/e\,+,fro,CONcoo,CONcoo,---,et,DMF,et,,,
@@ -75,7 +75,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 74,6,5,24,"EpreuveJudic, l. 6",Ore,ore,orə,o.r.e,'/o\.r/(ə)\,_,fro,ADVgen,ADVgen,---,or2,DMF,or2,,,<p><s xml:lang=&quot;fro&quot;>
 75,6,6,25,"EpreuveJudic, l. 6",preiuns,preiuns,prEiONS,p.r.e.i.u.n.s,pr/E\i.'/O\NS,_,fro,VERcjg,VERcjg,indpst4,prier,DMF,prier,,,
 76,6,7,25,"EpreuveJudic, l. 6",deuine,devine,dEvinə,d.e.v.i.n.e,d/E\.'v/i\.n/(ə)\,_,fro,ADJqua,ADJqua,sfr,divin,DMF,divin,,,
-77,6,8,25,"EpreuveJudic, l. 6",misericordie,misericordie,mizErikɔrdjə,m.i.s.e.r.i.c.o.r.d.i.e,m/i\.z/E\.r/i\.'k/ɔ\r.dj/(ə)\,.,fro,NOMcom,NOMcom,sfr,miséricorde,DMF,miséricorde,,,
+77,6,8,25,"EpreuveJudic, l. 6",misericordie,misericordie,mizErikɔrdiə,m.i.s.e.r.i.c.o.r.d.i.e,m/i\.z/E\.r/i\.'k/ɔ\r.di/(ə)\,.,fro,NOMcom,NOMcom,sfr,miséricorde,DMF,miséricorde,,,
 78,6,9,25,"EpreuveJudic, l. 6",o[=e],e,e,e,/e\,_,fro,CONcoo,CONcoo,---,et,DMF,et,,,
 79,6,10,25,"EpreuveJudic, l. 6",ma,ma,mA,m.a,m/(A)\,+,fro,DETpos,DETpos,1sfr,mon,DMF,mon,,,
 80,6,11,25,"EpreuveJudic, l. 6",da[m]ne,damne,dAmnə,d.a.m.n.e,'d/A\m.n/(ə)\,_,fro,NOMcom,NOMcom,sfr,dame,DMF,dame,,,
@@ -320,8 +320,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 319,21,14,30,"EpreuveJudic, l. 21",malefactore[m],malefactorem,,,,|,lat,---,---,---,---,---,---,,,
 320,22,1,30,"EpreuveJudic, l. 22",in,in,,,,_,lat,---,---,---,---,---,---,,,<lb n=&quot;22&quot;/>
 321,22,2,30,"EpreuveJudic, l. 22",culpa[m],culpam,,,,.,lat,---,---,---,---,---,---,,</s></p>,
-322,22,3,31,"EpreuveJudic, l. 22",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
-323,22,4,32,"EpreuveJudic, l. 22",Miserere,miserere,,,,_,lat,---,---,---,---,---,---,,</s></label>,<item><s xml:lang=&quot;lat&quot;>
+322,22,3,31,"EpreuveJudic, l. 22",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+323,22,4,32,"EpreuveJudic, l. 22",Miserere,miserere,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 324,22,5,32,"EpreuveJudic, l. 22",mei,mei,,,,_,lat,---,---,---,---,---,---,,,
 325,22,6,32,"EpreuveJudic, l. 22",d[eu]s,deus,,,,_,lat,---,---,---,---,---,---,,,
 326,22,7,32,"EpreuveJudic, l. 22",totus,totus,,,,.,lat,---,---,---,---,---,---,,</s></item>,
@@ -385,7 +385,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 384,26,8,62,"EpreuveJudic, l. 26",Munera,munera,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 385,26,9,62,"EpreuveJudic, l. 26",n[ost]ra,nostra,,,,_,lat,---,---,---,---,---,---,,,
 386,26,10,62,"EpreuveJudic, l. 26",q[uaesumu]s,quaesumus,,,,_,lat,---,---,---,---,---,---,,,
-387,26,11,62,"EpreuveJudic, l. 26",d[omi]ne,domine,,,,.|,lat,---,---,---,---,---,---,,</s></item></p>,
+387,26,11,62,"EpreuveJudic, l. 26",d[omi]ne,domine,,,,.|,lat,---,---,---,---,---,---,,</s></item></list></p>,
 388,27,1,63,"EpreuveJudic, l. 27",M_issa,missa,,,,_,lat,NOMcom,NOMcom,sfr,missa,wiktionary,messe,,,<lb n=&quot;27&quot;/><p><s xml:lang=&quot;fro&quot;>
 389,27,2,63,"EpreuveJudic, l. 27",de,de,dE,d.e,d/(E)\,_,fro,PRE,PRE,---,de,DMF,de,,,
 390,27,3,63,"EpreuveJudic, l. 27",la,la,LA,l.a,L/(A)\,_,fro,DETdef,DETdef,sfr,le,DMF,le,,,
@@ -413,4 +413,4 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,
 412,28,13,63,"EpreuveJudic, l. 28",ca[m]p,camp,ċANP,c.a.m.p,ċ/A\NP,.,fro,NOMcom,NOMcom,smr,champ,DMF,champ,,</s></p>,
 413,28,14,64,"EpreuveJudic, l. 28",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
 414,28,15,65,"EpreuveJudic, l. 28",Quicu[m]q[ue],quicumque,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
-415,28,16,65,"EpreuveJudic, l. 28",uult,vult,,,,.|,lat,---,---,---,---,---,---,,</s></item></p></body></text>,
+415,28,16,65,"EpreuveJudic, l. 28",uult,vult,,,,.|,lat,---,---,---,---,---,---,,</s></item></list></p></body></text>,
