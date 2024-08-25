@@ -1,4 +1,4 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
 1,1,1,---,"AlexAlb, l. 1 (f. 115r)",Dit,dit,diT,d.i.t,d/i\T,_,fro,VERcjg,VERcjg,indpst3,dire,DMF,dire,,,<text><body xml:lang=&quot;fro&quot;><pb  facs=&quot;http://mss.bmlonline.it/s.aspx?Id=AWOItZ95I1A4r7GxMMFZ&amp;c=Q.%20Curtius#/oro/237&quot; n=&quot;115r&quot;/><cb n=&quot;b&quot;/><lg><l n=&quot;1 (f. 115r)&quot;>
 2,1,2,---,"AlexAlb, l. 1 (f. 115r)",salomon,salomon,SAlomOn,s.a.l.o.m.o.n,S/A\.l/o\.'m/O\n,_,fro,NOMpro,NOMpro,smn,Salomon,DMF,Salomon,,,
 3,1,3,---,"AlexAlb, l. 1 (f. 115r)",a,a,A,a,/A\,+,fro,PRE,PRE,---,à,DMF,à,,,

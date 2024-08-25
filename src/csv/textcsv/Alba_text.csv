@@ -1,4 +1,4 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
 1,1,1,1,"Alba, l. 1",Phebi,phebi,_,QVQV,ph.e.b.i,'Q/V\.Q/V\,lat,ETR,---,---,---,---,,,<text><body><pb n=&quot;50v&quot;/><lb/><lg type=&quot;stanza&quot;><l xml:lang=&quot;lat&quot; n=&quot;1&quot;>
 2,1,2,1,"Alba, l. 1",claro,claro,_,QLVRV,c.l.a.r.o,'QL/V\.R/V\,lat,ETR,---,---,---,---,,,
 3,1,3,1,"Alba, l. 1",nondum,nondum,_,NVNQVN,n.o.n.d.u.m,'N/V\N.Q/V\N,lat,ETR,---,---,---,---,,,

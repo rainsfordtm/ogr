@@ -1,4 +1,4 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,map,syllabified,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
 1,1,1,1,"CantQuSol, l. 1",Quant,quant,_,kANT,qu.a.n.t,k/A\NT,fro,CONsub,CONsub,,quand,DMF,quand,,,"<text><body xml:lang=&quot;fro&quot;><pb n=&quot;92v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b8427444b/f192.item&quot;/><lb n=&quot;3&quot;/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;1&quot;>"
 2,1,2,1,"CantQuSol, l. 1",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,
 3,1,3,1,"CantQuSol, l. 1",solleiz,solleiz,_,SolEiÇ,s.o.ll.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,NOMcom,smn,soleil,DMF,soleil,,,

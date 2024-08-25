@@ -1,4 +1,4 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
 1,1,1,---,"EpSEt, heading I",leccio,leccio,,,,_,lat,---,---,,---,---,---,,,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;208r&quot; facs=&quot;https://bvmm.irht.cnrs.fr/iiif/31976/canvas/canvas-2796038/view&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
 2,1,2,---,"EpSEt, heading I",actuum,actuum,,,,_,lat,---,---,,---,---,---,,,
 3,1,3,---,"EpSEt, heading I",apostoloru[m],apostolorum,,,,¶,lat,---,---,,---,---,---,,</head>,

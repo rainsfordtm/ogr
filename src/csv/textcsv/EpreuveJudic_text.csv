@@ -1,4 +1,4 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
 1,1,1,1,"EpreuveJudic, l. 1",Chi,chi,ki,ch.i,k/i\,_,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<text><body><pb n=&quot;163r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b10540990d/f333.item&quot;/><p><s xml:lang=&quot;fro&quot;>
 2,1,2,1,"EpreuveJudic, l. 1",certe,certe,Çɛrtə,c.e.r.t.e,'Ç/ɛ\r.t/(ə)\,_,fro,ADJqua,ADJqua,sfr,cert,DMF,cert,,,
 3,1,3,1,"EpreuveJudic, l. 1",cose,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/(ə)\,_,fro,NOMcom,NOMcom,sfr,chose,DMF,chose,,,
