@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,map,syllabified,wd_div,lang,pos,morph,lemma,lemma_src,phil_note,tei_right,tei_left
-1,1,1,1,"ChansLas, stanza 1, l.1",las,las,LaS,l.a.s,L/a\S,_,fro,ADJqua,smn,las,DMF,,,<text><group><text><body><pb/><lb/><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
+1,1,1,1,"ChansLas, stanza 1, l.1",las,las,LaS,l.a.s,L/a\S,_,fro,ADJqua,smn,las,DMF,,,<text><group><text><body><pb n=&quot;94v&quot;/><lb/><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
 2,1,2,1,"ChansLas, stanza 1, l.1",qui,qui,ki,qu.i,k/i\,_,fro,PRNrel,smn,qui,DMF,pos_Moelk96:48,,
 3,1,3,1,"ChansLas, stanza 1, l.1",n[on],non,nOn,n.o.n,n/O\n,_,fro,ADVneg,,ne,DMF,,,
 4,1,4,1,"ChansLas, stanza 1, l.1",sun,sun,SOn,s.u.n,S/O\n,_,fro,VERcjg,indpst1,être,DMF,,,

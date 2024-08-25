@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main" xml:lang="en">Bilingual Alba</title> <!-- METADATA "title_en" -->
+            <title type="main" xml:lang="fr">Aube bilingue</title> <!-- METADATA "title_fr" -->
+            <title type="formal">Alba</title>
+            <author>anonymous</author>
+            <editor>Tom Rainsford</editor>
+         </titleStmt>
+         <editionStmt>
+            <edition>Annotated transcription prepared for the Old Gallo-Romance corpus <ref
+                  target="http://www.ogr-corpus.org">ogr-corpus.org</ref>
+            </edition>
+            <respStmt>
+               <resp>Transcription and annotation</resp>
+               <name ref="#TMR">Tom Rainsford</name>
+            </respStmt>
+            <respStmt>
+               <resp>Conversion to XML-TEI file</resp>
+               <name ref="#TMR">Tom Rainsford</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher><name>Old Gallo-Romance Corpus project <ref
+                     target="http://www.ogr-corpus.org">ogr-corpus.org</ref></name></publisher>
+            <address>
+               <addrLine>Institut für Linguistik/Romanistik, Universität Stuttgart</addrLine>
+               <addrLine>Keplerstr. 17</addrLine>
+               <addrLine>70174 Stuttgart</addrLine>
+               <addrLine>Germany</addrLine>
+            </address>
+            <availability status="free">
+               <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                  <ab type="how_to_cite">
+                     <label>How to cite this text:</label>
+                     <bibl>Bilingual Alba (Alba). In T. Rainsford (ed.) Old
+                        Gallo-Romance Corpus, version 1.0. Stuttgart, Institut für Linguistik/Romanistik,
+                        2024. <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
+                     </bibl>
+                  </ab>
+                  <ab type="availability_file">
+                     <label>Conditions of use :</label> The texts in the Old Gallo-Romance corpus
+                     are distributed under Creative Commons license CC BY-NC-SA 4.0. See <ref
+                        target="https://creativecommons.org/licenses/by-nc-sa/4.0/"
+                        >https://creativecommons.org/licenses/by-nc-sa/4.0/</ref>
+                  </ab>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <!-- p>XML-TEI file generated from the CSV format source files of the Old Gallo-Romance Corpus by
+               the SylVer software <ref>https://sourceforge.net/projects/syllabic-verse-analysis/</ref>.
+            </p -->
+            <msDesc>
+               <msIdentifier> <!-- METADATA ms -->
+                  <settlement>Rome</settlement>
+                  <repository>Biblioteca Apostolica Vaticana</repository>
+                  <idno>Reginae lat. 1462</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Old Gallo-Romance Corpus, <ref target="http://www.ogr-corpus.org"
+                  >http://ogr-corpus.org</ref>.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Manuscript abbrevations expanded, use of j/i and u/v modernized. No capitalization
+                  or diacritics.</p>
+            </normalization>
+            <segmentation>
+               <p>The text contains the following units: <list>
+                     <item>Segments: A single phonological segment. Encoded by the "seg" element
+                        with type=segment</item>
+                     <item>Words: A syntactically independent sequence of Segments. Clitics are
+                        treated as Words. Encoded using the "w" element.</item>
+                     <item>Syllables: Sequence of Segments consisting minimally of a vocalic
+                        nucleus. Since Words are syntactically rather than prosodically defined, a
+                        Syllable can contain more than one word. Encoded by the "seg" element with
+                        type=syllable</item>
+                     <item>Lines: Sequence of both Words and Syllables forming a line of
+                        verse.</item>
+                  </list> The "join" attribute of w and pc elements encodes the manuscript word
+                  division. </p>
+            </segmentation>
+            <punctuation>
+               <p>Manuscript punctuation only, encoded in "pc" elements.</p>
+            </punctuation>
+            <correction>
+               <p>Manuscript reading only modified where the text is uninterpretable and there is an
+                  indisputable scriptological error (e.g. a repeated word or a missing initial).</p>
+            </correction>
+            <interpretation>
+               <p>See <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref> for full
+                  documentation of the annotation scheme.</p>
+            </interpretation>
+         </editorialDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <name type="author">anonymous</name>
+            <date type="text" notAfter="999">10th century at the latest<precision precision="low"/></date>
+            <date type="text" notBefore="1000" notAfter="1099">10th century<precision precision="low"/><certainty locus="value" cert="medium"/></date> <!-- METADATA text_cent -->
+            <region type="text">southern France<precision precision="low"/><certainty locus="value" cert="high"/></region> <!-- METADATA text_origin -->
+            <date type="ms" notBefore="990" notAfter="1010">c1000<precision precision="high"/><certainty locus="value" cert="low"/></date>
+            <date type="ms" notBefore="950" notAfter="1049">10th to 11th century<precision precision="low"/><certainty locus="value" cert="high"/></date> <!-- METADATA ms_cent --> 
+            <settlement type="ms">Fleury-sur-Loire</settlement>
+            <region type="ms">Burgundy<precision precision="low"/></region> <!-- METADATA ms_origin -->
+         </creation>
+         <langUsage>
+            <language ident="lat">Latin</language>
+            <language ident="pro">Old Occitan</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.bfm-corpus.org">
+               <term type="domaine">religieux</term>
+               <term type="genre">alba</term>
+               <term type="forme">vers</term>
+               <term type="relation">œuvre originale</term>
+            </keywords>
+            <keywords scheme="http://ogr-corpus.org">
+               <term type="source">transcription</term> <!-- METADATA source -->
+               <term type="form">verse</term> <!-- METADATA form -->
+               <term type="lang">pro</term> <!-- METADATA lang -->
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2024-08-25" resp="#TMR">Creation of this header</change>
+      </revisionDesc>
+   </teiHeader>
+
+</TEI>
