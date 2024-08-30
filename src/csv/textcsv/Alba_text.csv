@@ -53,7 +53,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 52,10,5,10,"Alba, l. 10",mira,mira,+,mirA,m.i.r.a,'m/i\.r/(A)\,pro,VERcjg,indpst3,mirar,DOM,mirer,,,
 53,10,6,10,"Alba, l. 10",clar,clar,_,kLAr,c.l.a.r,kL/A\r,pro,ADVgen,---,clar,DOM,clair,,,
 54,10,7,10,"Alba, l. 10",tenebras,tenebras,|,tEnɛbrAS,t.e.n.e.b.r.a.s,t/E\.'n/ɛ\.br/A\S,pro,NOMcom,pfr,tenèbra,DOM,ténèbres,,</l></lg>,
-55,11,1,11,"Alba, l. 11",Ab,ab,+,VQ,a.b,/V\Q,lat,ETR,---,---,---,---,,,<lb/><lg type=&quot;stanza&quot; n=&quot;2&quot;><l xml:lang=&quot;lat&quot; n=&quot;11&quot;>
+55,11,1,11,"Alba, l. 11",Ab,ab,+,VQ,a.b,/V\Q,lat,ETR,---,---,---,---,,,<lb/><lg type=&quot;stanza&quot; n=&quot;3&quot;><l xml:lang=&quot;lat&quot; n=&quot;11&quot;>
 56,11,2,11,"Alba, l. 11",arcturo,arcturo,_,VRQQVRV,a.r.c.t.u.r.o,/V\RQ.'Q/V\.R/V\,lat,ETR,---,---,---,---,,,
 57,11,3,11,"Alba, l. 11",disgregat[ur],disgregatur,_,QVQQRVQVQVR,d.i.s.g.r.e.g.a.t.u.r,Q/V\.QQR/V\.'Q/V\.Q/V\R,lat,ETR,---,---,---,---,,,
 58,11,4,11,"Alba, l. 11",aquilo,aquilo,;,VQRVLV,a.q.u.i.l.o,'/V\.QR/V\.'L/V\,lat,ETR,---,---,---,---,,</l>,

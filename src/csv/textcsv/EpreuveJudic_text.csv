@@ -68,8 +68,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 67,5,9,20,"EpreuveJudic, l. 5",SECRETA,secreta,,,,.,lat,---,---,---,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 68,5,10,21,"EpreuveJudic, l. 5",Sacrifitiu[m],sacrifitium,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 69,5,11,21,"EpreuveJudic, l. 5",d[omi]ne,domine,,,,.|,lat,---,---,---,---,---,---,,</s></item>,
-70,6,1,22,"EpreuveJudic, l. 6",Agn[us],agnus,,,,_,lat,---,---,---,---,---,---,,,<lb n=&quot;6&quot;/><item><s xml:lang=&quot;lat&quot;>
-71,6,2,22,"EpreuveJudic, l. 6",d[e]i,dei,,,,.,lat,---,---,---,---,---,---,,</s></item>,
+70,6,1,22,"EpreuveJudic, l. 6",Agn[us],agnus,,,,_,lat,---,---,---,---,---,---,,,<lb n=&quot;6&quot;/><label><s xml:lang=&quot;lat&quot;>
+71,6,2,22,"EpreuveJudic, l. 6",d[e]i,dei,,,,.,lat,---,---,---,---,---,---,,</s></label>,
 72,6,3,23,"EpreuveJudic, l. 6",Agn[us],agnus,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 73,6,4,23,"EpreuveJudic, l. 6",d[e]i,dei,,,,.,lat,---,---,---,---,---,---,,</s></item></list></p>,
 74,6,5,24,"EpreuveJudic, l. 6",Ore,ore,orə,o.r.e,'/o\.r/(ə)\,_,fro,ADVgen,ADVgen,---,or2,DMF,or2,,,<p><s xml:lang=&quot;fro&quot;>
@@ -326,11 +326,11 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 325,22,6,32,"EpreuveJudic, l. 22",d[eu]s,deus,,,,_,lat,---,---,---,---,---,---,,,
 326,22,7,32,"EpreuveJudic, l. 22",totus,totus,,,,.,lat,---,---,---,---,---,---,,</s></item>,
 327,22,8,33,"EpreuveJudic, l. 22",Gl[ori]a,gloria,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
-328,22,9,33,"EpreuveJudic, l. 22",patri,patri,,,,.,lat,---,---,---,---,---,---,,</s></item>,
-329,22,10,34,"EpreuveJudic, l. 22",Enquore,enquore,ENkɔrə,e.n.qu.o.r.e,/E\N.'k/ɔ\.r/(ə)\,_,fro,ADVgen,ADVgen,---,encore,DMF,encore,,,
-330,22,11,34,"EpreuveJudic, l. 22",enq[u]irere,enquirere,ENkirɛr,e.n.qu.i.r.e.re,/E\N.k/i\.'r/ɛ\r,_,fro,VERinf,VERinf,---,inquirier,DMF,inquirier,,,
-331,22,12,35,"EpreuveJudic, l. 22",Agn[us],agnus,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
-332,22,13,35,"EpreuveJudic, l. 22",d[e]i,dei,,,,.,lat,---,---,---,---,---,---,,</s></item>,
+328,22,9,33,"EpreuveJudic, l. 22",patri,patri,,,,.,lat,---,---,---,---,---,---,,</s></item></list></p>,
+329,22,10,34,"EpreuveJudic, l. 22",Enquore,enquore,ENkɔrə,e.n.qu.o.r.e,/E\N.'k/ɔ\.r/(ə)\,_,fro,ADVgen,ADVgen,---,encore,DMF,encore,,,<p><s xml:lang=&quot;fro&quot;>
+330,22,11,34,"EpreuveJudic, l. 22",enq[u]irere,enquirere,ENkirɛr,e.n.qu.i.r.e.re,/E\N.k/i\.'r/ɛ\r,_,fro,VERinf,VERinf,---,inquirier,DMF,inquirier,,</s></p>,
+331,22,12,35,"EpreuveJudic, l. 22",Agn[us],agnus,,,,_,lat,---,---,---,---,---,---,,,<p><list type=&quot;label&quot;><label><s xml:lang=&quot;lat&quot;>
+332,22,13,35,"EpreuveJudic, l. 22",d[e]i,dei,,,,.,lat,---,---,---,---,---,---,,</s></label>,
 333,22,14,36,"EpreuveJudic, l. 22",co[mmunio],communio,,,,.|,lat,---,---,---,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
 334,23,1,37,"EpreuveJudic, l. 23",Rede[m]ptor,redemptor,,,,_,lat,---,---,---,---,---,---,,,<lb n=&quot;23&quot;/><item><s xml:lang=&quot;lat&quot;>
 335,23,2,37,"EpreuveJudic, l. 23",mundi,mundi,,,,.,lat,---,---,---,---,---,---,,</s></item>,

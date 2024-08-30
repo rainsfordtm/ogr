@@ -124,11 +124,12 @@
                         </xsl:attribute>
                         <xsl:value-of select="@n"/>
                     </xsl:element>
-                    <!-- Add heading if there is one --->
-                    <xsl:apply-templates select="head"/>
+                    <!-- Add heading if there is one -->
+                    <xsl:apply-templates select="tei:head"/>
                 </th>
             </tr>
-            <xsl:apply-templates/>
+            <!-- Everything except "head" -->
+            <xsl:apply-templates select="tei:*[local-name()!='head']"/>
         </xsl:element>
     </xsl:template>
 
