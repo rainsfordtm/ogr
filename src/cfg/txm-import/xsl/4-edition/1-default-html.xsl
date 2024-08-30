@@ -124,6 +124,8 @@
                         </xsl:attribute>
                         <xsl:value-of select="@n"/>
                     </xsl:element>
+                    <!-- Add heading if there is one --->
+                    <xsl:apply-templates select="head"/>
                 </th>
             </tr>
             <xsl:apply-templates/>
@@ -159,6 +161,41 @@
             <xsl:apply-templates/>
         </div>
     </xsl:template>
+
+    <!-- Lists -->
+    
+    <xsl:template match="tei:list">
+        <xsl:choose>
+            <xsl:when test="@type='label'">
+                <dl>
+                    <xsl:apply-templates mode="dl"/>
+                </dl>
+            </xsl:when>
+            <xsl:otherwise>
+                <ul>
+                    <xsl:apply-templates mode="ul"/>
+                </ul>
+            </xsl:otherwise>
+        </xsl:choose>
+    </xsl:template>
+    
+    <xsl:template match="tei:label" mode="dl">
+        <dt><xsl:apply-templates/></dt>
+    </xsl:template>
+    
+    <xsl:template match="tei:label" mode="ul">
+        <!-- This template shouldn't be called; turns labels into separate lis -->
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
+    
+    <xsl:template match="tei:item" mode="dl">
+        <dd><xsl:apply-templates/></dd>
+    </xsl:template>
+    
+    <xsl:template match="tei:item" mode="ul">
+        <li><xsl:apply-templates/></li>
+    </xsl:template>
+
 
     <!--Render TEI elements -->
 

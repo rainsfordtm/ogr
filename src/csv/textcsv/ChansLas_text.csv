@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,lemma,lemma_src,phil_note,tei_right,tei_left
-1,1,1,1,"ChansLas, stanza 1, l.1",las,las,LaS,l.a.s,L/a\S,_,fro,ADJqua,smn,las,DMF,,,<text><group><text><body><pb n=&quot;94v&quot;/><lb/><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
+1,1,1,1,"ChansLas, stanza 1, l.1",las,las,LaS,l.a.s,L/a\S,_,fro,ADJqua,smn,las,DMF,,,<text><body><div type=&quot;song&quot; n=&quot;1&quot;><pb n=&quot;94v&quot;/><lb/><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
 2,1,2,1,"ChansLas, stanza 1, l.1",qui,qui,ki,qu.i,k/i\,_,fro,PRNrel,smn,qui,DMF,pos_Moelk96:48,,
 3,1,3,1,"ChansLas, stanza 1, l.1",n[on],non,nOn,n.o.n,n/O\n,_,fro,ADVneg,,ne,DMF,,,
 4,1,4,1,"ChansLas, stanza 1, l.1",sun,sun,SOn,s.u.n,S/O\n,_,fro,VERcjg,indpst1,être,DMF,,,
@@ -22,8 +22,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 21,5,2,5,"ChansLas, stanza 1, l.5",si|rie,sirie,SiriE,s.i.r.i.e,S/i\.'r/iE\,_,fro,VERcjg,con---3,être,DMF,word_Moelk96:48,,
 22,5,3,5,"ChansLas, stanza 1, l.5",repasar,repasar,rEpAzɛr,r.e.p.a.s.a.r,r/E\.p/A\.'z/ɛ\r,+,fro,VERinf,,repaisier,DMF,lemma_Moelk96:48,,
 23,5,4,5,"ChansLas, stanza 1, l.5",tu,tu,to,t.u,t/o\,_,fro,DETind,smr,tout,DMF,,,
-24,5,5,5,"ChansLas, stanza 1, l.5",dulur,dulur,dolor,d.u.l.u.r,d/o\.'l/o\r,.–|,fro,NOMcom,smr,douleur,DMF,morph_Lazzerini93:131,</l></lg></body></text></group>,
-25,6,1,6,"ChansLas, stanza 2, l.1",Sacramente,sacramente,QVQRVNVNQV,s.a.c.r.a.m.e.n.t.e,Q/V\.QR/V\.'N/V\N.Q/V\,_,---,---,---,---,---,,,<group><text><body><lb/><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
+24,5,5,5,"ChansLas, stanza 1, l.5",dulur,dulur,dolor,d.u.l.u.r,d/o\.'l/o\r,.–|,fro,NOMcom,smr,douleur,DMF,morph_Lazzerini93:131,</l></lg></div>,
+25,6,1,6,"ChansLas, stanza 2, l.1",Sacramente,sacramente,QVQRVNVNQV,s.a.c.r.a.m.e.n.t.e,Q/V\.QR/V\.'N/V\N.Q/V\,_,---,---,---,---,---,,,<lb/><div type=&quot;song&quot; n=&quot;2&quot;><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
 26,6,2,6,"ChansLas, stanza 2, l.1",n[on],non,NVN,n.o.n,N/V\N,_,---,---,---,---,---,,,
 27,6,3,6,"ChansLas, stanza 2, l.1",ualent,valent,QVLVNQ,v.a.l.e.n.t,'Q/V\.L/V\NQ,_,---,---,---,---,---,,</l>,
 28,7,1,7,"ChansLas, stanza 2, l.2",tu,tu,to,t.u,t/o\,+,fro,DETind,---,tout,DMF,,,<l n=&quot;2&quot;>
@@ -37,4 +37,4 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 36,10,1,10,"ChansLas, stanza 2, l.5",inclusi,inclusi,VNQLVQV,i.n.c.l.u.s.i,/V\N.'QL/V\.Q/V\,_,---,---,---,---,---,,,<l n=&quot;5&quot;>
 37,10,2,10,"ChansLas, stanza 2, l.5",schevaler,schevaler,ċEvAlɛr,sch.e.v.a.l.e.r,ċ/E\.v/A\.'l/ɛ\r,_,fro,NOMcom,---,chevalier,DMF,,,
 38,10,3,10,"ChansLas, stanza 2, l.5",iuch,juch,ʤyċ,j.u.ch,ʤ/y\ċ,_,fro,---,---,---,---,lemma_Moelk96:50,,
-39,10,4,10,"ChansLas, stanza 2, l.5",tradur,tradur,trAdor,t.r.a.d.u.r,tr/A\.'d/o\r,_,fro,NOMcom,---,traître,DMF,lemma_Moelk96:50,</l></lg></body></text></group></text>,
+39,10,4,10,"ChansLas, stanza 2, l.5",tradur,tradur,trAdor,t.r.a.d.u.r,tr/A\.'d/o\r,_,fro,NOMcom,---,traître,DMF,lemma_Moelk96:50,</l></lg></div></body></text>,

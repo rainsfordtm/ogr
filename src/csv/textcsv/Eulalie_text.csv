@@ -186,6 +186,6 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,
 185,28,7,nos,nos,noS,n.o.s,n/o\S,_,fro,28,Prn,Prn$$,nous,DMF,nous,PRCper,PRCper,4pmr,"Eulalie, l. 28",,
 186,28,8,laist,laist,LAiST,l.a.i.s.t,L/A\iST,_,fro,28,Vfin,Vfin,laisser,DMF,laisser,VERcjg,VERcjg,subpst3,"Eulalie, l. 28",,
 187,28,9,uenir,venir,vEnir,v.e.n.i.r,v/E\.'n/i\r,|,fro,28,Vinf,Vinf,venir,DMF,venir,VERinf,VERinf,,"Eulalie, l. 28",,</l></lg>
-188,29,1,P_ar,par,pAr,p.a.r,p/A\r,_,fro,29,Pre,Pre,par,DMF,par,PRE,PRE,,"Eulalie, l. 29",<lb/><l n=&quot;29&quot;>,
+188,29,1,P_ar,par,pAr,p.a.r,p/A\r,_,fro,29,Pre,Pre,par,DMF,par,PRE,PRE,,"Eulalie, l. 29",<lb/><lg type=&quot;closing&quot;><l n=&quot;29&quot;>,
 189,29,2,souue,souwe,Souuə,s.o.u.w.e,'S/o\u.u/(ə)\,_,fro,29,Adj,Adj,son4,DMF,son4,DETpos,DETpos,3sfr,"Eulalie, l. 29",,
-190,29,3,clementia,clementia,QRVRVRQVV,c.l.e.m.e.n.t.i.a,QR/V\.R/V\R.Q/V\.'/V\,|,lat,29,N,N,clémence,DMF,clémence,NOMcom,NOMcom,sfr,"Eulalie, l. 29",,</l></body></text>
+190,29,3,clementia,clementia,QRVRVRQVV,c.l.e.m.e.n.t.i.a,QR/V\.R/V\R.Q/V\.'/V\,|,lat,29,N,N,clémence,DMF,clémence,NOMcom,NOMcom,sfr,"Eulalie, l. 29",,</l></lg></body></text>

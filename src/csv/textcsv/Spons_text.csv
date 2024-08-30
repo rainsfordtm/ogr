@@ -83,7 +83,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 82,15,1,atend[et],atendet,–,AtENdɛT,a.t.e.n.d.e.t,/A\.t/E\N.'d/ɛ\T,a].-tt-.è].-n.d-.è[.-t-(e[)(-s-),pro,13,VERcjg,VERcjg,indpst5,aténdre,DOM,attendre,"Spons, l. 13",,,<lb/><l n=&quot;13&quot;>
 83,15,2,un,un,+,yN,u.n,/y\N,,pro,13,DETndf,DETndf,smr,uN,DOM,un,"Spons, l. 13",,,
 84,15,3,es_pos,espos,–,ESpoS,e.s.p.o.s,/E\S.'p/o\S,0.s.p-.ó](-n).s-(o[),pro,13,NOMcom,NOMcom,smr,espós,DOM,époux,"Spons, l. 13",,,
-85,15,4,ih[es]u,jhesu,–,ʤEzy,ih.e.s.u,ʤ/E\.'z/y\,,pro,13,NOMpro,NOMpro,smn,Jésus,wikipedia.fr,---,"Spons, l. 13",,,
+85,15,4,ih[es]u,jhesu,–,ʤEzy,jh.e.s.u,ʤ/E\.'z/y\,,pro,13,NOMpro,NOMpro,smn,Jésus,wikipedia.fr,---,"Spons, l. 13",,,
 86,15,5,saluaire,salvaire,–,SALvAirE,s.a.l.v.a.i.r.e,S/A\L.'v/A\i.r/(E)\,s-.a[.-l.w-.á[.-t-(o[).-r-.0,pro,13,NOMcom,NOMcom,smn,salvadór,DOM,sauveur,"Spons, l. 13",,,
 87,15,6,a,a,+,A,a,/A\,,pro,13,VERcjg,VERcjg,indpst3,avér,DOM,avoir,"Spons, l. 13",,,
 88,15,7,nom,nom,_,nOm,n.o.m,n/O\m,n-.ó[.-m-(e[),pro,13,NOMcom,NOMcom,smr,nóm,DOM,nom,"Spons, l. 13",,</l>,

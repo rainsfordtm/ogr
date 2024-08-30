@@ -34,7 +34,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 33,3,2,3,"EpreuveJudic, l. 3",[et],et,,,,_,lat,CONcoo,CONcoo,---,et,wiktionary,et,,,
 34,3,3,3,"EpreuveJudic, l. 3",aqua,aqua,,,,_,lat,NOMcom,NOMcom,sfr,aqua,wiktionary,eau,,,
 35,3,4,3,"EpreuveJudic, l. 3",benedicta,benedicta,,,,.,lat,VERppe,VERppe,sfr,benedico,wiktionary,bénir,,</s></p>,
-36,3,5,4,"EpreuveJudic, l. 3",A[ntiphona],antiphona,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+36,3,5,4,"EpreuveJudic, l. 3",A[ntiphona],antiphona,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;label&quot;><label><s xml:lang=&quot;lat&quot;>
 37,3,6,5,"EpreuveJudic, l. 3",Nos,nos,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 38,3,7,5,"EpreuveJudic, l. 3",aute[m],autem,,,,_,lat,---,---,---,---,---,---,,,
 39,3,8,5,"EpreuveJudic, l. 3",gloriari,gloriari,,,,.,lat,---,---,---,---,---,---,,</s></item>,
@@ -320,7 +320,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 319,21,14,30,"EpreuveJudic, l. 21",malefactore[m],malefactorem,,,,|,lat,---,---,---,---,---,---,,,
 320,22,1,30,"EpreuveJudic, l. 22",in,in,,,,_,lat,---,---,---,---,---,---,,,<lb n=&quot;22&quot;/>
 321,22,2,30,"EpreuveJudic, l. 22",culpa[m],culpam,,,,.,lat,---,---,---,---,---,---,,</s></p>,
-322,22,3,31,"EpreuveJudic, l. 22",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+322,22,3,31,"EpreuveJudic, l. 22",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;label&quot;><label><s xml:lang=&quot;lat&quot;>
 323,22,4,32,"EpreuveJudic, l. 22",Miserere,miserere,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 324,22,5,32,"EpreuveJudic, l. 22",mei,mei,,,,_,lat,---,---,---,---,---,---,,,
 325,22,6,32,"EpreuveJudic, l. 22",d[eu]s,deus,,,,_,lat,---,---,---,---,---,---,,,
@@ -347,7 +347,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 346,23,13,42,"EpreuveJudic, l. 23",odir,odir,ɔðir,o.d.i.r,/ɔ\.'ð/i\r,|,fro,VERinf,VERinf,---,ouïr,DMF,ouïr,,,
 347,24,1,42,"EpreuveJudic, l. 24",chi,chi,ki,ch.i,k/i\,_,fro,PRNrel,PRNrel,snn,qui,DMF,qui,,,<lb n=&quot;24&quot;/>
 348,24,2,42,"EpreuveJudic, l. 24",ca[m]pist,campist,ċANpiST,c.a.m.p.i.s.t,ċ/A\N.'p/i\ST,.,fro,VERcjg,VERcjg,indpst3,champir,DMF,champir,,</s></p>,
-349,24,3,43,"EpreuveJudic, l. 24",a[ntiphona],antiphona,,,,_,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+349,24,3,43,"EpreuveJudic, l. 24",a[ntiphona],antiphona,,,,_,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;label&quot;><label><s xml:lang=&quot;lat&quot;>
 350,24,4,44,"EpreuveJudic, l. 24",lux,lux,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 351,24,5,44,"EpreuveJudic, l. 24",fulgebit,fulgebit,,,,.,lat,---,---,---,---,---,---,,</s></item>,
 352,24,6,45,"EpreuveJudic, l. 24",p[salmus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<label><s xml:lang=&quot;lat&quot;>
@@ -411,6 +411,6 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 410,28,11,63,"EpreuveJudic, l. 28",e,e,E,e,/E\,+,fro,PRE,PRE,---,en,DMF,en,,,
 411,28,12,63,"EpreuveJudic, l. 28",l,l,L,l,,_,fro,DETdef,DETdef,smr,le,DMF,le,,,
 412,28,13,63,"EpreuveJudic, l. 28",ca[m]p,camp,ċANP,c.a.m.p,ċ/A\NP,.,fro,NOMcom,NOMcom,smr,champ,DMF,champ,,</s></p>,
-413,28,14,64,"EpreuveJudic, l. 28",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;litany&quot;><label><s xml:lang=&quot;lat&quot;>
+413,28,14,64,"EpreuveJudic, l. 28",ps[almus],psalmus,,,,.,lat,---,---,---,---,---,---,,</s></label>,<p><list type=&quot;label&quot;><label><s xml:lang=&quot;lat&quot;>
 414,28,15,65,"EpreuveJudic, l. 28",Quicu[m]q[ue],quicumque,,,,_,lat,---,---,---,---,---,---,,,<item><s xml:lang=&quot;lat&quot;>
 415,28,16,65,"EpreuveJudic, l. 28",uult,vult,,,,.|,lat,---,---,---,---,---,---,,</s></item></list></p></body></text>,

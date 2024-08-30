@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
-1,1,1,1,"Alba, l. 1",Phebi,phebi,_,QVQV,ph.e.b.i,'Q/V\.Q/V\,lat,ETR,---,---,---,---,,,<text><body><pb n=&quot;50v&quot;/><lb/><lg type=&quot;stanza&quot;><l xml:lang=&quot;lat&quot; n=&quot;1&quot;>
+1,1,1,1,"Alba, l. 1",Phebi,phebi,_,QVQV,ph.e.b.i,'Q/V\.Q/V\,lat,ETR,---,---,---,---,,,<text><body><pb n=&quot;50v&quot;/><lb/><lg type=&quot;stanza&quot; n=&quot;1&quot;><l xml:lang=&quot;lat&quot; n=&quot;1&quot;>
 2,1,2,1,"Alba, l. 1",claro,claro,_,QLVRV,c.l.a.r.o,'QL/V\.R/V\,lat,ETR,---,---,---,---,,,
 3,1,3,1,"Alba, l. 1",nondum,nondum,_,NVNQVN,n.o.n.d.u.m,'N/V\N.Q/V\N,lat,ETR,---,---,---,---,,,
 4,1,4,1,"Alba, l. 1",orto,orto,_,VRQV,o.r.t.o,'/V\R.Q/V\,lat,ETR,---,---,---,---,,,
@@ -27,7 +27,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 26,5,5,5,"Alba, l. 5",mira,mira,+,mirA,m.i.r.a,'m/i\.r/(A)\,pro,VERcjg,indpst3,mirar,DOM,mirer,,,
 27,5,6,5,"Alba, l. 5",clar,clar,_,kLAr,c.l.a.r,kL/A\r,pro,ADVgen,---,clar,DOM,clair,,,
 28,5,7,5,"Alba, l. 5",tenebras,tenebras,;,tEnɛbrAS,t.e.n.e.b.r.a.s,t/E\.'n/ɛ\.br/A\S,pro,NOMcom,pfr,tenèbra,DOM,ténèbres,,</l></lg>,
-29,6,1,6,"Alba, l. 6",En,en,_,VN,e.n,/V\N,lat,ETR,---,---,---,---,,,<lg type=&quot;stanza&quot;><l xml:lang=&quot;lat&quot; n=&quot;6&quot;>
+29,6,1,6,"Alba, l. 6",En,en,_,VN,e.n,/V\N,lat,ETR,---,---,---,---,,,<lg type=&quot;stanza&quot; n=&quot;2&quot;><l xml:lang=&quot;lat&quot; n=&quot;6&quot;>
 30,6,2,6,"Alba, l. 6",incautos,incautos,_,VNQVQVQ,i.n.c.au.t.o.s,/V\N.'Q/V\.Q/V\Q,lat,ETR,---,---,---,---,,,
 31,6,3,6,"Alba, l. 6",ostium,ostium,_,VQQVVN,o.s.t.i.u.m,'/V\Q.Q/V\./V\N,lat,ETR,---,---,---,---,,,
 32,6,4,6,"Alba, l. 6",insidie,insidie,|,VNQVQVV,i.n.s.i.d.i.e,/V\N.'Q/V\.Q/V\.'/V\,lat,ETR,---,---,---,---,,</l>,
@@ -53,7 +53,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 52,10,5,10,"Alba, l. 10",mira,mira,+,mirA,m.i.r.a,'m/i\.r/(A)\,pro,VERcjg,indpst3,mirar,DOM,mirer,,,
 53,10,6,10,"Alba, l. 10",clar,clar,_,kLAr,c.l.a.r,kL/A\r,pro,ADVgen,---,clar,DOM,clair,,,
 54,10,7,10,"Alba, l. 10",tenebras,tenebras,|,tEnɛbrAS,t.e.n.e.b.r.a.s,t/E\.'n/ɛ\.br/A\S,pro,NOMcom,pfr,tenèbra,DOM,ténèbres,,</l></lg>,
-55,11,1,11,"Alba, l. 11",Ab,ab,+,VQ,a.b,/V\Q,lat,ETR,---,---,---,---,,,<lb/><lg type=&quot;stanza&quot;><l xml:lang=&quot;lat&quot; n=&quot;11&quot;>
+55,11,1,11,"Alba, l. 11",Ab,ab,+,VQ,a.b,/V\Q,lat,ETR,---,---,---,---,,,<lb/><lg type=&quot;stanza&quot; n=&quot;2&quot;><l xml:lang=&quot;lat&quot; n=&quot;11&quot;>
 56,11,2,11,"Alba, l. 11",arcturo,arcturo,_,VRQQVRV,a.r.c.t.u.r.o,/V\RQ.'Q/V\.R/V\,lat,ETR,---,---,---,---,,,
 57,11,3,11,"Alba, l. 11",disgregat[ur],disgregatur,_,QVQQRVQVQVR,d.i.s.g.r.e.g.a.t.u.r,Q/V\.QQR/V\.'Q/V\.Q/V\R,lat,ETR,---,---,---,---,,,
 58,11,4,11,"Alba, l. 11",aquilo,aquilo,;,VQRVLV,a.q.u.i.l.o,'/V\.QR/V\.'L/V\,lat,ETR,---,---,---,---,,</l>,
