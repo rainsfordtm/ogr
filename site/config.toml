@@ -51,6 +51,9 @@ summaryLength = 30
 
   ## You can enable to add anchor links to header elements
   enable_anchor_link = true
+  
+  ## Added custom css
+  custom_css = ["css/ogr.css"]
 
   [params.homepage_meta_tags]
     meta_description = "The Old Gallo-Romance corpus contains annotated transcriptions of all Gallo-Romance manuscripts copied before c1130."
@@ -63,3 +66,5 @@ summaryLength = 30
   [params.logo]
       mobile = "/images/ogre-face-black.png"
       standard  = "/images/ogre-face-black.png"
+
+  

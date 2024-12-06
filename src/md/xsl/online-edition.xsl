@@ -3,23 +3,100 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tei="http://www.tei-c.org/ns/1.0"
     exclude-result-prefixes="xs" version="2.0">
 
-    <xsl:output method="text" encoding="UTF-8" indent="no"/>
+    <xsl:output method="html" encoding="UTF-8" indent="no"/>
+    
+    <!-- TODO: add header for hugo -->
 
     <xsl:template match="/">
-        <!-- Adapted from TXM default stylesheets, combines edition and pager -->
-        <!-- xsl:result-document href="{$output-directory}/{$current-file-name}_1.html/" -->
-        <html>
-            <head>
-                <title>
-                    <xsl:value-of select="//tei:text[1]/@id"/>
-                </title>
-                <meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/>
-                <meta name="description" content="{//tei:text/descendant::tei:w[1]/@id}"/>
-            </head>
-            <xsl:apply-templates select="descendant::tei:text"/>
-        </html>
-        <!-- /xsl:result-document -->
+        <!-- Select text node -->
+        <xsl:apply-templates select="descendent::tei:text"/>
     </xsl:template>
+    
+    <xsl:template match="tei:text">
+        <!-- Set up two-column layout -->
+        <div class="ogr-row">
+            <div class="ogr-column">
+                <xsl:apply-templates mode="#norm"/>
+            </div>
+            <div class="ogr-column">
+                <xsl:apply-template mode="#dipl"/>
+            </div>
+        </div>
+    </xsl:template>
+    
+    <!-- TEXT STRUCTURES (ps, abs, lgs) -->
+    
+    <xsl:template match="tei:p | tei:ab | tei:lg" mode="#all">
+        <!-- Turn abs, ps, lgs into HTML p elements -->
+        <xsl:element name="p">
+            <xsl:attribute name="class">
+                <!-- Class contains ogr-lang-X and ogr-Y, where X is the
+                language and Y is the original block type -->
+                <xsl:text>ogr-lang-</xsl:text>
+                <xsl:choose>
+                    <xsl:when test="@lang">
+                        <xsl:value-of select="@lang"/>
+                    </xsl:when>
+                    <xsl:otherwise>
+                        <xsl:value-of select="ancestor::*[@lang][position() = 1]"/>
+                    </xsl:otherwise>
+                </xsl:choose>
+                <xsl:text> ogr-</xsl:text>
+                <xsl:value-of="./parent::node()/local-name()"/>
+            <xsl:apply-templates mode="#current"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <!-- Verse lines -->
+    
+    <xsl:template match="tei:l" mode="#all">
+        <xsl:variable name="lineno" select="@n"/>
+        <!-- Print words first -->
+        <xsl:apply-templates mode="#current"/>
+        <span class="ogr-lineno">
+            <xsl:if test="ends-with(@n, '0') or ends-with(@n, '5')">
+                <xsl:value-of select="@n"/>
+            </xsl:if>
+        </span>
+        <xsl:if test="following-sibling::tei:l">
+            <br/>
+        </xsl:if>
+    </xsl:template>
+    
+    <!-- WORDS -->
+    
+    <xsl:template match="tei:w" mode="#all">
+        <xsl:element name="span">
+            <xsl:attribute name="id" select="@id"/>
+            <xsl:attribute name="class">ogr-w</xsl:attribute>
+            <!-- Place in italics any word whose lang tag does not correspond to the 
+                language of the closest ancestor node with a lang specification.-->
+            <xsl:if test="@lang != ancestor::node()[@lang != ''][position()=1]/@lang">
+                <xsl:attribute name="style">font-style: italic;</xsl:attribute>
+            </xsl:if>
+            <xsl:attribute name="title">
+                <xsl:value-of select="@lemma"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="@pos"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="@msd"/>
+            </xsl:attribute>
+            <xsl:apply-templates select="@ana" mode="#current"/>
+            <xsl:apply-templates select="text()" mode="#current"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="@ana" mode="#dipl"/>
+        <!-- TODO: Process @ana to derive @dipl form -->
+        
+    </xsl:template>
+    
+    <xsl:template match="text()" mode"#norm"/>
+        <xsl:value-of select="."/>
+        <xsl:text> </xsl:text>
+    </xsl:template>
+    
+    <!-- TODO: complete stylesheet -->
 
     <!-- Theatre texts -->
     
@@ -28,56 +105,6 @@
         <h3>
             <xsl:apply-templates/>
         </h3>
-    </xsl:template>
-    
-    <xsl:template match="tei:ab | tei:lg">
-        <xsl:variable name="this-ab" select="."/>
-        <!-- Add language attribute and class from parent element to table -->
-        <xsl:element name="table">
-            <xsl:if test="@lang">
-                <xsl:attribute name="lang" select="@lang"/>
-            </xsl:if>
-            <xsl:attribute name="class" select="./parent::node()/local-name()"/>
-            <tr>
-                <th/>
-                <th>
-                    <xsl:element name="span">
-                        <xsl:attribute name="title">
-                            <xsl:apply-templates select="@*[not(name() = 'n')]" mode="title-string"
-                            />
-                        </xsl:attribute>
-                        <xsl:value-of select="@n"/>
-                    </xsl:element>
-                    <!-- Add heading if there is one -->
-                    <xsl:apply-templates select="tei:head"/>
-                </th>
-            </tr>
-            <!-- Everything except "head" -->
-            <xsl:apply-templates select="tei:*[local-name()!='head']"/>
-        </xsl:element>
-    </xsl:template>
-
-    <xsl:template match="tei:l">
-        <xsl:variable name="lineno" select="@n"/>
-        <tr>
-            <td class="lineno">
-                <xsl:choose>
-                    <xsl:when test="ends-with(@n, '0') or ends-with(@n, '5')">
-                        <xsl:value-of select="@n"/>
-                    </xsl:when>
-                    <xsl:otherwise>
-                        <xsl:text>&#xa0;&#xa0;&#xa0;&#xa0;</xsl:text>
-                    </xsl:otherwise>
-                </xsl:choose>
-            </td>
-            <xsl:element name="td">
-                <xsl:attribute name="class">l</xsl:attribute>
-                <xsl:if test="@lang">
-                    <xsl:attribute name="lang" select="@lang"/>
-                </xsl:if>
-                <xsl:apply-templates/>
-            </xsl:element>
-        </tr>
     </xsl:template>
     
     <xsl:template match="tei:secl">
@@ -124,43 +151,7 @@
 
     <!--Render TEI elements -->
 
-    <xsl:template match="tei:w">
-        <xsl:element name="span">
-            <xsl:attribute name="id" select="@id"/>
-            <xsl:attribute name="class">w</xsl:attribute>
-            <!-- Place in italics any word whose lang tag does not correspond to the 
-                language of the closest ancestor node with a lang specification.-->
-            <xsl:if test="txm:ana[@type = '#lang']/text() != ./ancestor::node()[@lang != ''][position()=1]/@lang">
-                <xsl:attribute name="style">font-style: italic;</xsl:attribute>
-            </xsl:if>
-            <xsl:attribute name="title">
-                <xsl:apply-templates
-                    select="txm:ana[@type = ('#dipl', '#pos_syn', '#morph', '#lemma', '#lemma_dmf')]"
-                    mode="title-string"/>
-            </xsl:attribute>
-            <xsl:value-of select="txm:form"/>
-        </xsl:element>
-        <xsl:text> </xsl:text>
-    </xsl:template>
 
-    <xsl:template match="txm:ana" mode="title-string">
-        <xsl:value-of select="substring(@type, 2)"/>
-        <xsl:text>:</xsl:text>
-        <xsl:value-of select="text()"/>
-        <xsl:if test="not(position() = last())">
-            <xsl:text> </xsl:text>
-        </xsl:if>
-    </xsl:template>
-
-    <xsl:template match="@*" mode="title-string">
-        <!-- For <ab> properties -->
-        <xsl:value-of select="name()"/>
-        <xsl:text>:</xsl:text>
-        <xsl:value-of select="."/>
-        <xsl:if test="not(position() = last())">
-            <xsl:text> </xsl:text>
-        </xsl:if>
-    </xsl:template>
 
     <xsl:template match="tei:pb | tei:cb">
         <xsl:element name="span">
@@ -185,17 +176,6 @@
         <xsl:text>:</xsl:text>
         <xsl:value-of select="@n"/>
         <xsl:text>]</xsl:text>
-    </xsl:template>
-
-    <xsl:template match="tei:p">
-        <!-- Turn ps into an HTML p; add xml:lang if present; class inherited from parent element -->
-        <xsl:element name="p">
-            <xsl:if test="@lang">
-                <xsl:attribute name="lang" select="@lang"/>
-            </xsl:if>
-            <xsl:attribute name="class" select="./parent::node()/local-name()"/>
-            <xsl:apply-templates/>
-        </xsl:element>
     </xsl:template>
 
     <xsl:template match="tei:gap|tei:supplied">
@@ -252,15 +232,6 @@
         </xsl:if>
     </xsl:template>
 
-    <!-- Copy everything templates (NOT for elements) -->
-
-   
-    <xsl:template match="@*">
-        <xsl:copy/>
-    </xsl:template>
-
-    <xsl:template match="text()">
-        <xsl:copy/>
-    </xsl:template>
+    <!-- NO COPY EVERYTHING TEMPLATES -->
 
 </xsl:stylesheet>
