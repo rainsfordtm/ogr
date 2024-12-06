@@ -1,0 +1,1297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Annotation 2: Segments - Old Gallo-Romance Corpus</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.aad43d4ecb69a264f2539b89d7f779d5f3cdff22e7585fe5fc3c77272f1c2696.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-access">
+      <a href="/docs/download/">
+        <span>Access</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-annotation">
+      <a href="/docs/annotation/">
+        <span>Annotation</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-texts">
+      <a href="/docs/texts/">
+        <span>Texts</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/docs/about/">
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/docs/contact/">
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><img alt="Logo" src="/images/ogre-face-black.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/"><img alt="Logo" src="/images/ogre-face-black.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-access">
+      <a href="/docs/download/">
+        <span>Access</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-annotation">
+      <a href="/docs/annotation/">
+        <span>Annotation</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-texts">
+      <a href="/docs/texts/">
+        <span>Texts</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/docs/about/">
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/docs/contact/">
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>OGR Corpus</h4>
+  <ul>
+    
+    <li class="">
+      <a href="/docs/download/">Access</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/presentation/">Presentation</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation/">Annotation 1: Overview</a>
+    </li>
+    
+    <li class="active ">
+      <a href="/docs/annotation-segs/">Annotation 2: Segments</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation-word/">Annotation 3: Words</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation-sylls/">Annotation 4: Syllables and Meter</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/sample-queries/">Queries (TXM)</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/texts/">Texts</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/about/">About</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/contact/">Contact</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Annotation 2: Segments</h1>
+<div class="content anchor-link-enabled">
+  <h2 id="1-basis-of-the-reconstruction">1. Basis of the reconstruction</h2>
+<p>The smallest unit of tokenization in the OGR is the <strong>Segment</strong> (<code>seg</code>). The <strong>Segments</strong> are <em>not</em> intended to provide
+a phonetic transcription of the text but instead a consistent and phonemically-informed interpretation
+of the spelling, which in these early texts is broadly phonemic. The segmental annotation respects the following
+principles:</p>
+<ol>
+<li>Each <strong>Segment</strong> is represented by at least one character in the text, i.e. there are no unwritten <strong>Segments</strong>.</li>
+<li>There are no unpronounced characters, with the exception of those within digraphs and Latin initial <em>h</em>.</li>
+<li>Each <strong>Segment</strong> is maximally underspecified. In all contexts in which a particular phonological feature is
+non-distinctive (e.g. obstruent voicing in word-final position), it is left underspecified in the annotation.
+This also applies where the precise phonetic value of a <strong>Segment</strong> is
+uncertain (e.g. in Latinate loanwords or proper names).</li>
+<li>This notwithstanding, where phonological features are distinctive, this is reflected in the
+<strong>Segment</strong> annotation even if it is not shown in the spelling. E.g. the letter <em>e</em> in tonic syllables
+may be transcribed /e/, /ɛ/, or /æ/.</li>
+<li>Although the phonemic symbols have a standard value (see below) the <strong>Segment</strong> annotation is not standardized
+across the corpus. The same word may be transcribed differently in different texts to reflect graphical and
+phonological differences.</li>
+</ol>
+<p>More extensive documentation of the segmental annotation will be found in published scientific presentations of the
+corpus.</p>
+<h2 id="2-symbols-and-features">2. Symbols and features</h2>
+<p><strong>Segment</strong>-level annotation is contained in three core tags:</p>
+<ul>
+<li><code>seg_plus</code> and <code>seg_minus</code>: two comma-separated lists of alphabetically-ordered phonological features, which are specified as
+&ldquo;+&rdquo; or &ldquo;-&rdquo; respectively for the <strong>Segment</strong>. The more features included on these lists, the more specified the segment.</li>
+<li><code>seg_phoneme</code>: a user-friendly symbol denoting a particular matrix of phonological features. IPA symbols are generally
+used with their standard value. Underspecified segments are represented by non-IPA symbols or capitals.</li>
+</ul>
+<p>It is recommended to use the <code>seg_plus</code> and <code>seg_minus</code> tags when searching for classes of sounds rather than
+attempting to list possible <code>seg_phonemes</code>, e.g.</p>
+<ul>
+<li>Find all vowels and glides: <code>seg_minus=/.*cons.*/</code></li>
+<li>Find all coda nasals: <code>onc=&quot;C&quot; _i_ seg_plus=/.*nas.*/</code></li>
+<li>Find all word-final obstruents: <code>word _r_ seg_minus=/.*son.*/</code></li>
+<li>Find all word-final coronal stops: <code>seg_plus=/.*CORONAL.*/ _=_ seg_minus=/.*cont,.*son,.*strident.*/ &amp; word _r_ #1</code></li>
+</ul>
+<p>In the <strong>TXM</strong> version of the corpus, <strong>Segment</strong>-level annotation is available through the word-level <code>phon</code>
+tag, which concatenates all the <code>seg_phonemes</code> in the word as a single string. The features in <code>seg_plus</code> and
+<code>seg_minus</code> are not available.</p>
+<h3 id="21-vowels-and-glides">2.1 Vowels and glides</h3>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>IPA</th>
+<th>cons</th>
+<th>son</th>
+<th>nas</th>
+<th>LABIAL</th>
+<th>round</th>
+<th>DORSAL</th>
+<th>high</th>
+<th>low</th>
+<th>back</th>
+<th>atr</th>
+<th>voice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>V</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>U</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>O</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>u</td>
+<td>u,w</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>o</td>
+<td>o,u</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>ɔ</td>
+<td>ɔ</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+</tr>
+<tr>
+<td>y</td>
+<td>y</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>i</td>
+<td>i,j</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>Æ</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>E</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>e</td>
+<td>e</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+</tr>
+<tr>
+<td>ɛ</td>
+<td>ɛ</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+</tr>
+<tr>
+<td>ə</td>
+<td>ə</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>A</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>a</td>
+<td>a</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+</tr>
+<tr>
+<td>æ</td>
+<td>æ</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+</tr>
+</tbody>
+</table>
+<h3 id="22-consonants">2.2 Consonants</h3>
+<table>
+<thead>
+<tr>
+<th>Symbol</th>
+<th>IPA</th>
+<th>cons</th>
+<th>son</th>
+<th>cont</th>
+<th>strident</th>
+<th>lat</th>
+<th>nas</th>
+<th>LABIAL</th>
+<th>CORONAL</th>
+<th>ant</th>
+<th>dist</th>
+<th>DORSAL</th>
+<th>back</th>
+<th>LARYNGEAL</th>
+<th>voice</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>C</td>
+<td>C</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>h</td>
+<td>h</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Z</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>D</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>T</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>t</td>
+<td>t</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>d</td>
+<td>d</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>Ç</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ʦ</td>
+<td>ʦ</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>ʣ</td>
+<td>ʣ</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>Č</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ʧ</td>
+<td>ʧ</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>ʤ</td>
+<td>ʤ</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>S</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>s</td>
+<td>s</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>z</td>
+<td>z</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>ð</td>
+<td>ð,θ</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>G</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>K</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>k</td>
+<td>k</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>g</td>
+<td>g</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>ɣ</td>
+<td>ɣ</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>Ċ</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>ċ</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>ġ</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>B</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>P</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>p</td>
+<td>p</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>b</td>
+<td>b</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>F</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>f</td>
+<td>f</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>-</td>
+</tr>
+<tr>
+<td>v</td>
+<td>v</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>ß</td>
+<td>ß</td>
+<td>+</td>
+<td>-</td>
+<td>+</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>N</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>n</td>
+<td>n</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>ɲ</td>
+<td>ɲ</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>m</td>
+<td>m</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>-</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>L</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>l</td>
+<td>l</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>ʎ</td>
+<td>ʎ</td>
+<td>+</td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+</tr>
+<tr>
+<td>r</td>
+<td>r</td>
+<td>+</td>
+<td>+</td>
+<td>+</td>
+<td></td>
+<td>-</td>
+<td>-</td>
+<td></td>
+<td>+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          <ul>
+            <li class="zerostatic">© Thomas Rainsford, ILR, Universität Stuttgart, 2021</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.1237ff71925bb8625c97a9af8db4c54525258bedfd7c47493daaff723bea755e.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>

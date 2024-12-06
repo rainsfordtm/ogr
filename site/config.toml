@@ -1,0 +1,65 @@
+baseURL = "/"
+languageCode = "en-gb"
+title = "Old Gallo-Romance Corpus"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Access"
+    url = "/docs/download/"
+    weight = 2
+    
+[[menu.main]]
+    name = "Annotation"
+    url = "/docs/annotation/"
+    weight = 3
+    
+[[menu.main]]
+    name = "Texts"
+    url = "/docs/texts/"
+    weight = 4
+    
+[[menu.main]]
+    name = "About"
+    url = "/docs/about/"
+    weight = 5
+    
+[[menu.main]]
+    name = "Contact"
+    url = "/docs/contact/"
+    weight = 6
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = 'Access and documentation'
+  homepage_intro = 'The Old Gallo-Romance (OGR) corpus contains annotated transcriptions of all Gallo-Romance manuscripts copied before c1130.'
+  homepage_image = '/images/ogr-banner.jpg'
+
+  ## You can enable to add anchor links to header elements
+  enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "The Old Gallo-Romance corpus contains annotated transcriptions of all Gallo-Romance manuscripts copied before c1130."
+    meta_og_title = "Old Gallo-Romance Corpus"
+    meta_og_type = "website"
+    meta_og_url = "https://www.ogr-corpus.org"
+    meta_og_image = "https://www.ogr-corpus.org/images/ogr-banner.jpg"
+    meta_og_description = "The OGR is a corpus of Old Gallo-Romance texts."
+
+  [params.logo]
+      mobile = "/images/ogre-face-black.png"
+      standard  = "/images/ogre-face-black.png"

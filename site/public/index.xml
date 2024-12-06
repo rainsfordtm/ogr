@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Old Gallo-Romance Corpus</title>
+    <link>/</link>
+    <description>Recent content on Old Gallo-Romance Corpus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Access</title>
+      <link>/docs/download/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/download/</guid>
+      <description>Access the corpus</description>
+    </item>
+    
+    <item>
+      <title>Presentation</title>
+      <link>/docs/presentation/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/presentation/</guid>
+      <description>Read about the corpus and why it was created</description>
+    </item>
+    
+    <item>
+      <title>Annotation 1: Overview</title>
+      <link>/docs/annotation/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/annotation/</guid>
+      <description>Read the documentation of the annotation scheme.</description>
+    </item>
+    
+    <item>
+      <title>Annotation 2: Segments</title>
+      <link>/docs/annotation-segs/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/annotation-segs/</guid>
+      <description>Segment-level annotation.</description>
+    </item>
+    
+    <item>
+      <title>Annotation 3: Words</title>
+      <link>/docs/annotation-word/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/annotation-word/</guid>
+      <description>Word-level annotation.</description>
+    </item>
+    
+    <item>
+      <title>Annotation 4: Syllables and Meter</title>
+      <link>/docs/annotation-sylls/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/annotation-sylls/</guid>
+      <description>Syllable-level and metrical annotation</description>
+    </item>
+    
+    <item>
+      <title>Queries (TXM)</title>
+      <link>/docs/sample-queries/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/sample-queries/</guid>
+      <description>Some example queries to try out in TXM.</description>
+    </item>
+    
+    <item>
+      <title>Texts</title>
+      <link>/docs/texts/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/texts/</guid>
+      <description>Texts included in the corpus</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/docs/about/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/about/</guid>
+      <description>Citation form, license, sources and copyright, version history</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/docs/contact/</link>
+      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/contact/</guid>
+      <description>My contact details</description>
+    </item>
+    
+  </channel>
+</rss>

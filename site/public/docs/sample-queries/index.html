@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Queries (TXM) - Old Gallo-Romance Corpus</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="icon" href="/favicon.png">
+
+  
+  
+  <link rel="stylesheet" href="/css/style.min.aad43d4ecb69a264f2539b89d7f779d5f3cdff22e7585fe5fc3c77272f1c2696.css">
+  
+
+  
+
+</head>
+
+<body class='page page-default-single'>
+  <div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-access">
+      <a href="/docs/download/">
+        <span>Access</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-annotation">
+      <a href="/docs/annotation/">
+        <span>Annotation</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-texts">
+      <a href="/docs/texts/">
+        <span>Texts</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/docs/about/">
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/docs/contact/">
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+  <div class="wrapper">
+    <div class='header'>
+  <div class="container">
+    <div class="logo">
+      <a href="/"><img alt="Logo" src="/images/ogre-face-black.png" /></a>
+    </div>
+    <div class="logo-mobile">
+      <a href="/"><img alt="Logo" src="/images/ogre-face-black.png" /></a>
+    </div>
+    <div id="main-menu" class="main-menu">
+  <ul>
+    
+    
+    <li class="menu-item-home">
+      <a href="/">
+        <span>Home</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-access">
+      <a href="/docs/download/">
+        <span>Access</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-annotation">
+      <a href="/docs/annotation/">
+        <span>Annotation</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-texts">
+      <a href="/docs/texts/">
+        <span>Texts</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-about">
+      <a href="/docs/about/">
+        <span>About</span>
+      </a>
+    </li>
+    
+    <li class="menu-item-contact">
+      <a href="/docs/contact/">
+        <span>Contact</span>
+      </a>
+    </li>
+    
+  </ul>
+</div>
+    <button id="toggle-main-menu-mobile" class="hamburger hamburger--slider" type="button">
+  <span class="hamburger-box">
+    <span class="hamburger-inner"></span>
+  </span>
+</button>
+  </div>
+</div>
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    <div class="container pt-2 pt-md-6 pb-3 pb-md-6">
+      <div class="row">
+        <div class="col-12 col-md-3 mb-3">
+          <div class="sidebar">
+            
+<div class="docs-menu">
+  <h4>OGR Corpus</h4>
+  <ul>
+    
+    <li class="">
+      <a href="/docs/download/">Access</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/presentation/">Presentation</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation/">Annotation 1: Overview</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation-segs/">Annotation 2: Segments</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation-word/">Annotation 3: Words</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/annotation-sylls/">Annotation 4: Syllables and Meter</a>
+    </li>
+    
+    <li class="active ">
+      <a href="/docs/sample-queries/">Queries (TXM)</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/texts/">Texts</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/about/">About</a>
+    </li>
+    
+    <li class="">
+      <a href="/docs/contact/">Contact</a>
+    </li>
+    
+  </ul>
+</div>
+
+          </div>
+        </div>
+        <div class="col-12 col-md-9">
+          
+<h1 class="title">Queries (TXM)</h1>
+<div class="content anchor-link-enabled">
+  <p><em>ANNIS example queries can be found in the ANNIS portal</em>.</p>
+<h3 id="manuscript-word-division">Manuscript word division</h3>
+<ul>
+<li>Find all cases of token agglutination in the manuscript:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[wd_div=&#34;\+&#34;]{1,4} []
+</code></pre></div><ul>
+<li>Find all tokens split into multiple words in the manuscript (hint: set the concordance to display <code>word_dipl</code> rather than <code>word</code>):</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[dipl=&#34;.*[_\|].*&#34;]
+</code></pre></div><h3 id="morphophonology">Morphophonology</h3>
+<ul>
+<li>Find all cases of <em>et</em> &lsquo;and&rsquo; and <em>ad</em> &lsquo;to&rsquo; written with a final dental before a vowel:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[lemma_dmf=&#34;et|à&#34; &amp; phon=&#34;.*[ðd]&#34;] [phon=&#34;[aeiouyæɛɔAEIOUÆ].*&#34;]
+</code></pre></div><ul>
+<li>Find all cases of <em>ne</em> &lsquo;not&rsquo; before a vowel-initial verb:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[lemma_dmf=&#34;ne&#34;] [phon=&#34;[aeiouyæɛɔAEIOUÆ].*&#34; &amp; pos_syn=&#34;VERcjg&#34;]
+</code></pre></div><ul>
+<li>Find all prosodically enclitic pronouns:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[phon=&#34;.*[aeiouyæɛɔəAEIOUÆ]&#34;] [pos=&#34;PRCper|PRCadv&#34; &amp; phon=&#34;[^aeiouyæɛɔəAEIOUÆ]+&#34;] [phon=&#34;[^aeiouyæɛɔAEIOUÆ].*&#34;]
+</code></pre></div><ul>
+<li>Find all prosodically enclitic pronouns which are <strong>not</strong> agglutinated with the host in the manuscript:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[phon=&#34;.*[aeiouyæɛɔəAEIOUÆ]&#34; &amp; wd_div!=&#34;\+&#34;] [pos=&#34;PRCper|PRCadv&#34; &amp; phon=&#34;[^aeiouyæɛɔəAEIOUÆ]+&#34;] [phon=&#34;[^aeiouyæɛɔAEIOUÆ].*&#34;]
+</code></pre></div><h3 id="morphology-and-morphosyntax">Morphology and morphosyntax</h3>
+<ul>
+<li>Find all occurrences of verb forms descended from the Latin pluperfect indicative:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[morph=&#34;indpqp.*&#34;]
+</code></pre></div><ul>
+<li>Find all verbs in the second-person singular:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[morph=&#34;.*2&#34;]
+</code></pre></div><ul>
+<li>Find all nouns in the masculine nominative singular not ending in <em>-s</em>:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[pos_syn=&#34;NOMcom&#34; &amp; morph=&#34;smn&#34; &amp; word!=&#34;.*[szx]&#34;]
+</code></pre></div><ul>
+<li>Find all forms of the verb <em>raiembre</em> &lsquo;to redeem&rsquo; in both languages:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[lemma_dmf=&#34;raiembre&#34;]
+</code></pre></div><ul>
+<li>Find all postverbal object pronouns:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[pos=&#34;VERcjg&#34;] [pos=&#34;PRCper|PRCadv&#34; &amp; morph!=&#34;.*n&#34;]{1,3}
+</code></pre></div><h3 id="meter-and-versification">Meter and versification</h3>
+<p>These queries use the word-level metrical annotation for TXM.
+See <a href="/docs/annotation-sylls#4-the-txm-version">Annotation 4: Syllables and Meter</a>.</p>
+<ul>
+<li>Find all lines of verse with [ɔ] at the rhyme</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[phon=&#34;.*[^i]ɔi?[^aeiouyæɛɔUÆ]*&#34; &amp; metpos=&#34;.*r&#34;] 
+</code></pre></div><ul>
+<li>Find cases of line-initial object pronouns, i.e. possible exceptions to the Tobler-Mussafia law:</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[pos=&#34;PRCper|PRCadv&#34; &amp; metpos=&#34;01.*&#34;] [pos=&#34;PRCper|PRCadv&#34;]{0,3} [pos=&#34;VERcjg&#34;]
+</code></pre></div><ul>
+<li>Find all paroxytones at the end of the line</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[prosody=&#34;.po&#34; &amp; metpos=&#34;.*r&#34;]
+</code></pre></div><ul>
+<li>Find all cases of epic caesura in decasyllables
+(Due to a bug in version 0.4 of the corpus not all instances are found; this will be corrected
+in a future release.)</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[line_met=&#34;10.e.&#34; &amp; metpos=&#34;.*c&#34;]
+</code></pre></div><ul>
+<li>Find all octosyllables stressed on the fourth syllable</li>
+</ul>
+<div class="highlight"><pre class="chroma"><code class="language-fallback" data-lang="fallback">[line_met=&#34;08.*&#34; &amp; ((metpos=&#34;.*04..&#34; &amp; prosody=&#34;.ox&#34;) | (metpos=&#34;.*05..&#34; &amp; prosody=&#34;.po&#34;))]
+</code></pre></div>
+</div>
+</div>
+
+        </div>
+      </div>
+    </div>
+    
+  </div>
+
+  <div class="sub-footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          <ul>
+            <li class="zerostatic">© Thomas Rainsford, ILR, Universität Stuttgart, 2021</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  
+
+  
+  
+
+  
+  <script type="text/javascript" src="/js/scripts.min.1237ff71925bb8625c97a9af8db4c54525258bedfd7c47493daaff723bea755e.js"></script>
+  
+
+  
+  
+  
+    
+  
+
+
+</body>
+
+</html>
