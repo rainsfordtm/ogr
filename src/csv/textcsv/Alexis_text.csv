@@ -497,7 +497,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 496,65,2,lui,lui,Lyi,l.u.i,L/y\i,|,fro,65,PRCper,PRCper,3smi,lui,DMF,lui,"Alexis, l. 65",,
 497,65,3,est,est,EST,e.s.t,/E\ST,_,fro,65,VERcjg,VERcjg,indpst0,être,DMF,être,"Alexis, l. 65",,<lb/>
 498,65,4,tart,tart,tarT,t.a.r.t,t/a\rT,_,fro,65,ADVgen,ADVgen,,tard,DMF,tard,"Alexis, l. 65",,
-499,65,5,quet,quet,kEð,qu.e.d,k/E\ð,_,fro,65,CONsub,CONsub,,que,DMF,que,"Alexis, l. 65",,
+499,65,5,quet,quet,kEð,qu.e.t,k/E\ð,_,fro,65,CONsub,CONsub,,que,DMF,que,"Alexis, l. 65",,
 500,65,6,il,il,iL,i.l,/i\L,_,fro,65,PRNper,PRNper,3smn,il,DMF,il,"Alexis, l. 65",,
 501,65,7,s,s,S,s,S/\,+,fro,65,PRCper,PRCper,3smr,se,DMF,se,"Alexis, l. 65",,
 502,65,8,en,en,ÆN,e.n,/Æ\N,_,fro,65,PRCadv,PRCadv,,en2,DMF,en2,"Alexis, l. 65",,
@@ -3336,7 +3336,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3335,432,2,si,si,Si,s.i,S/i\,_,fro,436,DETpos,DETpos,3pmn,son4,DMF,son4,"Alexis, l. 436",,
 3336,432,3,oil,oil,oiL,o.i.l,/o\iL,_,fro,436,NOMcom,NOMcom,pmn,oeil,DMF,oeil,"Alexis, l. 436",,
 3337,432,4,e,e,e,e,/e\,+,fro,436,CONcoo,CONcoo,,et,DMF,et,"Alexis, l. 436",,
-3338,432,5,s[i],si,Si,s.i,S/i\,+,fro,436,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 436",,
+3338,432,5,s[=si],si,Si,s.i,S/i\,+,fro,436,ADVgen,ADVgen,,si4,DMF,si4,"Alexis, l. 436",,
 3339,432,6,ietet,jetet,ʤɛtəð,j.e.t.e.t,'ʤ/ɛ\.t/ə\ð,_,fro,436,VERcjg,VERcjg,indpst3,jeter,DMF,jeter,"Alexis, l. 436",,
 3340,432,7,granz,granz,grANTS,g.r.a.n.z.,gr/A\NTS,_,fro,436,ADJqua,ADJqua,pmr,grand,DMF,grand,"Alexis, l. 436",,
 3341,432,8,criz,criz,kriTS,c.r.i.z.,kr/i\TS,.,fro,436,NOMcom,NOMcom,pmr,cri,DMF,cri,"Alexis, l. 436",</l>,
