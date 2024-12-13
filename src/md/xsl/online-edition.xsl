@@ -9,17 +9,17 @@
 
     <xsl:template match="/">
         <!-- Select text node -->
-        <xsl:apply-templates select="descendent::tei:text"/>
+        <xsl:apply-templates select="descendant::tei:text"/>
     </xsl:template>
     
     <xsl:template match="tei:text">
         <!-- Set up two-column layout -->
         <div class="ogr-row">
             <div class="ogr-column">
-                <xsl:apply-templates mode="#norm"/>
+                <xsl:apply-templates mode="norm"/>
             </div>
             <div class="ogr-column">
-                <xsl:apply-template mode="#dipl"/>
+                <xsl:apply-templates mode="dipl"/>
             </div>
         </div>
     </xsl:template>
@@ -42,7 +42,8 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:text> ogr-</xsl:text>
-                <xsl:value-of="./parent::node()/local-name()"/>
+                <xsl:value-of select="./parent::node()/local-name()"/>
+            </xsl:attribute>
             <xsl:apply-templates mode="#current"/>
         </xsl:element>
     </xsl:template>
@@ -82,156 +83,94 @@
                 <xsl:value-of select="@msd"/>
             </xsl:attribute>
             <xsl:apply-templates select="@ana" mode="#current"/>
-            <xsl:apply-templates select="text()" mode="#current"/>
+            <xsl:apply-templates mode="#current"/>
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="@ana" mode="#dipl"/>
-        <!-- TODO: Process @ana to derive @dipl form -->
-        
+    <xsl:template match="@ana" mode="dipl">
+        <!-- Step 1. Extract $dipl and $wddiv from the long @ana attribute. -->
+        <xsl:variable name="dipl" select="substring-before(substring-after(., '#dipl£'), ' ')"/>
+        <xsl:variable name="wddiv" select="substring-before(substring-after(., '#wd_div£'), ' ')"/>
+        <!-- Step 2. Generate dipl-expanded.
+            - replace (i) open brackets with hash + open bracket 
+            - (ii) close brackets with hash
+            - Can't handle nested brackets though. -->
+        <xsl:variable name="dipl-expanded" 
+            select="replace(replace(replace(replace(replace(replace(replace($dipl, '\[', '#['),'\]', '#'), '\(', '#('), '\)', '#'), '\{', '#{'), '\}', '#'), '_', '&#xa0;')"/>
+        <!-- Step 3. Tokenize by blocks, then add spans and extra characters appropriate to the markup:
+            - class="ogr-corr": editorial corrections using [= or [+ 
+            - class="ogr-abbr": manuscript abbreviation denoted by [
+            - class="ogr-surplus": extra character in MS, denoted by (
+            - class="ogr-shorthand": Shorthand in the Jonas, denoted by {
+            -->
+        <xsl:for-each select="tokenize($dipl-expanded,'#')">
+            <xsl:choose>
+                <xsl:when test="substring(., 1,2) = '[=' or substring(., 1,2) = '[+'">
+                    <!-- Corrections denoted by [= or [+ (an added token) -->
+                    <span class="ogr-corr">
+                        <xsl:text>[</xsl:text>
+                        <xsl:value-of select="substring-after(., '[')"/>
+                        <xsl:text>]</xsl:text>
+                    </span>
+                </xsl:when>
+                 <xsl:when test="substring(., 1, 1) = '['">
+                     <span class="ogr-abbr">
+                         <xsl:value-of select="substring-after(., '[')"/>
+                     </span>
+                </xsl:when>
+                    <xsl:when test="substring(., 1, 1) = '('">
+                        <span class="ogr-surplus">
+                            <xsl:text>(</xsl:text>
+                            <xsl:value-of select="substring-after(., '(')"/>
+                            <xsl:text>)</xsl:text>
+                        </span>
+                    </xsl:when>
+                <xsl:when test="substring(., 1, 1) = '{'">
+                    <span class="ogr-shorthand">
+                        <xsl:value-of select="substring-after(., '{')"/>
+                    </span>
+                </xsl:when>
+                <xsl:otherwise>
+                    <xsl:value-of select="."/>
+                </xsl:otherwise>
+            </xsl:choose>
+        </xsl:for-each>
+        <!-- Step 4. Process $wddiv to add space or following punctuation -->
+        <xsl:choose>
+            <xsl:when test="$wddiv = '_'">
+                <!-- Print a space -->
+                <xsl:text>&#xa0;</xsl:text>
+            </xsl:when>
+            <xsl:when test="$wddiv = '+'">
+                <!-- Print nothing at all -->
+            </xsl:when>
+            <xsl:when test="contains($wddiv, '|')">
+                <!-- Print everything before the vertical bar,
+                then a space,
+                then the vertical bar -->
+                <xsl:value-of select="substring-before($wddiv, '|')"/>
+                <xsl:text>&#xa0;</xsl:text>
+                <xsl:text>|</xsl:text>
+            </xsl:when>
+            <xsl:otherwise>
+                <!-- Print wd_div followed by a space -->
+                <xsl:value-of select="$wddiv"/>
+                <xsl:text>&#xa0;</xsl:text>
+            </xsl:otherwise>
+        </xsl:choose>
     </xsl:template>
     
-    <xsl:template match="text()" mode"#norm"/>
+    <xsl:template match="@ana" mode="norm">
+        <!-- Ignore @ana for the normalized text -->
+    </xsl:template>
+    
+    <xsl:template match="text()" mode="norm">
+        <!-- Print the text node for the normalized text -->
         <xsl:value-of select="."/>
-        <xsl:text> </xsl:text>
     </xsl:template>
     
-    <!-- TODO: complete stylesheet -->
-
-    <!-- Theatre texts -->
-    
-    <xsl:template match="tei:speaker">
-        <!-- Encode speaker as h3. Will always be within <sp>, outside <lg> (TEI guidelines). -->
-        <h3>
-            <xsl:apply-templates/>
-        </h3>
+    <xsl:template match="text()" mode="dipl">
+        <!-- Ignore text nodes for diplomatic text -->
     </xsl:template>
     
-    <xsl:template match="tei:secl">
-        <!-- Text which is out of place and ASSUMED not to be included in a table for verse -->
-        <div class="secl">
-            <xsl:apply-templates/>
-        </div>
-    </xsl:template>
-
-    <!-- Lists -->
-    
-    <xsl:template match="tei:list">
-        <xsl:choose>
-            <xsl:when test="@type='label'">
-                <dl>
-                    <xsl:apply-templates mode="dl"/>
-                </dl>
-            </xsl:when>
-            <xsl:otherwise>
-                <ul>
-                    <xsl:apply-templates mode="ul"/>
-                </ul>
-            </xsl:otherwise>
-        </xsl:choose>
-    </xsl:template>
-    
-    <xsl:template match="tei:label" mode="dl">
-        <dt><xsl:apply-templates/></dt>
-    </xsl:template>
-    
-    <xsl:template match="tei:label" mode="ul">
-        <!-- This template shouldn't be called; turns labels into separate lis -->
-        <li><xsl:apply-templates/></li>
-    </xsl:template>
-    
-    <xsl:template match="tei:item" mode="dl">
-        <dd><xsl:apply-templates/></dd>
-    </xsl:template>
-    
-    <xsl:template match="tei:item" mode="ul">
-        <li><xsl:apply-templates/></li>
-    </xsl:template>
-
-
-    <!--Render TEI elements -->
-
-
-
-    <xsl:template match="tei:pb | tei:cb">
-        <xsl:element name="span">
-            <xsl:attribute name="class">milestone</xsl:attribute>
-            <xsl:choose>
-                <xsl:when test="@facs">
-                    <!-- Deactivated link <a href="{@facs}"> -->
-                        <xsl:apply-templates select="." mode="string"/>
-                    <!-- Deactivated link </a> -->
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:apply-templates select="." mode="string"/>
-                </xsl:otherwise>
-            </xsl:choose>
-        </xsl:element>
-        <xsl:text> </xsl:text>
-    </xsl:template>
-    
-    <xsl:template match="tei:pb" mode="string">
-        <xsl:text>[</xsl:text>
-        <xsl:value-of select="local-name()"/>
-        <xsl:text>:</xsl:text>
-        <xsl:value-of select="@n"/>
-        <xsl:text>]</xsl:text>
-    </xsl:template>
-
-    <xsl:template match="tei:gap|tei:supplied">
-        <xsl:element name="span">
-            <!-- Material marked as "supplied" -->
-            <xsl:attribute name="class">supplied</xsl:attribute>
-            <xsl:attribute name="title">missing or reconstructed section of text not included in corpus tokens</xsl:attribute>
-            <xsl:text>[</xsl:text>
-            <xsl:choose>
-                <xsl:when test="local-name()='gap' and @unit = 'line'">
-                    <xsl:text>............................</xsl:text>
-                </xsl:when>
-                <xsl:when test="local-name()='gap'">
-                    <xsl:text>...</xsl:text>
-                </xsl:when>
-                <xsl:otherwise>
-                    <xsl:apply-templates/>
-                </xsl:otherwise>
-            </xsl:choose>
-            <xsl:text>]</xsl:text>
-        </xsl:element>
-    </xsl:template>
-
-    <xsl:template match="tei:surplus">
-        <!-- Don't print -->
-    </xsl:template>
-    
-    <xsl:template match="tei:*">
-        <xsl:choose>
-            <xsl:when test="not(descendant::tei:lg or descendant::tei:ab or descendant::tei:p)">
-                <!-- Spans if it doesn't contain abs, lgs or ps.-->
-                <xsl:element name="span">
-                    <xsl:attribute name="class" select="local-name()"/>
-                    <xsl:if test="@lang">
-                        <xsl:attribute name="lang" select="@lang"/>
-                    </xsl:if>
-                    <xsl:apply-templates/>
-                </xsl:element>
-            </xsl:when>
-            <xsl:otherwise>
-                <!-- Use a div -->
-                <xsl:element name="div">
-                    <xsl:attribute name="class" select="local-name()"/>
-                    <xsl:if test="@lang">
-                        <xsl:attribute name="lang" select="@lang"/>
-                    </xsl:if>
-                    <xsl:apply-templates/>
-                </xsl:element>
-            </xsl:otherwise>
-        </xsl:choose>
-        <xsl:if test="local-name() = 's' and ancestor::tei:p">
-            <!-- Print a slash at the end of a sentence in prose texts -->
-            <xsl:text>/ </xsl:text>
-        </xsl:if>
-    </xsl:template>
-
-    <!-- NO COPY EVERYTHING TEMPLATES -->
-
 </xsl:stylesheet>
