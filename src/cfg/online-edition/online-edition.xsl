@@ -7,13 +7,13 @@
     
     <xsl:template match="/">
         <!-- Write header -->
-        <xsl:text>---&#x000A;title: '</xsl:text>
+        <xsl:text>---&#x000A;title: "Texts: </xsl:text>
         <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='main' and @xml:lang='en']/text()"/>
-        <xsl:text>'&#x000A;date: '</xsl:text>
+        <xsl:text>"&#x000A;date: "</xsl:text>
         <xsl:value-of select="current-date()"/>
-        <xsl:text>'&#x000A;summary: 'Old Gallo-Romance Corpus - Transcription of </xsl:text>
+        <xsl:text>"&#x000A;summary: "Old Gallo-Romance Corpus - Transcription of </xsl:text>
         <xsl:value-of select="//tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title[@type='formal']/text()"/>
-        <xsl:text>'&#x000A;weight: 20&#x000A;---&#x000A;&#x000A;</xsl:text>
+        <xsl:text>"&#x000A;weight: 20&#x000A;---&#x000A;&#x000A;</xsl:text>
         <xsl:apply-templates select="descendant::tei:teiHeader"/>
         <!-- Select text node -->
         <xsl:apply-templates select="descendant::tei:text"/>
@@ -43,8 +43,8 @@
             <xsl:text>, </xsl:text>
             <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
             <xsl:if test="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno">
-                <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno"/>
                 <xsl:text>, </xsl:text>
+                <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno"/>
             </xsl:if>
             <xsl:text>.</xsl:text>
             <xsl:element name="blockquote">

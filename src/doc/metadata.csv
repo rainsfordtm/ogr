@@ -1,23 +1,23 @@
 id,title_fr,title_en,author,ms,ms_origin,ms_cent,text_cent,text_origin,source,form,lang,lang_other,text_order
-Alexis,Vie de saint Alexis,Life of Saint Alexis,anonymous,"Hildesheim, Sankt Godehardi",England,12,11,Normandy,ms. image,verse,fro,--,18
-AlexisProl,Prologue à la vie de saint Alexis,Prologue to the Life of Saint Alexis,anonymous,"Hildesheim, Sankt Godehardi",England,12,12,England,ms. image,prose,fro,--,19
-BenClerm,Formules de bénédiction de Clermont,Clermont Blessings,anonymous,"Clermont-Ferrand, Bibliothèque municipale, 201",southern France,10,10,southern France,ms. image,prose,pro,--,5
-Boeci,Fragment d'une paraphrase de Boèce,Boeci fragment,anonymous,"Orleans, Bibliothèque municipale, 444",Burgundy,11..12,11,Limousin,ms. image,verse,pro,--,15
 Eulalie,Séquence de sainte Eulalie,Sequence of Saint Eulalia,anonymous,"Valenciennes, Bibliothèque municipale, 150",Hainaut,9,9,Hainaut,ms. image,verse,fro,--,1
+Jonas,Fragment d'un sermon bilingue sur Jonas,Fragment of a bilingual sermon on Jonah,anonymous,"Valenciennes, Bibliothèque municipale, 521",Hainaut,10,10,Hainaut,ms. image,prose,fro,lat,2
+Alba,Aube bilingue,Bilingual Alba,anonymous,"Rome, Biblioteca Apostolica Vaticana, Reginae lat. 1462",Burgundy,10..11,10,southern France,transcription,verse,pro,lat,3
+PassAugsb,"Poème sur la Passion, manuscrit d'Augsburg","Passion poem, Augsburg manuscript",anonymous,"Augsburg, Stadtarchiv, Urkundensammlung no. 5",Alsace,10,10,northern France,transcription,verse,fro,---,4
+BenClerm,Formules de bénédiction de Clermont,Clermont Blessings,anonymous,"Clermont-Ferrand, Bibliothèque municipale, 201",southern France,10,10,southern France,ms. image,prose,pro,--,5
+Serments,Serments de Strasbourg,Strasbourg Oaths,anonymous,"Paris, Bibliothèque nationale, lat. 9768",Île-de-France,10..11,9,Poitou [?],ms. image,verse,fro,lat|goh,6
+SLeger,Vie de saint Léger,Life of Saint Leger,anonymous,"Clermont-Ferrand, Bibliothèque municipale, 240",Limousin [?],10..11,10,Picardy|Wallonia [?],ms. image,verse,fro,--,7
 Passion,Passion du Christ,Passion of Clermont,anonymous,"Clermont-Ferrand, Bibliothèque municipale, 240",Limousin [?],10..11,10,Poitou,ms. image,verse,fro,--,8
+ChansLas,Deux strophes d'une chanson d'amour français,Two stanzas of a French love song,anonymous,"London, British Library, Harley 2750",Lower Rhine,11,11,northern France,transcription,verse,fro,---,9
+Spons,Sponsus,Sponsus,anonymous,"Paris, Bibliothèque nationale, lat. 1139",Limousin,11..12,11,Poitou [?],ms. image,verse,pro,lat,10
 PrDieu,Prière à Dieu en vers (Te Autem),Prayer to God in verse (Te Autem),anonymous,"Paris, Bibliothèque nationale, lat. 1139",Limousin,11..12,11..12,Limousin,ms. image,verse,pro,--,11
 PrVierge2,Prière à la Vierge en vers (Mei amic e mei fiel...),Prayer to the Virgin in verse (Mei amic e mei fiel...),anonymous,"Paris, Bibliothèque nationale, lat. 1139",Limousin,11..12,11..12,Limousin,ms. image,verse,pro,lat,12
 PrVierge3,Prière à la Vierge en vers (Versus sancte Marie),Prayer to the Virgin in verse (Versus sancte Marie),anonymous,"Paris, Bibliothèque nationale, lat. 1139",Limousin,11..12,11..12,Limousin,ms. image,verse,pro,--,13
-Serments,Serments de Strasbourg,Strasbourg Oaths,anonymous,"Paris, Bibliothèque nationale, lat. 9768",Île-de-France,10..11,9,Poitou [?],ms. image,verse,fro,lat|goh,6
 SFoi,Chanson de sainte Foi,Song of Saint Faith,anonymous,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60",Burgundy,11..12,11,between Narbonne and the Pyrenees,ms. image,verse,pro,--,14
-SGregPaint,Extrait d'une lettre de saint Grégoire concernant les images en religion,Extract from Saint Gregory's letter on religious images,anonymous,"Hildesheim, Sankt Godehardi",England,12,12,England,ms. image,prose,fro,--,20
-SLeger,Vie de saint Léger,Life of Saint Leger,anonymous,"Clermont-Ferrand, Bibliothèque municipale, 240",Limousin [?],10..11,10,Picardy|Wallonia [?],ms. image,verse,fro,--,7
-Spons,Sponsus,Sponsus,anonymous,"Paris, Bibliothèque nationale, lat. 1139",Limousin,11..12,11,Poitou [?],ms. image,verse,pro,lat,10
-Alba,Aube bilingue,Bilingual Alba,anonymous,"Rome, Biblioteca Apostolica Vaticana, Reginae lat. 1462",Burgundy,10..11,10,southern France,transcription,verse,pro,lat,3
-AlexAlb,Fragment d'un Roman d'Alexandre,Fragment of a Romance of Alexander,Alberic de Besançon,"Florence, Biblioteca Laurenziana, plut. LXIV, Cod. 35",Franco-Provençal region,12,12,Franche-Comté,ms. image,verse,fro,---,17
-CantQuSol,Paraphrase de la Cantique des Cantiques (Quant li solleiz...),Paraphrase of the Song of Songs (Quant li solleiz...),anonymous,"Paris, Bibliothèque nationale, lat. 2297",north-west France,12,12,Normandy,ms. image,verse,fro,---,22
-ChansLas,Deux strophes d'une chanson d'amour français,Two stanzas of a French love song,anonymous,"London, British Library, Harley 2750",Lower Rhine,11,11,northern France,transcription,verse,fro,---,9
+Boeci,Fragment d'une paraphrase de Boèce,Boeci fragment,anonymous,"Orleans, Bibliothèque municipale, 444",Burgundy,11..12,11,Limousin,ms. image,verse,pro,--,15
 EpreuveJudic,Cérémonial d'une épreuve judiciaire,Protocol for a trial,anonymous,"Paris, Bibliothèque nationale, lat. 2403",Normandy,12,12,Normandy,ms. image,prose,fro,lat,16
+AlexAlb,Fragment d'un Roman d'Alexandre,Fragment of a Romance of Alexander,Alberic de Besançon,"Florence, Biblioteca Laurenziana, plut. LXIV, Cod. 35",Franco-Provençal region,12,12,Franche-Comté,ms. image,verse,fro,---,17
+Alexis,Vie de saint Alexis,Life of Saint Alexis,anonymous,"Hildesheim, Sankt Godehardi",England,12,11,Normandy,ms. image,verse,fro,--,18
+AlexisProl,Prologue à la vie de saint Alexis,Prologue to the Life of Saint Alexis,anonymous,"Hildesheim, Sankt Godehardi",England,12,12,England,ms. image,prose,fro,--,19
+SGregPaint,Extrait d'une lettre de saint Grégoire concernant les images en religion,Extract from Saint Gregory's letter on religious images,anonymous,"Hildesheim, Sankt Godehardi",England,12,12,England,ms. image,prose,fro,--,20
 EpSEt,Épître de saint Étienne,Epistle of St. Steven,anonymous,"Tours, Bibliothèque du Petit Séminaire, Missel sans cote",Touraine,12,12,Touraine,ms. image,verse,fro,lat,21
-Jonas,Fragment d'un sermon bilingue sur Jonas,Fragment of a bilingual sermon on Jonah,anonymous,"Valenciennes, Bibliothèque municipale, 521",Hainaut,10,10,Hainaut,ms. image,prose,fro,lat,2
-PassAugsb,"Poème sur la Passion, manuscrit d'Augsburg","Passion poem, Augsburg manuscript",anonymous,"Augsburg, Stadtarchiv, Urkundensammlung no. 5",Alsace,10,10,northern France,transcription,verse,fro,---,4
+CantQuSol,Paraphrase de la Cantique des Cantiques (Quant li solleiz...),Paraphrase of the Song of Songs (Quant li solleiz...),anonymous,"Paris, Bibliothèque nationale, lat. 2297",north-west France,12,12,Normandy,ms. image,verse,fro,---,22

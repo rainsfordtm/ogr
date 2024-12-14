@@ -13,99 +13,99 @@ weight: 3
 
 The corpus contains __twenty-two__ texts:
 
-1. [__The Sequence of Saint Eulalia__](/docs/Eulalie). Composed 881..2, copied
+1. [__The Sequence of Saint Eulalia__](/docs/eulalie). Composed 881..2, copied
 in the late ninth century.
 The first literary text in any Gallo-Romance variety, the short 29-line
 poem presents the martyrdom of Saint Eulalia. It is preserved in the
 earliest manuscript containing a Romance text.
-2. [__Fragment of a bilingual sermon on Jonah__](/docs/Jonas). Composed and
+2. [__Fragment of a bilingual sermon on Jonah__](/docs/jonas). Composed and
 copied in the first half of the tenth century.
 Preserved by chance in the binding of a codex, this single folio contains
 notes in Latin and Old French for a sermon on Jonah. The recto is severely
 damaged and barely readable and the first words of each line of the verso
 were lost when the parchment was cut. Much of the text is written in shorthand
 (Tironian notes).
-3. [__Bilingual Alba__](/docs/Alba). Composed and copied in the tenth
+3. [__Bilingual Alba__](/docs/alba). Composed and copied in the tenth
 century at the latest. TODO: Description.
-4. [__Passion poem, Augsburg manuscript__](/docs/PassAugsb).  Composed and copied in the tenth
+4. [__Passion poem, Augsburg manuscript__](/docs/passaugsb).  Composed and copied in the tenth
 century. TODO: Description.
-5. [__Clermont Blessings__](/docs/BenClerm). Composed and copied in the
+5. [__Clermont Blessings__](/docs/benclerm). Composed and copied in the
 mid- to late tenth century. TODO: Description.
-6. [__The Strasbourg Oaths__](/docs/Serments). Composed 842, copied c1000.
+6. [__The Strasbourg Oaths__](/docs/serments). Composed 842, copied c1000.
 The earliest text by date of composition in any Gallo-Romance variety, the _Strasbourg Oaths_
 consist of two short oaths sworn in both Romance and Germanic by Louis
 the German, Charles the Bald and their followers in 842. They are
 preserved within Nithard's Latin chronicle _Historiae filiorum Ludovici pii_.
-7. [__Life of Saint Leger__](/docs/SLeger). Composed in the tenth 
+7. [__Life of Saint Leger__](/docs/sleger). Composed in the tenth 
 century, copied c1000. 
 The 241-line poem narrates the life and martyrdom of Saint Léger. Like the _Passion of Clermont_
 in the same manuscript, the influence of southern Gallo-Romance is clear, but the text is
 more clearly of northern origin.
-8. [__Passion of Clermont__](/docs/Passion). Composed at the end of the
+8. [__Passion of Clermont__](/docs/passion). Composed at the end of the
 tenth century, copied c1000. This 516-line poem is the earliest Romance
 retelling of the Passion of Christ. It is typically considered a northern
 Gallo-Romance text, although the language shows significant mixing of
 northern and southern features which makes it difficult to interpret as
 a coherent system. The manuscript records a line of the melody
 to which it was sung, and also contains the _Life of Saint Leger_.
-9. [__Two stanzas of an Old French love song__](/docs/ChansLas). Composed and copied in the final third
+9. [__Two stanzas of an Old French love song__](/docs/chanslas). Composed and copied in the final third
 of the eleventh century.
 Two stanzas of Old French love songs presumably transcribed from
 memory by a German-speaking scribe.
-10. [__Sponsus__](/docs/Spons). Composed before 1100, copied in the late
+10. [__Sponsus__](/docs/spons). Composed before 1100, copied in the late
 eleventh or early twelfth century.
 A dramatic setting of the tale of the wise and foolish virgins in a mixture of
 Latin and a southern Gallo-Romance variety with many northern features,
 particularly at the rhyme.
-11. [__Prayer to God in verse \(Te Autem\)__](/docs/PrDieu). Composed and
+11. [__Prayer to God in verse \(Te Autem\)__](/docs/prdieu). Composed and
 copied in the late eleventh or early twelfth century.
 A short prayer in decasyllabic verse, titled _Tu Autem_ in the manuscript.
-12. [__Prayer to the Virgin in verse \(Mei amic e mei fiel...\)__](/docs/PrVierge2).
+12. [__Prayer to the Virgin in verse \(Mei amic e mei fiel...\)__](/docs/prvierge2).
 Composed and copied in the late eleventh or early twelfth century.
 A prayer to the Virgin in verse narrating the Annunciation with alternating
 Latin and Romance stanzas and a Latin refrain.
-13. [__Prayer to the Virgin in verse \(Versus sancte Marie\)__](/docs/PrVierge3).
+13. [__Prayer to the Virgin in verse \(Versus sancte Marie\)__](/docs/prvierge3).
 Composed and copied in the late eleventh or early twelfth century.
 A prayer to the Virgin in verse relating salvation to the original sin of 
 Adam and Eve, titled _Versus Sancte Marie_ in the manuscript.
-14. [__Song of Saint Faith__](/docs/SFoi). 
+14. [__Song of Saint Faith__](/docs/sfoi). 
 Composed in the second third of the tenth century, copied in the late
 eleventh or early twelfth century.
 The 593-line poem recounts the martyrdom of Saint Faith of Conques and the subsequent downfall
 of the pagan emperors. The text is from the south-west of the Gallo-Romance area
 and shows features similar to Catalan.
-15. [__Boeci fragment__](/docs/Boeci).
+15. [__Boeci fragment__](/docs/boeci).
 Composed before 1100, copied in the early twelfth century.
 The 258-line fragment is from a poem paraphrasing Boethius' _De Consolatione philosophiae_.
-16. [__Protocol for a trial__](/docs/EpreuveJudic).
+16. [__Protocol for a trial__](/docs/epreuvejudic).
 Composed and copied in the early twelfth century.
 In Latin and Old French, the text presents the protocol to be followed
 in a religious trial.
-17. [__Fragment of a Romance of Alexander__](/docs/AlexAlb).
+17. [__Fragment of a Romance of Alexander__](/docs/alexalb).
 Composed before 1110, copied in the first quarter of the twelfth century.
 A 105-line octosyllabic fragment, this is the earliest surviving
 version of the _Romance of Alexander_ and shows Franco-Provençal
 features. Attributed by later sources to Alberic of Besançon.
-18. [__Life of Saint Alexis__](/docs/Alexis).
+18. [__Life of Saint Alexis__](/docs/alexis).
 Composed c1090, copied 1120..1130.
 The 625-line narrative poem recounts the life of Saint Alexis and is both
  the longest text in the corpus and the only text to be preserved in
  more than one manuscript. Only the oldest manuscript transcribed here
  dates from the first half of the twelfth century. The manuscript was
  copied in England and shows Anglo-French features.
-19. [__Prologue to the life of Saint Alexis__](/docs/AlexisProl).
+19. [__Prologue to the life of Saint Alexis__](/docs/alexisprol).
 Composed and copied 1120..1130.
 A short prose prologue (or preface) to the _Life of Saint Alexis_,
 only present in this manuscript.
-20. [__Extract from Saint Gregory's letter on religious images__](/docs/SGregPaint).
+20. [__Extract from Saint Gregory's letter on religious images__](/docs/sgregpaint).
 Composed and copied 1120..1130.
 A translation of an extract from a letter of Saint Gregory on the use of
 religious images. It is copied directly below the Latin original (not included
 in the corpus).
-21. [__Epistle of Saint Stephen__](/docs/EpSEt).
+21. [__Epistle of Saint Stephen__](/docs/epset).
 Composed and copied c1130.
 TODO.
-22. [__Quant li solleiz... paraphrase of the Song of Songs__](/docs/CantQuSol).
+22. [__Quant li solleiz... paraphrase of the Song of Songs__](/docs/cantqusol).
 Composed and copied in the first half of the twelfth century.
 TODO.
 
