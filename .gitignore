@@ -1,2 +1,4 @@
 *~
 .~lock.*#
+site/public*
+src/xml-tei/*.xml
