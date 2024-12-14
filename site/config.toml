@@ -14,22 +14,22 @@ summaryLength = 30
 
 [[menu.main]]
     name = "Home"
-    url = "/"
+    url = "/docs/home/"
     weight = 1
 
 [[menu.main]]
-    name = "Access"
+    name = "Corpus"
     url = "/docs/download/"
     weight = 2
     
 [[menu.main]]
-    name = "Annotation"
-    url = "/docs/annotation/"
-    weight = 3
-    
-[[menu.main]]
     name = "Texts"
     url = "/docs/texts/"
+    weight = 3
+
+[[menu.main]]
+    name = "Annotation"
+    url = "/docs/annotation/"
     weight = 4
     
 [[menu.main]]
@@ -37,15 +37,10 @@ summaryLength = 30
     url = "/docs/about/"
     weight = 5
     
-[[menu.main]]
-    name = "Contact"
-    url = "/docs/contact/"
-    weight = 6
-
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Access and documentation'
+  homepage_button_link = '/docs/home/'
+  homepage_button_text = 'Access the corpus!'
   homepage_intro = 'The Old Gallo-Romance (OGR) corpus contains annotated transcriptions of all Gallo-Romance manuscripts copied before c1130.'
   homepage_image = '/images/ogr-banner.jpg'
 

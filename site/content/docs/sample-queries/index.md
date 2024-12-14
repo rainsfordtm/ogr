@@ -1,7 +1,7 @@
 ---
-title: 'Queries (TXM)'
+title: 'Annotation 5 - Sample Queries (TXM)'
 date: 2022-06-14
-weight: 10
+weight: 54
 summary: Some example queries to try out in TXM.
 ---
 

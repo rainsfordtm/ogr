@@ -1,246 +1,128 @@
 ---
 title: 'Texts'
-date: 2022-06-14
-summary: 'Texts included in the corpus'
-weight: 20
+date: 2024-12-14
+summary: 'Texts and transcriptions'
+weight: 3
 ---
 
-The corpus currently (v0.4) contains thirteen texts: 
-[Alexis](#alexis), [AlexisProl](#alexisprol), 
-[Boeci](#boeci), [Eulalie](#eulalie), [Passion](#passion),
-[PrDieu](#prdieu), [PrVierge2](#prvierge2), [PrVierge3](#prvierge3), 
-[Serments](#serments), [SFoi](#sfoi), [SGregPaint](#sgregpaint),
-[SLeger](#sleger) and [Spons](#spons). The complete corpus (v1.0) is projected
-to contain twenty-two texts.
+The corpus contains __twenty-two__ texts:
 
-The thirteen texts are found in seven manuscripts:
-1. [Valenciennes, Bibliothèque municipale, ms. 150](#1-valenciennes-bibliothèque-municipale-ms-150)
-2. [Paris, Bibliothèque Nationale, lat. 9768](#2-paris-bibliothèque-nationale-lat-9768)
-3. [Clermont-Ferrand, Bibliothèque Municipale, ms. 240](#3-clermont-ferrand-bibliothèque-municipale-ms-240)
-4. [Leiden, University Library, Vossiani lartini in-octavo 60](#4-leiden-university-library-vossiani-lartini-in-octavo-60)
-5. [Orléans, Bibliothèque Municipale, no. 444](#5-orléans-bibliothèque-municipale-no-444)
-6. [Paris, Bibliothèque nationale, lat. 1139](#6-paris-bibliothèque-nationale-lat-1139)
-7. [Hildesheim, Sankt-Godehardi](#7-hildesheim-sankt-godehardi)
-
-## 1. Valenciennes, Bibliothèque municipale, ms. 150
-
-+ __Provenance__: Saint-Amand-les-Eaux, Picardy
-+ __Date of manuscript__: late 9th century
-
-### Eulalie
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b84526286/f288.item)
-
-The first literary text in any Gallo-Romance variety, the short 29-line poem presents the
-martyrdom of Saint Eulalia. It is preserved in the earliest manuscript containing a
-Romance text.
-
-+ __Abbreviation__: Eulalie
-+ __Title__: _Sequence of Saint Eulalia_
-+ __Form__: verse, assonating couplets of irregular length
-+ __Language__: northern Gallo-Romance
-+ __Date composed__: 881..2
-
-## 2. Paris, Bibliothèque Nationale, lat. 9768
-
-+ __Date of manuscript__: _c_ 1000
-+ __Provenance__: Saint-Médard de Soissons
-
-### Serments
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b84238417/f29.item)
-
-The earliest text in any Gallo-Romance variety, the _Strasbourg Oaths_ consist of
-two short oaths sworn in both Romance and Germanic by Louis the German, Charles the Bald
-and their followers in 842.
-They are preserved within Nithard's Latin chronicle _Historiae filiorum Ludovici pii_.
-
-+ __Abbreviation__: Serments
-+ __Title__: _The Strasbourg Oaths_
-+ __Form__: prose
-+ __Language__: northern Gallo-Romance, Latin, German
-+ __Date composed__: 842
-+ __Provenance__: disputed, possibly Poitou.
-
-## 3. Clermont-Ferrand, Bibliothèque Municipale, ms. 240
-
-+ __Provenance__: possibly Saint-Martial de Limoges
-+ __Date of manuscript__: _c_ 1000
-
-### Passion
-
-This 516-line poem is the earliest Romance retelling of the Passion of Christ.
-It is typically considered a northern Gallo-Romance text, although the language
-shows significant mixing of northern and southern features which makes it difficult
-to interpret as a coherent system. The manuscript also records a line of the melody
-to which it was sung, and also contains [SLéger](#sléger).
-
-+ __Abbreviation__: Passion
-+ __Title__: _Passion_ of Clermont
-+ __Form__: verse, octosyllabic rhyming couplets in 4-line stanzas
-+ __Language__: northern Gallo-Romance with many southern Gallo-Romance features
-+ __Date composed__: _c_ 1000
-+ __Provenance__: possibly Poitou
-
-### SLeger
-
-The 241-line poem narrates the life and martyrdom of Saint Léger. Like [Passion](#passion) 
+1. [__The Sequence of Saint Eulalia__](/docs/Eulalie). Composed 881..2, copied
+in the late ninth century.
+The first literary text in any Gallo-Romance variety, the short 29-line
+poem presents the martyrdom of Saint Eulalia. It is preserved in the
+earliest manuscript containing a Romance text.
+2. [__Fragment of a bilingual sermon on Jonah__](/docs/Jonas). Composed and
+copied in the first half of the tenth century.
+Preserved by chance in the binding of a codex, this single folio contains
+notes in Latin and Old French for a sermon on Jonah. The recto is severely
+damaged and barely readable and the first words of each line of the verso
+were lost when the parchment was cut. Much of the text is written in shorthand
+(Tironian notes).
+3. [__Bilingual Alba__](/docs/Alba). Composed and copied in the tenth
+century at the latest. TODO: Description.
+4. [__Passion poem, Augsburg manuscript__](/docs/PassAugsb).  Composed and copied in the tenth
+century. TODO: Description.
+5. [__Clermont Blessings__](/docs/BenClerm). Composed and copied in the
+mid- to late tenth century. TODO: Description.
+6. [__The Strasbourg Oaths__](/docs/Serments). Composed 842, copied c1000.
+The earliest text by date of composition in any Gallo-Romance variety, the _Strasbourg Oaths_
+consist of two short oaths sworn in both Romance and Germanic by Louis
+the German, Charles the Bald and their followers in 842. They are
+preserved within Nithard's Latin chronicle _Historiae filiorum Ludovici pii_.
+7. [__Life of Saint Leger__](/docs/SLeger). Composed in the tenth 
+century, copied c1000. 
+The 241-line poem narrates the life and martyrdom of Saint Léger. Like the _Passion of Clermont_
 in the same manuscript, the influence of southern Gallo-Romance is clear, but the text is
 more clearly of northern origin.
-
-+ __Abbreviation__: SLeger
-+ __Title__: _Life of Saint Leger_
-+ __Form__: verse, assonating octosyllables in 4-line stanzas.
-+ __Language__: northern Gallo-Romance with some southern Gallo-Romance forms
-+ __Date composed__: _c_ 1000
-+ __Provenance__: possibly Picardy or Wallonia
-
-## 4. Leiden, University Library, Vossiani lartini in-octavo 60
-
-+ __Provenance__: Fleury-sur-Loire
-+ __Date of manuscript__: _c_ 1100
-
-### SFoi
-
-The 593-line poem recounts the martyrdom of Saint Faith of Conques and the subsequent downfall
-of the pagan emperors. The text is from the south-west of the Gallo-Romance area
-and shows features similar to Catalan.
-
-+ __Abbreviation__: SFoi
-+ __Title__: _The Song of Saint Faith_
-+ __Form__: verse, assonating octosyllables in _laisses_ of irregular length
-+ __Language__: southern Gallo-Romance
-+ __Date composed__: _c_ 1060
-+ __Provenance__: south-west Languedoc
-
-## 5. Orléans, Bibliothèque Municipale, no. 444
-
-+ __Provenance__: Saint-Benoît-sur-Loire
-+ __Date of manuscript__: _c_ 1100..1115
-
-### Boeci
-
-[View manuscript image](https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0280)
-
-The 258-line fragment is from a poem paraphrasing Boethius' _De Consolatione philosophiae_.
-
-+ __Abbreviation__: Boeci
-+ __Title__: _Boeci_ fragment
-+ __Form__: verse, epic decasyllables in assonating _laisses_ of irregular length
-+ __Language__: southern Gallo-Romance
-+ __Date composed__: _c_ 1100..1115
-+ __Provenance__: Saint-Martial de Limoges
-
-## 6. Paris, Bibliothèque nationale, lat. 1139
-
-All texts in this manuscript are sung and are written with the neumes showing
-the melody.
-
-+ __Provenance__: Limoges
-+ __Date of manuscript__: late 11th or early 12th century
-
-### PrDieu
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f95.item))
-
-A short prayer in decasyllabic verse, titled _Tu Autem_ in the manuscript.
-
-+ __Abbreviation__: PrDieu
-+ __Title__: Prayer to God in verse (_Tu Autem_)
-+ __Form__: decasyllabic verse, single eight-line stanza
-+ __Language__: southern Gallo-Romance
-+ __Date composed__: late 11th or early 12th century
-+ __Provenance__: Limousin
-
-### PrVierge2
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item)
-
-A prayer to the Virgin in verse narrating the Annunciation with alternating
-Latin and Romance stanzas and a Latin refrain.
-
-+ __Abbreviation__: PrVierge2
-+ __Title__: Prayer to the Virgin in verse (_Mei amic e mei fiel..._)
-+ __Form__: stanzas of three rhyming heptasyllabic lines followed by a refrain 
-+ __Language__: southern Gallo-Romance; Latin
-+ __Date composed__: late 11th or early 12th century
-+ __Provenance__: Limousin
-
-### PrVierge3
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item)
-
-A prayer to the Virgin in verse relating salvation to the original sin of 
-Adam and Eve, titled _Versus Sancte Marie_ in the manuscript.
-
-+ __Abbreviation__: PrVierge3
-+ __Title__: Prayer to the Virgin in verse (_Versus sancte Marie_)
-+ __Form__: stanzas of four rhyming sextasyllabic lines in assonating couplets 
-+ __Language__: southern Gallo-Romance
-+ __Date composed__: late 11th or early 12th century
-+ __Provenance__: Limousin
-
-### Spons
-
-[View manuscript image](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item)
-
+8. [__Passion of Clermont__](/docs/Passion). Composed at the end of the
+tenth century, copied c1000. This 516-line poem is the earliest Romance
+retelling of the Passion of Christ. It is typically considered a northern
+Gallo-Romance text, although the language shows significant mixing of
+northern and southern features which makes it difficult to interpret as
+a coherent system. The manuscript records a line of the melody
+to which it was sung, and also contains the _Life of Saint Leger_.
+9. [__Two stanzas of an Old French love song__](/docs/ChansLas). Composed and copied in the final third
+of the eleventh century.
+Two stanzas of Old French love songs presumably transcribed from
+memory by a German-speaking scribe.
+10. [__Sponsus__](/docs/Spons). Composed before 1100, copied in the late
+eleventh or early twelfth century.
 A dramatic setting of the tale of the wise and foolish virgins in a mixture of
 Latin and a southern Gallo-Romance variety with many northern features,
 particularly at the rhyme.
-
-+ __Abbreviation__: Spons
-+ __Title__: _Sponsus_
-+ __Form__: verse, in character, stanzas in decasyllables and in Latin long-line
-rhythmic verse
-+ __Language__: southern Gallo-Romance with northern features; Latin
-+ __Date composed__: before 1100
-+ __Provenance__: Poitou
-
-## 7. Hildesheim, Sankt-Godehardi
-
-+ __Provenance__: England (manuscript)
-+ __Date of manuscript__: _c_ 1120..1130
-
-### AlexisProl
-
-[View manuscript image](https://www.albani-psalter.de/stalbanspsalter/english/translation/trans057.shtml)
-
-A short prose prologue to [Alexis](#alexis).
-
-+ __Abbreviation__: AlexisProl
-+ __Title__: Prologue to the _Life of Saint Alexis_
-+ __Form__: prose
-+ __Language__: northern Gallo-Romance
-+ __Date composed__: ca 1120..1130
-+ __Provenance__: England
-
-### Alexis
-
-[View manuscript image](https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml)
-
-The 625-line narrative poem recounts the life of Saint Alexis and is the longest text in
-the corpus. This version of the text is preserved in full in three manuscripts but only the
-oldest, transcribed here, dates from the first half of the 12th century.
-
-+ __Abbreviation__: Alexis
-+ __Title__: _Life of Saint Alexis_
-+ __Form__: verse, epic decasyllables in 5-line assonating stanzas
-+ __Language__: northern Gallo-Romance
-+ __Date composed__: end 11th c.
-+ __Provenance__: Normandy
-
-### SGregPaint
-
-[View manuscript image](https://www.albani-psalter.de/stalbanspsalter/english/translation/trans068.shtml)
-
+11. [__Prayer to God in verse \(Te Autem\)__](/docs/PrDieu). Composed and
+copied in the late eleventh or early twelfth century.
+A short prayer in decasyllabic verse, titled _Tu Autem_ in the manuscript.
+12. [__Prayer to the Virgin in verse \(Mei amic e mei fiel...\)__](/docs/PrVierge2).
+Composed and copied in the late eleventh or early twelfth century.
+A prayer to the Virgin in verse narrating the Annunciation with alternating
+Latin and Romance stanzas and a Latin refrain.
+13. [__Prayer to the Virgin in verse \(Versus sancte Marie\)__](/docs/PrVierge3).
+Composed and copied in the late eleventh or early twelfth century.
+A prayer to the Virgin in verse relating salvation to the original sin of 
+Adam and Eve, titled _Versus Sancte Marie_ in the manuscript.
+14. [__Song of Saint Faith__](/docs/SFoi). 
+Composed in the second third of the tenth century, copied in the late
+eleventh or early twelfth century.
+The 593-line poem recounts the martyrdom of Saint Faith of Conques and the subsequent downfall
+of the pagan emperors. The text is from the south-west of the Gallo-Romance area
+and shows features similar to Catalan.
+15. [__Boeci fragment__](/docs/Boeci).
+Composed before 1100, copied in the early twelfth century.
+The 258-line fragment is from a poem paraphrasing Boethius' _De Consolatione philosophiae_.
+16. [__Protocol for a trial__](/docs/EpreuveJudic).
+Composed and copied in the early twelfth century.
+In Latin and Old French, the text presents the protocol to be followed
+in a religious trial.
+17. [__Fragment of a Romance of Alexander__](/docs/AlexAlb).
+Composed before 1110, copied in the first quarter of the twelfth century.
+A 105-line octosyllabic fragment, this is the earliest surviving
+version of the _Romance of Alexander_ and shows Franco-Provençal
+features. Attributed by later sources to Alberic of Besançon.
+18. [__Life of Saint Alexis__](/docs/Alexis).
+Composed c1090, copied 1120..1130.
+The 625-line narrative poem recounts the life of Saint Alexis and is both
+ the longest text in the corpus and the only text to be preserved in
+ more than one manuscript. Only the oldest manuscript transcribed here
+ dates from the first half of the twelfth century. The manuscript was
+ copied in England and shows Anglo-French features.
+19. [__Prologue to the life of Saint Alexis__](/docs/AlexisProl).
+Composed and copied 1120..1130.
+A short prose prologue (or preface) to the _Life of Saint Alexis_,
+only present in this manuscript.
+20. [__Extract from Saint Gregory's letter on religious images__](/docs/SGregPaint).
+Composed and copied 1120..1130.
 A translation of an extract from a letter of Saint Gregory on the use of
 religious images. It is copied directly below the Latin original (not included
 in the corpus).
+21. [__Epistle of Saint Stephen__](/docs/EpSEt).
+Composed and copied c1130.
+TODO.
+22. [__Quant li solleiz... paraphrase of the Song of Songs__](/docs/CantQuSol).
+Composed and copied in the first half of the twelfth century.
+TODO.
 
-+ __Abbreviation__: SGregPaint
-+ __Title__: Extract from Saint Gregory's letter on religious images
-+ __Form__: prose
-+ __Language__: northern Gallo-Romance
-+ __Date composed__: ca 1120..1130
-+ __Provenance__: England
+## Manuscripts
 
+The texts are preserved in sixteen manuscripts (probably) copied before 1130.
+Click on the links (if available) to see the manuscript images.
+
+1. [__Valenciennes, Bibliothèque municipale, 150__](https://gallica.bnf.fr/ark:/12148/btv1b84526286/f288.item)
+(Eulalie)
+2. [__Valenciennes, Bibliothèque municipale, 521__](https://gallica.bnf.fr/ark:/12148/btv1b8452601j/f5.item)
+(Jonas)
+3. __Rome, Biblioteca Apostolica Vaticana, Reginae lat. 1462__ (Alba)
+4. __Augsburg, Stadtarchiv, Urkundensammlung no. 5__ (PassAugs)
+5. __Clermont-Ferrand, Bibliothèque municipale, 201__ (BenClerm)
+6. [__Paris, Bibliothèque Nationale, lat. 9768__](https://gallica.bnf.fr/ark:/12148/btv1b84238417/f29.item) (Serments)
+7. [__Clermont-Ferrand, Bibliothèque Municipale, 240__](/docs/ms240) (Passion, SLeger)
+8. __London, British Library, Harley 2750__ (ChansLas)
+9. [__Paris, Bibliothèque nationale, lat. 1139__](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item) (PrDieu, PrVierge2, PrVierge3, Spons)
+10. __Leiden, University Library, Vossiani lartini in-octavo 60__ (SFoi)
+11. [__Orléans, Bibliothèque Municipale, no. 444__](https://mediatheques.orleans.fr/recherche/viewnotice/id_sigb/259634/id_int_bib/3) (Boeci)
+12. [__Paris, Bibliothèque nationale, lat. 2403__](https://gallica.bnf.fr/ark:/12148/btv1b10540990d/f333.item) (EpreuveJudic)
+13. [__Florence, Biblioteca Laurenziana, plut. LXIV, Cod. 35__](https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1296876/rec/1) (AlexAlb)
+14. [__Hildesheim, Sankt-Godehardi__](https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml) (Alexis, AlexisProl, SGregPaint)
+15. [__Tours, Bibliothèque du Petit Séminaire, Missel sans cote__](https://arca.irht.cnrs.fr/ark:/63955/rt1lw98cosqf) (EpStEt)
+16. [__Paris, Bibliothèque nationale, lat. 2297__](https://gallica.bnf.fr/ark:/12148/btv1b8427444b/f192.item) (CantQuSol)

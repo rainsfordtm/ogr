@@ -1,25 +1,9 @@
 ---
 title: 'About'
 date: 2022-06-14
-weight: 40
-summary: Citation form, license, sources and copyright, version history
+weight: 100
+summary: References and version history
 ---
-
-## Citation
-
-If you use the OGR corpus, please cite it in the following form:
-
-> Rainsford, Thomas M. 2022. _Old Gallo-Romance Corpus_, version 0.4. Stuttgart: Institut für
-> Linguistik/Romanistik. \<http://www.ogr-corpus.org\>
-
-## License
-
-The Old Gallo-Romance corpus is distributed under 
-[Creative Commons license CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-+ You must cite this corpus if you use it in your own work or adapt it in any way.
-+ You may modify the files in the corpus and redistribute them under the same license.
-+ You may __not__ use the corpus for commercial purposes.
 
 ## Sources and copyright
 
@@ -42,6 +26,7 @@ published material.
 
 ## Version history
 
++ 2 January 2025: Version 1.0 released and website updated
 + 14 June 2022: Website updated to corpus version 0.4.
 + 18 March 2022: Version 0.4 released on GitHub, six further texts added.
 + 7 December 2021: Version 0.3 released. All formats fully implemented (TXM binary, relANNIS, PAULA-XML, TEI-P5).

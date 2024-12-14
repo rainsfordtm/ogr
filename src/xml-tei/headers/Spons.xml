@@ -38,8 +38,8 @@
                <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                   <ab type="how_to_cite">
                      <label>How to cite this text:</label>
-                     <bibl>Sponsus. In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 0.4. Stuttgart, Institut für
-                        Linguistik/Romanistik, 2022. <ref target="http://www.ogr-corpus.org"
+                     <bibl>Sponsus. In T. Rainsford (ed.) Old Gallo-Romance Corpus, version 1.0. Stuttgart, Institut für
+                        Linguistik/Romanistik, 2025. <ref target="http://www.ogr-corpus.org"
                            >http://ogr-corpus.org</ref>. </bibl>
                   </ab>
                   <ab type="availability_file">
@@ -158,6 +158,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+          <change when="2025-01-02" resp="#TMR">OGR corpus version 1.0 created</change>
          <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
 	      <change when="2022-01-21" resp="#TMR">Changed abbreviation to Spons (DOM).</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>

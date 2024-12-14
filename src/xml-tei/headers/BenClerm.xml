@@ -36,7 +36,7 @@
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
                   <bibl>Clermont Blessings (BenClerm). In 
-                     T. Rainsford (ed.) Old Gallo-Romance Corpus. Stuttgart, Institut für Linguistik/Romanistik, 2021.
+                     T. Rainsford (ed.) Old Gallo-Romance Corpus, version 1.0 Stuttgart, Institut für Linguistik/Romanistik, 2025.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
                </ab>
@@ -124,6 +124,7 @@
          </textClass>
       </profileDesc>
       <revisionDesc>
+        <change when="2025-01-02" resp="#TMR">OGR corpus version 1.0 created</change>
          <change when="2022-01-02" resp="#TMR">Text added to corpus</change>
       </revisionDesc>
    </teiHeader>

@@ -1,7 +1,7 @@
 ---
 title: 'Annotation 1: Overview'
-date: 2021-07-29
-weight: 3
+date: 2024-12-14
+weight: 30
 summary: Read the documentation of the annotation scheme.
 ---
 

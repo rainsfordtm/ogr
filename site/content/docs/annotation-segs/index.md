@@ -1,7 +1,7 @@
 ---
 title: 'Annotation 2: Segments'
 date: 2022-06-14
-weight: 4
+weight: 51
 summary: Segment-level annotation.
 ---
 

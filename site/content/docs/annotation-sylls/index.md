@@ -1,7 +1,7 @@
 ---
 title: 'Annotation 4: Syllables and Meter'
 date: 2022-06-14
-weight: 6
+weight: 53
 summary: Syllable-level and metrical annotation
 ---
 

@@ -40,7 +40,7 @@
                <ab type="how_to_cite">
                   <label>How to cite this text:</label>
                   <bibl>Passion of Clermont (Passion). In T. Rainsford (ed.) Old Gallo-Romance Corpus,
-                     version 0.4. Stuttgart, Institut für Linguistik/Romanistik, 2022.
+                     version 1.0. Stuttgart, Institut für Linguistik/Romanistik, 2025.
                      <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref>.
                   </bibl>
                </ab>
@@ -56,30 +56,13 @@
             <!-- p>XML-TEI file generated from the CSV format source files of the Old Gallo-Romance Corpus by
                the SylVer software <ref>https://sourceforge.net/projects/syllabic-verse-analysis/</ref>.
             </p -->
-            <biblFull>
-               <titleStmt>
-                  <title>Altfranzösisches Übungsbuch</title>
-                  <editor>Wolfgang Foerster</editor>
-                  <editor>Eduard Koschwitz</editor>
-               </titleStmt>
-               <editionStmt>
-                  <edition>7. Ausgabe</edition>
-               </editionStmt>
-               <publicationStmt>
-                  <publisher>Reisland</publisher>
-                  <pubPlace>Leipzig</pubPlace>
-                  <date>1932</date>
-               </publicationStmt>
-               <sourceDesc>
-                  <msDesc>
-                     <msIdentifier> <!-- METADATA ms -->
-                        <settlement>Clermont-Ferrand</settlement>
-                        <repository>Bibliothèque municipale</repository>
-                        <idno>240</idno>
-                     </msIdentifier>
-                  </msDesc>
-               </sourceDesc>
-            </biblFull>
+            <msDesc>
+             <msIdentifier> <!-- METADATA ms -->
+                <settlement>Clermont-Ferrand</settlement>
+                <repository>Bibliothèque municipale</repository>
+                <idno>240</idno>
+             </msIdentifier>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -140,12 +123,14 @@
             </keywords>
          </textClass>
          <keywords scheme="http://ogr-corpus.org">
-            <term type="source">transcription</term> <!-- METADATA source -->
+            <term type="source">ms. image</term> <!-- METADATA source -->
             <term type="form">verse</term> <!-- METADATA form -->
             <term type="lang">fro</term> <!-- METADATA lang -->
          </keywords>
       </profileDesc>
       <revisionDesc>
+         <change when="2025-01-02" resp="#TMR">OGR corpus version 1.0 created</change>
+         <change when="2024-12-14" resp="#TMR">Transcription checked against MS images</change>
          <change when="2022-03-15" resp="#TMR">OGR corpus version 0.4 created</change>
          <change when="2021-12-17" resp="#TMR">Updated bibliographical reference to text.</change>
          <change when="2021-12-07" resp="#TMR">OGR corpus version 0.3 created</change>

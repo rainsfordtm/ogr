@@ -1,7 +1,7 @@
 ---
 title: 'Annotation 3: Words'
 date: 2022-06-14
-weight: 5
+weight: 52
 summary: Word-level annotation.
 ---
 
