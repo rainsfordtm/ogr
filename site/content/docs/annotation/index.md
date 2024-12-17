@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 1: Overview'
-date: 2024-12-14
+date: 2024-12-17
 weight: 30
 summary: Read the documentation of the annotation scheme.
 ---
+
+\[[1. Units annotated](#1-units-annotated)\] \[[2. ANNIS and TXM versions](#2-annis-and-txm-versions)\]
 
 ## 1. Units annotated
 

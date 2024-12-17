@@ -1,9 +1,14 @@
 ---
 title: 'Annotation 4: Syllables and Meter'
-date: 2022-06-14
+date: 2024-12-17
 weight: 53
 summary: Syllable-level and metrical annotation
 ---
+
+\[[1. Verse and prose](#1-verse-and-prose)\]
+\[[2. Annotation available in all texts](#1-annotation-available-in-all-texts)\]
+\[[3. Metrical annotation in the OGRSV](#3-metrical-annotation-in-the-ogrsv)\]
+\[[4. The TXM version](#4-the-txm-version)\]
 
 _Annotation only available in ANNIS. For the TXM version, see [section 4 below](#4-the-txm-version)._ 
 

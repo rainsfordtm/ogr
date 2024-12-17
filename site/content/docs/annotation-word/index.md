@@ -1,9 +1,15 @@
 ---
 title: 'Annotation 3: Words'
-date: 2022-06-14
+date: 2024-12-17
 weight: 52
 summary: Word-level annotation.
 ---
+
+\[[1. Tokenization](#1-tokenization)\]
+\[[2. Summary of annotation](#2-summary-of-annotation)\]
+\[[3. Graphical properties](#3-graphical-properties)\]
+\[[4. Morphosyntactic properties](#4-morphosyntactic-properties)\]
+\[[5. Lemmatization](#5-lemmatization)\]
 
 ## 1. Tokenization
 

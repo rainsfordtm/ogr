@@ -1,9 +1,15 @@
 ---
 title: 'Texts'
-date: 2024-12-14
+date: 2024-12-17
 summary: 'Texts and transcriptions'
 weight: 3
 ---
+
+\[[Texts](#texts)\]
+\[[Manuscripts](#manuscripts)\]
+\[[Guide to transcriptions](#guide-to-transcriptions)\]
+
+## Texts
 
 The corpus contains __twenty-two__ texts:
 
@@ -126,3 +132,50 @@ Click on the links (if available) to see the manuscript images.
 14. [__Hildesheim, Sankt-Godehardi__](https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml) (Alexis, AlexisProl, SGregPaint)
 15. [__Tours, Bibliothèque du Petit Séminaire, Missel sans cote__](https://arca.irht.cnrs.fr/ark:/63955/rt1lw98cosqf) (EpStEt)
 16. [__Paris, Bibliothèque nationale, lat. 2297__](https://gallica.bnf.fr/ark:/12148/btv1b8427444b/f192.item) (CantQuSol)
+
+## Guide to transcriptions
+
+The transcriptions are presented in two formats:
+
++ a __uniform__ transcription, without diacritics or punctuation and with word division standardized across the corpus;
++ a __diplomatic__ transcription, representing the manuscript reading but with abbreviations resolved.
+
+### Uniform transcription
+
+The uniform transcription deliberately doesn't 
+conform to standard editorial practice for Old French or Old Occitan,
+in part because the modern norms for these two languages are different.
+Its purpose is to present the text in the manuscript in a consistent,
+readable, but very basic form. It shows:
+
++ all characters present in the manuscript once abbreviations have been resolved;
++ standardized word division with all words, including clitics, separated by whitespace;
++ no diacritics;
++ no punctuation in verse texts and a single slash ("/") at the end of sentences in prose texts;
++ modern layout (verse lines, paragraphs, bulleted lists, etc.).
+
+In addition, colours and font styles are used to enhance readability:
+
++ __Grey background__: section of text not in Old Gallo-Romance (usually in Latin)
++ __Italicized text__: word not in the matrix language of the sentence (usually a Latin form in a Romance sentence)
++ __Maroon text in square brackets__: text not present in the manuscript
+
+## Diplomatic transcription
+
+The diplomatic transcription represents the manuscript text with
+original punctuation and diacritics. In the TXM and ANNIS editions,
+the diplomatic transcription follows the layout of the manuscript page[^1].
+In the online edition, a modern layout is used to so that the transcriptions
+can be presented side-by-side. Original line divisions are shown by a
+pipe ("|"). Colours are font styles are used to indicate the following:
+
++ __italicized text__: characters represented by a manuscript abbreviation
++ __text in small caps__: Latin word written using Tironian shorthand (Jonas)
++ __maroon text__: editorial intervention:
+	+ in square brackets: an addition or a correction
+	+ with strikethrough: a deletion.
++ __blank space with grey highlighting__: gap in the manuscript text.
+
+[^1]: However, for technical reasons words cannot be split across lines. 
+Instead, a pipe ("|") is used inside the word which is split
+and the new line begins with the following word.

@@ -1,9 +1,12 @@
 ---
 title: 'Annotation 2: Segments'
-date: 2022-06-14
+date: 2024-12-17
 weight: 51
 summary: Segment-level annotation.
 ---
+
+\[[1. Basis of the reconstruction](#1-basis-of-the-reconstruction)\]
+\[[2. Symbols and features](#2-symbols-and-features)\]
 
 ## 1. Basis of the reconstruction 
 
