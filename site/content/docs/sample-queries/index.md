@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 5 - Sample Queries (TXM)'
-date: 2022-06-14
-weight: 54
+date: 2024-12-17
+weight: 14
 summary: Some example queries to try out in TXM.
 ---
+
+\[[previous](/docs/annotation-sylls)\]
 
 _ANNIS example queries can be found in the ANNIS portal_.
 
@@ -97,3 +99,5 @@ in a future release.)
 ```cqp
 [line_met="08.*" & ((metpos=".*04.." & prosody=".ox") | (metpos=".*05.." & prosody=".po"))]
 ```
+
+\[[previous](/docs/annotation-sylls)\]

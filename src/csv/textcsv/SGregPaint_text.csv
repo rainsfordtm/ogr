@@ -188,7 +188,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,pos_sy
 187,9,47,que,que,kE,qu.e,k/E\,_,fro,CONsub,CONsub,,que,DMF,que,"SGregPaint, 34v, l. 34",,<lb n=&quot;34&quot;/>
 188,9,48,le,le,LE,l.e,L/E\,_,fro,DETdef,DETdef,smr,le,DMF,le,"SGregPaint, 34v, l. 34",,
 189,9,49,nient,nient,niENT,n.i.e.n.t,n/i\.'/E\NT,_,fro,PRNind,ADVgen,,néant,DMF,néant,"SGregPaint, 34v, l. 34",,
-190,9,50,fraint,fraint,frAiNdrə,f.r.a.i.n.t,'fr/A\iN.dr/ə\,_,fro,VERppe,VERppe,smr,fraindre,DMF,fraindre,"SGregPaint, 34v, l. 34",,
+190,9,50,fraint,fraint,frAiNT,f.r.a.i.n.t,fr/A\iNT,_,fro,VERppe,VERppe,smr,fraindre,DMF,fraindre,"SGregPaint, 34v, l. 34",,
 191,9,51,num,num,nOm,n.u.m,n/O\m,_,fro,NOMcom,NOMcom,smr,nom,DMF,nom,"SGregPaint, 34v, l. 34",,
 192,9,52,de,de,dE,d.e,d/E\,+,fro,PRE,PRE,,de,DMF,de,"SGregPaint, 34v, l. 34",,
 193,9,53,pastur,pastur,pAStur,p.a.s.t.u.r,p/A\S.'t/u\r,_,fro,NOMcom,NOMcom,smr,pasteur,DMF,pasteur,"SGregPaint, 34v, l. 34",,

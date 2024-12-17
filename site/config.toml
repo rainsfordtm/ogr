@@ -16,25 +16,25 @@ summaryLength = 30
     name = "Home"
     url = "/docs/home/"
     weight = 1
+    
+[[menu.main]]
+    name = "Presentation"
+    url = "/docs/presentation/"
+    weight = 2
 
 [[menu.main]]
     name = "Corpus"
     url = "/docs/download/"
-    weight = 2
+    weight = 3
     
 [[menu.main]]
     name = "Texts"
     url = "/docs/texts/"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Annotation"
     url = "/docs/annotation/"
-    weight = 4
-    
-[[menu.main]]
-    name = "About"
-    url = "/docs/about/"
     weight = 5
     
 [params]

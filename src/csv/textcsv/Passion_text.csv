@@ -2620,7 +2620,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,synta
 2619,469,4,mont[et],montet,mONtɛD,m.o.n.t.e.t,m/O\N.'t/ɛ\D,_,469,Vfin,Vfin,fro,monter,DMF,monter,VERcjg,VERcjg,indpsp3,"Passion, l. 469",,,
 2620,469,5,en,en,EN,e.n,/E\N,_,469,Pre,Pre,fro,en,DMF,en,PRE,PRE,,"Passion, l. 469",,,
 2621,469,6,cel,cel,ÇEl,c.e.l,Ç/E\l,_,469,N,N,fro,ciel,DMF,ciel,NOMcom,NOMcom,smr,"Passion, l. 469",</l>,,
-2622,470,1,ad,ad,VQ,a,/V\Q,+,470,Pre,Pre,lat,à,DMF,à,PRE,PRE,,"Passion, l. 470",,<l n=&quot;470&quot;>,
+2622,470,1,ad,ad,VQ,a.d,/V\Q,+,470,Pre,Pre,lat,à,DMF,à,PRE,PRE,,"Passion, l. 470",,<l n=&quot;470&quot;>,
 2623,470,2,dex|tris,dextris,QVQQRVQ,d.e.x.t.r.i.s,'Q/V\Q.QR/V\Q,_,470,Adj,Adj,lat,dextre,DMF,dextre,ADJqua,NOMcom,smr,"Passion, l. 470",,,
 2624,470,3,deu,deu,dɛu,d.e.u,d/ɛ\u,_,470,N,N,fro,Dieu,DMF,Dieu,NOMpro,NOMpro,smr,"Passion, l. 470",,<lb/>,
 2625,470,4,i[esu]s,jesus,ʤEzUS,j.e.s.u.s,ʤ/E\.'z/U\S,_,470,N,N,fro,Jésus,wikipedia.fr,,NOMpro,NOMpro,smn,"Passion, l. 470",,,

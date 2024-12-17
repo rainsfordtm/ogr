@@ -42,14 +42,26 @@
             <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:settlement/text()"/>
             <xsl:text>, </xsl:text>
             <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:repository/text()"/>
-            <xsl:if test="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno">
+            <xsl:if test="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno[@type = 'catalogue']">
                 <xsl:text>, </xsl:text>
-                <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno"/>
+                <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno[@type = 'catalogue']"/>
             </xsl:if>
             <xsl:text>.</xsl:text>
+            <xsl:if test="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno[@type = 'URI']">
+                <xsl:text> Manuscript image: </xsl:text>
+                <xsl:element name="a">
+                    <xsl:attribute name="href">
+                        <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno[@type = 'URI']"/>
+                    </xsl:attribute>
+                    <xsl:value-of select="tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:msIdentifier/tei:idno[@type = 'URI']"/>
+                </xsl:element>
+            </xsl:if>
             <xsl:element name="blockquote">
                 <xsl:apply-templates select="tei:fileDesc/tei:publicationStmt/tei:availability/tei:licence/tei:ab/tei:bibl"/>
             </xsl:element>
+            <xsl:if test="tei:encodingDesc/tei:editorialDecl/tei:interpretation[@resp != '#ogrsrc']">
+                <xsl:apply-templates select="tei:encodingDesc/tei:editorialDecl/tei:interpretation[@resp != '#ogrsrc']" mode="norm"/>
+            </xsl:if>
         </xsl:element>
         <div class="ogr-row">
             <div class="ogr-column">
@@ -80,8 +92,8 @@
         <xsl:apply-templates mode="#current"/>
     </xsl:template>
     
-    <xsl:template match="tei:p | tei:ab | tei:lg" mode="norm">
-        <!-- Turn abs, ps, lgs into HTML p elements, adding lang attribute -->
+    <xsl:template match="tei:p | tei:ab | tei:lg | tei:head" mode="norm">
+        <!-- Turn abs, ps, lgs and heads into HTML p elements, adding lang attribute -->
         <xsl:element name="p">
             <xsl:attribute name="class">
                 <!-- Class contains ogr-lang-X and ogr-Y, where X is the
@@ -96,7 +108,7 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:text> ogr-</xsl:text>
-                <xsl:value-of select="./parent::node()/local-name()"/>
+                <xsl:value-of select="local-name()"/>
                 <!-- If in a stage direction, add here -->
                 <xsl:if test="ancestor::tei:stage">
                     <xsl:text> ogr-stage</xsl:text>
@@ -106,12 +118,12 @@
         </xsl:element>
     </xsl:template>
     
-    <xsl:template match="tei:p | tei:ab | tei:lg" mode="dipl">
+    <xsl:template match="tei:p | tei:ab | tei:lg | tei:head" mode="dipl">
         <!-- Turn abs, ps, lgs into HTML p elements, no lang attribute -->
         <xsl:element name="p">
             <xsl:attribute name="class">
                 <xsl:text>ogr-</xsl:text>
-                <xsl:value-of select="./parent::node()/local-name()"/>
+                <xsl:value-of select="local-name()"/>
             </xsl:attribute>
             <xsl:apply-templates mode="#current"/>
         </xsl:element>
@@ -152,7 +164,8 @@
         </xsl:if>
     </xsl:template>
     
-    <xsl:template match="tei:s" mode="norm">        
+    <xsl:template match="tei:s | tei:cl | tei:phr" mode="norm">       
+        <!-- cl and phr elements used in Jonas for the many code-switches --> 
         <xsl:element name="span">
             <xsl:attribute name="class">
                 <xsl:text>ogr-</xsl:text>
@@ -164,7 +177,9 @@
             </xsl:attribute>
             <xsl:apply-templates mode="#current"/>
         </xsl:element>
-        <xsl:text>/ </xsl:text>
+        <xsl:if test="local-name() = 's'">
+            <xsl:text>/ </xsl:text>
+        </xsl:if>
     </xsl:template>
     
     <xsl:template match="tei:secl" mode="norm">
@@ -196,6 +211,8 @@
                 <xsl:value-of select="@pos"/>
                 <xsl:text> </xsl:text>
                 <xsl:value-of select="@msd"/>
+                <xsl:text> </xsl:text>
+                <xsl:value-of select="substring-before(substring-after(@ana, '#syllabified£'), ' ')"/>
             </xsl:attribute>
             <xsl:apply-templates mode="#current"/>
         </xsl:element>
@@ -308,8 +325,6 @@
         <xsl:element name="span">
             <xsl:attribute name="class">ogr-milestone</xsl:attribute>
             <xsl:text>[</xsl:text>
-            <xsl:value-of select="local-name()"/>
-            <xsl:text>: </xsl:text>
             <xsl:value-of select="@n"/>
             <xsl:text>]</xsl:text>
         </xsl:element>
@@ -411,6 +426,23 @@
         <!-- Ignore labels and their children (processed by ITEM). -->
     </xsl:template>
     
+    <!-- RENDERING IN MANUSCRIPT -->
+
+    <xsl:template match="tei:hi" mode="dipl">
+        <!-- Underlining in Jonas manuscript -->
+        <xsl:element name="span">
+            <xsl:attribute name="class">
+                <xsl:if test="@rend='underline'">
+                    <xsl:text>ogr-underline</xsl:text>
+                </xsl:if>
+            </xsl:attribute>
+            <xsl:apply-templates mode="#current"/>
+        </xsl:element>
+    </xsl:template>
     
+    <xsl:template match="tei:hi" mode="norm">
+        <!-- Ignore in normalized mode -->
+        <xsl:apply-templates mode="#current"/>
+    </xsl:template>
     
 </xsl:stylesheet>

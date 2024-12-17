@@ -14,13 +14,20 @@
             <edition>Annotated transcription prepared for the Old Gallo-Romance corpus <ref
                   target="http://www.ogr-corpus.org">ogr-corpus.org</ref>
             </edition>
-            <respStmt>
-               <resp>Transcription and annotation</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+            <respStmt xml:id="transcription">
+                <resp>Transcription</resp>
+                <name target="#frankhartmann">Frank and Hartmann (1997)</name>
             </respStmt>
-            <respStmt>
+            <respStmt xml:id="ogrsrc">
+               <resp>Transcription and manual annotation</resp>
+               <name>Thomas Rainsford</name>
+               <name>Old Gallo-Romance Corpus sources<ref target="https://github.com/rainsfordtm/ogr">https://github.com/rainsfordtm/ogr</ref></name>
+            </respStmt>
+            <respStmt xml:id="ogrtei">
                <resp>Conversion to XML-TEI file</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+               <name>Thomas Rainsford</name>
+               <name>Syllabic Verse Analysis (SylVA) scripts,
+               <ref target="https://sourceforge.net/projects/syllabic-verse-analysis/">https://sourceforge.net/projects/syllabic-verse-analysis/</ref></name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -59,7 +66,7 @@
                <msIdentifier> <!-- METADATA ms -->
                   <settlement>Augsburg</settlement>
                   <repository>Stadtarchiv</repository>
-                  <idno>Urkundensammlung no. 5</idno>
+                  <idno type="catalogue">Urkundensammlung no. 5</idno>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -96,7 +103,7 @@
                <p>Manuscript reading only modified where the text is uninterpretable and there is an
                   indisputable scriptological error (e.g. a repeated word or a missing initial).</p>
             </correction>
-            <interpretation>
+            <interpretation resp="#ogrsrc">
                <p>See <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref> for full
                   documentation of the annotation scheme.</p>
             </interpretation>

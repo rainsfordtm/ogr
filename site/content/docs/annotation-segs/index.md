@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 2: Segments'
 date: 2024-12-17
-weight: 51
+weight: 11
 summary: Segment-level annotation.
 ---
+
+\[[previous](/docs/annotation)\] \[[next](/docs/annotation-word)\]
 
 \[[1. Basis of the reconstruction](#1-basis-of-the-reconstruction)\]
 \[[2. Symbols and features](#2-symbols-and-features)\]
@@ -114,3 +116,5 @@ tag, which concatenates all the `seg_phonemes` in the word as a single string. T
 | l | l | + | + | - |  | + | - |  | + | + |  |  |  |  | + |
 | ʎ | ʎ | + | + | - |  | + | - |  |  |  |  | + | - |  | + |
 | r | r | + | + | + |  | - | - |  | + |  |  |  |  |  | + |
+
+\[[previous](/docs/annotation)\] \[[next](/docs/annotation-word)\]

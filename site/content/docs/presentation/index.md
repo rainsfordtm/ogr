@@ -5,8 +5,11 @@ weight: 2
 summary: Read about the corpus and why it was created
 ---
 
+\[[Introduction](#introduction)\]
+\[[History](#history)\]
+\[[Sources and bibliography](#sources-and-bibliography)\]
 
-## Introduction to the Corpus
+## Introduction
 
 The Old Gallo-Romance (OGR) corpus contrains richly annotated versions of the
 all texts preserved in Gallo-Romance manuscripts from before c1130. Since most of the texts
@@ -79,7 +82,7 @@ presentation of the corpus, and Rainsford (2024), which examines
 sandhi phenomena, enclisis and proclisis in these old Gallo-Romance
 texts.
 
-## History of the OGR corpus
+## History
 
 The OGR began life during my time as a postdoc on the SRCMF project at the ENS de Lyon,
 where I was able to collaborate with Alexei Lavrentiev and Céline Barbance-Guillot
@@ -118,9 +121,9 @@ License changed to CC BY-NC-SA 4.0.
 + 8 June 2021: Preview version 0.1.4 for TXM 0.8.1 released.
 + 1 June 2021: Website online, preview version 0.1.3 for TXM released.
 
-## Sources, credits, references
+## Sources and bibliography
 
-### Sources and copyright
+### Sources
 
 + The source texts are all in the public domain in the EU.
 + The normalized transcriptions, part-of-speech annotation and lemmatization in the following texts
@@ -133,7 +136,7 @@ and have not been checked against the base manuscript. The transcription
 of _ChansLas_ is based on Bischoff (1984) and has not been checked
 against the base manuscript.
 + The transcription of _Jonas_, in particular the resolution of the Tironian notes
-and the reconstruction of missing text, is taken from De Poerck (1955).
+and the reconstruction of missing text, is based on De Poerck (1955).
 + A previous annotated version of the Boeci text was created in collaboration with Olga Scrivner
 [(Rainsford and Scrivner 2014)](https://drive.google.com/file/d/1aAqLIcT3SyZ3_4fbTTAm7StcaQoRZDfh/view?usp=sharing).
 + All other transcriptions and annotations are my own original work, 
@@ -193,7 +196,7 @@ by Janice Carruthers, Mairi McLaughlin, and Olivia Walsh, 25-48. Oxford: Oxford 
 [https://doi.org/10.1093/oso/9780192894366.003.0002](https://doi.org/10.1093/oso/9780192894366.003.0002).
 + Schwarze, Christoph. 1963. Der altprovenzalische Boeci. Münster: Aschendorff. (_Boeci_)
 + Storey, Christopher, ed. 1968. _La Vie de Saint Alexis: texte du manuscrit de Hildesheim (L)_. Paris: Minard. (_Alexis_)
-+ Thomas, Antoine, ed. 1925. _La Chanson de Sainte Foi d'Agen : poème provençal du XIe siècle. Paris: Champion. (_SFoi_)
++ Thomas, Antoine, ed. 1925. _La Chanson de Sainte Foi d'Agen : poème provençal du XIe siècle_. Paris: Champion. (_SFoi_)
 + Thomas, Lucien-Paul, ed. 1951. _Le 'Sponsus': (mystère des vierges sages et des vierges folles. Paris: Pr. Univ. de France. (_Spons_)
 + Zufferey, François. 2007. Perspectives nouvelles sur l'Alexandre d’Auberi de Besançon.
 _Zeitschrift für romanische Philologie (ZrP) 123: 385-418.

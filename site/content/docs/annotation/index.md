@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 1: Overview'
 date: 2024-12-17
-weight: 30
+weight: 10
 summary: Read the documentation of the annotation scheme.
 ---
+
+\[[next](/docs/annotation-segs)\]
 
 \[[1. Units annotated](#1-units-annotated)\] \[[2. ANNIS and TXM versions](#2-annis-and-txm-versions)\]
 
@@ -31,3 +33,5 @@ Annotation differs between the [ANNIS and TXM versions](/docs/download).
 + __TXM__ supports only word-level tokenization and all annotation is (as far as possible) realized as word-level tags. 
 
 This annotation guide refers to the ANNIS version unless otherwise specified.
+
+\[[next](/docs/annotation-segs)\]

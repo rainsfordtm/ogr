@@ -10,11 +10,11 @@ manuscripts. __The corpus is now complete__ and contains twenty-two texts.
 
 I want to...
 
-* ...[__read the transcriptions__ online](/docs/texts)
+* ...[read the __introduction__](/docs/presentation)
+* ...[read about the __annotation__](/docs/annotation)
+* ...[read the __texts__](/docs/texts)
 * ...[__query__ the corpus online](http://ogr-corpus.org/annis-gui-3.6.0)
 * ...[__download__ the corpus](/docs/download) (TXM / TEI-P5 / ANNIS)
-* ...[__read about the corpus__ and why it was created](/docs/presentation)
-* ...[__read the annotation manual__](/docs/annotation)
 
 ## Citation and License
 

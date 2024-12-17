@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 4: Syllables and Meter'
 date: 2024-12-17
-weight: 53
+weight: 13
 summary: Syllable-level and metrical annotation
 ---
+
+\[[previous](/docs/annotation-word)\] \[[next](/docs/sample-queries)\]
 
 \[[1. Verse and prose](#1-verse-and-prose)\]
 \[[2. Annotation available in all texts](#1-annotation-available-in-all-texts)\]
@@ -149,3 +151,5 @@ For example, the word _ancienur_ (_Alexis_, l. 1) occupies the last four metrica
 of a decasyllabic line. It therefore has `metpos="07.08.09.10.r"` and `soptem="04.03.02.01.r`.
 
 __Tip__: `soptem` is `metpos` backwards, to help remember which is which!
+
+\[[previous](/docs/annotation-word)\] \[[next](/docs/sample-queries)\]

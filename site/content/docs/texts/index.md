@@ -2,7 +2,7 @@
 title: 'Texts'
 date: 2024-12-17
 summary: 'Texts and transcriptions'
-weight: 3
+weight: 20
 ---
 
 \[[Texts](#texts)\]
@@ -11,7 +11,7 @@ weight: 3
 
 ## Texts
 
-The corpus contains __twenty-two__ texts:
+The corpus contains __twenty-two__ texts. Click on the link to read the text.
 
 1. [__The Sequence of Saint Eulalia__](/docs/eulalie). Composed 881..2, copied
 in the late ninth century.
@@ -120,12 +120,13 @@ Click on the links (if available) to see the manuscript images.
 (Jonas)
 3. __Rome, Biblioteca Apostolica Vaticana, Reginae lat. 1462__ (Alba)
 4. __Augsburg, Stadtarchiv, Urkundensammlung no. 5__ (PassAugs)
-5. __Clermont-Ferrand, Bibliothèque municipale, 201__ (BenClerm)
+5. [__Clermont-Ferrand, Bibliothèque municipale, 201__](https://overnia.bibliotheques-clermontmetropole.eu/notice.php?q=id:71548) (BenClerm) Image also available [here](/docs/ms201-89v).
 6. [__Paris, Bibliothèque Nationale, lat. 9768__](https://gallica.bnf.fr/ark:/12148/btv1b84238417/f29.item) (Serments)
-7. [__Clermont-Ferrand, Bibliothèque Municipale, 240__](/docs/ms240) (Passion, SLeger)
+7. [__Clermont-Ferrand, Bibliothèque municipale, 240__](https://overnia.bibliotheques-clermontmetropole.eu/notice.php?q=id:71595) (Passion, SLeger)
+Images also available [here \(Passion\)](/docs/ms240-109v) and [here \(SLeger\)](/docs/ms240-159v).
 8. __London, British Library, Harley 2750__ (ChansLas)
 9. [__Paris, Bibliothèque nationale, lat. 1139__](https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f113.item) (PrDieu, PrVierge2, PrVierge3, Spons)
-10. __Leiden, University Library, Vossiani lartini in-octavo 60__ (SFoi)
+10. [__Leiden, University Library, Vossiani lartini in-octavo 60__](http://hdl.handle.net/1887.1/item:4143579) (SFoi)
 11. [__Orléans, Bibliothèque Municipale, no. 444__](https://mediatheques.orleans.fr/recherche/viewnotice/id_sigb/259634/id_int_bib/3) (Boeci)
 12. [__Paris, Bibliothèque nationale, lat. 2403__](https://gallica.bnf.fr/ark:/12148/btv1b10540990d/f333.item) (EpreuveJudic)
 13. [__Florence, Biblioteca Laurenziana, plut. LXIV, Cod. 35__](https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1296876/rec/1) (AlexAlb)

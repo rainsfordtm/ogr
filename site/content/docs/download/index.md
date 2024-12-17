@@ -1,16 +1,23 @@
 ---
 title: 'Corpus'
-date: 2024-12-14
-weight: 2
+date: 2024-12-17
+weight: 3
 summary: Access the corpus
 ---
 
-## Quick links
+Quick access the corpus:
 
-+ [__ANNIS web interface.__](http://www.ogr-corpus.org/annis-gui-3.6.0)
-+ [Download latest release from GitHub](https://github.com/rainsfordtm/ogr/releases)
++ [Web interface (ANNIS)](http://www.ogr-corpus.org/annis-gui-3.6.0)
++ [Download](https://github.com/rainsfordtm/ogr/releases)
 
-## 1. ANNIS web interface
+Read more about the different versions:
+
++ [1. ANNIS web](#1-annis-web) for all types of queries online
++ [2. TXM](#2-txm) for non-phonological queries in a simpler interface
++ [3. ANNIS offline](#3-annis-offline) for all types of queries offline
++ [4. XML-TEI P5](#4-xml-tei-p5) if you want to use your own tools
+
+## 1. ANNIS web
 
 __Recommended for phonological/metrical queries referencing segments and syllables.__
 
@@ -37,7 +44,7 @@ results identified by a query.
 + "Document Browser". Click on the document icon next to the corpus to view __normalized and diplomatic versions__ of the
 texts.
 
-## 2. TXM desktop
+## 2. TXM
 
 __Recommended for simpler, non-phonological queries__
 
@@ -78,7 +85,7 @@ If you need to use the corpus offline, you can also --- with a little effort ---
 1. In ANNIS Kickstarter, click "Import Corpus" and the folder `relANNIS/ogr040`. Repeat for `relANNIS/ogrsv040`.
 1. Click "Launch ANNIS frontend".
 
-## 4. TEI P5
+## 4. XML-TEI P5
 
 [__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-tei.zip)
 

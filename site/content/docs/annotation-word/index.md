@@ -1,9 +1,11 @@
 ---
 title: 'Annotation 3: Words'
 date: 2024-12-17
-weight: 52
+weight: 12
 summary: Word-level annotation.
 ---
+
+\[[previous](/docs/annotation-segs)\] \[[next](/docs/annotation-sylls)\]
 
 \[[1. Tokenization](#1-tokenization)\]
 \[[2. Summary of annotation](#2-summary-of-annotation)\]
@@ -134,3 +136,5 @@ main values:
 
 `lemma_dmf` gives DMF lemmas for all texts, including southern Gallo-Romance. 
 Where the word or its cognate is not found in the DMF, `lemma_dmf` is left blank.
+
+\[[previous](/docs/annotation-segs)\] \[[next](/docs/annotation-sylls)\]

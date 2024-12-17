@@ -14,18 +14,21 @@
             <edition>Annotated transcription prepared for the Old Gallo-Romance corpus 
                <ref target="http://www.ogr-corpus.org">ogr-corpus.org</ref>
             </edition>
-            <respStmt>
+            <respStmt xml:id="transcription">
                <resp>Transcription and corrections to text</resp>
-               <name xml:id="TMR">Tom Rainsford</name>
-               <name xml:id="CMN">Christiane Marchello-Nizia</name>
+               <name>Thomas Rainsford</name>
+               <name>Christiane Marchello-Nizia</name>
             </respStmt>
-            <respStmt>
-               <resp>Annotation</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+            <respStmt xml:id="ogrsrc">
+               <resp>Manual annotation</resp>
+               <name>Thomas Rainsford</name>
+               <name>Old Gallo-Romance Corpus sources<ref target="https://github.com/rainsfordtm/ogr">https://github.com/rainsfordtm/ogr</ref></name>
             </respStmt>
-            <respStmt>
+            <respStmt xml:id="ogrtei">
                <resp>Conversion to XML-TEI file</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+               <name>Thomas Rainsford</name>
+               <name>Syllabic Verse Analysis (SylVA) scripts,
+               <ref target="https://sourceforge.net/projects/syllabic-verse-analysis/">https://sourceforge.net/projects/syllabic-verse-analysis/</ref></name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -60,6 +63,7 @@
                <msIdentifier> <!-- METADATA ms -->
                   <settlement>Hildesheim</settlement>
                   <repository>Sankt Godehardi</repository>
+                  <idno type="URI">https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml</idno>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -93,7 +97,7 @@
                <p>Manuscript reading only modified where the text is uninterpretable and there is an indisputable
                   scriptological error (e.g. a repeated word or a missing initial).</p>
             </correction>
-            <interpretation>
+            <interpretation resp="#ogrsrc">
                <p>See <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref> for full documentation of
                   the annotation scheme.</p>
             </interpretation>

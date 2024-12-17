@@ -16,16 +16,19 @@
             </edition>
             <respStmt>
                <resp>Initial transcription and part-of-speech annotation</resp>
-               <name xml:id="TMR">Tom Rainsford</name>
-               <name xml:id="OS">Olga Scrivner</name>
+               <name>Thomas Rainsford</name>
+               <name>Olga Scrivner</name>
             </respStmt>
-            <respStmt>
+            <respStmt xml:id="ogrsrc">
                <resp>Revised diplomatic transcription and all further annotation</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+               <name>Thomas Rainsford</name>
+               <name>Old Gallo-Romance Corpus sources<ref target="https://github.com/rainsfordtm/ogr">https://github.com/rainsfordtm/ogr</ref></name>
             </respStmt>
-            <respStmt>
+            <respStmt xml:id="ogrtei">
                <resp>Conversion to XML-TEI file</resp>
-               <name ref="#TMR">Tom Rainsford</name>
+               <name>Thomas Rainsford</name>
+               <name>Syllabic Verse Analysis (SylVA) scripts,
+               <ref target="https://sourceforge.net/projects/syllabic-verse-analysis/">https://sourceforge.net/projects/syllabic-verse-analysis/</ref></name>
             </respStmt>
          </editionStmt>
          <publicationStmt>
@@ -63,7 +66,8 @@
                <msIdentifier> <!-- METADATA ms -->
                   <settlement>Orleans</settlement>
                   <repository>Bibliothèque municipale</repository>
-                  <idno>444</idno>
+                  <idno type="catalogue">444</idno>
+                  <idno type="URI">https://mediatheques.orleans.fr/recherche/viewnotice/id_sigb/259634/id_int_bib/3</idno>
                </msIdentifier>
             </msDesc>
          </sourceDesc>
@@ -100,7 +104,7 @@
                <p>Manuscript reading only modified where the text is uninterpretable and there is an
                   indisputable scriptological error (e.g. a repeated word or a missing initial).</p>
             </correction>
-            <interpretation>
+            <interpretation resp="#ogrsrc">
                <p>See <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref> for full
                   documentation of the annotation scheme.</p>
             </interpretation>
