@@ -1,0 +1,69 @@
+div.ogr-row{  display: flex; }
+div.ogr-column{  flex: 50%; }
+div.ogr-header { 
+    font-size: 0.8em;
+    border-style: solid;
+    border-width: thin;
+    border-color: gray;
+    }
+.ogr-abbr {
+    font-style: italic;
+}
+.ogr-corr {
+    color: Maroon;
+    font-size: 12px;
+    font-family: monospace;
+}
+.ogr-gap {
+    background-color: LightGray;
+}
+.ogr-head {
+    text-align: center;
+    }
+.ogr-milestone {
+        font-family: monospace;
+        font-size: 0.6em;
+        color: gray;
+}
+.ogr-lang-fro{ background-color: white; }
+.ogr-lang-goh{ background-color: LightGray; }
+.ogr-lang-lat{ background-color: LightGray; }
+.ogr-lang-pro{ background-color: white; }
+.ogr-lineno{ 
+            display: inline-block;
+            width: 3em; 
+            text-align: right;
+            margin-right: 1em; 
+            font-family: monospace;
+            font-size: 0.6em;
+            }
+.ogr-secl {
+    font-size: 0.8em
+}
+.ogr-shorthand {
+    font-variant: small-caps;
+}
+.ogr-supplied {
+    color: Maroon;
+}
+.ogr-supplied:hover {
+    
+    color: red;
+}
+.ogr-surplus {
+    color: Maroon;
+    text-decoration: line-through;
+}
+p.ogr-stage {
+	text-align: right;
+	text-justify: inter-word;
+}
+p.ogr-transcription-title {
+    text-align: center;
+    font-weight: bold;
+}
+.ogr-underline {
+    text-decoration: underline;
+}
+.ogr-w:hover{ color: red; }
+
