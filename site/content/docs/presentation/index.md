@@ -12,7 +12,7 @@ summary: Read about the corpus and why it was created
 ## Introduction
 
 The Old Gallo-Romance (OGR) corpus contrains richly annotated versions of the
-all texts preserved in Gallo-Romance manuscripts from before c1130. Since most of the texts
+all Gallo-Romance texts preserved in manuscripts copied before c1130. Since most of the texts
 are well-known and excellent corpora of Old French (notably the _Base de français médiéval_ at
 [bfm.ens-lyon.fr](http://bfm.ens-lyon.fr)) are already available, it's reasonable to ask: why do we
 need this corpus too?
@@ -27,7 +27,7 @@ The OGR corpus contains both Old French and Old Occitan texts. The textual recor
 question is extremely sparse, the texts do not clearly belong to a single literary tradition
 and none of the them is written in the same Gallo-Romance variety.  More importantly, a number
 of the texts from this period show effects of contact between northern and southern 
-Gallo-Romance varieties, notably the [_Passion_ of Clermont](/docs/texts/#passion), or originate
+Gallo-Romance varieties, notably the _Passion_ of Clermont, or originate
 from regions such as Poitou near the linguistic border between the northern and southern
 Gallo-Romance areas. 
 
@@ -38,7 +38,7 @@ representative overview of the available data.
 #### 1.2 Manuscript oriented
 
 The OGR corpus focuses on manuscripts, not texts. The only manuscripts included are those copied before
-_c_ 1130, which provides a clear _terminus ad quem_ for any observed linguistic development,
+c1130, which provides a clear _terminus ad quem_ for any observed linguistic development,
 since any possible modernization by later scribes is excluded. Furthermore, the OGR includes
 a diplomatic edition of the text verified against photographs of the manuscript. The original
 word division and manuscript abbreviations are recorded and corrections to the text are
@@ -77,10 +77,34 @@ future.
 However, most of the northern Gallo-Romance texts were manually parsed during the SRCMF project and
 are available as part of the Profiterole treebank [https://universaldependencies.org/treebanks/fro_profiterole/index.html](https://universaldependencies.org/treebanks/fro_profiterole/index.html).
 
-Two of my papers use the OGR: Rainsford (2022), which gives a detailed
+Two of my papers use the OGR: [Rainsford \(2022\)](https://doi.org/10.1051/shsconf/202213802007), which gives a detailed
 presentation of the corpus, and Rainsford (2024), which examines
 sandhi phenomena, enclisis and proclisis in these old Gallo-Romance
 texts.
+
+### 3. Why c1130?
+
+The cut-off date for inclusion in the OGR corpus is fixed at c1130,
+roughly the date at which the Hildesheim manuscript of the _Life of
+Saint Alexis_ was copied but before the Oxford manuscript of the 
+_Song of Roland_. The date itself is arbitrary but it allows
+the OGR to include only those texts which are traditionally considered
+to be the "early monuments" of Gallo-Romance. These texts are united
+by their individuality. Except for the _Life of Saint Alexis_, each text
+is preserved only in a single manuscript. They are all written in a different
+variety of Gallo-Romance, and have little in common with each other
+in terms of their poetic form.
+Many are chance survivors, but even those which are not cannot easily be
+connected to the literary traditions that develop in the twelfth century. 
+In short, the OGR is a collection of early, "oddball" texts.
+
+With this in mind, there is a deliberate omission from the corpus. In the southern
+Gallo-Romance area, legal documents began to be written in the vernacular,
+at least in part, towards the end of the eleventh century (see Brunel 1926).
+These documents are linguistically very interesting but it makes little
+sense to include only those copied before 1130 and exclude the rest,
+since these are not oddball survivors but the first examples of an
+emerging textual tradition.
 
 ## History
 
@@ -88,17 +112,22 @@ The OGR began life during my time as a postdoc on the SRCMF project at the ENS d
 where I was able to collaborate with Alexei Lavrentiev and Céline Barbance-Guillot
 to produce new editions of the _Serments_ and _Eulalie_ texts. Subsequently,
 Christiane Marchello-Nizia invited me to collaborate on the creation of a multi-facet edition
-of the edition of the _Life of Saint Alexis_, which involved retranscribing and
-reannotating the whole text. All of these editions are now also available in
+of the edition of the _Life of Saint Alexis_
+(Rainsford and Marchello-Nizia 2024). All of these editions are now also available in
 the [_Base de français médiéval_](http://bfm.ens-lyon.fr).
+The style of the editions in the OGR, and in some cases the stylesheets
+themselves, draw heavily on Alexei Lavrentiev's work for the BFM.
+I'm grateful to the BFM team (Céline Guillot-Barbance and Alexey Lavrentiev)
+and to the developers of the TXM software (Serge Heiden and Mathieu
+Decorde) for their support, inspiration and encouragement over the years.
 
 As a British Academy Post-Doctoral Fellow at the University of Oxford, I continued to develop
 the tools used to build the metrically and syntactically annotated corpus developed during 
 [my doctoral thesis](https://dx.doi.org/10.17863/CAM.16503). 
 These tools were used to produce an initial version of the _Boeci_ text, annotated both
 metrically and syntactically in
-[joint work with Olga Scrivner](https://drive.google.com/file/d/1aAqLIcT3SyZ3_4fbTTAm7StcaQoRZDfh/view?usp=sharing),
-who also introduced me to the ANNIS software.
+[joint work with Olga Scrivner](http://dx.doi.org/10.18419/opus-15350),
+who also introduced me to the ANNIS software. 
 
 The phonological transcriptions were developed for 
 [a paper published in 2020](https://dx.doi.org/10.2218/pihph.5.2020.4433) on the the 
@@ -107,8 +136,11 @@ also includes a transcription of all the forms in the _Song of Roland_ , was pub
 the TROLLing repository.
 
 A preview version of the corpus (v0.1.3) was released on ogr-corpus.org in June 2021.
-The corpus will be presented (in French) at the [Congrès mondial de linguistique française](https://cmlf2022.sciencesconf.org/)
-in Orleans in July 2022.
+Version 0.4 of the corpus was presented at the
+_Congrès mondial de linguistique française_
+in Orleans in July 2022, and the paper was published in the conference
+proceedings \([Rainsford 2022](https://doi.org/10.1051/shsconf/202213802007)\).
+The first complete version of the corpus was released in January 2025.
 
 ### Version history
 
@@ -154,6 +186,7 @@ In _Lateinische Dichtungen des X. und XI. Jahrhunderts: Festgabe für Walther Bu
 edited by Walther Bulst, Walter Berschin, and Reinhard Düchting, 251-79. Heidelberg: Schneider.
 + Bischoff, Bernhard, ed. 1984. _Anecdota Novissima: Texte des vierten bis sechzehnten Jahrhunderts_. Stuttgart: Hiersemann. (_ChansLas_)
 + Blumenthal, Peter, and Achim Stein, eds. 2002. _Tobler-Lommatzsch: Altfranzösisches Wörterbuch_. Stuttgart: Steiner.
++ Brunel, Clovis. 1926. _Les Plus Anciennes Chartes en langue provençale. Recueil des pièces originales antérieures au XIIIe siècle, publiées avec une étude morphologique_. Paris: A. Picard.
 + Brunel-Lobrichon, Geneviève. 2003. Le manuscrit du _Sponsus_ et ses poésies bilingues. Édition et traduction de deux poèmes à la Vierge (XIe siècle).
 In _La tradition vive: mélanges d'histoire des textes en l'honneur de Louis Holtz_, edited by Pierre Lardet, 401-15. 
 Turnhout: Brepols. (_PrDieu_, _PrVierge2_, _PrVierge3_)
@@ -179,7 +212,7 @@ In _Miscellanea Mediaevalia: Mélanges Offerts à Philippe Ménard_, edited by J
 + Mölk, Ulrich. 1996. Zwei Fragmente galloromanischer Weltlicher Lyrik des 11. Jahrhunderts.
 In _Ensi firent li ancessor : mélanges de philologie médiévale offerts à Marc-René Jung_, edited
 by Marc René Jung, Luciano Rossi, Christine Jacob-Hugon, and Ursula Bähler, 47-51. Alessandria: Edizioni dell'Orso. (_ChansLas_)
-+ Mölk, Ulrich, and Günter Holtus. 1999. Alberics Alexanderfragment. Neuausgabe und Kommentar'.
++ Mölk, Ulrich, and Günter Holtus. 1999. Alberics Alexanderfragment. Neuausgabe und Kommentar.
 _Zeitschrift für romanische Philologie (ZrP)_ 115: 582-625. (_AlexAlb_)
 + Monaci, Ernesto, ed. 1910. _Facsimili di documenti per la storia delle lingue e delle letterature romanze_. Rome: Anderson.
 + Paden, William D. 2007. The language of the tenth‑century Occitan charms from Clermont‑Ferrand.
@@ -190,18 +223,22 @@ annotation phonologique et métrique des plus anciens textes gallo-romans.
 _SHS Web of Conferences_ 138: 02007.
 [https://doi.org/10.1051/shsconf/202213802007](https://doi.org/10.1051/shsconf/202213802007).
 + Rainsford, Thomas. 2024. Proclisis and enclisis in early Gallo-Romance:
-evidence from sandhi phenomena’. In
+evidence from sandhi phenomena. In
 _Historical and Sociolinguistic Approaches to the French Language_, edited
 by Janice Carruthers, Mairi McLaughlin, and Olivia Walsh, 25-48. Oxford: Oxford University Press.
 [https://doi.org/10.1093/oso/9780192894366.003.0002](https://doi.org/10.1093/oso/9780192894366.003.0002).
-+ Schwarze, Christoph. 1963. Der altprovenzalische Boeci. Münster: Aschendorff. (_Boeci_)
++ Rainsford, Thomas, and Christiane Marchello-Nizia, eds. 2024. _Vie de Saint Alexis_. Lyon: ENS de Lyon. [http://catalog.bfm-corpus.org/AlexisRaM](http://catalog.bfm-corpus.org/AlexisRaM).
++ Rainsford, Thomas, and Olga Scrivner. 2014. Metrical Annotation for a Verse Treebank.
+In _Proceedings of the Thirteenth International Workshop on Treebanks and Linguistic Theories (TLT13),_
+edited by Verena Henrich, Erhard Hinrichs, Daniël de Kok, Petya Osenova, and Adam Przepiórkowski,
+149-159. Tübingen: University of Tübingen. [http://dx.doi.org/10.18419/opus-15350](http://dx.doi.org/10.18419/opus-15350).
 + Storey, Christopher, ed. 1968. _La Vie de Saint Alexis: texte du manuscrit de Hildesheim (L)_. Paris: Minard. (_Alexis_)
 + Thomas, Antoine, ed. 1925. _La Chanson de Sainte Foi d'Agen : poème provençal du XIe siècle_. Paris: Champion. (_SFoi_)
-+ Thomas, Lucien-Paul, ed. 1951. _Le 'Sponsus': (mystère des vierges sages et des vierges folles. Paris: Pr. Univ. de France. (_Spons_)
++ Thomas, Lucien-Paul, ed. 1951. _Le 'Sponsus': (mystère des vierges sages et des vierges folles_. Paris: Pr. Univ. de France. (_Spons_)
 + Zufferey, François. 2007. Perspectives nouvelles sur l'Alexandre d’Auberi de Besançon.
-_Zeitschrift für romanische Philologie (ZrP) 123: 385-418.
-+ Zufferey, François. 2020. La chanson de saint Alexis: essai d'édition critique de la version primitive, avec
-apparat synoptique de tous les témoins. Paris: Société des anciens textes français. (_Alexis_)
+_Zeitschrift für romanische Philologie (ZrP)_ 123: 385-418.
++ Zufferey, François. 2020. _La chanson de saint Alexis: essai d'édition critique de la version primitive, avec
+apparat synoptique de tous les témoins_. Paris: Société des anciens textes français. (_Alexis_)
 + Zumthor, Paul. 1984. Un trompe‑l'œil Linguistique ? Le refrain de l'aube bilingue de Fleury. _Romania_ 105: 171-92. (_Alba_)
 
 ### Website

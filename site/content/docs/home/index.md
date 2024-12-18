@@ -5,8 +5,9 @@ weight: 1
 summary: 'Old Gallo-Romance Corpus (OGR) - Home'
 ---
 
-The Old Gallo-Romance (OGR) corpus contains annotated transcriptions of the earliest Gallo-Romance
-manuscripts. __The corpus is now complete__ and contains twenty-two texts.
+The Old Gallo-Romance (OGR) corpus contains annotated transcriptions of all Gallo-Romance
+manuscripts thought to have been copied before c1130.[^1]
+__The corpus is now complete__ and contains twenty-two texts.
 
 I want to...
 
@@ -43,6 +44,6 @@ Germany
 + __ORCID__: [0000-0003-2592-0084](https://orcid.org/0000-0003-2592-0084)
 + __Website__: [https://sites.google.com/site/rainsfordtm/home](https://sites.google.com/site/rainsfordtm/home)
 
-
-
-
+[^1]: In the southern Gallo-Romance area in particular, legal texts begin to be
+written in Romance before the end of the 11th century. These texts
+are not included in the corpus. See the [Introduction](/docs/presentation) for details.
