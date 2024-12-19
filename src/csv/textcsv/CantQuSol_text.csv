@@ -1,552 +1,552 @@
-wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,pos_syn,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
-1,1,1,1,"CantQuSol, l. 1",Quant,quant,_,kANT,qu.a.n.t,k/A\NT,fro,CONsub,CONsub,,quand,DMF,quand,,,"<text><body xml:lang=&quot;fro&quot;><pb n=&quot;92v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b8427444b/f192.item&quot;/><lb n=&quot;3&quot;/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;1&quot;>"
-2,1,2,1,"CantQuSol, l. 1",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,
-3,1,3,1,"CantQuSol, l. 1",solleiz,solleiz,_,SolEiÇ,s.o.ll.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,NOMcom,smn,soleil,DMF,soleil,,,
-4,1,4,1,"CantQuSol, l. 1",conu[er]set,converset,_,kONvɛrSə,c.o.n.v.e.r.s.et,k/O\N.'v/ɛ\r.S/ə\,fro,VERcjg,VERcjg,indpst3,converser,DMF,converser,,,
-5,1,5,1,"CantQuSol, l. 1",en,en,+,En,e.n,/E\n,fro,PRE,PRE,,en,DMF,en,,,
-6,1,6,1,"CantQuSol, l. 1",leon,leon,|,LEOn,l.e.o.n,L/E\.'/O\n,fro,NOMcom,NOMcom,smr,lion,DMF,lion,,</l>,
-7,2,1,2,"CantQuSol, l. 2",en,en,+,En,e.n,/E\n,fro,PRE,PRE,,en,DMF,en,,,<lb/><l n=&quot;2&quot;>
-8,2,2,2,"CantQuSol, l. 2",icel,icel,+,iʦel,i.c.e.l,/i\.'ʦ/e\l,fro,DETdem,DETdem,smr,cil,DMF,cil,,,
-9,2,3,2,"CantQuSol, l. 2",tens,tens,_,tENS,t.e.n.s,t/E\NS,fro,NOMcom,NOMcom,smr,temps,DMF,temps,,,
-10,2,4,2,"CantQuSol, l. 2",qu,qu,+,k,qu,k/\,fro,PRNrel,PRNrel,smn,que,DMF,que,,,
-11,2,5,2,"CantQuSol, l. 2",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-12,2,6,2,"CantQuSol, l. 2",ort[us],ortus,_,ɔrtyS,o.r.t.u.s,/ɔ\r.'t/y\S,lat,NOMcom,NOMcom,smn,hortus,wiktionary,,,,
-13,2,7,2,"CantQuSol, l. 2",pliadon,pliadon,|,pLiAdOn,p.l.i.a.d.o.n,pL/i\./A\.'d/O\n,fro,NOMcom,NOMcom,sfr,Pléiade,wikipedia.fr,,,</l>,
-14,3,1,3,"CantQuSol, l. 3",per,per,_,pEr,p.e.r,p/E\r,fro,PRE,PRE,,par,DMF,par,,,<lb/><l n=&quot;3&quot;>
-15,3,2,3,"CantQuSol, l. 3",unt,unt,_,yN,u.nt,/y\N,fro,DETndf,DETndf,smr,un,DMF,un,,,
-16,3,3,3,"CantQuSol, l. 3",matin,matin,;,mAtin,m.a.t.i.n,m/A\.'t/i\n,fro,NOMcom,NOMcom,smr,matin,DMF,matin,,</l></lg>,
-17,4,1,4,"CantQuSol, l. 4",Vne,une,|,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,DETndf,sfr,un,DMF,un,,,"<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;4&quot;>"
-18,4,2,4,"CantQuSol, l. 4",pulcellet,pulcellet,_,pyLÇɛlə,p.u.l.c.e.ll.et,p/y\L.'Ç/ɛ\.l/(ə)\,fro,NOMcom,NOMcom,sfr,pucelle,DMF,pucelle,,,<lb/>
-19,4,3,4,"CantQuSol, l. 4",odit,odit,_,ɔði,o.d.it,/ɔ\.'ð/i\,fro,VERcjg,VERcjg,indpsp1,ouïr,DMF,ouïr,,,
-20,4,4,4,"CantQuSol, l. 4",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-21,4,5,4,"CantQuSol, l. 4",gent,gent,_,ʤENT,g.e.n.t,ʤ/E\NT,fro,ADJqua,ADVgen,,gent2,DMF,gent2,,,
-22,4,6,4,"CantQuSol, l. 4",plo|rer,plorer,_,pLorær,p.l.o.r.e.r,pL/o\.'r/æ\r,fro,VERinf,VERinf,,pleurer,DMF,pleurer,,</l>,
-23,5,1,5,"CantQuSol, l. 5",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;5&quot;>
-24,5,2,5,"CantQuSol, l. 5",son,son,_,SOn,s.o.n,S/O\n,fro,DETpos,DETpos,3smr,son4,DMF,son4,,,
-25,5,3,5,"CantQuSol, l. 5",ami,ami,_,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,,
-26,5,4,5,"CantQuSol, l. 5",dolcement,dolcement,_,doLÇEmENT,d.o.l.c.e.m.e.n.t,d/o\L.Ç/E\.'m/E\NT,fro,ADVgen,ADVgen,,doucement,DMF,doucement,,,
-27,5,5,5,"CantQuSol, l. 5",regre|ter,regreter,_,rEgrEtær,r.e.g.r.e.t.e.r,r/E\.gr/E\.'t/æ\r,fro,VERinf,VERinf,,regretter,DMF,regretter,,</l>,
-28,6,1,6,"CantQuSol, l. 6",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;6&quot;>
-29,6,2,6,"CantQuSol, l. 6",i[=io],jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1smn,je,DMF,je,,,
-30,6,3,6,"CantQuSol, l. 6",lli,lli,_,Li,ll.i,L/i\,fro,PRCper,PRCper,3sfi,le,DMF,le,,,
-31,6,4,6,"CantQuSol, l. 6",dis,dis,;,diS,d.i.s,d/i\S,fro,VERcjg,VERcjg,indpsp1,dire,DMF,dire,,</l></lg>,
-32,7,1,7,"CantQuSol, l. 7",Gentilz,gentilz,+,ʤENtiLS,g.e.n.t.i.l.z,ʤ/E\N.'t/i\LS,fro,ADJqua,ADJqua,sfn,gentil,DMF,gentil,,,"<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;7&quot;><q>"
-33,7,2,7,"CantQuSol, l. 7",pucellet,pucellet,|,pyʦɛlə,p.u.c.e.ll.et,p/y\.'ʦ/ɛ\.l/(ə)\,fro,NOMcom,NOMcom,sfn,pucelle,DMF,pucelle,,,
-34,7,3,7,"CantQuSol, l. 7",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,<lb/>
-35,7,4,7,"CantQuSol, l. 7",t,t,+,t,t,t/\,fro,PRCper,PRCper,2sfr,te,DMF,te,,,
-36,7,5,7,"CantQuSol, l. 7",ai,ai,_,Ai,a.i,/A\i,fro,VERcjg,VERcjg,indpst1,avoir,DMF,avoir,,,
-37,7,6,7,"CantQuSol, l. 7",odit,odit,_,ɔði,o.d.it,/ɔ\.'ð/i\,fro,VERppe,VERppe,smr,ouïr,DMF,ouïr,,,
-38,7,7,7,"CantQuSol, l. 7",plorer,plorer,_,pLorær,p.l.o.r.e.r,pL/o\.'r/æ\r,fro,VERinf,VERinf,,pleurer,DMF,pleurer,,</q></l>,
-39,8,1,8,"CantQuSol, l. 8",e,e,_,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;8&quot;><q>
-40,8,2,8,"CantQuSol, l. 8",tum,tum,_,tOm,t.u.m,t/O\m,fro,DETpos,DETpos,2smr,ton2,DMF,ton2,,,
-41,8,3,8,"CantQuSol, l. 8",ami,ami,|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,,
-42,8,4,8,"CantQuSol, l. 8",dolcement,dolcement,|,doLÇEmENT,d.o.l.c.e.m.e.n.t,d/o\L.Ç/E\.'m/E\NT,fro,ADVgen,ADVgen,,doucement,DMF,doucement,,,
-43,8,5,8,"CantQuSol, l. 8",regreter,regreter,|,rEgrEtær,r.e.g.r.e.t.e.r,r/E\.gr/E\.'t/æ\r,fro,VERinf,VERinf,,regretter,DMF,regretter,,</add></q></l>,"<add place=""margin"">"
-44,9,1,9,"CantQuSol, l. 9",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;9&quot;><q>
-45,9,2,9,"CantQuSol, l. 9",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,
-46,9,3,9,"CantQuSol, l. 9",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-47,9,4,9,"CantQuSol, l. 9",illi,illi,;|,ili,i.ll.i,/i\.'l/i\,fro,PRNper,PRNper,3smn,il,DMF,il,,</q></l></lg>,
-48,10,1,10,"CantQuSol, l. 10",rget,…rget,_,,,,fro,---,---,,---,---,,,,"<add place=""margin""><lb/><lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;10&quot;><gap reason=""damage""/>"
-49,10,2,10,"CantQuSol, l. 10",fud,fud,+,fy,f.ud,f/y\,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
-50,10,3,10,"CantQuSol, l. 10",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-51,10,4,10,"CantQuSol, l. 10",bon,bon,|,bOn,b.o.n,b/O\n,fro,ADJqua,ADJqua,smr,bon,DMF,bon,,,
-52,10,5,10,"CantQuSol, l. 10",ient,…ient,_,,,,fro,---,---,---,---,---,,,</l>,"<lb/><gap reason=""damage""/>"
-53,11,1,11,"CantQuSol, l. 11",si,si,+,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,<l n=&quot;11&quot;>
-54,11,2,11,"CantQuSol, l. 11",respon,respon…,|,,,,fro,---,---,---,---,---,,,,
-55,11,3,11,"CantQuSol, l. 11",lt,…lt,_,,,,fro,---,---,---,---,---,,,,"<lb/><gap reason=""damage""/>"
-56,11,4,11,"CantQuSol, l. 11",auenable,avenable…,|,,,,fro,---,---,---,---,---,,,"<gap reason=""damage""/></l>",
-57,12,1,12,"CantQuSol, l. 12",so,so,+,So,s.o,S/o\,fro,PRE,PRE,,sur,DMF,sur,,,<lb/><l n=&quot;12&quot;>
-58,12,2,12,"CantQuSol, l. 12",son,son,_,SOn,s.o.n,S/O\n,fro,DETpos,DETpos,3smr,son4,DMF,son4,,,
-59,12,3,12,"CantQuSol, l. 12",ami,ami,;|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</l></lg></add>,
-60,13,1,13,"CantQuSol, l. 13",Li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,"<lb/><lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;13&quot;><q>"
-61,13,2,13,"CantQuSol, l. 13",miens,miens,|,miENS,m.i.e.n.s,m/iE\NS,fro,ADJpos,ADJpos,1smn,mien,DMF,mien,,,
-62,13,3,13,"CantQuSol, l. 13",amis,amis,_,AmiS,a.m.i.s,/A\.'m/i\S,fro,NOMcom,NOMcom,smn,ami,DMF,ami,,,<lb/>
-63,13,4,13,"CantQuSol, l. 13",il,il,_,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,
-64,13,5,13,"CantQuSol, l. 13",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-65,13,6,13,"CantQuSol, l. 13",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-66,13,7,13,"CantQuSol, l. 13",tel,tel,_,tæl,t.e.l,t/æ\l,fro,DETind,DETind,smr,tel,DMF,tel,,,
-67,13,8,13,"CantQuSol, l. 13",paraget,paraget,_,pAraʤə,p.a.r.a.g.et,p/A\.'r/a\.ʤ/(ə)\,fro,NOMcom,NOMcom,smr,parage,DMF,parage,,</q></l>,
-68,14,1,14,"CantQuSol, l. 14",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,CONsub,,que,DMF,que,,,<l n=&quot;14&quot;><q>
-69,14,2,14,"CantQuSol, l. 14",neuls,neuls,+,nEyLS,n.e.u.l.s,n/E\.'/y\LS,fro,DETind,DETind,smn,nul,DMF,nul,,,
-70,14,3,14,"CantQuSol, l. 14",on,on,|,On,o.n,/O\n,fro,NOMcom,NOMcom,smn,homme,DMF,homme,,,
-71,14,4,14,"CantQuSol, l. 14",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
-72,14,5,14,"CantQuSol, l. 14",en,en,+,En,e.n,/E\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-73,14,6,14,"CantQuSol, l. 14",seit,seit,_,SEiT,s.e.i.t,S/E\iT,fro,VERcjg,VERcjg,indpst3,savoir,DMF,savoir,,,
-74,14,7,14,"CantQuSol, l. 14",conter,conter,_,kONtær,c.o.n.t.e.r,k/O\N.'t/æ\r,fro,VERinf,VERinf,,conter,DMF,conter,,,
-75,14,8,14,"CantQuSol, l. 14",lignaget,lignaget,_,Liɲaʤə,l.i.gn.a.g.et,L/i\.'ɲ/a\.ʤ/(ə)\,fro,NOMcom,NOMcom,smr,lignage,DMF,lignage,,</q></l>,
-76,15,1,15,"CantQuSol, l. 15",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,<l n=&quot;15&quot;><q>
-77,15,2,15,"CantQuSol, l. 15",l,l,+,L,l,L/\,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-78,15,3,15,"CantQuSol, l. 15",une,une,|,ynə,u.n.e,'/y\.n/(ə)\,fro,PRNcar,PRNcar,sfr,un,DMF,un,,,
-79,15,4,15,"CantQuSol, l. 15",part,part,;,parT,p.a.r.t,p/a\rT,fro,NOMcom,NOMcom,sfr,part,DMF,part,,</q></l></lg>,<lb/>
-80,16,1,16,"CantQuSol, l. 16",Il,il,_,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;16&quot;><q>"
-81,16,2,16,"CantQuSol, l. 16",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-82,16,3,16,"CantQuSol, l. 16",plus,plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,ADVgen,,plus,DMF,plus,,,
-83,16,4,16,"CantQuSol, l. 16",gensz,gensz,_,ʤENS,g.e.n.sz,ʤ/E\NS,fro,ADJqua,ADJqua,smn,gent2,DMF,gent2,,,
-84,16,5,16,"CantQuSol, l. 16",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,CONsub,,que,DMF,que,,,
-85,16,6,16,"CantQuSol, l. 16",solleiz,solleiz,|,SolEiÇ,s.o.ll.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,NOMcom,smn,soleil,DMF,soleil,,,
-86,16,7,16,"CantQuSol, l. 16",enn,enn,+,En,e.nn,/E\n,fro,PRE,PRE,,en,DMF,en,,,<lb/>
-87,16,8,16,"CantQuSol, l. 16",ested,ested,_,EStæ,e.s.t.ed,/E\S.'t/æ\,fro,NOMcom,NOMcom,smr,été,DMF,été,,</q></l>,
-88,17,1,17,"CantQuSol, l. 17",uers,vers,_,vɛrS,v.e.r.s,v/ɛ\rS,fro,PRE,PRE,,vers2,DMF,vers2,,,<l n=&quot;17&quot;><q>
-89,17,2,17,"CantQuSol, l. 17",lui,lui,_,Lyi,l.u.i,L/y\i,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,
-90,17,3,17,"CantQuSol, l. 17",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-91,17,4,17,"CantQuSol, l. 17",pued,pued,_,puET,p.u.e.d,p/uE\T,fro,VERcjg,VERcjg,indpst3,pouvoir2,DMF,pouvoir2,,,
-92,17,5,17,"CantQuSol, l. 17",tenir,tenir,|,tEnir,t.e.n.i.r,t/E\.'n/i\r,fro,VERinf,VERinf,,tenir,DMF,tenir,,,
-93,17,6,17,"CantQuSol, l. 17",nulle,nulle,_,nylə,n.u.ll.e,'n/y\.l/(ə)\,fro,DETind,DETind,sfr,nul,DMF,nul,,,<lb/>
-94,17,7,17,"CantQuSol, l. 17",clartez,clartez,_,kLArtæ,c.l.a.r.t.ez,kL/A\r.'t/æ\,fro,NOMcom,NOMcom,sfr,clarté,DMF,clarté,,</q></l>,
-95,18,1,18,"CantQuSol, l. 18",tant,tant,_,tANT,t.a.n.t,t/A\NT,fro,ADVgen,ADVgen,,tant,DMF,tant,,,<l n=&quot;18&quot;><q>
-96,18,2,18,"CantQuSol, l. 18",par,par,_,par,p.a.r,p/a\r,fro,ADVgen,ADVgen,,par2,DMF,par2,,,
-97,18,3,18,"CantQuSol, l. 18",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-98,18,4,18,"CantQuSol, l. 18",belsz,belsz,;|,bɛLS,b.e.l.sz,b/ɛ\LS,fro,ADJqua,ADJqua,smn,beau,DMF,beau,,</q></l></lg>,
-99,19,1,19,"CantQuSol, l. 19",Blans,blans,_,bLANS,b.l.a.n.s,bL/A\NS,fro,ADJqua,ADJqua,smn,blanc,DMF,blanc,,,"<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;19&quot;><q>"
-100,19,2,19,"CantQuSol, l. 19",[est],est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-101,19,3,19,"CantQuSol, l. 19",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-102,19,4,19,"CantQuSol, l. 19",roges,roges,_,roʤəS,r.o.g.e.s,'r/o\.ʤ/ə\S,fro,ADJqua,ADJqua,smn,rouge,DMF,rouge,,,
-103,19,5,19,"CantQuSol, l. 19",plus,plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,ADVgen,,plus,DMF,plus,,,
-104,19,6,19,"CantQuSol, l. 19",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,CONsub,,que,DMF,que,,,
-105,19,7,19,"CantQuSol, l. 19",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1sfn,je,DMF,je,,,
-106,19,8,19,"CantQuSol, l. 19",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-107,19,9,19,"CantQuSol, l. 19",l,l,+,L,l,/\L,fro,PRCper,PRCper,3snr,le,DMF,le,,,
-108,19,10,19,"CantQuSol, l. 19",saí,sai,|,SAi,s.a.i,S/A\i,fro,VERcjg,VERcjg,indpst1,savoir,DMF,savoir,,,
-109,19,11,20,"CantQuSol, l. 20",diret,diret,_,dirə,d.i.r.et,'d/i\.r/(ə)\,fro,VERinf,VERinf,,dire,DMF,dire,,</q></l>,<lb/>
-110,20,1,20,"CantQuSol, l. 20",li,li,_,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;20&quot;><q>
-111,20,2,20,"CantQuSol, l. 20",suensz,suensz,_,SuENS,s.u.e.n.sz,S/uE\NS,fro,ADJpos,ADJpos,3smn,son4,DMF,son4,,,
-112,20,3,20,"CantQuSol, l. 20",senblansz,senblansz,_,SENbLANS,s.e.n.b.l.a.n.sz,S/E\N.'bL/A\NS,fro,NOMcom,NOMcom,smn,semblant,DMF,semblant,,,
-113,20,4,20,"CantQuSol, l. 20",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-114,20,5,20,"CantQuSol, l. 20",en,en,+,En,e.n,/E\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-115,20,6,20,"CantQuSol, l. 20",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-116,20,7,20,"CantQuSol, l. 20",entreiz,entreiz,_,ENtrəS,e.n.t.r.ei.z,'/E\N.tr/ə\S,fro,PRE,PRE,,entre,DMF,entre,,,<lb/>
-117,20,8,20,"CantQuSol, l. 20",cent,cent,_,ÇENT,c.e.n.t,Ç/E\NT,fro,DETcar,DETcar,pmr,cent,DMF,cent,,,
-118,20,9,20,"CantQuSol, l. 20",miliet,miliet,_,miliə,m.i.l.i.et,'m/i\.li/(ə)\,fro,PRNcar,PRNcar,pmr,mille,DMF,mille,,</q></l>,
-119,21,1,21,"CantQuSol, l. 21",ne,ne,+,nE,n.e,n/(E)\,fro,CONcoo,CONcoo,,ne2,DMF,ne2,,,<l n=&quot;21&quot;><q>
-120,21,2,21,"CantQuSol, l. 21",ia,ja,+,ʤa,j.a,ʤ/a\,fro,ADVgen,ADVgen,,jà,DMF,jà,,,
-121,21,3,21,"CantQuSol, l. 21",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-122,21,4,21,"CantQuSol, l. 21",en,en,+,En,e.n,/E\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-123,21,5,21,"CantQuSol, l. 21",i|ert,iert,;,iErT,i.e.r.t,/iE\rT,fro,VERcjg,VERcjg,indfut3,être,DMF,être,,</q></l></lg>,<lb/>
-124,22,1,22,"CantQuSol, l. 22",Il,il,_,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;22&quot;><q>"
-125,22,2,22,"CantQuSol, l. 22",dist,dist,_,diST,d.i.s.t,d/i\ST,fro,VERcjg,VERcjg,indpsp3,dire,DMF,dire,,,
-126,22,3,22,"CantQuSol, l. 22",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-127,22,4,22,"CantQuSol, l. 22",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,PRNper,1sfr,moi,DMF,moi,,,
-128,22,5,22,"CantQuSol, l. 22",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,CONsub,,que,DMF,que,,,
-129,22,6,22,"CantQuSol, l. 22",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1sfn,je,DMF,je,,,
-130,22,7,22,"CantQuSol, l. 22",eret,eret,|,ɛrə,e.r.et,'/ɛ\.r/(ə)\,fro,VERcjg,VERcjg,indipf1,être,DMF,être,,,
-131,22,8,22,"CantQuSol, l. 22",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,<lb/>
-132,22,9,22,"CantQuSol, l. 22",bellet,bellet,_,bɛlə,b.e.ll.et,'b/ɛ\.l/(ə)\,fro,ADJqua,ADJqua,sfn,beau,DMF,beau,,</q></l>,
-133,23,1,23,"CantQuSol, l. 23",si,si,+,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,<l n=&quot;23&quot;><q>
-134,23,2,23,"CantQuSol, l. 23",m,m,+,m,m,m/\,fro,PRCper,PRCper,1sfr,me,DMF,me,,,
-135,23,3,23,"CantQuSol, l. 23",ai_met,aimet,_,Aimə,a.i.m.et,'/A\i.m/(ə)\,fro,VERcjg,VERcjg,indpst3,aimer,DMF,aimer,,,
-136,23,4,23,"CantQuSol, l. 23",tant,tant,|,tANT,t.a.n.t,t/A\NT,fro,ADVgen,ADVgen,,tant,DMF,tant,,,
-137,23,5,23,"CantQuSol, l. 23",toz,toz,_,toÇ,t.o.z,t/o\Ç,fro,DETind,DETind,pmr,tout,DMF,tout,,,<lb/>
-138,23,6,23,"CantQuSol, l. 23",temps,temps,_,tENPS,t.e.m.p.s,t/E\NPS,fro,NOMcom,NOMcom,pmr,temps,DMF,temps,,,
-139,23,7,23,"CantQuSol, l. 23",li,li,+,Li,l.i,L/i\,fro,PRCper,PRCper,3smi,le,DMF,le,,,
-140,23,8,23,"CantQuSol, l. 23",soi,soi,_,Soi,s.o.i,S/o\i,fro,VERcjg,VERcjg,indpst1,être,DMF,être,,,
-141,23,9,23,"CantQuSol, l. 23",nouelet,novelet,_,novɛlə,n.o.v.e.l.et,n/o\.'v/ɛ\.l/(ə)\,fro,ADJqua,ADJqua,sfn,nouveau,DMF,nouveau,,</q></l>,
-142,24,1,24,"CantQuSol, l. 24",soe,soe,+,Soə,s.o.e,'S/o\./(ə)\,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,<l n=&quot;24&quot;><q>
-143,24,2,24,"CantQuSol, l. 24",mer|cid,mercid,;,mErʦi,m.e.r.c.id,m/E\r.'ʦ/i\,fro,NOMcom,NOMcom,sfr,merci,DMF,merci,,</q></l></lg>,
-144,25,1,25,"CantQuSol, l. 25",Dolćór,dolcor,_,doLÇor,d.o.l.c.o.r,d/o\L.'Ç/o\r,fro,NOMcom,NOMcom,sfr,douceur,DMF,douceur,,,"<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;25&quot;><q>"
-145,25,2,25,"CantQuSol, l. 25",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-146,25,3,25,"CantQuSol, l. 25",mel,mel,_,mɛl,m.e.l,m/ɛ\l,fro,NOMcom,NOMcom,smr,miel,DMF,miel,,,
-147,25,4,25,"CantQuSol, l. 25",apeleid,apeleid,_,ApElEiT,a.p.e.l.e.i.d,/A\.p/E\.'l/E\iT,fro,VERcjg,VERcjg,indipf3,appeler,DMF,appeler,,,
-148,25,5,25,"CantQuSol, l. 25",mes,mes,|,mES,m.e.s,m/E\S,fro,DETpos,DETpos,1pfr,mon,DMF,mon,,,
-149,25,6,25,"CantQuSol, l. 25",leures,levres,_,LɛvrəS,l.e.v.r.e.s,'L/ɛ\.vr/ə\S,fro,NOMcom,NOMcom,pfr,lèvre,DMF,lèvre,,</q></l>,<lb/>
-150,26,1,26,"CantQuSol, l. 26",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,<l n=&quot;26&quot;><q>
-151,26,2,26,"CantQuSol, l. 26",soiz,soiz,_,SɔiÇ,s.o.i.z,S/ɔ\iÇ,fro,PRE,PRE,,sous,DMF,sous,,,
-152,26,3,26,"CantQuSol, l. 26",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,DETpos,1sfr,mon,DMF,mon,,,
-153,26,4,26,"CantQuSol, l. 26",languet,languet,_,LANgə,l.a.n.gu.et,'L/A\N.g/ə\,fro,NOMcom,NOMcom,sfr,langue,DMF,langue,,,
-154,26,5,26,"CantQuSol, l. 26",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-155,26,6,26,"CantQuSol, l. 26",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,<lb/>
-156,26,7,26,"CantQuSol, l. 26",laiz,laiz,_,LAiÇ,l.a.i.z,L/A\iÇ,fro,NOMcom,NOMcom,smn,lait,DMF,lait,,,
-157,26,8,26,"CantQuSol, l. 26",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-158,26,9,26,"CantQuSol, l. 26",les,les,_,LES,l.e.s,L/E\S,fro,DEFdef,DEFdef,pfn,le,DMF,le,,,
-159,26,10,26,"CantQuSol, l. 26",réés,rees,_,ræəS,r.e.e.s,'r/æ\./(ə)\S,fro,NOMcom,NOMcom,pfn,rée,DMF,rée,,</q></l>,
-160,27,1,27,"CantQuSol, l. 27",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;27&quot;><q>
-161,27,2,27,"CantQuSol, l. 27",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1sfn,je,DMF,je,,,
-162,27,3,27,"CantQuSol, l. 27",sai,sai,_,SAi,s.a.i,S/A\i,fro,VERcjg,VERcjg,indpst1,savoir,DMF,savoir,,,
-163,27,4,27,"CantQuSol, l. 27",beem,beem,;|,bEm,b.ee.m,b/E\m,fro,ADVgen,ADVgen,,bien,DMF,bien,,</q></l></lg>,
-164,28,1,28,"CantQuSol, l. 28",Nuls,nuls,+,nyLS,n.u.l.s,n/y\LS,fro,DETind,DETind,smn,nul,DMF,nul,,,"<lb/><lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;28&quot;><q>"
-165,28,2,28,"CantQuSol, l. 28",om,om,_,Om,o.m,/O\m,fro,NOMcom,NOMcom,smn,homme,DMF,homme,,,
-166,28,3,28,"CantQuSol, l. 28",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-167,28,4,28,"CantQuSol, l. 28",uit,vit,_,viT,v.i.t,v/i\T,fro,VERcjg,VERcjg,indpsp3,voir,DMF,voir,,,
-168,28,5,28,"CantQuSol, l. 28",aromatigement,aromatigement,|,ArOmAtiʤEmENT,a.r.o.m.a.t.i.g.e.m.e.n.t,/A\.r/O\.m/A\.t/i\.ʤ/E\.'m/E\NT,fro,NOMcom,NOMcom,smr,aromatisement,TL,,,</q></l>,
-169,29,1,29,"CantQuSol, l. 29",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<lb/><l n=&quot;29&quot;><q>
-170,29,2,29,"CantQuSol, l. 29",tant,tant,_,tANT,t.a.n.t,t/A\NT,fro,ADVgen,ADVgen,,tant,DMF,tant,,,
-171,29,3,29,"CantQuSol, l. 29",biem,biem,_,biEm,b.i.e.m,b/iE\m,fro,ADVgen,ADVgen,,bien,DMF,bien,,,
-172,29,4,29,"CantQuSol, l. 29",oillet,oillet,_,oiʎə,o.i.ll.et,'/o\i.ʎ/(ə)\,fro,VERcjg,VERcjg,indpst3,huiler,DMF,huiler,,,
-173,29,5,29,"CantQuSol, l. 29",con,con,+,kOn,c.o.n,k/O\n,fro,CONsub,CONsub,,comme,DMF,comme,,,
-174,29,6,29,"CantQuSol, l. 29",funt,funt,|,fONT,f.u.n.t,f/O\NT,fro,VERcjg,VERcjg,indpst6,faire,DMF,faire,,,
-175,29,7,29,"CantQuSol, l. 29",mi,mi,_,mi,m.i,m/i\,fro,DETpos,DETpos,1pmn,mon,DMF,mon,,,<lb/>
-176,29,8,29,"CantQuSol, l. 29",uestement,vestement,_,vEStEmENT,v.e.s.t.e.m.e.n.t,v/E\S.t/E\.'m/E\NT,fro,NOMcom,NOMcom,pmn,vêtement,DMF,vêtement,,</q></l>,
-177,30,1,30,"CantQuSol, l. 30",a,a,+,A,a,/A\,fro,PRE,PRE,,à,DMF,à,,,<l n=&quot;30&quot;><q>
-178,30,2,30,"CantQuSol, l. 30",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-179,30,3,30,"CantQuSol, l. 30",som,som,_,SOm,s.o.m,S/O\m,fro,ADJpos,ADJpos,3smr,son4,DMF,son4,,,
-180,30,4,30,"CantQuSol, l. 30",plaisir,plaisir,;|,pLAizir,p.l.a.i.s.i.r,pL/A\i.'z/i\r,fro,NOMcom,NOMcom,smr,plaisir,DMF,plaisir,,</q></l></lg>,
-181,31,1,31,"CantQuSol, l. 31",La,la,_,LA,l.a,L/A\,fro,ADVgen,ADVgen,,là,DMF,là,,,"<cb n=&quot;b&quot;/><lb/><lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;31&quot;><q>"
-182,31,2,31,"CantQuSol, l. 31",u,u,_,o,u,/o\,fro,PRNrel,PRNrel,---,où,DMF,où,,,
-183,31,3,31,"CantQuSol, l. 31",io,jo,+,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1sfn,je,DMF,je,,,
-184,31,4,31,"CantQuSol, l. 31",suid,suid,_,Syi,s.u.id,S/y\i,fro,VERcjg,VERcjg,indpst1,être,DMF,être,,,
-185,31,5,31,"CantQuSol, l. 31",iuersz,iversz,_,ivɛrS,i.v.e.r.sz,/i\.'v/ɛ\rS,fro,NOMcom,NOMcom,smn,hiver,DMF,hiver,,,
-186,31,6,31,"CantQuSol, l. 31",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-187,31,7,31,"CantQuSol, l. 31",i,i,+,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
-188,31,8,31,"CantQuSol, l. 31",puet,puet,_,puET,p.u.e.t,p/uE\T,fro,VERcjg,VERcjg,indpst3,pouvoir2,DMF,pouvoir2,,,
-189,31,9,31,"CantQuSol, l. 31",durer,durer,|,dyrær,d.u.r.e.r,d/y\.'r/æ\r,fro,VERinf,VERinf,,durer,DMF,durer,,</q></l>,
-190,32,1,32,"CantQuSol, l. 32",toz,toz,_,toÇ,t.o.z,t/o\Ç,fro,DETind,DETind,pmr,tout,DMF,tout,,,<lb/><l n=&quot;32&quot;><q>
-191,32,2,32,"CantQuSol, l. 32",tens,tens,_,tENS,t.e.n.s,t/E\NS,fro,NOMcom,NOMcom,pmr,temps,DMF,temps,,,
-192,32,3,32,"CantQuSol, l. 32",florist,florist,_,fLoriST,f.l.o.r.i.s.t,fL/o\.'r/i\ST,fro,VERcjg,VERcjg,indpst3,fleurir,DMF,fleurir,,,
-193,32,4,32,"CantQuSol, l. 32",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,
-194,32,5,32,"CantQuSol, l. 32",leuz,leuz,_,LɛuS,l.e.u.z,L/ɛ\uS,fro,NOMcom,NOMcom,smn,lieu,DMF,lieu,,,
-195,32,6,32,"CantQuSol, l. 32",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-196,32,7,32,"CantQuSol, l. 32",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,DETpos,1sfr,mon,DMF,mon,,,
-197,32,8,32,"CantQuSol, l. 32",bel|tez,beltez,_,bELtæ,b.e.l.t.ez,b/E\L.'t/æ\,fro,NOMcom,NOMcom,sfr,beauté,DMF,beauté,,</q></l>,
-198,33,1,33,"CantQuSol, l. 33",por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<lb/><l n=&quot;33&quot;><q>
-199,33,2,33,"CantQuSol, l. 33",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-200,33,3,33,"CantQuSol, l. 33",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
-201,34,1,34,"CantQuSol, l. 34",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,"<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;34&quot;><q>"
-202,34,2,34,"CantQuSol, l. 34",tensz,tensz,_,tENS,t.e.n.sz,t/E\NS,fro,NOMcom,NOMcom,smn,temps,DMF,temps,,,
-203,34,3,34,"CantQuSol, l. 34",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-204,34,4,34,"CantQuSol, l. 34",bels,bels,_,bɛLS,b.e.l.s,b/ɛ\LS,fro,ADJqua,ADJqua,smn,beau,DMF,beau,,,<lb/>
-205,34,5,34,"CantQuSol, l. 34",les,les,_,LES,l.e.s,L/E\S,fro,DETdef,DETdef,pfn,le,DMF,le,,,
-206,34,6,34,"CantQuSol, l. 34",uin_nesz,vinnesz,_,viɲəS,v.i.nn.e.sz,'v/i\.ɲ/ə\S,fro,NOMcom,NOMcom,pfn,vigne,DMF,vigne,,,
-207,34,7,34,"CantQuSol, l. 34",sont,sont,_,SONT,s.o.n.t,S/O\NT,fro,VERcjg,VERcjg,indpst6,être,DMF,être,,,
-208,34,8,34,"CantQuSol, l. 34",flories,flories,_,fLoriəS,f.l.o.r.i.e.s,fL/o\.'r/i\./ə\S,fro,VERppe,VERppe,pfn,fleurir,DMF,fleurir,,</q></l>,
-209,35,1,35,"CantQuSol, l. 35",l,l,+,L,l,L/\,fro,DETdef,DETdef,sfn,le,DMF,le,,,<l n=&quot;35&quot;><q>
-210,35,2,35,"CantQuSol, l. 35",odor,odor,|,odor,o.d.o.r,/o\.'d/o\r,fro,NOMcom,NOMcom,sfn,odeur,DMF,odeur,,,
-211,35,3,35,"CantQuSol, l. 35",[est],est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,<lb/>
-212,35,4,35,"CantQuSol, l. 35",bonet,bonet,_,bOnə,b.o.n.et,'b/O\.n/(ə)\,fro,ADJqua,ADJqua,sfn,bon,DMF,bon,,,
-213,35,5,35,"CantQuSol, l. 35",si,si,+,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
-214,35,6,35,"CantQuSol, l. 35",l,l,+,L,l,L/\,fro,PRCper,PRCper,sfa,le,DMF,le,,,
-215,35,7,35,"CantQuSol, l. 35",aimat,aimat,_,Aima,a.i.m.at,/A\i.'m/a\,fro,VERcjg,VERcjg,indpsp3,aimer,DMF,aimer,,,
-216,35,8,35,"CantQuSol, l. 35",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-217,35,9,35,"CantQuSol, l. 35",misiret,misiret,|,misirə,m.i.s.i.r.et,m/i\.'s/i\.r/(ə)\,fro,NOMcom,NOMcom,smn,messire,DMF,messire,,</q></l>,
-218,36,1,36,"CantQuSol, l. 36",por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<lb/><l n=&quot;36&quot;><q>
-219,36,2,36,"CantQuSol, l. 36",mei,mei,_,mEi,m.e.i,m/E\i,fro,DETpos,DETpos,1sfr,mon,DMF,mon,,,
-220,36,3,36,"CantQuSol, l. 36",amor,amor,;,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,NOMcom,sfr,amour,DMF,amour,,</q></l></lg>,
-221,37,1,37,"CantQuSol, l. 37",En,en,_,En,e.n,/E\n,fro,PRE,PRE,,en,DMF,en,,,"<lg n=&quot;13&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;37&quot;><q>"
-222,37,2,37,"CantQuSol, l. 37",nostre,nostre,_,nɔStrə,n.o.s.t.r.e,'n/ɔ\S.tr/(ə)\,fro,DETpos,DETpos,4sfr,notre,DMF,notre,,,
-223,37,3,37,"CantQuSol, l. 37",terred,terred,|,tɛrrə,t.e.r.r.ed,'t/ɛ\r.r/(ə)\,fro,NOMcom,NOMcom,sfr,terre,DMF,terre,,,
-224,37,4,37,"CantQuSol, l. 37",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
-225,37,5,37,"CantQuSol, l. 37",oset,oset,_,ɔzə,o.s.et,'/ɔ\.z/(ə)\,fro,VERcjg,VERcjg,indpst3,oser,DMF,oser,,,
-226,37,6,37,"CantQuSol, l. 37",oilset,oilset,_,oiLSɛ,o.i.l.s.et,'/o\iL.S/ɛ\,fro,NOMcom,NOMcom,smn,oiseau,DMF,oiseau,,,
-227,37,7,37,"CantQuSol, l. 37",ćánter,canter,_,ċANtær,c.a.n.t.e.r,ċ/A\N.'t/æ\r,fro,VERinf,VERinf,,chanter,DMF,chanter,,</q></l>,
-228,38,1,38,"CantQuSol, l. 38",samz,samz,_,SANS,s.a.m.z,S/A\NS,fro,PRE,PRE,,sans,DMF,sans,,,<l n=&quot;38&quot;><q>
-229,38,2,38,"CantQuSol, l. 38",la,la,+,LA,l.a,L/(A)\,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-230,38,3,38,"CantQuSol, l. 38",tor|terelet,torterelet,_,tortErɛlə,t.o.r.t.e.r.e.l.et,t/o\r.t/[E]\.'r/ɛ\.l/(ə)\,fro,NOMcom,NOMcom,sfr,tourterelle,DMF,tourterelle,,,
-231,38,4,38,"CantQuSol, l. 38",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,PRNrel,sfn,qui,DMF,qui,,,<lb/>
-232,38,5,38,"CantQuSol, l. 38",amat,amat,_,Ama,a.m.at,/A\.'m/a\,fro,VERcjg,VERcjg,indpsp3,aimer,DMF,aimer,,,
-233,38,6,38,"CantQuSol, l. 38",ćáaste,caaste,_,ċAAStæ,c.a.a.s.t.e,ċ/A\./A\S.'t/æ\,fro,NOMcom,NOMcom,sfr,chasté,DMF,chasté,,</q></l>,
-234,39,1,38,"CantQuSol, l. 39",ed,ed,_,e,ed,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;39&quot;><q>
-235,39,2,39,"CantQuSol, l. 39",por,por,|,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,
-236,39,3,39,"CantQuSol, l. 39",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,<lb/>
-237,39,4,39,"CantQuSol, l. 39",ami,ami,.,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
-238,40,1,40,"CantQuSol, l. 40",Io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,PRNper,1sfn,je,DMF,je,,,"<lg n=&quot;14&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;40&quot;><q>"
-239,40,2,40,"CantQuSol, l. 40",l,l,+,L,l,L/\,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-240,40,3,40,"CantQuSol, l. 40",ai,ai,_,Ai,a.i,/A\i,fro,VERcjg,VERcjg,indpst1,avoir,DMF,avoir,,,
-241,40,4,40,"CantQuSol, l. 40",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-242,40,5,40,"CantQuSol, l. 40",quis,quis,_,kiS,qu.i.s,k/i\S,fro,VERppe,VERppe,smr,quérir,DMF,quérir,,,
-243,40,6,40,"CantQuSol, l. 40",en_cor,encor,|,ENkɔr,e.n.c.o.r,/E\N.'k/ɔ\r,fro,ADVgen,ADVgen,,encore,DMF,encore,,,
-244,40,7,40,"CantQuSol, l. 40",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
-245,40,8,40,"CantQuSol, l. 40",l,l,+,L,l,/\L,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-246,40,9,40,"CantQuSol, l. 40",pois,pois,_,pɔiS,p.o.i.s,p/ɔ\iS,fro,VERcjg,VERcjg,indpst1,pouvoir2,DMF,pouvoir2,,,
-247,40,10,40,"CantQuSol, l. 40",trouert,trovert,_,trovær,t.r.o.v.e.rt,tr/o\.'v/æ\r,fro,VERinf,VERinf,,trouver,DMF,trouver,,</q></l>,
-248,41,1,41,"CantQuSol, l. 41",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne2,DMF,ne2,,,<l n=&quot;41&quot;><q>
-249,41,2,41,"CantQuSol, l. 41",en,en,_,En,e.n,/E\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-250,41,3,41,"CantQuSol, l. 41",uult,vult,_,voLT,v.u.l.t,v/o\LT,fro,VERcjg,VERcjg,indpst3,vouloir,DMF,vouloir,,,
-251,41,4,41,"CantQuSol, l. 41",respon|dret,respondret,_,rESpONdrə,r.e.s.p.o.n.d.r.et,r/E\S.'p/O\N.dr/(ə)\,fro,VERinf,VERinf,,répondre,DMF,répondre,,,
-252,41,5,41,"CantQuSol, l. 41",aseiz,aseiz,_,AsæÇ,a.s.ei.z,/A\.'s/æ\Ç,fro,ADVgen,ADVgen,,assez,DMF,assez,,,<lb/>
-253,41,6,41,"CantQuSol, l. 41",l,l,+,L,l,L/\,fro,PRCper,PRCper,3sma,le,DMF,le,,,
-254,41,7,41,"CantQuSol, l. 41",ai,ai,+,Ai,a.i,/A\i,fro,VERcjg,VERcjg,indpst1,avoir,DMF,avoir,,,
-255,41,8,41,"CantQuSol, l. 41",apeleitz,apeleitz,_,ApElæ,a.p.e.l.eitz,/A\.p/E\.'l/æ\,fro,VERppe,VERppe,smr,appeler,DMF,appeler,,</q></l>,
-256,42,1,41,"CantQuSol, l. 42",quer,quer,_,kær,qu.e.r,k/æ\r,fro,CONcoo,CONcoo,,car,DMF,car,,,<l n=&quot;42&quot;><q>
-257,42,2,42,"CantQuSol, l. 42",lui,lui,|,Lyi,l.u.i,L/y\i,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,
-258,42,3,42,"CantQuSol, l. 42",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
-259,42,4,42,"CantQuSol, l. 42",plastz,plastz,;,pLaST,p.l.a.s.tz,pL/a\ST,fro,VERcjg,VERcjg,indpst3,plaire,DMF,plaire,,</q></l></lg>,
-260,43,1,43,"CantQuSol, l. 43",Les,les,_,LES,l.e.s,L/E\S,fro,DETdef,DETdef,pmr,le,DMF,le,,,"<lg n=&quot;15&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;43&quot;><q>"
-261,43,2,43,"CantQuSol, l. 43",es_calgaites,escalgaites,_,ESċALgAitəS,e.s.c.a.l.g.a.i.t.e.s,/E\S.ċ/A\L.'g/A\i.t/ə\S,fro,NOMcom,NOMcom,pmr,échauguette,DMF,échauguette,,,
-262,43,3,43,"CantQuSol, l. 43",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,PRNrel,pfn,qui,DMF,qui,,,
-263,43,4,43,"CantQuSol, l. 43",guardent,guardent,|,gardəNT,gu.a.r.d.e.n.t,'g/a\r.d/ə\NT,fro,VERcjg,VERcjg,indpst6,garder,DMF,garder,,,
-264,43,5,43,"CantQuSol, l. 43",la,la,+,LA,l.a,L/(A)\,fro,DETdef,DETdef,sfr,le,DMF,le,,,<lb/>
-265,43,6,43,"CantQuSol, l. 43",citez,citez,_,Çitæ,c.i.t.ez,Ç/i\.'t/æ\,fro,NOMcom,NOMcom,sfr,cité,DMF,cité,,</q></l>,
-266,44,1,44,"CantQuSol, l. 44",cil,cil,_,Çil,c.i.l,Ç/i\l,fro,PRNdem,PRNdem,pmn,cil,DMF,cil,,,<l n=&quot;44&quot;><q>
-267,44,2,44,"CantQuSol, l. 44",me,me,_,mE,m.e,m/(E)\,fro,PRCper,PRCper,1sfr,me,DMF,me,,,
-268,44,3,44,"CantQuSol, l. 44",toruerent,torverent,_,torværəNT,t.o.r.v.e.r.e.n.t,t/o\r.'v/æ\.r/ə\NT,fro,VERcjg,VERcjg,indpsp6,trouver,DMF,trouver,,,
-269,44,4,44,"CantQuSol, l. 44",si,si,+,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
-270,44,5,44,"CantQuSol, l. 44",m,m,+,m,m,m/\,fro,PRCper,PRCper,1sfr,me,DMF,me,,,
-271,44,6,44,"CantQuSol, l. 44",ont,ont,|,ONT,o.n.t,/O\NT,fro,VERcjg,VERcjg,indpst6,avoir,DMF,avoir,,,
-272,44,7,44,"CantQuSol, l. 44",batuz,batuz,_,bAty,b.a.t.uz,b/A\.'t/y\,fro,VERppe,VERppe,sfr,battre,DMF,battre,,,<lb/>
-273,44,8,44,"CantQuSol, l. 44",aseiz,aseiz,_,AsæÇ,a.s.ei.z,/A\.'s/æ\Ç,fro,ADVgen,ADVgen,,assez,DMF,assez,,</q></l>,
-274,45,1,45,"CantQuSol, l. 45",por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<l n=&quot;45&quot;><q>
-275,45,2,45,"CantQuSol, l. 45",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-276,45,3,45,"CantQuSol, l. 45",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
-277,46,1,46,"CantQuSol, l. 46",Nauree,navree,_,nAvræə,n.a.v.r.e.e,n/A\.'vr/æ\./(ə)\,fro,VERppe,VERppe,sfr,navrer,DMF,navrer,,,"<add place=""margin""><lg n=&quot;16&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;46&quot;><q>"
-278,46,2,46,"CantQuSol, l. 46",m,m,+,m,m,m/\,fro,PRCper,PRCper,1sfr,me,DMF,me,,,
-279,46,3,46,"CantQuSol, l. 46",olt[=ont],ont,|,ONT,o.n.t,/O\NT,fro,VERcjg,VERcjg,indpst6,avoir,DMF,avoir,,,
-280,46,4,46,"CantQuSol, l. 46",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/>
-281,46,5,46,"CantQuSol, l. 46",mun,mun,_,mOn,m.u.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-282,46,6,46,"CantQuSol, l. 46",paliet,paliet,|,paliə,p.a.l.i.et,'p/a\.li/(ə)\,fro,NOMcom,NOMcom,smr,paile,DMF,paile,,,
-283,46,7,46,"CantQuSol, l. 46",tolud,tolud,_,toly,t.o.l.ud,t/o\.'l/y\,fro,VERppe,VERppe,smr,tolir,DMF,tolir,,</q></l>,<lb/>
-284,47,1,47,"CantQuSol, l. 47",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,ADJqua,smr,grand,DMF,grand,,,<l n=&quot;47&quot;><q>
-285,47,2,47,"CantQuSol, l. 47",tort,tort,|,tɔrT,t.o.r.t,t/ɔ\rT,fro,NOMcom,NOMcom,smr,tort,DMF,tort,,,
-286,47,3,47,"CantQuSol, l. 47",m,m,+,m,m,m/\,fro,PRCper,PRCper,1sfr,me,DMF,me,,,<lb/>
-287,47,4,47,"CantQuSol, l. 47",unt,unt,_,ONT,u.n.t,/O\NT,fro,VERcjg,VERcjg,indpst6,avoir,DMF,avoir,,,
-288,47,5,47,"CantQuSol, l. 47",fait,fait,_,fAiT,f.a.i.t,f/A\iT,fro,VERppe,VERppe,snr,faire,DMF,faire,,,
-289,47,6,47,"CantQuSol, l. 47",cil,cil,|,Çil,c.i.l,Ç/i\l,fro,PRNdem,PRNdem,pmn,cil,DMF,cil,,,
-290,47,7,47,"CantQuSol, l. 47",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,PRNrel,pmn,qui,DMF,qui,,,<lb/>
-291,47,8,47,"CantQuSol, l. 47",guardent,guardent,_,gardəNT,gu.a.r.d.e.n.t,'g/a\r.d/ə\NT,fro,VERcjg,VERcjg,indpst6,garder,DMF,garder,,,
-292,47,9,47,"CantQuSol, l. 47",le,le,_,LE,l.e,L/(E)\,fro,DETdef,DETdef,smr,le,DMF,le,,,
-293,47,10,47,"CantQuSol, l. 47",m|rt[=murt],murt,_,myr,m.u.rt,m/y\r,fro,NOMcom,NOMcom,smr,mur,DMF,mur,,</q></l>,
-294,48,1,48,"CantQuSol, l. 48",por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<lb/><l n=&quot;48&quot;><q>
-295,48,2,48,"CantQuSol, l. 48",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-296,48,3,48,"CantQuSol, l. 48",ami,ami,;|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</q></l></lg></add>,
-297,49,1,49,"CantQuSol, l. 49",Beles,beles,|,bɛləS,b.e.l.e.s,'b/ɛ\.l/ə\S,fro,ADJqua,ADJqua,pfn,beau,DMF,beau,,,"<lb/><lg n=&quot;17&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;49&quot;><q>"
-298,49,2,49,"CantQuSol, l. 49",pulcelesz,pulcelesz,_,pyLÇɛləS,p.u.l.c.e.l.e.sz,p/y\L.'Ç/ɛ\.l/ə\S,fro,NOMcom,NOMcom,pfn,pucelle,DMF,pucelle,,,<lb/>
-299,49,3,49,"CantQuSol, l. 49",fillesz,fillesz,_,fiʎəS,f.i.ll.e.sz,'f/i\.ʎ/ə\S,fro,NOMcom,NOMcom,pfn,fille,DMF,fille,,,
-300,49,4,49,"CantQuSol, l. 49",ierusalem,jerusalem,_,ʤErysAlEm,j.e.r.u.s.a.l.e.m,ʤ/E\.r/y\.s/A\.'l/E\m,fro,NOMpro,NOMpro,smr,Jérusalem,wiktionary,,,</q></l>,
-301,50,1,50,"CantQuSol, l. 50",por,por,_,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<l n=&quot;50&quot;><q>
-302,50,2,50,"CantQuSol, l. 50",mei,mei,|,mEi,m.e.i,m/E\i,fro,DETpos,DETpos,1sfr,mon,DMF,mon,,,
-303,50,3,50,"CantQuSol, l. 50",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,NOMcom,sfr,amour,DMF,amour,,,<lb/>
-304,50,4,50,"CantQuSol, l. 50",noncieiz,noncieiz,_,nONÇiEÇ,n.o.n.c.i.ei.z,n/O\N.'Ç/iE\Ç,fro,VERcjg,VERcjg,imp---5,noncer,DMF,noncer,,,
-305,50,5,50,"CantQuSol, l. 50",le,le,_,LE,l.e,L/(E)\,fro,PRCper,PRCper,3snr,le,DMF,le,,,
-306,50,6,50,"CantQuSol, l. 50",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-307,50,7,50,"CantQuSol, l. 50",amant,amant,|,AmANT,a.m.a.n.t,/A\.'m/A\NT,fro,NOMcom,NOMcom,smr,amant,DMF,amant,,</q></l>,
-308,51,1,51,"CantQuSol, l. 51",d,d,+,d,d,d/\,fro,PRE,PRE,,de,DMF,de,,,<lb/><l n=&quot;51&quot;><q>
-309,51,2,51,"CantQuSol, l. 51",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,NOMcom,sfr,amour,DMF,amour,,,
-310,51,3,51,"CantQuSol, l. 51",languis,languis,;,LANguiS,l.a.n.g.u.i.s,L/A\N.'gu/i\S,fro,VERcjg,VERcjg,indpst1,languir,DMF,languir,,</q></l></lg>,
-311,52,1,52,"CantQuSol, l. 52",Chinc,chinc,_,ÇiNK,ch.i.n.c,Ç/i\NK,fro,DETcar,DETcar,pmr,cinq,DMF,cinq,,,"<lg n=&quot;18&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;52&quot;><q>"
-312,52,2,52,"CantQuSol, l. 52",milie,milie,+,miliə,m.i.l.i.e,'m/i\.li/(ə)\,fro,DETcar,DETcar,pmr,mille,DMF,mille,,,
-313,52,3,52,"CantQuSol, l. 52",anz,anz,|,ANÇ,a.n.z,/A\NÇ,fro,NOMcom,NOMcom,pmr,ans,DMF,ans,,,
-314,52,4,52,"CantQuSol, l. 52",atz,atz,+,a,atz,/a\,fro,VERcjg,VERcjg,indpst0,avoir,DMF,avoir,,,<lb/>
-315,52,5,52,"CantQuSol, l. 52",qu,qu,+,k,qu,k/\,fro,CONsub,CONsub,,que,DMF,que,,,
-316,52,6,52,"CantQuSol, l. 52",il,il,_,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,
-317,52,7,52,"CantQuSol, l. 52",aueid,aveid,_,AvEiT,a.v.e.i.d,/A\.'v/E\iT,fro,VERcjg,VERcjg,indipf3,avoir,DMF,avoir,,,
-318,52,8,52,"CantQuSol, l. 52",un,un,+,yn0,u.n.,'/y\.n/(0)\,fro,DETndf,DETndf,sfr,un,DMF,un,,,
-319,52,9,52,"CantQuSol, l. 52",amiet,amiet,_,Amiə,a.m.i.et,/A\.'m/i\./(ə)\,fro,NOMcom,NOMcom,sfr,amie,DMF,amie,,</q></l>,
-320,53,1,53,"CantQuSol, l. 53",lei,lei,+,LEi,l.e.i,L/E\i,fro,PRNper,PRNper,sfr,le,DMF,le,,,<l n=&quot;53&quot;><q>
-321,53,2,53,"CantQuSol, l. 53",ad,ad,|,a,ad,/a\,fro,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,,,
-322,53,3,53,"CantQuSol, l. 53",laisiet,laisiet,_,LAisiE,l.a.i.s.i.et,L/A\i.'s/iE\,fro,VERppe,VERppe,snr,laisser,DMF,laisser,,,<lb/>
-323,53,4,53,"CantQuSol, l. 53",quar,quar,_,kar,qu.a.r,k/a\r,fro,CONcoo,CONcoo,,car,DMF,car,,,
-324,53,5,53,"CantQuSol, l. 53",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-325,53,6,53,"CantQuSol, l. 53",ert,ert,_,ɛrT,e.r.t,/ɛ\rT,fro,VERcjg,VERcjg,indipf3,être,DMF,être,,,
-326,53,7,53,"CantQuSol, l. 53",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-327,53,8,53,"CantQuSol, l. 53",bel,bel,_,bɛl,b.e.l,b/ɛ\l,fro,ADJqua,ADJqua,smr,beau,DMF,beau,,,
-328,53,9,53,"CantQuSol, l. 53",seruiset,serviset,|,SErvizə,s.e.r.v.i.s.et,S/E\r.'v/i\.z/(ə)\,fro,NOMcom,NOMcom,smr,service,DMF,service,,</q></l>,
-329,54,1,54,"CantQuSol, l. 54",si,si,_,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,<lb/><l n=&quot;54&quot;><q>
-330,54,2,54,"CantQuSol, l. 54",amet,amet,_,Amə,a.m.et,'/A\.m/(ə)\,fro,VERcjg,VERcjg,indpst3,aimer,DMF,aimer,,,
-331,54,3,54,"CantQuSol, l. 54",mei,mei,;,mEi,m.e.i,m/E\i,fro,PRNper,PRNper,1sfr,moi,DMF,moi,,</q></l></lg>,
-332,55,1,55,"CantQuSol, l. 55",Il,il,+,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;19&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;55&quot;><q>"
-333,55,2,55,"CantQuSol, l. 55",li,li,+,Li,l.i,L/i\,fro,PRCper,PRCper,3sfi,le,DMF,le,,,
-334,55,3,55,"CantQuSol, l. 55",plantatz,plantatz,|,pLANta,p.l.a.n.t.atz,pL/A\N.'t/a\,fro,VERcjg,VERcjg,indpsp3,planter,DMF,planter,,,
-335,55,4,55,"CantQuSol, l. 55",une,une,_,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,DETndf,sfr,un,DMF,un,,,<lb/>
-336,55,5,55,"CantQuSol, l. 55",uine,vine,_,vinə,v.i.n.e,'v/i\.n/(ə)\,fro,NOMcom,NOMcom,sfr,vigne,DMF,vigne,,,
-337,55,6,55,"CantQuSol, l. 55",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-338,55,7,55,"CantQuSol, l. 55",dolcelt,dolcelt,_,doLÇə,d.o.l.c.elt,'d/o\L.Ç/(ə)\,fro,ADJqua,ADJqua,sfr,douce,DMF,douce,,</q></l>,
-339,56,1,56,"CantQuSol, l. 56",p[or]ud,porud,|,poro,p.o.r.ud,p/o\.'r/o\,fro,ADVgen,ADVgen,,poruec,DMF,poruec,,,<l n=&quot;56&quot;><q>
-340,56,2,56,"CantQuSol, l. 56",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,<lb/>
-341,56,3,56,"CantQuSol, l. 56",la,la,_,LA,l.a,L/(A)\,fro,PRCper,PRCper,3sfa,le,DMF,le,,,
-342,56,4,56,"CantQuSol, l. 56",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,VERcjg,indpsp3,faire,DMF,faire,,,
-343,56,5,56,"CantQuSol, l. 56",si,si,+,Si,s.i,S/i\,fro,ADVgen,ADVgen,,si4,DMF,si4,,,
-344,56,6,56,"CantQuSol, l. 56",n_n,nn,+,n,nn,/\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-345,56,7,56,"CantQuSol, l. 56",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,être,être,DMF,être,,,
-346,56,8,56,"CantQuSol, l. 56",ćádeit,cadeit,_,ċAðEiT,c.a.d.e.i.t,ċ/A\.'ð/E\iT,fro,VERppe,VERppe,smn,choir,DMF,choir,,,
-347,56,9,56,"CantQuSol, l. 56",en,en,+,En,e.n,/E\n,fro,PRE,PRE,,en,DMF,en,,,
-348,56,10,56,"CantQuSol, l. 56",colped,colped,|,koLpə,c.o.l.p.ed,'k/o\L.p/(ə)\,fro,NOMcom,NOMcom,sfr,coulpe,DMF,coulpe,,</q></l>,
-349,57,1,57,"CantQuSol, l. 57",or,or,+,or,o.r,/o\r,fro,ADVgen,ADVgen,,or2,DMF,or2,,,<lb/><l n=&quot;57&quot;><q>
-350,57,2,57,"CantQuSol, l. 57",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-351,57,3,57,"CantQuSol, l. 57",amered,amered,;,Amærə,a.m.e.r.ed,/A\.'m/æ\.r/(ə)\,fro,ADJqua,ADJqua,sfn,amer,DMF,amer,,</q></l></lg>,
-352,58,1,58,"CantQuSol, l. 58",Li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,pmn,le,DMF,le,,,"<lg n=&quot;20&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;58&quot;><q>"
-353,58,2,58,"CantQuSol, l. 58",fil,fil,_,fil,f.i.l,f/i\l,fro,NOMcom,NOMcom,pmn,fils,DMF,fils,,,
-354,58,3,58,"CantQuSol, l. 58",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,
-355,58,4,58,"CantQuSol, l. 58",mered,mered,_,mærə,m.e.r.ed,'m/æ\.r/(ə)\,fro,NOMcom,NOMcom,sfr,mère,DMF,mère,,,
-356,58,5,58,"CantQuSol, l. 58",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-357,58,6,58,"CantQuSol, l. 58",la,la,|,LA,l.a,L/(A)\,fro,PRCper,PRCper,3sfa,le,DMF,le,,,
-358,58,7,58,"CantQuSol, l. 58",uoldrent,voldrent,_,vɔLdrəNT,v.o.l.d.r.e.n.t,'v/ɔ\L.dr/ə\NT,fro,VERcjg,VERcjg,indpsp6,vouloir,DMF,vouloir,,,<lb/>
-359,58,8,58,"CantQuSol, l. 58",amert,amert,_,Amær,a.m.e.rt,/A\.'m/æ\r,fro,VERinf,VERinf,,aimer,DMF,aimer,,</q></l>,
-360,59,1,59,"CantQuSol, l. 59",co[m]mandent,commandent,_,kOmANdəNT,c.o.mm.a.n.d.e.n.t,k/O\.'m/A\N.d/ə\NT,fro,VERcjg,VERcjg,indpst6,commander,DMF,commander,,,<l n=&quot;59&quot;><q>
-361,59,2,59,"CantQuSol, l. 59",li,li,|,Li,l.i,L/i\,fro,PRCper,PRCper,3sfi,le,DMF,le,,,
-362,59,3,59,"CantQuSol, l. 59",les,les,_,LES,l.e.s,L/E\S,fro,DETdef,DETdef,pfr,le,DMF,le,,,<lb/>
-363,59,4,59,"CantQuSol, l. 59",uin_nes,vinnes,_,viɲəS,v.i.n.n.e.s,'v/i\.ɲ/ə\S,fro,NOMcom,NOMcom,pfr,vigne,DMF,vigne,,,
-364,59,5,59,"CantQuSol, l. 59",a,a,+,A,a,/A\,fro,PRE,PRE,,à,DMF,à,,,
-365,59,6,59,"CantQuSol, l. 59",guarder,guarder,_,gArdær,gu.a.r.d.e.r,g/A\r.'d/æ\r,fro,VERinf,VERinf,,garder,DMF,garder,,</q></l>,
-366,60,1,60,"CantQuSol, l. 60",fors,fors,_,fɔrS,f.o.r.s,f/ɔ\rS,fro,ADVgen,ADVgen,,fors,DMF,fors,,,<l n=&quot;60&quot;><q>
-367,60,2,60,"CantQuSol, l. 60",a,a,+,A,a,/A\,fro,PRE,PRE,,à,DMF,à,,,
-368,60,3,60,"CantQuSol, l. 60",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-369,60,4,60,"CantQuSol, l. 60",soleiz,soleiz,;|,SolEiÇ,s.o.l.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,NOMcom,smr,soleil,DMF,soleil,,</q></l></lg>,
-370,61,1,61,"CantQuSol, l. 61",Ell,ell,+,ɛl,e.ll,/ɛ\l,fro,PRNper,PRNper,3sfn,elle,DMF,elle,,,"<lb/><lg n=&quot;21&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;61&quot;><q>"
-371,61,2,61,"CantQuSol, l. 61",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-372,61,3,61,"CantQuSol, l. 61",nercidet,nercidet,_,nErÇiðə,n.e.r.c.i.d.et,n/E\r.'Ç/i\.ð/(ə)\,fro,VERppe,VERppe,sfn,noircir,DMF,noircir,,,
-373,61,4,61,"CantQuSol, l. 61",perdutz,perdutz,_,pErdy,p.e.r.d.utz,p/E\r.'d/y\,fro,VERppe,VERppe,snr,perdre,DMF,perdre,,,
-374,61,5,61,"CantQuSol, l. 61",adz,adz,_,a,adz,/a\,fro,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,,,
-375,61,6,61,"CantQuSol, l. 61",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,
-376,61,7,61,"CantQuSol, l. 61",beltez,beltez,|,bELtæ,b.e.l.t.ez,b/E\L.'t/æ\,fro,NOMcom,NOMcom,sfr,beauté,DMF,beauté,,</q></l>,
-377,62,1,62,"CantQuSol, l. 62",se,se,_,SE,s.e,S/E\,fro,CONsub,CONsub,,se2,DMF,se2,,,<lb/><l n=&quot;62&quot;><q>
-378,62,2,62,"CantQuSol, l. 62",par,par,_,pAr,p.a.r,p/A\r,fro,PRE,PRE,,par,DMF,par,,,
-379,62,3,62,"CantQuSol, l. 62",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,PRNper,1sfr,moi,DMF,moi,,,
-380,62,4,62,"CantQuSol, l. 62",non,non,_,nOn,n.o.n,n/O\n,fro,ADVneg,ADVneg,,non,DMF,non,,,
-381,62,5,62,"CantQuSol, l. 62",íá,ja,_,ʤa,j.a,ʤ/a\,fro,ADVgen,ADVgen,,jà,DMF,jà,,,
-382,62,6,62,"CantQuSol, l. 62",maisz,maisz,_,mAiS,m.a.i.sz,m/A\iS,fro,ADVgen,ADVgen,,mais,DMF,mais,,,
-383,62,7,62,"CantQuSol, l. 62",n,n,+,n,n,n/\,fro,ADVneg,ADVneg,,ne,DMF,ne,,,
-384,62,8,62,"CantQuSol, l. 62",aurat,aurat,|,Aura,a.u.r.at,/A\u.'r/a\,fro,VERcjg,VERcjg,indfut3,avoir,DMF,avoir,,,
-385,62,9,62,"CantQuSol, l. 62",clartez,clartez,_,kLArtæ,c.l.a.r.t.ez,kL/A\r.'t/æ\,fro,NOMcom,NOMcom,sfr,clarté,DMF,clarté,,</q></l>,<lb/>
-386,63,1,63,"CantQuSol, l. 63",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,<l n=&quot;63&quot;><q>
-387,63,2,63,"CantQuSol, l. 63",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,DETpos,1smr,mon,DMF,mon,,,
-388,63,3,63,"CantQuSol, l. 63",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
-389,64,1,64,"CantQuSol, l. 64",Ainz,ainz,_,AiNÇ,a.i.n.z,/A\iNÇ,fro,ADVgen,ADVgen,,ains,DMF,ains,,,"<lg n=&quot;22&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;64&quot;><q>"
-390,64,2,64,"CantQuSol, l. 64",q[ue],que,_,kE,qu.e,k/(E)\,fro,CONsub,CONsub,,que,DMF,que,,,
-391,64,3,64,"CantQuSol, l. 64",nuls,nuls,+,nyLS,n.u.l.s,n/y\LS,fro,DETind,DETind,smn,nul,DMF,nul,,,
-392,64,4,64,"CantQuSol, l. 64",o[m],om,|,Om,o.m,/O\m,fro,NOMcom,NOMcom,smn,homme,DMF,homme,,,
-393,64,5,64,"CantQuSol, l. 64",soust,soust,_,SoyST,s.o.u.s.t,S/o\.'/y\ST,fro,VERcjg,VERcjg,subipf3,savoir,DMF,savoir,,,<lb/>
-394,64,6,64,"CantQuSol, l. 64",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-395,64,7,64,"CantQuSol, l. 64",nostre,nostre,_,nɔStrə,n.o.s.t.r.e,'n/ɔ\S.tr/(ə)\,fro,DETpos,DETpos,4sfr,notre,DMF,notre,,,
-396,64,8,64,"CantQuSol, l. 64",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,NOMcom,sfr,amour,DMF,amour,,</q></l>,
-397,65,1,65,"CantQuSol, l. 65",li,li,+,Li,l.i,L/i\,fro,DETdef,DETdef,smn,le,DMF,le,,,<l n=&quot;65&quot;><q>
-398,65,2,65,"CantQuSol, l. 65",miensz,miensz,_,miENS,m.i.e.n.sz,m/iE\NS,fro,ADJpos,ADJpos,1smn,mien,DMF,mien,,,
-399,65,3,65,"CantQuSol, l. 65",amis,amis,|,AmiS,a.m.i.s,/A\.'m/i\S,fro,NOMcom,NOMcom,smn,ami,DMF,ami,,,
-400,65,4,65,"CantQuSol, l. 65",me,me,+,mE,m.e,m/(E)\,fro,PROper,PROper,1sfr,me,DMF,me,,,<lb/>
-401,65,5,65,"CantQuSol, l. 65",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,VERcjg,indpsp3,faire,DMF,faire,,,
-402,65,6,65,"CantQuSol, l. 65",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,ADVgen,,moult,DMF,moult,,,
-403,65,7,65,"CantQuSol, l. 65",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,,
-404,65,8,65,"CantQuSol, l. 65",en_nor,ennor,_,Enor,e.n.n.o.r,/E\.'n/o\r,fro,NOMcom,NOMcom,sfr,honneur,DMF,honneur,,</q></l>,
-405,66,1,66,"CantQuSol, l. 66",a,a,+,A,a,/A\,fro,PRE,PRE,,à,DMF,à,,,<l n=&quot;66&quot;><q>
-406,66,2,66,"CantQuSol, l. 66",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-407,66,3,66,"CantQuSol, l. 66",tems,tems,|,tENS,t.e.m.s,t/E\NS,fro,NOMcom,NOMcom,smr,temps,DMF,temps,,,
-408,66,4,66,"CantQuSol, l. 66",noe,noe,:,noæ,n.o.e,n/o\.'/æ\,fro,NOMpro,NOMpro,smr,Noé,wiktionary,,,</q></l></lg>,<lb/>
-409,67,1,67,"CantQuSol, l. 67",Danz,danz,_,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,NOMcom,smn,dan,DMF,dan,,,"<lg n=&quot;23&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;67&quot;><q>"
-410,67,2,67,"CantQuSol, l. 67",abraham,abraham,_,AbrAAm,a.b.r.a.ha.m,/A\.br/A\.'/A\m,fro,NOMpro,NOMpro,smn,Abraham,wiktionary,,,,
-411,67,3,67,"CantQuSol, l. 67",en,en,+,En,e.n,/E\n,fro,PRCadv,PRCadv,,en2,DMF,en2,,,
-412,67,4,67,"CantQuSol, l. 67",fud,fud,_,fy,f.ud,f/y\,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
-413,67,5,67,"CantQuSol, l. 67",pre|mierz,premierz,_,prEmiErS,p.r.e.m.i.e.r.z,pr/E\.'m/iE\rS,fro,ADJord,ADJord,smn,premier,DMF,premier,,,
-414,67,6,67,"CantQuSol, l. 67",messaget,messaget,_,mEsaʤə,m.e.ss.a.g.et,m/E\.'s/a\.ʤ/(ə)\,fro,NOMcom,NOMcom,smn,message,DMF,message,,</q></l>,<lb/>
-415,68,1,68,"CantQuSol, l. 68",luid,luid,_,Lyi,l.u.id,L/y\i,fro,PRNper,PRNper,3smr,lui,DMF,lui,,,<l n=&quot;68&quot;><q>
-416,68,2,68,"CantQuSol, l. 68",m,m,+,m,m,m/\,fro,PRCper,PRCper,3sfr,me,DMF,me,,,
-417,68,3,68,"CantQuSol, l. 68",ent_ueiad,entveiad,|,ENvEia,e.nt.v.e.i.ad,/E\N.v/E\i.'/a\,fro,VERcjg,VERcjg,indpsp3,envoyer,DMF,envoyer,,,
-418,68,4,68,"CantQuSol, l. 68",por,por,+,por,p.o.r,p/o\r,fro,PRE,PRE,,pour,DMF,pour,,,<lb/>
-419,68,5,68,"CantQuSol, l. 68",ćó,co,_,Çɔ,c.o,Ç/ɔ\,fro,PRNdem,PRNdem,snr,ce,DMF,ce,,,
-420,68,6,68,"CantQuSol, l. 68",qu,qu,+,k,qu,k/\,fro,CONsub,CONsub,,que,DMF,que,,,
-421,68,7,68,"CantQuSol, l. 68",il,il,_,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,
-422,68,8,68,"CantQuSol, l. 68",ert,ert,_,ɛrT,e.r.t,/ɛ\rT,fro,VERcjg,VERcjg,indipf3,être,DMF,être,,,
-423,68,9,68,"CantQuSol, l. 68",pl[us],plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,ADVgen,,plus,DMF,plus,,,
-424,68,10,68,"CantQuSol, l. 68",saiues,saives,_,SAivəS,s.a.i.v.e.s,'S/A\i.v/ə\S,fro,ADJqua,ADJqua,smn,sage,DMF,sage,,</q></l>,
-425,69,1,69,"CantQuSol, l. 69",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;69&quot;><q>
-426,69,2,69,"CantQuSol, l. 69",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,
-427,69,3,69,"CantQuSol, l. 69",grant,grant,|,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,ADJqua,sfr,grand,DMF,grand,,,
-428,69,4,69,"CantQuSol, l. 69",fei,fei,;,fEi,f.e.i,f/E\i,fro,NOMcom,NOMcom,sfr,foi,DMF,foi,,</q></l></lg>,<lb/>
-429,70,1,70,"CantQuSol, l. 70",Issac,issac,_,isaK,i.ss.a.c,/i\.'/a\K,fro,NOMpro,NOMpro,smn,Isaac,wiktionary,,,,"<lg n=&quot;24&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;70&quot;><q>"
-430,70,2,70,"CantQuSol, l. 70",i,i,+,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
-431,70,3,70,"CantQuSol, l. 70",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,venir,,,
-432,70,4,70,"CantQuSol, l. 70",iacob,jacob,_,ʤAkɔP,j.a.c.o.b,ʤ/A\.'k/ɔ\P,fro,NOMpro,NOMpro,smn,Jacob,wiktionary,,,,
-433,70,5,70,"CantQuSol, l. 70",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-434,70,6,70,"CantQuSol, l. 70",danz,danz,|,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,NOMcom,smn,dan,DMF,dan,,,
-435,70,7,70,"CantQuSol, l. 70",iosep,josep,_,ʤozɛP,j.o.s.e.p,ʤ/o\.'z/ɛ\P,fro,NOMpro,NOMpro,smn,Joseph,wiktionary,,,</q></l>,<lb/>
-436,71,1,71,"CantQuSol, l. 71",pois,pois,_,pɔiS,p.o.i.s,p/ɔ\iS,fro,ADVgen,ADVgen,,puis,DMF,puis,,,<l n=&quot;71&quot;><q>
-437,71,2,71,"CantQuSol, l. 71",moisen,moisen,_,moizEn,m.o.i.s.e.n,m/o\./i\.'z/E\n,fro,NOMpro,NOMpro,smn,Moïse,wiktionary,,,,
-438,71,3,71,"CantQuSol, l. 71",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-439,71,4,71,"CantQuSol, l. 71",danz,danz,_,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,NOMcom,smn,dan,DMF,dan,,,
-440,71,5,71,"CantQuSol, l. 71",abinma|lec,abinmalec,_,AbiNmAlɛK,a.b.i.n.m.a.l.e.c,/A\.b/i\N.m/A\.'l/ɛ\K,fro,NOMpro,NOMpro,smn,Abimelech,wikipedia.fr,,,</q></l>,
-441,72,1,72,"CantQuSol, l. 72",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/><l n=&quot;72&quot;><q>
-442,72,2,72,"CantQuSol, l. 72",samuel,samuel,;,SAmyɛl,s.a.m.u.e.l,S/A\.m/y\.'/ɛ\l,fro,NOMpro,NOMpro,smn,Samuel,wiktionary,,,</q></l></lg>,
-443,73,1,73,"CantQuSol, l. 73",De,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,"<lg n=&quot;25&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;73&quot;><q>"
-444,73,2,73,"CantQuSol, l. 73",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-445,73,3,73,"CantQuSol, l. 73",quart,quart,_,karT,qu.a.r.t,k/a\rT,fro,ADJord,ADJord,smr,quart,DMF,quart,,,
-446,73,4,73,"CantQuSol, l. 73",ede,ede,_,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,NOMcom,smr,aé,DMF,aé,,,
-447,73,5,73,"CantQuSol, l. 73",pois,pois,|,pɔiS,p.o.i.s,p/ɔ\iS,fro,ADVgen,ADVgen,,puis,DMF,puis,,,
-448,73,6,73,"CantQuSol, l. 73",i,i,+,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,<lb/>
-449,73,7,73,"CantQuSol, l. 73",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,venir,,,
-450,73,8,73,"CantQuSol, l. 73",reiz,reiz,_,rEiS,r.e.i.z,r/E\iS,fro,NOMcom,NOMcom,smn,roi,DMF,roi,,,
-451,73,9,73,"CantQuSol, l. 73",dauid,david,_,dAviT,d.a.v.i.d,d/A\.'v/i\T,fro,NOMpro,NOMpro,smn,David,wiktionary,,,</q></l>,
-452,74,1,74,"CantQuSol, l. 74",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;74&quot;><q>
-453,74,2,74,"CantQuSol, l. 74",salamon,salamon,_,SAlAmOn,s.a.l.a.m.o.n,S/A\.l/A\.'m/O\n,fro,NOMpro,NOMpro,smn,Salomon,wiktionary,,,,
-454,74,3,74,"CantQuSol, l. 74",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-455,74,4,74,"CantQuSol, l. 74",roboam,roboam,|,roboAm,r.o.b.o.a.m,r/o\.b/o\.'/A\m,fro,NOMpro,NOMpro,smn,Roboam,wikipedia.fr,,,,
-456,74,5,74,"CantQuSol, l. 74",ses,ses,_,SES,s.e.s,S/E\S,fro,DETpos,DETpos,3smn,son4,DMF,son4,,,<lb/>
-457,74,6,74,"CantQuSol, l. 74",fiz,fiz,_,fiS,f.i.z,f/i\S,fro,NOMcom,NOMcom,smn,fils,DMF,fils,,</q></l>,
-458,75,1,75,"CantQuSol, l. 75",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;75&quot;><q>
-459,75,2,75,"CantQuSol, l. 75",abia,abia,;,Abia,a.b.i.a,/A\.b/i\.'/a\,fro,NOMcom,NOMcom,smn,Abijam,wikipedia.fr,,,</q></l></lg>,
-460,76,1,76,"CantQuSol, l. 76",[Et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,"<lg n=&quot;26&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;76&quot;><q>"
-461,76,2,76,"CantQuSol, l. 76",ab,ab,_,aP,a.b,/a\P,fro,ADVgen,ADVgen,,o,DMF,o,,,
-462,76,3,76,"CantQuSol, l. 76",i,i,_,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
-463,76,4,76,"CantQuSol, l. 76",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,venir,,,
-464,76,5,76,"CantQuSol, l. 76",issias,issias,_,isiaS,i.ss.i.a.s,/i\.s/i\.'/a\S,fro,NOMpro,NOMpro,smn,Isaïe,wiktionary,,,,
-465,76,6,76,"CantQuSol, l. 76",amos,amos,|,AmOS,a.m.o.s,/A\.'m/O\S,fro,NOMpro,NOMpro,smn,Amos,wiktionary,,,</q></l>,
-466,77,1,77,"CantQuSol, l. 77",ieu,jeu,+,ʤEy,j.e.u,ʤ/E\.'/y\,fro,NOMpro,NOMpro,smn,Jéhu,wikipedia.fr,,,,<lb/><l n=&quot;77&quot;><q>
-467,77,2,77,"CantQuSol, l. 77",ioel,joel,_,ʤoɛl,j.o.e.l,ʤ/o\.'/ɛ\l,fro,NOMpro,NOMpro,smn,Joël,wiktionary,,,,
-468,77,3,77,"CantQuSol, l. 77",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-469,77,4,77,"CantQuSol, l. 77",dam,dam,_,dAm,d.a.m,d/A\m,fro,NOMcom,NOMcom,smr,dan,DMF,dan,,,
-470,77,5,77,"CantQuSol, l. 77",azarias,azarias,_,AʣAriaS,a.z.a.r.i.a.s,/A\.ʣ/A\.r/i\.'/a\S,fro,NOMpro,NOMpro,smr,Azarias,wikipedia.fr,,,</q></l>,
-471,78,1,78,"CantQuSol, l. 78",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;78&quot;><q>
-472,78,2,78,"CantQuSol, l. 78",io_atam,joatam,;|,ʤoAtAm,j.o.a.t.a.m,ʤ/o\./A\.'t/A\m,fro,NOMpro,NOMpro,smr,Jotham,wikipedia.fr,,,</q></l></lg>,
-473,79,1,79,"CantQuSol, l. 79",Achaz,achaz,_,AċaS,a.ch.a.z,/A\.'ċ/a\S,fro,NOMpro,NOMpro,smn,Achaz,wikipedia.fr,,,,"<lb/><lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;79&quot;><q>"
-474,79,2,79,"CantQuSol, l. 79",i,i,_,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
-475,79,3,79,"CantQuSol, l. 79",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,venir,,,
-476,79,4,79,"CantQuSol, l. 79",adunc,adunc,_,AdONK,a.d.u.n.c,/A\.'d/O\NK,fro,ADVgen,ADVgen,,adonc,DMF,adonc,,,
-477,79,5,79,"CantQuSol, l. 79",fud,fud,_,fy,f.ud,f/y\,fro,VERcjg,VERcjg,indpsp3,être,DMF,être,,,
-478,79,6,79,"CantQuSol, l. 79",faitet,faitet,|,fAitə,f.a.i.t.et,'f/A\i.t/(ə)\,fro,VERppe,VERppe,sfn,faire,DMF,faire,,,
-479,79,7,79,"CantQuSol, l. 79",rome,rome,_,rOmə,r.o.m.e,'r/O\.m/(ə)\,fro,NOMpro,NOMpro,sfn,Rome,wiktionary,,,</q></l>,<lb/>
-480,80,1,80,"CantQuSol, l. 80",quel,quel,_,kæl,qu.e.l,k/æ\l,fro,DETind,DETind,sfr,quel,DMF,quel,,,<l n=&quot;80&quot;><q>
-481,80,2,80,"CantQuSol, l. 80",part,part,_,parT,p.a.r.t,p/a\rT,fro,NOMcom,NOMcom,sfr,part,DMF,part,,,
-482,80,3,80,"CantQuSol, l. 80",q[ue],que,_,kE,qu.e,k/(E)\,fro,PRNrel,PRNrel,---,que,DMF,que,,,
-483,80,4,80,"CantQuSol, l. 80",alget,alget,_,aLʤə,a.l.g.et,'/a\L.ʤ/(ə)\,fro,VERcjg,VERcjg,subpst3,aller,DMF,aller,,,
-484,80,5,80,"CantQuSol, l. 80",iluoc,iluoc,_,iluOK,i.l.u.o.c,/i\.'l/uO\K,fro,ADVgen,ADVgen,,illuec,DMF,illuec,,,
-485,80,6,80,"CantQuSol, l. 80",[est],est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,VERcjg,indpst3,être,DMF,être,,,
-486,80,7,80,"CantQuSol, l. 80",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,DETpos,1sfn,mon,DMF,mon,,,<lb/>
-487,80,8,80,"CantQuSol, l. 80",coronet,coronet,_,korOnə,c.o.r.o.n.et,k/o\.'r/O\.n/(ə)\,fro,NOMcom,NOMcom,sfn,couronne,DMF,couronne,,</q></l>,
-488,81,1,81,"CantQuSol, l. 81",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;81&quot;><q>
-489,81,2,81,"CantQuSol, l. 81",mes,mes,_,mES,m.e.s,m/E\S,fro,DETpos,DETpos,1smn,mon,DMF,mon,,,
-490,81,3,81,"CantQuSol, l. 81",tresors,tresors,;,trEzɔrS,t.r.e.s.o.r.s,tr/E\.'z/ɔ\rS,fro,NOMcom,NOMcom,smn,trésor,DMF,trésor,,</q></l></lg>,
-491,82,1,82,"CantQuSol, l. 82",Ezelcias,ezelcias,|,EʣELÇiaS,e.z.e.l.c.i.a.s,/E\.ʣ/E\L.Ç/i\.'/a\S,fro,NOMpro,NOMpro,smr,Ézéchias,wikipedia.fr,,,,"<lg n=&quot;28&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;82&quot;><q>"
-492,82,2,82,"CantQuSol, l. 82",manases,manases,_,mAnAzɛS,m.a.n.a.s.e.s,m/A\.n/A\.'z/ɛ\S,fro,NOMpro,NOMpro,smr,Manassé,wikipedia.fr,,,,<lb/>
-493,82,3,82,"CantQuSol, l. 82",iosias,josias,_,ʤɔziaS,j.o.s.i.a.s,ʤ/ɔ\.z/i\.'/a\S,fro,NOMpro,NOMpro,smr,Josias,wikipedia.fr,,,</q></l>,
-494,83,1,83,"CantQuSol, l. 83",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;83&quot;><q>
-495,83,2,83,"CantQuSol, l. 83",ioa_chim,joachim,_,ʤɔAkim,j.o.a.ch.i.m,ʤ/ɔ\./A\.'k/i\m,fro,NOMpro,NOMpro,smr,Joiaqim,wikipedia.fr,,,,
-496,83,3,83,"CantQuSol, l. 83",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-497,83,4,83,"CantQuSol, l. 83",dam,dam,|,dAm,d.a.m,d/A\m,fro,NOMcom,NOMcom,smr,dan,DMF,dan,,,
-498,83,5,83,"CantQuSol, l. 83",nazarias,nazarias,_,nAʣAriaS,n.a.z.a.r.i.a.s,n/A\.ʣ/A\.r/i\.'/a\S,fro,NOMpro,NOMpro,smr,Azarias,wikipedia.fr,,,</q></l>,<lb/>
-499,84,1,84,"CantQuSol, l. 84",de,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,<l n=&quot;84&quot;><q>
-500,84,2,84,"CantQuSol, l. 84",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-501,84,3,84,"CantQuSol, l. 84",quart,quart,_,karT,qu.a.r.t,k/a\rT,fro,ADJord,ADJord,smr,quart,DMF,quart,,,
-502,84,4,84,"CantQuSol, l. 84",ede,ede,;,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,NOMcom,smr,aé,DMF,aé,,</q></l></lg>,
-503,85,1,85,"CantQuSol, l. 85",De,de,+,dE,d.e,d/(E)\,fro,PRE,PRE,,de,DMF,de,,,"<lg n=&quot;29&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;85&quot;><q>"
-504,85,2,85,"CantQuSol, l. 85",l,l,+,L,l,/\L,fro,DETdef,DETdef,smr,le,DMF,le,,,
-505,85,3,85,"CantQuSol, l. 85",quint,quint,|,kiNT,qu.i.n.t,k/i\NT,fro,ADJord,ADJord,smr,quint,DMF,quint,,,
-506,85,4,85,"CantQuSol, l. 85",ede,ede,_,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,NOMcom,smr,aé,DMF,aé,,,<lb/>
-507,85,5,85,"CantQuSol, l. 85",i,i,_,i,i,/i\,fro,PRCadv,PRCadv,,y2,DMF,y2,,,
-508,85,6,85,"CantQuSol, l. 85",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,VERcjg,indpsp3,venir,DMF,venir,,,
-509,85,7,85,"CantQuSol, l. 85",ananias,ananias,_,AnAniaS,a.n.a.n.i.a.s,/A\.n/A\.n/i\.'/a\S,fro,NOMpro,NOMpro,smn,Ananias,wikipedia.fr,,,</q></l>,
-510,86,1,86,"CantQuSol, l. 86",ę,e,+,e,e,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;86&quot;><q>
-511,86,2,86,"CantQuSol, l. 86",misael,misael,|,mizaɛl,m.i.s.ae.l,m/i\.z/a\.'/ɛ\l,fro,NOMpro,NOMpro,smn,Misaël,wikipedia.fr,,,,
-512,86,3,86,"CantQuSol, l. 86",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<lb/>
-513,86,4,86,"CantQuSol, l. 86",dam,dam,_,dAm,d.a.m,d/A\m,fro,NOMcom,NOMcom,smr,dan,DMF,dan,,,
-514,86,5,86,"CantQuSol, l. 86",zacharias,zacharias,_,ÇAkAriaS,z.a.ch.a.r.i.a.s,Ç/A\.k/A\.r/i\.'/a\S,fro,NOMpro,NOMpro,smr,Zacharie,wikipedia.fr,,,</q></l>,
-515,87,1,87,"CantQuSol, l. 87",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,<l n=&quot;87&quot;><q>
-516,87,2,87,"CantQuSol, l. 87",pl[us]sors,plussors,_,pLysorS,p.l.u.ss.o.r.s,pL/y\.'s/o\rS,fro,DETind,DETind,pmr,plusieurs,DMF,plusieurs,,,
-517,87,3,87,"CantQuSol, l. 87",altresz,altresz,;|,aLtrəS,a.l.t.r.e.sz,'/a\L.tr/ə\S,fro,PRNind,PRNind,pmr,autre,DMF,autre,,</q></l></lg>,
-518,88,1,88,"CantQuSol, l. 88",Enpres,enpres,_,ENprɛS,e.n.p.r.e.s,/E\N.'pr/ɛ\S,fro,PRE,PRE,,emprès,DMF,emprès,,,"<lb/><lg n=&quot;30&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;88&quot;><q>"
-519,88,2,88,"CantQuSol, l. 88",icelsz,icelsz,_,iʦeLS,i.c.e.l.sz,/i\.'ʦ/e\LS,fro,PRNdem,PRNdem,pmr,cil,DMF,cil,,,
-520,88,3,88,"CantQuSol, l. 88",[et],et,_,e,et,/e\,fro,CONcoo,CONcoo,,et,DMF,et,,,
-521,88,4,88,"CantQuSol, l. 88",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,DETind,DETind,pmr,moult,DMF,moult,,,
-522,88,5,88,"CantQuSol, l. 88",altres,altres,_,aLtrəS,a.l.t.r.e.s,'/a\L.tr/ə\S,fro,ADJind,ADJind,pmr,autre,DMF,autre,,,
-523,88,6,88,"CantQuSol, l. 88",barunsz,barunsz,|,bArONS,b.a.r.u.n.sz,b/A\.'r/O\NS,fro,NOMcom,NOMcom,pmr,baron,DMF,baron,,</q></l>,
-524,89,1,89,"CantQuSol, l. 89",par,par,+,pAr,p.a.r,p/A\r,fro,PRE,PRE,,par,DMF,par,,,<lb/><l n=&quot;89&quot;><q>
-525,89,2,89,"CantQuSol, l. 89",cui,cui,_,kyi,c.u.i,k/y\i,fro,PRNrel,PRNrel,pmr,qui,DMF,qui,,,
-526,89,3,89,"CantQuSol, l. 89",mi,mi,+,mi,m.i,m/i\,fro,DETpos,DETpos,1smn,mon,DMF,mon,,,
-527,89,4,89,"CantQuSol, l. 89",siret,siret,_,Sirə,s.i.r.et,'S/i\.r/(ə)\,fro,NOMcom,NOMcom,smn,sire,DMF,sire,,,
-528,89,5,89,"CantQuSol, l. 89",mei,mei,+,mEi,m.e.i,m/E\i,fro,PRNper,PRNper,1sfr,moi,DMF,moi,,,
-529,89,6,89,"CantQuSol, l. 89",madatz,madatz,|,mAda,m.a.d.atz,m/A\.'d/a\,fro,VERcjg,VERcjg,indpsp3,mander,DMF,mander,,,
-530,89,7,89,"CantQuSol, l. 89",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,DETpos,3sfr,son4,DMF,son4,,,<lb/>
-531,89,8,89,"CantQuSol, l. 89",raisum,raisum,_,rAizOm,r.a.i.s.u.m,r/A\i.'z/O\m,fro,NOMcom,NOMcom,sfr,raison,DMF,raison,,</q></l>,
-532,90,1,90,"CantQuSol, l. 90",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,PRNper,1sfr,moi,DMF,moi,,,<l n=&quot;90&quot;><q>
-533,90,2,90,"CantQuSol, l. 90",uult,vult,_,voLT,v.u.l.t,v/o\LT,fro,VERcjg,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
-534,90,3,90,"CantQuSol, l. 90",aueir,aveir,;,AvEir,a.v.e.i.r,/A\.'v/E\ir,fro,VERinf,VERinf,,avoir,DMF,avoir,,</q></l></lg>,
-535,91,1,91,"CantQuSol, l. 91",Il,il,|,il,i.l,/i\l,fro,PRNper,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;31&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;91&quot;><q>"
-536,91,2,91,"CantQuSol, l. 91",enueiad,enveiad,_,ENvEia,e.n.v.e.i.ad,/E\N.v/E\i.'/a\,fro,VERcjg,VERcjg,indpsp3,envoyer,DMF,envoyer,,,<lb/>
-537,91,3,91,"CantQuSol, l. 91",sun,sun,_,SOn,s.u.n,S/O\n,fro,DETpos,DETpos,3smr,son4,DMF,son4,,,
-538,91,4,91,"CantQuSol, l. 91",angret,angret,_,ANgrə,a.n.g.r.et,'/A\N.gr/(ə)\,fro,NOMcom,NOMcom,smr,ange,DMF,ange,,,
-539,91,5,91,"CantQuSol, l. 91",a,a,+,A,a,/A\,fro,PRE,PRE,,à,DMF,à,,,
-540,91,6,91,"CantQuSol, l. 91",la,la,+,LA,l.a,L/(A)\,fro,DETdef,DETdef,sfr,le,DMF,le,,,
-541,91,7,91,"CantQuSol, l. 91",pucele,pucele,|,pyʦɛlə,p.u.c.e.l.e,p/y\.'ʦ/ɛ\.l/(ə)\,fro,NOMcom,NOMcom,sfr,pucelle,DMF,pucelle,,</q></l>,
-542,92,1,92,"CantQuSol, l. 92",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,PRNrel,smn,qui,DMF,qui,,,<lb/><l n=&quot;92&quot;><q>
-543,92,2,92,"CantQuSol, l. 92",l,l,+,L,l,L/\,fro,PRCper,PRCper,3sfa,le,DMF,le,,,
-544,92,3,92,"CantQuSol, l. 92",a,a,+,a,a,/a\,fro,VERcjg,VERcjg,indpst3,avoir,DMF,avoir,,,
-545,92,4,92,"CantQuSol, l. 92",saluet,salvet,_,SALvæ,s.a.l.v.et,S/A\L.'v/æ\,fro,VERppe,VERppe,snr,sauver,DMF,sauver,,,
-546,92,5,92,"CantQuSol, l. 92",d,d,+,d,d,d/\,fro,PRE,PRE,,de,DMF,de,,,
-547,92,6,92,"CantQuSol, l. 92",une,une,_,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,DETndf,sfr,un,DMF,un,,,
-548,92,7,92,"CantQuSol, l. 92",saludz,saludz,_,SAly,s.a.l.udz,S/A\.'l/y\,fro,NOMcom,NOMcom,sfr,salut,DMF,salut,,,
-549,92,8,92,"CantQuSol, l. 92",nouelet,novelet,|,novɛlə,n.o.v.e.l.et,n/o\.'v/ɛ\.l/(ə)\,fro,ADJqua,ADJqua,sfr,nouveau,DMF,nouveau,,</q></l>,
-550,93,1,93,"CantQuSol, l. 93",en,en,+,En,e.n,/E\n,fro,PRE,PRE,,en,DMF,en,,,<lb/><l n=&quot;93&quot;><q>
-551,93,2,93,"CantQuSol, l. 93",nazareh,nazareh,;|,nAʣArɛ,n.a.z.a.r.eh,n/A\.ʣ/A\.'r/ɛ\,fro,NOMpro,NOMpro,smr,Nazareth,wikipedia.fr,,,</q></l></lg></body></text>,
+wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
+1,1,1,1,"CantQuSol, l. 1",Quant,quant,_,kANT,qu.a.n.t,k/A\NT,fro,CONsub,---,quand,DMF,quand,,,"<text><body xml:lang=&quot;fro&quot;><pb n=&quot;92v&quot;/><lb n=&quot;3&quot;/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;1&quot;>"
+2,1,2,1,"CantQuSol, l. 1",li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,
+3,1,3,1,"CantQuSol, l. 1",solleiz,solleiz,_,SolEiÇ,s.o.ll.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,smn,soleil,DMF,soleil,,,
+4,1,4,1,"CantQuSol, l. 1",conu[er]set,converset,_,kONvɛrSə,c.o.n.v.e.r.s.et,k/O\N.'v/ɛ\r.S/ə\,fro,VERcjg,indpst3,converser,DMF,converser,,,
+5,1,5,1,"CantQuSol, l. 1",en,en,+,En,e.n,/E\n,fro,PRE,---,en,DMF,en,,,
+6,1,6,1,"CantQuSol, l. 1",leon,leon,|,LEOn,l.e.o.n,L/E\.'/O\n,fro,NOMcom,smr,lion,DMF,lion,,</l>,
+7,2,1,2,"CantQuSol, l. 2",en,en,+,En,e.n,/E\n,fro,PRE,---,en,DMF,en,,,<lb/><l n=&quot;2&quot;>
+8,2,2,2,"CantQuSol, l. 2",icel,icel,+,iʦel,i.c.e.l,/i\.'ʦ/e\l,fro,DETdem,smr,cil,DMF,cil,,,
+9,2,3,2,"CantQuSol, l. 2",tens,tens,_,tENS,t.e.n.s,t/E\NS,fro,NOMcom,smr,temps,DMF,temps,,,
+10,2,4,2,"CantQuSol, l. 2",qu,qu,+,k,qu,k/\,fro,PRNrel,smn,que,DMF,que,,,
+11,2,5,2,"CantQuSol, l. 2",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+12,2,6,2,"CantQuSol, l. 2",ort[us],ortus,_,ɔrtyS,o.r.t.u.s,/ɔ\r.'t/y\S,lat,NOMcom,smn,hortus,wiktionary,hort,,,
+13,2,7,2,"CantQuSol, l. 2",pliadon,pliadon,|,pLiAdOn,p.l.i.a.d.o.n,pL/i\./A\.'d/O\n,fro,NOMcom,sfr,Pléiade,wikipedia.fr,---,,</l>,
+14,3,1,3,"CantQuSol, l. 3",per,per,_,pEr,p.e.r,p/E\r,fro,PRE,---,par,DMF,par,,,<lb/><l n=&quot;3&quot;>
+15,3,2,3,"CantQuSol, l. 3",unt,unt,_,yN,u.nt,/y\N,fro,DETndf,smr,un,DMF,un,,,
+16,3,3,3,"CantQuSol, l. 3",matin,matin,;,mAtin,m.a.t.i.n,m/A\.'t/i\n,fro,NOMcom,smr,matin,DMF,matin,,</l></lg>,
+17,4,1,4,"CantQuSol, l. 4",Vne,une,|,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,sfr,un,DMF,un,,,"<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;4&quot;>"
+18,4,2,4,"CantQuSol, l. 4",pulcellet,pulcellet,_,pyLÇɛlə,p.u.l.c.e.ll.et,p/y\L.'Ç/ɛ\.l/(ə)\,fro,NOMcom,sfr,pucelle,DMF,pucelle,,,<lb/>
+19,4,3,4,"CantQuSol, l. 4",odit,odit,_,ɔði,o.d.it,/ɔ\.'ð/i\,fro,VERcjg,indpsp1,ouïr,DMF,ouïr,,,
+20,4,4,4,"CantQuSol, l. 4",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
+21,4,5,4,"CantQuSol, l. 4",gent,gent,_,ʤENT,g.e.n.t,ʤ/E\NT,fro,ADVgen,---,gent2,DMF,gent2,,,
+22,4,6,4,"CantQuSol, l. 4",plo|rer,plorer,_,pLorær,p.l.o.r.e.r,pL/o\.'r/æ\r,fro,VERinf,---,pleurer,DMF,pleurer,,</l>,
+23,5,1,5,"CantQuSol, l. 5",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/><l n=&quot;5&quot;>
+24,5,2,5,"CantQuSol, l. 5",son,son,_,SOn,s.o.n,S/O\n,fro,DETpos,3smr,son4,DMF,son4,,,
+25,5,3,5,"CantQuSol, l. 5",ami,ami,_,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,,
+26,5,4,5,"CantQuSol, l. 5",dolcement,dolcement,_,doLÇEmENT,d.o.l.c.e.m.e.n.t,d/o\L.Ç/E\.'m/E\NT,fro,ADVgen,---,doucement,DMF,doucement,,,
+27,5,5,5,"CantQuSol, l. 5",regre|ter,regreter,_,rEgrEtær,r.e.g.r.e.t.e.r,r/E\.gr/E\.'t/æ\r,fro,VERinf,---,regretter,DMF,regretter,,</l>,
+28,6,1,6,"CantQuSol, l. 6",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/><l n=&quot;6&quot;>
+29,6,2,6,"CantQuSol, l. 6",i[=io],jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1smn,je,DMF,je,,,
+30,6,3,6,"CantQuSol, l. 6",lli,lli,_,Li,ll.i,L/i\,fro,PRCper,3sfi,le,DMF,le,,,
+31,6,4,6,"CantQuSol, l. 6",dis,dis,;,diS,d.i.s,d/i\S,fro,VERcjg,indpsp1,dire,DMF,dire,,</l></lg>,
+32,7,1,7,"CantQuSol, l. 7",Gentilz,gentilz,+,ʤENtiLS,g.e.n.t.i.l.z,ʤ/E\N.'t/i\LS,fro,ADJqua,sfn,gentil,DMF,gentil,,,"<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;7&quot;><q>"
+33,7,2,7,"CantQuSol, l. 7",pucellet,pucellet,|,pyʦɛlə,p.u.c.e.ll.et,p/y\.'ʦ/ɛ\.l/(ə)\,fro,NOMcom,sfn,pucelle,DMF,pucelle,,,
+34,7,3,7,"CantQuSol, l. 7",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,<lb/>
+35,7,4,7,"CantQuSol, l. 7",t,t,+,t,t,t/\,fro,PRCper,2sfr,te,DMF,te,,,
+36,7,5,7,"CantQuSol, l. 7",ai,ai,_,Ai,a.i,/A\i,fro,VERcjg,indpst1,avoir,DMF,avoir,,,
+37,7,6,7,"CantQuSol, l. 7",odit,odit,_,ɔði,o.d.it,/ɔ\.'ð/i\,fro,VERppe,smr,ouïr,DMF,ouïr,,,
+38,7,7,7,"CantQuSol, l. 7",plorer,plorer,_,pLorær,p.l.o.r.e.r,pL/o\.'r/æ\r,fro,VERinf,---,pleurer,DMF,pleurer,,</q></l>,
+39,8,1,8,"CantQuSol, l. 8",e,e,_,e,e,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;8&quot;><q>
+40,8,2,8,"CantQuSol, l. 8",tum,tum,_,tOm,t.u.m,t/O\m,fro,DETpos,2smr,ton2,DMF,ton2,,,
+41,8,3,8,"CantQuSol, l. 8",ami,ami,|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,,
+42,8,4,8,"CantQuSol, l. 8",dolcement,dolcement,|,doLÇEmENT,d.o.l.c.e.m.e.n.t,d/o\L.Ç/E\.'m/E\NT,fro,ADVgen,---,doucement,DMF,doucement,,,
+43,8,5,8,"CantQuSol, l. 8",regreter,regreter,|,rEgrEtær,r.e.g.r.e.t.e.r,r/E\.gr/E\.'t/æ\r,fro,VERinf,---,regretter,DMF,regretter,,</add></q></l>,"<add place=""margin"">"
+44,9,1,9,"CantQuSol, l. 9",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/><l n=&quot;9&quot;><q>
+45,9,2,9,"CantQuSol, l. 9",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,smn,qui,DMF,qui,,,
+46,9,3,9,"CantQuSol, l. 9",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+47,9,4,9,"CantQuSol, l. 9",illi,illi,;|,ili,i.ll.i,/i\.'l/i\,fro,PRNper,3smn,il,DMF,il,,</q></l></lg>,
+48,10,1,10,"CantQuSol, l. 10",rget,…rget,_,,,,fro,---,---,---,---,---,,,"<add place=""margin""><lb/><lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;10&quot;><gap reason=""damage""/>"
+49,10,2,10,"CantQuSol, l. 10",fud,fud,+,fy,f.ud,f/y\,fro,VERcjg,indpsp3,être,DMF,être,,,
+50,10,3,10,"CantQuSol, l. 10",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+51,10,4,10,"CantQuSol, l. 10",bon,bon,|,bOn,b.o.n,b/O\n,fro,ADJqua,smr,bon,DMF,bon,,,
+52,10,5,10,"CantQuSol, l. 10",ient,…ient,_,,,,fro,---,---,---,---,---,,</l>,"<lb/><gap reason=""damage""/>"
+53,11,1,11,"CantQuSol, l. 11",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,<l n=&quot;11&quot;>
+54,11,2,11,"CantQuSol, l. 11",respon,respon…,|,,,,fro,---,---,---,---,---,,,
+55,11,3,11,"CantQuSol, l. 11",lt,…lt,_,,,,fro,---,---,---,---,---,,,"<lb/><gap reason=""damage""/>"
+56,11,4,11,"CantQuSol, l. 11",auenable,avenable…,|,,,,fro,---,---,---,---,---,,"<gap reason=""damage""/></l>",
+57,12,1,12,"CantQuSol, l. 12",so,so,+,So,s.o,S/o\,fro,PRE,---,sur,DMF,sur,,,<lb/><l n=&quot;12&quot;>
+58,12,2,12,"CantQuSol, l. 12",son,son,_,SOn,s.o.n,S/O\n,fro,DETpos,3smr,son4,DMF,son4,,,
+59,12,3,12,"CantQuSol, l. 12",ami,ami,;|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</l></lg></add>,
+60,13,1,13,"CantQuSol, l. 13",Li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,"<lb/><lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;13&quot;><q>"
+61,13,2,13,"CantQuSol, l. 13",miens,miens,|,miENS,m.i.e.n.s,m/iE\NS,fro,ADJpos,1smn,mien,DMF,mien,,,
+62,13,3,13,"CantQuSol, l. 13",amis,amis,_,AmiS,a.m.i.s,/A\.'m/i\S,fro,NOMcom,smn,ami,DMF,ami,,,<lb/>
+63,13,4,13,"CantQuSol, l. 13",il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,
+64,13,5,13,"CantQuSol, l. 13",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+65,13,6,13,"CantQuSol, l. 13",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+66,13,7,13,"CantQuSol, l. 13",tel,tel,_,tæl,t.e.l,t/æ\l,fro,DETind,smr,tel,DMF,tel,,,
+67,13,8,13,"CantQuSol, l. 13",paraget,paraget,_,pAraʤə,p.a.r.a.g.et,p/A\.'r/a\.ʤ/(ə)\,fro,NOMcom,smr,parage,DMF,parage,,</q></l>,
+68,14,1,14,"CantQuSol, l. 14",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,---,que,DMF,que,,,<l n=&quot;14&quot;><q>
+69,14,2,14,"CantQuSol, l. 14",neuls,neuls,+,nEyLS,n.e.u.l.s,n/E\.'/y\LS,fro,DETind,smn,nul,DMF,nul,,,
+70,14,3,14,"CantQuSol, l. 14",on,on,|,On,o.n,/O\n,fro,NOMcom,smn,homme,DMF,homme,,,
+71,14,4,14,"CantQuSol, l. 14",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
+72,14,5,14,"CantQuSol, l. 14",en,en,+,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
+73,14,6,14,"CantQuSol, l. 14",seit,seit,_,SEiT,s.e.i.t,S/E\iT,fro,VERcjg,indpst3,savoir,DMF,savoir,,,
+74,14,7,14,"CantQuSol, l. 14",conter,conter,_,kONtær,c.o.n.t.e.r,k/O\N.'t/æ\r,fro,VERinf,---,conter,DMF,conter,,,
+75,14,8,14,"CantQuSol, l. 14",lignaget,lignaget,_,Liɲaʤə,l.i.gn.a.g.et,L/i\.'ɲ/a\.ʤ/(ə)\,fro,NOMcom,smr,lignage,DMF,lignage,,</q></l>,
+76,15,1,15,"CantQuSol, l. 15",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,<l n=&quot;15&quot;><q>
+77,15,2,15,"CantQuSol, l. 15",l,l,+,L,l,L/\,fro,DETdef,sfr,le,DMF,le,,,
+78,15,3,15,"CantQuSol, l. 15",une,une,|,ynə,u.n.e,'/y\.n/(ə)\,fro,PRNcar,sfr,un,DMF,un,,,
+79,15,4,15,"CantQuSol, l. 15",part,part,;,parT,p.a.r.t,p/a\rT,fro,NOMcom,sfr,part,DMF,part,,</q></l></lg>,<lb/>
+80,16,1,16,"CantQuSol, l. 16",Il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;16&quot;><q>"
+81,16,2,16,"CantQuSol, l. 16",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+82,16,3,16,"CantQuSol, l. 16",plus,plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,---,plus,DMF,plus,,,
+83,16,4,16,"CantQuSol, l. 16",gensz,gensz,_,ʤENS,g.e.n.sz,ʤ/E\NS,fro,ADJqua,smn,gent2,DMF,gent2,,,
+84,16,5,16,"CantQuSol, l. 16",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,---,que,DMF,que,,,
+85,16,6,16,"CantQuSol, l. 16",solleiz,solleiz,|,SolEiÇ,s.o.ll.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,smn,soleil,DMF,soleil,,,
+86,16,7,16,"CantQuSol, l. 16",enn,enn,+,En,e.nn,/E\n,fro,PRE,---,en,DMF,en,,,<lb/>
+87,16,8,16,"CantQuSol, l. 16",ested,ested,_,EStæ,e.s.t.ed,/E\S.'t/æ\,fro,NOMcom,smr,été,DMF,été,,</q></l>,
+88,17,1,17,"CantQuSol, l. 17",uers,vers,_,vɛrS,v.e.r.s,v/ɛ\rS,fro,PRE,---,vers2,DMF,vers2,,,<l n=&quot;17&quot;><q>
+89,17,2,17,"CantQuSol, l. 17",lui,lui,_,Lyi,l.u.i,L/y\i,fro,PRNper,3smr,lui,DMF,lui,,,
+90,17,3,17,"CantQuSol, l. 17",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,
+91,17,4,17,"CantQuSol, l. 17",pued,pued,_,puET,p.u.e.d,p/uE\T,fro,VERcjg,indpst3,pouvoir2,DMF,pouvoir2,,,
+92,17,5,17,"CantQuSol, l. 17",tenir,tenir,|,tEnir,t.e.n.i.r,t/E\.'n/i\r,fro,VERinf,---,tenir,DMF,tenir,,,
+93,17,6,17,"CantQuSol, l. 17",nulle,nulle,_,nylə,n.u.ll.e,'n/y\.l/(ə)\,fro,DETind,sfr,nul,DMF,nul,,,<lb/>
+94,17,7,17,"CantQuSol, l. 17",clartez,clartez,_,kLArtæ,c.l.a.r.t.ez,kL/A\r.'t/æ\,fro,NOMcom,sfr,clarté,DMF,clarté,,</q></l>,
+95,18,1,18,"CantQuSol, l. 18",tant,tant,_,tANT,t.a.n.t,t/A\NT,fro,ADVgen,---,tant,DMF,tant,,,<l n=&quot;18&quot;><q>
+96,18,2,18,"CantQuSol, l. 18",par,par,_,par,p.a.r,p/a\r,fro,ADVgen,---,par2,DMF,par2,,,
+97,18,3,18,"CantQuSol, l. 18",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+98,18,4,18,"CantQuSol, l. 18",belsz,belsz,;|,bɛLS,b.e.l.sz,b/ɛ\LS,fro,ADJqua,smn,beau,DMF,beau,,</q></l></lg>,
+99,19,1,19,"CantQuSol, l. 19",Blans,blans,_,bLANS,b.l.a.n.s,bL/A\NS,fro,ADJqua,smn,blanc,DMF,blanc,,,"<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;19&quot;><q>"
+100,19,2,19,"CantQuSol, l. 19",[est],est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+101,19,3,19,"CantQuSol, l. 19",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+102,19,4,19,"CantQuSol, l. 19",roges,roges,_,roʤəS,r.o.g.e.s,'r/o\.ʤ/ə\S,fro,ADJqua,smn,rouge,DMF,rouge,,,
+103,19,5,19,"CantQuSol, l. 19",plus,plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,---,plus,DMF,plus,,,
+104,19,6,19,"CantQuSol, l. 19",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,---,que,DMF,que,,,
+105,19,7,19,"CantQuSol, l. 19",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1sfn,je,DMF,je,,,
+106,19,8,19,"CantQuSol, l. 19",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,
+107,19,9,19,"CantQuSol, l. 19",l,l,+,L,l,/\L,fro,PRCper,3snr,le,DMF,le,,,
+108,19,10,19,"CantQuSol, l. 19",saí,sai,|,SAi,s.a.i,S/A\i,fro,VERcjg,indpst1,savoir,DMF,savoir,,,
+109,19,11,20,"CantQuSol, l. 20",diret,diret,_,dirə,d.i.r.et,'d/i\.r/(ə)\,fro,VERinf,---,dire,DMF,dire,,</q></l>,<lb/>
+110,20,1,20,"CantQuSol, l. 20",li,li,_,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,<l n=&quot;20&quot;><q>
+111,20,2,20,"CantQuSol, l. 20",suensz,suensz,_,SuENS,s.u.e.n.sz,S/uE\NS,fro,ADJpos,3smn,son4,DMF,son4,,,
+112,20,3,20,"CantQuSol, l. 20",senblansz,senblansz,_,SENbLANS,s.e.n.b.l.a.n.sz,S/E\N.'bL/A\NS,fro,NOMcom,smn,semblant,DMF,semblant,,,
+113,20,4,20,"CantQuSol, l. 20",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,
+114,20,5,20,"CantQuSol, l. 20",en,en,+,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
+115,20,6,20,"CantQuSol, l. 20",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+116,20,7,20,"CantQuSol, l. 20",entreiz,entreiz,_,ENtrəS,e.n.t.r.ei.z,'/E\N.tr/ə\S,fro,PRE,---,entre,DMF,entre,,,<lb/>
+117,20,8,20,"CantQuSol, l. 20",cent,cent,_,ÇENT,c.e.n.t,Ç/E\NT,fro,DETcar,pmr,cent,DMF,cent,,,
+118,20,9,20,"CantQuSol, l. 20",miliet,miliet,_,miliə,m.i.l.i.et,'m/i\.li/(ə)\,fro,PRNcar,pmr,mille,DMF,mille,,</q></l>,
+119,21,1,21,"CantQuSol, l. 21",ne,ne,+,nE,n.e,n/(E)\,fro,CONcoo,---,ne2,DMF,ne2,,,<l n=&quot;21&quot;><q>
+120,21,2,21,"CantQuSol, l. 21",ia,ja,+,ʤa,j.a,ʤ/a\,fro,ADVgen,---,jà,DMF,jà,,,
+121,21,3,21,"CantQuSol, l. 21",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,
+122,21,4,21,"CantQuSol, l. 21",en,en,+,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
+123,21,5,21,"CantQuSol, l. 21",i|ert,iert,;,iErT,i.e.r.t,/iE\rT,fro,VERcjg,indfut3,être,DMF,être,,</q></l></lg>,<lb/>
+124,22,1,22,"CantQuSol, l. 22",Il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;22&quot;><q>"
+125,22,2,22,"CantQuSol, l. 22",dist,dist,_,diST,d.i.s.t,d/i\ST,fro,VERcjg,indpsp3,dire,DMF,dire,,,
+126,22,3,22,"CantQuSol, l. 22",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+127,22,4,22,"CantQuSol, l. 22",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,1sfr,moi,DMF,moi,,,
+128,22,5,22,"CantQuSol, l. 22",que,que,_,kE,qu.e,k/(E)\,fro,CONsub,---,que,DMF,que,,,
+129,22,6,22,"CantQuSol, l. 22",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1sfn,je,DMF,je,,,
+130,22,7,22,"CantQuSol, l. 22",eret,eret,|,ɛrə,e.r.et,'/ɛ\.r/(ə)\,fro,VERcjg,indipf1,être,DMF,être,,,
+131,22,8,22,"CantQuSol, l. 22",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,<lb/>
+132,22,9,22,"CantQuSol, l. 22",bellet,bellet,_,bɛlə,b.e.ll.et,'b/ɛ\.l/(ə)\,fro,ADJqua,sfn,beau,DMF,beau,,</q></l>,
+133,23,1,23,"CantQuSol, l. 23",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,<l n=&quot;23&quot;><q>
+134,23,2,23,"CantQuSol, l. 23",m,m,+,m,m,m/\,fro,PRCper,1sfr,me,DMF,me,,,
+135,23,3,23,"CantQuSol, l. 23",ai_met,aimet,_,Aimə,a.i.m.et,'/A\i.m/(ə)\,fro,VERcjg,indpst3,aimer,DMF,aimer,,,
+136,23,4,23,"CantQuSol, l. 23",tant,tant,|,tANT,t.a.n.t,t/A\NT,fro,ADVgen,---,tant,DMF,tant,,,
+137,23,5,23,"CantQuSol, l. 23",toz,toz,_,toÇ,t.o.z,t/o\Ç,fro,DETind,pmr,tout,DMF,tout,,,<lb/>
+138,23,6,23,"CantQuSol, l. 23",temps,temps,_,tENPS,t.e.m.p.s,t/E\NPS,fro,NOMcom,pmr,temps,DMF,temps,,,
+139,23,7,23,"CantQuSol, l. 23",li,li,+,Li,l.i,L/i\,fro,PRCper,3smi,le,DMF,le,,,
+140,23,8,23,"CantQuSol, l. 23",soi,soi,_,Soi,s.o.i,S/o\i,fro,VERcjg,indpst1,être,DMF,être,,,
+141,23,9,23,"CantQuSol, l. 23",nouelet,novelet,_,novɛlə,n.o.v.e.l.et,n/o\.'v/ɛ\.l/(ə)\,fro,ADJqua,sfn,nouveau,DMF,nouveau,,</q></l>,
+142,24,1,24,"CantQuSol, l. 24",soe,soe,+,Soə,s.o.e,'S/o\./(ə)\,fro,DETpos,3sfr,son4,DMF,son4,,,<l n=&quot;24&quot;><q>
+143,24,2,24,"CantQuSol, l. 24",mer|cid,mercid,;,mErʦi,m.e.r.c.id,m/E\r.'ʦ/i\,fro,NOMcom,sfr,merci,DMF,merci,,</q></l></lg>,
+144,25,1,25,"CantQuSol, l. 25",Dolćór,dolcor,_,doLÇor,d.o.l.c.o.r,d/o\L.'Ç/o\r,fro,NOMcom,sfr,douceur,DMF,douceur,,,"<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;25&quot;><q>"
+145,25,2,25,"CantQuSol, l. 25",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+146,25,3,25,"CantQuSol, l. 25",mel,mel,_,mɛl,m.e.l,m/ɛ\l,fro,NOMcom,smr,miel,DMF,miel,,,
+147,25,4,25,"CantQuSol, l. 25",apeleid,apeleid,_,ApElEiT,a.p.e.l.e.i.d,/A\.p/E\.'l/E\iT,fro,VERcjg,indipf3,appeler,DMF,appeler,,,
+148,25,5,25,"CantQuSol, l. 25",mes,mes,|,mES,m.e.s,m/E\S,fro,DETpos,1pfr,mon,DMF,mon,,,
+149,25,6,25,"CantQuSol, l. 25",leures,levres,_,LɛvrəS,l.e.v.r.e.s,'L/ɛ\.vr/ə\S,fro,NOMcom,pfr,lèvre,DMF,lèvre,,</q></l>,<lb/>
+150,26,1,26,"CantQuSol, l. 26",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,<l n=&quot;26&quot;><q>
+151,26,2,26,"CantQuSol, l. 26",soiz,soiz,_,SɔiÇ,s.o.i.z,S/ɔ\iÇ,fro,PRE,---,sous,DMF,sous,,,
+152,26,3,26,"CantQuSol, l. 26",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,1sfr,mon,DMF,mon,,,
+153,26,4,26,"CantQuSol, l. 26",languet,languet,_,LANgə,l.a.n.gu.et,'L/A\N.g/ə\,fro,NOMcom,sfr,langue,DMF,langue,,,
+154,26,5,26,"CantQuSol, l. 26",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+155,26,6,26,"CantQuSol, l. 26",li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,<lb/>
+156,26,7,26,"CantQuSol, l. 26",laiz,laiz,_,LAiÇ,l.a.i.z,L/A\iÇ,fro,NOMcom,smn,lait,DMF,lait,,,
+157,26,8,26,"CantQuSol, l. 26",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+158,26,9,26,"CantQuSol, l. 26",les,les,_,LES,l.e.s,L/E\S,fro,DEFdef,pfn,le,DMF,le,,,
+159,26,10,26,"CantQuSol, l. 26",réés,rees,_,ræəS,r.e.e.s,'r/æ\./(ə)\S,fro,NOMcom,pfn,rée,DMF,rée,,</q></l>,
+160,27,1,27,"CantQuSol, l. 27",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;27&quot;><q>
+161,27,2,27,"CantQuSol, l. 27",io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1sfn,je,DMF,je,,,
+162,27,3,27,"CantQuSol, l. 27",sai,sai,_,SAi,s.a.i,S/A\i,fro,VERcjg,indpst1,savoir,DMF,savoir,,,
+163,27,4,27,"CantQuSol, l. 27",beem,beem,;|,bEm,b.ee.m,b/E\m,fro,ADVgen,---,bien,DMF,bien,,</q></l></lg>,
+164,28,1,28,"CantQuSol, l. 28",Nuls,nuls,+,nyLS,n.u.l.s,n/y\LS,fro,DETind,smn,nul,DMF,nul,,,"<lb/><lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;28&quot;><q>"
+165,28,2,28,"CantQuSol, l. 28",om,om,_,Om,o.m,/O\m,fro,NOMcom,smn,homme,DMF,homme,,,
+166,28,3,28,"CantQuSol, l. 28",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,
+167,28,4,28,"CantQuSol, l. 28",uit,vit,_,viT,v.i.t,v/i\T,fro,VERcjg,indpsp3,voir,DMF,voir,,,
+168,28,5,28,"CantQuSol, l. 28",aromatigement,aromatigement,|,ArOmAtiʤEmENT,a.r.o.m.a.t.i.g.e.m.e.n.t,/A\.r/O\.m/A\.t/i\.ʤ/E\.'m/E\NT,fro,NOMcom,smr,aromatisement,TL,---,,</q></l>,
+169,29,1,29,"CantQuSol, l. 29",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,smn,qui,DMF,qui,,,<lb/><l n=&quot;29&quot;><q>
+170,29,2,29,"CantQuSol, l. 29",tant,tant,_,tANT,t.a.n.t,t/A\NT,fro,ADVgen,---,tant,DMF,tant,,,
+171,29,3,29,"CantQuSol, l. 29",biem,biem,_,biEm,b.i.e.m,b/iE\m,fro,ADVgen,---,bien,DMF,bien,,,
+172,29,4,29,"CantQuSol, l. 29",oillet,oillet,_,oiʎə,o.i.ll.et,'/o\i.ʎ/(ə)\,fro,VERcjg,indpst3,huiler,DMF,huiler,,,
+173,29,5,29,"CantQuSol, l. 29",con,con,+,kOn,c.o.n,k/O\n,fro,CONsub,---,comme,DMF,comme,,,
+174,29,6,29,"CantQuSol, l. 29",funt,funt,|,fONT,f.u.n.t,f/O\NT,fro,VERcjg,indpst6,faire,DMF,faire,,,
+175,29,7,29,"CantQuSol, l. 29",mi,mi,_,mi,m.i,m/i\,fro,DETpos,1pmn,mon,DMF,mon,,,<lb/>
+176,29,8,29,"CantQuSol, l. 29",uestement,vestement,_,vEStEmENT,v.e.s.t.e.m.e.n.t,v/E\S.t/E\.'m/E\NT,fro,NOMcom,pmn,vêtement,DMF,vêtement,,</q></l>,
+177,30,1,30,"CantQuSol, l. 30",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,<l n=&quot;30&quot;><q>
+178,30,2,30,"CantQuSol, l. 30",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+179,30,3,30,"CantQuSol, l. 30",som,som,_,SOm,s.o.m,S/O\m,fro,ADJpos,3smr,son4,DMF,son4,,,
+180,30,4,30,"CantQuSol, l. 30",plaisir,plaisir,;|,pLAizir,p.l.a.i.s.i.r,pL/A\i.'z/i\r,fro,NOMcom,smr,plaisir,DMF,plaisir,,</q></l></lg>,
+181,31,1,31,"CantQuSol, l. 31",La,la,_,LA,l.a,L/A\,fro,ADVgen,---,là,DMF,là,,,"<cb n=&quot;b&quot;/><lb/><lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;31&quot;><q>"
+182,31,2,31,"CantQuSol, l. 31",u,u,_,o,u,/o\,fro,PRNrel,---,où,DMF,où,,,
+183,31,3,31,"CantQuSol, l. 31",io,jo,+,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1sfn,je,DMF,je,,,
+184,31,4,31,"CantQuSol, l. 31",suid,suid,_,Syi,s.u.id,S/y\i,fro,VERcjg,indpst1,être,DMF,être,,,
+185,31,5,31,"CantQuSol, l. 31",iuersz,iversz,_,ivɛrS,i.v.e.r.sz,/i\.'v/ɛ\rS,fro,NOMcom,smn,hiver,DMF,hiver,,,
+186,31,6,31,"CantQuSol, l. 31",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,
+187,31,7,31,"CantQuSol, l. 31",i,i,+,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
+188,31,8,31,"CantQuSol, l. 31",puet,puet,_,puET,p.u.e.t,p/uE\T,fro,VERcjg,indpst3,pouvoir2,DMF,pouvoir2,,,
+189,31,9,31,"CantQuSol, l. 31",durer,durer,|,dyrær,d.u.r.e.r,d/y\.'r/æ\r,fro,VERinf,---,durer,DMF,durer,,</q></l>,
+190,32,1,32,"CantQuSol, l. 32",toz,toz,_,toÇ,t.o.z,t/o\Ç,fro,DETind,pmr,tout,DMF,tout,,,<lb/><l n=&quot;32&quot;><q>
+191,32,2,32,"CantQuSol, l. 32",tens,tens,_,tENS,t.e.n.s,t/E\NS,fro,NOMcom,pmr,temps,DMF,temps,,,
+192,32,3,32,"CantQuSol, l. 32",florist,florist,_,fLoriST,f.l.o.r.i.s.t,fL/o\.'r/i\ST,fro,VERcjg,indpst3,fleurir,DMF,fleurir,,,
+193,32,4,32,"CantQuSol, l. 32",li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,
+194,32,5,32,"CantQuSol, l. 32",leuz,leuz,_,LɛuS,l.e.u.z,L/ɛ\uS,fro,NOMcom,smn,lieu,DMF,lieu,,,
+195,32,6,32,"CantQuSol, l. 32",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+196,32,7,32,"CantQuSol, l. 32",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,1sfr,mon,DMF,mon,,,
+197,32,8,32,"CantQuSol, l. 32",bel|tez,beltez,_,bELtæ,b.e.l.t.ez,b/E\L.'t/æ\,fro,NOMcom,sfr,beauté,DMF,beauté,,</q></l>,
+198,33,1,33,"CantQuSol, l. 33",por,por,_,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<lb/><l n=&quot;33&quot;><q>
+199,33,2,33,"CantQuSol, l. 33",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+200,33,3,33,"CantQuSol, l. 33",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
+201,34,1,34,"CantQuSol, l. 34",li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,"<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;34&quot;><q>"
+202,34,2,34,"CantQuSol, l. 34",tensz,tensz,_,tENS,t.e.n.sz,t/E\NS,fro,NOMcom,smn,temps,DMF,temps,,,
+203,34,3,34,"CantQuSol, l. 34",est,est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+204,34,4,34,"CantQuSol, l. 34",bels,bels,_,bɛLS,b.e.l.s,b/ɛ\LS,fro,ADJqua,smn,beau,DMF,beau,,,<lb/>
+205,34,5,34,"CantQuSol, l. 34",les,les,_,LES,l.e.s,L/E\S,fro,DETdef,pfn,le,DMF,le,,,
+206,34,6,34,"CantQuSol, l. 34",uin_nesz,vinnesz,_,viɲəS,v.i.nn.e.sz,'v/i\.ɲ/ə\S,fro,NOMcom,pfn,vigne,DMF,vigne,,,
+207,34,7,34,"CantQuSol, l. 34",sont,sont,_,SONT,s.o.n.t,S/O\NT,fro,VERcjg,indpst6,être,DMF,être,,,
+208,34,8,34,"CantQuSol, l. 34",flories,flories,_,fLoriəS,f.l.o.r.i.e.s,fL/o\.'r/i\./ə\S,fro,VERppe,pfn,fleurir,DMF,fleurir,,</q></l>,
+209,35,1,35,"CantQuSol, l. 35",l,l,+,L,l,L/\,fro,DETdef,sfn,le,DMF,le,,,<l n=&quot;35&quot;><q>
+210,35,2,35,"CantQuSol, l. 35",odor,odor,|,odor,o.d.o.r,/o\.'d/o\r,fro,NOMcom,sfn,odeur,DMF,odeur,,,
+211,35,3,35,"CantQuSol, l. 35",[est],est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,<lb/>
+212,35,4,35,"CantQuSol, l. 35",bonet,bonet,_,bOnə,b.o.n.et,'b/O\.n/(ə)\,fro,ADJqua,sfn,bon,DMF,bon,,,
+213,35,5,35,"CantQuSol, l. 35",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,
+214,35,6,35,"CantQuSol, l. 35",l,l,+,L,l,L/\,fro,PRCper,sfa,le,DMF,le,,,
+215,35,7,35,"CantQuSol, l. 35",aimat,aimat,_,Aima,a.i.m.at,/A\i.'m/a\,fro,VERcjg,indpsp3,aimer,DMF,aimer,,,
+216,35,8,35,"CantQuSol, l. 35",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
+217,35,9,35,"CantQuSol, l. 35",misiret,misiret,|,misirə,m.i.s.i.r.et,m/i\.'s/i\.r/(ə)\,fro,NOMcom,smn,messire,DMF,messire,,</q></l>,
+218,36,1,36,"CantQuSol, l. 36",por,por,_,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<lb/><l n=&quot;36&quot;><q>
+219,36,2,36,"CantQuSol, l. 36",mei,mei,_,mEi,m.e.i,m/E\i,fro,DETpos,1sfr,mon,DMF,mon,,,
+220,36,3,36,"CantQuSol, l. 36",amor,amor,;,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,sfr,amour,DMF,amour,,</q></l></lg>,
+221,37,1,37,"CantQuSol, l. 37",En,en,_,En,e.n,/E\n,fro,PRE,---,en,DMF,en,,,"<lg n=&quot;13&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;37&quot;><q>"
+222,37,2,37,"CantQuSol, l. 37",nostre,nostre,_,nɔStrə,n.o.s.t.r.e,'n/ɔ\S.tr/(ə)\,fro,DETpos,4sfr,notre,DMF,notre,,,
+223,37,3,37,"CantQuSol, l. 37",terred,terred,|,tɛrrə,t.e.r.r.ed,'t/ɛ\r.r/(ə)\,fro,NOMcom,sfr,terre,DMF,terre,,,
+224,37,4,37,"CantQuSol, l. 37",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
+225,37,5,37,"CantQuSol, l. 37",oset,oset,_,ɔzə,o.s.et,'/ɔ\.z/(ə)\,fro,VERcjg,indpst3,oser,DMF,oser,,,
+226,37,6,37,"CantQuSol, l. 37",oilset,oilset,_,oiLSɛ,o.i.l.s.et,'/o\iL.S/ɛ\,fro,NOMcom,smn,oiseau,DMF,oiseau,,,
+227,37,7,37,"CantQuSol, l. 37",ćánter,canter,_,ċANtær,c.a.n.t.e.r,ċ/A\N.'t/æ\r,fro,VERinf,---,chanter,DMF,chanter,,</q></l>,
+228,38,1,38,"CantQuSol, l. 38",samz,samz,_,SANS,s.a.m.z,S/A\NS,fro,PRE,---,sans,DMF,sans,,,<l n=&quot;38&quot;><q>
+229,38,2,38,"CantQuSol, l. 38",la,la,+,LA,l.a,L/(A)\,fro,DETdef,sfr,le,DMF,le,,,
+230,38,3,38,"CantQuSol, l. 38",tor|terelet,torterelet,_,tortErɛlə,t.o.r.t.e.r.e.l.et,t/o\r.t/[E]\.'r/ɛ\.l/(ə)\,fro,NOMcom,sfr,tourterelle,DMF,tourterelle,,,
+231,38,4,38,"CantQuSol, l. 38",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,sfn,qui,DMF,qui,,,<lb/>
+232,38,5,38,"CantQuSol, l. 38",amat,amat,_,Ama,a.m.at,/A\.'m/a\,fro,VERcjg,indpsp3,aimer,DMF,aimer,,,
+233,38,6,38,"CantQuSol, l. 38",ćáaste,caaste,_,ċAAStæ,c.a.a.s.t.e,ċ/A\./A\S.'t/æ\,fro,NOMcom,sfr,chasté,DMF,chasté,,</q></l>,
+234,39,1,38,"CantQuSol, l. 39",ed,ed,_,e,ed,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;39&quot;><q>
+235,39,2,39,"CantQuSol, l. 39",por,por,|,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,
+236,39,3,39,"CantQuSol, l. 39",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,<lb/>
+237,39,4,39,"CantQuSol, l. 39",ami,ami,.,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
+238,40,1,40,"CantQuSol, l. 40",Io,jo,_,ʤɔ,j.o,ʤ/ɔ\,fro,PRNper,1sfn,je,DMF,je,,,"<lg n=&quot;14&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;40&quot;><q>"
+239,40,2,40,"CantQuSol, l. 40",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
+240,40,3,40,"CantQuSol, l. 40",ai,ai,_,Ai,a.i,/A\i,fro,VERcjg,indpst1,avoir,DMF,avoir,,,
+241,40,4,40,"CantQuSol, l. 40",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
+242,40,5,40,"CantQuSol, l. 40",quis,quis,_,kiS,qu.i.s,k/i\S,fro,VERppe,smr,quérir,DMF,quérir,,,
+243,40,6,40,"CantQuSol, l. 40",en_cor,encor,|,ENkɔr,e.n.c.o.r,/E\N.'k/ɔ\r,fro,ADVgen,---,encore,DMF,encore,,,
+244,40,7,40,"CantQuSol, l. 40",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
+245,40,8,40,"CantQuSol, l. 40",l,l,+,L,l,/\L,fro,PRCper,3sma,le,DMF,le,,,
+246,40,9,40,"CantQuSol, l. 40",pois,pois,_,pɔiS,p.o.i.s,p/ɔ\iS,fro,VERcjg,indpst1,pouvoir2,DMF,pouvoir2,,,
+247,40,10,40,"CantQuSol, l. 40",trouert,trovert,_,trovær,t.r.o.v.e.rt,tr/o\.'v/æ\r,fro,VERinf,---,trouver,DMF,trouver,,</q></l>,
+248,41,1,41,"CantQuSol, l. 41",n,n,+,n,n,n/\,fro,ADVneg,---,ne2,DMF,ne2,,,<l n=&quot;41&quot;><q>
+249,41,2,41,"CantQuSol, l. 41",en,en,_,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
+250,41,3,41,"CantQuSol, l. 41",uult,vult,_,voLT,v.u.l.t,v/o\LT,fro,VERcjg,indpst3,vouloir,DMF,vouloir,,,
+251,41,4,41,"CantQuSol, l. 41",respon|dret,respondret,_,rESpONdrə,r.e.s.p.o.n.d.r.et,r/E\S.'p/O\N.dr/(ə)\,fro,VERinf,---,répondre,DMF,répondre,,,
+252,41,5,41,"CantQuSol, l. 41",aseiz,aseiz,_,AsæÇ,a.s.ei.z,/A\.'s/æ\Ç,fro,ADVgen,---,assez,DMF,assez,,,<lb/>
+253,41,6,41,"CantQuSol, l. 41",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
+254,41,7,41,"CantQuSol, l. 41",ai,ai,+,Ai,a.i,/A\i,fro,VERcjg,indpst1,avoir,DMF,avoir,,,
+255,41,8,41,"CantQuSol, l. 41",apeleitz,apeleitz,_,ApElæ,a.p.e.l.eitz,/A\.p/E\.'l/æ\,fro,VERppe,smr,appeler,DMF,appeler,,</q></l>,
+256,42,1,41,"CantQuSol, l. 42",quer,quer,_,kær,qu.e.r,k/æ\r,fro,CONcoo,---,car,DMF,car,,,<l n=&quot;42&quot;><q>
+257,42,2,42,"CantQuSol, l. 42",lui,lui,|,Lyi,l.u.i,L/y\i,fro,PRNper,3smr,lui,DMF,lui,,,
+258,42,3,42,"CantQuSol, l. 42",ne,ne,+,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
+259,42,4,42,"CantQuSol, l. 42",plastz,plastz,;,pLaST,p.l.a.s.tz,pL/a\ST,fro,VERcjg,indpst3,plaire,DMF,plaire,,</q></l></lg>,
+260,43,1,43,"CantQuSol, l. 43",Les,les,_,LES,l.e.s,L/E\S,fro,DETdef,pmr,le,DMF,le,,,"<lg n=&quot;15&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;43&quot;><q>"
+261,43,2,43,"CantQuSol, l. 43",es_calgaites,escalgaites,_,ESċALgAitəS,e.s.c.a.l.g.a.i.t.e.s,/E\S.ċ/A\L.'g/A\i.t/ə\S,fro,NOMcom,pmr,échauguette,DMF,échauguette,,,
+262,43,3,43,"CantQuSol, l. 43",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,pfn,qui,DMF,qui,,,
+263,43,4,43,"CantQuSol, l. 43",guardent,guardent,|,gardəNT,gu.a.r.d.e.n.t,'g/a\r.d/ə\NT,fro,VERcjg,indpst6,garder,DMF,garder,,,
+264,43,5,43,"CantQuSol, l. 43",la,la,+,LA,l.a,L/(A)\,fro,DETdef,sfr,le,DMF,le,,,<lb/>
+265,43,6,43,"CantQuSol, l. 43",citez,citez,_,Çitæ,c.i.t.ez,Ç/i\.'t/æ\,fro,NOMcom,sfr,cité,DMF,cité,,</q></l>,
+266,44,1,44,"CantQuSol, l. 44",cil,cil,_,Çil,c.i.l,Ç/i\l,fro,PRNdem,pmn,cil,DMF,cil,,,<l n=&quot;44&quot;><q>
+267,44,2,44,"CantQuSol, l. 44",me,me,_,mE,m.e,m/(E)\,fro,PRCper,1sfr,me,DMF,me,,,
+268,44,3,44,"CantQuSol, l. 44",toruerent,torverent,_,torværəNT,t.o.r.v.e.r.e.n.t,t/o\r.'v/æ\.r/ə\NT,fro,VERcjg,indpsp6,trouver,DMF,trouver,,,
+269,44,4,44,"CantQuSol, l. 44",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,
+270,44,5,44,"CantQuSol, l. 44",m,m,+,m,m,m/\,fro,PRCper,1sfr,me,DMF,me,,,
+271,44,6,44,"CantQuSol, l. 44",ont,ont,|,ONT,o.n.t,/O\NT,fro,VERcjg,indpst6,avoir,DMF,avoir,,,
+272,44,7,44,"CantQuSol, l. 44",batuz,batuz,_,bAty,b.a.t.uz,b/A\.'t/y\,fro,VERppe,sfr,battre,DMF,battre,,,<lb/>
+273,44,8,44,"CantQuSol, l. 44",aseiz,aseiz,_,AsæÇ,a.s.ei.z,/A\.'s/æ\Ç,fro,ADVgen,---,assez,DMF,assez,,</q></l>,
+274,45,1,45,"CantQuSol, l. 45",por,por,_,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<l n=&quot;45&quot;><q>
+275,45,2,45,"CantQuSol, l. 45",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+276,45,3,45,"CantQuSol, l. 45",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
+277,46,1,46,"CantQuSol, l. 46",Nauree,navree,_,nAvræə,n.a.v.r.e.e,n/A\.'vr/æ\./(ə)\,fro,VERppe,sfr,navrer,DMF,navrer,,,"<add place=""margin""><lg n=&quot;16&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;46&quot;><q>"
+278,46,2,46,"CantQuSol, l. 46",m,m,+,m,m,m/\,fro,PRCper,1sfr,me,DMF,me,,,
+279,46,3,46,"CantQuSol, l. 46",olt[=ont],ont,|,ONT,o.n.t,/O\NT,fro,VERcjg,indpst6,avoir,DMF,avoir,,,
+280,46,4,46,"CantQuSol, l. 46",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/>
+281,46,5,46,"CantQuSol, l. 46",mun,mun,_,mOn,m.u.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+282,46,6,46,"CantQuSol, l. 46",paliet,paliet,|,paliə,p.a.l.i.et,'p/a\.li/(ə)\,fro,NOMcom,smr,paile,DMF,paile,,,
+283,46,7,46,"CantQuSol, l. 46",tolud,tolud,_,toly,t.o.l.ud,t/o\.'l/y\,fro,VERppe,smr,tolir,DMF,tolir,,</q></l>,<lb/>
+284,47,1,47,"CantQuSol, l. 47",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,smr,grand,DMF,grand,,,<l n=&quot;47&quot;><q>
+285,47,2,47,"CantQuSol, l. 47",tort,tort,|,tɔrT,t.o.r.t,t/ɔ\rT,fro,NOMcom,smr,tort,DMF,tort,,,
+286,47,3,47,"CantQuSol, l. 47",m,m,+,m,m,m/\,fro,PRCper,1sfr,me,DMF,me,,,<lb/>
+287,47,4,47,"CantQuSol, l. 47",unt,unt,_,ONT,u.n.t,/O\NT,fro,VERcjg,indpst6,avoir,DMF,avoir,,,
+288,47,5,47,"CantQuSol, l. 47",fait,fait,_,fAiT,f.a.i.t,f/A\iT,fro,VERppe,snr,faire,DMF,faire,,,
+289,47,6,47,"CantQuSol, l. 47",cil,cil,|,Çil,c.i.l,Ç/i\l,fro,PRNdem,pmn,cil,DMF,cil,,,
+290,47,7,47,"CantQuSol, l. 47",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,pmn,qui,DMF,qui,,,<lb/>
+291,47,8,47,"CantQuSol, l. 47",guardent,guardent,_,gardəNT,gu.a.r.d.e.n.t,'g/a\r.d/ə\NT,fro,VERcjg,indpst6,garder,DMF,garder,,,
+292,47,9,47,"CantQuSol, l. 47",le,le,_,LE,l.e,L/(E)\,fro,DETdef,smr,le,DMF,le,,,
+293,47,10,47,"CantQuSol, l. 47",m|rt[=murt],murt,_,myr,m.u.rt,m/y\r,fro,NOMcom,smr,mur,DMF,mur,,</q></l>,
+294,48,1,48,"CantQuSol, l. 48",por,por,_,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<lb/><l n=&quot;48&quot;><q>
+295,48,2,48,"CantQuSol, l. 48",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+296,48,3,48,"CantQuSol, l. 48",ami,ami,;|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</q></l></lg></add>,
+297,49,1,49,"CantQuSol, l. 49",Beles,beles,|,bɛləS,b.e.l.e.s,'b/ɛ\.l/ə\S,fro,ADJqua,pfn,beau,DMF,beau,,,"<lb/><lg n=&quot;17&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;49&quot;><q>"
+298,49,2,49,"CantQuSol, l. 49",pulcelesz,pulcelesz,_,pyLÇɛləS,p.u.l.c.e.l.e.sz,p/y\L.'Ç/ɛ\.l/ə\S,fro,NOMcom,pfn,pucelle,DMF,pucelle,,,<lb/>
+299,49,3,49,"CantQuSol, l. 49",fillesz,fillesz,_,fiʎəS,f.i.ll.e.sz,'f/i\.ʎ/ə\S,fro,NOMcom,pfn,fille,DMF,fille,,,
+300,49,4,49,"CantQuSol, l. 49",ierusalem,jerusalem,_,ʤErysAlEm,j.e.r.u.s.a.l.e.m,ʤ/E\.r/y\.s/A\.'l/E\m,fro,NOMpro,smr,Jérusalem,wiktionary,---,,</q></l>,
+301,50,1,50,"CantQuSol, l. 50",por,por,_,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<l n=&quot;50&quot;><q>
+302,50,2,50,"CantQuSol, l. 50",mei,mei,|,mEi,m.e.i,m/E\i,fro,DETpos,1sfr,mon,DMF,mon,,,
+303,50,3,50,"CantQuSol, l. 50",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,sfr,amour,DMF,amour,,,<lb/>
+304,50,4,50,"CantQuSol, l. 50",noncieiz,noncieiz,_,nONÇiEÇ,n.o.n.c.i.ei.z,n/O\N.'Ç/iE\Ç,fro,VERcjg,imp---5,noncer,DMF,noncer,,,
+305,50,5,50,"CantQuSol, l. 50",le,le,_,LE,l.e,L/(E)\,fro,PRCper,3snr,le,DMF,le,,,
+306,50,6,50,"CantQuSol, l. 50",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+307,50,7,50,"CantQuSol, l. 50",amant,amant,|,AmANT,a.m.a.n.t,/A\.'m/A\NT,fro,NOMcom,smr,amant,DMF,amant,,</q></l>,
+308,51,1,51,"CantQuSol, l. 51",d,d,+,d,d,d/\,fro,PRE,---,de,DMF,de,,,<lb/><l n=&quot;51&quot;><q>
+309,51,2,51,"CantQuSol, l. 51",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,sfr,amour,DMF,amour,,,
+310,51,3,51,"CantQuSol, l. 51",languis,languis,;,LANguiS,l.a.n.g.u.i.s,L/A\N.'gu/i\S,fro,VERcjg,indpst1,languir,DMF,languir,,</q></l></lg>,
+311,52,1,52,"CantQuSol, l. 52",Chinc,chinc,_,ÇiNK,ch.i.n.c,Ç/i\NK,fro,DETcar,pmr,cinq,DMF,cinq,,,"<lg n=&quot;18&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;52&quot;><q>"
+312,52,2,52,"CantQuSol, l. 52",milie,milie,+,miliə,m.i.l.i.e,'m/i\.li/(ə)\,fro,DETcar,pmr,mille,DMF,mille,,,
+313,52,3,52,"CantQuSol, l. 52",anz,anz,|,ANÇ,a.n.z,/A\NÇ,fro,NOMcom,pmr,ans,DMF,ans,,,
+314,52,4,52,"CantQuSol, l. 52",atz,atz,+,a,atz,/a\,fro,VERcjg,indpst0,avoir,DMF,avoir,,,<lb/>
+315,52,5,52,"CantQuSol, l. 52",qu,qu,+,k,qu,k/\,fro,CONsub,---,que,DMF,que,,,
+316,52,6,52,"CantQuSol, l. 52",il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,
+317,52,7,52,"CantQuSol, l. 52",aueid,aveid,_,AvEiT,a.v.e.i.d,/A\.'v/E\iT,fro,VERcjg,indipf3,avoir,DMF,avoir,,,
+318,52,8,52,"CantQuSol, l. 52",un,un,+,yn0,u.n.,'/y\.n/(0)\,fro,DETndf,sfr,un,DMF,un,,,
+319,52,9,52,"CantQuSol, l. 52",amiet,amiet,_,Amiə,a.m.i.et,/A\.'m/i\./(ə)\,fro,NOMcom,sfr,amie,DMF,amie,,</q></l>,
+320,53,1,53,"CantQuSol, l. 53",lei,lei,+,LEi,l.e.i,L/E\i,fro,PRNper,sfr,le,DMF,le,,,<l n=&quot;53&quot;><q>
+321,53,2,53,"CantQuSol, l. 53",ad,ad,|,a,ad,/a\,fro,VERcjg,indpst3,avoir,DMF,avoir,,,
+322,53,3,53,"CantQuSol, l. 53",laisiet,laisiet,_,LAisiE,l.a.i.s.i.et,L/A\i.'s/iE\,fro,VERppe,snr,laisser,DMF,laisser,,,<lb/>
+323,53,4,53,"CantQuSol, l. 53",quar,quar,_,kar,qu.a.r,k/a\r,fro,CONcoo,---,car,DMF,car,,,
+324,53,5,53,"CantQuSol, l. 53",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,
+325,53,6,53,"CantQuSol, l. 53",ert,ert,_,ɛrT,e.r.t,/ɛ\rT,fro,VERcjg,indipf3,être,DMF,être,,,
+326,53,7,53,"CantQuSol, l. 53",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+327,53,8,53,"CantQuSol, l. 53",bel,bel,_,bɛl,b.e.l,b/ɛ\l,fro,ADJqua,smr,beau,DMF,beau,,,
+328,53,9,53,"CantQuSol, l. 53",seruiset,serviset,|,SErvizə,s.e.r.v.i.s.et,S/E\r.'v/i\.z/(ə)\,fro,NOMcom,smr,service,DMF,service,,</q></l>,
+329,54,1,54,"CantQuSol, l. 54",si,si,_,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,<lb/><l n=&quot;54&quot;><q>
+330,54,2,54,"CantQuSol, l. 54",amet,amet,_,Amə,a.m.et,'/A\.m/(ə)\,fro,VERcjg,indpst3,aimer,DMF,aimer,,,
+331,54,3,54,"CantQuSol, l. 54",mei,mei,;,mEi,m.e.i,m/E\i,fro,PRNper,1sfr,moi,DMF,moi,,</q></l></lg>,
+332,55,1,55,"CantQuSol, l. 55",Il,il,+,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;19&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;55&quot;><q>"
+333,55,2,55,"CantQuSol, l. 55",li,li,+,Li,l.i,L/i\,fro,PRCper,3sfi,le,DMF,le,,,
+334,55,3,55,"CantQuSol, l. 55",plantatz,plantatz,|,pLANta,p.l.a.n.t.atz,pL/A\N.'t/a\,fro,VERcjg,indpsp3,planter,DMF,planter,,,
+335,55,4,55,"CantQuSol, l. 55",une,une,_,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,sfr,un,DMF,un,,,<lb/>
+336,55,5,55,"CantQuSol, l. 55",uine,vine,_,vinə,v.i.n.e,'v/i\.n/(ə)\,fro,NOMcom,sfr,vigne,DMF,vigne,,,
+337,55,6,55,"CantQuSol, l. 55",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
+338,55,7,55,"CantQuSol, l. 55",dolcelt,dolcelt,_,doLÇə,d.o.l.c.elt,'d/o\L.Ç/(ə)\,fro,ADJqua,sfr,douce,DMF,douce,,</q></l>,
+339,56,1,56,"CantQuSol, l. 56",p[or]ud,porud,|,poro,p.o.r.ud,p/o\.'r/o\,fro,ADVgen,---,poruec,DMF,poruec,,,<l n=&quot;56&quot;><q>
+340,56,2,56,"CantQuSol, l. 56",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
+341,56,3,56,"CantQuSol, l. 56",la,la,_,LA,l.a,L/(A)\,fro,PRCper,3sfa,le,DMF,le,,,
+342,56,4,56,"CantQuSol, l. 56",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,indpsp3,faire,DMF,faire,,,
+343,56,5,56,"CantQuSol, l. 56",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,
+344,56,6,56,"CantQuSol, l. 56",n_n,nn,+,n,nn,/\n,fro,PRCadv,---,en2,DMF,en2,,,
+345,56,7,56,"CantQuSol, l. 56",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,être,être,DMF,être,,,
+346,56,8,56,"CantQuSol, l. 56",ćádeit,cadeit,_,ċAðEiT,c.a.d.e.i.t,ċ/A\.'ð/E\iT,fro,VERppe,smn,choir,DMF,choir,,,
+347,56,9,56,"CantQuSol, l. 56",en,en,+,En,e.n,/E\n,fro,PRE,---,en,DMF,en,,,
+348,56,10,56,"CantQuSol, l. 56",colped,colped,|,koLpə,c.o.l.p.ed,'k/o\L.p/(ə)\,fro,NOMcom,sfr,coulpe,DMF,coulpe,,</q></l>,
+349,57,1,57,"CantQuSol, l. 57",or,or,+,or,o.r,/o\r,fro,ADVgen,---,or2,DMF,or2,,,<lb/><l n=&quot;57&quot;><q>
+350,57,2,57,"CantQuSol, l. 57",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+351,57,3,57,"CantQuSol, l. 57",amered,amered,;,Amærə,a.m.e.r.ed,/A\.'m/æ\.r/(ə)\,fro,ADJqua,sfn,amer,DMF,amer,,</q></l></lg>,
+352,58,1,58,"CantQuSol, l. 58",Li,li,+,Li,l.i,L/i\,fro,DETdef,pmn,le,DMF,le,,,"<lg n=&quot;20&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;58&quot;><q>"
+353,58,2,58,"CantQuSol, l. 58",fil,fil,_,fil,f.i.l,f/i\l,fro,NOMcom,pmn,fils,DMF,fils,,,
+354,58,3,58,"CantQuSol, l. 58",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,3sfr,son4,DMF,son4,,,
+355,58,4,58,"CantQuSol, l. 58",mered,mered,_,mærə,m.e.r.ed,'m/æ\.r/(ə)\,fro,NOMcom,sfr,mère,DMF,mère,,,
+356,58,5,58,"CantQuSol, l. 58",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,
+357,58,6,58,"CantQuSol, l. 58",la,la,|,LA,l.a,L/(A)\,fro,PRCper,3sfa,le,DMF,le,,,
+358,58,7,58,"CantQuSol, l. 58",uoldrent,voldrent,_,vɔLdrəNT,v.o.l.d.r.e.n.t,'v/ɔ\L.dr/ə\NT,fro,VERcjg,indpsp6,vouloir,DMF,vouloir,,,<lb/>
+359,58,8,58,"CantQuSol, l. 58",amert,amert,_,Amær,a.m.e.rt,/A\.'m/æ\r,fro,VERinf,---,aimer,DMF,aimer,,</q></l>,
+360,59,1,59,"CantQuSol, l. 59",co[m]mandent,commandent,_,kOmANdəNT,c.o.mm.a.n.d.e.n.t,k/O\.'m/A\N.d/ə\NT,fro,VERcjg,indpst6,commander,DMF,commander,,,<l n=&quot;59&quot;><q>
+361,59,2,59,"CantQuSol, l. 59",li,li,|,Li,l.i,L/i\,fro,PRCper,3sfi,le,DMF,le,,,
+362,59,3,59,"CantQuSol, l. 59",les,les,_,LES,l.e.s,L/E\S,fro,DETdef,pfr,le,DMF,le,,,<lb/>
+363,59,4,59,"CantQuSol, l. 59",uin_nes,vinnes,_,viɲəS,v.i.n.n.e.s,'v/i\.ɲ/ə\S,fro,NOMcom,pfr,vigne,DMF,vigne,,,
+364,59,5,59,"CantQuSol, l. 59",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,
+365,59,6,59,"CantQuSol, l. 59",guarder,guarder,_,gArdær,gu.a.r.d.e.r,g/A\r.'d/æ\r,fro,VERinf,---,garder,DMF,garder,,</q></l>,
+366,60,1,60,"CantQuSol, l. 60",fors,fors,_,fɔrS,f.o.r.s,f/ɔ\rS,fro,ADVgen,---,fors,DMF,fors,,,<l n=&quot;60&quot;><q>
+367,60,2,60,"CantQuSol, l. 60",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,
+368,60,3,60,"CantQuSol, l. 60",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+369,60,4,60,"CantQuSol, l. 60",soleiz,soleiz,;|,SolEiÇ,s.o.l.e.i.z,S/o\.'l/E\iÇ,fro,NOMcom,smr,soleil,DMF,soleil,,</q></l></lg>,
+370,61,1,61,"CantQuSol, l. 61",Ell,ell,+,ɛl,e.ll,/ɛ\l,fro,PRNper,3sfn,elle,DMF,elle,,,"<lb/><lg n=&quot;21&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;61&quot;><q>"
+371,61,2,61,"CantQuSol, l. 61",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+372,61,3,61,"CantQuSol, l. 61",nercidet,nercidet,_,nErÇiðə,n.e.r.c.i.d.et,n/E\r.'Ç/i\.ð/(ə)\,fro,VERppe,sfn,noircir,DMF,noircir,,,
+373,61,4,61,"CantQuSol, l. 61",perdutz,perdutz,_,pErdy,p.e.r.d.utz,p/E\r.'d/y\,fro,VERppe,snr,perdre,DMF,perdre,,,
+374,61,5,61,"CantQuSol, l. 61",adz,adz,_,a,adz,/a\,fro,VERcjg,indpst3,avoir,DMF,avoir,,,
+375,61,6,61,"CantQuSol, l. 61",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,3sfr,son4,DMF,son4,,,
+376,61,7,61,"CantQuSol, l. 61",beltez,beltez,|,bELtæ,b.e.l.t.ez,b/E\L.'t/æ\,fro,NOMcom,sfr,beauté,DMF,beauté,,</q></l>,
+377,62,1,62,"CantQuSol, l. 62",se,se,_,SE,s.e,S/E\,fro,CONsub,---,se2,DMF,se2,,,<lb/><l n=&quot;62&quot;><q>
+378,62,2,62,"CantQuSol, l. 62",par,par,_,pAr,p.a.r,p/A\r,fro,PRE,---,par,DMF,par,,,
+379,62,3,62,"CantQuSol, l. 62",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,1sfr,moi,DMF,moi,,,
+380,62,4,62,"CantQuSol, l. 62",non,non,_,nOn,n.o.n,n/O\n,fro,ADVneg,---,non,DMF,non,,,
+381,62,5,62,"CantQuSol, l. 62",íá,ja,_,ʤa,j.a,ʤ/a\,fro,ADVgen,---,jà,DMF,jà,,,
+382,62,6,62,"CantQuSol, l. 62",maisz,maisz,_,mAiS,m.a.i.sz,m/A\iS,fro,ADVgen,---,mais,DMF,mais,,,
+383,62,7,62,"CantQuSol, l. 62",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,
+384,62,8,62,"CantQuSol, l. 62",aurat,aurat,|,Aura,a.u.r.at,/A\u.'r/a\,fro,VERcjg,indfut3,avoir,DMF,avoir,,,
+385,62,9,62,"CantQuSol, l. 62",clartez,clartez,_,kLArtæ,c.l.a.r.t.ez,kL/A\r.'t/æ\,fro,NOMcom,sfr,clarté,DMF,clarté,,</q></l>,<lb/>
+386,63,1,63,"CantQuSol, l. 63",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,<l n=&quot;63&quot;><q>
+387,63,2,63,"CantQuSol, l. 63",mon,mon,_,mOn,m.o.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
+388,63,3,63,"CantQuSol, l. 63",ami,ami,;,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</q></l></lg>,
+389,64,1,64,"CantQuSol, l. 64",Ainz,ainz,_,AiNÇ,a.i.n.z,/A\iNÇ,fro,ADVgen,---,ains,DMF,ains,,,"<lg n=&quot;22&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;64&quot;><q>"
+390,64,2,64,"CantQuSol, l. 64",q[ue],que,_,kE,qu.e,k/(E)\,fro,CONsub,---,que,DMF,que,,,
+391,64,3,64,"CantQuSol, l. 64",nuls,nuls,+,nyLS,n.u.l.s,n/y\LS,fro,DETind,smn,nul,DMF,nul,,,
+392,64,4,64,"CantQuSol, l. 64",o[m],om,|,Om,o.m,/O\m,fro,NOMcom,smn,homme,DMF,homme,,,
+393,64,5,64,"CantQuSol, l. 64",soust,soust,_,SoyST,s.o.u.s.t,S/o\.'/y\ST,fro,VERcjg,subipf3,savoir,DMF,savoir,,,<lb/>
+394,64,6,64,"CantQuSol, l. 64",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+395,64,7,64,"CantQuSol, l. 64",nostre,nostre,_,nɔStrə,n.o.s.t.r.e,'n/ɔ\S.tr/(ə)\,fro,DETpos,4sfr,notre,DMF,notre,,,
+396,64,8,64,"CantQuSol, l. 64",amor,amor,_,Amor,a.m.o.r,/A\.'m/o\r,fro,NOMcom,sfr,amour,DMF,amour,,</q></l>,
+397,65,1,65,"CantQuSol, l. 65",li,li,+,Li,l.i,L/i\,fro,DETdef,smn,le,DMF,le,,,<l n=&quot;65&quot;><q>
+398,65,2,65,"CantQuSol, l. 65",miensz,miensz,_,miENS,m.i.e.n.sz,m/iE\NS,fro,ADJpos,1smn,mien,DMF,mien,,,
+399,65,3,65,"CantQuSol, l. 65",amis,amis,|,AmiS,a.m.i.s,/A\.'m/i\S,fro,NOMcom,smn,ami,DMF,ami,,,
+400,65,4,65,"CantQuSol, l. 65",me,me,+,mE,m.e,m/(E)\,fro,PROper,1sfr,me,DMF,me,,,<lb/>
+401,65,5,65,"CantQuSol, l. 65",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,indpsp3,faire,DMF,faire,,,
+402,65,6,65,"CantQuSol, l. 65",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
+403,65,7,65,"CantQuSol, l. 65",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,sfr,grand,DMF,grand,,,
+404,65,8,65,"CantQuSol, l. 65",en_nor,ennor,_,Enor,e.n.n.o.r,/E\.'n/o\r,fro,NOMcom,sfr,honneur,DMF,honneur,,</q></l>,
+405,66,1,66,"CantQuSol, l. 66",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,<l n=&quot;66&quot;><q>
+406,66,2,66,"CantQuSol, l. 66",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+407,66,3,66,"CantQuSol, l. 66",tems,tems,|,tENS,t.e.m.s,t/E\NS,fro,NOMcom,smr,temps,DMF,temps,,,
+408,66,4,66,"CantQuSol, l. 66",noe,noe,:,noæ,n.o.e,n/o\.'/æ\,fro,NOMpro,smr,Noé,wiktionary,---,,</q></l></lg>,<lb/>
+409,67,1,67,"CantQuSol, l. 67",Danz,danz,_,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,smn,dan,DMF,dan,,,"<lg n=&quot;23&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;67&quot;><q>"
+410,67,2,67,"CantQuSol, l. 67",abraham,abraham,_,AbrAAm,a.b.r.a.ha.m,/A\.br/A\.'/A\m,fro,NOMpro,smn,Abraham,wiktionary,---,,,
+411,67,3,67,"CantQuSol, l. 67",en,en,+,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
+412,67,4,67,"CantQuSol, l. 67",fud,fud,_,fy,f.ud,f/y\,fro,VERcjg,indpsp3,être,DMF,être,,,
+413,67,5,67,"CantQuSol, l. 67",pre|mierz,premierz,_,prEmiErS,p.r.e.m.i.e.r.z,pr/E\.'m/iE\rS,fro,ADJord,smn,premier,DMF,premier,,,
+414,67,6,67,"CantQuSol, l. 67",messaget,messaget,_,mEsaʤə,m.e.ss.a.g.et,m/E\.'s/a\.ʤ/(ə)\,fro,NOMcom,smn,message,DMF,message,,</q></l>,<lb/>
+415,68,1,68,"CantQuSol, l. 68",luid,luid,_,Lyi,l.u.id,L/y\i,fro,PRNper,3smr,lui,DMF,lui,,,<l n=&quot;68&quot;><q>
+416,68,2,68,"CantQuSol, l. 68",m,m,+,m,m,m/\,fro,PRCper,3sfr,me,DMF,me,,,
+417,68,3,68,"CantQuSol, l. 68",ent_ueiad,entveiad,|,ENvEia,e.nt.v.e.i.ad,/E\N.v/E\i.'/a\,fro,VERcjg,indpsp3,envoyer,DMF,envoyer,,,
+418,68,4,68,"CantQuSol, l. 68",por,por,+,por,p.o.r,p/o\r,fro,PRE,---,pour,DMF,pour,,,<lb/>
+419,68,5,68,"CantQuSol, l. 68",ćó,co,_,Çɔ,c.o,Ç/ɔ\,fro,PRNdem,snr,ce,DMF,ce,,,
+420,68,6,68,"CantQuSol, l. 68",qu,qu,+,k,qu,k/\,fro,CONsub,---,que,DMF,que,,,
+421,68,7,68,"CantQuSol, l. 68",il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,
+422,68,8,68,"CantQuSol, l. 68",ert,ert,_,ɛrT,e.r.t,/ɛ\rT,fro,VERcjg,indipf3,être,DMF,être,,,
+423,68,9,68,"CantQuSol, l. 68",pl[us],plus,_,pLyS,p.l.u.s,pL/y\S,fro,ADVgen,---,plus,DMF,plus,,,
+424,68,10,68,"CantQuSol, l. 68",saiues,saives,_,SAivəS,s.a.i.v.e.s,'S/A\i.v/ə\S,fro,ADJqua,smn,sage,DMF,sage,,</q></l>,
+425,69,1,69,"CantQuSol, l. 69",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;69&quot;><q>
+426,69,2,69,"CantQuSol, l. 69",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
+427,69,3,69,"CantQuSol, l. 69",grant,grant,|,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,sfr,grand,DMF,grand,,,
+428,69,4,69,"CantQuSol, l. 69",fei,fei,;,fEi,f.e.i,f/E\i,fro,NOMcom,sfr,foi,DMF,foi,,</q></l></lg>,<lb/>
+429,70,1,70,"CantQuSol, l. 70",Issac,issac,_,isaK,i.ss.a.c,/i\.'/a\K,fro,NOMpro,smn,Isaac,wiktionary,---,,,"<lg n=&quot;24&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;70&quot;><q>"
+430,70,2,70,"CantQuSol, l. 70",i,i,+,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
+431,70,3,70,"CantQuSol, l. 70",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
+432,70,4,70,"CantQuSol, l. 70",iacob,jacob,_,ʤAkɔP,j.a.c.o.b,ʤ/A\.'k/ɔ\P,fro,NOMpro,smn,Jacob,wiktionary,---,,,
+433,70,5,70,"CantQuSol, l. 70",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+434,70,6,70,"CantQuSol, l. 70",danz,danz,|,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,smn,dan,DMF,dan,,,
+435,70,7,70,"CantQuSol, l. 70",iosep,josep,_,ʤozɛP,j.o.s.e.p,ʤ/o\.'z/ɛ\P,fro,NOMpro,smn,Joseph,wiktionary,---,,</q></l>,<lb/>
+436,71,1,71,"CantQuSol, l. 71",pois,pois,_,pɔiS,p.o.i.s,p/ɔ\iS,fro,ADVgen,---,puis,DMF,puis,,,<l n=&quot;71&quot;><q>
+437,71,2,71,"CantQuSol, l. 71",moisen,moisen,_,moizEn,m.o.i.s.e.n,m/o\./i\.'z/E\n,fro,NOMpro,smn,Moïse,wiktionary,---,,,
+438,71,3,71,"CantQuSol, l. 71",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+439,71,4,71,"CantQuSol, l. 71",danz,danz,_,dANÇ,d.a.n.z,d/A\NÇ,fro,NOMcom,smn,dan,DMF,dan,,,
+440,71,5,71,"CantQuSol, l. 71",abinma|lec,abinmalec,_,AbiNmAlɛK,a.b.i.n.m.a.l.e.c,/A\.b/i\N.m/A\.'l/ɛ\K,fro,NOMpro,smn,Abimelech,wikipedia.fr,---,,</q></l>,
+441,72,1,72,"CantQuSol, l. 72",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/><l n=&quot;72&quot;><q>
+442,72,2,72,"CantQuSol, l. 72",samuel,samuel,;,SAmyɛl,s.a.m.u.e.l,S/A\.m/y\.'/ɛ\l,fro,NOMpro,smn,Samuel,wiktionary,---,,</q></l></lg>,
+443,73,1,73,"CantQuSol, l. 73",De,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,"<lg n=&quot;25&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;73&quot;><q>"
+444,73,2,73,"CantQuSol, l. 73",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+445,73,3,73,"CantQuSol, l. 73",quart,quart,_,karT,qu.a.r.t,k/a\rT,fro,ADJord,smr,quart,DMF,quart,,,
+446,73,4,73,"CantQuSol, l. 73",ede,ede,_,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,smr,aé,DMF,aé,,,
+447,73,5,73,"CantQuSol, l. 73",pois,pois,|,pɔiS,p.o.i.s,p/ɔ\iS,fro,ADVgen,---,puis,DMF,puis,,,
+448,73,6,73,"CantQuSol, l. 73",i,i,+,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,<lb/>
+449,73,7,73,"CantQuSol, l. 73",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
+450,73,8,73,"CantQuSol, l. 73",reiz,reiz,_,rEiS,r.e.i.z,r/E\iS,fro,NOMcom,smn,roi,DMF,roi,,,
+451,73,9,73,"CantQuSol, l. 73",dauid,david,_,dAviT,d.a.v.i.d,d/A\.'v/i\T,fro,NOMpro,smn,David,wiktionary,---,,</q></l>,
+452,74,1,74,"CantQuSol, l. 74",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;74&quot;><q>
+453,74,2,74,"CantQuSol, l. 74",salamon,salamon,_,SAlAmOn,s.a.l.a.m.o.n,S/A\.l/A\.'m/O\n,fro,NOMpro,smn,Salomon,wiktionary,---,,,
+454,74,3,74,"CantQuSol, l. 74",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+455,74,4,74,"CantQuSol, l. 74",roboam,roboam,|,roboAm,r.o.b.o.a.m,r/o\.b/o\.'/A\m,fro,NOMpro,smn,Roboam,wikipedia.fr,---,,,
+456,74,5,74,"CantQuSol, l. 74",ses,ses,_,SES,s.e.s,S/E\S,fro,DETpos,3smn,son4,DMF,son4,,,<lb/>
+457,74,6,74,"CantQuSol, l. 74",fiz,fiz,_,fiS,f.i.z,f/i\S,fro,NOMcom,smn,fils,DMF,fils,,</q></l>,
+458,75,1,75,"CantQuSol, l. 75",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;75&quot;><q>
+459,75,2,75,"CantQuSol, l. 75",abia,abia,;,Abia,a.b.i.a,/A\.b/i\.'/a\,fro,NOMcom,smn,Abijam,wikipedia.fr,---,,</q></l></lg>,
+460,76,1,76,"CantQuSol, l. 76",[Et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,"<lg n=&quot;26&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;76&quot;><q>"
+461,76,2,76,"CantQuSol, l. 76",ab,ab,_,aP,a.b,/a\P,fro,ADVgen,---,o,DMF,o,,,
+462,76,3,76,"CantQuSol, l. 76",i,i,_,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
+463,76,4,76,"CantQuSol, l. 76",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
+464,76,5,76,"CantQuSol, l. 76",issias,issias,_,isiaS,i.ss.i.a.s,/i\.s/i\.'/a\S,fro,NOMpro,smn,Isaïe,wiktionary,---,,,
+465,76,6,76,"CantQuSol, l. 76",amos,amos,|,AmOS,a.m.o.s,/A\.'m/O\S,fro,NOMpro,smn,Amos,wiktionary,---,,</q></l>,
+466,77,1,77,"CantQuSol, l. 77",ieu,jeu,+,ʤEy,j.e.u,ʤ/E\.'/y\,fro,NOMpro,smn,Jéhu,wikipedia.fr,---,,,<lb/><l n=&quot;77&quot;><q>
+467,77,2,77,"CantQuSol, l. 77",ioel,joel,_,ʤoɛl,j.o.e.l,ʤ/o\.'/ɛ\l,fro,NOMpro,smn,Joël,wiktionary,---,,,
+468,77,3,77,"CantQuSol, l. 77",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+469,77,4,77,"CantQuSol, l. 77",dam,dam,_,dAm,d.a.m,d/A\m,fro,NOMcom,smr,dan,DMF,dan,,,
+470,77,5,77,"CantQuSol, l. 77",azarias,azarias,_,AʣAriaS,a.z.a.r.i.a.s,/A\.ʣ/A\.r/i\.'/a\S,fro,NOMpro,smr,Azarias,wikipedia.fr,---,,</q></l>,
+471,78,1,78,"CantQuSol, l. 78",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;78&quot;><q>
+472,78,2,78,"CantQuSol, l. 78",io_atam,joatam,;|,ʤoAtAm,j.o.a.t.a.m,ʤ/o\./A\.'t/A\m,fro,NOMpro,smr,Jotham,wikipedia.fr,---,,</q></l></lg>,
+473,79,1,79,"CantQuSol, l. 79",Achaz,achaz,_,AċaS,a.ch.a.z,/A\.'ċ/a\S,fro,NOMpro,smn,Achaz,wikipedia.fr,---,,,"<lb/><lg n=&quot;27&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;79&quot;><q>"
+474,79,2,79,"CantQuSol, l. 79",i,i,_,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
+475,79,3,79,"CantQuSol, l. 79",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
+476,79,4,79,"CantQuSol, l. 79",adunc,adunc,_,AdONK,a.d.u.n.c,/A\.'d/O\NK,fro,ADVgen,---,adonc,DMF,adonc,,,
+477,79,5,79,"CantQuSol, l. 79",fud,fud,_,fy,f.ud,f/y\,fro,VERcjg,indpsp3,être,DMF,être,,,
+478,79,6,79,"CantQuSol, l. 79",faitet,faitet,|,fAitə,f.a.i.t.et,'f/A\i.t/(ə)\,fro,VERppe,sfn,faire,DMF,faire,,,
+479,79,7,79,"CantQuSol, l. 79",rome,rome,_,rOmə,r.o.m.e,'r/O\.m/(ə)\,fro,NOMpro,sfn,Rome,wiktionary,---,,</q></l>,<lb/>
+480,80,1,80,"CantQuSol, l. 80",quel,quel,_,kæl,qu.e.l,k/æ\l,fro,DETind,sfr,quel,DMF,quel,,,<l n=&quot;80&quot;><q>
+481,80,2,80,"CantQuSol, l. 80",part,part,_,parT,p.a.r.t,p/a\rT,fro,NOMcom,sfr,part,DMF,part,,,
+482,80,3,80,"CantQuSol, l. 80",q[ue],que,_,kE,qu.e,k/(E)\,fro,PRNrel,---,que,DMF,que,,,
+483,80,4,80,"CantQuSol, l. 80",alget,alget,_,aLʤə,a.l.g.et,'/a\L.ʤ/(ə)\,fro,VERcjg,subpst3,aller,DMF,aller,,,
+484,80,5,80,"CantQuSol, l. 80",iluoc,iluoc,_,iluOK,i.l.u.o.c,/i\.'l/uO\K,fro,ADVgen,---,illuec,DMF,illuec,,,
+485,80,6,80,"CantQuSol, l. 80",[est],est,|,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
+486,80,7,80,"CantQuSol, l. 80",ma,ma,+,mA,m.a,m/(A)\,fro,DETpos,1sfn,mon,DMF,mon,,,<lb/>
+487,80,8,80,"CantQuSol, l. 80",coronet,coronet,_,korOnə,c.o.r.o.n.et,k/o\.'r/O\.n/(ə)\,fro,NOMcom,sfn,couronne,DMF,couronne,,</q></l>,
+488,81,1,81,"CantQuSol, l. 81",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;81&quot;><q>
+489,81,2,81,"CantQuSol, l. 81",mes,mes,_,mES,m.e.s,m/E\S,fro,DETpos,1smn,mon,DMF,mon,,,
+490,81,3,81,"CantQuSol, l. 81",tresors,tresors,;,trEzɔrS,t.r.e.s.o.r.s,tr/E\.'z/ɔ\rS,fro,NOMcom,smn,trésor,DMF,trésor,,</q></l></lg>,
+491,82,1,82,"CantQuSol, l. 82",Ezelcias,ezelcias,|,EʣELÇiaS,e.z.e.l.c.i.a.s,/E\.ʣ/E\L.Ç/i\.'/a\S,fro,NOMpro,smr,Ézéchias,wikipedia.fr,---,,,"<lg n=&quot;28&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;82&quot;><q>"
+492,82,2,82,"CantQuSol, l. 82",manases,manases,_,mAnAzɛS,m.a.n.a.s.e.s,m/A\.n/A\.'z/ɛ\S,fro,NOMpro,smr,Manassé,wikipedia.fr,---,,,<lb/>
+493,82,3,82,"CantQuSol, l. 82",iosias,josias,_,ʤɔziaS,j.o.s.i.a.s,ʤ/ɔ\.z/i\.'/a\S,fro,NOMpro,smr,Josias,wikipedia.fr,---,,</q></l>,
+494,83,1,83,"CantQuSol, l. 83",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;83&quot;><q>
+495,83,2,83,"CantQuSol, l. 83",ioa_chim,joachim,_,ʤɔAkim,j.o.a.ch.i.m,ʤ/ɔ\./A\.'k/i\m,fro,NOMpro,smr,Joiaqim,wikipedia.fr,---,,,
+496,83,3,83,"CantQuSol, l. 83",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+497,83,4,83,"CantQuSol, l. 83",dam,dam,|,dAm,d.a.m,d/A\m,fro,NOMcom,smr,dan,DMF,dan,,,
+498,83,5,83,"CantQuSol, l. 83",nazarias,nazarias,_,nAʣAriaS,n.a.z.a.r.i.a.s,n/A\.ʣ/A\.r/i\.'/a\S,fro,NOMpro,smr,Azarias,wikipedia.fr,---,,</q></l>,<lb/>
+499,84,1,84,"CantQuSol, l. 84",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,<l n=&quot;84&quot;><q>
+500,84,2,84,"CantQuSol, l. 84",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+501,84,3,84,"CantQuSol, l. 84",quart,quart,_,karT,qu.a.r.t,k/a\rT,fro,ADJord,smr,quart,DMF,quart,,,
+502,84,4,84,"CantQuSol, l. 84",ede,ede,;,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,smr,aé,DMF,aé,,</q></l></lg>,
+503,85,1,85,"CantQuSol, l. 85",De,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,"<lg n=&quot;29&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;85&quot;><q>"
+504,85,2,85,"CantQuSol, l. 85",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
+505,85,3,85,"CantQuSol, l. 85",quint,quint,|,kiNT,qu.i.n.t,k/i\NT,fro,ADJord,smr,quint,DMF,quint,,,
+506,85,4,85,"CantQuSol, l. 85",ede,ede,_,Eðæ,e.d.e,/E\.'ð/æ\,fro,NOMcom,smr,aé,DMF,aé,,,<lb/>
+507,85,5,85,"CantQuSol, l. 85",i,i,_,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
+508,85,6,85,"CantQuSol, l. 85",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
+509,85,7,85,"CantQuSol, l. 85",ananias,ananias,_,AnAniaS,a.n.a.n.i.a.s,/A\.n/A\.n/i\.'/a\S,fro,NOMpro,smn,Ananias,wikipedia.fr,---,,</q></l>,
+510,86,1,86,"CantQuSol, l. 86",ę,e,+,e,e,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;86&quot;><q>
+511,86,2,86,"CantQuSol, l. 86",misael,misael,|,mizaɛl,m.i.s.ae.l,m/i\.z/a\.'/ɛ\l,fro,NOMpro,smn,Misaël,wikipedia.fr,---,,,
+512,86,3,86,"CantQuSol, l. 86",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/>
+513,86,4,86,"CantQuSol, l. 86",dam,dam,_,dAm,d.a.m,d/A\m,fro,NOMcom,smr,dan,DMF,dan,,,
+514,86,5,86,"CantQuSol, l. 86",zacharias,zacharias,_,ÇAkAriaS,z.a.ch.a.r.i.a.s,Ç/A\.k/A\.r/i\.'/a\S,fro,NOMpro,smr,Zacharie,wikipedia.fr,---,,</q></l>,
+515,87,1,87,"CantQuSol, l. 87",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;87&quot;><q>
+516,87,2,87,"CantQuSol, l. 87",pl[us]sors,plussors,_,pLysorS,p.l.u.ss.o.r.s,pL/y\.'s/o\rS,fro,DETind,pmr,plusieurs,DMF,plusieurs,,,
+517,87,3,87,"CantQuSol, l. 87",altresz,altresz,;|,aLtrəS,a.l.t.r.e.sz,'/a\L.tr/ə\S,fro,PRNind,pmr,autre,DMF,autre,,</q></l></lg>,
+518,88,1,88,"CantQuSol, l. 88",Enpres,enpres,_,ENprɛS,e.n.p.r.e.s,/E\N.'pr/ɛ\S,fro,PRE,---,emprès,DMF,emprès,,,"<lb/><lg n=&quot;30&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;88&quot;><q>"
+519,88,2,88,"CantQuSol, l. 88",icelsz,icelsz,_,iʦeLS,i.c.e.l.sz,/i\.'ʦ/e\LS,fro,PRNdem,pmr,cil,DMF,cil,,,
+520,88,3,88,"CantQuSol, l. 88",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,
+521,88,4,88,"CantQuSol, l. 88",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,DETind,pmr,moult,DMF,moult,,,
+522,88,5,88,"CantQuSol, l. 88",altres,altres,_,aLtrəS,a.l.t.r.e.s,'/a\L.tr/ə\S,fro,ADJind,pmr,autre,DMF,autre,,,
+523,88,6,88,"CantQuSol, l. 88",barunsz,barunsz,|,bArONS,b.a.r.u.n.sz,b/A\.'r/O\NS,fro,NOMcom,pmr,baron,DMF,baron,,</q></l>,
+524,89,1,89,"CantQuSol, l. 89",par,par,+,pAr,p.a.r,p/A\r,fro,PRE,---,par,DMF,par,,,<lb/><l n=&quot;89&quot;><q>
+525,89,2,89,"CantQuSol, l. 89",cui,cui,_,kyi,c.u.i,k/y\i,fro,PRNrel,pmr,qui,DMF,qui,,,
+526,89,3,89,"CantQuSol, l. 89",mi,mi,+,mi,m.i,m/i\,fro,DETpos,1smn,mon,DMF,mon,,,
+527,89,4,89,"CantQuSol, l. 89",siret,siret,_,Sirə,s.i.r.et,'S/i\.r/(ə)\,fro,NOMcom,smn,sire,DMF,sire,,,
+528,89,5,89,"CantQuSol, l. 89",mei,mei,+,mEi,m.e.i,m/E\i,fro,PRNper,1sfr,moi,DMF,moi,,,
+529,89,6,89,"CantQuSol, l. 89",madatz,madatz,|,mAda,m.a.d.atz,m/A\.'d/a\,fro,VERcjg,indpsp3,mander,DMF,mander,,,
+530,89,7,89,"CantQuSol, l. 89",sa,sa,+,SA,s.a,S/(A)\,fro,DETpos,3sfr,son4,DMF,son4,,,<lb/>
+531,89,8,89,"CantQuSol, l. 89",raisum,raisum,_,rAizOm,r.a.i.s.u.m,r/A\i.'z/O\m,fro,NOMcom,sfr,raison,DMF,raison,,</q></l>,
+532,90,1,90,"CantQuSol, l. 90",mei,mei,_,mEi,m.e.i,m/E\i,fro,PRNper,1sfr,moi,DMF,moi,,,<l n=&quot;90&quot;><q>
+533,90,2,90,"CantQuSol, l. 90",uult,vult,_,voLT,v.u.l.t,v/o\LT,fro,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
+534,90,3,90,"CantQuSol, l. 90",aueir,aveir,;,AvEir,a.v.e.i.r,/A\.'v/E\ir,fro,VERinf,---,avoir,DMF,avoir,,</q></l></lg>,
+535,91,1,91,"CantQuSol, l. 91",Il,il,|,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,"<lg n=&quot;31&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;91&quot;><q>"
+536,91,2,91,"CantQuSol, l. 91",enueiad,enveiad,_,ENvEia,e.n.v.e.i.ad,/E\N.v/E\i.'/a\,fro,VERcjg,indpsp3,envoyer,DMF,envoyer,,,<lb/>
+537,91,3,91,"CantQuSol, l. 91",sun,sun,_,SOn,s.u.n,S/O\n,fro,DETpos,3smr,son4,DMF,son4,,,
+538,91,4,91,"CantQuSol, l. 91",angret,angret,_,ANgrə,a.n.g.r.et,'/A\N.gr/(ə)\,fro,NOMcom,smr,ange,DMF,ange,,,
+539,91,5,91,"CantQuSol, l. 91",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,
+540,91,6,91,"CantQuSol, l. 91",la,la,+,LA,l.a,L/(A)\,fro,DETdef,sfr,le,DMF,le,,,
+541,91,7,91,"CantQuSol, l. 91",pucele,pucele,|,pyʦɛlə,p.u.c.e.l.e,p/y\.'ʦ/ɛ\.l/(ə)\,fro,NOMcom,sfr,pucelle,DMF,pucelle,,</q></l>,
+542,92,1,92,"CantQuSol, l. 92",chi,chi,+,ki,ch.i,k/i\,fro,PRNrel,smn,qui,DMF,qui,,,<lb/><l n=&quot;92&quot;><q>
+543,92,2,92,"CantQuSol, l. 92",l,l,+,L,l,L/\,fro,PRCper,3sfa,le,DMF,le,,,
+544,92,3,92,"CantQuSol, l. 92",a,a,+,a,a,/a\,fro,VERcjg,indpst3,avoir,DMF,avoir,,,
+545,92,4,92,"CantQuSol, l. 92",saluet,salvet,_,SALvæ,s.a.l.v.et,S/A\L.'v/æ\,fro,VERppe,snr,sauver,DMF,sauver,,,
+546,92,5,92,"CantQuSol, l. 92",d,d,+,d,d,d/\,fro,PRE,---,de,DMF,de,,,
+547,92,6,92,"CantQuSol, l. 92",une,une,_,ynə,u.n.e,'/y\.n/(ə)\,fro,DETndf,sfr,un,DMF,un,,,
+548,92,7,92,"CantQuSol, l. 92",saludz,saludz,_,SAly,s.a.l.udz,S/A\.'l/y\,fro,NOMcom,sfr,salut,DMF,salut,,,
+549,92,8,92,"CantQuSol, l. 92",nouelet,novelet,|,novɛlə,n.o.v.e.l.et,n/o\.'v/ɛ\.l/(ə)\,fro,ADJqua,sfr,nouveau,DMF,nouveau,,</q></l>,
+550,93,1,93,"CantQuSol, l. 93",en,en,+,En,e.n,/E\n,fro,PRE,---,en,DMF,en,,,<lb/><l n=&quot;93&quot;><q>
+551,93,2,93,"CantQuSol, l. 93",nazareh,nazareh,;|,nAʣArɛ,n.a.z.a.r.eh,n/A\.ʣ/A\.'r/ɛ\,fro,NOMpro,smr,Nazareth,wikipedia.fr,---,,</q></l></lg></body></text>,

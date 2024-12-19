@@ -1,0 +1,47 @@
+syll.ix,line_id,value,form,elidable,mergeable,mergeable2,stress,lstress,has_onset,has_enclitic,is_final,is_monosyllable,is_syncopated,wd_id,all_wd_ids,in_word,in_line,metpos,onset,rhyme,onset_written,rhyme_written,words,cat
+0,1,,/A\,n,n,n,n,y,n,,n,y,n,1,1,--,1,0107-,,,,,a,sy
+1,1,,L/E\,n,n,n,n,y,y,,n,y,n,2,2,--,2,0206-,,,,,le,sy
+2,1,,Sp/i\NS,n,n,n,n,y,y,,n,y,n,3,3,--,3,0305-,,,,,spins,sy
+3,1,,b/A\,n,n,n,n,n,y,,n,n,n,4,4,--,4,0404-,,,,,batraunt,sy
+4,1,,tr/A\uNT,n,n,n,y,y,y,,y,n,n,4,4,--,5,0503-,,,,,batraunt,sy
+5,1,,S/o\S,n,n,n,n,y,y,,n,y,n,5,5,--,6,0602-,,,,,sos,sy
+6,1,,ċ/A\uS,n,n,n,n,y,y,,n,y,n,6,6,--,7,0701r,,,,,caus,sy
+7,2,,/e\ð,n,n,n,n,y,n,,n,y,n,7,7,--,1,0109-,,,,,et,sy
+8,2,,/A\P,n,n,n,n,y,n,,n,y,n,8,8,--,2,0208-,,,,,ab,sy
+9,2,,/E\S,n,n,n,n,y,n,,n,y,n,9,9,--,3,0307-,,,,,es,sy
+10,2,,L/A\n,n,n,n,n,y,y,,n,y,n,10,10,--,4,0406-,,,,,lan,sy
+11,2,,St/A\u,n,n,n,n,n,y,,n,n,n,11,11,--,5,0505-,,,,,staudiraunt,sy
+12,2,,d/i\,n,n,n,n,n,y,,n,n,n,11,11,--,6,0604-,,,,,staudiraunt,sy
+13,2,,r/A\uNT,n,n,n,y,y,y,,y,n,n,11,11,--,7,0703-,,,,,staudiraunt,sy
+14,2,,S/o\S,n,n,n,n,y,y,,n,y,n,12,12,--,8,0802-,,,,,sos,sy
+15,2,,L/æ\ð,n,n,n,n,y,y,,n,y,n,13,13,--,9,0901r,,,,,lad,sy
+16,3,,/e\ð,n,n,n,n,y,n,,n,y,n,14,14,--,1,0108-,,,,,et,sy
+17,3,,/E\n,n,n,n,n,y,n,,n,y,n,15,15,--,2,0207-,,,,,en,sy
+18,3,,L/A\,n,n,n,n,y,y,,n,y,n,16,16,--,3,0306-,,,,,la,sy
+19,3,,kr/o\iÇ,n,n,n,n,y,y,,n,y,n,17,17,--,4,0405-,,,,,crux,sy
+20,3,,L/A\,n,n,n,n,n,y,,n,n,n,19,"18, 19",--,5,0504-,,,,,l apenderaunt,sy
+21,3,,p/E\N,n,n,n,n,n,y,,n,n,n,19,19,--,6,0603-,,,,,apenderaunt,sy
+22,3,,d/E\,n,n,n,n,n,y,,n,n,n,19,19,--,7,0702-,,,,,apenderaunt,sy
+23,3,,r/A\uNT,n,n,n,y,y,y,,y,n,n,19,19,--,8,0801r,,,,,apenderaunt,sy
+24,4,,/e\ð,n,n,n,n,y,n,,n,y,n,20,20,--,1,0108-,,,,,et,sy
+25,4,,/ɔ\P,n,n,n,n,y,n,,n,y,n,21,21,--,2,0207-,,,,,ob,sy
+26,4,,L/A\,n,n,n,n,n,y,,n,n,n,23,"22, 23",--,3,0306-,,,,,l acid,sy
+27,4,,ʦ/i\ð,n,n,n,y,y,y,,y,n,n,23,23,--,4,0405-,,,,,acid,sy
+28,4,,L/o\,n,n,n,n,y,y,,n,y,n,24,24,--,5,0504-,,,,,lo,sy
+29,4,,p/o\,n,n,n,n,n,y,,n,n,n,25,25,--,6,0603-,,,,,potaraunt,sy
+30,4,,t/A\,n,n,n,n,n,y,,n,n,n,25,25,--,7,0702-,,,,,potaraunt,sy
+31,4,,r/A\uNT,n,n,n,y,y,y,,y,n,n,25,25,--,8,0801r,,,,,potaraunt,sy
+32,5,,S/i\,n,n,n,n,y,y,,n,y,n,26,26,--,1,0106-,,,,,si,sy
+33,5,,gr/æ\u,n,n,n,n,y,y,,n,y,n,27,27,--,2,0205-,,,,,greu,sy
+34,5,,/ɛ\ST,n,n,n,n,y,n,,n,y,n,28,28,--,3,0304-,,,,,est,sy
+35,5,,/A\,n,n,n,n,y,n,,n,y,n,29,29,--,4,0403-,,,,,a,sy
+36,5,,p/A\r,n,n,n,n,n,y,,n,n,n,30,30,--,5,0502-,,,,,paerlaer,sy
+37,5,,L/æ\r,n,n,n,y,y,y,,y,n,n,30,30,--,6,0601r,,,,,paerlaer,sy
+38,6,,/e\ð,n,n,n,n,y,n,,n,y,n,31,31,--,1,0108-,,,,,et,sy
+39,6,,/E\n,n,n,n,n,y,n,,n,y,n,32,32,--,2,0207-,,,,,en,sy
+40,6,,L/A\,n,n,n,n,y,y,,n,y,n,33,33,--,3,0306-,,,,,la,sy
+41,6,,kr/o\iÇ,n,n,n,n,y,y,,n,y,n,34,34,--,4,0405-,,,,,crux,sy
+42,6,,L/A\,n,n,n,n,n,y,,n,n,n,36,"35, 36",--,5,0504-,,,,,l apenderaunt,sy
+43,6,,p/E\N,n,n,n,n,n,y,,n,n,n,36,36,--,6,0603-,,,,,apenderaunt,sy
+44,6,,d/E\,n,n,n,n,n,y,,n,n,n,36,36,--,7,0702-,,,,,apenderaunt,sy
+45,6,,r/A\uNT,n,n,n,n,n,y,,y,n,n,36,36,--,8,0801r,,,,,apenderaunt,sy

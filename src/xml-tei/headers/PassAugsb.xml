@@ -16,7 +16,7 @@
             </edition>
             <respStmt xml:id="transcription">
                 <resp>Transcription</resp>
-                <name target="#frankhartmann">Frank and Hartmann (1997)</name>
+                <name target="#berschin81">Berschin et al. (1981)</name>
             </respStmt>
             <respStmt xml:id="ogrsrc">
                <resp>Transcription and manual annotation</resp>
@@ -70,6 +70,14 @@
                </msIdentifier>
             </msDesc>
          </sourceDesc>
+         <sourceDesc>
+             <bibl xml:id="berschin81">Berschin, Helmut, Walter Berschin,
+             and Rolf Schmidt. 1981. ‹Augsburger Passionslied›. Ein neuer
+             romanischer Text des X. Jahrhunderts. In Lateinische Dichtungen
+             des X. und XI. Jahrhunderts: Festgabe für Walther Bulst zum
+             80. Geburtstag, edited by Walther Bulst, Walter Berschin,
+             and Reinhard Düchting, 251-79. Heidelberg: Schneider.</bibl>
+         </sourceDesc>
       </fileDesc>
       <encodingDesc>
          <projectDesc>
@@ -106,6 +114,11 @@
             <interpretation resp="#ogrsrc">
                <p>See <ref target="http://www.ogr-corpus.org">http://ogr-corpus.org</ref> for full
                   documentation of the annotation scheme.</p>
+            </interpretation>
+            <interpretation resp="#transcription">
+                <p>The transcription and analysis is based on Berschin et al. (1981).
+                The text is written in very small, faded characters in a single line.
+                It was present on the parchment before a charter was copied in 1067.</p>
             </interpretation>
          </editorialDecl>
       </encodingDesc>

@@ -26,11 +26,17 @@ damaged and barely readable and the first words of each line of the verso
 were lost when the parchment was cut. Much of the text is written in shorthand
 (Tironian notes).
 3. [__Bilingual Alba__](/docs/alba). Composed and copied in the tenth
-century at the latest. TODO: Description.
+century at the latest. A short "dawn hymn" written primarily in Latin
+with an enigmatic two-line refrain in Romance, repeated three times.
 4. [__Passion poem, Augsburg manuscript__](/docs/passaugsb).  Composed and copied in the tenth
-century. TODO: Description.
+century. A short Romance song, copied in a single line _before_
+a legal document was copied on the parchment in 1067. The writing is
+very small and faint and can only be read from the original (see Berschin
+et al. 1981).
 5. [__Clermont Blessings__](/docs/benclerm). Composed and copied in the
-mid- to late tenth century. TODO: Description.
+mid- to late tenth century. Two short Romance blessings written upside-down in the
+margins of a Latin manuscript of the _Breviary of Alaric_.
+Discovered by Bischoff (1984).
 6. [__The Strasbourg Oaths__](/docs/serments). Composed 842, copied c1000.
 The earliest text by date of composition in any Gallo-Romance variety, the _Strasbourg Oaths_
 consist of two short oaths sworn in both Romance and Germanic by Louis
@@ -104,10 +110,12 @@ religious images. It is copied directly below the Latin original (not included
 in the corpus).
 21. [__Epistle of Saint Stephen__](/docs/epset).
 Composed and copied c1130.
-TODO.
+A sixty-line stanzaic poem telling the story of the martyrdom of Saint
+Stephen, developing the text of the Vulgate which is cited in the 
+headings of each stanza. (Acts, ch. 6-7).
 22. [__Quant li solleiz... paraphrase of the Song of Songs__](/docs/cantqusol).
 Composed and copied in the first half of the twelfth century.
-TODO.
+A 93-line poem paraphrasing the _Song of Songs_.
 
 ## Manuscripts
 

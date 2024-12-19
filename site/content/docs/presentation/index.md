@@ -163,12 +163,14 @@ were adapted from the [_Base de Français médiéval_](http://bfm.ens-lyon.fr):
 _Serments_, _Eulalie_, _Alexis_, _Passion_, _SLeger_.
 The re-use and re-distribution of this data in the OGR is in accordance with the provisions of the
 [ETALAB](https://www.etalab.gouv.fr/licence-ouverte-open-licence) licence.
-+ The transcriptions of _Alba_ and _PassAugsb_ are based on Frank and Hartmann (1997)
-and have not been checked against the base manuscript. The transcription
-of _ChansLas_ is based on Bischoff (1984) and has not been checked
-against the base manuscript.
-+ The transcription of _Jonas_, in particular the resolution of the Tironian notes
-and the reconstruction of missing text, is based on De Poerck (1955).
++ The transcription of _Alba_ is based on Frank and Hartmann (1997).
+The transcription
+of _ChansLas_ is based on Bischoff (1984). 
+The transcription of _PassAugsb_ is based
+on Berschin et al. (1981). These transcriptions have not been checked
+against manuscript images. 
++ The resolution of the Tironian notes and the reconstruction of missing
+text in _Jonas_ is based on De Poerck (1955).
 + A previous annotated version of the Boeci text was created in collaboration with Olga Scrivner
 [(Rainsford and Scrivner 2014)](https://drive.google.com/file/d/1aAqLIcT3SyZ3_4fbTTAm7StcaQoRZDfh/view?usp=sharing).
 + All other transcriptions and annotations are my own original work, 
