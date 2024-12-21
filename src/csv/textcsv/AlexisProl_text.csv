@@ -59,7 +59,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,
 58,3,17,par,par,par,p.a.r,p/a\r,_,fro,PRE,---,par,DMF,par,"AlexisProl, f. 29r, l. 6",,<lb n=&quot;6&quot;/>
 59,3,18,grant,grant,grANT,g.r.a.n.t,gr/A\NT,_,fro,ADJqua,sfr,grand,DMF,grand,"AlexisProl, f. 29r, l. 6",,
 60,3,19,certet,certet,ÇErtæð,c.e.r.t.e.t,Ç/E\r.'t/æ\ð,_,fro,NOMcom,sfr,certeté,DMF,certeté,"AlexisProl, f. 29r, l. 6",,
-61,3,20,nurrit,nurrit,nurrið,n.u.r.r.i.t,n/u\r.'r/i\ð,.,fro,VERcjg,smr,nourrir,DMF,nourrir,"AlexisProl, f. 29r, l. 6",</s>,
+61,3,20,nurrit,nurrit,nurrið,n.u.r.r.i.t,n/u\r.'r/i\ð,.,fro,VERppe,smr,nourrir,DMF,nourrir,"AlexisProl, f. 29r, l. 6",</s>,
 62,4,1,la,la,La,l.a,L/a\,+,fro,DETdef,sfn,le,DMF,le,"AlexisProl, f. 29r, l. 6",,<s>
 63,4,2,sue,sue,Suə,s.u.e,'S/u\./ə\,_,fro,ADJpos,3sfn,sien,DMF,sien,"AlexisProl, f. 29r, l. 6",,
 64,4,3,iuuente,juvente,ʤuvENtə,j.u.v.e.n.t.e,ʤ/u\.'v/E\N.t/ə\,_,fro,NOMcom,sfn,jouvente,DMF,jouvente,"AlexisProl, f. 29r, l. 6",,

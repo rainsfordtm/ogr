@@ -1,0 +1,15 @@
+Rules applied: R20
+Lines correct: 591 of 593
+Pass history:
+Tried rules R20; 591 lines correct.
+Tried rules R21; 558 lines correct.
+Tried rules R1; 547 lines correct.
+Tried rules R2; 550 lines correct.
+Tried rules R20, R21; 590 lines correct.
+Tried rules R20, R1; 563 lines correct.
+Tried rules R20, R2; 582 lines correct.
+OPTIMIZED LINES
+549    --     diuclicians es a ll pedrun
+
+BAD LINES
+552    --     tuit a scrim en environ

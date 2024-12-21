@@ -62,7 +62,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,
 61,12,2,pel,pel,pel,p.e.l,p/e\l,_,pro,NOMcom,sfr,pél,DOM,poil,"BenClerm, no. I, l. 10",,,
 62,12,3,en,en,EN,e.n,/E\N,+,pro,PRE,---,én,DOM,en,"BenClerm, no. I, l. 10",,,
 63,12,4,erpa,erpa,ɛrpA,e.r.p.a,'/ɛ\r.p/A\,|,pro,NOMcom,sfr,èrba,DOM,herbe,"BenClerm, no. I, l. 10",,</s>,
-64,13,1,taerra,taerra,tɛrrA,t.ae.r.r.a,'t/ɛ\r.r/A\,_,pro,NOMcom ,sfn,tèrra,DOM,terre,"BenClerm, no. I, l. 11",,,<lb n=&quot;11&quot;/><s>
-65,13,2,madre,madre,mAdrE,m.a.d.r.e,'m/A\.dr/E\,|,pro,NOMcom ,sfn,maire,DOM,mère,"BenClerm, no. I, l. 11",,,
+64,13,1,taerra,taerra,tɛrrA,t.ae.r.r.a,'t/ɛ\r.r/A\,_,pro,NOMcom,sfn,tèrra,DOM,terre,"BenClerm, no. I, l. 11",,,<lb n=&quot;11&quot;/><s>
+65,13,2,madre,madre,mAdrE,m.a.d.r.e,'m/A\.dr/E\,|,pro,NOMcom,sfn,maire,DOM,mère,"BenClerm, no. I, l. 11",,,
 66,14,1,susi_piant,susipiant,SysipiANt,s.u.s.i.p.i.a.n.t,S/y\.s/i\.p/i\.'/A\Nt,_,pro,NOMcom,smr,suscipient,DMF,suscipient,"BenClerm, no. I, l. 12",,,<lb n=&quot;12&quot;/>
 67,14,2,do|lores,dolores,dOlorEs,d.o.l.o.r.e.s,d/O\.'l/o\.r/E\s,|,pro,NOMcom,pfr,dolór,DOM,douleur,"BenClerm, no. I, l. 12",,</s></p></div></body></text>,

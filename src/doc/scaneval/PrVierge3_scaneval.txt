@@ -1,0 +1,19 @@
+Rules applied: R20
+Lines correct: 48 of 49
+Pass history:
+Tried rules R20; 48 lines correct.
+Tried rules R1; 46 lines correct.
+Tried rules R2; 47 lines correct.
+Tried rules R21a; 47 lines correct.
+Tried rules R21c; 47 lines correct.
+Tried rules R21b; 46 lines correct.
+Tried rules R20, R1; 47 lines correct.
+Tried rules R20, R2; 48 lines correct.
+Tried rules R20, R21a; 48 lines correct.
+Tried rules R20, R21c; 48 lines correct.
+Tried rules R20, R21b; 47 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+0    0     versus sancte marie

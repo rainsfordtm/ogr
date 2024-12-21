@@ -10,8 +10,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 9,2,3,2,"ChansLas, stanza 1, l.2",a,a,A,a,/A\,+,fro,PRE,---,à,DMF,à,,,
 10,2,4,2,"ChansLas, stanza 1, l.2",li,li,Li,l.i,L/i\,+,fro,PRNper,3sfr,li,DMF,li,,,
 11,2,5,2,"ChansLas, stanza 1, l.2",uorer,vorer,vorær,v.o.r.e.r,v/o\.'r/æ\r,|,fro,VERinf,---,voler,DMF,voler,,</l>,
-12,3,1,3,"ChansLas, stanza 1, l.3",la,la,LA,l.a,L/A\,+,fro,DETdef,3sfr,le,DMF,le,,,<lb/><l n=&quot;3&quot;>
-13,3,2,3,"ChansLas, stanza 1, l.3",sintil,sintil,SiNtil,s.i.n.t.i.l,S/i\N.'t/i\l,_,fro,ADJqua,3sfr,gentil,DMF,gentil,,,
+12,3,1,3,"ChansLas, stanza 1, l.3",la,la,LA,l.a,L/A\,+,fro,DETdef,sfr,le,DMF,le,,,<lb/><l n=&quot;3&quot;>
+13,3,2,3,"ChansLas, stanza 1, l.3",sintil,sintil,SiNtil,s.i.n.t.i.l,S/i\N.'t/i\l,_,fro,ADJqua,sfr,gentil,DMF,gentil,,,
 14,3,3,3,"ChansLas, stanza 1, l.3",imbracher,imbracher,iNbrAċɛr,i.m.b.r.a.ch.e.r,/i\N.br/A\.'ċ/ɛ\r,_,fro,VERinf,---,embrasser,DMF,embrasser,,</l>,
 15,4,1,4,"ChansLas, stanza 1, l.4",se,se,SE,s.e,S/E\,+,fro,DETpos,3sfr,son4,DMF,son4,,,<l n=&quot;4&quot;>
 16,4,2,4,"ChansLas, stanza 1, l.4",buch,buch,boċ,b.u.ch,b/o\ċ,_,fro,NOMcom,sfr,bouche,DMF,bouche,word_Moelk96:48,,

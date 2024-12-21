@@ -76,7 +76,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 75,13,5,uos,vos,–,vOS,v.o.s,v/O\S,,pro,11,PRCper,5pfr,vós,DOM,vous,"Spons, l. 11",,,
 76,13,6,dirum,dirum,–,dirOm,d.i.r.u.m,d/i\.'r/O\m,,pro,11,VERcjg,indfut4,dire,DOM,dire,"Spons, l. 11",,</l>,
 77,14,1,aisex,aisex,–,AisɛT,a.i.s.e.x,/A\i.'s/ɛ\T,,pro,12,VERcjg,imp---5,aisir,DOM,---,"Spons, l. 12",transcription_SponsusA:59 lemma:SponsusT:243,,<l n=&quot;12&quot;>
-78,14,2,presen,presen,–,prEzEn,p.r.e.s.e.n,pr/E\.'z/E\n,p-.r-.e[.-s-.è].-n(-s),pro,12,ADJqua,---,prezén,DOM,présent,"Spons, l. 12",,,
+78,14,2,presen,presen,–,prEzEn,p.r.e.s.e.n,pr/E\.'z/E\n,p-.r-.e[.-s-.è].-n(-s),pro,12,ADVgen,---,prezén,DOM,présent,"Spons, l. 12",,,
 79,14,3,que,que,+,kE,qu.e,k/(E)\,,pro,12,CONsub,---,que2,DOM,que,"Spons, l. 12",,,
 80,14,4,uos,vos,–,vOS,v.o.s,v/O\S,,pro,12,PRCper,5pfr,vós,DOM,vous,"Spons, l. 12",,,
 81,14,5,co–|mandarum,comandarum,–,kOmANdArOm,c.o.m.a.n.d.a.r.u.m,k/O\.m/A\N.d/A\.'r/O\m,,pro,12,VERcjg,indfut4,comandar,DOM,commander,"Spons, l. 12",,</l>,

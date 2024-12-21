@@ -36,7 +36,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 35,6,5,sant,sant,SANT,s.a.n.t,S/A\NT,_,6,fro,Adj,Adj,saint,DMF,saint,ADJqua,smr,,"SLeger, l. 6",,
 36,6,6,lethgier,lethgier,LETʤiEr,l.e.th.g.i.e.r,L/E\T.'ʤ/iE\r,.|,6,fro,N,N,Léger,wikipedia.fr,---,NOMpro,smr,,"SLeger, l. 6",</l></lg>,
 37,7,1,Primos,primos,priməS,p.r.i.m.o.s,'pr/i\.m/ə\S,_,7,fro,Adv,Adv,prim,DMF,prim,ADVgen,---,,"SLeger, l. 7",,<lb/><lg n=&quot;2&quot; rhyme=&quot;aabbcc&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot;><l n=&quot;7&quot;>
-38,7,2,didrai,didrai,diðrAi,d.i.d.r.a.i,d/i\.'ðr/A\i,+,7,fro,Vfin,Vfin,dire,DMF,dire,VERcjg,indfut1s,,"SLeger, l. 7",,
+38,7,2,didrai,didrai,diðrAi,d.i.d.r.a.i,d/i\.'ðr/A\i,+,7,fro,Vfin,Vfin,dire,DMF,dire,VERcjg,indfut1,,"SLeger, l. 7",,
 39,7,3,uos,vos,voS,v.o.s,v/o\S,_,7,fro,Prn,Prn%%,vous,DMF,vous,PRCper,5pmr,,"SLeger, l. 7",,
 40,7,4,de,de,dE,d.e,d/(E)\,+,7,fro,Pre,Pre,de,DMF,de,PRE,---,,"SLeger, l. 7",,
 41,7,5,ls,ls,LS,l.s,/\LS,_,7,fro,Det,Det,le,DMF,le,DETdef,pfr,,"SLeger, l. 7",,
@@ -48,7 +48,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 47,8,5,duos,duos,douS,d.u.o.s,d/o\uS,_,8,fro,QIs,QIs,deux,DMF,deux,DETcar,pmr,,"SLeger, l. 8",,
 48,8,6,seniors,seniors,SEɲorS,s.e.ni.o.r.s,S/E\.'ɲ/o\rS,.|,8,fro,N,N,seigneur,DMF,seigneur,NOMcom,pmr,,"SLeger, l. 8",</l>,
 49,9,1,apres,apres,AprɛS,a.p.r.e.s,/A\.'pr/ɛ\S,_,9,fro,PrA,PrA,après,DMF,après,ADVgen,---,,"SLeger, l. 9",,<lb/><l n=&quot;9&quot;>
-50,9,2,ditrai,ditrai,diðrAi,d.i.t.r.a.i,d/i\.'ðr/A\i,+,9,fro,Vfin,Vfin,dire,DMF,dire,VERcjg,indfut1s,,"SLeger, l. 9",,
+50,9,2,ditrai,ditrai,diðrAi,d.i.t.r.a.i,d/i\.'ðr/A\i,+,9,fro,Vfin,Vfin,dire,DMF,dire,VERcjg,indfut1,,"SLeger, l. 9",,
 51,9,3,uos,vos,voS,v.o.s,v/o\S,_,9,fro,Prn,Prn%%,vous,DMF,vous,PRCper,5pmr,,"SLeger, l. 9",,
 52,9,4,de,de,dE,d.e,d/(E)\,+,9,fro,Pre,Pre,de,DMF,de,PRE,---,,"SLeger, l. 9",,
 53,9,5,ls,ls,LS,l.s,/\LS,_,9,fro,Det,Det,le,DMF,le,DETdef,pmr,,"SLeger, l. 9",,
@@ -554,7 +554,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 553,92,2,consilier,consilier,kONSiʎiEr,c.o.n.s.i.l.i.e.r,k/O\N.S/i\.'ʎ/iE\r,_,92,fro,N,N,conseiller,DMF,conseiller,NOMcom,smn,,"SLeger, l. 92",,<lb/>
 554,92,3,ia,ja,ʤa,j.a,ʤ/a\,+,92,fro,Adv,Adv,jà,DMF,jà,ADVgen,---,,"SLeger, l. 92",,
 555,92,4,non,non,nON,n.o.n,n/O\N,_,92,fro,Neg,Neg$$,ne,DMF,ne,ADVneg,---,,"SLeger, l. 92",,
-556,92,5,estrai,estrai,EStrAi,e.s.t.r.a.i,/E\S.'tr/A\i,_,92,fro,Vfin,Vfin,ester,DMF,ester,VERcjg,indfut1s,,"SLeger, l. 92",</q></l>,
+556,92,5,estrai,estrai,EStrAi,e.s.t.r.a.i,/E\S.'tr/A\i,_,92,fro,Vfin,Vfin,ester,DMF,ester,VERcjg,indfut1,,"SLeger, l. 92",</q></l>,
 557,93,1,meu,meu,mɛu,m.e.u,m/ɛ\u,|,93,fro,Det,Det,mon,DMF,mon,DETpos,1smr,,"SLeger, l. 93",,<l n=&quot;93&quot;><q>
 558,93,2,euesquet,evesquet,EvESkEð,e.v.e.s.qu.e.t,/E\.v/E\S.'k/E\ð,_,93,fro,N,N,évêché,DMF,évêché,NOMcom,smr,,"SLeger, l. 93",,<lb/>
 559,93,3,ne,ne,nE,n.e,n/(E)\,+,93,fro,Neg,Neg$$,ne,DMF,ne,ADVneg,---,,"SLeger, l. 93",,
@@ -576,9 +576,9 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 575,96,1,pos,pos,pOS,p.o.s,p/O\S,+,96,fro,Adv,Adv,puis,DMF,puis,ADVgen,---,,"SLeger, l. 96",,<lb/><l n=&quot;96&quot;><q>
 576,96,2,ci,ci,Çi,c.i,Ç/i\,+,96,fro,Adv,Adv,ci,DMF,ci,ADVgen,---,,"SLeger, l. 96",,
 577,96,3,non,non,nON,n.o.n,n/O\N,+,96,fro,Neg,Neg$$,ne,DMF,ne,ADVneg,---,,"SLeger, l. 96",,
-578,96,4,posc,posc,pOSK,p.o.s.c,p/O\SK,_,96,fro,Vfin,Vfin,pouvoir,DMF,pouvoir,VERcjg,indpst1s,,"SLeger, l. 96",,
+578,96,4,posc,posc,pOSK,p.o.s.c,p/O\SK,_,96,fro,Vfin,Vfin,pouvoir,DMF,pouvoir,VERcjg,indpst1,,"SLeger, l. 96",,
 579,96,5,lai,lai,LAi,l.a.i,L/A\i,_,96,fro,Adv,Adv,là,DMF,là,ADVgen,---,,"SLeger, l. 96",,
-580,96,6,uol,vol,vOl,v.o.l,v/O\l,|,96,fro,Vfin,Vfin,vouloir,DMF,vouloir,VERcjg,indpst1s,,"SLeger, l. 96",,
+580,96,6,uol,vol,vOl,v.o.l,v/O\l,|,96,fro,Vfin,Vfin,vouloir,DMF,vouloir,VERcjg,indpst1,,"SLeger, l. 96",,
 581,96,7,ester,ester,EStær,e.s.t.e.r,/E\S.'t/æ\r,|,96,fro,Vinf,Vinf,ester,DMF,ester,VERinf,---,,"SLeger, l. 96",</q></l></lg>,<lb/>
 582,97,1,Enuiz,enviz,ENviTS,e.n.v.i.z.,/E\N.'v/i\TS,_,97,fro,Adv,Adv,envis,DMF,envis,ADVgen,---,,"SLeger, l. 97",,<lb/><lg n=&quot;17&quot; rhyme=&quot;aabbcc&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot;><l n=&quot;97&quot;>
 583,97,2,lo,lo,Lu,l.o,L/(u)\,+,97,fro,Prn,Prn$$,le,DMF,le,PRCper,3sna,,"SLeger, l. 97",,

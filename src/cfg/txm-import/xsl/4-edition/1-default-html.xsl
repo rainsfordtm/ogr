@@ -211,7 +211,7 @@
             </xsl:if>
             <xsl:attribute name="title">
                 <xsl:apply-templates
-                    select="txm:ana[@type = ('#dipl', '#pos_syn', '#morph', '#lemma', '#lemma_dmf')]"
+                    select="txm:ana[@type = ('#phon', '#pos', '#morph', '#lemma', '#lemma_dmf')]"
                     mode="title-string"/>
             </xsl:attribute>
             <xsl:value-of select="txm:form"/>
