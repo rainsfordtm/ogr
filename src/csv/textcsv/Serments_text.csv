@@ -209,7 +209,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,para_id,sy
 208,30,3,in,in,EN,i.n,/E\N,_,fro,4,Pre,Pre,en,DMF,en,PRE,---,"Serments, 13r, col. b, l. 32",,
 209,30,4,nulla,nulla,nylə,n.u.ll.a,'n/y\.l/ə\,_,fro,4,QIs,QIs,nul,DMF,nul,DETind,sfr,"Serments, 13r, col. b, l. 32",,
 210,30,5,a_iudha,aiudha,Aiyðə,a.i.u.dh.a,/A\i.'/y\.ð/ə\,_,fro,4,N,N,aide,DMF,aide,NOMcom,sfr,"Serments, 13r, col. b, l. 32",,
-211,30,6,contra,contra,kONtrə,c.o.n.t.r.a,'k/O\N.tr/ə\,_,fro,4,Pre,Pre,contre,DMF,contre,PRE,---,"Serments, 13r, col. b, l. 32",,
+211,30,6,contra,contra,kONtrə,c.o.n.t.r.a,'k/O\N.tr/ə\,_,fro,4,Pre,Pre,contre3,DMF,contre3,PRE,---,"Serments, 13r, col. b, l. 32",,
 212,30,7,lodhu|uuig,lodhuwig,LoðouiK,l.o.dh.u.w.i.g,L/o\.ð/o\.'u/i\K,_,fro,4,N,N,Louis,wikipedia.fr,---,NOMpro,smr,"Serments, 13r, col. b, l. 32",,
 213,31,1,nun,nun,nON,n.u.n,n/O\N,+,fro,4,Neg,Neg,ne,DMF,ne,ADVneg,---,"Serments, 13r, col. b, l. 33",,<lb n=&quot;33&quot;/>
 214,31,2,li,li,Li,l.i,L/i\,_,fro,4,Prn,Prn$$,li,DMF,li,PRCper,3smi,"Serments, 13r, col. b, l. 33",,

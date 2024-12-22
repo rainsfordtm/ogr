@@ -86,7 +86,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,
 85,6,6,a,a,a,a,/a\,+,fro,PRE,---,à,DMF,à,"SGregPaint, 34v, l. 25",,
 86,6,7,s,s,S,s,/\S,_,fro,DETdef,pfr,le,DMF,le,"SGregPaint, 34v, l. 25",,
 87,6,8,genz,genz,ʤENTS,g.e.n.z.,ʤ/E\NTS,.|,fro,NOMcom,pfr,gent,DMF,gent,"SGregPaint, 34v, l. 25",</s>,
-88,7,1,La,la,La,l.a,L/a\,+,fro,DETdet,sfr,le,DMF,le,"SGregPaint, 34v, l. 26",,<lb n=&quot;26&quot;/><s>
+88,7,1,La,la,La,l.a,L/a\,+,fro,DETdef,sfr,le,DMF,le,"SGregPaint, 34v, l. 26",,<lb n=&quot;26&quot;/><s>
 89,7,2,quele,quele,kæLə,qu.e.l.e,'k/æ\.L/ə\,_,fro,DETrel,sfr,quel,DMF,quel,"SGregPaint, 34v, l. 26",,
 90,7,3,ćóse,cose,ċɔzə,c.o.s.e,'ċ/ɔ\.z/ə\,_,fro,NOMcom,sfr,chose,DMF,chose,"SGregPaint, 34v, l. 26",,
 91,7,4,tu,tu,ty,t.u,t/y\,_,fro,PRNper,2smn,tu,DMF,tu,"SGregPaint, 34v, l. 26",,

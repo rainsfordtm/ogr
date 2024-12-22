@@ -323,7 +323,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 322,72,5,covent,covent,_,kOvENT,c.o.v.e.n.t,k/O\.'v/E\NT,k-.ò](-n).w-.è[.-n-(e[).-t-,pro,67,VERcjg,indpst0,convenir,DOM,convenir,"Spons, l. 67",,,
 323,72,6,ester,ester,–,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,0.s.t-.à[.-r-(e[),pro,67,VERinf,---,estar,DOM,ester,"Spons, l. 67",,</l>,
 324,73,1,ni,ni,+,ni,n.i,n/i\,,pro,68,CONcoo,---,ni,DOM,ne2,"Spons, l. 68",,,<l n=&quot;68&quot;>
-325,73,2,lo_iamen,lojamen,–,LOʤAmEn,l.o.j.a.m.e.n,L/O\.ʤ/A\.'m/E\n,,pro,68,ADVgen,---,longamén,DOM,longement,"Spons, l. 68",,,
+325,73,2,lo_iamen,lojamen,–,LOʤAmEn,l.o.j.a.m.e.n,L/O\.ʤ/A\.'m/E\n,,pro,68,ADVgen,---,longamén,DOM,longuement2,"Spons, l. 68",,,
 326,73,3,aici,aici,_,Aisi,a.i.c.i,/A\i.'s/i\,,pro,68,ADVgen,---,aici,DOM,ici,"Spons, l. 68",,,
 327,73,4,a,a,_,A,a,/A\,,pro,68,PRE,---,a2,DOM,à,"Spons, l. 68",,,
 328,73,5,demo–|rer,demorer,–,dEmOrɛr,d.e.m.o.r.e.r,d/E\.m/O\.'r/ɛ\r,d-.e[.-m-.o[.-r-.à[.-r-(e[),pro,68,VERinf,---,demorar,DOM,demeurer,"Spons, l. 68",,</l>,

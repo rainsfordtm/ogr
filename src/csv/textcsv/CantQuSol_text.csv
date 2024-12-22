@@ -311,7 +311,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 310,51,3,51,"CantQuSol, l. 51",languis,languis,;,LANguiS,l.a.n.g.u.i.s,L/A\N.'gu/i\S,fro,VERcjg,indpst1,languir,DMF,languir,,</q></l></lg>,
 311,52,1,52,"CantQuSol, l. 52",Chinc,chinc,_,ÇiNK,ch.i.n.c,Ç/i\NK,fro,DETcar,pmr,cinq,DMF,cinq,,,"<lg n=&quot;18&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;52&quot;><q>"
 312,52,2,52,"CantQuSol, l. 52",milie,milie,+,miliə,m.i.l.i.e,'m/i\.li/(ə)\,fro,DETcar,pmr,mille,DMF,mille,,,
-313,52,3,52,"CantQuSol, l. 52",anz,anz,|,ANÇ,a.n.z,/A\NÇ,fro,NOMcom,pmr,ans,DMF,ans,,,
+313,52,3,52,"CantQuSol, l. 52",anz,anz,|,ANÇ,a.n.z,/A\NÇ,fro,NOMcom,pmr,an,DMF,an,,,
 314,52,4,52,"CantQuSol, l. 52",atz,atz,+,a,atz,/a\,fro,VERcjg,indpst0,avoir,DMF,avoir,,,<lb/>
 315,52,5,52,"CantQuSol, l. 52",qu,qu,+,k,qu,k/\,fro,CONsub,---,que,DMF,que,,,
 316,52,6,52,"CantQuSol, l. 52",il,il,_,il,i.l,/i\l,fro,PRNper,3smn,il,DMF,il,,,

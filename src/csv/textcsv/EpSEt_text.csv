@@ -18,7 +18,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 17,4,1,3,"EpSEt, l. 3",de,de,dE,d.e,d/(E)\,+,fro,PRE,---,de,DMF,de,,,<l n=&quot;3&quot;>
 18,4,2,3,"EpSEt, l. 3",saint,saint,SÆiNT,s.a.i.n.t,S/Æ\iNT,_,fro,ADJqua,smr,saint,DMF,saint,,,
 19,4,3,3,"EpSEt, l. 3",esteure,estevre,EStɛvrə,e.s.t.e.v.r.e,/E\S.'t/ɛ\.vr/(ə)\,.,fro,NOMpro,smr,Étienne,DMF,Étienne,,,
-20,4,4,3,"EpSEt, l. 3",lo,lo,Lo,l.o,L/(o)\,+,fro,DETdet,smr,le,DMF,le,,,
+20,4,4,3,"EpSEt, l. 3",lo,lo,Lo,l.o,L/(o)\,+,fro,DETdef,smr,le,DMF,le,,,
 21,4,5,3,"EpSEt, l. 3",glorius,glorius,glorioS,g.l.o.r.i.u.s,gl/o\.r/i\.'/o\S,_,fro,ADJqua,smr,glorieux,DMF,glorieux,,,
 22,4,6,3,"EpSEt, l. 3",baru[n],barun,bArOn,b.a.r.u.n,b/A\.'r/O\n,.,fro,NOMcom,smr,baron,DMF,baron,,</l>,
 23,5,1,4,"EpSEt, l. 4",escotet,escotet,ESkotɛT,e.s.c.o.t.e.t,/E\S.k/o\.'t/ɛ\T,_,fro,VERcjg,imp---5,écouter,DMF,écouter,,,<l n=&quot;4&quot;>
@@ -301,7 +301,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 300,49,9,41,"EpSEt, l. 41",u[n],un,yn,u.n,/y\n,_,fro,DETndf,smr,un,DMF,un,,,
 301,49,10,41,"EpSEt, l. 41",enfant,enfant,ÆNfÆNT,e.n.f.a.n.t,/Æ\N.'f/Æ\NT,_,fro,NOMcom,smr,enfant,DMF,enfant,,</l>,
 302,50,1,42,"EpSEt, l. 42",mistrent,mistrent,miStrəNT,m.i.s.t.r.e.n.t,'m/i\S.tr/ə\NT,|,fro,VERcjg,indpsp6,mettre,DMF,mettre,,,<l n=&quot;42&quot;>
-303,50,2,42,"EpSEt, l. 42",lor,lor,Lor,l.o.r,L/o\r,_,fro,DETpos,6pmr,leur,DMF,leur,,,<lb/>
+303,50,2,42,"EpSEt, l. 42",lor,lor,Lor,l.o.r,L/o\r,_,fro,DETpos,6pmr,leur2,DMF,leur2,,,<lb/>
 304,50,3,42,"EpSEt, l. 42",dras,dras,draS,d.r.a.s,dr/a\S,_,fro,NOMcom,pmr,drap,DMF,drap,,,
 305,50,4,42,"EpSEt, l. 42",cil,cil,Çil,c.i.l,Ç/i\l,_,fro,PRNdem,pmn,cil,DMF,cil,,,
 306,50,5,42,"EpSEt, l. 42",q[u]i,qui,ki,qu.i,k/i\,_,fro,PRNrel,pmn,qui,DMF,qui,,,
@@ -411,8 +411,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 410,67,2,56,"EpSEt, l. 56",i_cest,icest,iʦeST,i.c.e.s.t,/i\.'ʦ/e\ST,_,fro,DETdem,smr,cist,DMF,cist,,,
 411,67,3,56,"EpSEt, l. 56",mot,mot,mɔT,m.o.t,m/ɔ\T,_,fro,NOMcom,smr,mot,DMF,mot,,,
 412,67,4,56,"EpSEt, l. 56",li,li,Li,l.i,L/i\,+,fro,DETdef,smn,le,DMF,le,,,
-413,67,5,56,"EpSEt, l. 56",se[n],sen,SÆn,s.e.n,S/Æ\n,|,fro,ADJqua,smn,saint,DMF,saint,,,
-414,67,6,56,"EpSEt, l. 56",de,de,dæ,d.e,d/æ\,_,fro,NOMcom,smn,Dieu,DMF,Dieu,,,<lb/>
+413,67,5,56,"EpSEt, l. 56",se[n],sen,SÆn,s.e.n,S/Æ\n,|,fro,NOMcom,smn,saint,DMF,saint,,,
+414,67,6,56,"EpSEt, l. 56",de,de,dæ,d.e,d/æ\,_,fro,NOMpro,smr,Dieu,DMF,Dieu,,,<lb/>
 415,67,7,56,"EpSEt, l. 56",fu,fu,fy,f.u,f/y\,_,fro,VERcjg,indpsp3,être,DMF,être,,,
 416,67,8,56,"EpSEt, l. 56",fení,feni,fEni,f.e.n.i,f/E\.'n/i\,.,fro,VERppe,smn,finir,DMF,finir,,</l>,
 417,68,1,57,"EpSEt, l. 57",s,s,S,s,S/\,+,fro,DETpos,3sfr,son4,DMF,son4,,,<l n=&quot;57&quot;>
@@ -423,7 +423,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 422,68,6,57,"EpSEt, l. 57",il,il,il,i.l,/i\l,+,fro,PRNper,3smn,il,DMF,il,,,
 423,68,7,57,"EpSEt, l. 57",a,a,a,a,/a\,_,fro,VERcjg,indpst3,avoir,DMF,avoir,,,
 424,68,8,57,"EpSEt, l. 57",seruí,servi,SErvi,s.e.r.v.i,S/E\r.'v/i\,.,fro,VERppe,smr,servir,DMF,servir,,</l>,
-425,69,1,58,"EpSEt, l. 58",oi,oi,oi,o.i,/o\i,_,fro,ADVgen,---,hui,DMF,hui,,,<l n=&quot;58&quot;>
+425,69,1,58,"EpSEt, l. 58",oi,oi,oi,o.i,/o\i,_,fro,ADVgen,---,hui2,DMF,hui2,,,<l n=&quot;58&quot;>
 426,69,2,58,"EpSEt, l. 58",[est],est,ɛST,e.s.t,/ɛ\ST,_,fro,VERcjg,indpst3,être,DMF,être,,,
 427,69,3,58,"EpSEt, l. 58",la,la,LA,l.a,L/(A)\,+,fro,DETdef,sfn,le,DMF,le,,,
 428,69,4,58,"EpSEt, l. 58",ste[=feste],feste,fɛStə,f.e.s.t.e,'f/ɛ\S.t/(ə)\,_,fro,NOMcom,sfn,fête,DMF,fête,,,
@@ -441,7 +441,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 440,71,1,60,"EpSEt, l. 60",q[ue],que,kE,qu.e,k/(E)\,_,fro,CONsub,---,que,DMF,que,,,<l n=&quot;60&quot;>
 441,71,2,60,"EpSEt, l. 60",il,il,il,i.l,/i\l,_,fro,PRNper,3smn,il,DMF,il,,,
 442,71,3,60,"EpSEt, l. 60",p[rie],prie,priə,p.r.i.e,'pr/i\./(ə)\,_,fro,VERcjg,indpst3,prier,DMF,prier,,,
-443,71,4,60,"EpSEt, l. 60",de,de,dæ,d.e,d/æ\,_,fro,NOMcom,smr,Dieu,DMF,Dieu,,,
+443,71,4,60,"EpSEt, l. 60",de,de,dæ,d.e,d/æ\,_,fro,NOMpro,smr,Dieu,DMF,Dieu,,,
 444,71,5,60,"EpSEt, l. 60",q[u]i,qui,ki,qu.i,k/(i)\,_,fro,CONsub,---,que,DMF,que,,,
 445,71,6,60,"EpSEt, l. 60",il,il,il,i.l,/i\l,+,fro,PRNper,3smn,il,DMF,il,,,
 446,71,7,60,"EpSEt, l. 60",ait,ait,ɛT,ai.t,/ɛ\T,_,fro,VERcjg,subpst3,avoir,DMF,avoir,,,

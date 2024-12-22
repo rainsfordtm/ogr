@@ -152,14 +152,14 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 151,29,6,28,"AlexAlb, l. 28",d,d,d,d,d/\,+,fro,PRE,---,de,DMF,de,,,
 152,29,7,28,"AlexAlb, l. 28",encantatour,encantatour,ENċANtAtour,e.n.c.a.n.t.a.t.o.u.r,/E\N.ċ/A\N.t/A\.'t/o\ur,.,fro,NOMcom,smr,enchanteur,DMF,enchanteur,,</l>,
 153,30,1,29,"AlexAlb, l. 29",mentent,mentent,mENtENT,m.e.n.t.e.n.t,'m/E\N.t/E\NT,_,fro,VERcjg,indpst6,mentir,DMF,mentir,,,<l n=&quot;29&quot;>
-154,30,2,29,"AlexAlb, l. 29",fellon,fellon,fElOn,f.e.ll.o.n,f/E\.'l/O\n,|,fro,ADJqua,pmn,felon,DMF,felon,,,
+154,30,2,29,"AlexAlb, l. 29",fellon,fellon,fElOn,f.e.ll.o.n,f/E\.'l/O\n,|,fro,ADJqua,pmn,félon,DMF,félon,,,
 155,30,3,29,"AlexAlb, l. 29",losengetour,losengetour,LɔzENʤEtour,l.o.s.e.n.g.e.t.o.u.r,L/ɔ\.z/E\N.ʤ/E\.'t/o\ur,.,fro,NOMcom,pmn,losengeur,DMF,losengeur,,</l>,
 156,31,1,30,"AlexAlb, l. 30",mal,mal,mAl,m.a.l,m/A\l,_,fro,ADVgen,---,mal3,DMF,mal3,,,<l n=&quot;30&quot;>
 157,31,2,30,"AlexAlb, l. 30",en,en,En,e.n,/E\n,+,fro,PRCadv,---,en2,DMF,en2,,,
 158,31,3,30,"AlexAlb, l. 30",credreyz,credreyz,krEðrEiÇ,c.r.e.d.r.e.y.z,kr/E\.'ðr/E\iÇ,|,fro,VERcjg,con---5,croire,DMF,croire,,,
 159,31,4,30,"AlexAlb, l. 30",nec_un,necun,nEkyn,n.e.c.u.n,n/E\.'k/y\n,_,fro,PRNind,smr,nesun,DMF,nesun,,,
 160,31,5,30,"AlexAlb, l. 30",de,de,dE,d.e,d/(E)\,_,fro,PRE,---,de,DMF,de,,,
-161,31,6,30,"AlexAlb, l. 30",lour,lour,Lour,l.o.u.r,L/o\ur,.,fro,PRNpos,6pmr,leur,DMF,leur,,</l>,
+161,31,6,30,"AlexAlb, l. 30",lour,lour,Lour,l.o.u.r,L/o\ur,.,fro,PRNpos,6pmr,leur2,DMF,leur2,,</l>,
 162,32,1,31,"AlexAlb, l. 31",qu,qu,k,qu,k/\,+,fro,CONsub,---,que,DMF,que,,,<l n=&quot;31&quot;>
 163,32,2,31,"AlexAlb, l. 31",anz,anz,ANÇ,a.n.z,/A\NÇ,_,fro,ADVgen,---,ains,DMF,ains,,,
 164,32,3,31,"AlexAlb, l. 31",fud,fud,fyð,f.u.d,f/y\ð,_,fro,VERcjg,indpsp3,être,DMF,être,,,

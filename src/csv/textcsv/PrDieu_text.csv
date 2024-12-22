@@ -2,12 +2,12 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 1,1,1,TU,tu,_,,,,lat,---,---,---,---,---,"PrDieu, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;44r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f95.item&quot;/><lb/><docTitle lang=&quot;lat&quot;>
 2,1,2,AUTEM,autem,.|,,,,lat,---,---,---,---,---,"PrDieu, title",,</docTitle>,
 3,2,1,Be,be,_,be,b.e,b/e\,pro,ADVgen,---,béN,DOM,bien,"PrDieu, l. 1",,,<lb/><lg type=&quot;stanza&quot; rhyme=&quot;aaaaaa&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
-4,2,2,deu,deu,.,dɛu,d.e.u,d/ɛ\u,pro,VERcjg,indpst3,devér,DOM,devoir,"PrDieu, l. 1",,,
-5,2,3,hoi,hoi,_,ɔi,ho.i,/ɔ\i,pro,ADVgen,---,òi,DOM,hui,"PrDieu, l. 1",,,
+4,2,2,deu,deu,.,dɛu,d.e.u,d/ɛ\u,pro,VERcjg,indpst3,devér,DOM,devoir2,"PrDieu, l. 1",,,
+5,2,3,hoi,hoi,_,ɔi,ho.i,/ɔ\i,pro,ADVgen,---,òi,DOM,hui2,"PrDieu, l. 1",,,
 6,2,4,mais,mais,.,mAiS,m.a.i.s,m/A\iS,pro,ADVgen,---,mais,DOM,mais,"PrDieu, l. 1",,,
 7,2,5,finir,finir,.,finir,f.i.n.i.r,f/i\.'n/i\r,pro,VERinf,---,fenir,DOM,finir,"PrDieu, l. 1",,,
 8,2,6,nostra,nostra,.,nɔStrA,n.o.s.t.r.a,'n/ɔ\S.tr/(A)\,pro,DETpos,sfn,nostra,DOM,notre,"PrDieu, l. 1",,,
-9,2,7,razos,razos,.,rAzoS,r.a.z.o.s,r/A\.'z/o\S,pro,NOMcom,sfn,razóN,DOM,raison,"PrDieu, l. 1",,</l>,
+9,2,7,razos,razos,.,rAzoS,r.a.z.o.s,r/A\.'z/o\S,pro,NOMcom,sfn,devoir,DOM,raison,"PrDieu, l. 1",,</l>,
 10,3,1,un,un,_,yn,u.n,/y\n,pro,DETndf,snr,uN,DOM,un,"PrDieu, l. 2",,,<l n=&quot;2&quot;>
 11,3,2,pauc,pauc,.,pAuK,p.a.u.c,p/A\uK,pro,PRNind,snr,pauc,DOM,peu,"PrDieu, l. 2",,,
 12,3,3,soi,soi,+,Soi,s.o.i,S/o\i,pro,VERcjg,indpst1,èser,DOM,être,"PrDieu, l. 2",,,
