@@ -7,7 +7,7 @@ summary: Access the corpus
 
 Quick access the corpus:
 
-+ [Web interface (ANNIS)](http://www.ogr-corpus.org/annis-gui-3.6.0)
++ [Web interface (ANNIS)](http://www.ogr-corpus.org:5712)
 + [Download](https://github.com/rainsfordtm/ogr/releases)
 
 Read more about the different versions:
@@ -21,20 +21,20 @@ Read more about the different versions:
 
 __Recommended for phonological/metrical queries referencing segments and syllables.__
 
-[__Click here to start ANNIS web.__](http://www.ogr-corpus.org/annis-gui-3.6.0)
+[__Click here to start ANNIS web.__](http://www.ogr-corpus.org:5712)
 
 ### 1.1 Access
 
 There are __two__ similar version of the corpus in the portal (see also [Annotation 4: Syllables and Meter](/docs/annotation-sylls)):
-+ __ogr040__: standard version with all texts but without extra metrical annotation for verse.
-+ __ogrsv040__: syllabic verse texts only with extra metrical annotation.
++ __ogr100__: standard version with all texts but without extra metrical annotation for verse.
++ __ogrsv100__: syllabic verse texts only with extra metrical annotation.
 
 ### 1.2 Tips
 
 A __video tutorial__ for the ANNIS portal is in preparation. In the meantime, here are some __tips__ to get you started with
 the corpus:
 
-+ The __query syntax__ is explained in the online help in the portal and in the [ANNIS User Guide](http://korpling.github.io/ANNIS/3.6/user-guide/index.html).
++ The __query syntax__ is explained in the online help in the portal and in the [ANNIS User Guide](https://korpling.github.io/ANNIS/4/user-guide/).
 + The __corpus annotation__ is documented in the [Annotation pages](/docs/annotation) on this site. 
 + __Sample queries__ are provided in the portal.
 
@@ -78,12 +78,14 @@ folder containing the TEI XML files and running TXM's "XML Zero + CSV" import.
 
 [__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-annis.zip)
 
-If you need to use the corpus offline, you can also --- with a little effort --- install ANNIS locally.
+If you need to use the corpus offline, you can install ANNIS locally. 
+__With the release of ANNIS 4, this is now really easy!__
 
-1. Download and install PostgreSQL and ANNIS Kickstarter 3.6 following the instructions in the [ANNIS User Guide](http://korpling.github.io/ANNIS/3.6/user-guide/installation-kickstarter.html).
-1. Unzip the `ogr040-annis.zip` archive to any location on your computer.
-1. In ANNIS Kickstarter, click "Import Corpus" and the folder `relANNIS/ogr040`. Repeat for `relANNIS/ogrsv040`.
-1. Click "Launch ANNIS frontend".
+1. Follow the instructions [here](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html)
+to download and run the java app. The app should open automatically in
+your web browser at `localhost:5712`
+1. Unzip the `ogr100-annis.zip` archive to any location on your computer.
+1. In the web app, click on `Administration > Import Corpus` and load the folder `ogr100/relANNIS.zip`. Repeat for `ogrsv100/relANNIS.zip`.
 
 ## 4. XML-TEI P5
 

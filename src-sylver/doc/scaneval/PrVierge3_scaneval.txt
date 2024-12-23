@@ -1,0 +1,18 @@
+Rules applied: R20
+Lines correct: 49 of 49
+Pass history:
+Tried rules R20; 49 lines correct.
+Tried rules R1; 47 lines correct.
+Tried rules R2; 48 lines correct.
+Tried rules R21a; 48 lines correct.
+Tried rules R21c; 48 lines correct.
+Tried rules R21b; 47 lines correct.
+Tried rules R20, R1; 48 lines correct.
+Tried rules R20, R2; 49 lines correct.
+Tried rules R20, R21a; 49 lines correct.
+Tried rules R20, R21c; 49 lines correct.
+Tried rules R20, R21b; 48 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES

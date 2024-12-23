@@ -285,3 +285,8 @@ paula/grid/CantQuSol/ogr100.CantQuSol.anno_feat.xml,source,ms. image
 paula/grid/CantQuSol/ogr100.CantQuSol.anno_feat.xml,form,verse
 paula/grid/CantQuSol/ogr100.CantQuSol.anno_feat.xml,lang,fro
 paula/grid/CantQuSol/ogr100.CantQuSol.anno_feat.xml,lang_other,---
+paula/grid/ogr100.meta_multiFeat.xml,name,"Old Gallo-Romance (OGR) Corpus version 1.0, ANNIS edition"
+paula/grid/ogr100.meta_multiFeat.xml,creator,Thomas Rainsford
+paula/grid/ogr100.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de
+paula/grid/ogr100.meta_multiFeat.xml,website,http://www.ogr-corpus.org
+paula/grid/ogr100.meta_multiFeat.xml,citation,"Rainsford, Thomas M. 2025. Old Gallo-Romance Corpus: ANNIS edition, version 1.0. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>"

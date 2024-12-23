@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid,pos,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,SPONS[US],sponsus,.,,,,lat,---,---,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot;/><lb/><docTitle>
+1,1,1,SPONS[US],sponsus,.,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,lat,---,---,---,---,---,---,"Spons, f. 53r, rubric",,</docTitle></front>,<text><front><pb n=&quot;53r&quot;/><lb/><docTitle>
 2,2,1,Ad–est,adest,–,VQVQQ,a.d.e.s.t,'/V\.Q/V\QQ,lat,1,---,---,---,---,---,"Spons, l. 1",,,<body xml:lang=&quot;pro&quot;><prologue><sp><lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;1&quot;>
 3,2,2,spo[n]sus,sponsus,–|,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,lat,1,---,---,---,---,---,"Spons, l. 1",,,
 4,2,3,qui,qui,_,QRV,q.u.i,QR/V\,lat,1,---,---,---,---,---,"Spons, l. 1",,,<pb n=&quot;53v&quot;/><lb/>
@@ -68,7 +68,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 67,11,4,crucis,crucis,–,QRVQVQ,c.r.u.c.i.s,'QR/V\.Q/V\Q,lat,10,---,---,---,---,---,"Spons, l. 10",,,
 68,11,5,sustulit,sustulit,–,QVQQVLVQ,s.u.s.t.u.l.i.t,'Q/V\Q.Q/V\.'L/V\Q,lat,10,---,---,---,---,---,"Spons, l. 10",,,
 69,11,6,patibula,patibula,–,QVQVQVLV,p.a.t.i.b.u.l.a,Q/V\.'Q/V\.Q/V\.'L/V\,lat,10,---,---,---,---,---,"Spons, l. 10",,</l></lg></sp></prologue>,
-70,12,1,PRUde[n]tes,prudentes,|,,,,lat,---,---,---,---,---,---,"Spons, f. 53v, rubric",,</speaker>,<sp><speaker>
+70,12,1,PRUde[n]tes,prudentes,|,QRVQVNQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\N.Q/V\Q,lat,---,---,---,---,---,---,"Spons, f. 53v, rubric",,</speaker>,<sp><speaker>
 71,13,1,Oiet,oiet,–,OiɛT,o.i.e.t,/O\i.'/ɛ\T,pro,11,VERcjg,imp---5,auzir,DOM,ouïr,"Spons, l. 11",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaab&quot;><l n=&quot;11&quot;>
 72,13,2,uirgines,virgines,–,virʤinES,v.i.r.g.i.n.e.s,v/i\r.'ʤ/i\.n/E\S,pro,11,NOMcom,pfn,vergena,DOM,virgine2,"Spons, l. 11",,,
 73,13,3,aiso,aiso,–,Aisɔ,a.i.s.o,/A\i.'s/ɔ\,pro,11,PRNdem,snr,aisso,DOM,ce,"Spons, l. 11",,,
@@ -156,7 +156,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 155,28,5,uenra,venra,–,vENrA,v.e.n.r.a,v/E\N.'r/A\,pro,26,VERcjg,indfut3,venir,DOM,venir,"Spons, l. 26",,,
 156,28,6,praici,praici,_,prAisi,p.r.a.i.c.i,pr/A\i.s/i\,pro,26,ADVgen,---,aici,DOM,ici,"Spons, l. 26",,</l>,
 157,29,1,Gaire,gaire,_,gAirE,g.a.i.r.e,'g/A\i.r/(E)\,pro,27,ADVgen,---,gaire,DOM,guère,"Spons, l. 27",,<supplied reason=&quot;missing&quot;>no i dormet</supplied></l></lg></sp>,<l n=&quot;27&quot;>
-158,30,1,Fatve,fatue,|,,,,lat,---,---,---,---,---,---,"Spons, f. 54r, rubric",,</speaker>,<sp><speaker>
+158,30,1,Fatve,fatue,|,QVQVV,f.a.t.u.e,'Q/V\.Q/V\./V\,lat,---,---,---,---,---,---,"Spons, f. 54r, rubric",,</speaker>,<sp><speaker>
 159,31,1,Nos,nos,_,NVQ,n.o.s,N/V\Q,lat,28,---,---,---,---,---,"Spons, l. 28",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;28&quot;>
 160,31,2,uirgines,virgines,–,QVRQVNVQ,v.i.r.g.i.n.e.s,'Q/V\R.Q/V\.'N/V\Q,lat,28,---,---,---,---,---,"Spons, l. 28",,,
 161,31,3,que,que,_,QRV,q.u.e,QR/V\,lat,28,---,---,---,---,---,"Spons, l. 28",,,
@@ -219,7 +219,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 218,44,5,in,in,+,VN,i.n,/V\N,lat,41,---,---,---,---,---,"Spons, l. 41",,,
 219,44,6,sedibus,sedibus,–,QVQVQVQ,s.e.d.i.b.u.s,'Q/V\.Q/V\.'Q/V\Q,lat,41,---,---,---,---,---,"Spons, l. 41",,</l>,
 220,45,1,Dole[=Dolentas],dolentas,–,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,pro,42,ADJqua,pfn,dolén,DOM,dolent,"Spons, l. 42",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;42&quot;>
-221,46,1,PRVde[n]tes,prudentes,|,,,,lat,---,NOUN,pfn,prudens,wiktionary,---,"Spons, f. 54v, rubric",,</speaker>,<sp><speaker>
+221,46,1,PRVde[n]tes,prudentes,|,QRVQVNQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\N.Q/V\Q,lat,---,NOUN,pfn,prudens,wiktionary,---,"Spons, f. 54v, rubric",,</speaker>,<sp><speaker>
 222,47,1,Nos,nos,_,NVQ,n.o.s,N/V\Q,lat,43,---,---,---,---,---,"Spons, l. 43",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;43&quot;>
 223,47,2,precari,precari,–,QRVQVRV,p.r.e.c.a.r.i,QR/V\.'Q/V\.R/V\,lat,43,---,---,---,---,---,"Spons, l. 43",,,
 224,47,3,precamur,precamur,–,QRVQVNVR,p.r.e.c.a.m.u.r,QR/V\.'Q/V\.N/V\R,lat,43,---,---,---,---,---,"Spons, l. 43",,,
@@ -315,7 +315,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 314,69,6,ue_et,veet,_,vEɛT,v.e.e.t,v/E\.'/ɛ\T,pro,65,VERcjg,indpst5,vezér,DOM,voir,"Spons, l. 65",,,
 315,69,7,ester,ester,_,EStɛr,e.s.t.e.r,/E\S.'t/ɛ\r,pro,65,VERinf,---,estar,DOM,ester,"Spons, l. 65",,</l>,
 316,70,1,Dol.[=Dolentas],dolentas,–,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,pro,66,ADJqua,pfn,dolén,DOM,dolent,"Spons, l. 66",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;66&quot;>
-317,71,1,Mercatores,mercatores,.|,,,,lat,---,---,---,---,---,---,"Spons, f. 55r, rubric",,</speaker>,<sp><speaker>
+317,71,1,Mercatores,mercatores,.|,NVRQVQVRVQ,m.e.r.c.a.t.o.r.e.s,N/V\R.Q/V\.'Q/V\.R/V\Q,lat,---,---,---,---,---,---,"Spons, f. 55r, rubric",,</speaker>,<sp><speaker>
 318,72,1,Domnas,domnas,_,dOmnAS,d.o.m.n.a.s,'d/O\m.n/A\S,pro,67,NOMcom,pfn,dómna,DOM,dame,"Spons, l. 67",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;67&quot;>
 319,72,2,gentils,gentils,–,ʤENtiLS,g.e.n.t.i.l.s,ʤ/E\N.'t/i\LS,pro,67,ADJqua,pfn,gentil,DOM,gentil,"Spons, l. 67",,,
 320,72,3,no,no,+,nO,n.o,n/O\,pro,67,ADVneg,---,nóN,DOM,ne,"Spons, l. 67",,,
@@ -390,9 +390,9 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 389,83,3,numquam,numquam,–,NVNQRVN,n.u.m.q.u.a.m,'N/V\N.QR/V\N,lat,78,---,---,---,---,---,"Spons, l. 78",,,
 390,83,4,intrabim[us],intrabimus,_,VNQRVQVNVQ,i.n.t.r.a.b.i.m.u.s,/V\N.'QR/V\.Q/V\.'N/V\Q,lat,78,---,---,---,---,---,"Spons, l. 78",,</l>,
 391,84,1,Dol[=Dolentas],dolentas,–|,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,pro,79,ADJqua,pfn,dolén,DOM,dolent,"Spons, l. 79",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg>,<l n=&quot;79&quot;>
-392,85,1,M[odo],modo,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<lb/><stage type=&quot;entrance&quot;><p><s xml:lang=&quot;lat&quot;>
-393,85,2,ueniat,veniat,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-394,85,3,spo[n]sus,sponsus,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</s></p></stage>,
+392,85,1,M[odo],modo,_,NVQV,m.o.d.o,'N/V\.Q/V\,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<lb/><stage type=&quot;entrance&quot;><p><s xml:lang=&quot;lat&quot;>
+393,85,2,ueniat,veniat,_,QVNVVQ,v.e.n.i.a.t,'Q/V\.N/V\./V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+394,85,3,spo[n]sus,sponsus,_,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</s></p></stage>,
 395,86,1,Avdi,audi,–,VQV,au.d.i,'/V\.Q/V\,lat,80,---,---,---,---,---,"Spons, l. 80",,,<lg xml:lang=&quot;lat&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaa&quot;><l n=&quot;80&quot;>
 396,86,2,sponse,sponse,–,QQVNQV,s.p.o.n.s.e,'QQ/V\N.Q/V\,lat,80,---,---,---,---,---,"Spons, l. 80",,,
 397,86,3,uo_ces,voces,–,QVQVQ,v.o.c.e.s,'Q/V\.Q/V\Q,lat,80,---,---,---,---,---,"Spons, l. 80",,,
@@ -405,10 +405,10 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 404,88,2,sotiis,sotiis,–,QVQVVQ,s.o.t.i.i.s,'Q/V\.Q/V\.'/V\Q,lat,82,---,---,---,---,---,"Spons, l. 82",,,<lb/>
 405,88,3,prebe,prebe,–,QRVQV,p.r.e.b.e,'QR/V\.Q/V\,lat,82,---,---,---,---,---,"Spons, l. 82",,,
 406,88,4,remedi_um,remedium,–,RVNVQVVN,r.e.m.e.d.i.u.m,R/V\.'N/V\.Q/V\.'/V\N,lat,82,---,---,---,---,---,"Spons, l. 82",,</l></lg></sp>,
-407,89,1,M[odo],modo,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<sp><speaker>
-408,89,2,veniat,veniat,.,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-409,89,3,SPO[N]S[US],sponsus,.,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-410,89,4,CHR[ISTU]S,christus,.,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</speaker>,
+407,89,1,M[odo],modo,_,NVQV,m.o.d.o,'N/V\.Q/V\,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<sp><speaker>
+408,89,2,veniat,veniat,.,QVNVVQ,v.e.n.i.a.t,'Q/V\.N/V\./V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+409,89,3,SPO[N]S[US],sponsus,.,QQVNQVQ,s.p.o.n.s.u.s,'QQ/V\N.Q/V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+410,89,4,CHR[ISTU]S,christus,.,QRVQQVS,ch.r.i.s.t.u.s,'QR/V\Q.Q/V\S,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</speaker>,
 411,90,1,A_men,amen,_,VNVN,a.m.e.n,'/V\.N/V\N,lat,83,---,---,---,---,---,"Spons, l. 83",,,<lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;83&quot;>
 412,90,2,dico,dico,_,QVQV,d.i.c.o,'Q/V\.Q/V\,lat,83,---,---,---,---,---,"Spons, l. 83",,,
 413,90,3,uos,vos,–,QVQ,v.o.s,Q/V\Q,lat,83,---,---,---,---,---,"Spons, l. 83",,,
@@ -441,11 +441,11 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 440,94,3,ora,ora,_,orA,o.r.a,'/o\.r/(A)\,pro,87,ADVgen,---,óra,DOM,or2,"Spons, l. 87",,,
 441,94,4,ser[et],seret,–,SEreT,s.e.r.e.t,S/E\.'r/e\T,pro,87,VERcjg,indfut5,èser,DOM,être,"Spons, l. 87",,,
 442,94,5,menei_a_s,meneias,–,mEnɛAS,m.e.n.ei.a.s,m/E\.'n/ɛ\./A\S,pro,87,VERppe,pfn,menar,DOM,mener,"Spons, l. 87",,</l></lg></sp>,
-443,95,1,M[odo],modo,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<stage type=&quot;exit&quot;><p><s xml:lang=&quot;lat&quot;>
-444,95,2,accipiant,accipiant,–,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-445,95,3,eas,eas,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-446,95,4,demones,demones,–|,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-447,95,5,[et],et,+,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<lb/>
-448,95,6,p[re]cipite[n]t[ur],precipitentur,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-449,95,7,in,in,_,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
-450,95,8,i[n]fernu[m],infernum,|,,,,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</s></p></stage></body></text>,
+443,95,1,M[odo],modo,_,NVQV,m.o.d.o,'N/V\.Q/V\,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<stage type=&quot;exit&quot;><p><s xml:lang=&quot;lat&quot;>
+444,95,2,accipiant,accipiant,–,VQQVQVVNQ,a.c.c.i.p.i.a.n.t,/V\Q.'Q/V\.Q/V\./V\NQ,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+445,95,3,eas,eas,_,VVQ,e.a.s,'/V\./V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+446,95,4,demones,demones,–|,QVNVNVQ,d.e.m.o.n.e.s,'Q/V\.N/V\.N/V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+447,95,5,[et],et,+,VQ,e.t,/V\Q,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,<lb/>
+448,95,6,p[re]cipite[n]t[ur],precipitentur,_,QRVQVQVQVNQVR,p.r.e.c.i.p.i.t.e.n.t.u.r,QR/V\.Q/V\.Q/V\.'Q/V\N.Q/V\R,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+449,95,7,in,in,_,VN,i.n,/V\N,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,,
+450,95,8,i[n]fernu[m],infernum,|,VNQVRNVN,i.n.f.e.r.n.u.m,/V\N.'Q/V\R.N/V\N,lat,---,---,---,---,---,---,"Spons, f. 55v, rubric",,</s></p></stage></body></text>,

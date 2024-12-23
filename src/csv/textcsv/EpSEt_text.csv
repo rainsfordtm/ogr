@@ -1,7 +1,7 @@
 wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,lemma,lemma_src,lemma_dmf,phil_note,tei_right,tei_left
-1,1,1,---,"EpSEt, heading I",leccio,leccio,,,,_,lat,---,---,---,---,---,,,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;208r&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-2,1,2,---,"EpSEt, heading I",actuum,actuum,,,,_,lat,---,---,---,---,---,,,
-3,1,3,---,"EpSEt, heading I",apostoloru[m],apostolorum,,,,¶,lat,---,---,---,---,---,,</head>,
+1,1,1,---,"EpSEt, heading I",leccio,leccio,LVQQVV,l.e.c.c.i.o,'L/V\Q.Q/V\./V\,_,lat,---,---,---,---,---,,,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;208r&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+2,1,2,---,"EpSEt, heading I",actuum,actuum,VQQVVN,a.c.t.u.u.m,'/V\Q.Q/V\./V\N,_,lat,---,---,---,---,---,,,
+3,1,3,---,"EpSEt, heading I",apostoloru[m],apostolorum,VQVQQVLVRVN,a.p.o.s.t.o.l.o.r.u.m,/V\.Q/V\Q.Q/V\.'L/V\.R/V\N,¶,lat,---,---,---,---,---,,</head>,
 4,2,1,1,"EpSEt, l. 1",por,por,por,p.o.r,p/o\r,_,fro,PRE,---,pour,DMF,pour,,,<l n=&quot;1&quot;>
 5,2,2,1,"EpSEt, l. 1",amor,amor,Amor,a.m.o.r,/A\.'m/o\r,_,fro,NOMcom,smr,amour,DMF,amour,,,
 6,2,3,1,"EpSEt, l. 1",de,de,dæ,d.e,d/æ\,_,fro,NOMpro,smr,Dieu,DMF,Dieu,,,
@@ -33,10 +33,10 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 32,6,5,5,"EpSEt, l. 5",recut,recut,rEʦyð,r.e.c.u.t,r/E\.'ʦ/y\ð,_,fro,VERcjg,indpsp3,recevoir,DMF,recevoir,,,
 33,6,6,5,"EpSEt, l. 5",sa,sa,SA,s.a,S/(A)\,+,fro,DETpos,3sfr,son4,DMF,son4,,,
 34,6,7,5,"EpSEt, l. 5",pasiu[n],pasiun,pAsiOn,p.a.s.i.u.n,p/A\.s/i\.'/O\n,.,fro,NOMcom,sfr,passion,DMF,passion,,</l></lg>,
-35,7,1,---,"EpSEt, heading II",In,in,,,,+,lat,---,---,---,---,---,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-36,7,2,---,"EpSEt, heading II",diebus,diebus,,,,_,lat,---,---,---,---,---,,,
-37,7,3,---,"EpSEt, heading II",illis,illis,,,,¶,lat,---,---,---,---,---,,,
-38,7,4,---,"EpSEt, heading II",Stephan[us],stephanus,,,,¶,lat,---,---,---,---,---,,</head>,
+35,7,1,---,"EpSEt, heading II",In,in,VN,i.n,/V\N,+,lat,---,---,---,---,---,,,<lg n=&quot;2&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+36,7,2,---,"EpSEt, heading II",diebus,diebus,QVVQVQ,d.i.e.b.u.s,'Q/V\./V\.Q/V\Q,_,lat,---,---,---,---,---,,,
+37,7,3,---,"EpSEt, heading II",illis,illis,VLLVQ,i.l.l.i.s,'/V\L.L/V\Q,¶,lat,---,---,---,---,---,,,
+38,7,4,---,"EpSEt, heading II",Stephan[us],stephanus,QQVQVNVQ,s.t.e.ph.a.n.u.s,QQ/V\.'Q/V\.N/V\Q,¶,lat,---,---,---,---,---,,</head>,
 39,8,1,6,"EpSEt, l. 6",Seint,seint,SÆiNT,s.e.i.n.t,S/Æ\iNT,_,fro,ADJqua,smn,saint,DMF,saint,,,<l n=&quot;6&quot;>
 40,8,2,6,"EpSEt, l. 6",esteures,estevres,EStɛvrəS,e.s.t.e.v.r.e.s,/E\S.'t/ɛ\.vr/ə\S,_,fro,NOMpro,smn,Étienne,DMF,Étienne,,,
 41,8,3,6,"EpSEt, l. 6",fut,fut,fyð,f.u.t,f/y\ð,_,fro,VERcjg,indpsp3,être,DMF,être,,,
@@ -74,7 +74,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 73,12,4,10,"EpSEt, l. 10",aute[n]s,autens,AutÆNS,a.u.t.e.n.s,/A\u.'t/Æ\NS,_,fro,ADVgen,---,autant,DMF,autant,,,
 74,12,5,10,"EpSEt, l. 10",li,li,Li,l.i,L/i\,+,fro,DETdef,pmn,le,DMF,le,,,
 75,12,6,10,"EpSEt, l. 10",íue,jue,ʤyæ,j.u.e,ʤ/y\.'/æ\,¶,fro,NOMcom,pmn,juif,DMF,juif,,</l></lg>,
-76,13,1,---,"EpSEt, heading III",Surreserunt,surreserunt,,,,.|¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+76,13,1,---,"EpSEt, heading III",Surreserunt,surreserunt,QVRRVQVRVNQ,s.u.r.r.e.s.e.r.u.n.t,Q/V\R.'R/V\.Q/V\.R/V\NQ,.|¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;3&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
 77,14,1,11,"EpSEt, l. 11",enco[n]tre,encontre,ÆNkONtrə,e.n.c.o.n.t.r.e,/Æ\N.'k/O\N.tr/(ə)\,+,fro,PRE,---,encontre,DMF,encontre,,,<lb/><l n=&quot;11&quot;>
 78,14,2,11,"EpSEt, l. 11",luí,lui,Lyi,l.u.i,L/y\i,_,fro,PRNper,3smr,lui,DMF,lui,,,
 79,14,3,11,"EpSEt, l. 11",se,se,SE,s.e,S/E\,+,fro,ADVgen,---,si4,DMF,si4,,,
@@ -106,9 +106,9 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 105,18,5,15,"EpSEt, l. 15",escience,escience,EsiÆNÇə,e.sc.i.e.n.c.e,/E\.s/i\.'/Æ\N.Ç/(ə)\,|,fro,NOMcom,sfr,escience,DMF,escience,,,
 106,18,6,15,"EpSEt, l. 15",de,de,dE,d.e,d/(E)\,+,fro,PRE,---,de,DMF,de,,,<lb/>
 107,18,7,15,"EpSEt, l. 15",luí,lui,Lyi,l.u.i,L/y\i,¶,fro,PRNper,3smr,lui,DMF,lui,,</q></l></lg>,
-108,19,1,---,"EpSEt, heading IV",et,et,,,,_,lat,---,---,---,---,---,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-109,19,2,---,"EpSEt, heading IV",no[n],non,,,,_,lat,---,---,---,---,---,,,
-110,19,3,---,"EpSEt, heading IV",poterant,poterant,,,,¶,lat,---,---,---,---,---,,</head>,
+108,19,1,---,"EpSEt, heading IV",et,et,VQ,e.t,/V\Q,_,lat,---,---,---,---,---,,,<lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+109,19,2,---,"EpSEt, heading IV",no[n],non,NVN,n.o.n,N/V\N,_,lat,---,---,---,---,---,,,
+110,19,3,---,"EpSEt, heading IV",poterant,poterant,QVQVRVNQ,p.o.t.e.r.a.n.t,Q/V\.'Q/V\.R/V\NQ,¶,lat,---,---,---,---,---,,</head>,
 111,20,1,16,"EpSEt, l. 16",a,a,A,a,/A\,+,fro,PRE,---,à,DMF,à,,,<l n=&quot;16&quot;>
 112,20,2,16,"EpSEt, l. 16",u,u,u,u,/\u,+,fro,DETdef,smr,le,DMF,le,,,
 113,20,3,16,"EpSEt, l. 16",deputer,deputer,dEpytær,d.e.p.u.t.e.r,d/E\.p/y\.'t/æ\r,_,fro,NOMcom,smr,députer,DMF,députer,,,
@@ -149,7 +149,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 148,24,7,20,"EpSEt, l. 20",toldrunt,toldrunt,toLdrONT,t.o.l.d.r.u.n.t,t/o\L.'dr/O\NT,_,fro,VERcjg,indfut6,tolir,DMF,tolir,,,
 149,24,8,20,"EpSEt, l. 20",la,la,LA,l.a,L/(A)\,+,fro,DETdef,sfr,le,DMF,le,,,
 150,24,9,20,"EpSEt, l. 20",uie,vie,viə,v.i.e,'v/i\./(ə)\,¶,fro,NOMcom,sfr,vie,DMF,vie,,</l></lg>,
-151,25,1,---,"EpSEt, heading V",audientes,audientes,,,,¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+151,25,1,---,"EpSEt, heading V",audientes,audientes,VQVVNQVQ,au.d.i.e.n.t.e.s,/V\.Q/V\.'/V\N.Q/V\Q,¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;5&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
 152,26,1,21,"EpSEt, l. 21",Mes,mes,mɛS,m.e.s,m/ɛ\S,_,fro,CONcoo,---,mais,DMF,mais,,,<l n=&quot;21&quot;>
 153,26,2,21,"EpSEt, l. 21",a,a,A,a,/A\,+,fro,PRE,---,à,DMF,à,,,
 154,26,3,21,"EpSEt, l. 21",u,u,u,u,/\u,+,fro,DETdef,smr,le,DMF,le,,,
@@ -185,9 +185,9 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 184,30,4,25,"EpSEt, l. 25",le,le,LE,l.e,L/(E)\,+,fro,PRCper,3sma,le,DMF,le,,,
 185,30,5,25,"EpSEt, l. 25",porru[n]t,porrunt,porrONT,p.o.r.r.u.n.t,p/o\r.'r/O\NT,_,fro,VERcjg,indfut6,pouvoir2,DMF,pouvoir2,,,
 186,30,6,25,"EpSEt, l. 25",danner,danner,dÆnær,d.a.nn.e.r,d/Æ\.'n/æ\r,¶,fro,VERinf,---,damner,DMF,damner,,</l></lg>,
-187,31,1,---,"EpSEt, heading VI",co[m][=cum],cum,,,,_,lat,---,---,---,---,---,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-188,31,2,---,"EpSEt, heading VI",a[utem],autem,,,,_,lat,---,---,---,---,---,,,
-189,31,3,---,"EpSEt, heading VI",e[ss]et,esset,,,,|¶,lat,---,---,---,---,---,,</head>,
+187,31,1,---,"EpSEt, heading VI",co[m][=cum],cum,QVN,c.u.m,Q/V\N,_,lat,---,---,---,---,---,,,<lg n=&quot;6&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+188,31,2,---,"EpSEt, heading VI",a[utem],autem,VQVN,au.t.e.m,'/V\.Q/V\N,_,lat,---,---,---,---,---,,,
+189,31,3,---,"EpSEt, heading VI",e[ss]et,esset,VQQVQ,e.s.s.e.t,'/V\Q.Q/V\Q,|¶,lat,---,---,---,---,---,,</head>,
 190,32,1,26,"EpSEt, l. 26",M[u]lt,mult,moLT,m.u.l.t,m/o\LT,_,fro,ADVgen,---,moult,DMF,moult,,,<lb/><l n=&quot;26&quot;>
 191,32,2,26,"EpSEt, l. 26",s[un]t,sunt,SONT,s.u.n.t,S/O\NT,_,fro,VERcjg,indpst6,être,DMF,être,,,
 192,32,3,26,"EpSEt, l. 26",ire,ire,iræ,i.r.e,/i\.'r/æ\,_,fro,ADJqua,pmn,iré,DMF,iré,,,
@@ -220,8 +220,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 219,36,5,30,"EpSEt, l. 30",tro_uassent,trovassent,trovasəNT,t.r.o.v.a.ss.e.n.t,tr/o\.'v/a\.s/ə\NT,_,fro,VERcjg,subipf6,trouver,DMF,trouver,,,
 220,36,6,30,"EpSEt, l. 30",l,l,L,l,L/\,+,fro,DETdef,sfr,le,DMF,le,,,
 221,36,7,30,"EpSEt, l. 30",achisu[n],achisun,AkizOn,a.ch.i.s.u.n,/A\.k/i\.'z/O\n,.¶|,fro,NOMcom,sfr,ochaison,DMF,ochaison,,</l></lg>,
-222,37,1,---,"EpSEt, heading VII",ecce,ecce,,,,_,lat,---,---,---,---,---,,,<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-223,37,2,---,"EpSEt, heading VII",uídeo,video,,,,¶,lat,---,---,---,---,---,,</head>,
+222,37,1,---,"EpSEt, heading VII",ecce,ecce,VQQV,e.c.c.e,'/V\Q.Q/V\,_,lat,---,---,---,---,---,,,<lb/><lg n=&quot;7&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+223,37,2,---,"EpSEt, heading VII",uídeo,video,QVQVV,v.i.d.e.o,'Q/V\.Q/V\./V\,¶,lat,---,---,---,---,---,,</head>,
 224,38,1,31,"EpSEt, l. 31",Vnq[ue]s,unques,ONkəS,u.n.qu.e.s,'/O\N.k/ə\S,_,fro,ADVgen,---,onques,DMF,onques,,,<l n=&quot;31&quot;>
 225,38,2,31,"EpSEt, l. 31",p[er],per,pEr,p.e.r,p/E\r,_,fro,PRE,---,par,DMF,par,,,
 226,38,3,31,"EpSEt, l. 31",els,els,ɛLS,e.l.s,/ɛ\LS,_,fro,PRNper,6pmr,eux,DMF,eux,,,
@@ -254,7 +254,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 253,41,7,34,"EpSEt, l. 34",si,si,Si,s.i,S/i\,+,fro,ADVgen,---,si4,DMF,si4,,,
 254,41,8,34,"EpSEt, l. 34",lor,lor,Lor,l.o.r,L/o\r,+,fro,PRCper,6pmi,leur,DMF,leur,,,
 255,41,9,34,"EpSEt, l. 34",dit,dit,diT,d.i.t,d/i\T,.¶,fro,VERcjg,indpsp3,dire,DMF,dire,,</l><l n=&quot;35&quot;><gap unit=&quot;line&quot; reason=&quot;missing&quot;/></l></lg>,
-256,42,1,---,"EpSEt, heading VIII",ex_clama[n]tes,exclamantes,,,,.|¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+256,42,1,---,"EpSEt, heading VIII",ex_clama[n]tes,exclamantes,VQQLVNVQVQ,e.x.c.l.a.m.a.n.t.e.s,/V\Q.QL/V\.'N/V\.Q/V\Q,.|¶,lat,---,---,---,---,---,,</head>,<lg n=&quot;8&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
 257,43,1,36,"EpSEt, l. 36",qa[n]t,qant,kÆNT,q.a.n.t,k/Æ\NT,_,fro,CONsub,---,quand,DMF,quand,,,<lb/><l n=&quot;36&quot;>
 258,43,2,36,"EpSEt, l. 36",ce,ce,ÇE,c.e,Ç/(E)\,+,fro,PRNdem,snr,ce,DMF,ce,,,
 259,43,3,36,"EpSEt, l. 36",oirent,oirent,ɔirəNT,o.i.r.e.n.t,/ɔ\.'/i\.r/ə\NT,_,fro,VERcjg,indpsp6,ouïr,DMF,ouïr,,,
@@ -288,8 +288,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 287,47,4,40,"EpSEt, l. 40",entros,entros,ÆNtroS,e.n.t.r.o.s,/Æ\N.'tr/o\S,_,fro,ADVgen,---,entruès,DMF,entruès,,,<lb/>
 288,47,5,40,"EpSEt, l. 40",si,si,Si,s.i,S/i\,+,fro,ADVgen,---,si4,DMF,si4,,,
 289,47,6,40,"EpSEt, l. 40",lapidere[n]t,lapiderent,LApidærəNT,l.a.p.i.d.e.r.e.n.t,L/A\.p/i\.'d/æ\.r/ə\NT,.¶,fro,VERcjg,indpsp6,lapider,DMF,lapider,,</l></lg>,
-290,48,1,---,"EpSEt, heading IX",et,et,,,,+,lat,---,---,---,---,---,,,<lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-291,48,2,---,"EpSEt, heading IX",testes,testes,,,,.¶,lat,---,---,---,---,---,,</head>,
+290,48,1,---,"EpSEt, heading IX",et,et,VQ,e.t,/V\Q,+,lat,---,---,---,---,---,,,<lg n=&quot;9&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+291,48,2,---,"EpSEt, heading IX",testes,testes,QVQQVQ,t.e.s.t.e.s,'Q/V\Q.Q/V\Q,.¶,lat,---,---,---,---,---,,</head>,
 292,49,1,41,"EpSEt, l. 41",Mes,mes,mɛS,m.e.s,m/ɛ\S,_,fro,CONcoo,---,mais,DMF,mais,,,<l n=&quot;41&quot;>
 293,49,2,41,"EpSEt, l. 41",ce,ce,ÇE,c.e,Ç/(E)\,+,fro,PRNdem,snr,ce,DMF,ce,,,
 294,49,3,41,"EpSEt, l. 41",trouu[n],trovun,trovOn,t.r.o.v.u.n,tr/o\.'v/O\n,_,fro,VERcjg,indpst4,trouver,DMF,trouver,,,
@@ -328,8 +328,8 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 327,53,5,45,"EpSEt, l. 45",la,la,LA,l.a,L/(A)\,_,fro,DETdef,sfn,le,DMF,le,,,
 328,53,6,45,"EpSEt, l. 45",crestiane,crestiane,krEStiAnə,c.r.e.s.t.i.a.n.e,kr/E\S.t/i\.'/A\.n/(ə)\,_,fro,ADJqua,sfn,chrétien,DMF,chrétien,,,
 329,53,7,45,"EpSEt, l. 45",gent,gent,ʤÆNT,g.e.n.t,ʤ/Æ\NT,.¶,fro,NOMcom,sfn,gent,DMF,gent,,</l></lg>,
-330,54,1,---,"EpSEt, heading X",[et],et,,,,_,lat,---,---,---,---,---,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-331,54,2,---,"EpSEt, heading X",lapidabant,lapidabant,,,,.¶,lat,---,---,---,---,---,,</head>,
+330,54,1,---,"EpSEt, heading X",[et],et,VQ,e.t,/V\Q,_,lat,---,---,---,---,---,,,<lg n=&quot;10&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+331,54,2,---,"EpSEt, heading X",lapidabant,lapidabant,LVQVQVQVNQ,l.a.p.i.d.a.b.a.n.t,L/V\.Q/V\.'Q/V\.Q/V\NQ,.¶,lat,---,---,---,---,---,,</head>,
 332,55,1,46,"EpSEt, l. 46",lo,lo,Lo,l.o,L/(o)\,_,fro,DETdef,smr,le,DMF,le,,,<l n=&quot;46&quot;>
 333,55,2,46,"EpSEt, l. 46",baru[n],barun,bArOn,b.a.r.u.n,b/A\.'r/O\n,|,fro,NOMcom,smr,baron,DMF,baron,,,
 334,55,3,46,"EpSEt, l. 46",segue[n]t,seguent,SɛgəNT,s.e.gu.e.n.t,'S/ɛ\.g/ə\NT,_,fro,VERcjg,indpst6,suivre,DMF,suivre,,,<lb/>
@@ -364,10 +364,10 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 363,59,4,50,"EpSEt, l. 50",mo[n],mon,mOn,m.o.n,m/O\n,_,fro,DETpos,1smr,mon,DMF,mon,,,<q>
 364,59,5,50,"EpSEt, l. 50",esp[er]ite,esperite,ESpEritə,e.s.p.e.r.i.t.e,/E\S.p/E\.'r/i\.t/(ə)\,|,fro,NOMcom,smr,esprit,DMF,esprit,,,
 365,59,6,50,"EpSEt, l. 50",pre[n],pren,prÆn,p.r.e.n,pr/Æ\n,.¶,fro,VERcjg,imp---2,prendre,DMF,prendre,,</q></l></lg>,<lb/>
-366,60,1,---,"EpSEt, heading XI",positis,positis,,,,_,lat,---,---,---,---,---,,,<lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-367,60,2,---,"EpSEt, heading XI",aute[m],autem,,,,.,lat,---,---,---,---,---,,,
-368,60,3,---,"EpSEt, heading XI",d[omi]ne,domine,,,,_,lat,---,---,---,---,---,,,
-369,60,4,---,"EpSEt, heading XI",ne,ne,,,,¶,lat,---,---,---,---,---,,</head>,
+366,60,1,---,"EpSEt, heading XI",positis,positis,QVQVQVQ,p.o.s.i.t.i.s,Q/V\.'Q/V\.Q/V\Q,_,lat,---,---,---,---,---,,,<lg n=&quot;11&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+367,60,2,---,"EpSEt, heading XI",aute[m],autem,VQVN,au.t.e.m,'/V\.Q/V\N,.,lat,---,---,---,---,---,,,
+368,60,3,---,"EpSEt, heading XI",d[omi]ne,domine,QVNVNV,d.o.m.i.n.e,'Q/V\.N/V\.N/V\,_,lat,---,---,---,---,---,,,
+369,60,4,---,"EpSEt, heading XI",ne,ne,NV,n.e,N/V\,¶,lat,---,---,---,---,---,,</head>,
 370,61,1,51,"EpSEt, l. 51",qua[n]t,quant,kÆNT,qu.a.n.t,k/Æ\NT,_,fro,CONsub,---,quand,DMF,quand,,,<l n=&quot;51&quot;>
 371,61,2,51,"EpSEt, l. 51",uolt,volt,vɔLT,v.o.l.t,v/ɔ\LT,_,fro,VERcjg,indpsp3,vouloir,DMF,vouloir,,,
 372,61,3,51,"EpSEt, l. 51",fenir,fenir,fEnir,f.e.n.i.r,f/E\.'n/i\r,_,fro,VERinf,---,finir,DMF,finir,,,
@@ -403,10 +403,10 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 402,65,6,55,"EpSEt, l. 55",p[er]de[n]t,perdent,pɛrdəNT,p.e.r.d.e.n.t,'p/ɛ\r.d/ə\NT,_,fro,VERcjg,subpst6,perdre,DMF,perdre,,,
 403,65,7,55,"EpSEt, l. 55",t,t,t,t,t/\,+,fro,DETpos,2sfr,ton2,DMF,ton2,,,
 404,65,8,55,"EpSEt, l. 55",amíste,amiste,AmiStæ,a.m.i.s.t.e,/A\.m/i\S.'t/æ\,¶,fro,NOMcom,sfr,amitié,DMF,amitié,,</q></l></lg>,
-405,66,1,---,"EpSEt, heading XII",et,et,,,,_,lat,---,---,---,---,---,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
-406,66,2,---,"EpSEt, heading XII",[cum],cum,,,,_,lat,---,---,---,---,---,,,
-407,66,3,---,"EpSEt, heading XII",[hoc],hoc,,,,_,lat,---,---,---,---,---,,,
-408,66,4,---,"EpSEt, heading XII",dixisset,dixisset,,,,¶.,lat,---,---,---,---,---,,</head>,
+405,66,1,---,"EpSEt, heading XII",et,et,VQ,e.t,/V\Q,_,lat,---,---,---,---,---,,,<lg n=&quot;12&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><head xml:lang=&quot;lat&quot;>
+406,66,2,---,"EpSEt, heading XII",[cum],cum,QVN,c.u.m,Q/V\N,_,lat,---,---,---,---,---,,,
+407,66,3,---,"EpSEt, heading XII",[hoc],hoc,QVQ,h.o.c,Q/V\Q,_,lat,---,---,---,---,---,,,
+408,66,4,---,"EpSEt, heading XII",dixisset,dixisset,QVQVQQVQ,d.i.x.i.s.s.e.t,Q/V\.'Q/V\Q.Q/V\Q,¶.,lat,---,---,---,---,---,,</head>,
 409,67,1,56,"EpSEt, l. 56",A,a,A,a,/A\,+,fro,PRE,---,à,DMF,à,,,<l n=&quot;56&quot;>
 410,67,2,56,"EpSEt, l. 56",i_cest,icest,iʦeST,i.c.e.s.t,/i\.'ʦ/e\ST,_,fro,DETdem,smr,cist,DMF,cist,,,
 411,67,3,56,"EpSEt, l. 56",mot,mot,mɔT,m.o.t,m/ɔ\T,_,fro,NOMcom,smr,mot,DMF,mot,,,

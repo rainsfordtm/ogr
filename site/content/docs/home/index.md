@@ -14,7 +14,7 @@ I want to...
 * ...[read the __introduction__](/docs/presentation)
 * ...[read about the __annotation__](/docs/annotation)
 * ...[read the __texts__](/docs/texts)
-* ...[__query__ the corpus online](http://ogr-corpus.org/annis-gui-3.6.0)
+* ...[__query__ the corpus online](http://ogr-corpus.org:5712)
 * ...[__download__ the corpus](/docs/download) (TXM / TEI-P5 / ANNIS)
 
 ## Citation and License

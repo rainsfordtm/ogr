@@ -1,6 +1,6 @@
-ogrsv040	NULL	NULL	node	grid	meter (grid)	hidden	100	annos:line_ref,line_met,syll_metpos,syll_lstress,seg_phoneme,seg_matches
-ogrsv040	NULL	meter	node	tree	meter (tree)	hidden	101	terminal_name:seg_phoneme;terminal_ns:ogrsv040
-ogrsv040	NULL	NULL	node	grid	words	hidden	102	hide_tok:true;annos:line_ref,word,dipl,wd_div,lemma,lemma_dmf,pos_syn,morph
-ogrsv040	NULL	NULL	node	grid	tei	hidden	103	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_l_n/,/tei::tei_q/,/ogrsv040::word/
-ogrsv040	NULL	NULL	node	html	text (norm)	hidden	104	config:ogr-norm-basic
-ogrsv040	NULL	NULL	node	html	text (dipl)	hidden	105	config:ogr-dipl-basic
+ogrsv100	NULL	NULL	node	grid	meter (grid)	hidden	100	annos:line_ref,line_met,syll_metpos,syll_lstress,seg_phoneme,seg_matches
+ogrsv100	NULL	meter	node	tree	meter (tree)	hidden	101	terminal_name:seg_phoneme;terminal_ns:ogrsv100
+ogrsv100	NULL	NULL	node	grid	words	hidden	102	hide_tok:true;annos:line_ref,word,dipl,wd_div,lemma,lemma_dmf,pos_syn,morph
+ogrsv100	NULL	NULL	node	grid	tei	hidden	103	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_l_n/,/tei::tei_q/,/ogrsv100::word/
+ogrsv100	NULL	NULL	node	html	text (norm)	hidden	104	config:ogr-norm-basic
+ogrsv100	NULL	NULL	node	html	text (dipl)	hidden	105	config:ogr-dipl-basic

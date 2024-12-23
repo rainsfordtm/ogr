@@ -1,0 +1,20 @@
+Rules applied: R1, R20
+Lines correct: 85 of 93
+Pass history:
+Tried rules R20; 83 lines correct.
+Tried rules R1; 84 lines correct.
+Tried rules R2; 81 lines correct.
+Tried rules R1, R20; 85 lines correct.
+Tried rules R1, R2; 83 lines correct.
+Tried rules R1, R20, R2; 84 lines correct.
+OPTIMIZED LINES
+36    37     en nostre terred n oset oilset canter
+
+BAD LINES
+8    9     et chi est illi
+9    10     …rget fud de bon …ient
+10    11     si respon… …lt avenable…
+24    25     dolcor de mel apeleid mes levres
+38    38     ed por mon ami
+55    56     porud ne la fist si nn est cadeit en colped
+75    76     et ab i vint issias amos

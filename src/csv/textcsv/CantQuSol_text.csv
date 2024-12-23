@@ -46,15 +46,15 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 45,9,2,9,"CantQuSol, l. 9",chi,chi,_,ki,ch.i,k/i\,fro,PRNrel,smn,qui,DMF,qui,,,
 46,9,3,9,"CantQuSol, l. 9",est,est,_,ɛST,e.s.t,/ɛ\ST,fro,VERcjg,indpst3,être,DMF,être,,,
 47,9,4,9,"CantQuSol, l. 9",illi,illi,;|,ili,i.ll.i,/i\.'l/i\,fro,PRNper,3smn,il,DMF,il,,</q></l></lg>,
-48,10,1,10,"CantQuSol, l. 10",rget,…rget,_,,,,fro,---,---,---,---,---,,,"<add place=""margin""><lb/><lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;10&quot;><gap reason=""damage""/>"
+48,10,1,10,"CantQuSol, l. 10",rget,…rget,_,0RQVQ,….r.g.e.t,'/0\R.Q/V\Q,fro,---,---,---,---,---,,,"<add place=""margin""><lb/><lg n=&quot;4&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;10&quot;><gap reason=""damage""/>"
 49,10,2,10,"CantQuSol, l. 10",fud,fud,+,fy,f.ud,f/y\,fro,VERcjg,indpsp3,être,DMF,être,,,
 50,10,3,10,"CantQuSol, l. 10",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
 51,10,4,10,"CantQuSol, l. 10",bon,bon,|,bOn,b.o.n,b/O\n,fro,ADJqua,smr,bon,DMF,bon,,,
-52,10,5,10,"CantQuSol, l. 10",ient,…ient,_,,,,fro,---,---,---,---,---,,</l>,"<lb/><gap reason=""damage""/>"
+52,10,5,10,"CantQuSol, l. 10",ient,…ient,_,VNQ,…ie.n.t,/V\NQ,fro,---,---,---,---,---,,</l>,"<lb/><gap reason=""damage""/>"
 53,11,1,11,"CantQuSol, l. 11",si,si,+,Si,s.i,S/i\,fro,ADVgen,---,si4,DMF,si4,,,<l n=&quot;11&quot;>
-54,11,2,11,"CantQuSol, l. 11",respon,respon…,|,,,,fro,---,---,---,---,---,,,
-55,11,3,11,"CantQuSol, l. 11",lt,…lt,_,,,,fro,---,---,---,---,---,,,"<lb/><gap reason=""damage""/>"
-56,11,4,11,"CantQuSol, l. 11",auenable,avenable…,|,,,,fro,---,---,---,---,---,,"<gap reason=""damage""/></l>",
+54,11,2,11,"CantQuSol, l. 11",respon,respon…,|,RVQQVN,r.e.s.p.o.n…,R/V\Q.'Q/V\N,fro,---,---,---,---,---,,,
+55,11,3,11,"CantQuSol, l. 11",lt,…lt,_,0LQ,….l.t,/0\LT,fro,---,---,---,---,---,,,"<lb/><gap reason=""damage""/>"
+56,11,4,11,"CantQuSol, l. 11",auenable,avenable…,|,VQVNVQLV,a.v.e.n.a.b.l.e…,/V\.Q/V\.'N/V\.QL/V\,fro,---,---,---,---,---,,"<gap reason=""damage""/></l>",
 57,12,1,12,"CantQuSol, l. 12",so,so,+,So,s.o,S/o\,fro,PRE,---,sur,DMF,sur,,,<lb/><l n=&quot;12&quot;>
 58,12,2,12,"CantQuSol, l. 12",son,son,_,SOn,s.o.n,S/O\n,fro,DETpos,3smr,son4,DMF,son4,,,
 59,12,3,12,"CantQuSol, l. 12",ami,ami,;|,Ami,a.m.i,/A\.'m/i\,fro,NOMcom,smr,ami,DMF,ami,,</l></lg></add>,

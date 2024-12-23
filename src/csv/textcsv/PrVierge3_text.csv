@@ -1,7 +1,7 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,textlineid,ref,phil_note,tei_right,tei_left
-1,1,1,VERS[US],versus,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
-2,1,2,S[ANCTE],sancte,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,
-3,1,3,MARIE,marie,.|,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,</docTitle>,
+1,1,1,VERS[US],versus,_,QVRQVQ,v.e.r.s.u.s,'Q/V\R.Q/V\Q,lat,---,---,---,---,---,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
+2,1,2,S[ANCTE],sancte,_,QVNQQV,s.a.n.c.t.e,'Q/V\NQ.Q/V\,lat,---,---,---,---,---,0,"PrVierge3, title",,,
+3,1,3,MARIE,marie,.|,NVRVV,m.a.r.i.e,N/V\.'R/V\./V\,lat,---,---,---,---,---,0,"PrVierge3, title",,</docTitle>,
 4,2,1,O,o,_,O,o,/O\,pro,INJ,---,ô,DMF,ô,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
 5,2,2,maria,maria,–,mAriA,m.a.r.i.a,m/A\.'r/i\./(A)\,pro,NOMpro,sfn,Marie,wikipedia.fr,---,1,"PrVierge3, l. 1",,,
 6,2,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,pro,NOMpro,smr,dèu,DOM,Dieu,1,"PrVierge3, l. 1",,,

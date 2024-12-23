@@ -1,0 +1,9 @@
+Rules applied: 
+Lines correct: 14 of 15
+Pass history:
+Tried rules R1; 14 lines correct.
+OPTIMIZED LINES
+
+
+BAD LINES
+14    15     po y pasa bigil

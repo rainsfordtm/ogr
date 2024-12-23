@@ -1,135 +1,201 @@
 file,name,value
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,text,Alexis
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,lang,fro
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,lang_other,---
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,ms_cent,12
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,ms_origin,England
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,text_cent,11
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,text_origin,Normandy
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,title_en,Life of Saint Alexis
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,title_fr,Vie de saint Alexis
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,author,anonymous
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,form,verse
-paula/tree/Alexis/ogrsv040.Alexis.anno_feat.xml,source,ms. image
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,text,Boeci
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,lang,pro
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,lang_other,---
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,ms_cent,11..12
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,ms_origin,Burgundy
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,text_cent,11
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,text_origin,Limousin
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,title_en,Boeci fragment
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,title_fr,Fragment d'une paraphrase de Boèce
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,author,anonymous
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,ms,"Orleans, Bibliothèque municipale, 444"
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,form,verse
-paula/tree/Boeci/ogrsv040.Boeci.anno_feat.xml,source,ms. image
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,text,Eulalie
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,lang,fro
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,lang_other,---
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,ms_cent,9
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,ms_origin,Hainaut
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,text_cent,9
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,text_origin,Hainaut
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,title_en,Sequence of Saint Eulalia
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,title_fr,Séquence de sainte Eulalie
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,author,anonymous
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,ms,"Valenciennes, Bibliothèque municipale, 150"
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,form,verse
-paula/tree/Eulalie/ogrsv040.Eulalie.anno_feat.xml,source,ms. image
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,text,Passion
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,lang,fro
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,lang_other,---
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,ms_cent,10..11
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,ms_origin,Limousin [?]
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,text_cent,10
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,text_origin,Poitou
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,title_en,Passion of Clermont
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,title_fr,Passion du Christ
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,author,anonymous
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,form,verse
-paula/tree/Passion/ogrsv040.Passion.anno_feat.xml,source,transcription
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,text,PrDieu
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,lang,pro
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,lang_other,---
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,ms_cent,11..12
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,ms_origin,Limousin
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,text_cent,11..12
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,text_origin,Limousin
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,title_en,Prayer to God in verse (Te Autem)
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,title_fr,Prière à Dieu en vers (Te Autem)
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,author,anonymous
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,form,verse
-paula/tree/PrDieu/ogrsv040.PrDieu.anno_feat.xml,source,ms. image
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,text,PrVierge2
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,lang,pro
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,lang_other,lat
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,ms_cent,11..12
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,ms_origin,Limousin
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,text_cent,11..12
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,text_origin,Limousin
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,title_en,Prayer to the Virgin in verse (Mei amic e mei fiel...)
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,title_fr,Prière à la Vierge en vers (Mei amic e mei fiel...)
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,author,anonymous
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,form,verse
-paula/tree/PrVierge2/ogrsv040.PrVierge2.anno_feat.xml,source,ms. image
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,text,PrVierge3
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,lang,pro
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,lang_other,---
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,ms_cent,11..12
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,ms_origin,Limousin
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,text_cent,11..12
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,text_origin,Limousin
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,title_en,Prayer to the Virgin in verse (Versus sancte Marie)
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,title_fr,Prière à la Vierge en vers (Versus sancte Marie)
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,author,anonymous
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,form,verse
-paula/tree/PrVierge3/ogrsv040.PrVierge3.anno_feat.xml,source,ms. image
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,text,SFoi
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,lang,pro
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,lang_other,---
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,ms_cent,11..12
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,ms_origin,Burgundy
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,text_cent,11
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,text_origin,between Narbonne and the Pyrenees
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,title_en,Song of Saint Faith
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,title_fr,Chanson de sainte Foi
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,author,anonymous
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,ms,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,form,verse
-paula/tree/SFoi/ogrsv040.SFoi.anno_feat.xml,source,ms. image
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,text,SLeger
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,lang,fro
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,lang_other,---
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,ms_cent,10..11
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,ms_origin,Limousin [?]
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,text_cent,10
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,text_origin,Picardy|Wallonia [?]
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,title_en,Life of Saint Leger
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,title_fr,Vie de saint Léger
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,author,anonymous
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,form,verse
-paula/tree/SLeger/ogrsv040.SLeger.anno_feat.xml,source,transcription
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,text,Spons
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,lang,pro
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,lang_other,lat
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,ms_cent,11..12
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,ms_origin,Limousin
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,text_cent,11
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,text_origin,Poitou [?]
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,title_en,Sponsus
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,title_fr,Sponsus
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,form,verse
-paula/tree/Spons/ogrsv040.Spons.anno_feat.xml,source,ms. image
-paula/tree/ogrsv040.meta_multiFeat.xml,name,"Old Gallo-Romance (OGR) Corpus, ANNIS edition"
-paula/tree/ogrsv040.meta_multiFeat.xml,creator,T. M. Rainsford
-paula/tree/ogrsv040.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de
-paula/tree/ogrsv040.meta_multiFeat.xml,website,http://www.ogr-corpus.org
-paula/tree/ogrsv040.meta_multiFeat.xml,citation,"Rainsford, Thomas M. 2022. Old Gallo-Romance Corpus: ANNIS edition, version 0.4. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>"
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,title_fr,Séquence de sainte Eulalie
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,title_en,Sequence of Saint Eulalia
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,author,anonymous
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,ms,"Valenciennes, Bibliothèque municipale, 150"
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,ms_origin,Hainaut
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,ms_cent,9
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b84526286/f288.item
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,text_cent,9
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,text_origin,Hainaut
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,source,ms. image
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,form,verse
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,lang,fro
+paula/tree/Eulalie/ogrsv100.Eulalie.anno_feat.xml,lang_other,---
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,title_fr,Aube bilingue
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,title_en,Bilingual Alba
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,author,anonymous
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,ms,"Rome, Biblioteca Apostolica Vaticana, Reginae lat. 1462"
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,ms_origin,Burgundy
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,ms_cent,10..11
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,ms_uri,---
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,text_cent,10
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,text_origin,southern France
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,source,transcription
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,form,verse
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,lang,pro
+paula/tree/Alba/ogrsv100.Alba.anno_feat.xml,lang_other,lat
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,title_fr,"Poème sur la Passion, manuscrit d'Augsburg"
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,title_en,"Passion poem, Augsburg manuscript"
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,author,anonymous
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,ms,"Augsburg, Stadtarchiv, Urkundensammlung no. 5"
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,ms_origin,Alsace
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,ms_cent,10
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,ms_uri,---
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,text_cent,10
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,text_origin,northern France
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,source,transcription
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,form,verse
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,lang,fro
+paula/tree/PassAugsb/ogrsv100.PassAugsb.anno_feat.xml,lang_other,---
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,title_fr,Vie de saint Léger
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,title_en,Life of Saint Leger
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,author,anonymous
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,ms_origin,Limousin [?]
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,ms_cent,10..11
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,ms_uri,http://www.ogr-corpus.org/docs/ms240-159v
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,text_cent,10
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,text_origin,Picardy|Wallonia [?]
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,source,ms. image
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,form,verse
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,lang,fro
+paula/tree/SLeger/ogrsv100.SLeger.anno_feat.xml,lang_other,---
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,title_fr,Passion du Christ
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,title_en,Passion of Clermont
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,author,anonymous
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,ms,"Clermont-Ferrand, Bibliothèque municipale, 240"
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,ms_origin,Limousin [?]
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,ms_cent,10..11
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,ms_uri,http://www.ogr-corpus.org/docs/ms240-109v
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,text_cent,10
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,text_origin,Poitou
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,source,ms. image
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,form,verse
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,lang,fro
+paula/tree/Passion/ogrsv100.Passion.anno_feat.xml,lang_other,---
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,title_fr,Sponsus
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,title_en,Sponsus
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,author,anonymous
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,ms_origin,Limousin
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,ms_cent,11..12
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b10540990d/f333.item
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,text_cent,11
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,text_origin,Poitou [?]
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,source,ms. image
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,form,verse
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,lang,pro
+paula/tree/Spons/ogrsv100.Spons.anno_feat.xml,lang_other,lat
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,title_fr,Prière à Dieu en vers (Te Autem)
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,title_en,Prayer to God in verse (Te Autem)
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,author,anonymous
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,ms_origin,Limousin
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,ms_cent,11..12
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b10540990d/f333.item
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,text_cent,11..12
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,text_origin,Limousin
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,source,ms. image
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,form,verse
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,lang,pro
+paula/tree/PrDieu/ogrsv100.PrDieu.anno_feat.xml,lang_other,---
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,title_fr,Prière à la Vierge en vers (Mei amic e mei fiel...)
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,title_en,Prayer to the Virgin in verse (Mei amic e mei fiel...)
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,author,anonymous
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,ms_origin,Limousin
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,ms_cent,11..12
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,text_cent,11..12
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,text_origin,Limousin
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,source,ms. image
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,form,verse
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,lang,pro
+paula/tree/PrVierge2/ogrsv100.PrVierge2.anno_feat.xml,lang_other,lat
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,title_fr,Prière à la Vierge en vers (Versus sancte Marie)
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,title_en,Prayer to the Virgin in verse (Versus sancte Marie)
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,author,anonymous
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 1139"
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,ms_origin,Limousin
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,ms_cent,11..12
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,text_cent,11..12
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,text_origin,Limousin
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,source,ms. image
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,form,verse
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,lang,pro
+paula/tree/PrVierge3/ogrsv100.PrVierge3.anno_feat.xml,lang_other,---
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,title_fr,Chanson de sainte Foi
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,title_en,Song of Saint Faith
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,author,anonymous
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,ms,"Leiden, Universiteitsbibliotheek, Vossiani lartini in-octavo 60"
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,ms_origin,Burgundy
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,ms_cent,11..12
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,ms_uri,http://hdl.handle.net/1887.1/item:4143579
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,text_cent,11
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,text_origin,between Narbonne and the Pyrenees
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,source,ms. image
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,form,verse
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,lang,pro
+paula/tree/SFoi/ogrsv100.SFoi.anno_feat.xml,lang_other,---
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,title_fr,Fragment d'une paraphrase de Boèce
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,title_en,Boeci fragment
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,author,anonymous
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,ms,"Orleans, Bibliothèque municipale, 444"
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,ms_origin,Burgundy
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,ms_cent,11..12
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,ms_uri,https://mediatheques.orleans.fr/recherche/viewnotice/id_sigb/259634/id_int_bib/3
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,text_cent,11
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,text_origin,Limousin
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,source,ms. image
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,form,verse
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,lang,pro
+paula/tree/Boeci/ogrsv100.Boeci.anno_feat.xml,lang_other,---
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,title_fr,Fragment d'un Roman d'Alexandre
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,title_en,Fragment of a Romance of Alexander
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,author,Alberic de Besançon
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,ms,"Florence, Biblioteca Laurenziana, plut. LXIV, Cod. 35"
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,ms_origin,Franco-Provençal region
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,ms_cent,12
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,ms_uri,https://tecabml.contentdm.oclc.org/digital/collection/plutei/id/1296876/rec/1
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,text_cent,12
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,text_origin,Franche-Comté
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,source,ms. image
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,form,verse
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,lang,fro
+paula/tree/AlexAlb/ogrsv100.AlexAlb.anno_feat.xml,lang_other,---
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,title_fr,Vie de saint Alexis
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,title_en,Life of Saint Alexis
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,author,anonymous
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,ms,"Hildesheim, Sankt Godehardi"
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,ms_origin,England
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,ms_cent,12
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,ms_uri,https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,text_cent,11
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,text_origin,Normandy
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,source,ms. image
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,form,verse
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,lang,fro
+paula/tree/Alexis/ogrsv100.Alexis.anno_feat.xml,lang_other,---
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,title_fr,Épître de saint Étienne
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,title_en,Epistle of St. Steven
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,author,anonymous
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,ms,"Tours, Bibliothèque du Petit Séminaire, Missel sans cote"
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,ms_origin,Touraine
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,ms_cent,12
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,ms_uri,https://arca.irht.cnrs.fr/ark:/63955/rt1lw98cosqf
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,text_cent,12
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,text_origin,Touraine
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,source,ms. image
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,form,verse
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,lang,fro
+paula/tree/EpSEt/ogrsv100.EpSEt.anno_feat.xml,lang_other,lat
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,title_fr,Paraphrase de la Cantique des Cantiques (Quant li solleiz...)
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,title_en,Paraphrase of the Song of Songs (Quant li solleiz...)
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,author,anonymous
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,ms,"Paris, Bibliothèque nationale, lat. 2297"
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,ms_origin,north-west France
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,ms_cent,12
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,ms_uri,https://gallica.bnf.fr/ark:/12148/btv1b8427444b/f192.item
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,text_cent,12
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,text_origin,Normandy
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,source,ms. image
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,form,verse
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,lang,fro
+paula/tree/CantQuSol/ogrsv100.CantQuSol.anno_feat.xml,lang_other,---
+paula/tree/ogrsv100.meta_multiFeat.xml,name,"Old Gallo-Romance (OGR) Corpus version 1.0, ANNIS edition"
+paula/tree/ogrsv100.meta_multiFeat.xml,creator,Thomas Rainsford
+paula/tree/ogrsv100.meta_multiFeat.xml,email,thomas.rainsford@ling.uni-stuttgart.de
+paula/tree/ogrsv100.meta_multiFeat.xml,website,http://www.ogr-corpus.org
+paula/tree/ogrsv100.meta_multiFeat.xml,citation,"Rainsford, Thomas M. 2025. Old Gallo-Romance Corpus: ANNIS edition, version 1.0. Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>"

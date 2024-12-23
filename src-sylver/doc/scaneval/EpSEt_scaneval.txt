@@ -1,0 +1,33 @@
+Rules applied: R1
+Lines correct: 49 of 71
+Pass history:
+Tried rules R20; 47 lines correct.
+Tried rules R1; 49 lines correct.
+Tried rules R2; 46 lines correct.
+Tried rules R1, R20; 49 lines correct.
+Tried rules R1, R2; 48 lines correct.
+OPTIMIZED LINES
+15    13     il a deable qui parole en lui
+67    57     s erme recut jhesum que il a servi
+70    60     que il prie de qui il ait de nos merci
+
+BAD LINES
+4    4     escotet la par bennen entenciun
+6    ---     in diebus illis stephanus
+7    6     seint estevres fut plains de grant bonte
+8    7     ama tot cels qui creinent en de
+10    9     a s cuntrat et a s ces a tot dona sante
+11    10     por ce haierent autens li jue
+12    ---     surreserunt
+14    12     distrent ensemble mauveis mes cetui
+18    ---     et non poterant
+24    ---     audientes
+30    ---     cum autem esset
+36    ---     ecce video
+38    32     per nule chose que negunt li deit
+41    ---     exclamantes
+47    ---     et testes
+49    42     mistrent lor dras cil qui le segueient
+53    ---     et lapidabant
+59    ---     positis autem domine ne
+65    ---     et cum hoc dixisset
