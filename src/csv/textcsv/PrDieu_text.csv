@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,TU,tu,_,,,,lat,---,---,---,---,---,"PrDieu, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;44r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f95.item&quot;/><lb/><docTitle lang=&quot;lat&quot;>
+1,1,1,TU,tu,_,,,,lat,---,---,---,---,---,"PrDieu, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;44r&quot;/><lb/><docTitle lang=&quot;lat&quot;>
 2,1,2,AUTEM,autem,.|,,,,lat,---,---,---,---,---,"PrDieu, title",,</docTitle>,
 3,2,1,Be,be,_,be,b.e,b/e\,pro,ADVgen,---,béN,DOM,bien,"PrDieu, l. 1",,,<lb/><lg type=&quot;stanza&quot; rhyme=&quot;aaaaaa&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
 4,2,2,deu,deu,.,dɛu,d.e.u,d/ɛ\u,pro,VERcjg,indpst3,devér,DOM,devoir2,"PrDieu, l. 1",,,

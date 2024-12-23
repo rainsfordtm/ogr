@@ -20,7 +20,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 19,4,5,4,"ChansLas, stanza 1, l.4",baser,baser,bAzɛr,b.a.s.e.r,b/A\.'z/ɛ\r,_,fro,VERinf,---,baiser2,DMF,baiser2,,</l>,
 20,5,1,5,"ChansLas, stanza 1, l.5",dus,dus,doS,d.u.s,d/o\S,+,fro,ADJqua,snn,doux,DMF,doux,word_Moelk96:48,,<l n=&quot;5&quot;>
 21,5,2,5,"ChansLas, stanza 1, l.5",si|rie,sirie,SiriE,s.i.r.i.e,S/i\.'r/iE\,_,fro,VERcjg,con---3,être,DMF,être,word_Moelk96:48,,
-22,5,3,5,"ChansLas, stanza 1, l.5",repasar,repasar,rEpAzɛr,r.e.p.a.s.a.r,r/E\.p/A\.'z/ɛ\r,+,fro,VERinf,---,repaisier,DMF,repaisier,lemma_Moelk96:48,,
+22,5,3,5,"ChansLas, stanza 1, l.5",repasar,repasar,rEpAzɛr,r.e.p.a.s.a.r,r/E\.p/A\.'z/ɛ\r,+,fro,VERinf,---,repaisier,DMF,repaisier,lemma_Moelk96:48,,<lb/>
 23,5,4,5,"ChansLas, stanza 1, l.5",tu,tu,to,t.u,t/o\,_,fro,DETind,smr,tout,DMF,tout,,,
 24,5,5,5,"ChansLas, stanza 1, l.5",dulur,dulur,dolor,d.u.l.u.r,d/o\.'l/o\r,.–|,fro,NOMcom,smr,douleur,DMF,douleur,morph_Lazzerini93:131,</l></lg></div>,
 25,6,1,6,"ChansLas, stanza 2, l.1",Sacramente,sacramente,QVQRVNVNQV,s.a.c.r.a.m.e.n.t.e,Q/V\.QR/V\.'N/V\N.Q/V\,_,---,---,---,---,---,---,,,<lb/><div type=&quot;song&quot; n=&quot;2&quot;><lg type=&quot;stanza&quot;><l n=&quot;1&quot;>
@@ -34,7 +34,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 33,8,3,8,"ChansLas, stanza 2, l.3",edent,...edent,,,,_,---,---,---,---,---,---,,</l>,
 34,9,1,9,"ChansLas, stanza 2, l.4",p[er],per,QVR,p.e.r,Q/V\R,_,---,---,---,---,---,---,,,<l n=&quot;4&quot;>
 35,9,2,9,"ChansLas, stanza 2, l.4",amor,amor,VNVR,a.m.o.r,/V\.'N/V\R,|,---,---,---,---,---,---,,</l>,
-36,10,1,10,"ChansLas, stanza 2, l.5",inclusi,inclusi,VNQLVQV,i.n.c.l.u.s.i,/V\N.'QL/V\.Q/V\,_,---,---,---,---,---,---,,,<l n=&quot;5&quot;>
+36,10,1,10,"ChansLas, stanza 2, l.5",inclusi,inclusi,VNQLVQV,i.n.c.l.u.s.i,/V\N.'QL/V\.Q/V\,_,---,---,---,---,---,---,,,<lb/><l n=&quot;5&quot;>
 37,10,2,10,"ChansLas, stanza 2, l.5",schevaler,schevaler,ċEvAlɛr,sch.e.v.a.l.e.r,ċ/E\.v/A\.'l/ɛ\r,_,fro,NOMcom,---,chevalier,DMF,chevalier,,,
 38,10,3,10,"ChansLas, stanza 2, l.5",iuch,juch,ʤyċ,j.u.ch,ʤ/y\ċ,_,fro,---,---,---,---,---,lemma_Moelk96:50,,
 39,10,4,10,"ChansLas, stanza 2, l.5",tradur,tradur,trAdor,t.r.a.d.u.r,tr/A\.'d/o\r,_,fro,NOMcom,---,traître,DMF,traître,lemma_Moelk96:50,</l></lg></div></body></text>,

@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,para_id,syntag,syntag2,lemma,lemma_src,lemma_dmf,pos,morph,ref,tei_right,tei_left
-1,1,1,Lodhu_uic[us],lodhuuicus,,,,_,lat,1,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 3",,<text><body><pb facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b84238417/f29.item&quot; n=&quot;13r&quot;/><cb n=&quot;b&quot;/><lb n=&quot;3&quot;/><p xml:lang=&quot;lat&quot;><s>
+1,1,1,Lodhu_uic[us],lodhuuicus,,,,_,lat,1,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 3",,<text><body><pb n=&quot;13r&quot;/><cb n=&quot;b&quot;/><lb n=&quot;3&quot;/><p xml:lang=&quot;lat&quot;><s>
 2,1,2,q[uonia]m,quoniam,,,,_,lat,1,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 3",,
 3,1,3,maior,maior,,,,_,lat,1,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 3",,
 4,1,4,natu,natu,,,,_,lat,1,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 3",,
@@ -218,7 +218,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,para_id,sy
 217,31,5,Teudisca,teudisca,,,,_,lat,4,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 33",,<p xml:lang=&quot;lat&quot;><s>
 218,31,6,aut[em],autem,,,,_,lat,4,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 33",,
 219,31,7,lingua,lingua,,,,.|,lat,4,Etr,Etr,---,---,---,---,---,"Serments, 13r, col. b, l. 33",</s></p>,
-220,32,1,Oba,oba,,,,_,goh,5,Etr,Etr,---,---,---,---,---,"Serments, 13v, col. a, l. 1",,<pb facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b84238417/f30.item&quot; n=&quot;13v&quot;/><cb n=&quot;a&quot;/><lb n=&quot;1&quot;/><p><q><s xml:lang=&quot;goh&quot;>
+220,32,1,Oba,oba,,,,_,goh,5,Etr,Etr,---,---,---,---,---,"Serments, 13v, col. a, l. 1",,<pb n=&quot;13v&quot;/><cb n=&quot;a&quot;/><lb n=&quot;1&quot;/><p><q><s xml:lang=&quot;goh&quot;>
 221,32,2,karl,karl,,,,_,goh,5,Etr,Etr,---,---,---,---,---,"Serments, 13v, col. a, l. 1",,
 222,32,3,then,then,,,,+,goh,5,Etr,Etr,---,---,---,---,---,"Serments, 13v, col. a, l. 1",,
 223,32,4,eid,eid,,,,.,goh,5,Etr,Etr,---,---,---,---,---,"Serments, 13v, col. a, l. 1",,

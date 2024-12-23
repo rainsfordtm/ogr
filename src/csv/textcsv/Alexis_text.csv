@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid,pos,morph,lemma,lemma_src,lemma_dmf,ref,tei_right,tei_left
-1,1,1,B_ons,bons,bONS,b.o.n.s,b/O\NS,_,fro,1,ADJqua,smn,bon,DMF,bon,"Alexis, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans058.shtml&quot; n=&quot;27v&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;1&quot;>
+1,1,1,B_ons,bons,bONS,b.o.n.s,b/O\NS,_,fro,1,ADJqua,smn,bon,DMF,bon,"Alexis, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;27v&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;1&quot;>
 2,1,2,fut,fut,fyð,f.u.t,f/y\ð,_,fro,1,VERcjg,indpsp3,être,DMF,être,"Alexis, l. 1",,
 3,1,3,li,li,Li,l.i,L/i\,+,fro,1,DETdef,smn,le,DMF,le,"Alexis, l. 1",,
 4,1,4,secles,secles,SekLəS,s.e.c.l.e.s,'S/e\.kL/ə\S,_,fro,1,NOMcom,smn,siècle,DMF,siècle,"Alexis, l. 1",,
@@ -369,7 +369,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 368,49,7,ne,ne,nE,n.e,n/(E)\,_,fro,49,ADVneg,---,ne,DMF,ne,"Alexis, l. 49",,
 369,49,8,uolsist,volsist,vuLsiST,v.o.l.s.i.s.t,v/u\L.'s/i\ST,_,fro,49,VERcjg,subipf3,vouloir,DMF,vouloir,"Alexis, l. 49",,
 370,49,9,nient,nient,niENT,n.i.e.n.t,n/i\.'/E\NT,|,fro,49,PRNind,smr,néant,DMF,néant,"Alexis, l. 49",</l>,
-371,50,1,de,de,dE,d.e,d/(E)\,+,fro,50,PRE,---,de,DMF,de,"Alexis, l. 50",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans059.shtml&quot; n=&quot;30r&quot;/><lb/><l n=&quot;50&quot;>
+371,50,1,de,de,dE,d.e,d/(E)\,+,fro,50,PRE,---,de,DMF,de,"Alexis, l. 50",,<pb n=&quot;30r&quot;/><lb/><l n=&quot;50&quot;>
 372,50,2,tut,tut,tuT,t.u.t,t/u\T,_,fro,50,PRNind,smr,tout,DMF,tout,"Alexis, l. 50",,
 373,50,3,an,an,ÆN,a.n,/Æ\N,+,fro,50,PRE,---,en,DMF,en,"Alexis, l. 50",,
 374,50,4,tut,tut,tuT,t.u.t,t/u\T,_,fro,50,PRNind,smr,tout,DMF,tout,"Alexis, l. 50",,
@@ -828,7 +828,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 827,108,3,la,la,La,l.a,L/(a)\,+,fro,108,DETdef,sfn,le,DMF,le,"Alexis, l. 108",,
 828,108,4,spuse,spuse,Spuzə,s.p.u.s.e,'Sp/u\.z/(ə)\,_,fro,108,NOMcom,sfn,épouse,DMF,épouse,"Alexis, l. 108",,
 829,108,5,pechet,pechet,pEċeð,p.e.ch.e.t,p/E\.'ċ/e\ð,|,fro,108,NOMcom,smr,péché,DMF,péché,"Alexis, l. 108",,<q>
-830,108,6,le,le,LE,l.e,L/(E)\,_,fro,108,PRCper,3sma,le,DMF,le,"Alexis, l. 108",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans060.shtml&quot; n=&quot;30v&quot;/><lb/>
+830,108,6,le,le,LE,l.e,L/(E)\,_,fro,108,PRCper,3sma,le,DMF,le,"Alexis, l. 108",,<pb n=&quot;30v&quot;/><lb/>
 831,108,7,m,m,m,m,m/\,+,fro,108,PRCper,1sfr,me,DMF,me,"Alexis, l. 108",,
 832,108,8,at,at,að,a.t,/a\ð,_,fro,108,VERcjg,indpst3,avoir,DMF,avoir,"Alexis, l. 108",,
 833,108,9,tolut,tolut,tOLyð,t.o.l.u.t,t/O\.'L/y\ð,.,fro,108,VERppe,smr,tolir,DMF,tolir,"Alexis, l. 108",</q></l>,
@@ -1338,7 +1338,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1337,172,7,[et],et,eð,e.t,/e\ð,_,fro,172,CONcoo,---,et,DMF,et,"Alexis, l. 172",,
 1338,172,8,a,a,a,a,/a\,+,fro,172,PRE,---,à,DMF,à,"Alexis, l. 172",,
 1339,172,9,gret,gret,græð,g.r.e.t,gr/æ\ð,|,fro,172,NOMcom,smr,gré,DMF,gré,"Alexis, l. 172",</q></l>,
-1340,173,1,[et],et,eð,e.t,/e\ð,_,fro,173,CONcoo,---,et,DMF,et,"Alexis, l. 173",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans061.shtml&quot; n=&quot;31r&quot;/><lb/><l n=&quot;173&quot;><q>
+1340,173,1,[et],et,eð,e.t,/e\ð,_,fro,173,CONcoo,---,et,DMF,et,"Alexis, l. 173",,<pb n=&quot;31r&quot;/><lb/><l n=&quot;173&quot;><q>
 1341,173,2,il,il,iL,i.l,/i\L,_,fro,173,PRNper,3smn,il,DMF,il,"Alexis, l. 173",,
 1342,173,3,est,est,EST,e.s.t,/E\ST,_,fro,173,VERcjg,indpst3,être,DMF,être,"Alexis, l. 173",,
 1343,173,4,dignes,dignes,diɲəS,d.i.gn.e.s,'d/i\.ɲ/ə\S,_,fro,173,ADJqua,smn,digne,DMF,digne,"Alexis, l. 173",,
@@ -1841,7 +1841,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 1840,232,8,reposer,reposer,rEpɔzær,r.e.p.o.s.e.r,r/E\.p/ɔ\.'z/æ\r,.,fro,232,VERinf,---,reposer,DMF,reposer,"Alexis, l. 232",</l>,
 1841,233,1,tut,tut,tuT,t.u.t,t/u\T,_,fro,233,PRNind,smr,tout,DMF,tout,"Alexis, l. 233",,<l n=&quot;233&quot;>
 1842,233,2,li,li,Li,l.i,L/i\,|,fro,233,PRCper,3smi,li,DMF,li,"Alexis, l. 233",,
-1843,233,3,amanuet,amanvet,AmANvəð,a.m.a.n.v.e.t,/A\.'m/A\N.v/ə\ð,_,fro,233,VERcjg,indpst3,amanevir,DMF,amanevir,"Alexis, l. 233",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans062.shtml&quot; n=&quot;31v&quot;/><lb/>
+1843,233,3,amanuet,amanvet,AmANvəð,a.m.a.n.v.e.t,/A\.'m/A\N.v/ə\ð,_,fro,233,VERcjg,indpst3,amanevir,DMF,amanevir,"Alexis, l. 233",,<pb n=&quot;31v&quot;/><lb/>
 1844,233,4,quanqu[e],quanque,kANkə,qu.a.n.qu.e,'k/A\N.k/(ə)\,_,fro,233,PRNrel,snn,quanque,DMF,quanque,"Alexis, l. 233",,
 1845,233,5,bosuinz,bosuinz,buzOiNÇ,b.o.s.u.i.n.z,b/u\.'z/O\iNÇ,_,fro,233,NOMcom,smn,besoin,DMF,besoin,"Alexis, l. 233",,
 1846,233,6,li,li,Li,l.i,L/i\,+,fro,233,PRCper,3smi,li,DMF,li,"Alexis, l. 233",,
@@ -2304,7 +2304,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2303,293,1,En,en,ÆN,e.n,/Æ\N,+,fro,296,PRE,---,en,DMF,en,"Alexis, l. 296",,<lg n=&quot;60&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;296&quot;>
 2304,293,2,l,l,L,l,L/\,+,fro,296,DETdef,sfr,le,DMF,le,"Alexis, l. 296",,
 2305,293,3,altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/(ə)\,|,fro,296,ADJind,sfr,autre,DMF,autre,"Alexis, l. 296",,
-2306,293,4,uoiz,voiz,vuiÇ,v.o.i.z,v/u\iÇ,_,fro,296,NOMcom,sfr,voix,DMF,voix,"Alexis, l. 296",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans063.shtml&quot; n=&quot;32r&quot;/><lb/>
+2306,293,4,uoiz,voiz,vuiÇ,v.o.i.z,v/u\iÇ,_,fro,296,NOMcom,sfr,voix,DMF,voix,"Alexis, l. 296",,<pb n=&quot;32r&quot;/><lb/>
 2307,293,5,lur,lur,Lur,l.u.r,L/u\r,_,fro,296,PRCper,3pmi,leur,DMF,leur,"Alexis, l. 296",,
 2308,293,6,dist,dist,diST,d.i.s.t,d/i\ST,_,fro,296,VERcjg,indpst3|indpsp3,dire,DMF,dire,"Alexis, l. 296",,
 2309,293,7,altra,altra,aLtrə,a.l.t.r.a,'/a\L.tr/(ə)\,_,fro,296,DETind,sfr,autre,DMF,autre,"Alexis, l. 296",,
@@ -2758,7 +2758,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2757,354,2,lur,lur,Lur,l.u.r,L/u\r,_,fro,358,DETpos,6pmr,leur2,DMF,leur2,"Alexis, l. 358",,
 2758,354,3,cors,cors,kɔrS,c.o.r.s,k/ɔ\rS,_,fro,358,NOMcom,pmr,corps,DMF,corps,"Alexis, l. 358",,
 2759,354,4,en,en,ÆN,e.n,/Æ\N,|,fro,358,PRE,---,en,DMF,en,"Alexis, l. 358",,
-2760,354,5,granz,granz,grANTS,g.r.a.n.z.,gr/A\NTS,_,fro,358,ADJqua,pfr,grand,DMF,grand,"Alexis, l. 358",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans064.shtml&quot; n=&quot;32v&quot;/><lb/>
+2760,354,5,granz,granz,grANTS,g.r.a.n.z.,gr/A\NTS,_,fro,358,ADJqua,pfr,grand,DMF,grand,"Alexis, l. 358",,<pb n=&quot;32v&quot;/><lb/>
 2761,354,6,afflictiuns,afflictiuns,AfLiktiONS,a.ff.l.i.c.t.i.u.n.s,/A\.fL/i\k.t/i\.'/O\NS,.,fro,358,NOMcom,pfr,affliction,DMF,affliction,"Alexis, l. 358",</l>,
 2762,355,1,Mercit,mercit,mErÇið,m.e.r.c.i.t,m/E\r.'Ç/i\ð,_,fro,359,NOMcom,sfr,merci,DMF,merci,"Alexis, l. 359",,<l n=&quot;359&quot;><q>
 2763,355,2,mercit,mercit,mErÇið,m.e.r.c.i.t,m/E\r.'Ç/i\ð,_,fro,359,NOMcom,sfr,merci,DMF,merci,"Alexis, l. 359",,
@@ -3237,7 +3237,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3236,418,6,l,l,L,l,L/\,+,fro,422,PRCper,3sma,le,DMF,le,"Alexis, l. 422",,
 3237,418,7,antendit,antendit,ÆNtÆNdið,a.n.t.e.n.d.i.t,/Æ\N.t/Æ\N.'d/i\ð,_,fro,422,VERcjg,indpsp3,entendre,DMF,entendre,"Alexis, l. 422",,
 3238,418,8,la,la,La,l.a,L/(a)\,|,fro,422,DETdef,sfn,le,DMF,le,"Alexis, l. 422",,
-3239,418,9,medre,medre,mæðrə,m.e.d.r.e,'m/æ\.ðr/(ə)\,.,fro,422,NOMcom,sfn,mère,DMF,mère,"Alexis, l. 422",</l>,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans065.shtml&quot; n=&quot;33r&quot;/><lb/>
+3239,418,9,medre,medre,mæðrə,m.e.d.r.e,'m/æ\.ðr/(ə)\,.,fro,422,NOMcom,sfn,mère,DMF,mère,"Alexis, l. 422",</l>,<pb n=&quot;33r&quot;/><lb/>
 3240,419,1,la,la,La,l.a,L/a\,+,fro,423,ADVgen,---,là,DMF,là,"Alexis, l. 423",,<l n=&quot;423&quot;>
 3241,419,2,uint,vint,viNT,v.i.n.t,v/i\NT,_,fro,423,VERcjg,indpsp3,venir,DMF,venir,"Alexis, l. 423",,
 3242,419,3,curante,curante,kurANtə,c.u.r.a.n.t.e,k/u\.'r/A\N.t/(ə)\,_,fro,423,VERppa,sfn,courir,DMF,courir,"Alexis, l. 423",,
@@ -3702,7 +3702,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 3701,480,5,que,que,kE,qu.e,k/(E)\,_,fro,485,CONsub,---,que,DMF,que,"Alexis, l. 485",,
 3702,480,6,morte,morte,mɔrtə,m.o.r.t.e,'m/ɔ\r.t/(ə)\,_,fro,485,VERppe,sfn,mourir,DMF,mourir,"Alexis, l. 485",,
 3703,480,7,fusse,fusse,fysə,f.u.ss.e,'f/y\.s/(ə)\,.|,fro,485,VERcjg,subipf1,être,DMF,être,"Alexis, l. 485",</q></l></lg>,
-3704,481,1,Se,se,SE,s.e,S/(E)\,_,fro,486,CONsub,---,si3,DMF,si3,"Alexis, l. 486",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans066.shtml&quot; n=&quot;33v&quot;/><lb/><lg n=&quot;98&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;486&quot;><q>
+3704,481,1,Se,se,SE,s.e,S/(E)\,_,fro,486,CONsub,---,si3,DMF,si3,"Alexis, l. 486",,<pb n=&quot;33v&quot;/><lb/><lg n=&quot;98&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;486&quot;><q>
 3705,481,2,io,jo,ʤO,j.o,ʤ/O\,_,fro,486,PRNper,1sfn,je,DMF,je,"Alexis, l. 486",,
 3706,481,3,sousse,sousse,SOysə,s.o.u.ss.e,S/O\.'/y\.s/(ə)\,_,fro,486,VERcjg,subipf1,savoir,DMF,savoir,"Alexis, l. 486",,
 3707,481,4,la,la,La,l.a,L/a\,_,fro,486,ADVgen,---,là,DMF,là,"Alexis, l. 486",,
@@ -4212,7 +4212,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4211,544,4,la,la,La,l.a,L/(a)\,+,fro,549,DETdef,sfr,le,DMF,le,"Alexis, l. 549",,
 4212,544,5,sainte,sainte,SAiNtə,s.a.i.n.t.e,'S/A\iN.t/(ə)\,_,fro,549,ADJqua,sfr,saint,DMF,saint,"Alexis, l. 549",,
 4213,544,6,t[ri]nitet,trinitet,trinitæð,t.r.i.n.i.t.e.t,tr/i\.n/i\.'t/æ\ð,|,fro,549,NOMcom,sfr,trinité,DMF,trinité,"Alexis, l. 549",</l>,
-4214,545,1,que,que,kE,qu.e,k/(E)\,_,fro,550,CONsub,---,que,DMF,que,"Alexis, l. 550",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans067.shtml&quot; n=&quot;34r&quot;/><lb/><l n=&quot;550&quot;>
+4214,545,1,que,que,kE,qu.e,k/(E)\,_,fro,550,CONsub,---,que,DMF,que,"Alexis, l. 550",,<pb n=&quot;34r&quot;/><lb/><l n=&quot;550&quot;>
 4215,545,2,deu,deu,dæu,d.e.u,d/æ\u,_,fro,550,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 550",,
 4216,545,3,ansemble,ansemble,ÆNSENbLə,a.n.s.e.m.b.l.e,/Æ\N.'S/E\N.bL/(ə)\,_,fro,550,ADVgen,---,ensemble,DMF,ensemble,"Alexis, l. 550",,
 4217,545,4,poissum,poissum,puisOm,p.o.i.ss.u.m,p/u\i.'s/O\m,_,fro,550,VERcjg,subpst4,pouvoir2,DMF,pouvoir2,"Alexis, l. 550",,
@@ -4735,7 +4735,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 4734,610,5,ueit,veit,vEiT,v.e.i.t,v/E\iT,_,fro,615,VERcjg,indpst3,voir,DMF,voir,"Alexis, l. 615",,
 4735,610,6,deu,deu,dæu,d.e.u,d/æ\u,|,fro,615,NOMpro,smr,Dieu,DMF,Dieu,"Alexis, l. 615",,
 4736,610,7,medisme,medisme,mEðiSmə,m.e.d.i.s.m.e,m/E\.'ð/i\S.m/(ə)\,.|,fro,615,ADJind,smr,même,DMF,même,"Alexis, l. 615",</l></lg>,<lb/>
-4737,611,1,Las,las,LaS,l.a.s,L/a\S,_,fro,616,ADJqua,pmr,las,DMF,las,"Alexis, l. 616",,<pb facs=&quot;https://www.albani-psalter.de/stalbanspsalter/english/translation/trans068.shtml&quot; n=&quot;34v&quot;/><lb/><lg n=&quot;124&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;616&quot;>
+4737,611,1,Las,las,LaS,l.a.s,L/a\S,_,fro,616,ADJqua,pmr,las,DMF,las,"Alexis, l. 616",,<pb n=&quot;34v&quot;/><lb/><lg n=&quot;124&quot; type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaaa&quot;><l n=&quot;616&quot;>
 4738,611,2,malfeuz,malfeuz,mALfEyTS,m.a.l.f.e.u.z.,m/A\L.f/E\.'/y\TS,_,fro,616,ADJqua,pmr,maufëu,TL,---,"Alexis, l. 616",,
 4739,611,3,cum,cum,kOm,c.u.m,k/O\m,_,fro,616,ADVint,---,comme,DMF,comme,"Alexis, l. 616",,
 4740,611,4,esmes,esmes,æSməS,e.s.m.e.s,'/æ\S.m/ə\S,_,fro,616,VERcjg,indipf4,être,DMF,être,"Alexis, l. 616",,

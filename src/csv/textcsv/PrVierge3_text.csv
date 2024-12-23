@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,textlineid,ref,phil_note,tei_right,tei_left
-1,1,1,VERS[US],versus,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
+1,1,1,VERS[US],versus,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
 2,1,2,S[ANCTE],sancte,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,
 3,1,3,MARIE,marie,.|,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,</docTitle>,
 4,2,1,O,o,_,O,o,/O\,pro,INJ,---,ô,DMF,ô,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
@@ -61,7 +61,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 60,14,2,de,de,_,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,13,"PrVierge3, l. 13",,,
 61,14,3,femna,femna,_,fEmnA,f.e.m.n.a,'f/E\m.n/(A)\,pro,NOMcom,sfr,fémna,DOM,femme,13,"PrVierge3, l. 13",,,
 62,14,4,nas_quet,nasquet,–|,nASkɛT,n.a.s.qu.e.t,n/A\S.'k/ɛ\T,pro,VERcjg,indpsp3,naiser,DOM,naître,13,"PrVierge3, l. 13",,</l>,
-63,15,1,deus,deus,_,dɛuS,d.e.u.s,d/ɛ\uS,pro,NOMpro,smn,dèu,DOM,Dieu,14,"PrVierge3, l. 14",,,<pb n=&quot;49v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f106.item&quot;/><lb/><l n=&quot;14&quot;>
+63,15,1,deus,deus,_,dɛuS,d.e.u.s,d/ɛ\uS,pro,NOMpro,smn,dèu,DOM,Dieu,14,"PrVierge3, l. 14",,,<pb n=&quot;49v&quot;/><lb/><l n=&quot;14&quot;>
 64,15,2,la,la,+,LA,l.a,L/(A)\,pro,DETdef,sfr,la,DOM,le,14,"PrVierge3, l. 14",,,
 65,15,3,femna,femna,_,fEmnA,f.e.m.n.a,'f/E\m.n/(A)\,pro,NOMcom,sfr,fémna,DOM,femme,14,"PrVierge3, l. 14",,,
 66,15,4,saluet,salvet,–,SALvɛT,s.a.l.v.e.t,S/A\L.'v/ɛ\T,pro,VERcjg,indpsp3,salvar,DOM,sauver,14,"PrVierge3, l. 14",,</l>,
@@ -192,7 +192,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 191,42,1,A,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,41,"PrVierge3, l. 41",,,<lg n=&quot;11&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;41&quot;>
 192,42,2,ut,ut,_,uT,u.t,/\uT,pro,DETdef,pmr,los,DOM,le,41,"PrVierge3, l. 41",phon_SponsT:106-107,,
 193,42,3,apostols,apostols,–|,ApɔStOLS,a.p.o.s.t.o.l.s,/A\.'p/ɔ\S.t/O\LS,pro,NOMcom,pmr,apòstol,DOM,apôtre,41,"PrVierge3, l. 41",,,
-194,42,4,cum_tet,cumtet,–,kONtɛT,c.u.m.t.e.t,k/O\N.'t/ɛ\T,pro,VERcjg,indpsp3,comtar,DOM,conter,41,"PrVierge3, l. 41",,</l>,<pb n=&quot;50r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f107.item&quot;/><lb/>
+194,42,4,cum_tet,cumtet,–,kONtɛT,c.u.m.t.e.t,k/O\N.'t/ɛ\T,pro,VERcjg,indpsp3,comtar,DOM,conter,41,"PrVierge3, l. 41",,</l>,<pb n=&quot;50r&quot;/><lb/>
 195,43,1,e,e,+,E,e,/E\,pro,CONcoo,---,e,DOM,et,42,"PrVierge3, l. 42",,,<l n=&quot;42&quot;>
 196,43,2,dis,dis,–,diS,d.i.s,d/i\S,pro,VERcjg,indpsp3,dire,DOM,dire,42,"PrVierge3, l. 42",,,
 197,43,3,c,c,+,k,c,k/\,pro,CONsub,---,que2,DOM,que,42,"PrVierge3, l. 42",,,

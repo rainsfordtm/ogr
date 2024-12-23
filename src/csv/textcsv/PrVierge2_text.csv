@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,In,in,_,VN,i.n,/V\N,lat,---,---,---,---,---,"PrVierge2, l. 1",,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f103.item&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1&quot;>
+1,1,1,In,in,_,VN,i.n,/V\N,lat,---,---,---,---,---,"PrVierge2, l. 1",,,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;48r&quot;/><lb/><lg xml:lang=&quot;lat&quot; n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;1&quot;>
 2,1,2,hoc,hoc,_,QVQ,h.o.c,Q/V\Q,lat,---,---,---,---,---,"PrVierge2, l. 1",,,
 3,1,3,anni,anni,–,VNNV,a.n.n.i,'/V\N.N/V\,lat,---,---,---,---,---,"PrVierge2, l. 1",,,
 4,1,4,circulo,circulo,–,QVRQVLV,c.i.r.c.u.l.o,'Q/V\R.Q/V\.'L/V\,lat,---,---,---,---,---,"PrVierge2, l. 1",,</l>,
@@ -110,7 +110,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 109,28,2,u[=uirgine],virgine,_,QVRQVNV,v.i.r.g.i.n.e,'Q/V\R.Q/V\.'N/V\,lat,---,---,---,---,---,"PrVierge2, l. 28",,<supplied reason=&quot;missing&quot;>maria</supplied></l></lg>,
 110,29,1,Non,non,+,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,"PrVierge2, l. 29",lemma_BrunPrVierge:412 lemma_SponsT:237,,<lg n=&quot;8&quot; type=&quot;stanza&quot; rhyme=&quot;aaab&quot; met=&quot;heptasyllable&quot;><l n=&quot;29&quot;><q>
 111,29,2,p[er]_drai,perdrai,–,pErdrAi,p.e.r.d.r.a.i,p/E\r.'dr/A\i,pro,VERcjg,indfut1,pèrdre,DOM,perdre,"PrVierge2, l. 29",,,
-112,29,3,uirginitat,virginitat,–|,virʤinitAT,v.i.r.g.i.n.i.t.a.t,v/i\r.ʤ/i\.n/i\.'t/A\T,pro,NOMcom,sfr,vergenetat,DOM,virginité,"PrVierge2, l. 29",,</q></l>,<pb n=&quot;48v&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f104.item&quot;/><lb/>
+112,29,3,uirginitat,virginitat,–|,virʤinitAT,v.i.r.g.i.n.i.t.a.t,v/i\r.ʤ/i\.n/i\.'t/A\T,pro,NOMcom,sfr,vergenetat,DOM,virginité,"PrVierge2, l. 29",,</q></l>,<pb n=&quot;48v&quot;/><lb/>
 113,30,1,tos,tos,_,toS,t.o.s,t/o\S,pro,DETind,pmr,tót,DOM,tout,"PrVierge2, l. 30",,,<l n=&quot;30&quot;><q>
 114,30,2,temps,temps,–,tENPS,t.e.m.p.s,t/E\NPS,pro,NOMcom,pmr,témps,DOM,temps,"PrVierge2, l. 30",,,
 115,30,3,aurai,aurai,–,AurAi,a.u.r.a.i,/A\u.'r/A\i,pro,VERcjg,indfut1,avér,DOM,avoir,"PrVierge2, l. 30",,,
@@ -222,7 +222,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 221,61,5,l,l,+,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,"PrVierge2, l. 61",,,
 222,61,6,rei,rei,–,rei,r.e.i,r/e\i,pro,NOMcom,smr,réi,DOM,roi,"PrVierge2, l. 61",,</q></l>,
 223,62,1,si,si,–|,Si,s.i,S/<i>\,pro,ADVgen,---,si2,DOM,si4,"PrVierge2, l. 62",,<lb/>,<l n=&quot;62&quot;><q>
-224,62,2,cum,cum,–,kOm,c.u.m,k/O\m,pro,CONsub,---,cóm,DOM,comme,"PrVierge2, l. 62",,,<pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/>
+224,62,2,cum,cum,–,kOm,c.u.m,k/O\m,pro,CONsub,---,cóm,DOM,comme,"PrVierge2, l. 62",,,<pb n=&quot;49r&quot;/>
 225,62,3,tu,tu,_,ty,t.u,t/y\,pro,PRNper,2smn,tu,DOM,tu,"PrVierge2, l. 62",,,
 226,62,4,o,o,_,O,o,/O\,pro,PRCdem,snr,ó2,DOM,---,"PrVierge2, l. 62",,,
 227,62,5,dit,dit,–,diT,d.i.t,d/i\T,pro,VERcjg,indpst2,dire,DOM,dire,"PrVierge2, l. 62",,,

@@ -1,5 +1,5 @@
 wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,lemma,lemma_src,lemma_dmf,ref,phil_note,tei_right,tei_left
-1,1,1,{dicit},dicit,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 1",,,<text xml:lang=&quot;fro&quot;><body><pb facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b8452601j/f5.item&quot; n=&quot;recto&quot;/><lb n=&quot;1&quot;/><p><s><gap reason=&quot;illegible&quot;/>
+1,1,1,{dicit},dicit,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 1",,,<text xml:lang=&quot;fro&quot;><body><pb n=&quot;recto&quot;/><lb n=&quot;1&quot;/><p><s><gap reason=&quot;illegible&quot;/>
 2,1,2,{dominus},dominus,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 1",,,
 3,1,3,{me},me,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 1",,,
 4,1,4,{rogat},rogat,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 1",,,
@@ -232,7 +232,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 231,36,2,{et},et,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 36",,,
 232,36,3,in,in,_,,,,lat,---,---,---,---,---,"Jonas, recto, l. 36",,,
 233,36,4,mo,mo…,|,,,,---,---,---,---,---,---,"Jonas, recto, l. 36",,<gap reason=&quot;illegible&quot;/></s></secl></p>,
-234,37,1,{inde},inde,_,,,,lat,---,---,---,---,---,"Jonas, verso, l. 1",,,<pb facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b8452601j/f5.item&quot; n=&quot;verso&quot;/><lb n=&quot;1&quot;/><p><s><cl xml:lang=&quot;lat&quot;><gap reason=&quot;illegible&quot;/>
+234,37,1,{inde},inde,_,,,,lat,---,---,---,---,---,"Jonas, verso, l. 1",,,<pb n=&quot;verso&quot;/><lb n=&quot;1&quot;/><p><s><cl xml:lang=&quot;lat&quot;><gap reason=&quot;illegible&quot;/>
 235,37,2,{habuit},habuit,_,,,,lat,---,---,---,---,---,"Jonas, verso, l. 1",,,
 236,37,3,{misericordias},misericordias,_,,,,lat,---,---,---,---,---,"Jonas, verso, l. 1",,,
 237,37,4,{si},si,_,,,,fro,ADVgen,---,si4,DMF,si4,"Jonas, verso, l. 1",,,<cl xml:lang=&quot;fro&quot;>

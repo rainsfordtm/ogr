@@ -1,5 +1,5 @@
 wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,penn_pos,syntag,syntag2,lemma,lemma_src,lemma_dmf,ref,tei_right,tei_left
-1,1,1,Nos,_,nos,noS,n.o.s,n/o\S,pro,PRNper,4pmn,PRO,Prn,Prn,nós,DOM,nous,"Boeci, l. 1",,<text><body xml:lang=&quot;pro&quot;><pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0280&quot; n=&quot;269&quot;/><lb/><lg n=&quot;1&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
+1,1,1,Nos,_,nos,noS,n.o.s,n/o\S,pro,PRNper,4pmn,PRO,Prn,Prn,nós,DOM,nous,"Boeci, l. 1",,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;269&quot;/><lb/><lg n=&quot;1&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
 2,1,2,ioue,_,jove,ʤovE,j.o.v.e,'ʤ/o\.v/(E)\,pro,ADJqua,pmn,ADJ,Adj,Adj,jóveN,DOM,jeune,"Boeci, l. 1",,
 3,1,3,omne,_,omne,OmnE,o.m.n.e,'/O\m.n/(E)\,pro,NOMcom,pmn,NCPL,N,N,óme,DOM,homme,"Boeci, l. 1",,
 4,1,4,quan_dius,_,quandius,kANdioS,q.u.a.n.d.i.u.s,'k/A\N.di/o\S,pro,CONsub,---,CONJS,Sub,Sub,candis,DOM,---,"Boeci, l. 1",,
@@ -164,7 +164,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 163,21,3,foren,.,foren,forEn,f.o.r.e.n,'f/o\.r/E\n,pro,VERcjg,indpsp6,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 21",,
 164,21,4,aora,+,aora,AorA,a.o.r.a,/A\.'/o\.r/(A)\,pro,ADVgen,---,ADV,Adv,Adv,aór,DOM,or2,"Boeci, l. 21",,
 165,21,5,sunt,|,sunt,SONT,s.u.n.t,S/O\NT,pro,VERcjg,indpst6,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 21",,
-166,21,6,peior,.,pejor,pEʤor,p.e.j.o.r,p/E\.'ʤ/o\r,pro,ADJqua,pmn,ADJR,Adj,Adj,pejór,DOM,pire,"Boeci, l. 21",</l>,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0281&quot; n=&quot;270&quot;/><lb/>
+166,21,6,peior,.,pejor,pEʤor,p.e.j.o.r,p/E\.'ʤ/o\r,pro,ADJqua,pmn,ADJR,Adj,Adj,pejór,DOM,pire,"Boeci, l. 21",</l>,<pb n=&quot;270&quot;/><lb/>
 167,22,1,uolg,_,volg,vɔLK,v.o.l.g,v/ɔ\LK,pro,VERcjg,indpsp3,MDJ,Vfin,Vfin,volér,DOM,vouloir,"Boeci, l. 22",,<l n=&quot;22&quot;>
 168,22,2,i,+,i,i,i,/i\,pro,PRCadv,---,PRO,Prn,Prn%%,i,DOM,y2,"Boeci, l. 22",,
 169,22,3,boecis,_,boecis,bOɛʦiS,b.o.e.c.i.s,b/O\.'/ɛ\.ʦ/i\S,pro,NOMpro,smn,NPRS,N,N,Boeci,oc.wikipedia.org,---,"Boeci, l. 22",,
@@ -440,7 +440,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 439,59,5,si,+,si,Si,s.i,S/<i>\,pro,ADVgen,---,ADV,Adv,Adv,si2,DOM,si4,"Boeci, l. 59",,
 440,59,6,lz,_,lz,LÇ,l.z,/\LÇ,pro,PRCper,6pma,PRO,Prn,Prn$$,los2,DOM,le,"Boeci, l. 59",,
 441,59,7,fez,|,fez,feÇ,f.e.z,f/e\Ç,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,faire,DOM,faire,"Boeci, l. 59",,
-442,59,8,metre,_,metre,metrE,m.e.t.r.e,'m/e\.tr/(E)\,pro,VERinf,---,VX,Vinf,Vinf,métre,DOM,mettre,"Boeci, l. 59",,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0282.simple.selectedTab=thumbnail&quot; n=&quot;271&quot;/><lb/>
+442,59,8,metre,_,metre,metrE,m.e.t.r.e,'m/e\.tr/(E)\,pro,VERinf,---,VX,Vinf,Vinf,métre,DOM,mettre,"Boeci, l. 59",,<pb n=&quot;271&quot;/><lb/>
 443,59,9,e,+,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 59",,
 444,59,10,preso,.,preso,prEzo,p.r.e.s.o,pr/E\.'z/o\,pro,NOMcom,sfr,NCS,N,N,preizóN,DOM,prison,"Boeci, l. 59",</l></lg>,
 445,60,1,E,+,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 60",,<lg n=&quot;8&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;60&quot;>
@@ -732,7 +732,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 731,98,3,e,+,e,e,e,/e\,pro,CONcoo,---,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 98",,
 732,98,4,luna,_,luna,LynA,l.u.n.a,'L/y\.n/(A)\,pro,NOMcom,sfr,NCS,N,N,luna,DOM,lune,"Boeci, l. 98",,
 733,98,5,cél,|,cel,Çɛl,c.e.l,Ç/ɛ\l,pro,NOMcom,smr,NCS,N,N,cèl,DOM,ciel,"Boeci, l. 98",,
-734,98,6,e,_,e,e,e,/e\,pro,CONcoo,---,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 98",,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0283.simple.selectedTab=thumbnail&quot; n=&quot;272&quot;/><lb/>
+734,98,6,e,_,e,e,e,/e\,pro,CONcoo,---,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 98",,<pb n=&quot;272&quot;/><lb/>
 735,98,7,terra,.,terra,tɛrrA,t.e.r.r.a,'t/ɛ\r.r/(A)\,pro,NOMcom,sfr,NCS,N,N,tèrra,DOM,terre,"Boeci, l. 98",,
 736,98,8,már,.,mar,mAr,m.a.r,m/A\r,pro,NOMcom,sfr,NCS,N,N,mar,DOM,mer,"Boeci, l. 98",,
 737,98,9,cu[m],_,cum,kOm,c.u.m,k/O\m,pro,CONsub,---,CMP,Sub,Sub,cóm,DOM,comme,"Boeci, l. 98",,
@@ -1033,7 +1033,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 1032,133,2,cu[m],_,cum,kOm,c.u.m,k/O\m,pro,CONsub,---,CONJS,Sub,Sub,cóm,DOM,comme,"Boeci, l. 133",,
 1033,133,3,la,_,la,LA,l.a,L/A\,pro,DETdef,sfn,D,Det,Det,la,DOM,le,"Boeci, l. 133",,
 1034,133,4,níbles,|,nibles,nibLES,n.i.b.l.e.s,'n/i\.bL/E\S,pro,NOMcom,sfn,NCS,N,N,nible,DOM,nuele,"Boeci, l. 133",,
-1035,133,5,cobre,+,cobre,kobrE,c.o.b.r.e,'k/o\.br/(E)\,pro,VERcjg,indpst3,VJ,Vfin,Vfin,cobrir,DOM,couvir,"Boeci, l. 133",,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0284.simple.selectedTab=thumbnail&quot; n=&quot;273&quot;/><lb/>
+1035,133,5,cobre,+,cobre,kobrE,c.o.b.r.e,'k/o\.br/(E)\,pro,VERcjg,indpst3,VJ,Vfin,Vfin,cobrir,DOM,couvir,"Boeci, l. 133",,<pb n=&quot;273&quot;/><lb/>
 1036,133,6,l,_,l,L,l,/\L,pro,DETdef,smr,D,Det,Det,lo2,DOM,le,"Boeci, l. 133",,
 1037,133,7,iórn,_,jorn,ʤorn,j.o.r.n,ʤ/o\rn,pro,NOMcom,smr,NCS,N,N,jórn,DOM,jour,"Boeci, l. 133",,
 1038,133,8,lo,_,lo,LO,l.o,L/(O)\,pro,DETdef,smr,D,Det,Det,lo2,DOM,le,"Boeci, l. 133",,
@@ -1353,7 +1353,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 1352,173,3,tánt,+,tant,tANT,t.a.n.t,t/A\NT,pro,ADVgen,---,Q,QIs,QIs,tan,DOM,tant,"Boeci, l. 173",,
 1353,173,4,e,+,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 173",,
 1354,173,5,lor,|,lor,LOr,l.o.r,L/O\r,pro,DETpos,6smr,DZ,Det,Det,lor,DOM,leur2,"Boeci, l. 173",,
-1355,173,6,cors,_,cors,korS,c.o.r.s,k/o\rS,pro,NOMcom,smr,NCS,N,N,córs,DOM,corps,"Boeci, l. 173",,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0285.simple.selectedTab=thumbnail&quot; n=&quot;274&quot;/><lb/>
+1355,173,6,cors,_,cors,korS,c.o.r.s,k/o\rS,pro,NOMcom,smr,NCS,N,N,córs,DOM,corps,"Boeci, l. 173",,<pb n=&quot;274&quot;/><lb/>
 1356,173,7,cobeetár,.,cobeetar,kObEitAr,c.o.b.e.e.t.a.r,k/O\.b/E\i.'t/A\r,pro,VERinf,---,VX,Vinf,Vinf,cobeitar,DOM,convoiter,"Boeci, l. 173",</l>,
 1357,174,1,qu,+,qu,k,qu,k/\,pro,CONsub,---,CONJS,Sub,Sub,que2,DOM,que,"Boeci, l. 174",,<l n=&quot;174&quot;>
 1358,174,2,ella,_,ella,eLLA,e.l.l.a,'/e\L.L/(A)\,pro,PRNper,3sfn,PRO,Prn,Prn,ela,DOM,elle,"Boeci, l. 174",,
@@ -1690,7 +1690,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 1689,215,7,gran,_,gran,grAn,g.r.a.n,gr/A\n,pro,ADJqua,sfr,ADJ,Adj,Adj,gran,DOM,grand,"Boeci, l. 215",,
 1690,215,8,amor,.,amor,Amor,a.m.o.r,/A\.'m/o\r,pro,NOMcom,sfr,NCS,N,N,amór,DOM,amour,"Boeci, l. 215",</l></lg>,
 1691,216,1,Cals,|,cals,kALS,c.a.l.s,k/A\LS,pro,PRNrel,sfn,WPRO,Qux,Qux,cal,DOM,quel,"Boeci, l. 216",,<lg n=&quot;27&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;216&quot;>
-1692,216,2,es,_,es,eS,e.s,/e\S,pro,VERcjg,indpst3,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 216",,<pb facs=&quot;https://mediatheques.orleans-metropole.fr/ark:/77916/FRCGMBPF-452346101-01A/D18013076/v0286.simple.selectedTab=thumbnail&quot; n=&quot;275&quot;/><lb/>
+1692,216,2,es,_,es,eS,e.s,/e\S,pro,VERcjg,indpst3,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 216",,<pb n=&quot;275&quot;/><lb/>
 1693,216,3,la,+,la,LA,l.a,L/A\,pro,DETdef,sfn,D,Det,Det,la,DOM,le,"Boeci, l. 216",,
 1694,216,4,schala,_,schala,0SkAlA,.s.ch.a.l.a,/[0]\S.'k/A\.l/(A)\,pro,NOMcom,sfn,NCS,N,N,escala,DOM,échelle,"Boeci, l. 216",,
 1695,216,5,de,_,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 216",,
