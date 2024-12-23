@@ -2,7 +2,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 1,1,1,VERS[US],versus,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,<text><body lang=&quot;pro&quot;><pb n=&quot;49r&quot; facs=&quot;https://gallica.bnf.fr/ark:/12148/btv1b6000946s/f105.item&quot;/><lb/><docTitle xml:lang=&quot;lat&quot;>
 2,1,2,S[ANCTE],sancte,_,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,,
 3,1,3,MARIE,marie,.|,,,,lat,---,---,---,---,---,0,"PrVierge3, title",,</docTitle>,
-4,2,1,O,o,_,O,o,/O\,pro,EXC,---,ô,DMF,ô,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
+4,2,1,O,o,_,O,o,/O\,pro,INJ,---,ô,DMF,ô,1,"PrVierge3, l. 1",,,<lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
 5,2,2,maria,maria,–,mAriA,m.a.r.i.a,m/A\.'r/i\./(A)\,pro,NOMpro,sfn,Marie,wikipedia.fr,---,1,"PrVierge3, l. 1",,,
 6,2,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,pro,NOMpro,smr,dèu,DOM,Dieu,1,"PrVierge3, l. 1",,,
 7,2,4,maire,maire,–,mAirE,m.a.i.r.e,'m/A\i.r/(E)\,pro,NOMcom,sfn,maire,DOM,mère,1,"PrVierge3, l. 1",,</l>,
@@ -146,7 +146,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 145,33,1,ia,ja,_,ʤA,j.a,ʤ/A\,pro,ADVgen,---,ja,DOM,jà,32,"PrVierge3, l. 32",,,<l n=&quot;32&quot;>
 146,33,2,per,per,+,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,32,"PrVierge3, l. 32",,,
 147,33,3,re,re,_,re,r.e,r/e\,pro,NOMcom,sfr,réN,DOM,rien,32,"PrVierge3, l. 32",,,
-148,33,4,no,no,_,nO,n.o,n/O\,pro,ADVgen,---,nóN,DOM,ne,32,"PrVierge3, l. 32",,,
+148,33,4,no,no,_,nO,n.o,n/O\,pro,ADVneg,---,nóN,DOM,ne,32,"PrVierge3, l. 32",,,
 149,33,5,foran,foran,–|,forAn,f.o.r.a.n,f/o\.'r/A\n,pro,VERcjg,indpqp6,èser,DOM,être,32,"PrVierge3, l. 32",,</l></lg>,
 150,34,1,Adam,adam,_,AdAm,a.d.a.m,/A\.'d/A\m,pro,NOMpro,smn,Adam,wikipedia.fr,---,33,"PrVierge3, l. 33",,,<lb/><lg n=&quot;9&quot; type=&quot;stanza&quot; rhyme=&quot;aabb&quot;><l n=&quot;33&quot;>
 151,34,2,meniet,menjet,_,mÆNʤɛT,m.e.n.j.e.t,m/Æ\N.'ʤ/ɛ\T,pro,VERcjg,indpsp3,manjar,DOM,manger,33,"PrVierge3, l. 33",,,

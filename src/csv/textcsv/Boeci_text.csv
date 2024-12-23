@@ -191,7 +191,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 190,26,2,molt,_,molt,moLT,m.o.l.t,m/o\LT,pro,ADVgen,---,Q,QIs,QIs,mólt,DOM,moult,"Boeci, l. 26",,
 191,26,3,s,+,s,S,s,S/\,pro,PRCper,3smr,PRO,Prn,Prn$$,sé,DOM,se,"Boeci, l. 26",,
 192,26,4,en,_,en,En,e.n,/E\n,pro,PRCadv,---,PRO,Prn,Prn$$,én3,DOM,en2,"Boeci, l. 26",,
-193,26,5,penét,_,penet,pEnɛT,p.e.n.e.t,p/E\.'n/ɛ\T,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,penar,DOM,pener,"Boeci, l. 26",,
+193,26,5,penét,_,penet,pEnɛT,p.e.n.e.t,p/E\.'n/ɛ\T,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,penar,DOM,peiner,"Boeci, l. 26",,
 194,26,6,quar,_,quar,kAr,qu.a.r,k/A\r,pro,ADVgen,---,CONJO,Crd,Crd,car3,DOM,car,"Boeci, l. 26",,
 195,26,7,non,_,non,nOn,n.o.n,n/O\n,pro,ADVneg,---,NEG,Neg,Neg$$,nóN,DOM,ne,"Boeci, l. 26",,
 196,26,8,i,+,i,i,i,/i\,pro,PRCadv,---,PRO,Prn,Prn$$,i,DOM,y2,"Boeci, l. 26",,
@@ -211,7 +211,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 210,28,5,ag,_,ag,AK,a.g,/A\K,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,avér,DOM,avoir,"Boeci, l. 28",,
 211,28,6,bo,_,bo,bo,b.o,b/o\,pro,ADJqua,smr,ADJ,Adj,Adj,bóN,DOM,bon,"Boeci, l. 28",,
 212,28,7,e,+,e,e,e,/e\,pro,CONcoo,---,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 28",,
-213,28,8,pró,|,pro,pro,p.r.o,pr/o\,pro,ADJqua,smr,ADJ,Adj,Adj,pró3,DOM,preu,"Boeci, l. 28",</l>,
+213,28,8,pró,|,pro,pro,p.r.o,pr/o\,pro,ADJqua,smr,ADJ,Adj,Adj,pró3,DOM,preux,"Boeci, l. 28",</l>,
 214,29,1,cui,_,cui,kyi,c.u.i,k/y\i,pro,PRNrel,smr,WPRO,Qux,Qux,qui,DOM,qui,"Boeci, l. 29",,<lb/><l n=&quot;29&quot;>
 215,29,2,tan,_,tan,tAn,t.a.n,t/A\n,pro,ADVgen,---,Q,QIs,QIs,tan,DOM,tant,"Boeci, l. 29",,
 216,29,3,amet,_,amet,AmɛT,a.m.e.t,/A\.'m/ɛ\T,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,amar,DOM,aimer,"Boeci, l. 29",,
@@ -487,7 +487,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 486,65,3,trametía,_,trametia,trAmEtiA,t.r.a.m.e.t.i.a,tr/A\.m/E\.'t/<i>\./(A)\,pro,VERcjg,indipf3,VJ,Vfin,Vfin,tramétre,DOM,tramettre,"Boeci, l. 65",,
 487,65,4,los,|,los,LOS,l.o.s,L/O\S,pro,DETdef,pmr,D,Det,Det,los,DOM,le,"Boeci, l. 65",,
 488,65,5,breus,_,breus,breuS,b.r.e.u.s,br/e\uS,pro,NOMcom,pmr,NCPL,N,N,bréu2,DOM,bref,"Boeci, l. 65",,<lb/>
-489,65,6,ultra,_,ultra,oLtrA,u.l.t.r.a,'/o\L.tr/(A)\,pro,PRE,---,P,PrA,PrA,óltra,DOM,outre,"Boeci, l. 65",,
+489,65,6,ultra,_,ultra,oLtrA,u.l.t.r.a,'/o\L.tr/(A)\,pro,PRE,---,P,PrA,PrA,óltra,DOM,outre2,"Boeci, l. 65",,
 490,65,7,la,_,la,LA,l.a,L/A\,pro,DETdef,sfr,D,Det,Det,la,DOM,le,"Boeci, l. 65",,
 491,65,8,mar,.,mar,mAr,m.a.r,m/A\r,pro,NOMcom,sfr,NCS,N,N,mar,DOM,mer,"Boeci, l. 65",</l>,
 492,66,1,a,_,a,A,a,/A\,pro,PRE,---,P,Pre,Pre,a2,DOM,à,"Boeci, l. 66",,<l n=&quot;66&quot;>
@@ -1345,7 +1345,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 1344,172,4,omne,_,omne,OmnE,o.m.n.e,'/O\m.n/(E)\,pro,NOMcom,pmn,NCPL,N,N,óme,DOM,homme,"Boeci, l. 172",,
 1345,172,5,qui,_,qui,ki,qu.i,k/<i>\,pro,PRNrel,pmn,WPRO,Qux,Qux,qui,DOM,qui,"Boeci, l. 172",,
 1346,172,6,sun,_,sun,SOn,s.u.n,S/O\n,pro,VERcjg,indpst6,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 172",,
-1347,172,7,ultra,_,ultra,oLtrA,u.l.t.r.a,'/o\L.tr/(A)\,pro,PRE,---,P,PrA,PrA,óltra,DOM,outre,"Boeci, l. 172",,
+1347,172,7,ultra,_,ultra,oLtrA,u.l.t.r.a,'/o\L.tr/(A)\,pro,PRE,---,P,PrA,PrA,óltra,DOM,outre2,"Boeci, l. 172",,
 1348,172,8,la,_,la,LA,l.a,L/A\,pro,DETdef,sfr,D,Det,Det,la,DOM,le,"Boeci, l. 172",,
 1349,172,9,már,_,mar,mAr,m.a.r,m/A\r,pro,NOMcom,sfr,NCS,N,N,mar,DOM,mer,"Boeci, l. 172",</l>,
 1350,173,1,no,_,no,nO,n.o,n/O\,pro,ADVneg,---,NEG,Neg,Neg$$,nóN,DOM,ne,"Boeci, l. 173",,<l n=&quot;173&quot;>

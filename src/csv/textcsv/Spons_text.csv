@@ -332,14 +332,14 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,ety_map,lang,te
 331,74,3,no,no,+,nO,n.o,n/O\,,pro,69,ADV,ADVneg,---,nóN,DOM,ne,"Spons, l. 69",,,
 332,74,4,u,u,+,u,u,/\u,,pro,69,PRON,PRCper,3sma,lo3,DOM,le,"Spons, l. 69",,,
 333,74,5,uos,vos,–,vOS,v.o.s,v/O\S,,pro,69,PRON,PRCper,5pfr,vós,DOM,vous,"Spons, l. 69",,,
-334,74,6,poem,poem,–,pOEm,p.o.e.m,p/O\.'/E\m,p-.o[(-t-).é[.-m-(o[)(-s-),pro,69,VERB,VERcjg,indpst4,podér,DOM,pouvoir,"Spons, l. 69",,,
+334,74,6,poem,poem,–,pOEm,p.o.e.m,p/O\.'/E\m,p-.o[(-t-).é[.-m-(o[)(-s-),pro,69,VERB,VERcjg,indpst4,podér,DOM,pouvoir2,"Spons, l. 69",,,
 335,74,7,doner,doner,–,dOnɛr,d.o.n.e.r,d/O\.'n/ɛ\r,d-.o[.-n-.à[.-r-(e[),pro,69,VERB,VERinf,---,donar,DOM,donner,"Spons, l. 69",,</l>,
 336,75,1,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,kw-.e].-rr-.è[.-t-(e[)(-s-),pro,70,VERB,VERcjg,imp---5,quèrre,DOM,quérir,"Spons, l. 70",,,<l n=&quot;70&quot;>
 337,75,2,lo,lo,_,LO,l.o,L/(O)\,,pro,70,PRON,PRCper,3sma,lo3,DOM,le,"Spons, l. 70",,,
 338,75,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,,pro,70,PROPN,NOMpro,smr,dèu,DOM,Dieu,"Spons, l. 70",,,
 339,75,4,chi,chi,_,ki,c.h.i,k/<i>\,,pro,70,PRON,PRNrel,smn,qui,DOM,qui,"Spons, l. 70",,,
 340,75,5,uos,vos,–|,vOS,v.o.s,v/O\S,,pro,70,PRON,PRCper,5pfr,vós,DOM,vous,"Spons, l. 70",,,
-341,75,6,pot,pot,–,pɔT,p.o.t,p/ɔ\T,p-.ò].-tw-(i[)(-t-),pro,70,VERB,VERcjg,indpst3,podér,DOM,pouvoir,"Spons, l. 70",,,<lb/>
+341,75,6,pot,pot,–,pɔT,p.o.t,p/ɔ\T,p-.ò].-tw-(i[)(-t-),pro,70,VERB,VERcjg,indpst3,podér,DOM,pouvoir2,"Spons, l. 70",,,<lb/>
 342,75,7,coseler,coseler,_,kOsEʎɛr,c.o.s.e.l.e.r,k/O\.s/E\.'ʎ/ɛ\r,k-.o](-n).s-.e[.-lj-.à[.-r-(e[),pro,70,VERB,VERinf,---,conselhar,DOM,conseiller2,"Spons, l. 70",,</l></lg>,
 343,76,1,Alet,alet,–,AlɛT,a.l.e.t,/A\.'l/ɛ\T,,pro,71,VERB,VERcjg,imp---5,aller,DMF,aller,"Spons, l. 71",,,<lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaa&quot;><l n=&quot;71&quot;>
 344,76,2,areir,areir,–,ArEir,a.r.e.i.r,/A\.'r/E\ir,a](-d).r-.è[.-t-.-r-(o[),pro,71,ADV,ADVgen,---,aréire,DOM,arrière,"Spons, l. 71",,,

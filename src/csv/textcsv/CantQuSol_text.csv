@@ -246,7 +246,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 245,40,8,40,"CantQuSol, l. 40",l,l,+,L,l,/\L,fro,PRCper,3sma,le,DMF,le,,,
 246,40,9,40,"CantQuSol, l. 40",pois,pois,_,pɔiS,p.o.i.s,p/ɔ\iS,fro,VERcjg,indpst1,pouvoir2,DMF,pouvoir2,,,
 247,40,10,40,"CantQuSol, l. 40",trouert,trovert,_,trovær,t.r.o.v.e.rt,tr/o\.'v/æ\r,fro,VERinf,---,trouver,DMF,trouver,,</q></l>,
-248,41,1,41,"CantQuSol, l. 41",n,n,+,n,n,n/\,fro,ADVneg,---,ne2,DMF,ne2,,,<l n=&quot;41&quot;><q>
+248,41,1,41,"CantQuSol, l. 41",n,n,+,n,n,n/\,fro,ADVneg,---,ne,DMF,ne,,,<l n=&quot;41&quot;><q>
 249,41,2,41,"CantQuSol, l. 41",en,en,_,En,e.n,/E\n,fro,PRCadv,---,en2,DMF,en2,,,
 250,41,3,41,"CantQuSol, l. 41",uult,vult,_,voLT,v.u.l.t,v/o\LT,fro,VERcjg,indpst3,vouloir,DMF,vouloir,,,
 251,41,4,41,"CantQuSol, l. 41",respon|dret,respondret,_,rESpONdrə,r.e.s.p.o.n.d.r.et,r/E\S.'p/O\N.dr/(ə)\,fro,VERinf,---,répondre,DMF,répondre,,,
@@ -280,7 +280,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 279,46,3,46,"CantQuSol, l. 46",olt[=ont],ont,|,ONT,o.n.t,/O\NT,fro,VERcjg,indpst6,avoir,DMF,avoir,,,
 280,46,4,46,"CantQuSol, l. 46",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/>
 281,46,5,46,"CantQuSol, l. 46",mun,mun,_,mOn,m.u.n,m/O\n,fro,DETpos,1smr,mon,DMF,mon,,,
-282,46,6,46,"CantQuSol, l. 46",paliet,paliet,|,paliə,p.a.l.i.et,'p/a\.li/(ə)\,fro,NOMcom,smr,paile,DMF,paile,,,
+282,46,6,46,"CantQuSol, l. 46",paliet,paliet,|,paliə,p.a.l.i.et,'p/a\.li/(ə)\,fro,NOMcom,smr,poêle,DMF,poêle,,,
 283,46,7,46,"CantQuSol, l. 46",tolud,tolud,_,toly,t.o.l.ud,t/o\.'l/y\,fro,VERppe,smr,tolir,DMF,tolir,,</q></l>,<lb/>
 284,47,1,47,"CantQuSol, l. 47",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,smr,grand,DMF,grand,,,<l n=&quot;47&quot;><q>
 285,47,2,47,"CantQuSol, l. 47",tort,tort,|,tɔrT,t.o.r.t,t/ɔ\rT,fro,NOMcom,smr,tort,DMF,tort,,,
@@ -337,7 +337,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 336,55,5,55,"CantQuSol, l. 55",uine,vine,_,vinə,v.i.n.e,'v/i\.n/(ə)\,fro,NOMcom,sfr,vigne,DMF,vigne,,,
 337,55,6,55,"CantQuSol, l. 55",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
 338,55,7,55,"CantQuSol, l. 55",dolcelt,dolcelt,_,doLÇə,d.o.l.c.elt,'d/o\L.Ç/(ə)\,fro,ADJqua,sfr,douce,DMF,douce,,</q></l>,
-339,56,1,56,"CantQuSol, l. 56",p[or]ud,porud,|,poro,p.o.r.ud,p/o\.'r/o\,fro,ADVgen,---,poruec,DMF,poruec,,,<l n=&quot;56&quot;><q>
+339,56,1,56,"CantQuSol, l. 56",p[or]ud,porud,|,poro,p.o.r.ud,p/o\.'r/o\,fro,ADVgen,---,poroec,DMF,poroec,,,<l n=&quot;56&quot;><q>
 340,56,2,56,"CantQuSol, l. 56",ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,,,<lb/>
 341,56,3,56,"CantQuSol, l. 56",la,la,_,LA,l.a,L/(A)\,fro,PRCper,3sfa,le,DMF,le,,,
 342,56,4,56,"CantQuSol, l. 56",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,indpsp3,faire,DMF,faire,,,

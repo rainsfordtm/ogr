@@ -33,7 +33,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,
 32,2,1,par,par,par,p.a.r,p/a\r,_,fro,PRE,---,par,DMF,par,"AlexisProl, f. 29r, l. 3",,<s>
 33,2,2,le,le,LE,l.e,L/E\,_,fro,DETdef,sfr,le,DMF,le,"AlexisProl, f. 29r, l. 3",,
 34,2,3,diuine,divine,divinə,d.i.v.i.n.e,d/i\.'v/i\.n/ə\,|,fro,ADJqua,sfr,divin,DMF,divin,"AlexisProl, f. 29r, l. 3",,
-35,2,4,uolentet,volentet,vOLÆNtæð,v.o.l.e.n.t.e.t,v/O\.L/Æ\N.'t/æ\ð,.,fro,NOMcom,sfr,volenté,DMF,volenté,"AlexisProl, f. 29r, l. 4",,<lb n=&quot;4&quot;/>
+35,2,4,uolentet,volentet,vOLÆNtæð,v.o.l.e.n.t.e.t,v/O\.L/Æ\N.'t/æ\ð,.,fro,NOMcom,sfr,volonté,DMF,volonté,"AlexisProl, f. 29r, l. 4",,<lb n=&quot;4&quot;/>
 36,2,5,il,il,iL,i.l,/i\L,_,fro,PRNper,3smn,il,DMF,il,"AlexisProl, f. 29r, l. 4",,
 37,2,6,desirrables,desirrables,dEzirrabLəS,d.e.s.i.r.r.a.b.l.e.s,d/E\.z/i\r.'r/a\.bL/ə\S,_,fro,ADJqua,smn,désirable,DMF,désirable,"AlexisProl, f. 29r, l. 4",,
 38,2,7,icel,icel,iʦeL,i.c.e.l,/i\.'ʦ/e\L,_,fro,DETdem,smr,cil,DMF,cil,"AlexisProl, f. 29r, l. 4",,
