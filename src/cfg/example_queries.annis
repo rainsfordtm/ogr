@@ -3,7 +3,7 @@
 lemma_dmf="veuil"	03. Query another type of annotation to find the lemma "veuil"
 "vol" _=_ lemma_dmf="veuil"	04. Use the equal span operator (_=_) to find the word "vol" with lemma "veuil"
 "vol" _=_ lemma_dmf="veuil" & #1 _=_ morph="smr"	05. Use a backreference (#1) to find the word "vol" with lemma "veuil" in the masculine singular regime
-"vol" & meta::lang="pro"	06. Use the metadata to find the word "vol" in the Occitan texts only
+"vol" @* lang="pro"	06. Use the metadata to find the word "vol" in the Occitan texts only
 pos="VERcjg" _r_ line	07. Use the right align (_r_) operator to find a finite verb at the end of a line
 pos=/DET.*/ . lemma_dmf="veuil"	08. Use the precedence operator (.) to find a determiner followed by the lemma "veuil"
 pos=/DET.*/ .word,1,2 lemma_dmf="veuil"	09. Use the precedence operator to find a determiner either one or two words before the lemma "veuil"
@@ -15,7 +15,7 @@ onc="C" _i_ seg_plus=/.*nas.*/	14. Find nasal codas
 seg_plus=/.*nas.*/ . seg & onc="C" _i_ #1 & #3 _i_ #2	15. Find nasals in branching codas
 onc="C" . onc & word _i_ #1 & #3 _i_ #2	16. Find word-internal codas
 seg_plus=/.*nas.*/ . seg & onc="C" _i_ #1 & #3 _i_ #2 & #3 . onc & word _i_ #3 & #5 _i_ #4	17. Find nasals in word-internal branching codas
-onc="N" & #1:tokenarity=2	18. Find diphthongs
+onc=‎"N‎" & seg & seg & #1 _l_ #2 & #1 _r_ #3	18. Find diphthongs
 onc="C" _i_ seg_minus=/.*cons.*/	19. Find offglides
 syll_lstress="y" _i_ word	20. Find monosyllabic prosodic words
 syll_lstress="y" . syll_lstress="n" & word _o_ #1 & #3 _o_ #2	21. Find paroxytones and proparoxytones
