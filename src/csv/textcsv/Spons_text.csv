@@ -24,7 +24,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 23,5,3,pri–|mam,primam,–,QRVNVN,p.r.i.m.a.m,'QR/V\.N/V\N,lat,4,---,---,---,---,---,"Spons, l. 4",,,<lb/>
 24,5,4,sibi,sibi,–,QVQV,s.i.b.i,'Q/V\.Q/V\,lat,4,---,---,---,---,---,"Spons, l. 4",,,
 25,5,5,matrem,matrem,–,NVQRVN,m.a.t.r.e.m,'N/V\.QR/V\N,lat,4,---,---,---,---,---,"Spons, l. 4",,,
-26,5,6,sub_iugarunt,subiugarunt,–,QVQVVQVRVNQ,s.u.b.i.u.g.a.r.u.n.t,Q/V\.Q/V\./V\.'Q/V\.R/V\NQ,lat,4,---,---,---,---,---,"Spons, l. 4",,,
+26,5,6,sub_iugarunt,subiugarunt,–,QVQRVQVRVNQ,s.u.b.i.u.g.a.r.u.n.t,Q/V\.QR/V\.'Q/V\.R/V\NQ,lat,4,---,---,---,---,---,"Spons, l. 4",,,
 27,5,7,demones,demones,–,QVNVNVQ,d.e.m.o.n.e.s,'Q/V\.N/V\.'N/V\Q,lat,4,---,---,---,---,---,"Spons, l. 4",,</l></lg>,
 28,6,1,Hic,hic,+,QVQ,h.i.c,Q/V\Q,lat,5,---,---,---,---,---,"Spons, l. 5",,,<lg xml:lang=&quot;lat&quot; type=&quot;couplet&quot; met=&quot;4+4+7pp&quot; rhyme=&quot;aa&quot;><l n=&quot;5&quot;>
 29,6,2,est,est,–,VQQ,e.s.t,/V\QQ,lat,5,---,---,---,---,---,"Spons, l. 5",,,

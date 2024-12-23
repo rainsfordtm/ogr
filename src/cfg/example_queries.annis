@@ -4,12 +4,12 @@ lemma_dmf="veuil"	03. Query another type of annotation to find the lemma "veuil"
 "vol" _=_ lemma_dmf="veuil"	04. Use the equal span operator (_=_) to find the word "vol" with lemma "veuil"
 "vol" _=_ lemma_dmf="veuil" & #1 _=_ morph="smr"	05. Use a backreference (#1) to find the word "vol" with lemma "veuil" in the masculine singular regime
 "vol" & meta::lang="pro"	06. Use the metadata to find the word "vol" in the Occitan texts only
-pos_syn="VERcjg" _r_ line	07. Use the right align (_r_) operator to find a finite verb at the end of a line
-pos_syn=/DET.*/ . lemma_dmf="veuil"	08. Use the precedence operator (.) to find a determiner followed by the lemma "veuil"
-pos_syn=/DET.*/ .word,1,2 lemma_dmf="veuil"	09. Use the precedence operator to find a determiner either one or two words before the lemma "veuil"
+pos="VERcjg" _r_ line	07. Use the right align (_r_) operator to find a finite verb at the end of a line
+pos=/DET.*/ . lemma_dmf="veuil"	08. Use the precedence operator (.) to find a determiner followed by the lemma "veuil"
+pos=/DET.*/ .word,1,2 lemma_dmf="veuil"	09. Use the precedence operator to find a determiner either one or two words before the lemma "veuil"
 "vol" _i_ tok="v"	10. Use the inclusion operator (_i_) and the base token (tok) to identify the letter "v" in the word "vol"
-pos_syn=/DET.*/ . word & syll _i_ #1 & #3 _i_ #2	11. Use the precedence and inclusion operators to find a determiner and a following word within a single syllable
-pos_syn=/DET.*/ . word & syll _o_ #1 & #3 _o_ #2	12. Use the precedence and overlap (_o_) operators to find all proclitic elided determiners
+pos=/DET.*/ . word & syll _i_ #1 & #3 _i_ #2	11. Use the precedence and inclusion operators to find a determiner and a following word within a single syllable
+pos=/DET.*/ . word & syll _o_ #1 & #3 _o_ #2	12. Use the precedence and overlap (_o_) operators to find all proclitic elided determiners
 seg_plus=/.*nas.*/	13. Find nasal segments
 onc="C" _i_ seg_plus=/.*nas.*/	14. Find nasal codas
 seg_plus=/.*nas.*/ . seg & onc="C" _i_ #1 & #3 _i_ #2	15. Find nasals in branching codas
@@ -20,10 +20,10 @@ onc="C" _i_ seg_minus=/.*cons.*/	19. Find offglides
 syll_lstress="y" _i_ word	20. Find monosyllabic prosodic words
 syll_lstress="y" . syll_lstress="n" & word _o_ #1 & #3 _o_ #2	21. Find paroxytones and proparoxytones
 lemma_dmf=/et|à/ _i_ seg_plus=/.*cons.*CORONAL.*/ & #2 . seg_minus=/.*cons.*/	22. Find et 'and' and ad 'to' with a final dental before a vowel
-lemma_dmf="ne" . pos_syn="VERcjg" & #2 _l_ seg_minus=/.*cons.*/	23. Find ne 'not' before a vowel-initial verb
-onc="C" _i_ pos_syn=/PRC.*/	24. Find prosodically enclitic (ie coda) pronouns
+lemma_dmf="ne" . pos="VERcjg" & #2 _l_ seg_minus=/.*cons.*/	23. Find ne 'not' before a vowel-initial verb
+onc="C" _i_ pos=/PRC.*/	24. Find prosodically enclitic (ie coda) pronouns
 morph=/indpqp.*/	25. Find verb forms descended from the Latin pluperfect indicative
 morph=/.*2/	26. Find verbs in the second-person singular
 tei_q _i_ morph=/.*2/	27. Find verbs in the second-person singular in direct speech
-pos_syn=/NOM.*/ _=_ morph="smn" & #1 _r_ seg_plus!=/.*ant.*cons.*CORONAL.*strident.*/	28. Find masculine nouns in the nominative singular not ending in /s/ or /ts/
-pos_syn="VERcjg" . pos_syn=/PRC.*/	29. Find directly postverbal clitic pronouns
+pos=/NOM.*/ _=_ morph="smn" & #1 _r_ seg_plus!=/.*ant.*cons.*CORONAL.*strident.*/	28. Find masculine nouns in the nominative singular not ending in /s/ or /ts/
+pos="VERcjg" . pos=/PRC.*/	29. Find directly postverbal clitic pronouns

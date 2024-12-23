@@ -34,4 +34,4 @@ wd_id,line_id,line_wd,ref,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,mo
 33,6,3,"PassAugs, l. 6",la,la,+,LA,l.a,L/A\,fro,DETdef,sfr,le,DMF,le,,,
 34,6,4,"PassAugs, l. 6",crux,crux,_,kroiÇ,c.r.u.x.,kr/o\iÇ,fro,NOMcom,sfr,croix,DMF,croix,,,
 35,6,5,"PassAugs, l. 6",l,l,+,L,l,L/\,fro,PRCper,3sma,le,DMF,le,,,
-36,6,6,"PassAugs, l. 6",apenderat[=apenderaunt],apenderaunt,|,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l></lg></body></text>,
+36,6,6,"PassAugs, l. 6",apenderat[=apenderaunt],apenderaunt,|,ApENdErAuNT,a.p.e.n.d.e.r.a.u.n.t,/A\.p/E\N.d/E\.r/A\uNT,fro,VERcjg,indfut6,appendre,DMF,appendre,,</l></lg><lb/></body></text>,

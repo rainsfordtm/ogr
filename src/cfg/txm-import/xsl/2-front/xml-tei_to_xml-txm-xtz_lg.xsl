@@ -8,7 +8,7 @@
     <xsl:param name="use-verse-lines">true</xsl:param>
     
     <!-- This parameter sets the names of the word ana attributes to include the TXM corpus -->
-    <xsl:param name="word-anas">line_id linewd dipl phon phon_map syllabified wd_div lang lemma lemma_src lemma_dmf pos pos_syn morph ref prosody metpos soptem line_met</xsl:param>
+    <xsl:param name="word-anas">line_id linewd dipl phon phon_map syllabified wd_div lang lemma lemma_src lemma_dmf pos morph ref prosody metpos soptem line_met</xsl:param>
 
     <xsl:template match="/*">
         <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:txm="http://textometrie.org/1.0">

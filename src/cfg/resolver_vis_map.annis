@@ -1,4 +1,4 @@
-ogr040	NULL	NULL	node	grid	ogr	visible	100	annos:/ogr040::line_ref/,/ogr040::word/,/ogr040::dipl/,/ogr040::wd_div/,/ogr040::pos_syn/,/ogr040::morph/,/ogr040::lemma/,/ogr040::lemma_dmf/,/ogr040::syll_lstress/,/ogr040::onc/,/ogr040::seg_phoneme/,/ogr040::seg_matches/
-ogr040	NULL	NULL	node	grid	tei	hidden	101	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_p/,/tei::tei_l_n/,/tei::tei_s/,/tei::tei_s_xml_lang/,/tei::tei_q/,/ogr040::word/
-ogr040	NULL	NULL	node	html	text (norm)	hidden	102	config:ogr-norm-basic
-ogr040	NULL	NULL	node	html	text (dipl)	hidden	103	config:ogr-dipl-basic
+ogr100	NULL	NULL	node	grid	ogr	visible	100	annos:/ogr100::line_ref/,/ogr100::word/,/ogr100::dipl/,/ogr100::wd_div/,/ogr100::pos/,/ogr100::morph/,/ogr100::lemma/,/ogr100::lemma_dmf/,/ogr100::syll_lstress/,/ogr100::onc/,/ogr100::seg_phoneme/,/ogr100::seg_matches/
+ogr100	NULL	NULL	node	grid	tei	hidden	101	hide_tok:true;annos:/tei::tei_pb_n/,/tei::tei_cb_n/,/tei::tei_lb/,/tei::tei_lg_n/,/tei::tei_p/,/tei::tei_l_n/,/tei::tei_s/,/tei::tei_s_xml_lang/,/tei::tei_q/,/ogr100::word/
+ogr100	NULL	NULL	node	html	text (norm)	hidden	102	config:ogr-norm-basic
+ogr100	NULL	NULL	node	html	text (dipl)	hidden	103	config:ogr-dipl-basic

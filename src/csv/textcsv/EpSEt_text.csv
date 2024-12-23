@@ -332,7 +332,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,phon,phon_map,syllabified,wd_div,
 331,54,2,---,"EpSEt, heading X",lapidabant,lapidabant,,,,.¶,lat,---,---,---,---,---,,</head>,
 332,55,1,46,"EpSEt, l. 46",lo,lo,Lo,l.o,L/(o)\,_,fro,DETdef,smr,le,DMF,le,,,<l n=&quot;46&quot;>
 333,55,2,46,"EpSEt, l. 46",baru[n],barun,bArOn,b.a.r.u.n,b/A\.'r/O\n,|,fro,NOMcom,smr,baron,DMF,baron,,,
-334,55,3,46,"EpSEt, l. 46",segue[n]t,seguent,SɛguəNT,s.e.g.u.e.n.t,S/ɛ\.'g/u\./ə\NT,_,fro,VERcjg,indpst6,suivre,DMF,suivre,,,<lb/>
+334,55,3,46,"EpSEt, l. 46",segue[n]t,seguent,SɛgəNT,s.e.gu.e.n.t,'S/ɛ\.g/ə\NT,_,fro,VERcjg,indpst6,suivre,DMF,suivre,,,<lb/>
 335,55,4,46,"EpSEt, l. 46",m[u]lt,mult,moLT,m.u.l.t,m/o\LT,_,fro,ADVgen,---,moult,DMF,moult,,,
 336,55,5,46,"EpSEt, l. 46",gant[=grant],grant,grÆNT,g.r.a.n.t,gr/Æ\NT,_,fro,ADJqua,sfn,grand,DMF,grand,,,
 337,55,6,46,"EpSEt, l. 46",torbe,torbe,torbə,t.o.r.b.e,'t/o\r.b/(ə)\,_,fro,NOMcom,sfn,tourbe,DMF,tourbe,,,
