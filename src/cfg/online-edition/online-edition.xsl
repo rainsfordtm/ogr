@@ -212,7 +212,7 @@
                 <xsl:text> </xsl:text>
                 <xsl:value-of select="@msd"/>
                 <xsl:text> </xsl:text>
-                <xsl:value-of select="substring-before(substring-after(@ana, '#syllabified£'), ' ')"/>
+                <xsl:value-of select="substring-before(substring-after(@ana, '#phon£'), ' ')"/>
             </xsl:attribute>
             <xsl:apply-templates mode="#current"/>
         </xsl:element>

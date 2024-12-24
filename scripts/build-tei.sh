@@ -34,11 +34,3 @@ $SYLVA_DIR/export_text.py -t pos . ChansLas cfg/phonemes-ogr.cfg cfg/unstressed-
 $SYLVA_DIR/export_text.py -t pos . EpreuveJudic cfg/phonemes-ogr.cfg cfg/unstressed-ongr.txt -o tei
 $SYLVA_DIR/export_text.py -t pos . AlexisProl cfg/phonemes-ogr.cfg cfg/unstressed-ongr.txt -o tei
 $SYLVA_DIR/export_text.py -t pos . SGregPaint cfg/phonemes-ogr.cfg cfg/unstressed-ongr.txt -o tei
-
-# Reheader the-XML
-
-echo "Write-XML header"
-python3 $SCRIPT_DIR/ogr-paula-metadata.py $SCRIPT_DIR/../src
-
-echo "Rename grid"
-mv $SCRIPT_DIR/../src/paula/grid $SCRIPT_DIR/../src/paula/ogr100
