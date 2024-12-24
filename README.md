@@ -9,16 +9,15 @@ BRIEF DESCRIPTION
 
 The main branch of this repository contains the source files for the 
 OGR Corpus:
-* `csv/textcsv`: source texts
-* `cfg`: files necessary for compiling and exporting the corpus
-* `doc`: metadata and documentation
+* `src/csv/textcsv`: source texts
+* `src/cfg`: files necessary for compiling and exporting the corpus
+* `src/doc`: metadata and documentation
+* `site/content`: website
+* `scripts`: scripts to generate XML-TEI, HTML and PAULA-XML versions.
 
 Before the corpus can be used, the source files must be processed and
 exported using the syllabic verse analysis (SylVA) tools available on Sourceforge:  
-https://sourceforge.net/projects/syllabic-verse-analysis/
-
-**The main branch contains work in progress!** Some source texts are not finished
-and will cause errors if the scripts in SylVA are used on them.
+[https://sourceforge.net/projects/syllabic-verse-analysis/](https://sourceforge.net/projects/syllabic-verse-analysis/)
 
 If you want to use the corpus, please download the latest release:
 * https://github.com/rainsfordtm/ogr/releases
