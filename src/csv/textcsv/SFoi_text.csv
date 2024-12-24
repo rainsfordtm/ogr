@@ -35,14 +35,14 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 34,5,5,a,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 5",,
 35,5,6,l,l,_,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 5",,
 36,5,7,rei,rei,_,rei,r.e.i,r/e\i,pro,NOMcom,smr,réi,DOM,roi,,"SFoi, l. 5",,
-37,5,8,licin,licin,.,Liʦin,l.i.c.i.n,L/i\.'ʦ/i\n,pro,NOMpro,smr,Licin,---,---,,"SFoi, l. 5",</l>,
+37,5,8,licin,licin,.,Liʦin,l.i.c.i.n,L/i\.'ʦ/i\n,pro,NOMpro,smr,Licinius,oc.wikipedia.org,---,,"SFoi, l. 5",</l>,
 38,6,1,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 6",,<l n=&quot;6&quot;>
 39,6,2,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 6",,
 40,6,3,l,l,|,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 6",,
 41,6,4,linnadg,linnadg,+,LiɲAdʤ0,l.i.nn.a.d.g.,L/i\.'ɲ/A\d.ʤ/[0]\,pro,NOMcom,smr,linhatge,DOM,lignage,,"SFoi, l. 6",,<lb/>
 42,6,5,a,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 6",,
 43,6,6,l,l,_,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 6",,
-44,6,7,maximin,maximin,.,mAkSimin,m.a.x..i.m.i.n,m/A\k.S/i\.'m/i\n,pro,NOMpro,smr,Maximien,---,---,,"SFoi, l. 6",</l>,
+44,6,7,maximin,maximin,.,mAkSimin,m.a.x..i.m.i.n,m/A\k.S/i\.'m/i\n,pro,NOMpro,smr,Maximian,oc.wikipedia.org,---,,"SFoi, l. 6",</l>,
 45,7,1,cel,cel,_,Çel,c.e.l,Ç/e\l,pro,PRNdem,pmn,cél2,DOM,cil,,"SFoi, l. 7",,<l n=&quot;7&quot;>
 46,7,2,meiro,meiro,+,meirO,m.e.i.r.o,'m/e\i.r/O\,pro,VERcjg,indpsp6,métre,DOM,mettre,,"SFoi, l. 7",,
 47,7,3,ls,ls,_,LS,l.s,/\LS,pro,DETdef,pmr,los,DOM,le,,"SFoi, l. 7",,
@@ -86,7 +86,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 85,13,4,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 13",,<lb/>
 86,13,5,l,l,+,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 13",,
 87,13,6,temps,temps,_,tENpS,t.e.m.p.s,t/E\NpS,pro,NOMcom,smr,témps,DOM,temps,,"SFoi, l. 13",,
-88,13,7,constantin,co[n]stantin,.,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,---,---,,"SFoi, l. 13",</l></lg>,
+88,13,7,constantin,co[n]stantin,.,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,oc.wikipedia.org,---,,"SFoi, l. 13",</l></lg>,
 89,14,1,canczon,Canczon,_,kANʦOn,c.a.n.cz.o.n,k/A\N.'ʦ/O\n,pro,NOMcom,sfr,cansóN,DOM,chanson,,"SFoi, l. 14",,<lg n=&quot;2&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;14&quot;>
 90,14,2,audi,audi,_,Auði,a.u.d.i,/A\u.'ð/i\,pro,VERcjg,indpsp1,auzir,DOM,ouïr,,"SFoi, l. 14",,
 91,14,3,q,q,+,k,q,k/\,pro,PRNrel,sfn,que,DOM,que,,"SFoi, l. 14",,
@@ -147,9 +147,9 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 146,22,7,en,en,_,EN,e.n,/E\N,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 22",,
 147,22,8,paresca,paresca,.,pAreSkA,p.a.r.e.s.c.a,p/A\.'r/e\S.k/(A)\,pro,VERcjg,subpst3,paréiser,DOM,paraître,,"SFoi, l. 22",</l></lg>,
 148,23,1,tota,Tota,_,totA,t.o.t.a,'t/o\.t/(A)\,pro,DETind,sfn,tót,DOM,tout,,"SFoi, l. 23",,<lg n=&quot;3&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;23&quot;>
-149,23,2,basconn,basconn,+,bASkOɲ0,b.a.s.c.o.nn.,b/A\S.'k/O\.ɲ/[0]\,pro,NOMpro,sfn,Basconha,,---,,"SFoi, l. 23",,
+149,23,2,basconn,basconn,+,bASkOɲ0,b.a.s.c.o.nn.,b/A\S.'k/O\.ɲ/[0]\,pro,NOMpro,sfn,Gasconha,oc.wikipedia.org,---,,"SFoi, l. 23",,
 150,23,3,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 23",,
-151,23,4,aragons,aragons,.|,ArAgOnS,a.r.a.g.o.n.s,/A\.r/A\.'g/O\nS,pro,NOMpro,smn,Aragon,,---,,"SFoi, l. 23",</l>,
+151,23,4,aragons,aragons,.|,ArAgOnS,a.r.a.g.o.n.s,/A\.r/A\.'g/O\nS,pro,NOMpro,smn,Aragon,oc.wikipedia.org,---,,"SFoi, l. 23",</l>,
 152,24,1,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 24",,<lb/><l n=&quot;24&quot;>
 153,24,2,l,l,_,L,l,L/\,pro,DETdef,sfn,la,DOM,le,,"SFoi, l. 24",,
 154,24,3,encontrada,enco[n]trada,_,ENkONtrAdA,e.n.c.o.n.t.r.a.d.a,/E\N.k/O\N.'tr/A\.d/(A)\,pro,NOMcom,sfn,encontrada,DOM,encontrée,,"SFoi, l. 24",,
@@ -218,7 +218,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 217,34,4,audid,audid,|,Auðid,a.u.d.i.d,/A\u.'ð/i\d,pro,VERppe,snr,auzir,DOM,ouïr,,"SFoi, l. 34",,
 218,34,5,asaz,asaz,.,AsAdS,a.s.a.z.,/A\.'s/A\dS,pro,ADVgen,---,asatz,DOM,assez,,"SFoi, l. 34",</l>,<lb/>
 219,35,1,q,q,+,k,q,k/\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 35",,<l n=&quot;35&quot;>
-220,35,2,agenz,agenz,_,AʤENÇ,a.g.e.n.z,/A\.'ʤ/E\NÇ,pro,NOMpro,smn,Agen,,---,,"SFoi, l. 35",,
+220,35,2,agenz,agenz,_,AʤENÇ,a.g.e.n.z,/A\.'ʤ/E\NÇ,pro,NOMpro,smn,Agen,oc.wikipedia.org,---,,"SFoi, l. 35",,
 221,35,3,fo,fo,_,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 35",,
 222,35,4,molt,molt,_,moLt,m.o.l.t,m/o\Lt,pro,ADVgen,---,mólt,DOM,moult,,"SFoi, l. 35",,
 223,35,5,rica,rica,_,rikA,r.i.c.a,'r/i\.k/(A)\,pro,ADJqua,sfn,ric,DOM,riche,,"SFoi, l. 35",,
@@ -346,7 +346,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 345,54,1,proverbi,Proverbi,_,prOvɛrbi,p.r.o.v.e.r.b.i,pr/O\.'v/ɛ\r.b/(i)\,pro,NOMcom,smr,provèrbi,DOM,proverbe,,"SFoi, l. 54",,<lg n=&quot;6&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;54&quot;>
 346,54,2,diss,diss,_,dis,d.i.ss,d/i\s,pro,VERcjg,indpsp3,dire,DOM,dire,,"SFoi, l. 54",,
 347,54,3,reiz,reiz,_,reiÇ,r.e.i.z,r/e\iÇ,pro,NOMcom,smn,réi,DOM,roi,,"SFoi, l. 54",,
-348,54,4,salamon,salamon,.,SAlAmOn,s.a.l.a.m.o.n,S/A\.l/A\.'m/O\n,pro,NOMpro,smn,Salomon,,---,,"SFoi, l. 54",</l>,
+348,54,4,salamon,salamon,.,SAlAmOn,s.a.l.a.m.o.n,S/A\.l/A\.'m/O\n,pro,NOMpro,smn,Salamon,oc.wikipedia.org,Salomon,,"SFoi, l. 54",</l>,
 349,55,1,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 55",,<l n=&quot;55&quot;>
 350,55,2,l,l,_,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 55",,
 351,55,3,pomer,pomer,_,pOmɛr,p.o.m.e.r,p/O\.'m/ɛ\r,pro,NOMcom,smr,pomier,DOM,pommier,,"SFoi, l. 55",,
@@ -452,7 +452,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 451,71,5,tan,tan,+,tAn,t.a.n,t/A\n,pro,ADVgen,---,tan,DOM,tant,,"SFoi, l. 71",,
 452,71,6,bon,bon,_,bOn,b.o.n,b/O\n,pro,ADJqua,smr,bóN,DOM,bon,,"SFoi, l. 71",,
 453,71,7,grad,grad,.,grAd,g.r.a.d,gr/A\d,pro,NOMcom,smr,gra,DOM,gré,,"SFoi, l. 71",</l>,
-454,72,1,fides,FIDES,_,fidEz,f.i.d.e.s,f/i\.'d/E\z,pro,NOMpro,sfn,Fides,---,---,,"SFoi, l. 72",,<l n=&quot;72&quot;>
+454,72,1,fides,FIDES,_,fidEz,f.i.d.e.s,f/i\.'d/E\z,pro,NOMpro,sfn,Fides,wiktionary,---,,"SFoi, l. 72",,<l n=&quot;72&quot;>
 455,72,2,a,a,+,A,a,/A\,pro,VERcjg,indpst3,avér,DOM,avoir,,"SFoi, l. 72",,
 456,72,3,nom,nom,_,nOm,n.o.m,n/O\m,pro,NOMcom,smr,nóm,DOM,nom,,"SFoi, l. 72",,
 457,72,4,per,p[er],+,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,,"SFoi, l. 72",,
@@ -530,7 +530,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 529,83,4,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 83",,
 530,83,5,con,con,+,kOn,c.o.n,k/O\n,pro,CONsub,---,cóm,DOM,comme,,"SFoi, l. 83",,
 531,83,6,cantaz,cantaz,.,kANtAdS,c.a.n.t.a.z.,k/A\N.'t/A\dS,pro,VERcjg,indpst5,cantar,DOM,chanter,,"SFoi, l. 83",</l>,
-532,84,1,o,o,_,O,o,/O\,pro,INJ,---,ò2,---,---,,"SFoi, l. 84",,<l n=&quot;84&quot;>
+532,84,1,o,o,_,O,o,/O\,pro,INJ,---,ô,DMF,ô,,"SFoi, l. 84",,<l n=&quot;84&quot;>
 533,84,2,deus,deus,|,dɛuS,d.e.u.s,d/ɛ\uS,pro,NOMcom,smn,dèu,DOM,dieu,,"SFoi, l. 84",,
 534,84,3,tant,tant,_,tANt,t.a.n.t,t/A\Nt,pro,ADVgen,---,tan,DOM,tant,,"SFoi, l. 84",,<lb/>
 535,84,4,n,n,+,n,n,n/\,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 84",,
@@ -715,10 +715,10 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 714,112,2,fo,fo,_,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 112",,
 715,112,3,aucis,aucis,_,Auʦiz,a.u.c.i.s,/A\u.'ʦ/i\z,pro,VERppe,smn,aucire,DOM,occire,,"SFoi, l. 112",,
 716,112,4,sainz,sainz,_,SAiNtS,s.a.i.n.z.,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 112",,
-717,112,5,adrians,adrians,.,AdriAnS,a.d.r.i.a.n.s,/A\.dr/i\.'/A\nS,pro,NOMpro,smn,Adrian,,---,,"SFoi, l. 112",</l>,
+717,112,5,adrians,adrians,.,AdriAnS,a.d.r.i.a.n.s,/A\.dr/i\.'/A\nS,pro,NOMpro,smn,Adrian,oc.wikipedia.org,Adrien,,"SFoi, l. 112",</l>,
 718,113,1,reiz,reiz,_,reiÇ,r.e.i.z,r/e\iÇ,pro,NOMcom,smn,réi,DOM,roi,,"SFoi, l. 113",,<l n=&quot;113&quot;>
 719,113,2,era,era,_,ɛrA,e.r.a,'/ɛ\.r/(A)\,pro,VERcjg,indipf3,èser,DOM,être,,"SFoi, l. 113",,
-720,113,3,dioclicians,dioclicians,.,diOkLiʦiANS,d.i.o.c.l.i.c.i.a.n.s,d/i\./<O>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclétien,---,---,,"SFoi, l. 113",</l>,
+720,113,3,dioclicians,dioclicians,.,diOkLiʦiANS,d.i.o.c.l.i.c.i.a.n.s,d/i\./<O>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclecian,oc.wikipedia.org,---,,"SFoi, l. 113",</l>,
 721,114,1,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 114",,<l n=&quot;114&quot;>
 722,114,2,grex,grex,_,grɛkS,g.r.e.x.,gr/ɛ\kS,pro,NOMcom,pmr,grec2,DOM,grec,,"SFoi, l. 114",,
 723,114,3,fo,fo,|,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 114",,
@@ -726,13 +726,13 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 725,114,5,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 114",,
 726,114,6,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 114",,
 727,114,7,romans,romans,.,rOmAnS,r.o.m.a.n.s,r/O\.'m/A\nS,pro,NOMcom,pmr,romaN,DOM,romain,,"SFoi, l. 114",</l>,
-728,115,1,hespainna,hespainna,_,ESpAiɲA,he.s.p.a.i.nn.a,/E\S.'p/A\i.ɲ/(A)\,pro,NOMpro,sfr,Espagne,---,---,,"SFoi, l. 115",,<l n=&quot;115&quot;>
+728,115,1,hespainna,hespainna,_,ESpAiɲA,he.s.p.a.i.nn.a,/E\S.'p/A\i.ɲ/(A)\,pro,NOMpro,sfr,Espanha,oc.wikipedia.org,Espagne,,"SFoi, l. 115",,<l n=&quot;115&quot;>
 729,115,2,teg,teg,_,teg,t.e.g,t/e\g,pro,VERcjg,indpsp3,tenér,DOM,tenir,,"SFoi, l. 115",,
 730,115,3,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 115",,
 731,115,4,ls,ls,_,LS,l.s,/\LS,pro,DETdef,pmr,los,DOM,le,,"SFoi, l. 115",,
 732,115,5,montz,montz,_,mONtS,m.o.n.t.z,m/O\NtS,pro,NOMcom,pmr,món,DOM,mont,,"SFoi, l. 115",,
-733,115,6,cerdans,cerdans,.,ÇErdAnS,c.e.r.d.a.n.s,Ç/E\r.'d/A\nS,pro,NOMpro,pmr,Cerdan,---,---,,"SFoi, l. 115",</l>,
-734,116,1,licins,licins,|,LiʦinS,l.i.c.i.n.s,L/i\.'ʦ/i\nS,pro,NOMpro,smn,Licin,---,---,,"SFoi, l. 116",,<l n=&quot;116&quot;>
+733,115,6,cerdans,cerdans,.,ÇErdAnS,c.e.r.d.a.n.s,Ç/E\r.'d/A\nS,pro,ADJqua,pmr,cerdà,wiktionary,---,,"SFoi, l. 115",</l>,
+734,116,1,licins,licins,|,LiʦinS,l.i.c.i.n.s,L/i\.'ʦ/i\nS,pro,NOMpro,smn,Licinius,oc.wikipedia.org,---,,"SFoi, l. 116",,<l n=&quot;116&quot;>
 735,116,2,fo,fo,+,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 116",,<lb/>
 736,116,3,sos,sos,+,SOS,s.o.s,S/O\S,pro,DETpos,3smn,sos,DOM,son4,,"SFoi, l. 116",,
 737,116,4,filz,filz,_,fiLÇ,f.i.l.z,f/i\LÇ,pro,NOMcom,smn,filh,DOM,fils,,"SFoi, l. 116",,
@@ -766,12 +766,12 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 765,121,1,sotz,sotz,_,SotS,s.o.t.z,S/o\tS,pro,PRE,---,sótz,DOM,sous,,"SFoi, l. 121",,<l n=&quot;121&quot;>
 766,121,2,mil,mil,_,mil,m.i.l,m/i\l,pro,DETcar,pmr,mil,DOM,mille,,"SFoi, l. 121",,
 767,121,3,diables,diables,_,diAbLEz,d.i.a.b.l.e.s,d/i\.'/A\.bL/E\z,pro,NOMcom,pmr,diable,DOM,diable,,"SFoi, l. 121",,
-768,121,4,cabespans,cabespans,.,kAbESpAnS,c.a.b.e.s.p.a.n.s,k/A\.b/E\S.'p/A\nS,pro,NOMcom,pmr,cabespan,,---,,"SFoi, l. 121",</l>,
+768,121,4,cabespans,cabespans,.,kAbESpAnS,c.a.b.e.s.p.a.n.s,k/A\.b/E\S.'p/A\nS,pro,NOMcom,pmr,?,---,---,,"SFoi, l. 121",</l>,
 769,122,1,d,d,+,d,d,d/\,pro,PRE,---,de,DOM,de,,"SFoi, l. 122",,<l n=&quot;122&quot;>
 770,122,2,aqest,aqest,_,AkeSt,a.q.e.s.t,/A\.'k/e\St,pro,PRNdem,smr,aquést,DOM,---,,"SFoi, l. 122",,
 771,122,3,fo,fo,|,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 122",,
 772,122,4,pars,pars,_,pArS,p.a.r.s,p/A\rS,pro,NOMcom,smn,par,DOM,pair,,"SFoi, l. 122",,<lb/>
-773,122,5,maximians,maximians,.,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximien,---,---,,"SFoi, l. 122",</l></lg>,
+773,122,5,maximians,maximians,.,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximian,oc.wikipedia.org,---,,"SFoi, l. 122",</l></lg>,
 774,123,1,ensems,Ensems,_,ENSEmS,e.n.s.e.m.s,/E\N.'S/E\mS,pro,ADVgen,---,enséms,DOM,ensemble,,"SFoi, l. 123",,<lg n=&quot;13&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;123&quot;>
 775,123,2,concordan,co[n]cordan,_,kONkɔrdAn,c.o.n.c.o.r.d.a.n,k/O\N.'k/ɔ\r.d/A\n,pro,VERcjg,indpst6,concordar,DOM,concorder,,"SFoi, l. 123",,
 776,123,3,lur,lur,_,LOr,l.u.r,L/O\r,pro,DETpos,6smr,lor,DOM,leur2,,"SFoi, l. 123",,
@@ -799,7 +799,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 798,127,5,avar,avar,.,AvAr,a.v.a.r,/A\.'v/A\r,pro,ADJqua,smr,avar,DOM,avare,,"SFoi, l. 127",</l>,
 799,128,1,czo,czo,+,ʦO,cz.o,ʦ/O\,pro,PRNdem,snn,so,DOM,ce,,"SFoi, l. 128",,<l n=&quot;128&quot;>
 800,128,2,s,s,+,0S,.s,/[0]\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 128",,
-801,128,3,dacians,dacians,|,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,---,---,,"SFoi, l. 128",,
+801,128,3,dacians,dacians,|,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,wikipedia.fr,---,,"SFoi, l. 128",,
 802,128,4,cui,cui,_,kyi,c.u.i,k/y\i,pro,PRNrel,smr,qui,DOM,qui,,"SFoi, l. 128",,<lb/>
 803,128,5,deus,deus,_,dɛuS,d.e.u.s,d/ɛ\uS,pro,NOMcom,smn,dèu,DOM,dieu,,"SFoi, l. 128",,
 804,128,6,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 128",,
@@ -828,7 +828,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 827,132,4,vengud,ven_gud,_,vENgyd,v.e.n.g.u.d,v/E\N.'g/y\d,pro,VERppe,smr,venir,DOM,venir,,"SFoi, l. 132",,
 828,132,5,inz,inz,_,iNtS,i.n.z.,/i\NtS,pro,ADVgen,---,ins,DOM,ens,,"SFoi, l. 132",,
 829,132,6,en,en,+,EN,e.n,/E\N,pro,PRE,---,én,DOM,en,,"SFoi, l. 132",,
-830,132,7,agen,agen,.,AʤEn,a.g.e.n,/A\.'ʤ/E\n,pro,NOMpro,smr,Agen,,---,,"SFoi, l. 132",</l>,
+830,132,7,agen,agen,.,AʤEn,a.g.e.n,/A\.'ʤ/E\n,pro,NOMpro,smr,Agen,oc.wikipedia.org,---,,"SFoi, l. 132",</l>,
 831,133,1,aqo,aqo,_,AkO,a.q.o,/A\.'k/O\,pro,PRNdem,snn,aco,DOM,---,,"SFoi, l. 133",,<l n=&quot;133&quot;>
 832,133,2,fo,fo,_,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 133",,
 833,133,3,hom,hom,_,Om,ho.m,/O\m,pro,NOMcom,smn,óme,DOM,homme,,"SFoi, l. 133",,
@@ -839,7 +839,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 838,134,1,tals,tals,_,tALS,t.a.l.s,t/A\LS,pro,DETind,pfr,tal,DOM,tel,,"SFoi, l. 134",,<pb n=&quot;16v&quot;/><lb/><l n=&quot;134&quot;>
 839,134,2,obras,obras,_,ɔbrAz,o.b.r.a.s,'/ɔ\.br/A\z,pro,NOMcom,pfr,òbra,DOM,oeuvre,,"SFoi, l. 134",,
 840,134,3,va,ua,_,vA,v.a,v/A\,pro,VERcjg,indpst3,anar,DOM,aner,,"SFoi, l. 134",,
-841,134,4,pertot,p[er]tot,_,pErtot,p.e.r.t.o.t,p/E\r.'t/o\t,pro,PRNind,snr,pertót,---,partout,,"SFoi, l. 134",,
+841,134,4,pertot,p[er]tot,_,pErtot,p.e.r.t.o.t,p/E\r.'t/o\t,pro,PRNind,snr,per.tót,DOM,partout,,"SFoi, l. 134",,
 842,134,5,fazen,fazen,.,fAÇEn,f.a.z.e.n,f/A\.'Ç/E\n,pro,VERppa,---,faire,DOM,faire,,"SFoi, l. 134",</l>,
 843,135,1,per,p[er],+,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,,"SFoi, l. 135",,<l n=&quot;135&quot;>
 844,135,2,que,que,_,ke,qu.e,k/(e)\,pro,PRNrel,snr,que,DOM,que,,"SFoi, l. 135",,
@@ -882,7 +882,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 881,141,2,audun,audun,_,AuðOn,a.u.d.u.n,'/A\u.ð/O\n,pro,VERcjg,indpst6,auzir,DOM,ouïr,,"SFoi, l. 141",,
 882,141,3,q,q,+,k,q,k/\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 141",,
 883,141,4,intra,intra,_,iNtrA,i.n.t.r.a,'/i\N.tr/(A)\,pro,VERcjg,indpst3,intrar,DOM,entrer,,"SFoi, l. 141",,
-884,141,5,dacians,dacians,.,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,---,---,,"SFoi, l. 141",</l>,
+884,141,5,dacians,dacians,.,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,wikipedia.fr,---,,"SFoi, l. 141",</l>,
 885,142,1,aqo,aqo,+,AkO,a.q.o,/A\.'k/O\,pro,PRNdem,snn,aco,DOM,---,,"SFoi, l. 142",,<l n=&quot;142&quot;>
 886,142,2,fo,fo,|,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 142",,
 887,142,3,granz,granz,_,grANdS,g.r.a.n.z.,gr/A\NdS,pro,ADJqua,sfn,gran,DOM,grand,,"SFoi, l. 142",,<lb/>
@@ -1067,7 +1067,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1066,171,3,fezestz,fezestz,_,fEʣeStS,f.e.z.e.s.t.z,f/E\.'ʣ/e\StS,pro,VERcjg,indpsp5,faire,DOM,faire,,"SFoi, l. 171",,
 1067,171,4,far,far,_,fAr,f.a.r,f/A\r,pro,VERinf,---,faire,DOM,faire,,"SFoi, l. 171",,
 1068,171,5,saint,saint,_,SAiNt,s.a.i.n.t,S/A\iNt,pro,ADJqua,smr,sanh,DOM,saint,,"SFoi, l. 171",,
-1069,171,6,feliz,feliz,.,fEliʣ,f.e.l.i.z,f/E\.'l/i\ʣ,pro,NOMpro,smr,Félix,---,---,,"SFoi, l. 171",</q></l></lg>,
+1069,171,6,feliz,feliz,.,fEliʣ,f.e.l.i.z,f/E\.'l/i\ʣ,pro,NOMpro,smr,Fèlix,oc.wikipedia.org,Félix,,"SFoi, l. 171",</q></l></lg>,
 1070,172,1,trames,Trames,+,trAmez,t.r.a.m.e.s,tr/A\.'m/e\z,pro,VERcjg,indpsp3,tramétre,DOM,tramettre,,"SFoi, l. 172",,<lg n=&quot;18&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;172&quot;>
 1071,172,2,per,p[er],+,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,,"SFoi, l. 172",,
 1072,172,3,ella,ella,|,eLLA,e.l.l.a,'/e\L.L/(A)\,pro,PRNper,3sfr,ela,DOM,elle,,"SFoi, l. 172",,
@@ -1289,7 +1289,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1288,204,2,la,la,+,LA,l.a,L/A\,pro,PRCper,3sfa,la2,DOM,le,,"SFoi, l. 204",,
 1289,204,3,l,l,_,L,l,/\L,pro,DETdef,pmn,li2,DOM,le,,"SFoi, l. 204",,
 1290,204,4,baille,baille,_,bAiʎE,b.a.i.ll.e,'b/A\i.ʎ/(E)\,pro,NOMcom,pmn,baile,DOM,bayle,,"SFoi, l. 204",,
-1291,204,5,datian,datian,_,dAʦiAn,d.a.t.i.a.n,d/A\.ʦ/i\.'/A\n,pro,NOMpro,smr,Dacien,---,---,,"SFoi, l. 204",</l>,
+1291,204,5,datian,datian,_,dAʦiAn,d.a.t.i.a.n,d/A\.ʦ/i\.'/A\n,pro,NOMpro,smr,Dacien,wikipedia.fr,---,,"SFoi, l. 204",</l>,
 1292,205,1,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 205",,<l n=&quot;205&quot;>
 1293,205,2,menan,menan,_,mEnAn,m.e.n.a.n,'m/E\.n/A\n,pro,VERcjg,indpst6,menar,DOM,mener,,"SFoi, l. 205",,
 1294,205,3,la,la,+,LA,l.a,L/A\,pro,PRCper,3sfa,la2,DOM,le,,"SFoi, l. 205",,
@@ -1328,14 +1328,14 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1327,210,3,a,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 210",,<lb/>
 1328,210,4,l,l,_,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 210",,
 1329,210,5,deu,deu,_,dɛu,d.e.u,d/ɛ\u,pro,NOMcom,smr,dèu,DOM,dieu,,"SFoi, l. 210",,
-1330,210,6,selvan,seluan,_,SELvAn,s.e.l.v.a.n,S/E\L.'v/A\n,pro,NOMpro,smr,Sylvain,,---,,"SFoi, l. 210",</q></l>,
+1330,210,6,selvan,seluan,_,SELvAn,s.e.l.v.a.n,S/E\L.'v/A\n,pro,NOMpro,smr,sylvain,wiktionary,---,,"SFoi, l. 210",</q></l>,
 1331,211,1,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 211",,<l n=&quot;211&quot;><q>
 1332,211,2,preg,preg,_,prɛg,p.r.e.g,pr/ɛ\g,pro,VERcjg,subpst3,pregar,DOM,prier,,"SFoi, l. 211",,
-1333,211,3,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,---,---,,"SFoi, l. 211",,
+1333,211,3,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,wikipedia.fr,---,,"SFoi, l. 211",,
 1334,211,4,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 211",,
 1335,211,5,l,l,_,L,l,/\L,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 211",,
 1336,211,6,deu,deu,_,dɛu,d.e.u,d/ɛ\u,pro,NOMcom,smr,dèu,DOM,dieu,,"SFoi, l. 211",,
-1337,211,7,jan,ian,.,ʤAn,j.a.n,ʤ/A\n,pro,NOMpro,smr,Janus,---,---,,"SFoi, l. 211",</q></l>,
+1337,211,7,jan,ian,.,ʤAn,j.a.n,ʤ/A\n,pro,NOMpro,smr,Janus,wikipedia.fr,---,,"SFoi, l. 211",</q></l>,
 1338,212,1,ill,ill,_,iLL,i.l.l,/i\LL,pro,PRCper,3sfi,li4,DOM,li,,"SFoi, l. 212",,<l n=&quot;212&quot;>
 1339,212,2,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 212",,
 1340,212,3,prezed,pre-|zed,_,prEʣɛd,p.r.e.z.e.d,pr/E\.'ʣ/ɛ\d,pro,VERcjg,indpsp3,prezar,DOM,priser,,"SFoi, l. 212",,
@@ -1572,7 +1572,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1571,249,4,ben,ben,_,bEn,b.e.n,b/E\n,pro,ADVgen,---,béN,DOM,bien,,"SFoi, l. 249",,
 1572,249,5,grand,grand,_,grANd,g.r.a.n.d,gr/A\Nd,pro,ADJqua,smr,gran,DOM,grand,,"SFoi, l. 249",,
 1573,249,6,afollament,afollament,.|,AfOLLAmENt,a.f.o.l.l.a.m.e.n.t,/A\.f/O\L.L/A\.'m/E\Nt,pro,NOMcom,smr,afolamen,DOM,affolement2,,"SFoi, l. 249",</l>,
-1574,250,1,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,---,---,,"SFoi, l. 250",,<lb/><l n=&quot;250&quot;><q>
+1574,250,1,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,wikipedia.fr,---,,"SFoi, l. 250",,<lb/><l n=&quot;250&quot;><q>
 1575,250,2,colgrun,colgrun,_,kOLgrOn,c.o.l.g.r.u.n,'k/O\L.gr/O\n,pro,VERcjg,indpsp6,còlre,DOM,---,,"SFoi, l. 250",,
 1576,250,3,tei,tei,_,tɛi,t.e.i,t/ɛ\i,pro,DETpos,2pmn,tiei,DOM,tien,,"SFoi, l. 250",,
 1577,250,4,parent,parent,.,pArENt,p.a.r.e.n.t,p/A\.'r/E\Nt,pro,NOMcom,pmn,parén,DOM,parent,,"SFoi, l. 250",</q></l>,
@@ -1674,13 +1674,13 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1673,265,8,ni,ni,+,ni,n.i,n/(i)\,pro,CONcoo,---,ni,DOM,ne2,,"SFoi, l. 265",,
 1674,265,9,m,m,+,m,m,/\m,pro,PRCper,1sfr,me,DOM,me,,"SFoi, l. 265",,
 1675,265,10,foill,foill,.,fɔʎ,f.o.ill,f/ɔ\ʎ,pro,VERcjg,subpst3,foliar,DOM,foloyer,,"SFoi, l. 265",</q></l>,
-1676,266,1,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,---,---,,"SFoi, l. 266",,<l n=&quot;266&quot;><q>
+1676,266,1,diana,diana,_,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,wikipedia.fr,---,,"SFoi, l. 266",,<l n=&quot;266&quot;><q>
 1677,266,2,ne,ne,_,ne,n.e,n/(e)\,pro,CONcoo,---,ni,DOM,ne2,,"SFoi, l. 266",,
-1678,266,3,jovi,ioui,_,ʤɔvi,j.o.v.i,'ʤ/ɔ\.v/(i)\,pro,NOMpro,smr,Jupiter,---,---,,"SFoi, l. 266",,
+1678,266,3,jovi,ioui,_,ʤɔvi,j.o.v.i,'ʤ/ɔ\.v/(i)\,pro,NOMpro,smr,Jove,wiktionary,---,,"SFoi, l. 266",,
 1679,266,4,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 266",,
 1680,266,5,voil,uoil,_,vɔʎ,v.o.il,v/ɔ\ʎ,pro,VERcjg,indpst1,volér,DOM,vouloir,,"SFoi, l. 266",</q></l>,
 1681,267,1,ne,ne,_,ne,n.e,n/(e)\,pro,CONcoo,---,ni,DOM,ne2,,"SFoi, l. 267",,<l n=&quot;267&quot;><q>
-1682,267,2,minerva,minerva,|,minErvA,m.i.n.e.r.v.a,m/i\.'n/E\r.v/(A)\,pro,NOMpro,sfr,Minerve,---,---,,"SFoi, l. 267",,
+1682,267,2,minerva,minerva,|,minErvA,m.i.n.e.r.v.a,m/i\.'n/E\r.v/(A)\,pro,NOMpro,sfr,Minerve,wikipedia.fr,---,,"SFoi, l. 267",,
 1683,267,3,gens,gens,_,ʤEnS,g.e.n.s,ʤ/E\nS,pro,ADVgen,---,géns,DOM,---,,"SFoi, l. 267",,<lb/>
 1684,267,4,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 267",,
 1685,267,5,acoill,acoill,_,Akɔiʎ,a.c.o.i.ll,/A\.'k/ɔ\iʎ,pro,VERcjg,indpst1,aculhir,DOM,accueillir,,"SFoi, l. 267",</q></l>,
@@ -1728,7 +1728,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1727,275,1,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 275",,<l n=&quot;275&quot;><q>
 1728,275,2,pregarei,pregarei,_,prEgArɛi,p.r.e.g.a.r.e.i,pr/E\.g/A\.'r/ɛ\i,pro,VERcjg,indfut1,pregar,DOM,prier,,"SFoi, l. 275",,
 1729,275,3,vostra,uostra,_,vɔStrA,v.o.s.t.r.a,'v/ɔ\S.tr/(A)\,pro,DETpos,5sfr,vòstre,DOM,votre,,"SFoi, l. 275",,
-1730,275,4,diana,diana,.,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,---,---,,"SFoi, l. 275",</q></l>,
+1730,275,4,diana,diana,.,diAnA,d.i.a.n.a,d/i\.'/A\.n/(A)\,pro,NOMpro,sfr,Diane,wikipedia.fr,---,,"SFoi, l. 275",</q></l>,
 1731,276,1,ja,ia,+,ʤA,j.a,ʤ/A\,pro,ADVgen,---,ja,DOM,jà,,"SFoi, l. 276",,<l n=&quot;276&quot;><q>
 1732,276,2,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 276",,
 1733,276,3,o,o,+,o,o,/o\,pro,PRCdem,snr,ó2,DOM,---,,"SFoi, l. 276",,
@@ -1818,7 +1818,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1817,290,3,qe,qe,_,ke,q.e,k/(e)\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 290",,
 1818,290,4,fez,fez,_,feʣ,f.e.z,f/e\ʣ,pro,VERcjg,indpsp3,faire,DOM,faire,,"SFoi, l. 290",,
 1819,290,5,saint,saint,_,SAiNt,s.a.i.n.t,S/A\iNt,pro,ADJqua,smr,sanh,DOM,saint,,"SFoi, l. 290",,
-1820,290,6,laurentz,laurentz,.|,LAurENtS,l.a.u.r.e.n.t.z,L/A\u.'r/E\NtS,pro,NOMpro,smr,Laurent,---,---,,"SFoi, l. 290",</q></l>,
+1820,290,6,laurentz,laurentz,.|,LAurENtS,l.a.u.r.e.n.t.z,L/A\u.'r/E\NtS,pro,NOMpro,smr,Laurent,wikipedia.fr,Laurent,,"SFoi, l. 290",</q></l>,
 1821,291,1,ella,ella,_,eLLA,e.l.l.a,'/e\L.L/(A)\,pro,PRNper,3sfr,ela,DOM,elle,,"SFoi, l. 291",,<lb/><l n=&quot;291&quot;>
 1822,291,2,non,non,_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 291",,
 1823,291,3,n,n,+,n,n,/\n,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 291",,
@@ -1830,7 +1830,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1829,292,3,en,en,_,EN,e.n,/E\N,pro,PRE,---,én,DOM,en,,"SFoi, l. 292",,
 1830,292,4,motz,motz,_,mOtS,m.o.t.z,m/O\tS,pro,NOMcom,pmr,mot,DOM,mot,,"SFoi, l. 292",,
 1831,292,5,ben,ben,_,bEn,b.e.n,b/E\n,pro,ADVgen,---,béN,DOM,bien,,"SFoi, l. 292",,
-1832,292,6,convinentz,co[n]ui|nentz,.,kONvinENtS,c.o.n.v.i.n.e.n.t.z,k/O\N.v/i\.'n/E\NtS,pro,NOMcom,pmr,convenén,---,---,,"SFoi, l. 292",</l>,
+1832,292,6,convinentz,co[n]ui|nentz,.,kONvinENtS,c.o.n.v.i.n.e.n.t.z,k/O\N.v/i\.'n/E\NtS,pro,ADJqua,pmr,convinen,DOM,---,,"SFoi, l. 292",</l>,
 1833,293,1,fell,fell,_,feLL,f.e.l.l,f/e\LL,pro,ADJqua,smn,felóN,DOM,félon,,"SFoi, l. 293",,<lb/><l n=&quot;293&quot;><q>
 1834,293,2,sias,sias,_,SiAz,s.i.a.s,'S/i\./A\z,pro,VERcjg,subpst2,èser,DOM,être,,"SFoi, l. 293",,
 1835,293,3,tu,tu,_,ty,t.u,t/y\,pro,PRNper,2smn,tu,DOM,tu,,"SFoi, l. 293",,
@@ -1849,9 +1849,9 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1848,294,8,jorn,iorn,.,ʤorn,j.o.r.n,ʤ/o\rn,pro,NOMcom,smr,jórn,DOM,jour,,"SFoi, l. 294",</q></l>,
 1849,295,1,q,q,+,k,q,k/\,pro,PRNrel,smr,que,DOM,que,,"SFoi, l. 295",,<l n=&quot;295&quot;><q>
 1850,295,2,ador,ador,_,Ador,a.d.o.r,/A\.'d/o\r,pro,VERcjg,indpst1,adorar,DOM,aorer,,"SFoi, l. 295",,
-1851,295,3,asclepi,asclepi,_,ASkLEpi,a.s.c.l.e.p.i,/A\S.'kL/E\.p/(i)\,pro,NOMpro,smr,Esculape,---,---,,"SFoi, l. 295",,
+1851,295,3,asclepi,asclepi,_,ASkLEpi,a.s.c.l.e.p.i,/A\S.'kL/E\.p/(i)\,pro,NOMpro,smr,Asclèpi,oc.wikipedia.org,---,,"SFoi, l. 295",,
 1852,295,4,ne,ne,+,ne,n.e,n/(e)\,pro,CONcoo,---,ni,DOM,ne2,,"SFoi, l. 295",,
-1853,295,5,satorn,satorn,_,SAtorn,s.a.t.o.r.n,S/A\.'t/o\rn,pro,NOMpro,smr,Saturne,,---,,"SFoi, l. 295",</q></l>,
+1853,295,5,satorn,satorn,_,SAtorn,s.a.t.o.r.n,S/A\.'t/o\rn,pro,NOMpro,smr,Saturne,oc.wikipedia.org,---,,"SFoi, l. 295",</q></l>,
 1854,296,1,q,q,+,k,q,k/\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 296",,<l n=&quot;296&quot;><q>
 1855,296,2,intz,intz,_,iNtS,i.n.t.z,/i\NtS,pro,ADVgen,---,ins,DOM,ens,,"SFoi, l. 296",,
 1856,296,3,en,en,+,EN,e.n,/E\N,pro,PRE,---,én,DOM,en,,"SFoi, l. 296",,
@@ -1968,12 +1968,12 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1967,314,2,seus,seus,_,SɛuS,s.e.u.s,S/ɛ\uS,pro,ADJpos,3smn,sèu,DOM,sien,,"SFoi, l. 314",,
 1968,314,3,noms,noms,_,nOmS,n.o.m.s,n/O\mS,pro,NOMcom,smn,nóm,DOM,nom,,"SFoi, l. 314",,
 1969,314,4,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 314",,
-1970,314,5,adonai,adonai,.,AdOnAi,a.d.o.n.a.i,/A\.d/O\.n/A\.'/i\,pro,NOMpro,smn,Adonaï,,---,,"SFoi, l. 314",</q></l>,
+1970,314,5,adonai,adonai,.,AdOnAi,a.d.o.n.a.i,/A\.d/O\.n/A\.'/i\,pro,NOMpro,smn,Adonaï,wikipedia.fr,---,,"SFoi, l. 314",</q></l>,
 1971,315,1,aital,aital,+,AitAl,a.i.t.a.l,/A\i.'t/A\l,pro,PRNind,smr,aital,DOM,itel,,"SFoi, l. 315",,<l n=&quot;315&quot;><q>
 1972,315,2,lo,lo,_,Lo,l.o,L/o\,pro,PRCper,3sma,lo3,DOM,le,,"SFoi, l. 315",,
 1973,315,3,diss,diss,_,dis,d.i.ss,d/i\s,pro,VERcjg,indpsp3,dire,DOM,dire,,"SFoi, l. 315",,
 1974,315,4,a,a,|,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 315",,
-1975,315,5,moysi,moysi,.,mOizi,m.o.y.s.i,m/O\./i\.'z/i\,pro,NOMpro,smr,Moïse,---,---,,"SFoi, l. 315",</q></l>,<lb/>
+1975,315,5,moysi,moysi,.,mOizi,m.o.y.s.i,m/O\./i\.'z/i\,pro,NOMpro,smr,Moïses,oc.wikipedia.org,Moïse,,"SFoi, l. 315",</q></l>,<lb/>
 1976,316,1,poderos,poderos,_,pOdEroz,p.o.d.e.r.o.s,p/O\.d/E\.'r/o\z,pro,ADJqua,smn,poderós,DOM,---,,"SFoi, l. 316",,<l n=&quot;316&quot;><q>
 1977,316,2,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 316",,
 1978,316,3,per,p[er],_,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,,"SFoi, l. 316",,
@@ -2215,7 +2215,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2214,352,7,laz,laz,.,LAdS,l.a.z.,L/A\dS,pro,NOMcom,pmr,latz2,DOM,lez,,"SFoi, l. 352",</l>,
 2215,353,1,eiss,eiss,_,eis,e.i.ss,/e\is,pro,ADJind,smn,éis,DOM,---,,"SFoi, l. 353",,<l n=&quot;353&quot;>
 2216,353,2,saintz,saintz,_,SAiNtS,s.a.i.n.t.z,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 353",,
-2217,353,3,caprasis,caprasis,|,kAprAziz,c.a.p.r.a.s.i.s,k/A\.'pr/A\.z/i\z,pro,NOMpro,smn,Caprais,,---,,"SFoi, l. 353",,
+2217,353,3,caprasis,caprasis,|,kAprAziz,c.a.p.r.a.s.i.s,k/A\.'pr/A\.z/i\z,pro,NOMpro,smn,Caprais,wikipedia.fr,---,,"SFoi, l. 353",,
 2218,353,4,cui,cui,_,kyi,c.u.i,k/y\i,pro,PRNrel,smi,qui,DOM,qui,,"SFoi, l. 353",,<lb/>
 2219,353,5,non,no[n],_,nOn,n.o.n,n/O\n,pro,ADVneg,---,nóN,DOM,ne,,"SFoi, l. 353",,
 2220,353,6,plaz,plaz,.,pLAʣ,p.l.a.z,pL/A\ʣ,pro,VERcjg,indpst3,plazér,DOM,plaire,,"SFoi, l. 353",</l>,
@@ -2331,7 +2331,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2330,370,6,canuz,canuz,.,kAnydS,c.a.n.u.z.,k/A\.'n/y\dS,pro,NOMcom,smn,canut,DOM,chenu,,"SFoi, l. 370",</l>,
 2331,371,1,fos,fos,_,fɔS,f.o.s,f/ɔ\S,pro,ADVgen,---,fòrs,DOM,fors,,"SFoi, l. 371",,<l n=&quot;371&quot;>
 2332,371,2,saintz,saintz,_,SAiNtS,s.a.i.n.t.z,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 371",,
-2333,371,3,caprasis,caprasis,_,kAprAziz,c.a.p.r.a.s.i.s,k/A\.'pr/A\.z/i\z,pro,NOMpro,smn,Caprais,,---,,"SFoi, l. 371",,
+2333,371,3,caprasis,caprasis,_,kAprAziz,c.a.p.r.a.s.i.s,k/A\.'pr/A\.z/i\z,pro,NOMpro,smn,Caprais,wikipedia.fr,---,,"SFoi, l. 371",,
 2334,371,4,lo,lo,_,LO,l.o,L/O\,pro,DETdef,smn,lo2,DOM,le,,"SFoi, l. 371",,
 2335,371,5,seus,seus,|,SɛuS,s.e.u.s,S/ɛ\uS,pro,ADJpos,3smn,sèu,DOM,sien,,"SFoi, l. 371",,
 2336,371,6,druz,druz,.,drydS,d.r.u.z.,dr/y\dS,pro,NOMcom,smn,drut,DOM,dru,,"SFoi, l. 371",</l>,<lb/>
@@ -2423,7 +2423,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2422,384,4,qe,qe,+,ke,q.e,k/(e)\,pro,PRNrel,pmn,que,DOM,que,,"SFoi, l. 384",,
 2423,384,5,son,son,_,SOn,s.o.n,S/O\n,pro,VERcjg,indpst6,èser,DOM,être,,"SFoi, l. 384",,
 2424,384,6,d,d,+,d,d,d/\,pro,PRE,---,de,DOM,de,,"SFoi, l. 384",,
-2425,384,7,aran,aran,.,ArAn,a.r.a.n,/A\.'r/A\n,pro,NOMpro,smr,Aran,,---,,"SFoi, l. 384",</l>,
+2425,384,7,aran,aran,.,ArAn,a.r.a.n,/A\.'r/A\n,pro,NOMpro,smr,Aran,oc.wikipedia.org,---,,"SFoi, l. 384",</l>,
 2426,385,1,dizon,dizon,|,diʣOn,d.i.z.o.n,'d/i\.ʣ/O\n,pro,VERcjg,indpst6,dire,DOM,dire,,"SFoi, l. 385",,<l n=&quot;385&quot;>
 2427,385,2,per,p[er],_,pEr,p.e.r,p/E\r,pro,PRE,---,pér,DOM,par,,"SFoi, l. 385",,<lb/><q>
 2428,385,3,ren,ren,_,rEn,r.e.n,r/E\n,pro,NOMcom,sfr,réN,DOM,rien,,"SFoi, l. 385",,
@@ -2462,10 +2462,10 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2461,389,6,taillan,taillan,.,tAʎAn,t.a.ill.a.n,t/A\.'ʎ/A\n,pro,VERppa,---,talhar,DOM,tailler,,"SFoi, l. 389",</l>,
 2462,390,1,con,co[n],_,kOn,c.o.n,k/O\n,pro,CONsub,---,cóm,DOM,comme,,"SFoi, l. 390",,<l n=&quot;390&quot;>
 2463,390,2,fez,fez,_,feʣ,f.e.z,f/e\ʣ,pro,VERcjg,indpsp3,faire,DOM,faire,,"SFoi, l. 390",,
-2464,390,3,heros,heros,_,Erɔz,he.r.o.s,/E\.'r/ɔ\z,pro,NOMpro,smn,Hérode,---,---,,"SFoi, l. 390",,
+2464,390,3,heros,heros,_,Erɔz,he.r.o.s,/E\.'r/ɔ\z,pro,NOMpro,smn,Èrodes,oc.wikipedia.org,---,,"SFoi, l. 390",,
 2465,390,4,far,far,_,fAr,f.a.r,f/A\r,pro,VERinf,---,faire,DOM,faire,,"SFoi, l. 390",,
 2466,390,5,saint,saint,|,SAiNt,s.a.i.n.t,S/A\iNt,pro,ADJqua,smr,sanh,DOM,saint,,"SFoi, l. 390",,
-2467,390,6,johan,iohan,.,ʤOAn,j.o.ha.n,ʤ/O\.'/A\n,pro,NOMpro,smr,Jean,---,---,,"SFoi, l. 390",</l></lg>,<lb/>
+2467,390,6,johan,iohan,.,ʤOAn,j.o.ha.n,ʤ/O\.'/A\n,pro,NOMpro,smr,Joan,oc.wikipedia.org,---,,"SFoi, l. 390",</l></lg>,<lb/>
 2468,391,1,remas,Remas,_,rEmAz,r.e.m.a.s,r/E\.'m/A\z,pro,VERcjg,indpsp3,remanér,DOM,remanoir,,"SFoi, l. 391",,<lg n=&quot;39&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;391&quot;>
 2469,391,2,lo,lo,_,LO,l.o,L/O\,pro,DETdef,smn,lo2,DOM,le,,"SFoi, l. 391",,
 2470,391,3,corps,corps,_,korpS,c.o.r.p.s,k/o\rpS,pro,NOMcom,smn,córs,DOM,corps,,"SFoi, l. 391",,
@@ -2535,7 +2535,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2534,401,3,en,en,_,EN,e.n,/E\N,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 401",,
 2535,401,4,trag,trag,_,trAg,t.r.a.g,tr/A\g,pro,VERcjg,indpst1,traire,DOM,traire,,"SFoi, l. 401",,
 2536,401,5,saint,saint,_,SAiNt,s.a.i.n.t,S/A\iNt,pro,ADJqua,smr,sanh,DOM,saint,,"SFoi, l. 401",,
-2537,401,6,daunis,daunis,.,dAuniz,d.a.u.n.i.s,d/A\u.'n/i\z,pro,NOMpro,smr,Denis,---,---,,"SFoi, l. 401",</l></lg>,
+2537,401,6,daunis,daunis,.,dAuniz,d.a.u.n.i.s,d/A\u.'n/i\z,pro,NOMpro,smr,Denis,wikipedia.fr,Denis,,"SFoi, l. 401",</l></lg>,
 2538,402,1,ar,Ar,_,Ar,a.r,/A\r,pro,ADVgen,---,ar,DOM,or2,,"SFoi, l. 402",,<lg n=&quot;40&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;402&quot;>
 2539,402,2,audirez,audirez,|,AuðiredS,a.u.d.i.r.e.z.,/A\u.ð/i\.'r/e\dS,pro,VERcjg,indfut5,auzir,DOM,ouïr,,"SFoi, l. 402",,
 2540,402,3,un,un,_,yn,u.n,/y\n,pro,DETndf,smr,uN,DOM,un,,"SFoi, l. 402",,<lb/>
@@ -2687,7 +2687,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2686,426,2,en,en,+,EN,e.n,/E\N,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 426",,
 2687,426,3,pres,pres,_,prez,p.r.e.s,pr/e\z,pro,VERcjg,indpsp3,préndre,DOM,prendre,,"SFoi, l. 426",,
 2688,426,4,saintz,saintz,_,SAiNtS,s.a.i.n.t.z,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 426",,
-2689,426,5,dulcidis,dulcidis,_,dyLÇidiz,d.u.l.c.i.d.i.s,d/y\L.'Ç/i\.d/i\z,pro,NOMpro,smn,Dulcide,---,---,,"SFoi, l. 426",,
+2689,426,5,dulcidis,dulcidis,_,dyLÇidiz,d.u.l.c.i.d.i.s,d/y\L.'Ç/i\.d/i\z,pro,NOMpro,smn,Dulcidis,SFoi,---,,"SFoi, l. 426",,
 2690,426,6,cura,cura,.,kyrA,c.u.r.a,'k/y\.r/(A)\,pro,NOMcom,sfr,cura,DOM,cure,,"SFoi, l. 426",</l>,
 2691,427,1,e,e,|,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 427",,<l n=&quot;427&quot;>
 2692,427,2,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 427",,<lb/>
@@ -2734,7 +2734,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2733,434,5,gran,gran,|,grAn,g.r.a.n,gr/A\n,pro,ADJqua,sfr,gran,DOM,grand,,"SFoi, l. 434",,
 2734,434,6,gentura,gentura,.,ʤENtyrA,g.e.n.t.u.r.a,ʤ/E\N.'t/y\.r/(A)\,pro,NOMcom,sfr,gentura,DOM,---,,"SFoi, l. 434",</l>,<lb/>
 2735,435,1,a,a,_,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 435",,<l n=&quot;435&quot;>
-2736,435,2,conchas,conchas,_,kONkAz,c.o.n.ch.a.s,k/O\N.'k/A\z,pro,NOMpro,sfr,Conques,---,---,,"SFoi, l. 435",,
+2736,435,2,conchas,conchas,_,kONkAz,c.o.n.ch.a.s,k/O\N.'k/A\z,pro,NOMpro,sfr,Concas,oc.wikipedia.org,---,,"SFoi, l. 435",,
 2737,435,3,l,l,+,L,l,L/\,pro,PRCper,3sfa,la2,DOM,le,,"SFoi, l. 435",,
 2738,435,4,aun,aun,_,Aun,a.u.n,/A\un,pro,VERcjg,indpst6,avér,DOM,avoir,,"SFoi, l. 435",,
 2739,435,5,sainta,s[aint]a,_,SAiNtA,s.a.i.n.t.a,'S/A\iN.t/(A)\,pro,ADJqua,sfr,sanh,DOM,saint,,"SFoi, l. 435",,
@@ -2770,7 +2770,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2769,440,5,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 440",,
 2770,440,6,jogs,iogs,_,ʤɔgS,j.o.g.s,ʤ/ɔ\gS,pro,NOMcom,pmr,jòc,DOM,jeu,,"SFoi, l. 440",,
 2771,440,7,menuz,menuz,|,mEnydS,m.e.n.u.z.,m/E\.'n/y\dS,pro,ADJqua,pmr,menut,DOM,menu,,"SFoi, l. 440",</l>,
-2772,441,1,giralz,Giralz,_,ʤirALdS,g.i.r.a.l.z.,ʤ/i\.'r/A\LdS,pro,NOMpro,smn,Giraud,---,---,,"SFoi, l. 441",,<lb/><l n=&quot;441&quot;>
+2772,441,1,giralz,Giralz,_,ʤirALdS,g.i.r.a.l.z.,ʤ/i\.'r/A\LdS,pro,NOMpro,smn,Giraud,wikipedia.fr,---,,"SFoi, l. 441",,<lb/><l n=&quot;441&quot;>
 2773,441,2,uns,uns,_,ynS,u.n.s,/y\nS,pro,DETndf,smn,uN,DOM,un,,"SFoi, l. 441",,
 2774,441,3,preire,preire,_,prɛirE,p.r.e.i.r.e,'pr/ɛ\i.r/(E)\,pro,NOMcom,smn,prèire,DOM,prêtre,,"SFoi, l. 441",,
 2775,441,4,mal,mal,_,mAl,m.a.l,m/A\l,pro,ADVgen,---,mal,DOM,mal3,,"SFoi, l. 441",,
@@ -2778,7 +2778,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2777,442,1,los,los,_,LOS,l.o.s,L/O\S,pro,DETdef,pmr,los,DOM,le,,"SFoi, l. 442",,<l n=&quot;442&quot;>
 2778,442,2,oilz,oilz,_,ɔiLÇ,o.i.l.z,/ɔ\iLÇ,pro,NOMcom,pmr,òlh,DOM,oeil,,"SFoi, l. 442",,
 2779,442,3,traiss,traiss,_,trAis,t.r.a.i.ss,tr/A\is,pro,VERcjg,indpsp3,traire,DOM,traire,,"SFoi, l. 442",,
-2780,442,4,guidbert,Guidbert,|,guidbɛrt,g.u.i.d.b.e.r.t,gu/i\d.'b/ɛ\rt,pro,NOMpro,smr,Guibert,---,---,,"SFoi, l. 442",,
+2780,442,4,guidbert,Guidbert,|,guidbɛrt,g.u.i.d.b.e.r.t,gu/i\d.'b/ɛ\rt,pro,NOMpro,smr,Guibert,wikipedia.fr,---,,"SFoi, l. 442",,
 2781,442,5,q,q,+,k,q,k/\,pro,PRNrel,smn,que,DOM,que,,"SFoi, l. 442",,<lb/>
 2782,442,6,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 442",,
 2783,442,7,sos,sos,_,SOS,s.o.s,S/O\S,pro,DETpos,3smn,sos,DOM,son4,,"SFoi, l. 442",,
@@ -2890,13 +2890,13 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2889,460,1,cest,cest,_,ÇeSt,c.e.s.t,Ç/e\St,pro,PRNdem,pmn,cést,DOM,cist,,"SFoi, l. 460",,<l n=&quot;460&quot;>
 2890,460,2,desfeirun,desfeirun,_,dESfeirOn,d.e.s.f.e.i.r.u.n,d/E\S.'f/e\i.r/O\n,pro,VERcjg,indpsp6,desfaire,DOM,défaire,,"SFoi, l. 460",,
 2891,460,3,castel,castel,_,kAStɛl,c.a.s.t.e.l,k/A\S.'t/ɛ\l,pro,NOMcom,smr,castèl,DOM,château,,"SFoi, l. 460",,
-2892,460,4,emaus,emaus,.,EmAuS,e.m.a.u.s,/E\.'m/A\uS,pro,NOMpro,smr,Emmaüs,---,---,,"SFoi, l. 460",</l>,
+2892,460,4,emaus,emaus,.,EmAuS,e.m.a.u.s,/E\.'m/A\uS,pro,NOMpro,smr,Emmaüs,wikipedia.fr,---,,"SFoi, l. 460",</l>,
 2893,461,1,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 461",,<l n=&quot;461&quot;>
 2894,461,2,czo,czo,_,ʦO,cz.o,ʦ/O\,pro,PRNdem,snr,so,DOM,ce,,"SFoi, l. 461",,
 2895,461,3,qe,qe,_,ke,q.e,k/(e)\,pro,PRNrel,snr,que,DOM,que,,"SFoi, l. 461",,
 2896,461,4,fez,fez,_,feʣ,f.e.z,f/e\ʣ,pro,VERcjg,indpsp3,faire,DOM,faire,,"SFoi, l. 461",,
 2897,461,5,saintz,saintz,|,SAiNtS,s.a.i.n.t.z,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 461",,
-2898,461,6,nicolaus,nicolaus,.,nikOlAuS,n.i.c.o.l.a.u.s,n/i\.k/O\.'l/A\uS,pro,NOMpro,smn,Nicolas,---,---,,"SFoi, l. 461",</l>,<lb/>
+2898,461,6,nicolaus,nicolaus,.,nikOlAuS,n.i.c.o.l.a.u.s,n/i\.k/O\.'l/A\uS,pro,NOMpro,smn,Nicolas,wikipedia.fr,Nicolas,,"SFoi, l. 461",</l>,<lb/>
 2899,462,1,manderun,manderun,_,mANdɛrOn,m.a.n.d.e.r.u.n,m/A\N.'d/ɛ\.r/O\n,pro,VERcjg,indpsp6,mandar,DOM,mander,,"SFoi, l. 462",,<l n=&quot;462&quot;>
 2900,462,2,lz,lz,_,LÇ,l.z,/\LÇ,pro,DETdef,pmr,los,DOM,le,,"SFoi, l. 462",,
 2901,462,3,portz,portz,_,pɔrtS,p.o.r.t.z,p/ɔ\rtS,pro,NOMcom,pmr,pòrt,DOM,port,,"SFoi, l. 462",,
@@ -2928,14 +2928,14 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 2927,466,1,ab,ab,_,Ab,a.b,/A\b,pro,PRE,---,ab,DOM,o,,"SFoi, l. 466",,<l n=&quot;466&quot;>
 2928,466,2,elz,elz,_,eLÇ,e.l.z,/e\LÇ,pro,PRNper,6pmr,els2,DOM,eux,,"SFoi, l. 466",,
 2929,466,3,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 466",,
-2930,466,4,dacians,dacians,_,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,---,---,,"SFoi, l. 466",,
+2930,466,4,dacians,dacians,_,dAʦiAnS,d.a.c.i.a.n.s,d/A\.ʦ/i\.'/A\nS,pro,NOMpro,smn,Dacien,wikipedia.fr,---,,"SFoi, l. 466",,
 2931,466,5,enclaus,enclaus,.,ENkLAuS,e.n.c.l.a.u.s,/E\N.'kL/A\uS,pro,VERppe,smn,enclaure,DOM,enclore,,"SFoi, l. 466",</l>,
 2932,467,1,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 467",,<l n=&quot;467&quot;>
 2933,467,2,l,l,|,L,l,/\L,pro,DETdef,smn,lo2,DOM,le,,"SFoi, l. 467",,
 2934,467,3,reis,reis,_,reiS,r.e.i.s,r/e\iS,pro,NOMcom,smn,réi,DOM,roi,,"SFoi, l. 467",,<lb/>
-2935,467,4,heros,heros,_,Erɔz,he.r.o.s,/E\.'r/ɔ\z,pro,NOMpro,smn,Hérode,---,---,,"SFoi, l. 467",,
+2935,467,4,heros,heros,_,Erɔz,he.r.o.s,/E\.'r/ɔ\z,pro,NOMpro,smn,Èrodes,oc.wikipedia.org,---,,"SFoi, l. 467",,
 2936,467,5,et,[et],_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 467",,
-2937,467,6,archelaus,archelaus,.,ArkElAus,a.r.ch.e.l.a.u.s,/A\r.k/E\.'l/A\us,pro,NOMpro,smn,Archélaus,,---,,"SFoi, l. 467",</l>,
+2937,467,6,archelaus,archelaus,.,ArkElAus,a.r.ch.e.l.a.u.s,/A\r.k/E\.'l/A\us,pro,NOMpro,smn,Archélaos,wikipedia.fr,---,,"SFoi, l. 467",</l>,
 2938,468,1,fums,fums,_,fymS,f.u.m.s,f/y\mS,pro,NOMcom,smn,fum,DOM,fume,,"SFoi, l. 468",,<l n=&quot;468&quot;>
 2939,468,2,los,los,_,LoS,l.o.s,L/o\S,pro,PRCper,6pma,los2,DOM,le,,"SFoi, l. 468",,
 2940,468,3,aucid,aucid,_,Auʦid,a.u.c.i.d,/A\u.'ʦ/i\d,pro,VERcjg,indpst3,auzir,DOM,ouïr,,"SFoi, l. 468",,
@@ -3024,13 +3024,13 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3023,481,6,l,l,+,L,l,L/\,pro,PRCper,3smi,li3,DOM,li,,"SFoi, l. 481",,
 3024,481,7,en,en,_,EN,e.n,/E\N,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 481",,
 3025,481,8,vigors,uigors,.,vigorS,v.i.g.o.r.s,v/i\.'g/o\rS,pro,NOMcom,sfn,vigór,DOM,vigeur,,"SFoi, l. 481",</l></lg>,
-3026,482,1,maximians,Maxi|mians,_,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximien,---,---,,"SFoi, l. 482",,<lg n=&quot;46&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;482&quot;>
+3026,482,1,maximians,Maxi|mians,_,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximian,oc.wikipedia.org,---,,"SFoi, l. 482",,<lg n=&quot;46&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;482&quot;>
 3027,482,2,fo,fo,_,fo,f.o,f/o\,pro,VERcjg,indpsp3,èser,DOM,être,,"SFoi, l. 482",,<lb/>
 3028,482,3,fell,fell,_,feLL,f.e.l.l,f/e\LL,pro,ADJqua,smn,felóN,DOM,félon,,"SFoi, l. 482",,
 3029,482,4,vas,uas,_,vAS,v.a.s,v/A\S,pro,PRE,---,vas2,DOM,vers2,,"SFoi, l. 482",,
 3030,482,5,deu,deu,.,dɛu,d.e.u,d/ɛ\u,pro,NOMcom,smr,dèu,DOM,dieu,,"SFoi, l. 482",</l>,
 3031,483,1,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 483",,<l n=&quot;483&quot;>
-3032,483,2,diuclicians,diuclicians,_,diukLiʦiANS,d.i.u.c.l.i.c.i.a.n.s,d/i\./<u>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclétien,---,---,,"SFoi, l. 483",,
+3032,483,2,diuclicians,diuclicians,_,diukLiʦiANS,d.i.u.c.l.i.c.i.a.n.s,d/i\./<u>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclecian,oc.wikipedia.org,---,,"SFoi, l. 483",,
 3033,483,3,quains,quains,_,kuAinS,q.u.a.i.n.s,ku/A\inS,pro,ADVgen,---,cais2,DOM,quasi,,"SFoi, l. 483",,
 3034,483,4,leu,leu,.-|,Lɛu,l.e.u,L/ɛ\u,pro,NOMcom,smn,leóN,DOM,léon,,"SFoi, l. 483",</l>,
 3035,484,1,pejor,peior,_,pEʤor,p.e.j.o.r,p/E\.'ʤ/o\r,pro,ADJqua,pmn,pejór,DOM,pire,,"SFoi, l. 484",,<lb/><l n=&quot;484&quot;>
@@ -3042,30 +3042,30 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3041,485,2,feirun,feirun,_,feirOn,f.e.i.r.u.n,'f/e\i.r/O\n,pro,VERcjg,indpsp6,faire,DOM,faire,,"SFoi, l. 485",,
 3042,485,3,peiz,peiz,_,pɛiÇ,p.e.i.z,p/ɛ\iÇ,pro,ADVgen,---,pèitz,DOM,pis2,,"SFoi, l. 485",,
 3043,485,4,qe,qe,_,ke,q.e,k/(e)\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 485",,
-3044,485,5,filisteu,filisteu,.|,filiStɛu,f.i.l.i.s.t.e.u,f/i\.l/i\S.'t/ɛ\u,pro,NOMcom,pmn,philistin,---,philistin,,"SFoi, l. 485",</l>,
+3044,485,5,filisteu,filisteu,.|,filiStɛu,f.i.l.i.s.t.e.u,f/i\.l/i\S.'t/ɛ\u,pro,NOMcom,pmn,filistèu,oc.wikipedia.org,philistin,,"SFoi, l. 485",</l>,
 3045,486,1,ab,ab,+,Ab,a.b,/A\b,pro,PRE,---,ab,DOM,o,,"SFoi, l. 486",,<lb/><l n=&quot;486&quot;>
 3046,486,2,elz,elz,_,eLÇ,e.l.z,/e\LÇ,pro,PRNper,6pmr,els2,DOM,eux,,"SFoi, l. 486",,
 3047,486,3,concordan,co[n]cordan,_,kONkɔrdAn,c.o.n.c.o.r.d.a.n,k/O\N.'k/ɔ\r.d/A\n,pro,VERcjg,indpst6,concordar,DOM,concorder,,"SFoi, l. 486",,
-3048,486,4,hiebuseu,hiebuseu,.,ʤEbyzɛu,hi.e.b.u.s.e.u,ʤ/E\.b/y\.'z/ɛ\u,pro,NOMcom,pmn,jébuséen,---,---,,"SFoi, l. 486",</l>,
+3048,486,4,hiebuseu,hiebuseu,.,ʤEbyzɛu,hi.e.b.u.s.e.u,ʤ/E\.b/y\.'z/ɛ\u,pro,NOMcom,pmn,Jébuséen,wikipedia.fr,---,,"SFoi, l. 486",</l>,
 3049,487,1,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 487",,<l n=&quot;487&quot;>
 3050,487,2,arabid,arabid,_,ArAbid,a.r.a.b.i.d,/A\.r/A\.'b/i\d,pro,NOMcom,pmn,arabiN,DOM,arabi,,"SFoi, l. 487",,
 3051,487,3,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 487",,
-3052,487,4,ferezeu,ferezeu,.-|,fErEʣɛu,f.e.r.e.z.e.u,f/E\.r/E\.'ʣ/ɛ\u,pro,NOMcom,pmn,pharisien,---,pharisien,,"SFoi, l. 487",</l>,
-3053,488,1,hermini,her_mini,+,Ermini,he.r.m.i.n.i,/E\r.'m/i\.n/(i)\,pro,NOMcom,pmn,arménien,---,arménien,,"SFoi, l. 488",,<lb/><l n=&quot;488&quot;>
+3052,487,4,ferezeu,ferezeu,.-|,fErEʣɛu,f.e.r.e.z.e.u,f/E\.r/E\.'ʣ/ɛ\u,pro,NOMcom,pmn,pharisien,DMF,pharisien,,"SFoi, l. 487",</l>,
+3053,488,1,hermini,her_mini,+,Ermini,he.r.m.i.n.i,/E\r.'m/i\.n/(i)\,pro,NOMcom,pmn,armèni,wiktionary,arménien,,"SFoi, l. 488",,<lb/><l n=&quot;488&quot;>
 3054,488,2,n,n,_,n,n,/\n,pro,PRCadv,---,én3,DOM,en2,,"SFoi, l. 488",,
 3055,488,3,tegrun,tegrun,_,tegrOn,t.e.g.r.u.n,'t/e\.gr/O\n,pro,VERcjg,indpsp6,tenér,DOM,tenir,,"SFoi, l. 488",,
 3056,488,4,tot,tot,_,tot,t.o.t,t/o\t,pro,DETind,smr,tót,DOM,tout,,"SFoi, l. 488",,
 3057,488,5,lur,lur,_,LOr,l.u.r,L/O\r,pro,DETpos,6smr,lor,DOM,leur2,,"SFoi, l. 488",,
 3058,488,6,feu,feu,.,fɛu,f.e.u,f/ɛ\u,pro,NOMcom,smr,fèu,DOM,fief,,"SFoi, l. 488",</l>,
 3059,489,1,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 489",,<l n=&quot;489&quot;>
-3060,489,2,amazonas,amazonas,_,AmAʣOnAz,a.m.a.z.o.n.a.s,/A\.m/A\.'ʣ/O\.n/A\z,pro,NOMpro,pfn,amazone,,---,,"SFoi, l. 489",,
+3060,489,2,amazonas,amazonas,_,AmAʣOnAz,a.m.a.z.o.n.a.s,/A\.m/A\.'ʣ/O\.n/A\z,pro,NOMpro,pfn,amazone,DOM,amazone,,"SFoi, l. 489",,
 3061,489,3,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 489",,
 3062,489,4,pigmeu,pigmeu,|,pigmɛu,p.i.g.m.e.u,p/i\g.'m/ɛ\u,pro,NOMcom,pmn,pygmée,DMF,pygmée,,"SFoi, l. 489",</l>,
-3063,490,1,hermafroditas,herma_froditas,_,ErmAfrOditAz,he.r.m.a.f.r.o.d.i.t.a.s,/E\r.m/A\.fr/O\.d/i\.'t/A\z,pro,NOMcom,pfn,hermaphrodite,---,hermaphrodite,,"SFoi, l. 490",,<lb/><l n=&quot;490&quot;>
+3063,490,1,hermafroditas,herma_froditas,_,ErmAfrOditAz,he.r.m.a.f.r.o.d.i.t.a.s,/E\r.m/A\.fr/O\.d/i\.'t/A\z,pro,NOMcom,pfn,hermofrodita,DOM,hermaphrodite,,"SFoi, l. 490",,<lb/><l n=&quot;490&quot;>
 3064,490,2,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 490",,
 3065,490,3,hebreu,hebreu,.,Ebrɛu,he.b.r.e.u,/E\.'br/ɛ\u,pro,NOMcom,pmn,ebrai,DOM,hébreu,,"SFoi, l. 490",</l>,
 3066,491,1,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 491",,<l n=&quot;491&quot;>
-3067,491,2,corbarin,corbarin,_,kOrbArin,c.o.r.b.a.r.i.n,k/O\r.b/A\.'r/i\n,pro,NOMcom,pmn,corbarin,---,---,,"SFoi, l. 491",,
+3067,491,2,corbarin,corbarin,_,kOrbArin,c.o.r.b.a.r.i.n,k/O\r.b/A\.'r/i\n,pro,NOMcom,pmn,corbarin,SFoi,---,,"SFoi, l. 491",,
 3068,491,3,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 491",,
 3069,491,4,amorreu,amorreu,.|,AmOrrɛu,a.m.o.r.r.e.u,/A\.m/O\r.'r/ɛ\u,pro,NOMcom,pmn,amorrhéen,wiktionary,---,,"SFoi, l. 491",</l>,
 3070,492,1,dolentz,dolentz,_,dOlENtS,d.o.l.e.n.t.z,d/O\.'l/E\NtS,pro,ADJqua,smn,dolén,DOM,dolent,,"SFoi, l. 492",,<lb/><l n=&quot;492&quot;>
@@ -3079,14 +3079,14 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3078,493,3,s,s,_,S,s,/\S,pro,PRCper,6pmr,sé,DOM,se,,"SFoi, l. 493",,
 3079,493,4,regnavan,regnauan,+,rEɲAvAn,r.e.gn.a.v.a.n,r/E\.'ɲ/A\.v/A\n,pro,VERcjg,indipf6,renhar,DOM,régner,,"SFoi, l. 493",,
 3080,493,5,l,l,|,L,l,/\L,pro,DETdef,pmn,li2,DOM,le,,"SFoi, l. 493",,
-3081,493,6,machabeu,machabeu,.,mAkAbɛu,m.a.ch.a.b.e.u,m/A\.k/A\.'b/ɛ\u,pro,NOMcom,pmn,macchabée,---,---,,"SFoi, l. 493",</l>,<lb/>
+3081,493,6,machabeu,machabeu,.,mAkAbɛu,m.a.ch.a.b.e.u,m/A\.k/A\.'b/ɛ\u,pro,NOMcom,pmn,Macchabée,wiktionary,---,,"SFoi, l. 493",</l>,<lb/>
 3082,494,1,qu,qu,+,k,qu,k/\,pro,CONsub,---,que2,DOM,que,,"SFoi, l. 494",,<l n=&quot;494&quot;>
 3083,494,2,ill,ill,_,iLL,i.l.l,/i\LL,pro,PRNper,6pmn,il3,DOM,il,,"SFoi, l. 494",,
 3084,494,3,lur,lur,_,LOr,l.u.r,L/O\r,pro,PRCper,6pmi,lor,DOM,leur,,"SFoi, l. 494",,
 3085,494,4,breugeran,breugeran,_,brEuʤɛrAn,b.r.e.u.g.e.r.a.n,br/E\u.'ʤ/ɛ\.r/A\n,pro,VERcjg,indpqp6,breujar,DOM,---,,"SFoi, l. 494",,
 3086,494,5,aqest,aqest,_,AkeSt,a.q.e.s.t,/A\.'k/e\St,pro,DETdem,smr,aquést,DOM,---,,"SFoi, l. 494",,
 3087,494,6,treu,treu,.-|,trɛu,t.r.e.u,tr/ɛ\u,pro,NOMcom,smr,trèu,DOM,---,,"SFoi, l. 494",</l></lg>,
-3088,495,1,maximians,Maximians,_,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximien,---,---,,"SFoi, l. 495",,<lg n=&quot;47&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><lb/><l n=&quot;495&quot;>
+3088,495,1,maximians,Maximians,_,mAkSimiAnS,m.a.x..i.m.i.a.n.s,m/A\k.S/i\.m/i\.'/A\nS,pro,NOMpro,smn,Maximian,oc.wikipedia.org,---,,"SFoi, l. 495",,<lg n=&quot;47&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><lb/><l n=&quot;495&quot;>
 3089,495,2,ag,ag,_,Ag,a.g,/A\g,pro,VERcjg,indpsp3,avér,DOM,avoir,,"SFoi, l. 495",,
 3090,495,3,cor,cor,_,kɔr,c.o.r,k/ɔ\r,pro,NOMcom,smr,còr,DOM,cueur,,"SFoi, l. 495",,
 3091,495,4,avar,auar,.,AvAr,a.v.a.r,/A\.'v/A\r,pro,ADJqua,smr,avar,DOM,avare,,"SFoi, l. 495",</l>,
@@ -3099,7 +3099,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3098,496,7,pog,pog,_,pɔg,p.o.g,p/ɔ\g,pro,VERcjg,indpsp3,podér,DOM,pouvoir2,,"SFoi, l. 496",,
 3099,496,8,fidar,fidar,.|,fiðAr,f.i.d.a.r,f/i\.'ð/A\r,pro,VERinf,---,fizar,DOM,fier2,,"SFoi, l. 496",</l>,
 3100,497,1,ded,ded,_,ded,d.e.d,d/e\d,pro,VERcjg,indpsp3,dar,DOM,---,,"SFoi, l. 497",,<lb/><l n=&quot;497&quot;>
-3101,497,2,constantin,co[n]stantin,_,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,---,---,,"SFoi, l. 497",,
+3101,497,2,constantin,co[n]stantin,_,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,oc.wikipedia.org,---,,"SFoi, l. 497",,
 3102,497,3,sa,sa,_,SA,s.a,S/A\,pro,DETpos,3sfr,sa,DOM,son4,,"SFoi, l. 497",,
 3103,497,4,fill,fill,+,fiʎ0,f.i.ll.,'f/i\.ʎ/[0]\,pro,NOMcom,sfr,filha,DOM,fille,,"SFoi, l. 497",,
 3104,497,5,a,a,_,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 497",,
@@ -3112,7 +3112,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3111,498,6,afollar,afol|lar,_,AfOLLAr,a.f.o.l.l.a.r,/A\.f/O\L.'L/A\r,pro,VERinf,---,afolar,DOM,affoler2,,"SFoi, l. 498",</l>,
 3112,499,1,cell,cell,+,ÇeLL,c.e.l.l,Ç/e\LL,pro,PRNdem,smn,cél2,DOM,cil,,"SFoi, l. 499",,<lb/><l n=&quot;499&quot;>
 3113,499,2,teg,teg,_,teg,t.e.g,t/e\g,pro,VERcjg,indpsp3,tenér,DOM,tenir,,"SFoi, l. 499",,
-3114,499,3,mansella,mansella,_,mANSeʎA,m.a.n.s.e.ll.a,m/A\N.'S/e\.ʎ/(A)\,pro,NOMpro,sfr,Marseille,---,---,,"SFoi, l. 499",,
+3114,499,3,mansella,mansella,_,mANSeʎA,m.a.n.s.e.ll.a,m/A\N.'S/e\.ʎ/(A)\,pro,NOMpro,sfr,Marselha,oc.wikipedia.org,Marseille,,"SFoi, l. 499",,
 3115,499,4,sobre,sobre,_,SobrE,s.o.b.r.e,'S/o\.br/(E)\,pro,PRE,---,sóbre,DOM,sur,,"SFoi, l. 499",,
 3116,499,5,mar,mar,.,mAr,m.a.r,m/A\r,pro,NOMcom,smr,mar,DOM,mer,,"SFoi, l. 499",</l>,
 3117,500,1,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 500",,<l n=&quot;500&quot;>
@@ -3156,7 +3156,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3155,505,5,ad,ad,+,Að,a.d,/A\ð,pro,PRE,---,a2,DOM,à,,"SFoi, l. 505",,
 3156,505,6,adobar,adobar,.-|,AdObAr,a.d.o.b.a.r,/A\.d/O\.'b/A\r,pro,VERinf,---,adobar,DOM,adouber,,"SFoi, l. 505",</l></lg>,
 3157,506,1,fez,Fez,_,feʣ,f.e.z,f/e\ʣ,pro,VERcjg,indpsp3,faire,DOM,faire,,"SFoi, l. 506",,<lg n=&quot;48&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><lb/><l n=&quot;506&quot;>
-3158,506,2,maximin,maximin,_,mAkSimin,m.a.x..i.m.i.n,m/A\k.S/i\.'m/i\n,pro,NOMpro,smr,Maximin,---,---,,"SFoi, l. 506",,
+3158,506,2,maximin,maximin,_,mAkSimin,m.a.x..i.m.i.n,m/A\k.S/i\.'m/i\n,pro,NOMpro,smr,Maximian,oc.wikipedia.org,---,,"SFoi, l. 506",,
 3159,506,3,son,son,+,SOn,s.o.n,S/O\n,pro,DETpos,3smr,sóN2,DOM,son4,,"SFoi, l. 506",,
 3160,506,4,fill,fill,_,fiʎ,f.i.ll,f/i\ʎ,pro,NOMcom,smr,filh,DOM,fils,,"SFoi, l. 506",,
 3161,506,5,armar,ar_mar,.,ArmAr,a.r.m.a.r,/A\r.'m/A\r,pro,VERinf,---,armar,DOM,armer,,"SFoi, l. 506",</l>,
@@ -3174,7 +3174,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3173,508,4,d,d,+,d,d,d/\,pro,PRE,---,de,DOM,de,,"SFoi, l. 508",,
 3174,508,5,aquell,aquell,_,AkeLL,a.qu.e.l.l,/A\.'k/e\LL,pro,DETdem,smr,aquél,DOM,---,,"SFoi, l. 508",,
 3175,508,6,afar,afar,.,AfAr,a.f.a.r,/A\.'f/A\r,pro,NOMcom,smr,afaire,DOM,affaire,,"SFoi, l. 508",</l>,
-3176,509,1,dainesc,dainesc,|,dAineSk,d.a.i.n.e.s.c,d/A\i.'n/e\Sk,pro,NOMcom,pmn,danois,---,danois,,"SFoi, l. 509",,<l n=&quot;509&quot;>
+3176,509,1,dainesc,dainesc,|,dAineSk,d.a.i.n.e.s.c,d/A\i.'n/e\Sk,pro,NOMcom,pmn,danés,wiktionary,danois,,"SFoi, l. 509",,<l n=&quot;509&quot;>
 3177,509,2,i,i,_,i,i,/i\,pro,PRCadv,---,i,DOM,y2,,"SFoi, l. 509",,<lb/>
 3178,509,3,vengrun,uengrun,_,vENgrOn,v.e.n.g.r.u.n,'v/E\N.gr/O\n,pro,VERcjg,indpsp6,venir,DOM,venir,,"SFoi, l. 509",,
 3179,509,4,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 509",,
@@ -3185,12 +3185,12 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3184,510,4,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 510",,
 3185,510,5,ll,ll,_,LL,l.l,/\LL,pro,DETdef,pmn,li2,DOM,le,,"SFoi, l. 510",,
 3186,510,6,fill,fill,_,fiʎ,f.i.ll,f/i\ʎ,pro,NOMcom,pmn,filh,DOM,fils,,"SFoi, l. 510",,
-3187,510,7,agar,agar,.|,AgAr,a.g.a.r,/A\.'g/A\r,pro,NOMpro,smr,Agar,,---,,"SFoi, l. 510",</l>,
+3187,510,7,agar,agar,.|,AgAr,a.g.a.r,/A\.'g/A\r,pro,NOMpro,smr,Agar,STOPPED,---,,"SFoi, l. 510",</l>,
 3188,511,1,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 511",,<pb n=&quot;22r&quot;/><lb/><l n=&quot;511&quot;>
 3189,511,2,cill,cill,_,ÇiLL,c.i.l.l,Ç/i\LL,pro,PRNdem,pmn,cél2,DOM,cil,,"SFoi, l. 511",,
 3190,511,3,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 511",,
 3191,511,4,tribu,tribu,_,triby,t.r.i.b.u,tr/i\.'b/y\,pro,NOMcom,smr,tribun,DOM,tribun,,"SFoi, l. 511",,
-3192,511,5,isachar,isachar,.,iSAkAr,i.s.a.ch.a.r,/i\.S/A\.'k/A\r,pro,NOMpro,smr,Isachar,---,---,,"SFoi, l. 511",</l>,
+3192,511,5,isachar,isachar,.,iSAkAr,i.s.a.ch.a.r,/i\.S/A\.'k/A\r,pro,NOMpro,smr,Issachar,wikipedia.fr,---,,"SFoi, l. 511",</l>,
 3193,512,1,vengron,uen_gron,_,vENgrOn,v.e.n.g.r.o.n,'v/E\N.gr/O\n,pro,VERcjg,indpsp6,venir,DOM,venir,,"SFoi, l. 512",,<l n=&quot;512&quot;>
 3194,512,2,ill,ill,_,iLL,i.l.l,/i\LL,pro,DETdef,pmn,li2,DOM,le,,"SFoi, l. 512",,
 3195,512,3,homen,homen,_,OmEn,ho.m.e.n,'/O\.m/E\n,pro,NOMcom,pmn,óme,DOM,homme,,"SFoi, l. 512",,
@@ -3231,18 +3231,18 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3230,519,2,manded,manded,_,mANdɛd,m.a.n.d.e.d,m/A\N.'d/ɛ\d,pro,VERcjg,indpsp3,mandar,DOM,mander,,"SFoi, l. 519",,
 3231,519,3,grex,grex,|,grɛkS,g.r.e.x.,gr/ɛ\kS,pro,NOMcom,pmr,grec2,DOM,grec,,"SFoi, l. 519",,
 3232,519,4,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 519",,<lb/>
-3233,519,5,caldeus,caldeus,.,kALdɛuz,c.a.l.d.e.u.s,k/A\L.'d/ɛ\uz,pro,NOMcom,pmr,chaldéen,---,chaldéen,,"SFoi, l. 519",</l>,
-3234,520,1,marcomanins,marcomanins,_,mArkOmAninS,m.a.r.c.o.m.a.n.i.n.s,m/A\r.k/O\.'m/A\.n/i\nS,pro,NOMcom,pmr,marcoman,---,---,,"SFoi, l. 520",,<l n=&quot;520&quot;>
+3233,519,5,caldeus,caldeus,.,kALdɛuz,c.a.l.d.e.u.s,k/A\L.'d/ɛ\uz,pro,NOMcom,pmr,chaldéen,DMF,chaldéen,,"SFoi, l. 519",</l>,
+3234,520,1,marcomanins,marcomanins,_,mArkOmAninS,m.a.r.c.o.m.a.n.i.n.s,m/A\r.k/O\.'m/A\.n/i\nS,pro,NOMcom,pmr,Marcoman,wikipedia.fr,---,,"SFoi, l. 520",,<l n=&quot;520&quot;>
 3235,520,2,e,e,_,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 520",,
-3236,520,3,machrobeus,machrobeus,.,mAkrObɛuS,m.a.ch.r.o.b.e.u.s,m/A\.kr/O\.'b/ɛ\uS,pro,NOMcom,pmr,macrobien,---,---,,"SFoi, l. 520",</l>,
+3236,520,3,machrobeus,machrobeus,.,mAkrObɛuS,m.a.ch.r.o.b.e.u.s,m/A\.kr/O\.'b/ɛ\uS,pro,NOMcom,pmr,Macrobie,wikipedia.fr,---,,"SFoi, l. 520",</l>,
 3237,521,1,van,uan,_,vAn,v.a.n,v/A\n,pro,VERcjg,indpst6,anar,DOM,aner,,"SFoi, l. 521",,<l n=&quot;521&quot;>
 3238,521,2,i,i,_,i,i,/i\,pro,PRCadv,---,i,DOM,y2,,"SFoi, l. 521",,
 3239,521,3,satir,satir,|,SAtir0,s.a.t.i.r.,S/A\.'t/i\.r/[0]\,pro,NOMcom,pmn,satiri,DOM,satyre,,"SFoi, l. 521",,
 3240,521,4,ab,ab,_,Ab,a.b,/A\b,pro,PRE,---,ab,DOM,o,,"SFoi, l. 521",,<lb/>
-3241,521,5,idumeus,idumeus,.,idUmɛuS,i.d.u.m.e.u.s,/i\.d/U\.'m/ɛ\uS,pro,NOMcom,pmr,iduméen,---,---,,"SFoi, l. 521",</l>,
+3241,521,5,idumeus,idumeus,.,idUmɛuS,i.d.u.m.e.u.s,/i\.d/U\.'m/ɛ\uS,pro,NOMcom,pmr,iduméen,wikipedia.fr,---,,"SFoi, l. 521",</l>,
 3242,522,1,engl,engl,+,ENgL0,e.n.g.l.,'/E\N.gL/[0]\,pro,NOMcom,pmn,Angle,,---,,"SFoi, l. 522",,<l n=&quot;522&quot;>
 3243,522,2,et,et,_,ed,e.t,/e\d,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 522",,
-3244,522,3,escot,escot,_,ESkɔt,e.s.c.o.t,/E\S.'k/ɔ\t,pro,NOMcom,pmn,scot,---,écot3,,"SFoi, l. 522",,
+3244,522,3,escot,escot,_,ESkɔt,e.s.c.o.t,/E\S.'k/ɔ\t,pro,NOMcom,pmn,écot3,DMF,écot3,,"SFoi, l. 522",,
 3245,522,4,ab,ab,_,Ab,a.b,/A\b,pro,PRE,---,ab,DOM,o,,"SFoi, l. 522",,
 3246,522,5,canineus,cani_neus,.,kAninɛuS,c.a.n.i.n.e.u.s,k/A\.n/i\.'n/ɛ\uS,pro,NOMcom,pmr,caninèu,DOM,---,,"SFoi, l. 522",</l>,
 3247,523,1,saintz,saintz,|,SAiNtS,s.a.i.n.t.z,S/A\iNtS,pro,ADJqua,smn,sanh,DOM,saint,,"SFoi, l. 523",,<l n=&quot;523&quot;>
@@ -3271,8 +3271,8 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3270,527,1,s,s,+,S,s,S/\,pro,CONsub,---,si,DOM,si3,,"SFoi, l. 527",,<l n=&quot;527&quot;>
 3271,527,2,achi,achi,_,Aki,a.ch.i,/A\.'k/i\,pro,ADVgen,---,aqui,DOM,---,,"SFoi, l. 527",,
 3272,527,3,foss,foss,_,fos,f.o.ss,f/o\s,pro,VERcjg,subipf3,èser,DOM,être,,"SFoi, l. 527",,
-3273,527,4,judas,iudas,_,ʤydAz,j.u.d.a.s,'ʤ/y\.d/A\z,pro,NOMpro,smn,Judas,---,---,,"SFoi, l. 527",,
-3274,527,5,machabeus,machabeus,.,mAkAbɛuS,m.a.ch.a.b.e.u.s,m/A\.k/A\.'b/ɛ\uS,pro,NOMcom,smn,macchabée,---,---,,"SFoi, l. 527",</l>,
+3273,527,4,judas,iudas,_,ʤydAz,j.u.d.a.s,'ʤ/y\.d/A\z,pro,NOMpro,smn,Judàs,oc.wikipedia.org,---,,"SFoi, l. 527",,
+3274,527,5,machabeus,machabeus,.,mAkAbɛuS,m.a.ch.a.b.e.u.s,m/A\.k/A\.'b/ɛ\uS,pro,NOMcom,smn,Macchabée,wiktionary,---,,"SFoi, l. 527",</l>,
 3275,528,1,heliazars,heliazars,|,EliAʣArS,he.l.i.a.z.a.r.s,/E\.l/i\./A\.'ʣ/A\rS,pro,NOMpro,smn,Éléazar,---,---,,"SFoi, l. 528",,<l n=&quot;528&quot;>
 3276,528,2,o,o,_,ɔ,o,/ɔ\,pro,CONcoo,---,ò,DOM,ou,,"SFoi, l. 528",,<lb/>
 3277,528,3,timotheus,timotheus,.,timOtɛuS,t.i.m.o.th.e.u.s,t/i\.m/O\.'t/ɛ\uS,pro,NOMpro,smn,Timothée,,---,,"SFoi, l. 528",</l>,
@@ -3281,9 +3281,9 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3280,529,3,foss,foss,_,fos,f.o.ss,f/o\s,pro,VERcjg,subipf3,èser,DOM,être,,"SFoi, l. 529",,
 3281,529,4,samson,samson,_,SANSOn,s.a.m.s.o.n,S/A\N.'S/O\n,pro,NOMpro,smn,Samson,,---,,"SFoi, l. 529",,
 3282,529,5,lo,lo,_,LO,l.o,L/O\,pro,DETdef,smn,lo2,DOM,le,,"SFoi, l. 529",,
-3283,529,6,nazareus,nazareus,.,nAʣArɛuS,n.a.z.a.r.e.u.s,n/A\.ʣ/A\.'r/ɛ\uS,pro,NOMcom,smn,nazaréen,---,nazarien,,"SFoi, l. 529",</l>,
+3283,529,6,nazareus,nazareus,.,nAʣArɛuS,n.a.z.a.r.e.u.s,n/A\.ʣ/A\.'r/ɛ\uS,pro,NOMcom,smn,nazarenc,oc.wikipedia.org,nazarien,,"SFoi, l. 529",</l>,
 3284,530,1,o,o,_,ɔ,o,/ɔ\,pro,CONcoo,---,ò,DOM,ou,,"SFoi, l. 530",,<l n=&quot;530&quot;>
-3285,530,2,josue,iosue,|,ʤOSyE,j.o.s.u.e,ʤ/O\.S/y\.'/E\,pro,NOMpro,smn,Josué,---,---,,"SFoi, l. 530",,
+3285,530,2,josue,iosue,|,ʤOSyE,j.o.s.u.e,ʤ/O\.S/y\.'/E\,pro,NOMpro,smn,Josué,wikipedia.fr,---,,"SFoi, l. 530",,
 3286,530,3,o,o,+,ɔ,o,/ɔ\,pro,CONcoo,---,ò,DOM,ou,,"SFoi, l. 530",,<lb/>
 3287,530,4,ll,ll,_,LL,l.l,/\LL,pro,DETdef,smn,lo2,DOM,le,,"SFoi, l. 530",,
 3288,530,5,paucs,paucs,_,pAukS,p.a.u.c.s,p/A\ukS,pro,ADJqua,smn,pauc,DOM,peu,,"SFoi, l. 530",,
@@ -3349,7 +3349,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3348,539,4,molt,molt,_,moLt,m.o.l.t,m/o\Lt,pro,ADVgen,---,mólt,DOM,moult,,"SFoi, l. 539",,
 3349,539,5,fraudolent,fraudolent,.,frAudOlENt,f.r.a.u.d.o.l.e.n.t,fr/A\u.d/O\.'l/E\Nt,pro,ADJqua,smr,fraudulent,DOM,fraudulent,,"SFoi, l. 539",</l>,
 3350,540,1,qi,qi,|,ki,q.i,k/i\,pro,PRNrel,smn,qui,DOM,qui,,"SFoi, l. 540",,<l n=&quot;540&quot;>
-3351,540,2,constantin,co[n]stantin,+,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,---,---,,"SFoi, l. 540",,<lb/>
+3351,540,2,constantin,co[n]stantin,+,kONStANtin,c.o.n.s.t.a.n.t.i.n,k/O\NS.t/A\N.'t/i\n,pro,NOMpro,smr,Constantin,oc.wikipedia.org,---,,"SFoi, l. 540",,<lb/>
 3352,540,3,l,l,_,L,l,/\L,pro,PRCper,3smi,li3,DOM,li,,"SFoi, l. 540",,
 3353,540,4,facza,facza,_,fAʦA,f.a.cz.a,'f/A\.ʦ/(A)\,pro,VERcjg,subpst3,faire,DOM,faire,,"SFoi, l. 540",,
 3354,540,5,prendent,prendent,.,prENdENt,p.r.e.n.d.e.n.t,pr/E\N.'d/E\Nt,pro,VERppa,---,préndre,DOM,prendre,,"SFoi, l. 540",</l>,
@@ -3409,7 +3409,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3408,549,6,a,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 549",,
 3409,549,7,ll,ll,_,LL,l.l,/\LL,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 549",,
 3410,549,8,vent,uent,.,vENt,v.e.n.t,v/E\Nt,pro,NOMcom,smr,vén,DOM,vent,,"SFoi, l. 549",</l></lg>,
-3411,550,1,diuclicians,Diucli|cians,_,diukLiʦiANS,d.i.u.c.l.i.c.i.a.n.s,d/i\./<u>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclétien,---,---,,"SFoi, l. 550",,<lg n=&quot;52&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;550&quot;>
+3411,550,1,diuclicians,Diucli|cians,_,diukLiʦiANS,d.i.u.c.l.i.c.i.a.n.s,d/i\./<u>\.kL/i\.ʦ/i\.'/A\NS,pro,NOMpro,smn,Dioclecian,oc.wikipedia.org,---,,"SFoi, l. 550",,<lg n=&quot;52&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;550&quot;>
 3412,550,2,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 550",,<lb/>
 3413,550,3,a,a,+,A,a,/A\,pro,PRE,---,a2,DOM,à,,"SFoi, l. 550",,
 3414,550,4,ll,ll,_,LL,l.l,/\LL,pro,DETdef,smr,lo2,DOM,le,,"SFoi, l. 550",,
