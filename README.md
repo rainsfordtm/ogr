@@ -47,18 +47,18 @@ Attribution and copyright status of the material in this corpus:
 	established on the basis of manuscript images and finalized in
 	consultation with the published material.	
 
-Berschin, Helmut, Walter Berschin, and Rolf Schmidt. 1981. ‹Augsburger
+* Berschin, Helmut, Walter Berschin, and Rolf Schmidt. 1981. ‹Augsburger
 	Passionslied›. Ein neuer romanischer Text des X. Jahrhunderts. In 
 	Lateinische Dichtungen des X. und XI. Jahrhunderts: Festgabe für
 	Walther Bulst zum 80. Geburtstag, edited by Walther Bulst, Walter
 	Berschin, and Reinhard Düchting, 251-79. Heidelberg: Schneider.
-BFM 2022. = Base de Français Médiéval [En ligne]. Lyon: ENS de Lyon, Laboratoire
+* BFM 2022. = Base de Français Médiéval \[En ligne\]. Lyon: ENS de Lyon, Laboratoire
 	IHRIM. <txm.bfm-corpus.org>.
-Bischoff, Bernhard, ed. 1984. Anecdota Novissima: Texte des vierten bis
+* Bischoff, Bernhard, ed. 1984. Anecdota Novissima: Texte des vierten bis
 	sechzehnten Jahrhunderts. Stuttgart: Hiersemann.
-De Poerck, Guy. 1955. Le sermon bilingue sur Jonas du ms. Valenciennes
+* De Poerck, Guy. 1955. Le sermon bilingue sur Jonas du ms. Valenciennes
 	521 (475). Romanica Gandensia 4: 31-66.
-Rainsford, Thomas, and Olga Scrivner. 2014. Metrical annotation for a verse
+* Rainsford, Thomas, and Olga Scrivner. 2014. Metrical annotation for a verse
 	treebank. In Proceedings of the Thirteenth International Workshop on
 	Treebanks and Linguistic Theories (TLT13), edited by Verena Henrich,
 	Erhard Hinrichs, Daniël de Kok, Petya Osenova, and Adam Przepiórkowski,
