@@ -1,6 +1,6 @@
 LICENSE for files in Old Gallo-Romance Corpus source repository
 ===============================================================
-© Thomas M. Rainsford, ILR, Universität Stuttgart, 18th March 2022
+© Thomas M. Rainsford, ILR, Universität Stuttgart, 2nd January 2025
 
 http://www.ogr-corpus.org
 
@@ -13,7 +13,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 * You must give credit to the author by citing the corpus in the following way:
 
-> Rainsford, Thomas M. 2022. Old Gallo-Romance Corpus.
+> Rainsford, Thomas M. 2025. Old Gallo-Romance Corpus, version 1.0
 > Stuttgart: Institut für Linguistik/Romanistik. <http://www.ogr-corpus.org>.
 		
 * You may not use this material for commercial purposes.
