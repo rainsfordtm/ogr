@@ -46,6 +46,8 @@ Attribution and copyright status of the material in this corpus:
 * All other transcriptions and annotations are my own original work, 
 	established on the basis of manuscript images and finalized in
 	consultation with the published material.	
+	
+## Bibliography
 
 * Berschin, Helmut, Walter Berschin, and Rolf Schmidt. 1981. ‹Augsburger
 	Passionslied›. Ein neuer romanischer Text des X. Jahrhunderts. In 
