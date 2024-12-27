@@ -215,8 +215,8 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 214,29,1,cui,_,cui,kyi,c.u.i,k/y\i,pro,PRNrel,smr,WPRO,Qux,Qux,qui,DOM,qui,"Boeci, l. 29",,<lb/><l n=&quot;29&quot;>
 215,29,2,tan,_,tan,tAn,t.a.n,t/A\n,pro,ADVgen,---,Q,QIs,QIs,tan,DOM,tant,"Boeci, l. 29",,
 216,29,3,amet,_,amet,AmɛT,a.m.e.t,/A\.'m/ɛ\T,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,amar,DOM,aimer,"Boeci, l. 29",,
-217,29,4,torquator,_,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smn,NPRS,N,N,Torquator,--,---,"Boeci, l. 29",,
-218,29,5,mallios,.,mallios,mALLiOS,m.a.l.l.i.o.s,m/A\L.L/<i>\.'/O\S,pro,NOMpro,smn,NPRS,N,N,Mallio,---,---,"Boeci, l. 29",</l>,
+217,29,4,torquator,_,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smn,NPRS,N,N,Torquatus,wikipedia.fr,---,"Boeci, l. 29",,
+218,29,5,mallios,.,mallios,mALLiOS,m.a.l.l.i.o.s,m/A\L.L/<i>\.'/O\S,pro,NOMpro,smn,NPRS,N,N,Manlius,wikipedia.fr,---,"Boeci, l. 29",</l>,
 219,30,1,de,_,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 30",,<l n=&quot;30&quot;>
 220,30,2,sapiencia,_,sapiencia,SApiENÇiA,s.a.p.i.e.n.c.i.a,S/A\.p/<i>\.'/E\N.Çi/(A)\,pro,NOMcom,sfr,NCS,N,N,sapiensa,DOM,sapience,"Boeci, l. 30",,
 221,30,3,no,_,no,no,n.o,n/o\,pro,ADVneg,---,NEG,Neg,Neg$$,nóN,DOM,ne,"Boeci, l. 30",,
@@ -244,7 +244,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 243,33,2,cuid,_,cuid,kyiT,c.u.i.d,k/y\iT,pro,VERcjg,indpst1,VJ,Vfin,Vfin,cuidar,DOM,cuider,"Boeci, l. 33",,
 244,33,3,qu,+,qu,k,qu,k/\,pro,CONsub,---,CONJS,Sub,Sub,que2,DOM,que,"Boeci, l. 33",,
 245,33,4,e,_,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 33",,
-246,33,5,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 33",,
+246,33,5,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 33",,
 247,33,6,om,_,om,Om,o.m,/O\m,pro,NOMcom,smn,NCS,N,N,óme,DOM,homme,"Boeci, l. 33",,
 248,33,7,de,_,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 33",,
 249,33,8,so,_,so,SO,s.o,S/O\,pro,DETpos,3smr,DZ,Det,Det,sóN2,DOM,son4,"Boeci, l. 33",,
@@ -253,14 +253,14 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 252,34,1,Cóms,_,coms,kOmS,c.o.m.s,k/O\mS,pro,NOMcom,smn,NCS,N,N,cómte,DOM,comte,"Boeci, l. 34",,<lg n=&quot;5&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;34&quot;>
 253,34,2,fo,_,fo,fo,f.o,f/o\,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 34",,
 254,34,3,de,_,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 34",,
-255,34,4,roma,|,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 34",,
+255,34,4,roma,|,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 34",,
 256,34,5,e,_,e,e,e,/e\,pro,CONcoo,---,CONJO,Crd,Crd,e,DOM,et,"Boeci, l. 34",,<lb/>
 257,34,6,ac,_,ac,AK,a.c,/A\K,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,avér,DOM,avoir,"Boeci, l. 34",,
 258,34,7,ta,+,ta,tA,t.a,t/A\,pro,ADVgen,---,Q,QIs,QIs,tan,DOM,tant,"Boeci, l. 34",,
 259,34,8,gran,_,gran,grAn,g.r.a.n,gr/A\n,pro,ADJqua,sfr,ADJ,Adj,Adj,gran,DOM,grand,"Boeci, l. 34",,
 260,34,9,ualor,.,valor,vAlor,v.a.l.o.r,v/A\.'l/o\r,pro,NOMcom,sfr,NCS,N,N,valór,DOM,valeur,"Boeci, l. 34",</l>,
 261,35,1,aprob,_,aprob,AprɔP,a.p.r.o.b,/A\.'pr/ɔ\P,pro,PRE,---,P,PrA,PrA,apròp,DOM,---,"Boeci, l. 35",,<l n=&quot;35&quot;>
-262,35,2,mallio,_,mallio,mALLiO,m.a.l.l.i.o,m/A\L.'L/i\./O\,pro,NOMpro,smr,NPRS,N,N,Mallio,---,---,"Boeci, l. 35",,
+262,35,2,mallio,_,mallio,mALLiO,m.a.l.l.i.o,m/A\L.'L/i\./O\,pro,NOMpro,smr,NPRS,N,N,Manlius,wikipedia.fr,---,"Boeci, l. 35",,
 263,35,3,lo,+,lo,LO,l.o,L/(O)\,pro,DETdef,smr,D,Det,Det,lo2,DOM,le,"Boeci, l. 35",,
 264,35,4,rei,_,rei,rei,r.e.i,r/e\i,pro,NOMcom,smr,NCS,N,N,réi,DOM,roi,"Boeci, l. 35",,
 265,35,5,emperador,.,emperador,ENpErAdor,e.m.p.e.r.a.d.o.r,/E\N.p/E\.r/A\.'d/o\r,pro,NOMcom,smr,NCS,N,N,emperadór,DOM,empereur,"Boeci, l. 35",</l>,
@@ -297,8 +297,8 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 296,40,2,ueng,_,veng,vENK,v.e.n.g,v/E\NK,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,venir,DOM,venir,"Boeci, l. 40",,<lb/>
 297,40,3,la,_,la,LA,l.a,L/A\,pro,DETdef,sfn,D,Det,Det,la2,DOM,le,"Boeci, l. 40",,
 298,40,4,fis,_,fis,fiS,f.i.s,f/i\S,pro,NOMcom,sfn,NCS,N,N,fiN2,DOM,fin,"Boeci, l. 40",,
-299,40,5,mallio,_,mallio,mALLiO,m.a.l.l.i.o,m/A\L.'L/i\./O\,pro,NOMpro,smr,NPRS,N,N,Mallio,---,---,"Boeci, l. 40",,
-300,40,6,torquator,.,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smr,NPRS,N,N,Torquator,--,---,"Boeci, l. 40",</l>,
+299,40,5,mallio,_,mallio,mALLiO,m.a.l.l.i.o,m/A\L.'L/i\./O\,pro,NOMpro,smr,NPRS,N,N,Manlius,wikipedia.fr,---,"Boeci, l. 40",,
+300,40,6,torquator,.,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smr,NPRS,N,N,Torquatus,wikipedia.fr,---,"Boeci, l. 40",</l>,
 301,41,1,donc,_,donc,dONK,d.o.n.c,d/O\NK,pro,ADVgen,---,ADV,Adv,Adv,dónc,DOM,donc,"Boeci, l. 41",,<l n=&quot;41&quot;>
 302,41,2,uenc,_,venc,vENK,v.e.n.c,v/E\NK,pro,VERcjg,indpsp3,VJ,Vfin,Vfin,venir,DOM,venir,"Boeci, l. 41",,
 303,41,3,boeci,_,boeci,bOɛʦi,b.o.e.c.i,b/O\.'/ɛ\.ʦ/<i>\,pro,NOMpro,smr,NPRS,N,N,Boeci,oc.wikipedia.org,---,"Boeci, l. 41",,
@@ -317,15 +317,15 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 316,42,7,demor,.,demor,dEmor,d.e.m.o.r,d/E\.'m/o\r,pro,VERcjg,subpst3,VJ,Vfin,Vfin,demorar,DOM,demeurer,"Boeci, l. 42",</l></lg>,
 317,43,1,morz,_,morz,mɔrTS,m.o.r.z.,m/ɔ\rTS,pro,VERppe,smn,VPP,Vpp,Vpp,morir,DOM,mourir,"Boeci, l. 43",,<lg n=&quot;6&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;43&quot;>
 318,43,2,fo,_,fo,fo,f.o,f/o\,pro,VERcjg,indpsp3,EJ,Vfin,Vfin,èser,DOM,être,"Boeci, l. 43",,
-319,43,3,mallios,|,mallios,mALLiOS,m.a.l.l.i.o.s,m/A\L.'L/i\./O\S,pro,NOMpro,smn,NPRS,N,N,Mallio,---,---,"Boeci, l. 43",,
-320,43,4,torquator,_,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smn,NPRS,N,N,Torquator,--,---,"Boeci, l. 43",,<lb/>
+319,43,3,mallios,|,mallios,mALLiOS,m.a.l.l.i.o.s,m/A\L.'L/i\./O\S,pro,NOMpro,smn,NPRS,N,N,Manlius,wikipedia.fr,---,"Boeci, l. 43",,
+320,43,4,torquator,_,torquator,tOrkAtOr,t.o.r.qu.a.t.o.r,t/O\r.k/A\.'t/O\r,pro,NOMpro,smn,NPRS,N,N,Torquatus,wikipedia.fr,---,"Boeci, l. 43",,<lb/>
 321,43,5,dunt,_,dunt,dONT,d.u.n.t,d/O\NT,pro,PRNrel,---,CONJS,Qux,Qux,dón2,DOM,dont,"Boeci, l. 43",,
 322,43,6,eu,_,eu,eu,e.u,/e\u,pro,PRNper,1smn,PRO,Prn,Prn$,eu,DOM,je,"Boeci, l. 43",,
 323,43,7,dig,.,dig,diK,d.i.g,d/i\K,pro,VERcjg,indpst1,VJ,Vfin,Vfin,dire,DOM,dire,"Boeci, l. 43",</l>,
 324,44,1,ec,_,ec,ɛK,e.c,/ɛ\K,pro,ADVgen,---,ITJ,NVP,NVP,èc,DOM,es2,"Boeci, l. 44",,<l n=&quot;44&quot;>
 325,44,2,uos,_,vos,voS,v.o.s,v/o\S,pro,PRNper,5pmr,PRO,Prn,Prn,vos,DOM,vous,"Boeci, l. 44",,
 326,44,3,e,_,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 44",,
-327,44,4,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 44",,
+327,44,4,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 44",,
 328,44,5,l,_,l,L,l,/\L,pro,DETdef,smr,D,Det,Det,lo2,DOM,le,"Boeci, l. 44",,
 329,44,6,emperador,_,emperador,ENpErAdor,e.m.p.e.r.a.d.o.r,/E\N.p/E\.r/A\.'d/o\r,pro,NOMcom,smr,NCS,N,N,emperadór,DOM,empereur,"Boeci, l. 44",,
 330,44,7,teiric,.|,teiric,tEiriK,t.e.i.r.i.c,t/E\i.'r/i\K,pro,NOMpro,smr,NPRS,N,N,Théodoric,wikipedia.fr,---,"Boeci, l. 44",</l>,
@@ -403,7 +403,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 402,54,3,l,_,l,L,l,/\L,pro,PRCper,3sma,PRO,Prn,Prn$$,lo3,DOM,le,"Boeci, l. 54",,
 403,54,4,tra|mét,_,tramet,trAmeT,t.r.a.m.e.t,tr/A\.'m/e\T,pro,VERcjg,indpst3,VJ,Vfin,Vfin,tramétre,DOM,tramettre,"Boeci, l. 54",,
 404,54,5,e,_,e,E,e,/E\,pro,PRE,---,P,Pre,Pre,én,DOM,en,"Boeci, l. 54",,<lb/>
-405,54,6,grecia,_,grecia,grɛʦiA,g.r.e.c.i.a,'gr/ɛ\.ʦi/(A)\,pro,NOMpro,sfr,NPRS,N,N,Grècia,---,Grèce,"Boeci, l. 54",,
+405,54,6,grecia,_,grecia,grɛʦiA,g.r.e.c.i.a,'gr/ɛ\.ʦi/(A)\,pro,NOMpro,sfr,NPRS,N,N,Grècia,oc.wikipedia.org,---,"Boeci, l. 54",,
 406,54,7,la,_,la,LA,l.a,L/A\,pro,DETdef,sfr,D,Det,Det,la,DOM,le,"Boeci, l. 54",,
 407,54,8,regio,.,regio,rEʤo,r.e.gi.o,r/E\.'ʤ/o\,pro,NOMcom,sfr,NCS,N,N,regio,DOM,région,"Boeci, l. 54",</l>,
 408,55,1,de,_,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 55",,<l n=&quot;55&quot;>
@@ -422,7 +422,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 421,57,1,eu,_,eu,eu,e.u,/e\u,pro,PRNper,3smn,PRO,Prn,Prn$,el2,DOM,il,"Boeci, l. 57",,<l n=&quot;57&quot;>
 422,57,2,lor,_,lor,Lor,l.o.r,L/o\r,pro,PRCper,6pmi,PRO,Prn,Prn$$,lor,DOM,leur,"Boeci, l. 57",,
 423,57,3,redra,_,redra,rEdrA,r.e.d.r.a,r/E\.'dr/A\,pro,VERcjg,indfut3,VJ,Vfin,Vfin,rèdre,DOM,rendre,"Boeci, l. 57",,
-424,57,4,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 57",,
+424,57,4,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 57",,
 425,57,5,p[er],_,per,pEr,p.e.r,p/E\r,pro,PRE,---,P,Pre,Pre,pér,DOM,par,"Boeci, l. 57",,
 426,57,6,tra|azo,.,traazo,trAAʣo,t.r.a.a.z.o,tr/A\./A\.'ʣ/o\,pro,NOMcom,sfr,NCS,N,N,traazóN,DOM,trahison,"Boeci, l. 57",</l>,
 427,58,1,lo,_,lo,LO,l.o,L/(O)\,pro,DETdef,smn,D,Det,Det,lo2,DOM,le,"Boeci, l. 58",,<lb/><l n=&quot;58&quot;>
@@ -494,7 +494,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 493,66,2,óbs,_,obs,ɔPS,o.b.s,/ɔ\PS,pro,NOMcom,smr,NCS,N,N,òps,DOM,ues,"Boeci, l. 66",,
 494,66,3,los,_,los,LOS,l.o.s,L/O\S,pro,DETdef,pmr,D,Det,Det,los,DOM,le,"Boeci, l. 66",,
 495,66,4,gréx,_,grex,grɛKS,g.r.e.x.,gr/ɛ\KS,pro,NOMcom,pmr,NCPL,Adj,Adj,grec2,DOM,grec,"Boeci, l. 66",,
-496,66,5,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 66",,
+496,66,5,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 66",,
 497,66,6,uolia,_,volia,vOliA,v.o.l.i.a,v/O\.'l/<i>\./(A)\,pro,VERcjg,indipf3,MDJ,Vfin,Vfin,volér,DOM,vouloir,"Boeci, l. 66",,
 498,66,7,tradár,.,tradar,trAdAr,t.r.a.d.a.r,tr/A\.'d/A\r,pro,VERinf,---,VX,Vinf,Vinf,tradar,DOM,---,"Boeci, l. 66",</l>,
 499,67,1,pero,_,pero,pErO,p.e.r.o,p/E\.'r/O\,pro,CONcoo,---,ADV,Crd,Crd,pero,DOM,---,"Boeci, l. 67",,<l n=&quot;67&quot;>
@@ -623,7 +623,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 622,83,8,stár,|,star,0StAr,.s.t.a.r,/[0]\S.'t/A\r,pro,VERinf,---,VX,Vinf,Vinf,estar,DOM,ester,"Boeci, l. 83",</q></l>,
 623,84,1,de,+,de,dE,d.e,d/(E)\,pro,PRE,---,P,Pre,Pre,de,DOM,de,"Boeci, l. 84",,<lb/><l n=&quot;84&quot;><q>
 624,84,2,tota,_,tota,totA,t.o.t.a,'t/o\.t/(A)\,pro,DETinf,sfr,Q,QIs,QIs,tót,DOM,tout,"Boeci, l. 84",,
-625,84,3,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,---,Rome,"Boeci, l. 84",,
+625,84,3,roma,_,roma,rOmA,r.o.m.a,'r/O\.m/(A)\,pro,NOMpro,sfr,NPRS,N,N,Roma,oc.wikipedia.org,---,"Boeci, l. 84",,
 626,84,4,l,+,l,L,l,L/\,pro,DETdef,smr,D,Det,Det,lo2,DOM,le,"Boeci, l. 84",,
 627,84,5,emperi,_,emperi,ENpɛri,e.m.p.e.r.i,/E\N.'p/ɛ\.r/(i)\,pro,NOMcom,smr,NCS,N,N,empèri,DOM,empire,"Boeci, l. 84",,
 628,84,6,aig,_,aig,AiK,a.i.g,/A\iK,pro,VERcjg,indpsp1,VJ,Vfin,Vfin,avér,DOM,avoir,"Boeci, l. 84",,

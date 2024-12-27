@@ -10,7 +10,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,pos,morph,
 9,1,9,iceol,iceol,iʦeL,i.c.eo.l,/i\.'ʦ/e\L,_,fro,DETdem,smr,cil,DMF,cil,"AlexisProl, f. 29r, l. 1",,
 10,1,10,no|ble,noble,nɔbLə,n.o.b.l.e,'n/ɔ\.bL/ə\,_,fro,ADJqua,smr,noble,DMF,noble,"AlexisProl, f. 29r, l. 1",,
 11,1,11,barun,barun,bArOn,b.a.r.u.n,b/A\.'r/O\n,_,fro,NOMcom,smr,baron,DMF,baron,"AlexisProl, f. 29r, l. 2",,<lb n=&quot;2&quot;/>
-12,1,12,eufemien,eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,NOMpro,smr,Eufemien,---,---,"AlexisProl, f. 29r, l. 2",,
+12,1,12,eufemien,eufemien,EufEmiEn,e.u.f.e.m.i.e.n,/E\u.f/E\.m/i\.'/E\n,_,fro,NOMpro,smr,Eufemien,Alexis,---,"AlexisProl, f. 29r, l. 2",,
 13,1,13,par,par,par,p.a.r,p/a\r,_,fro,PRE,---,par,DMF,par,"AlexisProl, f. 29r, l. 2",,
 14,1,14,num,num,nOm,n.u.m,n/O\m,.,fro,NOMcom,smr,nom,DMF,nom,"AlexisProl, f. 29r, l. 2",,
 15,1,15,e,e,e,e,/e\,_,fro,CONcoo,---,et,DMF,et,"AlexisProl, f. 29r, l. 2",,

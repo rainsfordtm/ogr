@@ -105,7 +105,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 104,18,2,q[ue],que,kE,qu.e,k/(E)\,|,18,fro,Sub,Sub,que,DMF,que,CONsub,---,,"SLeger, l. 18",,
 105,18,3,litteras,litteras,CVVC,l.i.ttera.s,'C/V\./V\C,_,18,lat,N,N,lettre,DMF,lettre,NOMcom,pfr,,"SLeger, l. 18",,<lb/>
 106,18,4,apresist,apresist,AprEziST,a.p.r.e.s.i.s.t,/A\.pr/E\.'z/i\ST,.|,18,fro,Vfin,Vfin,apprendre,DMF,apprendre,VERcjg,subipf3,,"SLeger, l. 18",</l></lg>,
-107,19,1,Didun,didun,didUn,d.i.d.u.n,d/i\.'d/U\n,_,19,fro,N,N,Dido,,,NOMpro,smr,,"SLeger, l. 19",,<lb/><lg n=&quot;4&quot; rhyme=&quot;aabbcc&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot;><l n=&quot;19&quot;>
+107,19,1,Didun,didun,didUn,d.i.d.u.n,d/i\.'d/U\n,_,19,fro,N,N,Didon,wikipedia.fr,---,NOMpro,smr,,"SLeger, l. 19",,<lb/><lg n=&quot;4&quot; rhyme=&quot;aabbcc&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot;><l n=&quot;19&quot;>
 108,19,2,l,l,L,l,L/\,+,19,fro,Det,Det,le,DMF,le,DETdef,smr,,"SLeger, l. 19",,
 109,19,3,ebisq[ue],ebisque,EbiSkə,e.b.i.s.qu.e,/E\.'b/i\S.k/(ə)\,_,19,fro,N,N,évêque,DMF,évêque,NOMcom,smr,,"SLeger, l. 19",,
 110,19,4,de,de,dE,d.e,d/(E)\,+,19,fro,Pre,Pre,de,DMF,de,PRE,---,,"SLeger, l. 19",,
@@ -1350,7 +1350,7 @@ wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,lang,
 1349,227,4,fel,fel,fɛl,f.e.l,f/ɛ\l,_,227,fro,Adj,Adj,félon,DMF,félon,NOMcom,smn,,"SLeger, l. 227",,
 1350,227,5,nom,nom,nOm,n.o.m,n/O\m,_,227,fro,N,N,nom,DMF,nom,NOMcom,smr,,"SLeger, l. 227",,
 1351,227,6,a,a,a,a,/a\,+,227,fro,Vfin,Vfin,avoir,DMF,avoir,VERcjg,indpst3,,"SLeger, l. 227",,
-1352,227,7,uadart,vadart,vAdarT,v.a.d.a.r.t,v/A\.'d/a\rT,_,227,fro,N,N,Vadart,,---,NOMpro,smr,,"SLeger, l. 227",</l>,
+1352,227,7,uadart,vadart,vAdarT,v.a.d.a.r.t,v/A\.'d/a\rT,_,227,fro,N,N,Vadart,SLeger,---,NOMpro,smr,,"SLeger, l. 227",</l>,
 1353,228,1,ab,ab,aP,a.b,/a\P,+,228,fro,Pre,Pre,o,DMF,o,PRE,---,,"SLeger, l. 228",,<l n=&quot;228&quot;>
 1354,228,2,un,un,yN,u.n,/y\N,|,228,fro,QIs,QIs,un,DMF,un,DETndf,smr,,"SLeger, l. 228",,
 1355,228,3,inspieth,inspieth,iNSpiET,i.n.s.p.i.e.th,/i\NS.'p/iE\T,_,228,fro,N,N,épieu,DMF,épieu,NOMcom,smr,,"SLeger, l. 228",,<lb/>

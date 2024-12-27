@@ -219,7 +219,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 218,44,5,in,in,+,VN,i.n,/V\N,lat,41,---,---,---,---,---,"Spons, l. 41",,,
 219,44,6,sedibus,sedibus,–,QVQVQVQ,s.e.d.i.b.u.s,'Q/V\.Q/V\.'Q/V\Q,lat,41,---,---,---,---,---,"Spons, l. 41",,</l>,
 220,45,1,Dole[=Dolentas],dolentas,–,dOlENtAS,d.o.l.e.n.t.a.s,d/O\.'l/E\N.t/A\S,pro,42,ADJqua,pfn,dolén,DOM,dolent,"Spons, l. 42",,<supplied reason=&quot;missing&quot;>chaitivas trop i avem dormit</supplied></l></lg></sp>,<l n=&quot;42&quot;>
-221,46,1,PRVde[n]tes,prudentes,|,QRVQVNQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\N.Q/V\Q,lat,---,NOUN,pfn,prudens,wiktionary,---,"Spons, f. 54v, rubric",,</speaker>,<sp><speaker>
+221,46,1,PRVde[n]tes,prudentes,|,QRVQVNQVQ,p.r.u.d.e.n.t.e.s,QR/V\.'Q/V\N.Q/V\Q,lat,---,---,---,---,---,---,"Spons, f. 54v, rubric",,</speaker>,<sp><speaker>
 222,47,1,Nos,nos,_,NVQ,n.o.s,N/V\Q,lat,43,---,---,---,---,---,"Spons, l. 43",,,<lb/><lg type=&quot;stanza&quot; met=&quot;decasyllable&quot; rhyme=&quot;aaaab&quot;><l xml:lang=&quot;lat&quot; n=&quot;43&quot;>
 223,47,2,precari,precari,–,QRVQVRV,p.r.e.c.a.r.i,QR/V\.'Q/V\.R/V\,lat,43,---,---,---,---,---,"Spons, l. 43",,,
 224,47,3,precamur,precamur,–,QRVQVNVR,p.r.e.c.a.m.u.r,QR/V\.'Q/V\.N/V\R,lat,43,---,---,---,---,---,"Spons, l. 43",,,

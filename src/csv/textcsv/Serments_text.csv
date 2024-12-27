@@ -67,7 +67,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,para_id,sy
 66,9,1,faz[et],fazet,fAʦəð,f.a.z.e.t,'f/A\.ʦ/ə\ð,.,fro,2,Vfin,Vfin,faire,DMF,faire,VERcjg,subpst3,"Serments, 13r, col. b, l. 11",</s>,
 67,9,2,Et,et,eð,e.t,/e\ð,_,fro,2,Crd,Crd,et,DMF,et,CONcoo,---,"Serments, 13r, col. b, l. 11",,<lb n=&quot;11&quot;/><s xml:lang=&quot;fro&quot;>
 68,9,3,ab,ab,AP,a.b,/A\P,+,fro,2,Pre,Pre,o,DMF,o,PRE,---,"Serments, 13r, col. b, l. 11",,
-69,9,4,ludher,ludher,LoðEr,l.u.dh.e.r,L/o\.'ð/E\r,_,fro,2,N,N,Lothaire,wikipedia.fr,---,NOMcom,smr,"Serments, 13r, col. b, l. 11",,
+69,9,4,ludher,ludher,LoðEr,l.u.dh.e.r,L/o\.'ð/E\r,_,fro,2,N,N,Lothaire,wikipedia.fr,---,NOMpro,smr,"Serments, 13r, col. b, l. 11",,
 70,9,5,nul,nul,nyl,n.u.l,n/y\l,_,fro,2,QIs,QIs,nul,DMF,nul,DETind,smr,"Serments, 13r, col. b, l. 11",,
 71,9,6,plaid,plaid,pLAiT,p.l.a.i.d,pL/A\iT,_,fro,2,N,N,plaid,DMF,plaid,NOMcom,smr,"Serments, 13r, col. b, l. 11",,
 72,9,7,nu[n]qua[m],nunquam,nONkə,n.u.n.qu.am,'n/O\N.k/ə\,|,fro,2,Adv,Adv,nonque,DMF,nonque,ADVgen,---,"Serments, 13r, col. b, l. 11",,
