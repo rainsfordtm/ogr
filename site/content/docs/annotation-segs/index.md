@@ -34,87 +34,102 @@ corpus.
 
 ## 2. Symbols and features
 
-__Segment__-level annotation is contained in three core tags:
+__Segment__-level annotation is contained in four core tags:
 + `seg_plus` and `seg_minus`: two comma-separated lists of alphabetically-ordered phonological features, which are specified as
 "+" or "-" respectively for the __Segment__. The more features included on these lists, the more specified the segment.
-+ `seg_phoneme`: a user-friendly symbol denoting a particular matrix of phonological features. IPA symbols are generally
-used with their standard value. Underspecified segments are represented by non-IPA symbols or capitals.
++ `seg_phoneme`: a character denoting a particular matrix of phonological features. IPA characters are generally
+used with their standard value. Underspecified segments are represented by non-IPA characters or capitals.
++ `seg_matches`: a string of all the characters that match the matrix of phonological features. For
+example, the palatal nasal stop "ɲ" also matches the underspecified characters "N" (nasal consonant) and
+"C" (consonant). The `seg_matches` string is therefore `CNɲ`. In practical terms, this means that the
+query `seg_matches=/.*N.*/` will match all nasal consonants.
 
-It is recommended to use the `seg_plus` and `seg_minus` tags when searching for classes of sounds rather than
-attempting to list possible `seg_phonemes`, e.g.
-+ Find all vowels and glides: `seg_minus=/.*cons.*/`
-+ Find all coda nasals: `onc="C" _i_ seg_plus=/.*nas.*/`
-+ Find all word-final obstruents: `word _r_ seg_minus=/.*son.*/`
-+ Find all word-final coronal stops: `seg_plus=/.*CORONAL.*/ _=_ seg_minus=/.*cont,.*son,.*strident.*/ & word _r_ #1`
+When searching for classes of sounds, use the either `seg_plus` and `seg_minus` or `seg_matches` tags, e.g.:
++ Find all vowels and glides:
+	+ `seg_minus=/.*cons.*/` 
+	+ OR `seg_matches=/.*V.*/`
++ Find all coda nasals:
+	+ `onc="C" _i_ seg_plus=/.*nas.*/`
+	+ OR  `onc="C" _i_ seg_matches=/.*N.*/`
++ Find all word-final obstruents:
+	+ `word _r_ seg_minus=/.*son.*/`
+	+ OR `word _r_ seg_matches=/.*Q.*/`
++ Find all word-final coronal stops:
+	+ `seg_plus=/.*CORONAL.*/ _=_ seg_minus=/.*cont,.*son,.*strident.*/ & word _r_ #1`
+	+ OR `word _r_ seg_matches=/.*T.*/`
 
 In the __TXM__ version of the corpus, __Segment__-level annotation is available through the word-level `phon`
-tag, which concatenates all the `seg_phonemes` in the word as a single string. The features in `seg_plus` and
-`seg_minus` are not available.
+tag, which concatenates all the `seg_phonemes` in the word as a single string. The `seg_plus`, 
+`seg_minus` and `seg_matches` tags are not available.
 
 ### 2.1 Vowels and glides
 
-|Symbol|IPA|cons|son|nas|LABIAL|round|DORSAL|high|low|back|atr|voice|
+|Symbol|Type|cons|son|nas|LABIAL|round|DORSAL|high|low|back|atr|voice|
 |---   |---|--- |---|---|---   |---  |---   |--- |---|--- |---|---  |
-|V||-|+||||||||||
-|U||-|+|-|+|+|+|+|-||+|+|
-|O||-|+|-|+|+|+||-|+||+|
+|V|vowel|-|+||||||||||
+|U|u,y|-|+|-|+|+|+|+|-||+|+|
+|O|back|-|+|-|+|+|+||-|+||+|
 |u|u,w|-|+|-|+|+|+|+|-|+|+|+|
 |o|o,u|-|+|-|+|+|+||-|+|+|+|
 |ɔ|ɔ|-|+|-|+|+|+|-|-|+|-|+|
 |y|y|-|+|-|+|+|+|+|-|-|+|+|
 |i|i,j|-|+|-|||+|+|-|-|+|+|
-|Æ||-|+|-|||+|-||-||+|
-|E||-|+|-|||+|-|-|-||+|
+|Æ|front (not i)|-|+|-|||+|-||-||+|
+|E|e,ɛ[^1]|-|+|-|||+|-|-|-||+|
 |e|e|-|+|-|||+|-|-|-|+|+|
 |ɛ|ɛ|-|+|-|||+|-|-|-|-|+|
 |ə|ə|-|+|-|||+|||||+|
-|A||-|+|-|||+|-|+|-||+|
+|A|a,æ|-|+|-|||+|-|+|-||+|
 |a|a|-|+|-|||+|-|+|-|-|+|
 |æ|æ|-|+|-|||+|-|+|-|+|+|
 
 ### 2.2 Consonants
-| Symbol | IPA | cons | son | cont | strident | lat | nas | LABIAL | CORONAL | ant | dist | DORSAL | back | LARYNGEAL | voice |
-|---     |---  |---   |---  |---   |---       |---  |---  |---     |---      |---  |---   |---     | ---  | ---       | ---   |
-| C | C | + |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Symbol | Type | cons | son | cont | strident | lat | nas | LABIAL | CORONAL | ant | dist | DORSAL | back | LARYNGEAL | voice |
+|---     |---   |---   |---  |---   |---       |---  |---  |---     |---      |---  |---   |---     | ---  | ---       | ---   |
+| C | consonant | + |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| Q[^2] | obstruent | + | - |  |  | - | - |  |  |  |  |  |  |  |  |
 | h | h | + | - |  |  | - | - |  |  |  |  |  |  | + | - |
-| Z |  | + | - |  |  | - | - |  | + |  |  |  |  |  |  |
-| D |  | + | - |  | - | - | - |  | + | + |  |  |  |  |  |
-| T |  | + | - | - | - | - | - |  | + | + |  |  |  |  |  |
+| Z | coronal | + | - |  |  | - | - |  | + |  |  |  |  |  |  |
+| D | t,d,ð,θ | + | - |  | - | - | - |  | + | + |  |  |  |  |  |
+| T | t,d | + | - | - | - | - | - |  | + | + |  |  |  |  |  |
 | t | t | + | - | - | - | - | - |  | + | + |  |  |  |  | - |
 | d | d | + | - | - | - | - | - |  | + | + |  |  |  |  | + |
-| Ç |  | + | - | - | + | - | - |  | + | + | - |  |  |  |  |
+| Ç | ʦ,ʣ | + | - | - | + | - | - |  | + | + | - |  |  |  |  |
 | ʦ | ʦ | + | - | - | + | - | - |  | + | + | - |  |  |  | - |
 | ʣ | ʣ | + | - | - | + | - | - |  | + | + | - |  |  |  | + |
-| Č |  | + | - | - | + | - | - |  | + | - | + |  |  |  |  |
+| Č | ʧ,ʤ | + | - | - | + | - | - |  | + | - | + |  |  |  |  |
 | ʧ | ʧ | + | - | - | + | - | - |  | + | - | + |  |  |  | - |
 | ʤ | ʤ | + | - | - | + | - | - |  | + | - | + |  |  |  | + |
-| S |  | + | - | + | + | - | - |  | + | + | - |  |  |  |  |
+| S | s,z | + | - | + | + | - | - |  | + | + | - |  |  |  |  |
 | s | s | + | - | + | + | - | - |  | + | + | - |  |  |  | - |
 | z | z | + | - | + | + | - | - |  | + | + | - |  |  |  | + |
 | ð | ð,θ | + | - | + | - | - | - |  | + | + | + |  |  |  |  |
-| G |  | + | - |  | - | - | - |  |  |  |  | + | + |  |  |
-| K |  | + | - | - | - | - | - |  |  |  |  | + | + |  |  |
+| G | velar obstruent | + | - |  | - | - | - |  |  |  |  | + | + |  |  |
+| K | k,g | + | - | - | - | - | - |  |  |  |  | + | + |  |  |
 | k | k | + | - | - | - | - | - |  |  |  |  | + | + |  | - |
 | g | g | + | - | - | - | - | - |  |  |  |  | + | + |  | + |
 | ɣ | ɣ | + | - | + | - | - | - |  |  |  |  | + | + |  | + |
-| Ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			|		|
-| ċ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| -		|
-| ġ			|		| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| +		|
-| B |  | + | - |  |  | - | - | + |  |  |  |  |  |  |  |
-| P |  | + | - | - | - | - | - | + |  |  |  |  |  |  |  |
+| Ċ			| palatalized velar	| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			|		|
+| ċ			| k,c,ʨ	| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| -		|
+| ġ			| g,ɟ,ʥ	| +		| -		| -		|			| -		| -		|			|			|		|		| +			|		|			| +		|
+| B | labial obstruent  | + | - |  |  | - | - | + |  |  |  |  |  |  |  |
+| P | p,b | + | - | - | - | - | - | + |  |  |  |  |  |  |  |
 | p | p | + | - | - | - | - | - | + |  |  |  |  |  |  | - |
 | b | b | + | - | - | - | - | - | + |  |  |  |  |  |  | + |
-| F |  | + | - | + | + | - | - | + |  |  |  |  |  |  |  |
+| F | f,v | + | - | + | + | - | - | + |  |  |  |  |  |  |  |
 | f | f | + | - | + | + | - | - | + |  |  |  |  |  |  | - |
 | v | v | + | - | + | + | - | - | + |  |  |  |  |  |  | + |
 | ß | ß | + | - | + | - | - | - | + |  |  |  |  |  |  |  |
-| N |  | + | + | - |  | - | + |  |  |  |  |  |  |  | + |
+| N | nasal | + | + | - |  | - | + |  |  |  |  |  |  |  | + |
 | n | n | + | + | - |  | - | + |  | + | + |  |  |  |  | + |
 | ɲ | ɲ | + | + | - |  | - | + |  |  |  |  | + | - |  | + |
 | m | m | + | + | - |  | - | + | + |  |  |  |  |  |  | + |
-| L |  | + | + | - |  | + | - |  |  |  |  |  |  |  | + |
+| L | lateral | + | + | - |  | + | - |  |  |  |  |  |  |  | + |
 | l | l | + | + | - |  | + | - |  | + | + |  |  |  |  | + |
 | ʎ | ʎ | + | + | - |  | + | - |  |  |  |  | + | - |  | + |
 | r | r | + | + | + |  | - | - |  | + |  |  |  |  |  | + |
 
 \[[previous](/docs/annotation)\] \[[next](/docs/annotation-word)\]
+
+[^1]: May also denote word-medial schwa.
+[^2]: Used only in transcriptions of Latin.

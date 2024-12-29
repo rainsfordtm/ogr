@@ -37,8 +37,8 @@ Four broad categories of annotation can be distinguished:
 | graphical | `word` | normalized form | [below](#3-graphical-properties) |
 | graphical | `dipl` | diplomatic transcription | [below](#3-graphical-properties) |
 | graphical | `wd_div` | manuscript word division _following_ the token | [below](#3-graphical-properties) |
+| language | `lang` | language of the token | below |
 | morphosyntactic | `pos` | base part-of-speech tag | [below](#4-morphosyntactic-properties) |
-| morphosyntactic | `pos_syn` | context-dependent part-of-speech tag | [below](#4-morphosyntactic-properties) |
 | morphosyntactic | `morph` | inflection | [below](#4-morphosyntactic-properties) |
 | lemmatization | `lemma` | lemma from any available source | [below](#5-lemmatization) |
 | lemmatization | `lemma_src` | source of lemma | [below](#5-lemmatization) |
@@ -75,26 +75,22 @@ The following special characters are used to denote manuscript word division:
 
 ## 4. Morphosyntactic properties
 
-### pos and pos_syn
+### pos
 
-These part-of-speech tags are based on the the CATTEX-09 tagging system used in the by the 
+This part-of-speech tag is based on the the CATTEX-09 tagging system used in the by the 
 _Base de français médiéval_. 
-`pos` and `pos_syn` only differ in non-lexicalized cases of conversion. 
-For example, a nominalized
-infinitive will have `[pos="VERinf"]` (verb) but `[pos_syn="NOMcom"]` (noun).
-Please see [bfm.ens-lyon.fr](http://bfm.ens-lyon.fr) for full documentation.
 
 #### PRO > PRC, PRN
 
 The OGR tagset introduces a distinction between __clitics__, i.e. atonic object pronouns
 before the finite verb and all object pronouns after a clause-initial finite verb, and
-__NP pronouns__, e.g. nominative (subject) pronouns and disjunctive oblique pronouns.
+__strong pronouns__, e.g. nominative (subject) pronouns and disjunctive oblique pronouns.
 
 | Cattex | OGR |
 | --- | --- |
 | `PROadv` | `PRCadv` _i_ and _en_, always clitic |
-| `PROper` | `PRCper` clitic personal pronoun, `PRNper` NP personal pronoun |
-| `PROdem` | `PRCdem` southern GR clitic _o_, `PRNdem` NP demonstratives |
+| `PROper` | `PRCper` clitic personal pronoun, `PRNper` strong personal pronoun |
+| `PROdem` | `PRCdem` southern GR clitic _o_, `PRNdem` other demonstratives |
 | others (`PROrel`, `PROind`, `PROint`, ...) | `PRNrel`, `PRNind`, `PRNint` ... |
 
 ### morph
@@ -114,7 +110,7 @@ The grammatical categories are annotated in the following way:
 + case (1): __n__ (nominative) or __r__ (oblique). For third-person clitic personal pronouns, __a__ (accusative/COD) or __i__ (dative, COI) 
 + person (1): __1-6__ (not __1s__, __1p__, etc.)
 + mood (3): __ind__ (indicative), __sub__ (subjunctive), __imp__ (imperative), __con__ (conditional)
-+ tense (3): __prs__ (present), __psp__ (preterite), __pqp__ ( < Latin simple pluperfect), __ipf__ (imperfect), __fut__ (future)
++ tense (3): __pst__ (present), __psp__ (preterite), __pqp__ ( < Latin simple pluperfect), __ipf__ (imperfect), __fut__ (future)
 
 ## 5. Lemmatization
 
@@ -130,9 +126,12 @@ main values:
 + `DMF`: _Dictionnaire de moyen français_ ([http://www.atilf.fr/dmf](http://www.atilf.fr/dmf)). Preferred dictionary for northern Gallo-Romance texts.
 + `DOM`: _Dictionnaire de l'occitan médiéval_ ([http://www.dom-en-ligne.de/](http://www.dom-en-ligne.de/)). Preferred dictionary for southern Gallo-Romance texts.
     + Acute and grave accents are used to distinguish mid-open and mid-close vowels, e.g. _éis_ for DOM _ẹis_; equally capital _N_ replaces DOM _ṉ_.
-+ `TL`: Tobler-Lommatzsch _Altfranzösisches Wörterbuch_. Fallback dictionary.
-+ __blank__: lemma not listed in any dictionary, e.g. proper nouns.
++ `wikipedia.fr`: Preferred source for French proper nouns.
++ `oc.wikipedia.org`: Preferred source for Occitan proper nouns.
++ `wiktionary`: Preferred source for Latin lemmas.
 
+`TL` denotes a lemma from the Tobler-Lommatzsch dictionary and `AND`
+a lemma from the Anglo-Norman Dictionary.
 
 `lemma_dmf` gives DMF lemmas for all texts, including southern Gallo-Romance. 
 Where the word or its cognate is not found in the DMF, `lemma_dmf` is left blank.
