@@ -16,10 +16,6 @@ https://txm.gitpages.huma-num.fr/textometrie/index.html
 Once you've installed TXM, install the corpus by clicking on "File > Load"
 and loading the OGR1.txm file included in this archive.
 
-While there are plenty of rough edges in this preview version,
-the corpus is fully searchable using the CQP-powered concordance and
-index functions of TXM. 
-
 *******
 LICENSE
 *******

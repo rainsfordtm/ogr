@@ -29,7 +29,7 @@ _ANNIS example queries can be found in the ANNIS portal_.
 ```
 + Find all cases of _ne_ 'not' before a vowel-initial verb:
 ```cqp
-[lemma_dmf="ne"] [phon="[aeiouyæɛɔAEIOUÆ].*" & pos_syn="VERcjg"]
+[lemma_dmf="ne"] [phon="[aeiouyæɛɔAEIOUÆ].*" & pos="VERcjg"]
 ```
 + Find all prosodically enclitic pronouns:
 ```cqp
@@ -55,7 +55,7 @@ _ANNIS example queries can be found in the ANNIS portal_.
 
 + Find all nouns in the masculine nominative singular not ending in _-s_:
 ```cqp
-[pos_syn="NOMcom" & morph="smn" & word!=".*[szx]"]
+[pos="NOMcom" & morph="smn" & word!=".*[szx]"]
 ```
 
 + Find all forms of the verb _raiembre_ 'to redeem' in both languages:

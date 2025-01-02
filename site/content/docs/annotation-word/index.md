@@ -37,7 +37,7 @@ Four broad categories of annotation can be distinguished:
 | graphical | `word` | normalized form | [below](#3-graphical-properties) |
 | graphical | `dipl` | diplomatic transcription | [below](#3-graphical-properties) |
 | graphical | `wd_div` | manuscript word division _following_ the token | [below](#3-graphical-properties) |
-| language | `lang` | language of the token | below |
+| graphical | `lang` | language of the token | [below](#3-graphical-properties) |
 | morphosyntactic | `pos` | base part-of-speech tag | [below](#4-morphosyntactic-properties) |
 | morphosyntactic | `morph` | inflection | [below](#4-morphosyntactic-properties) |
 | lemmatization | `lemma` | lemma from any available source | [below](#5-lemmatization) |
@@ -72,6 +72,14 @@ The following special characters are used to denote manuscript word division:
 + `+` agglutination to following word
 + `_` space
 + `|` line break
+
+### lang
+
+The `lang` tag indicates the language of the word based on its graphical
+form. Note that the `lang` tag doesn't always match the  matrix language
+of the line or the sentence. In particular, words using Latin rather
+than Romance orthography within a section of Romance text are also are
+tagged as `lang=lat`. These are shown in italics in the editions.
 
 ## 4. Morphosyntactic properties
 

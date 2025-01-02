@@ -48,14 +48,14 @@ texts.
 
 __Recommended for simpler, non-phonological queries__
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-txm.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-txm.zip)
 
 ### 2.1 Installation
 
-1. Download and install TXM 0.8.1 from 
+1. Download and install TXM 0.8.3 from 
 [https://txm.gitpages.huma-num.fr/textometrie/index.html.](https://txm.gitpages.huma-num.fr/textometrie/index.html)
-1. Unzip the `ogr040-txm.zip` archive to any location on your computer.
-1. In TXM, select `File > Load` and load the file `OGR040.txm` contained in the .zip.
+1. Unzip the `ogr100-txm.zip` archive to any location on your computer.
+1. In TXM, select `File > Load` and load the file `OGR100.txm` contained in the .zip.
 
 ### 2.2 Tips
 
@@ -68,15 +68,9 @@ well as or instead of `default` in the bottom left of the edition window.
 
 You can try out some of the sample queries [given here](/docs/sample-queries).
 
-### 2.3 Technical note
-
-The TXM binary, including the HTML edition of the corpus, is generated from the TEI P5
-sources by adding the files in [this zip archive](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-txm-import.zip) to the
-folder containing the TEI XML files and running TXM's "XML Zero + CSV" import.
-
 ## 3. ANNIS offline
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-annis.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-annis.zip)
 
 If you need to use the corpus offline, you can install ANNIS locally. 
 __With the release of ANNIS 4, this is now really easy!__
@@ -89,7 +83,7 @@ your web browser at `localhost:5712`
 
 ## 4. XML-TEI P5
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr040/ogr040-tei.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-tei.zip)
 
 The TEI P5 archive encodes each text and all annotation in a single TEI-compliant XML
 file. __Lines__, __Words__ and __Segments__ are encoded inline while __Syllables__ are
