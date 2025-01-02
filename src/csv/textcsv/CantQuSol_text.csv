@@ -361,7 +361,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 360,59,1,59,"CantQuSol, l. 59",co[m]mandent,commandent,_,kOmANdəNT,c.o.mm.a.n.d.e.n.t,k/O\.'m/A\N.d/ə\NT,fro,VERcjg,indpst6,commander,DMF,commander,,,<l n=&quot;59&quot;><q>
 361,59,2,59,"CantQuSol, l. 59",li,li,|,Li,l.i,L/i\,fro,PRCper,3sfi,le,DMF,le,,,
 362,59,3,59,"CantQuSol, l. 59",les,les,_,LES,l.e.s,L/E\S,fro,DETdef,pfr,le,DMF,le,,,<lb/>
-363,59,4,59,"CantQuSol, l. 59",uin_nes,vinnes,_,viɲəS,v.i.n.n.e.s,'v/i\.ɲ/ə\S,fro,NOMcom,pfr,vigne,DMF,vigne,,,
+363,59,4,59,"CantQuSol, l. 59",uin_nes,vinnes,_,viɲəS,v.i.nn.e.s,'v/i\.ɲ/ə\S,fro,NOMcom,pfr,vigne,DMF,vigne,,,
 364,59,5,59,"CantQuSol, l. 59",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,
 365,59,6,59,"CantQuSol, l. 59",guarder,guarder,_,gArdær,gu.a.r.d.e.r,g/A\r.'d/æ\r,fro,VERinf,---,garder,DMF,garder,,</q></l>,
 366,60,1,60,"CantQuSol, l. 60",fors,fors,_,fɔrS,f.o.r.s,f/ɔ\rS,fro,ADVgen,---,fors,DMF,fors,,,<l n=&quot;60&quot;><q>
@@ -402,7 +402,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 401,65,5,65,"CantQuSol, l. 65",fist,fist,_,fiST,f.i.s.t,f/i\ST,fro,VERcjg,indpsp3,faire,DMF,faire,,,
 402,65,6,65,"CantQuSol, l. 65",molt,molt,_,moLT,m.o.l.t,m/o\LT,fro,ADVgen,---,moult,DMF,moult,,,
 403,65,7,65,"CantQuSol, l. 65",grant,grant,_,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,sfr,grand,DMF,grand,,,
-404,65,8,65,"CantQuSol, l. 65",en_nor,ennor,_,Enor,e.n.n.o.r,/E\.'n/o\r,fro,NOMcom,sfr,honneur,DMF,honneur,,</q></l>,
+404,65,8,65,"CantQuSol, l. 65",en_nor,ennor,_,Enor,e.nn.o.r,/E\.'n/o\r,fro,NOMcom,sfr,honneur,DMF,honneur,,</q></l>,
 405,66,1,66,"CantQuSol, l. 66",a,a,+,A,a,/A\,fro,PRE,---,à,DMF,à,,,<l n=&quot;66&quot;><q>
 406,66,2,66,"CantQuSol, l. 66",l,l,+,L,l,/\L,fro,DETdef,smr,le,DMF,le,,,
 407,66,3,66,"CantQuSol, l. 66",tems,tems,|,tENS,t.e.m.s,t/E\NS,fro,NOMcom,smr,temps,DMF,temps,,,
@@ -427,7 +427,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 426,69,2,69,"CantQuSol, l. 69",de,de,+,dE,d.e,d/(E)\,fro,PRE,---,de,DMF,de,,,
 427,69,3,69,"CantQuSol, l. 69",grant,grant,|,grANT,g.r.a.n.t,gr/A\NT,fro,ADJqua,sfr,grand,DMF,grand,,,
 428,69,4,69,"CantQuSol, l. 69",fei,fei,;,fEi,f.e.i,f/E\i,fro,NOMcom,sfr,foi,DMF,foi,,</q></l></lg>,<lb/>
-429,70,1,70,"CantQuSol, l. 70",Issac,issac,_,isaK,i.ss.a.c,/i\.'/a\K,fro,NOMpro,smn,Isaac,wikipedia.fr,---,,,"<lg n=&quot;24&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;70&quot;><q>"
+429,70,1,70,"CantQuSol, l. 70",Issac,issac,_,isaK,i.ss.a.c,/i\.'s/a\K,fro,NOMpro,smn,Isaac,wikipedia.fr,---,,,"<lg n=&quot;24&quot; type=&quot;stanza&quot; met=&quot;decasyllable,tetrasyllable&quot; rhyme=&quot;aab&quot;><l n=&quot;70&quot;><q>"
 430,70,2,70,"CantQuSol, l. 70",i,i,+,i,i,/i\,fro,PRCadv,---,y2,DMF,y2,,,
 431,70,3,70,"CantQuSol, l. 70",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
 432,70,4,70,"CantQuSol, l. 70",iacob,jacob,_,ʤAkɔP,j.a.c.o.b,ʤ/A\.'k/ɔ\P,fro,NOMpro,smn,Jacob,wikipedia.fr,---,,,
@@ -509,7 +509,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 508,85,6,85,"CantQuSol, l. 85",uint,vint,_,viNT,v.i.n.t,v/i\NT,fro,VERcjg,indpsp3,venir,DMF,venir,,,
 509,85,7,85,"CantQuSol, l. 85",ananias,ananias,_,AnAniaS,a.n.a.n.i.a.s,/A\.n/A\.n/i\.'/a\S,fro,NOMpro,smn,Ananias,wikipedia.fr,---,,</q></l>,
 510,86,1,86,"CantQuSol, l. 86",ę,e,+,e,e,/e\,fro,CONcoo,---,et,DMF,et,,,<l n=&quot;86&quot;><q>
-511,86,2,86,"CantQuSol, l. 86",misael,misael,|,mizaɛl,m.i.s.ae.l,m/i\.z/a\.'/ɛ\l,fro,NOMpro,smn,Misaël,wikipedia.fr,---,,,
+511,86,2,86,"CantQuSol, l. 86",misael,misael,|,mizaɛl,m.i.s.a.e.l,m/i\.z/a\.'/ɛ\l,fro,NOMpro,smn,Misaël,wikipedia.fr,---,,,
 512,86,3,86,"CantQuSol, l. 86",[et],et,_,e,et,/e\,fro,CONcoo,---,et,DMF,et,,,<lb/>
 513,86,4,86,"CantQuSol, l. 86",dam,dam,_,dAm,d.a.m,d/A\m,fro,NOMcom,smr,dan,DMF,dan,,,
 514,86,5,86,"CantQuSol, l. 86",zacharias,zacharias,_,ÇAkAriaS,z.a.ch.a.r.i.a.s,Ç/A\.k/A\.r/i\.'/a\S,fro,NOMpro,smr,Zacharie,wikipedia.fr,---,,</q></l>,

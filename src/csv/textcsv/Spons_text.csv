@@ -337,7 +337,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,textlineid
 336,75,1,queret,queret,–,kErɛT,qu.e.r.e.t,k/E\.'r/ɛ\T,pro,70,VERcjg,imp---5,quèrre,DOM,quérir,"Spons, l. 70",,,<l n=&quot;70&quot;>
 337,75,2,lo,lo,_,LO,l.o,L/(O)\,pro,70,PRCper,3sma,lo3,DOM,le,"Spons, l. 70",,,
 338,75,3,deu,deu,–,dɛu,d.e.u,d/ɛ\u,pro,70,NOMpro,smr,dèu,DOM,Dieu,"Spons, l. 70",,,
-339,75,4,chi,chi,_,ki,c.h.i,k/<i>\,pro,70,PRNrel,smn,qui,DOM,qui,"Spons, l. 70",,,
+339,75,4,chi,chi,_,ki,ch.i,k/<i>\,pro,70,PRNrel,smn,qui,DOM,qui,"Spons, l. 70",,,
 340,75,5,uos,vos,–|,vOS,v.o.s,v/O\S,pro,70,PRCper,5pfr,vós,DOM,vous,"Spons, l. 70",,,
 341,75,6,pot,pot,–,pɔT,p.o.t,p/ɔ\T,pro,70,VERcjg,indpst3,podér,DOM,pouvoir2,"Spons, l. 70",,,<lb/>
 342,75,7,coseler,coseler,_,kOsEʎɛr,c.o.s.e.l.e.r,k/O\.s/E\.'ʎ/ɛ\r,pro,70,VERinf,---,conselhar,DOM,conseiller2,"Spons, l. 70",,</l></lg>,

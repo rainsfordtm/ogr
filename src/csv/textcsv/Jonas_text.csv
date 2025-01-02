@@ -307,7 +307,7 @@ wd_id,line_id,line_wd,dipl,word,wd_div,phon,phon_map,syllabified,lang,pos,morph,
 306,40,17,{iudeorum},judeorum,.,,,,lat,NOMcom,pmr,juif,DMF,juif,"Jonas, verso, l. 4",,</s>,
 307,40,18,e,e,_,e,e,/e\,fro,CONcoo,---,et,DMF,et,"Jonas, verso, l. 4",,,<s>
 308,40,19,ne,ne,_,nE,n.e,n/(E)\,fro,ADVneg,---,ne,DMF,ne,"Jonas, verso, l. 4",,,
-309,40,20,doleiet,doleiet,|,dolEiəNT,d.o.l.e.i.e.n.t,d/o\.'l/E\i./ə\NT,fro,VERcjg,indipf3,douloir,DMF,douloir,"Jonas, verso, l. 4",,,
+309,40,20,doleiet,doleiet,|,dolEiəð,d.o.l.e.i.e.t,d/o\.'l/E\i./ə\ð,fro,VERcjg,indipf3,douloir,DMF,douloir,"Jonas, verso, l. 4",,,
 310,41,1,lur,lur,_,Lor,l.u.r,L/o\r,fro,DETpos,6smr,leur2,DMF,leur2,"Jonas, verso, l. 5",,,<lb n=&quot;5&quot;/><supplied reason=&quot;illegible&quot;>tant</supplied><gap reason=&quot;illegible&quot;/><supplied reason=&quot;illegible&quot;>de</supplied>
 311,41,2,salut,salut,.,SAlyð,s.a.l.u.t,S/A\.'l/y\ð,fro,NOMcom,smr,salut,DMF,salut,"Jonas, verso, l. 5",,,
 312,41,3,{cum},cum,_,,,,fro,CONsub,---,comme,DMF,comme,"Jonas, verso, l. 5",,,

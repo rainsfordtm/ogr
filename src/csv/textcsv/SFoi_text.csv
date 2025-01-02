@@ -1906,7 +1906,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 1905,304,3,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 304",,<l n=&quot;304&quot;><q>
 1906,304,4,fez,fez,_,feʣ,f.e.z,f/e\ʣ,pro,VERcjg,indpsp3,faire,DOM,faire,,"SFoi, l. 304",,
 1907,304,5,de,de,+,dE,d.e,d/(E)\,pro,PRE,---,de,DOM,de,,"SFoi, l. 304",,
-1908,304,6,ss,ss,_,s,s,/\s,pro,DETpos,3pmr,sos,DOM,son4,,"SFoi, l. 304",,
+1908,304,6,ss,ss,_,s,ss,/\s,pro,DETpos,3pmr,sos,DOM,son4,,"SFoi, l. 304",,
 1909,304,7,homen,homen,_,OmEn,ho.m.e.n,'/O\.m/E\n,pro,NOMcom,pmr,óme,DOM,homme,,"SFoi, l. 304",,
 1910,304,8,molt,molt,_,moLt,m.o.l.t,m/o\Lt,pro,ADVgen,---,mólt,DOM,moult,,"SFoi, l. 304",,
 1911,304,9,ginnos,ginnos,.,ʤiɲoz,g.i.nn.o.s,ʤ/i\.'ɲ/o\z,pro,ADJqua,pmr,ginhós,DOM,---,,"SFoi, l. 304",</q></l>,
@@ -3571,7 +3571,7 @@ wd_id,line_id,linewd,word,dipl,wd_div,phon,phon_map,syllabified,lang,pos,morph,l
 3570,575,2,traitor,traitor,_,trAitor,t.r.a.i.t.o.r,tr/A\i.'t/o\r,pro,NOMcom,pmn,traïdór,DOM,traître,,"SFoi, l. 575",,<lb/>
 3571,575,3,forun,forun,_,forOn,f.o.r.u.n,'f/o\.r/O\n,pro,VERcjg,indpsp6,èser,DOM,être,,"SFoi, l. 575",,
 3572,575,4,e,e,+,e,e,/e\,pro,CONcoo,---,e,DOM,et,,"SFoi, l. 575",,
-3573,575,5,fellun,fellun,.,fELLOn,f.e.l.l.o.n,f/E\L.'L/O\n,pro,ADJqua,pmn,felóN,DOM,félon,,"SFoi, l. 575",</l></lg>,
+3573,575,5,fellun,fellun,.,fELLOn,f.e.l.l.u.n,f/E\L.'L/O\n,pro,ADJqua,pmn,felóN,DOM,félon,,"SFoi, l. 575",</l></lg>,
 3574,576,1,folz,Folz,_,fɔLÇ,f.o.l.z,f/ɔ\LÇ,pro,ADJqua,smn,fòl,DOM,fou,,"SFoi, l. 576",,<lg n=&quot;54&quot; type=&quot;laisse&quot; met=&quot;octosyllable&quot;><l n=&quot;576&quot;>
 3575,576,2,es,es,_,ES,e.s,/E\S,pro,VERcjg,indpst3,èser,DOM,être,,"SFoi, l. 576",,
 3576,576,3,qi,qi,_,ki,q.i,k/i\,pro,PRNrel,smn,qui,DOM,qui,,"SFoi, l. 576",,

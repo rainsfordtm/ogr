@@ -1,8 +1,0 @@
-Rules applied: 
-Lines correct: 6 of 6
-Pass history:
-Tried rules R1; 6 lines correct.
-OPTIMIZED LINES
-
-
-BAD LINES

@@ -2,7 +2,7 @@ wd_id,line_id,linewd,dipl,wd_div,word,phon,phon_map,syllabified,lang,pos,morph,p
 1,1,1,Nos,_,nos,noS,n.o.s,n/o\S,pro,PRNper,4pmn,PRO,Prn,Prn,nós,DOM,nous,"Boeci, l. 1",,<text><body xml:lang=&quot;pro&quot;><pb n=&quot;269&quot;/><lb/><lg n=&quot;1&quot; type=&quot;laisse&quot; met=&quot;decasyllable&quot;><l n=&quot;1&quot;>
 2,1,2,ioue,_,jove,ʤovE,j.o.v.e,'ʤ/o\.v/(E)\,pro,ADJqua,pmn,ADJ,Adj,Adj,jóveN,DOM,jeune,"Boeci, l. 1",,
 3,1,3,omne,_,omne,OmnE,o.m.n.e,'/O\m.n/(E)\,pro,NOMcom,pmn,NCPL,N,N,óme,DOM,homme,"Boeci, l. 1",,
-4,1,4,quan_dius,_,quandius,kANdioS,q.u.a.n.d.i.u.s,'k/A\N.di/o\S,pro,CONsub,---,CONJS,Sub,Sub,candis,DOM,---,"Boeci, l. 1",,
+4,1,4,quan_dius,_,quandius,kANdioS,qu.a.n.d.i.u.s,'k/A\N.di/o\S,pro,CONsub,---,CONJS,Sub,Sub,candis,DOM,---,"Boeci, l. 1",,
 5,1,5,que,+,que,ke,qu.e,k/(e)\,pro,CONsub,---,CONJS,Sub,Sub,que2,DOM,que,"Boeci, l. 1",,
 6,1,6,nos,_,nos,noS,n.o.s,n/o\S,pro,PRNper,4pmn,PRO,Prn,Prn,nós,DOM,nous,"Boeci, l. 1",,
 7,1,7,estam,_,estam,EStAm,e.s.t.a.m,/E\S.'t/A\m,pro,VERcjg,indpst4,VJ,Vfin,Vfin,estar,DOM,ester,"Boeci, l. 1",</l>,
