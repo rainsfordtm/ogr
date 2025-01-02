@@ -165,6 +165,7 @@ readable, but very basic form. It shows:
 
 In addition, colours and font styles are used to enhance readability:
 
++ __Dark blue text__: direct speech
 + __Grey background__: section of text not in Old Gallo-Romance (usually in Latin)
 + __Italicized text__: word not in the matrix language of the sentence (usually a Latin form in a Romance sentence)
 + __Maroon text in square brackets__: text not present in the manuscript

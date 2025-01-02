@@ -61,6 +61,10 @@ p.stage {
 	text-justify: inter-word;
 }
 
+.q {
+    color: DarkBlue;
+}
+
 *:lang(lat) {
     background-color: LightGray;
 }

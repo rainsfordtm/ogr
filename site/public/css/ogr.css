@@ -20,11 +20,6 @@ div.ogr-header {
 .ogr-head {
     text-align: center;
     }
-.ogr-milestone {
-        font-family: monospace;
-        font-size: 0.6em;
-        color: gray;
-}
 .ogr-lang-fro{ background-color: white; }
 .ogr-lang-goh{ background-color: LightGray; }
 .ogr-lang-lat{ background-color: LightGray; }
@@ -37,6 +32,14 @@ div.ogr-header {
             font-family: monospace;
             font-size: 0.6em;
             }
+.ogr-milestone {
+        font-family: monospace;
+        font-size: 0.6em;
+        color: gray;
+}
+.ogr-q {
+    color: DarkBlue;
+}
 .ogr-secl {
     font-size: 0.8em
 }

@@ -194,6 +194,18 @@
         <xsl:text> )</xsl:text>
     </xsl:template>
     
+    <xsl:template match="tei:q" mode="norm">
+        <!-- Add span -->
+        <xsl:element name="span">
+            <xsl:attribute name="class">ogr-q</xsl:attribute>
+            <xsl:apply-templates mode="#current"/>
+        </xsl:element>
+    </xsl:template>
+    
+    <xsl:template match="tei:q" mode="dipl">
+        <xsl:apply-templates mode="#current"/>
+    </xsl:template>
+    
     <!-- WORDS -->
     
     <xsl:template match="tei:w" mode="norm">
