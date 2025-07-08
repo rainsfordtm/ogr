@@ -3,7 +3,7 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 2,1,2,1,"Alba, l. 1",claro,claro,_,QLVRV,c.l.a.r.o,'QL/V\.R/V\,lat,---,---,---,---,---,,,
 3,1,3,1,"Alba, l. 1",nondum,nondum,_,NVNQVN,n.o.n.d.u.m,'N/V\N.Q/V\N,lat,---,---,---,---,---,,,
 4,1,4,1,"Alba, l. 1",orto,orto,_,VRQV,o.r.t.o,'/V\R.Q/V\,lat,---,---,---,---,---,,,
-5,1,5,1,"Alba, l. 1",iubare,iubare,;,RVQVRV,i.u.b.a.r.e,R/V\.'Q/V\.'R/V\,lat,---,---,---,---,---,,</l>,
+5,1,5,1,"Alba, l. 1",iubare,iubare,;,RVQVRV,i.u.b.a.r.e,'R/V\.Q/V\.'R/V\,lat,---,---,---,---,---,,</l>,
 6,2,1,2,"Alba, l. 2",Fert,fert,_,QVRQ,f.e.r.t,Q/V\RQ,lat,---,---,---,---,---,,,<l xml:lang=&quot;lat&quot; n=&quot;2&quot;>
 7,2,2,2,"Alba, l. 2",aurora,aurora,_,VRVRV,au.r.o.r.a,/V\.'R/V\.R/V\,lat,---,---,---,---,---,,,
 8,2,3,2,"Alba, l. 2",lumen,lumen,+,LVNVN,l.u.m.e.n,'L/V\.N/V\N,lat,---,---,---,---,---,,,
@@ -31,11 +31,11 @@ wd_id,line_id,line_wd,textlineid,ref,dipl,word,wd_div,phon,phon_map,syllabified,
 30,6,2,6,"Alba, l. 6",incautos,incautos,_,VNQVQVQ,i.n.c.au.t.o.s,/V\N.'Q/V\.Q/V\Q,lat,---,---,---,---,---,,,
 31,6,3,6,"Alba, l. 6",ostium,ostium,_,VQQVVN,o.s.t.i.u.m,'/V\Q.Q/V\./V\N,lat,---,---,---,---,---,,,
 32,6,4,6,"Alba, l. 6",insidie,insidie,|,VNQVQVV,i.n.s.i.d.i.e,/V\N.'Q/V\.Q/V\.'/V\,lat,---,---,---,---,---,,</l>,
-33,7,1,7,"Alba, l. 7",Torpentesq[ue],torpentesque,_,QVRQVNQVQQRV,t.o.r.p.e.n.t.e.s.q.u.e,Q/V\R.'Q/V\N.Q/V\Q.QR/V\,lat,---,---,---,---,---,,,<lb/><l xml:lang=&quot;lat&quot; n=&quot;7&quot;>
+33,7,1,7,"Alba, l. 7",Torpentesq[ue],torpentesque,_,QVRQVNQVQQRV,t.o.r.p.e.n.t.e.s.q.u.e,Q/V\R.Q/V\N.'Q/V\Q.QR/V\,lat,---,---,---,---,---,,,<lb/><l xml:lang=&quot;lat&quot; n=&quot;7&quot;>
 34,7,2,7,"Alba, l. 7",gliscunt,gliscunt,_,QLVQQVNQ,g.l.i.s.c.u.n.t,'QL/V\Q.Q/V\NQ,lat,---,---,---,---,---,,,
 35,7,3,7,"Alba, l. 7",interficere,interficere,;,VNQVRQVQVRV,i.n.t.e.r.f.i.c.e.r.e,/V\N.Q/V\R.'Q/V\.Q/V\.'R/V\,lat,---,---,---,---,---,,</l>,
 36,8,1,8,"Alba, l. 8",Quos,quos,_,QRVQ,q.u.o.s,QR/V\Q,lat,---,---,---,---,---,,,<l xml:lang=&quot;lat&quot; n=&quot;8&quot;>
-37,8,2,8,"Alba, l. 8",suad[et],suadet,_,QVVQVQ,s.u.a.d.e.t,'QV/V\.Q/V\Q,lat,---,---,---,---,---,,,
+37,8,2,8,"Alba, l. 8",suad[et],suadet,_,QVVQVQ,s.u.a.d.e.t,Q/V\.'/V\.Q/V\Q,lat,---,---,---,---,---,,,
 38,8,3,8,"Alba, l. 8",preco,preco,_,QRVQV,p.r.e.c.o,'QR/V\.Q/V\,lat,---,---,---,---,---,,,
 39,8,4,8,"Alba, l. 8",clamat,clamat,_,QLVNVQ,c.l.a.m.a.t,'QL/V\.N/V\Q,lat,---,---,---,---,---,,,
 40,8,5,8,"Alba, l. 8",surgere,surgere,|,QVRQVRV,s.u.r.g.e.r.e,'Q/V\R.Q/V\.'R/V\,lat,---,---,---,---,---,,</l>,
