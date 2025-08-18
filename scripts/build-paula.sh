@@ -4,6 +4,7 @@ SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
 echo "Script directory: $SCRIPT_DIR"
 SYLVA_DIR=$HOME/git/syllabic-verse-analysis-code
 cwd=$(pwd)
+ogrversion="101"
 
 echo "Starting with standard corpus"
 
@@ -46,7 +47,7 @@ echo "Write PAULA-XML header"
 python3 $SCRIPT_DIR/ogr-paula-metadata.py $SCRIPT_DIR/../src
 
 echo "Rename grid"
-mv $SCRIPT_DIR/../src/paula/grid $SCRIPT_DIR/../src/paula/ogr100
+mv $SCRIPT_DIR/../src/paula/grid $SCRIPT_DIR/../src/paula/ogr$ogrversion
 
 echo "SylVer corpus"
 
@@ -79,4 +80,4 @@ echo "Write paula-XML header"
 python3 $SCRIPT_DIR/ogr-paula-metadata.py $SCRIPT_DIR/../src-sylver
 
 echo "Rename grid"
-mv $SCRIPT_DIR/../src-sylver/paula/tree $SCRIPT_DIR/../src-sylver/paula/ogrsv100
+mv $SCRIPT_DIR/../src-sylver/paula/tree $SCRIPT_DIR/../src-sylver/paula/ogrsv$ogrversion
