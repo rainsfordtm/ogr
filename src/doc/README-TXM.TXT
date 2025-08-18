@@ -1,6 +1,6 @@
 ###############################################################################
-# Old Gallo-Romance Corpus (OGR), TXM edition, version 1.0
-# © Thomas M. Rainsford, ILR, Universität Stuttgart, 2nd January 2025
+# Old Gallo-Romance Corpus (OGR), TXM edition, version 1.0.1
+# © Thomas M. Rainsford, ILR, Universität Stuttgart, 18th August 2025
 # http://www.ogr-corpus.org
 ###############################################################################
 
@@ -14,7 +14,7 @@ you will need to install TXM version 0.8.0 or higher to use the corpus:
 https://txm.gitpages.huma-num.fr/textometrie/index.html
 
 Once you've installed TXM, install the corpus by clicking on "File > Load"
-and loading the OGR1.txm file included in this archive.
+and loading the OGR101.txm file included in this archive.
 
 *******
 LICENSE
@@ -29,7 +29,7 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 * You must give credit to the author by citing the corpus in the following way:
 	Rainsford, Thomas M. 2025. Old Gallo-Romance Corpus, TXM edition, 
-		version 1.0. Stuttgart: Institut für Linguistik/Romanistik. 
+		version 1.0.1. Stuttgart: Institut für Linguistik/Romanistik. 
 		<http://www.ogr-corpus.org>.
 		
 * You may not use this material for commercial purposes.
