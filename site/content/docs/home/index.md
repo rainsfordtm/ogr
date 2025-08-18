@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2024-12-14
+date: 2025-08-18
 weight: 1
 summary: 'Old Gallo-Romance Corpus (OGR) - Home'
 ---
@@ -21,7 +21,7 @@ I want to...
 
 If you use the OGR corpus, please cite it in the following form:
 
-> Rainsford, Thomas M. 2025. _Old Gallo-Romance Corpus_, version 1.0. Stuttgart: Institut für
+> Rainsford, Thomas M. 2025. _Old Gallo-Romance Corpus_, version 1.0.1 Stuttgart: Institut für
 > Linguistik/Romanistik. \<http://www.ogr-corpus.org\>
 
 The Old Gallo-Romance corpus is distributed under 

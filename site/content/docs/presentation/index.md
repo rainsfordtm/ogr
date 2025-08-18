@@ -1,6 +1,6 @@
 ---
 title: 'Presentation'
-date: 2024-12-17
+date: 2025-08-18
 weight: 2
 summary: Read about the corpus and why it was created
 ---
@@ -144,6 +144,8 @@ The first complete version of the corpus was released in January 2025.
 
 ### Version history
 
++ 18 August 2025 Version 1.0.1 released and website updated.
+    + Corrected bug which annotated clitics as stressed in Old French.
 + 2 January 2025: Version 1.0 released and website updated.
 + 14 June 2022: Website updated to corpus version 0.4.
 + 18 March 2022: Version 0.4 released on GitHub, six further texts added.

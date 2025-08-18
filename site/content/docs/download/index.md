@@ -48,14 +48,14 @@ texts.
 
 __Recommended for simpler, non-phonological queries__
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-txm.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr101/ogr101-txm.zip)
 
 ### 2.1 Installation
 
 1. Download and install TXM 0.8.3 from 
 [https://txm.gitpages.huma-num.fr/textometrie/index.html.](https://txm.gitpages.huma-num.fr/textometrie/index.html)
-1. Unzip the `ogr100-txm.zip` archive to any location on your computer.
-1. In TXM, select `File > Load` and load the file `OGR100.txm` contained in the .zip.
+1. Unzip the `ogr101-txm.zip` archive to any location on your computer.
+1. In TXM, select `File > Load` and load the file `OGR101.txm` contained in the .zip.
 
 ### 2.2 Tips
 
@@ -70,7 +70,7 @@ You can try out some of the sample queries [given here](/docs/sample-queries).
 
 ## 3. ANNIS offline
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-annis.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr101/ogr101-annis.zip)
 
 If you need to use the corpus offline, you can install ANNIS locally. 
 __With the release of ANNIS 4, this is now really easy!__
@@ -78,12 +78,12 @@ __With the release of ANNIS 4, this is now really easy!__
 1. Follow the instructions [here](https://korpling.github.io/ANNIS/4/user-guide/installation/desktop.html)
 to download and run the java app. The app should open automatically in
 your web browser at `localhost:5712`
-1. Unzip the `ogr100-annis.zip` archive to any location on your computer.
-1. In the web app, click on `Administration > Import Corpus` and load the folder `ogr100/relANNIS.zip`. Repeat for `ogrsv100/relANNIS.zip`.
+1. Unzip the `ogr101-annis.zip` archive to any location on your computer.
+1. In the web app, click on `Administration > Import Corpus` and load the folder `ogr101/relANNIS.zip`. Repeat for `ogrsv101/relANNIS.zip`.
 
 ## 4. XML-TEI P5
 
-[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr100/ogr100-tei.zip)
+[__Click here to download corpus.__](https://github.com/rainsfordtm/ogr/releases/download/ogr101/ogr101-tei.zip)
 
 The TEI P5 archive encodes each text and all annotation in a single TEI-compliant XML
 file. __Lines__, __Words__ and __Segments__ are encoded inline while __Syllables__ are
