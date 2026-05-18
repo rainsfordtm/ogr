@@ -2097,7 +2097,7 @@ wd_id,line_id,line_wd,dipl,word,phon,phon_map,syllabified,wd_div,lang,textlineid
 2096,265,7,pur,pur,pur,p.u.r,p/u\r,_,fro,266,PRE,---,pour,DMF,pour,"Alexis, l. 266",,
 2097,265,8,bricun,bricun,brikOn,b.r.i.c.u.n,br/i\.'k/O\n,.|,fro,266,NOMcom,smr,bricon,DMF,bricon,"Alexis, l. 266",</l>,
 2098,266,1,l,l,L,l,L/\,+,fro,267,DETdef,sfr,le,DMF,le,"Alexis, l. 267",,<lb/><l n=&quot;267&quot;>
-2099,266,2,egua,egua,æguə,e.g.u.a,'/æ\.gu/(ə)\,_,fro,267,NOMcom,sfr,eau,DMF,eau,"Alexis, l. 267",,
+2099,266,2,egua,egua,æguə,e.g.u.a,'/æ\.gu/(ə)\,_,fro,267,NOMcom,sfr,aigue,DMF,aigue,"Alexis, l. 267",,
 2100,266,3,li,li,Li,l.i,L/i\,+,fro,267,PRCper,3smi,li,DMF,li,"Alexis, l. 267",,
 2101,266,4,getent,getent,ʤɛtəNT,g.e.t.e.n.t,'ʤ/ɛ\.t/ə\NT,_,fro,267,VERcjg,indpst6,jeter,DMF,jeter,"Alexis, l. 267",,
 2102,266,5,si,si,Si,s.i,S/i\,+,fro,267,ADVgen,---,si4,DMF,si4,"Alexis, l. 267",,
