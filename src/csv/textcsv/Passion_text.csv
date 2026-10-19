@@ -1,4 +1,4 @@
-id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,syntag,syntag2,lang,lemma,lemma_src,lemma_dmf,pos,morph,ref,tei_right,tei_left
+wd_id,line_id,linewd,dipl,word,phon,phon_map,syllabified,wd_div,textlineid,syntag,syntag2,lang,lemma,lemma_src,lemma_dmf,pos,morph,ref,tei_right,tei_left
 1,1,1,Hora,hora,orə,ho.r.a,'/o\.r/(ə)\,_,1,Adv,Adv,fro,or2,DMF,or2,ADVgen,---,"Passion, l. 1",,<text><body xml:lang=&quot;fro&quot;><pb n=&quot;109v&quot;/><cb n=&quot;a&quot;/><lb/><lg n=&quot;1&quot; type=&quot;stanza&quot; met=&quot;octosyllable&quot; rhyme=&quot;aabb&quot;><l n=&quot;1&quot;>
 2,1,2,uos,vos,voS,v.o.s,v/o\S,_,1,Prn,Prn$$,fro,vous,DMF,vous,PRCper,5pmr,"Passion, l. 1",,
 3,1,3,dic,dic,diK,d.i.c,d/i\K,_,1,Vfin,Vfin,fro,dire,DMF,dire,VERcjg,indpst1,"Passion, l. 1",,
